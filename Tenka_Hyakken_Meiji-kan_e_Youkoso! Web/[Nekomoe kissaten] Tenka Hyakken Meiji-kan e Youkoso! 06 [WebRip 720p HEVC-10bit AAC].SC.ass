@@ -1,0 +1,92 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Tenka Hyakken Meiji-kan e Youkoso! 06.SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-JP,FOT-TelopMin ProN E,50,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-CN,FZDaBiaoSong-B06,38,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,95,0,0,1,2,0,8,10,10,25,1
+Style: Staff,FZDaBiaoSong-B06,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,25,1
+Style: Name,HYShangWeiShouShuW,48,&H00000000,&H000000FF,&H00000000,&H0092ACB6,0,0,0,0,100,100,0,0,1,0,1,6,10,10,15,1
+Style: Screen,@FZDaBiaoSong-B06,35,&H00FFFFFF,&H00000000,&H001921E3,&H00C4E0F2,0,0,0,0,100,100,0,-90,1,2,0,8,10,10,15,1
+Style: Screen2,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen3,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:00.10,0:00:03.10,Staff,,0,0,0,,{\fad(500,500)\blur3}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:03.15,0:00:06.15,Staff,,0,0,0,,{\fad(500,500)\blur3}翻译：Hmiku　校对：K　后期：MIR　繁化：風風
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TEXT
+Dialogue: 0,0:00:01.61,0:00:05.53,Default,,0,0,0,,{\frz-90\fn@FZZhunYuan-M02\c&H0E8BFD&\3c&HB5EEF9&\pos(19,650)}委托
+Dialogue: 0,0:00:01.76,0:00:04.96,Default,,0,0,0,,像拔丸这样的巫剑们 会完成各式各样的委托
+Dialogue: 0,0:00:05.07,0:00:06.00,Default,,0,0,0,,来了啊
+Dialogue: 0,0:00:06.15,0:00:08.29,Default,,0,0,0,,那是什么 点心吗
+Dialogue: 0,0:00:08.72,0:00:10.55,Default,,0,0,0,,牛王新做的药
+Dialogue: 0,0:00:10.77,0:00:12.05,Default,,0,0,0,,是给白痴吃的药
+Dialogue: 0,0:00:08.28,0:00:13.08,Default,,0,0,20,,{\an8}给（拔丸）吃的药
+Dialogue: 0,0:00:12.27,0:00:13.00,Default,,0,0,0,,好厉害
+Dialogue: 0,0:00:13.23,0:00:15.42,Default,,0,0,0,,虽然不知道对笨蛋有没有效
+Dialogue: 0,0:00:16.03,0:00:18.57,Default,,0,0,0,,毕竟俗话说 笨蛋是无药可治的呢
+Dialogue: 0,0:00:18.98,0:00:20.00,Default,,0,0,0,,白痴
+Dialogue: 0,0:00:38.71,0:00:39.67,Default,,0,0,0,,结束了吗
+Dialogue: 0,0:00:39.87,0:00:41.76,Default,,0,0,0,,这就是所谓大人的原因
+Dialogue: 0,0:00:42.22,0:00:44.20,Default,,0,0,0,,拔丸要是没有大意的话…
+Dialogue: 0,0:00:49.32,0:00:52.36,Default,,0,0,0,,你们俩没事吧…看来是不可能了
+Dialogue: 0,0:00:53.30,0:00:55.89,Default,,0,0,0,,牛王她们又都出门做委托了
+Dialogue: 0,0:01:03.13,0:01:05.14,Default,,0,0,0,,我得做点什么
+Dialogue: 0,0:01:05.97,0:01:07.79,Default,,0,0,0,,这个时候 就应该
+Dialogue: 0,0:01:08.42,0:01:10.43,Default,,0,0,0,,我记得牛王好像会这么做
+Dialogue: 0,0:01:10.56,0:01:11.74,Default,,0,0,0,,好
+Dialogue: 0,0:01:28.13,0:01:30.28,Default,,0,0,0,,透姐 小贯
+Dialogue: 0,0:01:46.49,0:01:47.53,Default,,0,0,0,,之后是
+Dialogue: 0,0:01:49.36,0:01:51.33,Default,,0,0,0,,蜂蜜 蜂蜜
+Dialogue: 0,0:01:53.22,0:01:55.97,Screen,,0,0,0,,{\pos(1061,353)}庖丁三姐妹 「匆忙的每日」
+Dialogue: 0,0:01:53.77,0:01:54.51,Default,,0,0,0,,好烫
+Dialogue: 0,0:02:10.32,0:02:11.41,Default,,0,0,0,,快点 快点
+Dialogue: 0,0:02:17.12,0:02:18.05,Default,,0,0,0,,醒了啊
+Dialogue: 0,0:02:19.32,0:02:20.33,Default,,0,0,0,,怎么了
+Dialogue: 0,0:02:22.04,0:02:22.60,Default,,0,0,0,,咦
+Dialogue: 0,0:02:23.37,0:02:24.93,Default,,0,0,0,,看来已经没事了呢
+Dialogue: 0,0:02:25.34,0:02:27.63,Default,,0,0,0,,已经没事了
+Dialogue: 0,0:02:28.04,0:02:30.24,Default,,0,0,0,,好像小庖也操了很多心呢
+Dialogue: 0,0:02:30.93,0:02:31.77,Default,,650,0,0,,小庖
+Dialogue: 0,0:02:31.38,0:02:32.29,Default,,0,650,0,,庖姐
+Dialogue: 0,0:02:33.57,0:02:35.63,Default,,0,0,0,,看来她为你们做了很多事呢
+Dialogue: 0,0:02:36.39,0:02:38.28,Default,,0,0,0,,好好地照顾了你们呢
+Dialogue: 0,0:02:39.84,0:02:40.94,Default,,0,0,0,,谢谢啦
+Dialogue: 0,0:02:45.93,0:02:47.96,Default,,0,0,0,,已经没事了吗
+Dialogue: 0,0:02:48.16,0:02:51.40,Default,,0,0,0,,是的 托你的福 正是如此
+Dialogue: 0,0:02:52.56,0:02:53.76,Default,,0,0,0,,太好了
+Dialogue: 0,0:02:54.27,0:02:55.61,Default,,0,0,0,,多亏了小庖哦
+Dialogue: 0,0:02:56.23,0:02:58.66,Default,,0,0,0,,但我也没做什么了不起的事
+Dialogue: 0,0:02:59.40,0:03:03.16,Default,,0,0,0,,用心照料比吃药的疗效更好
+Dialogue: 0,0:03:03.66,0:03:05.87,Default,,0,0,0,,我一直这样坚信着
+Dialogue: 0,0:03:06.86,0:03:08.26,Default,,0,0,0,,干得不错 小庖
+Dialogue: 0,0:03:08.88,0:03:11.26,Default,,0,0,0,,下次我出门的时候就拜托你了
+Dialogue: 0,0:03:12.30,0:03:13.00,Default,,0,0,0,,OK
+Dialogue: 0,0:03:23.53,0:03:25.22,Default,,0,0,0,,大家都是好孩子啊
+Dialogue: 0,0:03:25.42,0:03:26.92,Default,,0,0,0,,拔丸也是好孩子
+Dialogue: 0,0:03:27.05,0:03:28.58,Default,,0,0,0,,白痴
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:21.96,0:00:24.38,OP-JP,,0,0,0,,{\fad(200,200)\blur5}これは愛情友情それ以上
+Dialogue: 0,0:00:24.42,0:00:27.47,OP-JP,,0,0,0,,{\fad(200,200)\blur5}絆 I KNOW YOU KNOW 強くなってる
+Dialogue: 0,0:00:27.63,0:00:30.13,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ララララララララ
+Dialogue: 0,0:00:30.13,0:00:32.30,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ほんとにそれだけ
+Dialogue: 0,0:00:32.30,0:00:34.17,OP-JP,,0,0,0,,{\fad(200,200)\blur5}めぐる懊悩煩悶こえても
+Dialogue: 0,0:00:34.28,0:00:37.32,OP-JP,,0,0,0,,{\fad(200,200)\blur5}揺れる感情反応どうしたらいい
+Dialogue: 0,0:00:37.55,0:00:38.23,OP-JP,,0,0,0,,{\fad(200,0)\blur5}ララ
+Dialogue: 0,0:00:21.96,0:00:24.38,OP-CN,,0,0,0,,{\fad(200,200)\blur5}这超越了爱情和友情
+Dialogue: 0,0:00:24.42,0:00:27.47,OP-CN,,0,0,0,,{\fad(200,200)\blur5}你我都知道羁绊变得更强
+Dialogue: 0,0:00:27.63,0:00:30.13,OP-CN,,0,0,0,,{\fad(200,200)\blur5}啦啦啦啦啦啦啦啦
+Dialogue: 0,0:00:30.13,0:00:32.30,OP-CN,,0,0,0,,{\fad(200,200)\blur5}真的就只是那样吗
+Dialogue: 0,0:00:32.30,0:00:34.17,OP-CN,,0,0,0,,{\fad(200,200)\blur5}即使超越了循环的懊恼烦闷
+Dialogue: 0,0:00:34.28,0:00:37.32,OP-CN,,0,0,0,,{\fad(200,200)\blur5}动摇的情感反应该如何是好
+Dialogue: 0,0:00:37.55,0:00:38.06,OP-CN,,0,0,0,,{\fad(200,0)\blur5}啦啦
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

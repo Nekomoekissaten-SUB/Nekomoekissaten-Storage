@@ -1,0 +1,93 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Tenka Hyakken Meiji-kan e Youkoso! 07.SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-JP,FOT-TelopMin ProN E,50,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-CN,FZDaBiaoSong-B06,38,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,95,0,0,1,2,0,8,10,10,25,1
+Style: Staff,FZDaBiaoSong-B06,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,25,1
+Style: Name,HYShangWeiShouShuW,48,&H00000000,&H000000FF,&H00000000,&H0092ACB6,0,0,0,0,100,100,0,0,1,0,1,6,10,10,15,1
+Style: Screen,@FZDaBiaoSong-B06,35,&H00FFFFFF,&H00000000,&H001921E3,&H00C4E0F2,0,0,0,0,100,100,0,-90,1,2,0,8,10,10,15,1
+Style: Screen2,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen3,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:00.10,0:00:03.10,Staff,,0,0,0,,{\fad(500,500)\blur3}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:03.15,0:00:06.15,Staff,,0,0,0,,{\fad(500,500)\blur3}翻译：Hmiku　校对：K　后期：MIR　繁化：風風
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TEXT
+Dialogue: 0,0:00:03.81,0:00:08.27,Default,,0,0,0,,观察方是不是平时会收集一些巫剑们的情报
+Dialogue: 0,0:00:08.77,0:00:10.92,Default,,0,0,0,,说不定连一些小秘密都能知道呢
+Dialogue: 0,0:00:11.32,0:00:12.20,Default,,0,0,0,,秘密？
+Dialogue: 0,0:00:12.75,0:00:15.78,Default,,0,0,0,,巫剑们这样那样的形态
+Dialogue: 0,0:00:17.00,0:00:19.81,Default,,0,0,0,,喂 你们乱想什么呢
+Dialogue: 0,0:00:32.14,0:00:33.28,Default,,0,0,0,,到此为止了吗
+Dialogue: 0,0:00:33.86,0:00:35.96,Default,,0,0,0,,是啊 就到这儿吧
+Dialogue: 0,0:00:36.73,0:00:38.53,Default,,0,0,0,,明明不用摆架子的说
+Dialogue: 0,0:00:40.72,0:00:41.38,Default,,0,0,0,,拜托你了
+Dialogue: 0,0:00:43.99,0:00:45.26,Default,,0,0,0,,真吵啊
+Dialogue: 0,0:00:47.40,0:00:48.82,Default,,0,0,0,,好痛 痛
+Dialogue: 0,0:00:48.82,0:00:50.89,Default,,0,0,0,,你在做什么 拔丸
+Dialogue: 0,0:00:51.45,0:00:52.54,Default,,0,0,0,,小乌丸大人
+Dialogue: 0,0:00:55.56,0:00:58.40,Default,,0,0,0,,她们非要跟我一起玩
+Dialogue: 0,0:00:58.58,0:01:01.13,Default,,0,0,0,,快点接着玩呀
+Dialogue: 0,0:01:01.13,0:01:01.64,Default,,0,0,0,,看吧
+Dialogue: 0,0:01:02.54,0:01:04.00,Default,,0,0,0,,到底在做什么啊
+Dialogue: 0,0:01:06.02,0:01:07.32,Default,,0,0,0,,怎么了
+Dialogue: 0,0:01:08.07,0:01:10.13,Default,,0,0,0,,难道是情书？
+Dialogue: 0,0:01:10.39,0:01:11.60,Default,,0,0,0,,怎么可能
+Dialogue: 0,0:01:12.07,0:01:13.53,Default,,0,0,0,,被骂了
+Dialogue: 0,0:01:13.78,0:01:16.58,Default,,0,0,0,,过去的事多想也没用
+Dialogue: 0,0:01:17.03,0:01:20.43,Default,,0,0,0,,没错 拔丸已经习惯被骂了
+Dialogue: 0,0:01:22.18,0:01:25.49,Default,,0,0,0,,说起来 拔丸是忍者吧
+Dialogue: 0,0:01:26.33,0:01:28.17,Default,,0,0,0,,会使用忍术吗
+Dialogue: 0,0:01:28.98,0:01:30.54,Default,,0,0,0,,当 当然啦
+Dialogue: 0,0:01:31.07,0:01:32.97,Default,,0,0,0,,那就给我们看看吧
+Dialogue: 0,0:01:33.13,0:01:35.76,Default,,0,0,0,,拔丸的忍术能力
+Dialogue: 0,0:01:33.70,0:01:35.95,Screen3,,0,0,0,,{\b1\bord3\fs70\2a&HFF&\fnHYShangWeiShouShuW\c&H141821&\ko23\3c&HD694FB&\blur2\pos(641,396)}让{\ko23}我{\ko23}们{\ko23}见{\ko23}识{\ko23}一{\ko23}下
+Dialogue: 0,0:01:36.04,0:01:37.80,Default,,0,0,0,,真 真拿你们没办法
+Dialogue: 0,0:01:38.62,0:01:42.62,Default,,0,0,0,,那么拔丸要藏起来了 来试试找到并抓住我吧
+Dialogue: 0,0:01:42.79,0:01:43.69,Default,,0,0,0,,忍法
+Dialogue: 0,0:01:52.27,0:01:53.72,Default,,0,0,0,,咦 不见了
+Dialogue: 0,0:01:54.07,0:01:55.82,Default,,0,0,0,,好 去找吧
+Dialogue: 0,0:01:55.90,0:01:57.42,Default,,0,0,0,,刚才的到底是什么
+Dialogue: 0,0:01:57.93,0:02:00.93,Screen,,0,0,0,,{\pos(1062.857,357.714)}庖丁三姐妹「一定要抓到你」
+Dialogue: 0,0:02:03.51,0:02:05.30,Default,,0,0,0,,与墙化为一体的拔丸
+Dialogue: 0,0:02:05.69,0:02:07.46,Default,,0,0,0,,如此完美的伪装
+Dialogue: 0,0:02:07.81,0:02:09.68,Default,,0,0,0,,拔丸都有些害怕自己了
+Dialogue: 0,0:02:12.01,0:02:13.53,Default,,0,0,0,,什么
+Dialogue: 0,0:02:14.04,0:02:15.20,Default,,0,0,0,,找到你了
+Dialogue: 0,0:02:20.28,0:02:21.91,Default,,0,0,0,,还没有抓到哦
+Dialogue: 0,0:02:21.96,0:02:22.96,Default,,0,0,0,,太狡猾了
+Dialogue: 0,0:02:22.96,0:02:25.96,Screen,,0,0,0,,{\fs32\pos(1074.286,345.829)}庖丁三姐妹「一定要抓到你（迫真）」
+Dialogue: 0,0:02:33.74,0:02:35.51,Default,,0,0,0,,站住
+Dialogue: 0,0:02:36.57,0:02:40.27,Default,,0,0,0,,能到得了这儿的话 就来抓我呀
+Dialogue: 0,0:02:40.27,0:02:41.35,Default,,0,0,0,,什么
+Dialogue: 0,0:02:41.52,0:02:43.53,Default,,0,0,0,,站住 站住
+Dialogue: 0,0:02:45.17,0:02:49.50,Default,,0,0,0,,拔丸是 一定 不会 被抓住的
+Dialogue: 0,0:02:56.04,0:02:58.12,Default,,0,0,0,,拔丸 觉悟吧
+Dialogue: 0,0:02:58.69,0:03:00.06,Default,,0,0,0,,你已经无路可逃了
+Dialogue: 0,0:03:01.19,0:03:02.53,Default,,0,0,0,,被逼到绝境了吗
+Dialogue: 0,0:03:03.20,0:03:07.87,Default,,0,0,0,,你们 到底在干什么啊
+Dialogue: 0,0:03:08.85,0:03:10.64,Default,,0,0,0,,这里先暂时撤退吧
+Dialogue: 0,0:03:10.84,0:03:11.67,Default,,0,0,0,,好 好的
+Dialogue: 0,0:03:14.81,0:03:17.08,Default,,0,0,0,,给我站住
+Dialogue: 0,0:03:26.01,0:03:28.10,Default,,0,0,0,,今天的营业可怎么办啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:21.96,0:00:24.38,OP-JP,,0,0,0,,{\fad(200,200)\blur5}これは愛情友情それ以上
+Dialogue: 0,0:00:24.42,0:00:27.47,OP-JP,,0,0,0,,{\fad(200,200)\blur5}絆 I KNOW YOU KNOW 強くなってる
+Dialogue: 0,0:00:27.63,0:00:30.13,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ララララララララ
+Dialogue: 0,0:00:30.13,0:00:30.97,OP-JP,,0,0,0,,{\fad(200,0)\blur5}ほんとに
+Dialogue: 0,0:00:21.96,0:00:24.38,OP-CN,,0,0,0,,{\fad(200,200)\blur5}这超越了爱情和友情
+Dialogue: 0,0:00:24.42,0:00:27.47,OP-CN,,0,0,0,,{\fad(200,200)\blur5}你我都知道羁绊变得更强
+Dialogue: 0,0:00:27.63,0:00:30.13,OP-CN,,0,0,0,,{\fad(200,200)\blur5}啦啦啦啦啦啦啦啦
+Dialogue: 0,0:00:30.13,0:00:30.80,OP-CN,,0,0,0,,{\fad(200,0)\blur5}真的就
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
