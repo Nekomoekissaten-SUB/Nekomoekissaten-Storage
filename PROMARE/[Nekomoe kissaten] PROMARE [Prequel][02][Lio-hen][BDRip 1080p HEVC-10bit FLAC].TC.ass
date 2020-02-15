@@ -1,0 +1,196 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] PROMARE [Prequel][02][Lio-hen][BDRip 1080p HEVC-10bit FLAC].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingHei-DB-BIG5,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Ruby,AvenirNextW1G-Demi,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: STAFF,FZLanTingHei-B-BIG5,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Insert-Latin,AvenirNextW1G-DemiItalic,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,10,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:12.03,0:00:18.00,STAFF,,0,0,0,,{\fad(1500,1500)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻校：Dysonsphere　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:27.23,0:00:29.45,Default,,0,0,0,,來了來了
+Dialogue: 0,0:00:29.59,0:00:31.36,Default,,0,0,0,,勢不可擋
+Dialogue: 0,0:00:31.96,0:00:34.26,Default,,0,0,0,,今日也旺盛燃燒
+Dialogue: 0,0:00:37.72,0:00:38.62,Default,,0,0,0,,我們走
+Dialogue: 0,0:00:38.91,0:00:40.75,Default,,0,0,0,,狂燃族
+Dialogue: 0,0:00:42.49,0:00:45.71,Default,,0,0,0,,我們的火焰最棒了
+Dialogue: 0,0:00:45.71,0:00:48.09,Default,,0,0,0,,最棒了
+Dialogue: 0,0:00:48.09,0:00:50.54,Default,,0,0,0,,最棒了
+Dialogue: 0,0:01:01.17,0:01:02.90,Default,,0,0,0,,我們是狂燃族
+Dialogue: 0,0:01:03.33,0:01:06.08,Default,,0,0,0,,人見人怕的暴走烈焰車
+Dialogue: 0,0:01:06.68,0:01:07.84,Default,,0,0,0,,燃燒吧
+Dialogue: 0,0:01:08.10,0:01:10.35,Default,,0,0,0,,全都燒得一乾二淨
+Dialogue: 0,0:01:12.34,0:01:15.03,Default,,0,0,0,,祭火盛典開幕了
+Dialogue: 0,0:01:15.03,0:01:16.22,Default,,0,0,0,,著火了著火了
+Dialogue: 0,0:01:16.22,0:01:17.62,Default,,0,0,0,,是狂燃族
+Dialogue: 0,0:01:17.62,0:01:18.67,Default,,0,0,0,,要被燒了
+Dialogue: 0,0:01:18.67,0:01:19.97,Default,,0,0,0,,走你
+Dialogue: 0,0:01:20.15,0:01:21.17,Default,,0,0,0,,受夠這種祭典了
+Dialogue: 0,0:01:23.97,0:01:25.57,Default,,0,0,0,,玩得挺大啊 坎羅
+Dialogue: 0,0:01:23.97,0:01:25.57,Ruby,,0,0,0,,{\pos(748,660)}Gueira
+Dialogue: 0,0:01:26.06,0:01:29.49,Default,,0,0,0,,還是燒大的舒服啊
+Dialogue: 0,0:01:31.72,0:01:34.16,Default,,0,0,0,,梅斯 麻煩的傢伙來了
+Dialogue: 0,0:01:31.72,0:01:34.16,Ruby,,0,0,0,,{\pos(491,660)}Meis
+Dialogue: 0,0:01:34.48,0:01:35.69,Default,,0,0,0,,烈焰急救隊嗎
+Dialogue: 0,0:01:36.22,0:01:37.75,Default,,0,0,0,,差不多該溜了吧
+Dialogue: 0,0:01:38.35,0:01:40.13,Default,,0,0,0,,直接走有點無聊
+Dialogue: 0,0:01:40.47,0:01:41.99,Default,,0,0,0,,稍微逗逗他們吧
+Dialogue: 0,0:01:42.34,0:01:43.33,Default,,0,0,0,,知道了
+Dialogue: 0,0:01:43.78,0:01:46.19,Default,,0,0,0,,你們先回去吧
+Dialogue: 0,0:01:47.08,0:01:49.04,Default,,0,0,0,,我們是烈焰急救隊
+Dialogue: 0,0:01:49.66,0:01:50.73,Default,,0,0,0,,現在已經安全了
+Dialogue: 0,0:01:51.11,0:01:53.62,Default,,0,0,0,,請秩序進入艙內
+Dialogue: 0,0:02:00.59,0:02:01.87,Default,,0,0,0,,狂燃族嗎
+Dialogue: 0,0:02:02.14,0:02:03.47,Default,,0,0,0,,正是
+Dialogue: 0,0:02:03.77,0:02:06.84,Default,,0,0,0,,我們的火焰是最棒的吧
+Dialogue: 0,0:02:07.00,0:02:09.36,Default,,0,0,0,,燃族火焰勢不可擋
+Dialogue: 0,0:02:09.68,0:02:11.13,Default,,0,0,0,,儘管掙扎吧
+Dialogue: 0,0:02:11.26,0:02:12.82,Default,,0,0,0,,消防員小哥
+Dialogue: 0,0:02:19.29,0:02:20.22,Default,,0,0,0,,振作
+Dialogue: 0,0:02:20.27,0:02:21.37,Default,,0,0,0,,已經沒事了
+Dialogue: 0,0:02:21.48,0:02:21.89,Default,,0,0,0,,喂
+Dialogue: 0,0:02:22.31,0:02:22.72,Default,,0,0,0,,喂
+Dialogue: 0,0:02:46.86,0:02:49.90,Default,,0,0,0,,不會讓你們對燃族動手的
+Dialogue: 0,0:02:49.90,0:02:51.01,Default,,0,0,0,,給我記好了
+Dialogue: 0,0:02:55.82,0:02:57.26,Default,,0,0,0,,那什麼東西
+Dialogue: 0,0:02:57.60,0:02:59.12,Default,,0,0,0,,那是狂燃族
+Dialogue: 0,0:02:59.72,0:03:00.91,Default,,0,0,0,,狂燃族?
+Dialogue: 0,0:03:06.14,0:03:07.23,Default,,0,0,0,,你們是?
+Dialogue: 0,0:03:07.67,0:03:08.80,Default,,0,0,0,,別擔心
+Dialogue: 0,0:03:09.11,0:03:09.91,Default,,0,0,0,,是同伴
+Dialogue: 0,0:03:12.30,0:03:13.36,Default,,0,0,0,,來 這邊
+Dialogue: 0,0:03:14.07,0:03:14.70,Default,,0,0,0,,但是
+Dialogue: 0,0:03:16.82,0:03:17.82,Default,,0,0,0,,放心吧
+Dialogue: 0,0:03:18.37,0:03:19.69,Default,,0,0,0,,大家都是燃族
+Dialogue: 0,0:03:20.71,0:03:23.73,Default,,0,0,0,,要是不管的話妳就要被收容了
+Dialogue: 0,0:03:25.24,0:03:29.84,Default,,0,0,0,,政府抓到的燃族都會送去收容
+Dialogue: 0,0:03:30.39,0:03:32.31,Default,,0,0,0,,妳也聽說過吧
+Dialogue: 0,0:03:33.03,0:03:34.20,Default,,0,0,0,,但是我
+Dialogue: 0,0:03:34.44,0:03:36.33,Default,,0,0,0,,一直以來都平凡地生活著
+Dialogue: 0,0:03:37.27,0:03:39.55,Default,,0,0,0,,但是成為了燃族
+Dialogue: 0,0:03:39.79,0:03:40.54,Default,,0,0,0,,騙人
+Dialogue: 0,0:03:40.79,0:03:41.47,Default,,0,0,0,,我要回去
+Dialogue: 0,0:03:41.61,0:03:42.71,Default,,0,0,0,,回到家裡
+Dialogue: 0,0:03:42.93,0:03:43.67,Default,,0,0,0,,求你了
+Dialogue: 0,0:03:45.44,0:03:46.03,Default,,0,0,0,,不要
+Dialogue: 0,0:03:51.33,0:03:52.77,Default,,0,0,0,,冷靜一下
+Dialogue: 0,0:03:53.19,0:03:54.68,Default,,0,0,0,,我們沒事的
+Dialogue: 0,0:03:54.94,0:03:57.01,Default,,0,0,0,,火焰是我們身體的一部分
+Dialogue: 0,0:03:57.29,0:03:59.88,Default,,0,0,0,,燃燒越旺越精神
+Dialogue: 0,0:04:00.50,0:04:02.30,Default,,0,0,0,,妳不也是
+Dialogue: 0,0:04:03.13,0:04:03.94,Default,,0,0,0,,這
+Dialogue: 0,0:04:04.25,0:04:05.16,Default,,0,0,0,,為什麼
+Dialogue: 0,0:04:05.33,0:04:07.33,Default,,0,0,0,,為什麼我會成為燃族
+Dialogue: 0,0:04:07.62,0:04:08.56,Default,,0,0,0,,誰知道
+Dialogue: 0,0:04:08.80,0:04:10.63,Default,,0,0,0,,那些我們也不懂
+Dialogue: 0,0:04:10.81,0:04:13.35,Default,,0,0,0,,某日突然身體冒出火焰
+Dialogue: 0,0:04:13.35,0:04:14.71,Default,,0,0,0,,這就是命運吧
+Dialogue: 0,0:04:15.48,0:04:17.56,Default,,0,0,0,,勸妳還是接受現實
+Dialogue: 0,0:04:18.02,0:04:21.27,Default,,0,0,0,,那加入我們狂燃族如何
+Dialogue: 0,0:04:22.94,0:04:23.58,Default,,0,0,0,,坎羅
+Dialogue: 0,0:04:25.09,0:04:26.52,Default,,0,0,0,,冰凍警備隊嗎
+Dialogue: 0,0:04:25.09,0:04:26.52,Ruby,,0,0,0,,{\pos(619,660)}Freeze Force
+Dialogue: 0,0:04:28.05,0:04:29.63,Default,,0,0,0,,對付燃族的軍隊
+Dialogue: 0,0:04:29.88,0:04:31.88,Default,,0,0,0,,和急救隊不同 很無情
+Dialogue: 0,0:04:32.56,0:04:34.92,Default,,0,0,0,,沒想到能找到這裡
+Dialogue: 0,0:04:35.39,0:04:37.03,Default,,0,0,0,,我們去吸引他們
+Dialogue: 0,0:04:37.46,0:04:39.72,Default,,0,0,0,,你們趁機逃走
+Dialogue: 0,0:04:39.87,0:04:40.42,Default,,0,0,0,,但是
+Dialogue: 0,0:04:40.47,0:04:42.42,Default,,0,0,0,,被抓了就是收容所了
+Dialogue: 0,0:04:42.52,0:04:44.64,Default,,0,0,0,,已經回不到日常了
+Dialogue: 0,0:04:45.47,0:04:46.82,Default,,0,0,0,,做好心理準備吧
+Dialogue: 0,0:04:54.53,0:04:55.95,Default,,0,0,0,,滾開滾開
+Dialogue: 0,0:04:58.05,0:04:58.69,Default,,0,0,0,,好 走吧
+Dialogue: 0,0:05:04.30,0:05:07.14,Default,,0,0,0,,還沒人能跟上我們的速度
+Dialogue: 0,0:05:10.98,0:05:12.30,Default,,0,0,0,,巴爾剛
+Dialogue: 0,0:05:16.79,0:05:19.62,Default,,0,0,0,,想自己做誘餌掩護同伴逃走嗎
+Dialogue: 0,0:05:19.98,0:05:21.57,Default,,0,0,0,,明明是縱火恐怖分子
+Dialogue: 0,0:05:21.65,0:05:23.62,Default,,0,0,0,,想法還不錯
+Dialogue: 0,0:05:23.96,0:05:25.90,Default,,0,0,0,,不過都是小聰明
+Dialogue: 0,0:05:26.24,0:05:28.94,Default,,0,0,0,,你的同伴們已經抓到了
+Dialogue: 0,0:05:35.37,0:05:37.80,Default,,0,0,0,,你就是冰凍警備隊的頭嗎
+Dialogue: 0,0:05:38.51,0:05:40.51,Default,,0,0,0,,是的話怎樣
+Dialogue: 0,0:05:40.75,0:05:42.03,Default,,0,0,0,,還用說
+Dialogue: 0,0:05:42.42,0:05:46.71,Default,,0,0,0,,把你打倒救出同伴啊
+Dialogue: 0,0:05:48.56,0:05:49.07,Default,,0,0,0,,什麼
+Dialogue: 0,0:05:49.31,0:05:49.97,Default,,0,0,0,,不是吧
+Dialogue: 0,0:05:50.59,0:05:53.16,Default,,0,0,0,,小燃族還挺囂張
+Dialogue: 0,0:05:53.39,0:05:54.53,Default,,0,0,0,,混蛋
+Dialogue: 0,0:05:57.27,0:05:57.88,Default,,0,0,0,,不許動
+Dialogue: 0,0:05:58.52,0:06:01.68,Default,,0,0,0,,不然你們首領就粉碎了
+Dialogue: 0,0:06:02.25,0:06:03.70,Default,,0,0,0,,全員逮捕
+Dialogue: 0,0:06:31.97,0:06:33.41,Default,,0,0,0,,混蛋
+Dialogue: 0,0:06:51.50,0:06:51.91,Default,,0,0,0,,快走
+Dialogue: 0,0:06:52.44,0:06:53.66,Default,,0,0,0,,你是誰
+Dialogue: 0,0:06:54.15,0:06:55.69,Default,,0,0,0,,真囂張
+Dialogue: 0,0:06:55.83,0:06:57.50,Default,,0,0,0,,全部消滅
+Dialogue: 0,0:07:02.03,0:07:06.02,Default,,0,0,0,,得手了 輪到我們的回合了
+Dialogue: 0,0:07:07.98,0:07:10.12,Default,,0,0,0,,你這傢伙在幹什麼
+Dialogue: 0,0:07:10.42,0:07:11.53,Default,,0,0,0,,不要殺人
+Dialogue: 0,0:07:12.50,0:07:14.05,Default,,0,0,0,,燃族不會殺生
+Dialogue: 0,0:07:21.48,0:07:21.94,Default,,0,0,0,,走吧
+Dialogue: 0,0:07:23.49,0:07:24.47,Default,,0,0,0,,知道了
+Dialogue: 0,0:07:33.12,0:07:35.45,Default,,0,0,0,,那小屁孩竟小看我
+Dialogue: 0,0:07:37.60,0:07:39.02,Default,,0,0,0,,為什麼阻止我
+Dialogue: 0,0:07:39.66,0:07:43.23,Default,,0,0,0,,那可是把冰凍警備隊一網打盡的機會
+Dialogue: 0,0:07:44.08,0:07:45.03,Default,,0,0,0,,不要殺生
+Dialogue: 0,0:07:45.76,0:07:47.75,Default,,0,0,0,,先動手的是他們
+Dialogue: 0,0:07:48.35,0:07:50.89,Default,,0,0,0,,只要是燃族就不由分說地逮捕
+Dialogue: 0,0:07:51.30,0:07:53.76,Default,,0,0,0,,坐視不理就會被小看
+Dialogue: 0,0:07:54.15,0:07:55.27,Default,,0,0,0,,然後呢
+Dialogue: 0,0:07:56.10,0:07:58.26,Default,,0,0,0,,人們會越來越恐懼燃族
+Dialogue: 0,0:07:58.79,0:08:01.05,Default,,0,0,0,,政府組織更強軍隊
+Dialogue: 0,0:08:01.55,0:08:03.37,Default,,0,0,0,,加劇鎮壓燃族
+Dialogue: 0,0:08:04.13,0:08:08.31,Default,,0,0,0,,你們肆意妄為連累了燃族
+Dialogue: 0,0:08:08.51,0:08:09.76,Default,,0,0,0,,那怎麼辦
+Dialogue: 0,0:08:10.63,0:08:12.91,Default,,0,0,0,,燃族自己建立城市
+Dialogue: 0,0:08:13.58,0:08:15.85,Default,,0,0,0,,遠離人類生活
+Dialogue: 0,0:08:15.94,0:08:16.49,Default,,0,0,0,,什麼
+Dialogue: 0,0:08:16.71,0:08:18.37,Default,,0,0,0,,政府會允許嗎
+Dialogue: 0,0:08:19.07,0:08:20.14,Default,,0,0,0,,不允許也無妨
+Dialogue: 0,0:08:22.27,0:08:24.91,Default,,0,0,0,,我們有能力做到
+Dialogue: 0,0:08:25.70,0:08:27.58,Default,,0,0,0,,這火焰這樣使用就好
+Dialogue: 0,0:08:28.79,0:08:31.25,Default,,0,0,0,,關押的同伴也一定救回來
+Dialogue: 0,0:08:32.85,0:08:34.52,Default,,0,0,0,,燃族不殺生
+Dialogue: 0,0:08:35.11,0:08:35.58,Default,,0,0,0,,只會
+Dialogue: 0,0:08:35.97,0:08:38.38,Default,,0,0,0,,全力反抗試圖熄滅我們的人
+Dialogue: 0,0:08:38.99,0:08:41.82,Default,,0,0,0,,無論政府如何行動也絕不罷休
+Dialogue: 0,0:08:42.71,0:08:45.51,Default,,0,0,0,,我們是自強的燃族
+Dialogue: 0,0:08:47.58,0:08:48.31,Default,,0,0,0,,知道了
+Dialogue: 0,0:08:49.20,0:08:51.18,Default,,0,0,0,,以後你就是領袖了
+Dialogue: 0,0:08:51.86,0:08:53.06,Default,,0,0,0,,我是梅斯
+Dialogue: 0,0:08:53.56,0:08:54.32,Default,,0,0,0,,我是坎羅
+Dialogue: 0,0:09:01.99,0:09:04.51,Default,,0,0,0,,你的名字是?
+Dialogue: 0,0:09:05.87,0:09:06.41,Default,,0,0,0,,里歐
+Dialogue: 0,0:09:07.09,0:09:08.09,Default,,0,0,0,,里歐·弗提亞
+Dialogue: 0,0:09:07.09,0:09:08.09,Ruby,,0,0,0,,{\pos(640,660)}Lio Fotia
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert Song “ΛSHES”
+Dialogue: 0,0:03:35.36,0:03:44.58,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}I could hear the signs calling out from the bottom of the fire
+Dialogue: 0,0:03:45.14,0:03:54.68,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}I am like a torch flickering in the wind as the saying goes
+Dialogue: 0,0:03:54.94,0:03:56.93,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Lost all my precious
+Dialogue: 0,0:03:56.93,0:03:59.46,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Rage ate me up
+Dialogue: 0,0:03:59.80,0:04:04.11,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Endless forlornness has made me numb
+Dialogue: 0,0:04:04.25,0:04:09.37,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}I’d rather rise from here
+Dialogue: 0,0:04:09.37,0:04:13.71,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Or should I hold on to my past?
+Dialogue: 0,0:04:13.97,0:04:16.77,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}They’ve burnt to ashes
+Dialogue: 0,0:04:16.77,0:04:18.62,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Faded to grey
+Dialogue: 0,0:04:18.83,0:04:20.91,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Returned to the earth
+Dialogue: 0,0:04:20.91,0:04:23.58,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Yea it’s meant to be
+Dialogue: 0,0:04:23.71,0:04:28.78,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Uncertain flame of hope I found
+Dialogue: 0,0:04:29.03,0:04:33.51,Insert-Latin,,0,0,0,,{\fad(200,200)\blur5}Will you lead me back on the right track?
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert Song “ΛSHES”
+Dialogue: 0,0:09:08.53,0:09:12.78,Insert-Latin,,0,0,0,,{\an3\fad(200,0)\bord0\c&H0022FC&}I could hear the signs calling out from the bottom of the fire
+Dialogue: 0,0:09:12.78,0:09:17.82,Insert-Latin,,0,0,0,,{\an3\fad(0,200)\bord0\c&H000000&}I could hear the signs calling out from the bottom of the fire
+Dialogue: 0,0:09:18.19,0:09:27.76,Insert-Latin,,0,0,0,,{\an3\fad(200,200)\bord0\c&H000000&}I am like a torch flickering in the wind as the saying goes
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

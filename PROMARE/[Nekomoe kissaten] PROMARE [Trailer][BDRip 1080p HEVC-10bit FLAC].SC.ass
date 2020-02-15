@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] PROAMRE [Trailer][BDRip 1080p HEVC-10bit FLAC].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Ruby,AvenirNextW1G-Demi,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: STAFF,HYQiHei-80S,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:57.66,0:01:01.04,STAFF,,0,0,0,,本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻校：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:02.03,0:00:03.94,Default,,0,0,0,,烈焰急救队出动令
+Dialogue: 0,0:00:03.94,0:00:05.85,Default,,0,0,0,,里面是燃族火焰的老巢
+Dialogue: 0,0:00:05.85,0:00:06.73,Default,,0,0,0,,没完没了了
+Dialogue: 0,0:00:06.73,0:00:08.48,Default,,0,0,0,,马上就到了
+Dialogue: 0,0:00:08.60,0:00:09.36,Default,,0,0,0,,垂直投射
+Dialogue: 0,0:00:09.36,0:00:10.19,Default,,0,0,0,,把加罗扔上来
+Dialogue: 0,0:00:10.19,0:00:12.03,Default,,0,0,0,,现场装备
+Dialogue: 0,0:00:12.03,0:00:15.41,Default,,0,0,0,,缠甲
+Dialogue: 0,0:00:19.10,0:00:21.21,Default,,0,0,0,,燃族出现的30年间
+Dialogue: 0,0:00:21.39,0:00:23.59,Default,,0,0,0,,地壳里的岩浆变得不稳定
+Dialogue: 0,0:00:24.08,0:00:25.45,Default,,0,0,0,,不得不燃烧下去
+Dialogue: 0,0:00:25.63,0:00:27.10,Default,,0,0,0,,这就是燃族
+Dialogue: 0,0:00:27.26,0:00:29.43,Default,,0,0,0,,可以燃烧的只有灵魂
+Dialogue: 0,0:00:29.51,0:00:31.59,Default,,0,0,0,,堂堂正正一决胜负
+Dialogue: 0,0:00:32.41,0:00:35.53,Default,,0,0,0,,决一雌雄
+Dialogue: 0,0:00:38.11,0:00:39.81,Default,,0,0,0,,就像你拯救我一样
+Dialogue: 0,0:00:40.03,0:00:41.49,Default,,0,0,0,,我也要保护这城市
+Dialogue: 0,0:00:41.84,0:00:43.88,Default,,0,0,0,,所有人的性命都受到克瑞·福赛特的威胁
+Dialogue: 0,0:00:43.88,0:00:45.20,Default,,0,0,0,,明明都是人类
+Dialogue: 0,0:00:45.20,0:00:46.69,Default,,0,0,0,,我就在这里
+Dialogue: 0,0:00:46.13,0:00:48.72,Default,,0,0,0,,{\an8}消失吧
+Dialogue: 0,0:00:47.77,0:00:49.20,Default,,0,0,0,,全都扑灭吧
+Dialogue: 0,0:00:49.46,0:00:52.71,Default,,0,0,0,,连同你无聊的野心火焰
+Dialogue: 0,0:00:53.97,0:00:59.57,Default,,0,0,0,,我燃烧的消防之魂比你的火焰更热
+Comment: 0,0:00:00.79,0:00:00.79,Default,,0,0,0,,

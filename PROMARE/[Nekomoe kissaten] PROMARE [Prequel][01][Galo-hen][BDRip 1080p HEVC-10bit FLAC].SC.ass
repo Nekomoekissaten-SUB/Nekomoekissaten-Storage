@@ -1,0 +1,191 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] PROMARE [Prequel][01][Galo-hen][BDRip 1080p HEVC-10bit FLAC].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Ruby,AvenirNextW1G-Demi,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: STAFF,HYQiHei-80S,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Insert-Latin,AvenirNextW1G-DemiItalic,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,10,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:12.03,0:00:18.00,STAFF,,0,0,0,,{\fad(1500,1500)}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻校：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:26.40,0:00:29.14,Default,,0,0,0,,瞬间冻结弹发射
+Dialogue: 0,0:00:31.73,0:00:32.94,Default,,0,0,0,,雷米 状况如何
+Dialogue: 0,0:00:31.73,0:00:32.94,Ruby,,0,0,0,,{\pos(552,660)}REMI
+Dialogue: 0,0:00:33.31,0:00:34.67,Default,,0,0,0,,燃族炎燃烧中
+Dialogue: 0,0:00:35.00,0:00:37.07,Default,,0,0,0,,这样下去建筑有倒塌的可能
+Dialogue: 0,0:00:38.43,0:00:40.63,Default,,0,0,0,,巴里斯·托拉斯 急救着装
+Dialogue: 0,0:00:38.43,0:00:40.63,Ruby,,0,0,0,,{\pos(552,660)}VARYS TRUSS
+Dialogue: 0,0:00:44.84,0:00:46.84,Default,,0,0,0,,雷米·蒲古纳 急救着装
+Dialogue: 0,0:00:44.84,0:00:46.84,Ruby,,0,0,0,,{\pos(552,660)}REMI PUGUNA
+Dialogue: 0,0:00:49.18,0:00:49.69,Default,,0,0,0,,突击
+Dialogue: 0,0:01:00.77,0:01:02.84,Default,,0,0,0,,老实点 女孩们
+Dialogue: 0,0:01:07.21,0:01:08.99,Default,,0,0,0,,各位 出口在对面
+Dialogue: 0,0:01:11.06,0:01:11.64,Default,,0,0,0,,巴里斯
+Dialogue: 0,0:01:16.14,0:01:18.10,Default,,0,0,0,,我们是烈焰急救队
+Dialogue: 0,0:01:16.14,0:01:18.10,Ruby,,0,0,0,,{\pos(702,660)}Burning Rescue
+Dialogue: 0,0:01:18.72,0:01:19.71,Default,,0,0,0,,现在已经安全了
+Dialogue: 0,0:01:20.37,0:01:22.71,Default,,0,0,0,,请按秩序进入舱内
+Dialogue: 0,0:01:23.92,0:01:27.38,Default,,0,0,0,,屋顶发现避难市民约十名 前往救援
+Dialogue: 0,0:01:27.87,0:01:30.12,Default,,0,0,0,,了解 请小心
+Dialogue: 0,0:01:32.97,0:01:34.97,Default,,0,0,0,,还不到我出场吗
+Dialogue: 0,0:01:35.56,0:01:36.31,Default,,0,0,0,,新人吗
+Dialogue: 0,0:01:36.76,0:01:38.48,Default,,0,0,0,,今天的安排不是见习吗
+Dialogue: 0,0:01:38.82,0:01:43.01,Default,,0,0,0,,观察分析我们的行动也是一种训练
+Dialogue: 0,0:01:43.32,0:01:44.26,Default,,0,0,0,,但是
+Dialogue: 0,0:01:45.74,0:01:47.36,Default,,0,0,0,,你们怎么这样
+Dialogue: 0,0:01:48.06,0:01:51.77,Default,,0,0,0,,喂 你能不能安静点
+Dialogue: 0,0:01:58.53,0:02:00.07,Default,,0,0,0,,新人吗
+Dialogue: 0,0:02:01.05,0:02:02.77,Default,,0,0,0,,请原谅我的临时安排
+Dialogue: 0,0:02:03.19,0:02:06.04,Default,,0,0,0,,但我认为他能胜任
+Dialogue: 0,0:02:06.52,0:02:08.77,Default,,0,0,0,,据适应性测试报告来说没问题
+Dialogue: 0,0:02:09.13,0:02:10.77,Default,,0,0,0,,但训练时间不足啊
+Dialogue: 0,0:02:11.36,0:02:14.85,Default,,0,0,0,,请求调拨的不是你们吗
+Dialogue: 0,0:02:15.85,0:02:20.67,Default,,0,0,0,,最近自称狂燃族的恐怖分子活动猖獗
+Dialogue: 0,0:02:15.85,0:02:20.67,Ruby,,0,0,0,,{\pos(536,660)}Mad Burnish
+Dialogue: 0,0:02:21.12,0:02:23.25,Default,,0,0,0,,急救队任重而道远
+Dialogue: 0,0:02:23.97,0:02:25.03,Default,,0,0,0,,这孩子挺积极
+Dialogue: 0,0:02:25.36,0:02:28.65,Default,,0,0,0,,不用介意 让他冲锋陷阵便是
+Dialogue: 0,0:02:30.48,0:02:32.20,Default,,0,0,0,,无法拒绝啊
+Dialogue: 0,0:02:32.45,0:02:33.00,Default,,0,0,0,,嗯
+Dialogue: 0,0:02:33.77,0:02:35.57,Default,,0,0,0,,克瑞·福赛特司政官
+Dialogue: 0,0:02:33.77,0:02:35.57,Ruby,,0,0,0,,{\pos(578,660)}KRAY FORESIGHT
+Dialogue: 0,0:02:35.85,0:02:38.98,Default,,0,0,0,,毕竟是普罗米最高指挥亲自任命
+Dialogue: 0,0:02:39.40,0:02:41.15,Default,,0,0,0,,想拒绝也难
+Dialogue: 0,0:02:41.47,0:02:43.77,Default,,0,0,0,,能让他那么推荐
+Dialogue: 0,0:02:44.11,0:02:45.89,Default,,0,0,0,,到底是天才呢
+Dialogue: 0,0:02:46.54,0:02:48.29,Default,,0,0,0,,还是蠢货呢
+Dialogue: 0,0:02:53.83,0:02:55.94,Default,,0,0,0,,加罗·提莫斯
+Dialogue: 0,0:02:53.83,0:02:55.94,Ruby,,0,0,0,,{\pos(640,660)}GALO THYMOS
+Dialogue: 0,0:02:56.18,0:02:58.75,Default,,0,0,0,,目标成为世界第一的消防员
+Dialogue: 0,0:02:59.20,0:03:03.29,Default,,0,0,0,,请 多指教
+Dialogue: 0,0:03:05.26,0:03:06.77,Default,,0,0,0,,是蠢货吧
+Dialogue: 0,0:03:08.65,0:03:11.18,Default,,0,0,0,,那夸张的饰品是啥
+Dialogue: 0,0:03:11.33,0:03:13.40,Default,,0,0,0,,这叫缠
+Dialogue: 0,0:03:13.65,0:03:17.77,Default,,0,0,0,,在以前极东的日本使用的消防队的标志
+Dialogue: 0,0:03:17.87,0:03:18.77,Default,,0,0,0,,消防队？
+Dialogue: 0,0:03:19.04,0:03:21.31,Default,,0,0,0,,以血肉之躯同火灾抗战
+Dialogue: 0,0:03:21.57,0:03:23.57,Default,,0,0,0,,是男人中的男人
+Dialogue: 0,0:03:24.07,0:03:24.82,Default,,0,0,0,,这个吗
+Dialogue: 0,0:03:25.20,0:03:26.30,Default,,0,0,0,,对 就是这个
+Dialogue: 0,0:03:28.11,0:03:31.34,Default,,0,0,0,,燃族火灾就交给我吧
+Dialogue: 0,0:03:33.57,0:03:35.46,Default,,0,0,0,,这东西有什么用
+Dialogue: 0,0:03:36.10,0:03:37.12,Default,,0,0,0,,别说笑了
+Dialogue: 0,0:03:38.16,0:03:40.51,Default,,0,0,0,,意志真脆弱
+Dialogue: 0,0:03:42.57,0:03:44.24,Default,,0,0,0,,对手可是活的火焰
+Dialogue: 0,0:03:44.95,0:03:47.67,Default,,0,0,0,,吊儿郎当地会送命的
+Dialogue: 0,0:03:48.11,0:03:51.44,Default,,0,0,0,,被司政官送来个了不得的家伙
+Dialogue: 0,0:03:51.44,0:03:53.24,Default,,0,0,0,,和克瑞长官无关
+Dialogue: 0,0:03:53.50,0:03:55.07,Default,,0,0,0,,是我央求的
+Dialogue: 0,0:03:56.77,0:03:58.77,Default,,0,0,0,,我被他救过
+Dialogue: 0,0:03:59.33,0:04:01.01,Default,,0,0,0,,所以我也要拯救大家
+Dialogue: 0,0:04:01.51,0:04:02.60,Default,,0,0,0,,通过烈焰急救队
+Dialogue: 0,0:04:06.81,0:04:07.64,Default,,0,0,0,,怎么样
+Dialogue: 0,0:04:07.83,0:04:12.33,Default,,0,0,0,,我的意志不会轻易挫败的
+Dialogue: 0,0:04:14.38,0:04:15.68,Default,,0,0,0,,果然是蠢货
+Dialogue: 0,0:04:17.54,0:04:19.11,Default,,0,0,0,,燃族火情出现
+Dialogue: 0,0:04:19.14,0:04:20.40,Default,,0,0,0,,在D48地区
+Dialogue: 0,0:04:20.94,0:04:23.83,Default,,0,0,0,,烈焰急救队 出动
+Dialogue: 0,0:04:25.33,0:04:26.67,Default,,0,0,0,,你在这待机
+Dialogue: 0,0:04:26.92,0:04:28.53,Default,,0,0,0,,我要现场的实战经验
+Dialogue: 0,0:04:28.61,0:04:30.59,Default,,0,0,0,,这不是我的工作吗
+Dialogue: 0,0:04:30.84,0:04:32.77,Default,,0,0,0,,对外行很危险的
+Dialogue: 0,0:04:33.05,0:04:35.77,Default,,0,0,0,,不经历危险怎么从外行毕业
+Dialogue: 0,0:04:37.64,0:04:38.55,Default,,0,0,0,,跟我来
+Dialogue: 0,0:04:39.02,0:04:41.78,Default,,0,0,0,,但是你要在移动急救室见习
+Dialogue: 0,0:04:42.02,0:04:43.47,Default,,0,0,0,,露琪亚 他交给你了
+Dialogue: 0,0:04:42.02,0:04:43.47,Ruby,,0,0,0,,{\pos(532,660)}LUCIA
+Dialogue: 0,0:04:50.02,0:04:52.77,Default,,0,0,0,,都说了不要甩给我啊
+Dialogue: 0,0:05:02.20,0:05:03.43,Default,,0,0,0,,狂燃族吗
+Dialogue: 0,0:05:03.74,0:05:05.02,Default,,0,0,0,,正是
+Dialogue: 0,0:05:05.33,0:05:08.40,Default,,0,0,0,,我们的火焰是最棒的吧
+Dialogue: 0,0:05:08.58,0:05:10.77,Default,,0,0,0,,燃族火焰势不可挡
+Dialogue: 0,0:05:11.19,0:05:12.75,Default,,0,0,0,,尽管挣扎吧
+Dialogue: 0,0:05:12.82,0:05:14.30,Default,,0,0,0,,消防员小哥
+Dialogue: 0,0:05:20.96,0:05:22.45,Default,,0,0,0,,火势加剧了
+Dialogue: 0,0:05:22.77,0:05:24.09,Default,,0,0,0,,注意警戒
+Dialogue: 0,0:05:25.51,0:05:27.17,Default,,0,0,0,,这有点不妙
+Dialogue: 0,0:05:27.87,0:05:28.41,Default,,0,0,0,,怎么了
+Dialogue: 0,0:05:28.62,0:05:30.94,Default,,0,0,0,,这是三层的药品厂的库存清单
+Dialogue: 0,0:05:31.19,0:05:33.96,Default,,0,0,0,,满满的可燃物
+Dialogue: 0,0:05:34.09,0:05:35.07,Default,,0,0,0,,而且
+Dialogue: 0,0:05:35.77,0:05:36.77,Default,,0,0,0,,没能逃掉吗
+Dialogue: 0,0:05:36.98,0:05:38.35,Default,,0,0,0,,防火门封闭了
+Dialogue: 0,0:05:38.52,0:05:40.41,Default,,0,0,0,,高温导致的误触发吧
+Dialogue: 0,0:05:42.34,0:05:43.61,Default,,0,0,0,,喂 你想怎样
+Dialogue: 0,0:05:44.05,0:05:45.94,Default,,0,0,0,,队长在现场抽不开身
+Dialogue: 0,0:05:46.24,0:05:47.38,Default,,0,0,0,,能行动的只有我了
+Dialogue: 0,0:05:47.61,0:05:50.52,Default,,0,0,0,,但是这没有你的急救装啊
+Dialogue: 0,0:05:52.49,0:05:53.59,Default,,0,0,0,,用防火液
+Dialogue: 0,0:05:53.77,0:05:55.68,Default,,0,0,0,,覆盖一层能撑一会
+Dialogue: 0,0:05:55.84,0:05:57.04,Default,,0,0,0,,蒸发了呢
+Dialogue: 0,0:05:57.24,0:05:58.04,Default,,0,0,0,,再涂一遍
+Dialogue: 0,0:05:58.51,0:06:00.72,Default,,0,0,0,,蠢货想这么干
+Dialogue: 0,0:06:01.65,0:06:02.38,Default,,0,0,0,,试试吧
+Dialogue: 0,0:06:02.77,0:06:03.74,Default,,0,0,0,,队长
+Dialogue: 0,0:06:04.21,0:06:06.12,Default,,0,0,0,,男子汉加罗·提莫斯
+Dialogue: 0,0:06:06.41,0:06:08.68,Default,,0,0,0,,烈焰急救队首次任务
+Dialogue: 0,0:06:08.92,0:06:10.77,Default,,0,0,0,,烈焰退散
+Dialogue: 0,0:06:37.60,0:06:38.71,Default,,0,0,0,,别小瞧我
+Dialogue: 0,0:06:40.94,0:06:45.95,Default,,0,0,0,,就知道会这样 缠上也涂得满满的
+Dialogue: 0,0:06:48.70,0:06:51.43,Default,,0,0,0,,艾娜 去接应三楼的加罗
+Dialogue: 0,0:06:48.70,0:06:51.43,Ruby,,0,0,0,,{\pos(470,660)}AINA
+Dialogue: 0,0:06:56.87,0:06:57.72,Default,,0,0,0,,没事吗
+Dialogue: 0,0:07:00.06,0:07:00.61,Default,,0,0,0,,嗯
+Dialogue: 0,0:07:00.77,0:07:02.15,Default,,0,0,0,,好 马上带你出去
+Dialogue: 0,0:07:04.31,0:07:05.21,Default,,0,0,0,,好
+Dialogue: 0,0:07:06.37,0:07:07.14,Default,,0,0,0,,不妙
+Dialogue: 0,0:07:26.45,0:07:27.17,Default,,0,0,0,,队长
+Dialogue: 0,0:07:27.47,0:07:29.13,Default,,0,0,0,,救助完成
+Dialogue: 0,0:07:31.06,0:07:33.26,Default,,0,0,0,,{\an8}烫烫烫烫烫
+Dialogue: 0,0:07:32.11,0:07:32.77,Default,,0,0,0,,了解
+Dialogue: 0,0:07:33.33,0:07:34.34,Default,,0,0,0,,辛苦了
+Dialogue: 0,0:07:35.09,0:07:37.26,Default,,0,0,0,,初战干得不错嘛
+Dialogue: 0,0:07:37.58,0:07:38.78,Default,,0,0,0,,根据露琪亚的计算
+Dialogue: 0,0:07:38.93,0:07:42.62,Default,,0,0,0,,他的计划生存率最高
+Dialogue: 0,0:07:43.02,0:07:44.31,Default,,0,0,0,,所以让他去了
+Dialogue: 0,0:07:44.96,0:07:46.77,Default,,0,0,0,,是这样吧 队长
+Dialogue: 0,0:07:47.26,0:07:47.93,Default,,0,0,0,,嗯
+Dialogue: 0,0:07:49.22,0:07:50.64,Default,,0,0,0,,真是乱来
+Dialogue: 0,0:07:51.69,0:07:52.68,Default,,0,0,0,,有趣
+Dialogue: 0,0:07:55.44,0:07:56.37,Default,,0,0,0,,振作
+Dialogue: 0,0:07:56.52,0:07:57.51,Default,,0,0,0,,已经没事了
+Dialogue: 0,0:07:57.93,0:07:58.24,Default,,0,0,0,,喂
+Dialogue: 0,0:07:58.72,0:07:59.14,Default,,0,0,0,,喂
+Dialogue: 0,0:08:09.12,0:08:09.61,Default,,0,0,0,,什么
+Dialogue: 0,0:08:14.11,0:08:15.00,Default,,0,0,0,,是燃族
+Dialogue: 0,0:08:16.86,0:08:19.37,Default,,0,0,0,,她是燃族吗
+Dialogue: 0,0:08:19.57,0:08:20.11,Default,,0,0,0,,不是
+Dialogue: 0,0:08:20.45,0:08:21.77,Default,,0,0,0,,估计是刚觉醒的
+Dialogue: 0,0:08:22.38,0:08:23.77,Default,,0,0,0,,燃族突然变异
+Dialogue: 0,0:08:24.31,0:08:27.68,Default,,0,0,0,,会突然获得操纵火焰的力量
+Dialogue: 0,0:08:28.13,0:08:29.01,Default,,0,0,0,,怎么会
+Dialogue: 0,0:08:29.30,0:08:31.14,Default,,0,0,0,,不 不要
+Dialogue: 0,0:08:34.44,0:08:35.54,Default,,0,0,0,,不妙
+Dialogue: 0,0:08:35.72,0:08:37.13,Default,,0,0,0,,你们俩后退
+Dialogue: 0,0:08:51.30,0:08:54.33,Default,,0,0,0,,不会让你们对燃族动手的
+Dialogue: 0,0:08:54.39,0:08:55.39,Default,,0,0,0,,给我记好了
+Dialogue: 0,0:09:00.24,0:09:01.70,Default,,0,0,0,,那啥玩意
+Dialogue: 0,0:09:02.24,0:09:03.77,Default,,0,0,0,,那是狂燃族
+Dialogue: 0,0:09:04.41,0:09:05.69,Default,,0,0,0,,狂燃族？
+Dialogue: 0,0:09:06.76,0:09:11.54,Default,,0,0,0,,对 放火取乐的恐怖分子们
+Dialogue: 0,0:09:12.49,0:09:13.55,Default,,0,0,0,,交给我吧
+Dialogue: 0,0:09:13.78,0:09:16.33,Default,,0,0,0,,管他狂燃族还是什么
+Dialogue: 0,0:09:16.61,0:09:18.54,Default,,0,0,0,,什么火焰都能扑灭
+Dialogue: 0,0:09:19.34,0:09:22.75,Default,,0,0,0,,由我加罗·提莫斯之手
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert “Inferno”
+Dialogue: 0,0:09:22.75,0:09:24.35,Insert-Latin,,0,0,0,,{\fad(100,100)\blur3}Trails of the fire
+Dialogue: 0,0:09:24.35,0:09:25.92,Insert-Latin,,0,0,0,,{\fad(100,100)\blur3}You always knew
+Dialogue: 0,0:09:25.92,0:09:28.05,Insert-Latin,,0,0,0,,{\fad(100,100)\blur3}They would carry me home
+Dialogue: 0,0:09:28.05,0:09:30.05,Insert-Latin,,0,0,0,,{\fad(100,100)\blur3}They’d lead me to you
+Comment: 0,0:00:00.79,0:00:00.79,Default,,0,0,0,,
