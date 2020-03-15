@@ -1,0 +1,663 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Runway de Waratte 09 [WebRip 1080p HEVC-10bit AAC].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei-65S,51,&H00FFFFFF,&HFFFFFFFF,&H00212121,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: STAFF,FZZhuZiMingChaoSongJF,32,&H006B6969,&H000000FF,&H006B6969,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,25,1
+Style: Screen,HYQiHei-65S,51,&H00FFFFFF,&HFFFFFFFF,&H00212121,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: Title,FZZhengHei-R-GBK,40,&H00FFFFFF,&HFFFFFFFF,&H00212121,&H00DF5904,0,0,0,0,100,100,0,0,1,0,2.8,4,20,20,20,1
+Style: Next,FZZhengHei-M-GBK,55,&H00FDFEE6,&HFFFFFFFF,&H00B24D0D,&H00DF5904,0,0,0,0,100,100,0,0,1,1,0,2,20,20,150,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N D,60,&H00FFFFFF,&HFFFFFFFF,&H000A9B17,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.5,0,2,20,20,15,128
+Style: OP-CH,FZZhuZiMingChaoSongJF,45,&H00FFFFFF,&HFFFFFFFF,&H000A9B17,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,8,20,20,25,1
+Style: ED-JP,FOT-Skip ProN D,51,&H00FFFFFF,&HFFFFFFFF,&H00212121,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,128
+Style: ED-CH,FZZhengHei-M-GBK,40,&H00FFFFFF,&HFFFFFFFF,&H00212121,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1,0,8,20,20,25,1
+Style: Title2,HYQiHei-65S,70,&H006DAD41,&H000000FF,&H00B3756A,&H00000000,0,0,0,0,100,100,0,355,1,0,0,7,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:24:16.95,0:24:21.95,STAFF,,0,0,0,,{\fad(200,200)}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途
+Dialogue: 0,0:24:21.95,0:24:26.95,STAFF,,0,0,0,,{\fad(200,200)}翻譯: saki  九十九  葉七少　校對: 御邪魔蟲　時軸: 可樂   後期: MIR　繁化: 貓蟲　WebRip: 飛翔
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 1,0:03:50.50,0:03:54.21,Title,,0,0,0,,{\xshad1.4\yshad1.4\fad(550,500)\pos(164,565)}第九套  敵手
+Dialogue: 0,0:03:50.50,0:03:54.21,Title,,0,0,0,,{\xshad2.8\yshad2.8\fad(550,500)\3a&HFF&\1a&HFE&\pos(164,565)}第九套  敵手
+Dialogue: 0,0:24:23.98,0:24:26.99,Next,,0,0,0,,{\shad1.5\alpha&HFF&\t(0,900,4,\alpha&H00&)}第十套 我不能輸
+Dialogue: 0,0:24:23.98,0:24:26.99,Next,,0,0,0,,{\c&HDF5904&\bord0\blur60\t(0,800,\blur0\1a&HFF&)}第十套 我不能輸
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:03:44.91,0:03:46.33,Screen,,0,0,0,,{\c&H291F1F&\bord0\fs30\fax0.15\frz351.8\pos(641,359)}服裝室
+Dialogue: 0,0:03:46.33,0:03:50.00,Screen,,0,0,0,,{\an7\blur1\bord0\p1\c&HFFFFFF&\1a&H80&\pos(0，0)}m 942 3 l 1275 3 1275 357 942 357
+Dialogue: 1,0:03:46.33,0:03:50.00,Screen,,0,0,0,,{\fs25\an7\bord0\c&H383838&\pos(980,36)}前期準備\N1.發表主題 (僅限非職業設計師)\N2.繪製設計稿\N\N準備 (以下各項同時進行)\N·準備服裝\N1.完成設計稿的繪製\N2.正賽前的製作日程表\N3.紙樣製作。物色布料·配飾\N4.亞麻布打樣\N(職業設計師可將之後的工作\N交給製衣工廠完成。\N也有負責打樣的工廠。)
+Dialogue: 0,0:03:55.42,0:04:02.35,Screen,,0,0,0,,{\an8\bord0\k60\c&H113D89&}Wa {\k60}圓環 {\k65}旋渦 {\k60}颱風 {\k60}風
+Dialogue: 0,0:15:36.00,0:15:38.42,Screen,,0,0,0,,{\fnFZZhengHei-M-GBK\bord0\c&H2C2A28&\pos(1018.286,577.143)\frz348.3}想去看育人的時裝展
+Dialogue: 0,0:15:50.22,0:15:55.39,Screen,,0,0,0,,{\an7\blur1\bord0\shad0\pos(0,0)\p1\c&HFFFFFF&\1a&H50&}m 9 9 l 328 9 328 213 9 213
+Dialogue: 1,0:15:50.22,0:15:55.39,Screen,,0,0,0,,{\an7\fs30\bord0\c&H72706E&}想去看育人的時裝展\N想和家人一起去旅行\N想去給小葵的排球比賽加油\N想參加一花的才藝演出\N想和穗香一起提高廚藝\N想參加孩子們的成人禮
+Dialogue: 0,0:21:41.57,0:21:43.91,Screen,,0,0,0,,{\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs30\frz10.7\pos(646,706)\frx22\fry332}彩排
+Dialogue: 0,0:21:41.57,0:21:43.91,Screen,,0,0,0,,{\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs30\fax-0.05\pos(991,629)\frx12\fry348\frz14.08}藝華祭
+Dialogue: 0,0:21:43.90,0:21:43.94,Screen,,0,0,0,,{\fscy100\fscx100\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(435,598)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:43.94,0:21:43.99,Screen,,0,0,0,,{\fscy100.32\fscx100.32\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(433.77,598.72)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:43.99,0:21:44.03,Screen,,0,0,0,,{\fscy100.62\fscx100.62\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(432.53,599.45)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.03,0:21:44.07,Screen,,0,0,0,,{\fscy100.94\fscx100.94\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(431.29,600.18)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.07,0:21:44.11,Screen,,0,0,0,,{\fscy101.24\fscx101.24\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(430.05,600.91)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.11,0:21:44.15,Screen,,0,0,0,,{\fscy101.54\fscx101.54\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(428.79,601.65)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.15,0:21:44.19,Screen,,0,0,0,,{\fscy101.9\fscx101.9\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(427.52,602.42)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.19,0:21:44.24,Screen,,0,0,0,,{\fscy102.18\fscx102.18\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(426.26,603.12)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.24,0:21:44.28,Screen,,0,0,0,,{\fscy102.52\fscx102.52\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(424.98,603.9)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.28,0:21:44.32,Screen,,0,0,0,,{\fscy102.84\fscx102.84\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(423.69,604.65)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.32,0:21:44.36,Screen,,0,0,0,,{\fscy103.16\fscx103.16\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(422.4,605.41)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.36,0:21:44.40,Screen,,0,0,0,,{\fscy103.5\fscx103.5\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(421.09,606.19)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.40,0:21:44.44,Screen,,0,0,0,,{\fscy103.8\fscx103.8\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(419.79,606.94)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.44,0:21:44.49,Screen,,0,0,0,,{\fscy104.15\fscx104.15\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(418.47,607.73)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.49,0:21:44.53,Screen,,0,0,0,,{\fscy104.47\fscx104.47\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(417.13,608.5)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.53,0:21:44.57,Screen,,0,0,0,,{\fscy104.81\fscx104.81\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(415.8,609.29)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.57,0:21:44.61,Screen,,0,0,0,,{\fscy105.13\fscx105.13\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(414.46,610.07)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.61,0:21:44.65,Screen,,0,0,0,,{\fscy105.45\fscx105.45\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(413.11,610.84)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.65,0:21:44.69,Screen,,0,0,0,,{\fscy105.78\fscx105.78\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(411.74,611.65)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.69,0:21:44.74,Screen,,0,0,0,,{\fscy106.16\fscx106.16\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(410.37,612.47)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.74,0:21:44.78,Screen,,0,0,0,,{\fscy106.47\fscx106.47\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(409,613.25)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.78,0:21:44.82,Screen,,0,0,0,,{\fscy106.84\fscx106.84\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(407.61,614.11)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.82,0:21:44.86,Screen,,0,0,0,,{\fscy107.15\fscx107.15\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(406.22,614.87)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.86,0:21:44.90,Screen,,0,0,0,,{\fscy107.54\fscx107.54\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(404.81,615.73)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.90,0:21:44.94,Screen,,0,0,0,,{\fscy107.89\fscx107.89\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(403.4,616.54)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.94,0:21:44.99,Screen,,0,0,0,,{\fscy108.27\fscx108.27\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(401.95,617.43)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:44.99,0:21:45.03,Screen,,0,0,0,,{\fscy108.59\fscx108.59\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(400.53,618.22)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.03,0:21:45.07,Screen,,0,0,0,,{\fscy108.94\fscx108.94\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(399.1,619.06)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.07,0:21:45.11,Screen,,0,0,0,,{\fscy109.31\fscx109.31\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(397.65,619.91)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.11,0:21:45.15,Screen,,0,0,0,,{\fscy109.69\fscx109.69\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(396.17,620.79)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.15,0:21:45.19,Screen,,0,0,0,,{\fscy110.04\fscx110.04\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(394.71,621.65)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.19,0:21:45.24,Screen,,0,0,0,,{\fscy110.43\fscx110.43\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(393.23,622.52)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.24,0:21:45.28,Screen,,0,0,0,,{\fscy110.81\fscx110.81\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(391.74,623.4)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.28,0:21:45.32,Screen,,0,0,0,,{\fscy111.18\fscx111.18\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(390.24,624.28)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.32,0:21:45.36,Screen,,0,0,0,,{\fscy111.57\fscx111.57\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(388.72,625.17)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.36,0:21:45.40,Screen,,0,0,0,,{\fscy111.93\fscx111.93\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(387.21,626.04)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.40,0:21:45.45,Screen,,0,0,0,,{\fscy112.3\fscx112.3\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(385.68,626.95)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.45,0:21:45.49,Screen,,0,0,0,,{\fscy112.71\fscx112.71\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(384.14,627.84)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.49,0:21:45.53,Screen,,0,0,0,,{\fscy113.09\fscx113.09\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(382.58,628.76)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.53,0:21:45.57,Screen,,0,0,0,,{\fscy113.44\fscx113.44\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(381.03,629.65)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.57,0:21:45.61,Screen,,0,0,0,,{\fscy113.87\fscx113.87\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(379.46,630.6)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.61,0:21:45.65,Screen,,0,0,0,,{\fscy114.25\fscx114.25\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(377.87,631.51)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.65,0:21:45.70,Screen,,0,0,0,,{\fscy114.66\fscx114.66\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(376.26,632.48)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.70,0:21:45.74,Screen,,0,0,0,,{\fscy115.05\fscx115.05\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(374.68,633.4)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.74,0:21:45.78,Screen,,0,0,0,,{\fscy115.44\fscx115.44\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(373.06,634.34)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.78,0:21:45.82,Screen,,0,0,0,,{\fscy115.85\fscx115.85\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(371.43,635.3)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.82,0:21:45.86,Screen,,0,0,0,,{\fscy116.27\fscx116.27\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(369.78,636.27)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.86,0:21:45.90,Screen,,0,0,0,,{\fscy116.69\fscx116.69\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(368.12,637.25)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.90,0:21:45.95,Screen,,0,0,0,,{\fscy117.08\fscx117.08\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(366.48,638.2)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.95,0:21:45.99,Screen,,0,0,0,,{\fscy117.51\fscx117.51\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(364.8,639.2)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:45.99,0:21:46.03,Screen,,0,0,0,,{\fscy117.93\fscx117.93\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(363.11,640.19)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.03,0:21:46.07,Screen,,0,0,0,,{\fscy118.36\fscx118.36\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(361.41,641.19)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.07,0:21:46.11,Screen,,0,0,0,,{\fscy118.73\fscx118.73\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(359.72,642.14)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.11,0:21:46.15,Screen,,0,0,0,,{\fscy119.15\fscx119.15\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(357.99,643.14)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.15,0:21:46.20,Screen,,0,0,0,,{\fscy119.58\fscx119.58\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(356.27,644.12)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.20,0:21:46.24,Screen,,0,0,0,,{\fscy120.01\fscx120.01\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(354.52,645.15)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.24,0:21:46.28,Screen,,0,0,0,,{\fscy120.46\fscx120.46\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(352.77,646.17)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.28,0:21:46.32,Screen,,0,0,0,,{\fscy120.88\fscx120.88\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(350.99,647.2)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.32,0:21:46.36,Screen,,0,0,0,,{\fscy121.31\fscx121.31\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(349.21,648.25)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.36,0:21:46.40,Screen,,0,0,0,,{\fscy121.75\fscx121.75\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(347.42,649.28)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.40,0:21:46.45,Screen,,0,0,0,,{\fscy122.22\fscx122.22\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(345.61,650.36)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.45,0:21:46.49,Screen,,0,0,0,,{\fscy122.67\fscx122.67\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(343.78,651.42)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.49,0:21:46.53,Screen,,0,0,0,,{\fscy123.09\fscx123.09\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(341.94,652.48)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.53,0:21:46.57,Screen,,0,0,0,,{\fscy123.51\fscx123.51\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(340.1,653.52)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.57,0:21:46.61,Screen,,0,0,0,,{\fscy123.99\fscx123.99\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(338.24,654.62)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.61,0:21:46.65,Screen,,0,0,0,,{\fscy124.4\fscx124.4\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(336.38,655.66)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.65,0:21:46.70,Screen,,0,0,0,,{\fscy124.91\fscx124.91\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(334.47,656.82)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.70,0:21:46.74,Screen,,0,0,0,,{\fscy125.37\fscx125.37\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(332.56,657.93)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.74,0:21:46.78,Screen,,0,0,0,,{\fscy125.87\fscx125.87\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(330.64,659.06)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.78,0:21:46.82,Screen,,0,0,0,,{\fscy126.33\fscx126.33\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(328.7,660.18)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.82,0:21:46.86,Screen,,0,0,0,,{\fscy126.82\fscx126.82\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(326.75,661.33)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.86,0:21:46.90,Screen,,0,0,0,,{\fscy127.28\fscx127.28\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(324.8,662.46)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.90,0:21:46.95,Screen,,0,0,0,,{\fscy127.8\fscx127.8\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(322.81,663.64)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.95,0:21:46.99,Screen,,0,0,0,,{\fscy128.26\fscx128.26\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(320.81,664.78)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:46.99,0:21:47.03,Screen,,0,0,0,,{\fscy128.78\fscx128.78\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(318.8,665.99)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.03,0:21:47.07,Screen,,0,0,0,,{\fscy129.29\fscx129.29\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(316.79,667.16)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.07,0:21:47.11,Screen,,0,0,0,,{\fscy129.8\fscx129.8\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(314.74,668.36)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.11,0:21:47.16,Screen,,0,0,0,,{\fscy130.29\fscx130.29\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(312.67,669.56)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.16,0:21:47.20,Screen,,0,0,0,,{\fscy130.84\fscx130.84\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(310.59,670.79)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.20,0:21:47.24,Screen,,0,0,0,,{\fscy131.34\fscx131.34\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(308.5,672)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.24,0:21:47.28,Screen,,0,0,0,,{\fscy131.85\fscx131.85\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(306.41,673.23)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.28,0:21:47.32,Screen,,0,0,0,,{\fscy132.35\fscx132.35\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(304.28,674.44)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.32,0:21:47.36,Screen,,0,0,0,,{\fscy132.89\fscx132.89\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(302.13,675.71)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.36,0:21:47.41,Screen,,0,0,0,,{\fscy133.43\fscx133.43\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(299.97,676.97)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.41,0:21:47.45,Screen,,0,0,0,,{\fscy133.98\fscx133.98\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(297.81,678.25)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.45,0:21:47.49,Screen,,0,0,0,,{\fscy134.52\fscx134.52\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(295.61,679.54)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:47.49,0:21:47.53,Screen,,0,0,0,,{\fscy135.1\fscx135.1\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\pos(293.41,680.83)\frx22\fry330\frz9.552}彩排
+Dialogue: 0,0:21:43.90,0:21:43.94,Screen,,0,0,0,,{\fscy100\fscx100\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(961.43,494)}藝華祭
+Dialogue: 0,0:21:43.94,0:21:43.99,Screen,,0,0,0,,{\fscy100.32\fscx100.32\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(961.87,494.4)}藝華祭
+Dialogue: 0,0:21:43.99,0:21:44.03,Screen,,0,0,0,,{\fscy100.62\fscx100.62\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(962.21,494.8)}藝華祭
+Dialogue: 0,0:21:44.03,0:21:44.07,Screen,,0,0,0,,{\fscy100.94\fscx100.94\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(962.67,495.21)}藝華祭
+Dialogue: 0,0:21:44.07,0:21:44.11,Screen,,0,0,0,,{\fscy101.24\fscx101.24\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(963.02,495.62)}藝華祭
+Dialogue: 0,0:21:44.11,0:21:44.15,Screen,,0,0,0,,{\fscy101.54\fscx101.54\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(963.33,496.04)}藝華祭
+Dialogue: 0,0:21:44.15,0:21:44.19,Screen,,0,0,0,,{\fscy101.9\fscx101.9\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(963.95,496.44)}藝華祭
+Dialogue: 0,0:21:44.19,0:21:44.24,Screen,,0,0,0,,{\fscy102.18\fscx102.18\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(964.17,496.85)}藝華祭
+Dialogue: 0,0:21:44.24,0:21:44.28,Screen,,0,0,0,,{\fscy102.52\fscx102.52\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(964.67,497.28)}藝華祭
+Dialogue: 0,0:21:44.28,0:21:44.32,Screen,,0,0,0,,{\fscy102.84\fscx102.84\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(965.06,497.69)}藝華祭
+Dialogue: 0,0:21:44.32,0:21:44.36,Screen,,0,0,0,,{\fscy103.16\fscx103.16\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(965.48,498.12)}藝華祭
+Dialogue: 0,0:21:44.36,0:21:44.40,Screen,,0,0,0,,{\fscy103.5\fscx103.5\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(965.96,498.55)}藝華祭
+Dialogue: 0,0:21:44.40,0:21:44.44,Screen,,0,0,0,,{\fscy103.8\fscx103.8\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(966.22,498.98)}藝華祭
+Dialogue: 0,0:21:44.44,0:21:44.49,Screen,,0,0,0,,{\fscy104.15\fscx104.15\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(966.75,499.41)}藝華祭
+Dialogue: 0,0:21:44.49,0:21:44.53,Screen,,0,0,0,,{\fscy104.47\fscx104.47\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(967.08,499.85)}藝華祭
+Dialogue: 0,0:21:44.53,0:21:44.57,Screen,,0,0,0,,{\fscy104.81\fscx104.81\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(967.53,500.29)}藝華祭
+Dialogue: 0,0:21:44.57,0:21:44.61,Screen,,0,0,0,,{\fscy105.13\fscx105.13\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(967.91,500.73)}藝華祭
+Dialogue: 0,0:21:44.61,0:21:44.65,Screen,,0,0,0,,{\fscy105.45\fscx105.45\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(968.23,501.18)}藝華祭
+Dialogue: 0,0:21:44.65,0:21:44.69,Screen,,0,0,0,,{\fscy105.78\fscx105.78\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(968.59,501.65)}藝華祭
+Dialogue: 0,0:21:44.69,0:21:44.74,Screen,,0,0,0,,{\fscy106.16\fscx106.16\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(969.2,502.06)}藝華祭
+Dialogue: 0,0:21:44.74,0:21:44.78,Screen,,0,0,0,,{\fscy106.47\fscx106.47\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(969.5,502.52)}藝華祭
+Dialogue: 0,0:21:44.78,0:21:44.82,Screen,,0,0,0,,{\fscy106.84\fscx106.84\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(970.06,502.99)}藝華祭
+Dialogue: 0,0:21:44.82,0:21:44.86,Screen,,0,0,0,,{\fscy107.15\fscx107.15\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(970.31,503.43)}藝華祭
+Dialogue: 0,0:21:44.86,0:21:44.90,Screen,,0,0,0,,{\fscy107.54\fscx107.54\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(970.92,503.89)}藝華祭
+Dialogue: 0,0:21:44.90,0:21:44.94,Screen,,0,0,0,,{\fscy107.89\fscx107.89\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(971.34,504.34)}藝華祭
+Dialogue: 0,0:21:44.94,0:21:44.99,Screen,,0,0,0,,{\fscy108.27\fscx108.27\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(971.94,504.82)}藝華祭
+Dialogue: 0,0:21:44.99,0:21:45.03,Screen,,0,0,0,,{\fscy108.59\fscx108.59\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(972.16,505.29)}藝華祭
+Dialogue: 0,0:21:45.03,0:21:45.07,Screen,,0,0,0,,{\fscy108.94\fscx108.94\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(972.57,505.76)}藝華祭
+Dialogue: 0,0:21:45.07,0:21:45.11,Screen,,0,0,0,,{\fscy109.31\fscx109.31\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(973.09,506.23)}藝華祭
+Dialogue: 0,0:21:45.11,0:21:45.15,Screen,,0,0,0,,{\fscy109.69\fscx109.69\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(973.62,506.71)}藝華祭
+Dialogue: 0,0:21:45.15,0:21:45.19,Screen,,0,0,0,,{\fscy110.04\fscx110.04\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(973.99,507.21)}藝華祭
+Dialogue: 0,0:21:45.19,0:21:45.24,Screen,,0,0,0,,{\fscy110.43\fscx110.43\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(974.55,507.68)}藝華祭
+Dialogue: 0,0:21:45.24,0:21:45.28,Screen,,0,0,0,,{\fscy110.81\fscx110.81\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(975.08,508.16)}藝華祭
+Dialogue: 0,0:21:45.28,0:21:45.32,Screen,,0,0,0,,{\fscy111.18\fscx111.18\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(975.53,508.65)}藝華祭
+Dialogue: 0,0:21:45.32,0:21:45.36,Screen,,0,0,0,,{\fscy111.57\fscx111.57\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(976.05,509.14)}藝華祭
+Dialogue: 0,0:21:45.36,0:21:45.40,Screen,,0,0,0,,{\fscy111.93\fscx111.93\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(976.42,509.64)}藝華祭
+Dialogue: 0,0:21:45.40,0:21:45.45,Screen,,0,0,0,,{\fscy112.3\fscx112.3\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(976.88,510.15)}藝華祭
+Dialogue: 0,0:21:45.45,0:21:45.49,Screen,,0,0,0,,{\fscy112.71\fscx112.71\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(977.47,510.63)}藝華祭
+Dialogue: 0,0:21:45.49,0:21:45.53,Screen,,0,0,0,,{\fscy113.09\fscx113.09\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(977.91,511.15)}藝華祭
+Dialogue: 0,0:21:45.53,0:21:45.57,Screen,,0,0,0,,{\fscy113.44\fscx113.44\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(978.23,511.66)}藝華祭
+Dialogue: 0,0:21:45.57,0:21:45.61,Screen,,0,0,0,,{\fscy113.87\fscx113.87\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(978.92,512.18)}藝華祭
+Dialogue: 0,0:21:45.61,0:21:45.65,Screen,,0,0,0,,{\fscy114.25\fscx114.25\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(979.32,512.69)}藝華祭
+Dialogue: 0,0:21:45.65,0:21:45.70,Screen,,0,0,0,,{\fscy114.66\fscx114.66\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(979.87,513.24)}藝華祭
+Dialogue: 0,0:21:45.70,0:21:45.74,Screen,,0,0,0,,{\fscy115.05\fscx115.05\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(980.31,513.75)}藝華祭
+Dialogue: 0,0:21:45.74,0:21:45.78,Screen,,0,0,0,,{\fscy115.44\fscx115.44\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(980.79,514.28)}藝華祭
+Dialogue: 0,0:21:45.78,0:21:45.82,Screen,,0,0,0,,{\fscy115.85\fscx115.85\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(981.28,514.82)}藝華祭
+Dialogue: 0,0:21:45.82,0:21:45.86,Screen,,0,0,0,,{\fscy116.27\fscx116.27\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(981.83,515.35)}藝華祭
+Dialogue: 0,0:21:45.86,0:21:45.90,Screen,,0,0,0,,{\fscy116.69\fscx116.69\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(982.39,515.89)}藝華祭
+Dialogue: 0,0:21:45.90,0:21:45.95,Screen,,0,0,0,,{\fscy117.08\fscx117.08\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(982.84,516.43)}藝華祭
+Dialogue: 0,0:21:45.95,0:21:45.99,Screen,,0,0,0,,{\fscy117.51\fscx117.51\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(983.43,516.98)}藝華祭
+Dialogue: 0,0:21:45.99,0:21:46.03,Screen,,0,0,0,,{\fscy117.93\fscx117.93\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(983.91,517.54)}藝華祭
+Dialogue: 0,0:21:46.03,0:21:46.07,Screen,,0,0,0,,{\fscy118.36\fscx118.36\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(984.51,518.09)}藝華祭
+Dialogue: 0,0:21:46.07,0:21:46.11,Screen,,0,0,0,,{\fscy118.73\fscx118.73\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(984.75,518.66)}藝華祭
+Dialogue: 0,0:21:46.11,0:21:46.15,Screen,,0,0,0,,{\fscy119.15\fscx119.15\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(985.24,519.23)}藝華祭
+Dialogue: 0,0:21:46.15,0:21:46.20,Screen,,0,0,0,,{\fscy119.58\fscx119.58\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(985.78,519.76)}藝華祭
+Dialogue: 0,0:21:46.20,0:21:46.24,Screen,,0,0,0,,{\fscy120.01\fscx120.01\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(986.31,520.33)}藝華祭
+Dialogue: 0,0:21:46.24,0:21:46.28,Screen,,0,0,0,,{\fscy120.46\fscx120.46\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(986.88,520.9)}藝華祭
+Dialogue: 0,0:21:46.28,0:21:46.32,Screen,,0,0,0,,{\fscy120.88\fscx120.88\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(987.35,521.49)}藝華祭
+Dialogue: 0,0:21:46.32,0:21:46.36,Screen,,0,0,0,,{\fscy121.31\fscx121.31\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(987.81,522.09)}藝華祭
+Dialogue: 0,0:21:46.36,0:21:46.40,Screen,,0,0,0,,{\fscy121.75\fscx121.75\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(988.32,522.66)}藝華祭
+Dialogue: 0,0:21:46.40,0:21:46.45,Screen,,0,0,0,,{\fscy122.22\fscx122.22\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(988.99,523.25)}藝華祭
+Dialogue: 0,0:21:46.45,0:21:46.49,Screen,,0,0,0,,{\fscy122.67\fscx122.67\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(989.55,523.85)}藝華祭
+Dialogue: 0,0:21:46.49,0:21:46.53,Screen,,0,0,0,,{\fscy123.09\fscx123.09\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(989.91,524.47)}藝華祭
+Dialogue: 0,0:21:46.53,0:21:46.57,Screen,,0,0,0,,{\fscy123.51\fscx123.51\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(990.31,525.07)}藝華祭
+Dialogue: 0,0:21:46.57,0:21:46.61,Screen,,0,0,0,,{\fscy123.99\fscx123.99\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(990.98,525.66)}藝華祭
+Dialogue: 0,0:21:46.61,0:21:46.65,Screen,,0,0,0,,{\fscy124.4\fscx124.4\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(991.28,526.28)}藝華祭
+Dialogue: 0,0:21:46.65,0:21:46.70,Screen,,0,0,0,,{\fscy124.91\fscx124.91\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(992.05,526.91)}藝華祭
+Dialogue: 0,0:21:46.70,0:21:46.74,Screen,,0,0,0,,{\fscy125.37\fscx125.37\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(992.57,527.54)}藝華祭
+Dialogue: 0,0:21:46.74,0:21:46.78,Screen,,0,0,0,,{\fscy125.87\fscx125.87\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(993.23,528.16)}藝華祭
+Dialogue: 0,0:21:46.78,0:21:46.82,Screen,,0,0,0,,{\fscy126.33\fscx126.33\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(993.74,528.8)}藝華祭
+Dialogue: 0,0:21:46.82,0:21:46.86,Screen,,0,0,0,,{\fscy126.82\fscx126.82\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(994.35,529.44)}藝華祭
+Dialogue: 0,0:21:46.86,0:21:46.90,Screen,,0,0,0,,{\fscy127.28\fscx127.28\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(994.83,530.09)}藝華祭
+Dialogue: 0,0:21:46.90,0:21:46.95,Screen,,0,0,0,,{\fscy127.8\fscx127.8\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(995.61,530.73)}藝華祭
+Dialogue: 0,0:21:46.95,0:21:46.99,Screen,,0,0,0,,{\fscy128.26\fscx128.26\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(996,531.39)}藝華祭
+Dialogue: 0,0:21:46.99,0:21:47.03,Screen,,0,0,0,,{\fscy128.78\fscx128.78\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(996.75,532.05)}藝華祭
+Dialogue: 0,0:21:47.03,0:21:47.07,Screen,,0,0,0,,{\fscy129.29\fscx129.29\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(997.41,532.7)}藝華祭
+Dialogue: 0,0:21:47.07,0:21:47.11,Screen,,0,0,0,,{\fscy129.8\fscx129.8\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(998.03,533.37)}藝華祭
+Dialogue: 0,0:21:47.11,0:21:47.16,Screen,,0,0,0,,{\fscy130.29\fscx130.29\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(998.56,534.06)}藝華祭
+Dialogue: 0,0:21:47.16,0:21:47.20,Screen,,0,0,0,,{\fscy130.84\fscx130.84\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(999.38,534.72)}藝華祭
+Dialogue: 0,0:21:47.20,0:21:47.24,Screen,,0,0,0,,{\fscy131.34\fscx131.34\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(999.91,535.41)}藝華祭
+Dialogue: 0,0:21:47.24,0:21:47.28,Screen,,0,0,0,,{\fscy131.85\fscx131.85\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(1000.5,536.1)}藝華祭
+Dialogue: 0,0:21:47.28,0:21:47.32,Screen,,0,0,0,,{\fscy132.35\fscx132.35\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(1001.01,536.8)}藝華祭
+Dialogue: 0,0:21:47.32,0:21:47.36,Screen,,0,0,0,,{\fscy132.89\fscx132.89\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(1001.71,537.5)}藝華祭
+Dialogue: 0,0:21:47.36,0:21:47.41,Screen,,0,0,0,,{\fscy133.43\fscx133.43\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(1002.38,538.21)}藝華祭
+Dialogue: 0,0:21:47.41,0:21:47.45,Screen,,0,0,0,,{\fscy133.98\fscx133.98\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(1003.09,538.91)}藝華祭
+Dialogue: 0,0:21:47.45,0:21:47.49,Screen,,0,0,0,,{\fscy134.52\fscx134.52\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(1003.78,539.63)}藝華祭
+Dialogue: 0,0:21:47.49,0:21:47.53,Screen,,0,0,0,,{\fscy135.1\fscx135.1\c&H3E2529&\fnFZZhengHei-M-GBK\bord0\fs40\frz10.07\frx18\fry332\pos(1004.6,540.33)}藝華祭
+Dialogue: 1,0:24:26.99,0:24:30.11,Screen,,0,0,0,,{\fs40\c&H8855F4&\3c&HFFFFFF&\bord3\pos(263,586)}記得看下集哦 {\fax-0.2}!!
+Dialogue: 0,0:24:26.99,0:24:30.11,Screen,,0,0,0,,{\fs40\c&H8855F4&\3c&H000000&\bord6\pos(263,586)}記得看下集哦 {\fax-0.2}!!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:04.17,0:00:05.31,Default,,0,0,0,,參加選拔
+Dialogue: 0,0:00:05.31,0:00:07.54,Default,,0,0,0,,你只需要在設計師面前的10公尺左右距離上
+Dialogue: 0,0:00:07.54,0:00:09.78,Default,,0,0,0,,來來回回走上幾趟
+Dialogue: 0,0:00:10.97,0:00:12.87,Default,,0,0,0,,我參加了數十家公司的選拔
+Dialogue: 0,0:00:12.87,0:00:16.41,Default,,0,0,0,,結果連試走1公尺的機會都沒得到
+Dialogue: 0,0:00:16.78,0:00:22.21,Default,,0,0,0,,「如果你也算是模特兒的話
+Dialogue: 0,0:00:23.07,0:00:29.77,Default,,0,0,0,,在法國連小學生都是頂級模特兒了」
+Dialogue: 0,0:00:32.97,0:00:37.72,Default,,0,0,0,,根本沒有地方需要這個叫做藤戶千雪的模特兒
+Dialogue: 0,0:00:38.35,0:00:41.24,Default,,0,0,0,,{\an8}畫面的確不夠平衡 能把她撤掉嗎
+Dialogue: 0,0:00:40.89,0:00:41.65,Default,,0,0,0,,拍攝現場也是
+Dialogue: 0,0:00:42.07,0:00:44.44,Default,,0,0,0,,{\an8}憑你的身高是去不了巴黎時裝周
+Dialogue: 0,0:00:44.89,0:00:46.94,Default,,0,0,0,,{\an8}千雪 你不行的
+Dialogue: 0,0:00:42.72,0:00:44.13,Default,,0,0,0,,親生父親也是
+Dialogue: 0,0:00:45.68,0:00:47.29,Default,,0,0,0,,甚至我憧憬的人
+Dialogue: 0,0:00:47.48,0:00:48.86,Default,,0,0,0,,也拋棄過我一次
+Dialogue: 0,0:00:49.95,0:00:51.51,Default,,0,0,0,,可是為什麼
+Dialogue: 0,0:00:53.08,0:00:55.21,Default,,0,0,0,,為什麼你 總是…
+Dialogue: 0,0:00:55.21,0:00:55.93,Default,,0,0,0,,千雪同學
+Dialogue: 0,0:00:56.61,0:00:58.98,Default,,0,0,0,,在我需要你的時候出現在我面前
+Dialogue: 0,0:00:59.57,0:01:02.42,Default,,0,0,0,,你願意參加我的走秀嗎
+Dialogue: 0,0:01:03.64,0:01:04.79,Default,,0,0,0,,真是的
+Dialogue: 0,0:01:06.13,0:01:07.48,Default,,0,0,0,,真拿你沒辦法
+Dialogue: 0,0:01:08.41,0:01:13.20,Default,,0,0,0,,你這人總能用一句話拯救我
+Dialogue: 0,0:01:16.98,0:01:18.15,Default,,0,0,0,,千雪同學
+Dialogue: 0,0:01:18.15,0:01:20.27,Default,,0,0,0,,真是的 我這是怎麼了
+Dialogue: 0,0:01:20.81,0:01:22.23,Default,,0,0,0,,搞得我都不正常了
+Dialogue: 0,0:01:30.29,0:01:31.88,Default,,0,0,0,,我知道肯定不行
+Dialogue: 0,0:01:32.60,0:01:34.51,Default,,0,0,0,,也是抱著這樣的覺悟去的巴黎
+Dialogue: 0,0:01:34.75,0:01:36.83,Default,,0,0,0,,按理說是沒理由沮喪的
+Dialogue: 0,0:01:37.88,0:01:40.33,Default,,0,0,0,,只是不久前我遇到了一個超厲害的模特兒
+Dialogue: 0,0:01:41.32,0:01:43.55,Default,,0,0,0,,明明做模特兒不是她的本意
+Dialogue: 0,0:01:43.55,0:01:45.33,Default,,0,0,0,,但真的太驚艷了
+Dialogue: 0,0:01:46.68,0:01:47.86,Default,,0,0,0,,很羨慕
+Dialogue: 0,0:01:49.12,0:01:52.17,Default,,0,0,0,,不知怎的 從那之後我一直糾結這個
+Dialogue: 0,0:01:55.04,0:01:55.97,Default,,0,0,0,,怎麼了
+Dialogue: 0,0:01:55.97,0:01:56.55,Default,,0,0,0,,沒什麼
+Dialogue: 0,0:01:56.55,0:01:59.56,Default,,0,0,0,,我好像還是第一次聽你訴苦
+Dialogue: 0,0:02:01.01,0:02:02.04,Default,,0,0,0,,不跟你講了
+Dialogue: 0,0:02:03.24,0:02:04.54,Default,,0,0,0,,我沒有別的意思
+Dialogue: 0,0:02:06.25,0:02:08.07,Default,,0,0,0,,乖巧懂事 惹人憐愛
+Dialogue: 0,0:02:10.63,0:02:11.43,Default,,0,0,0,,為什麼
+Dialogue: 0,0:03:47.18,0:03:49.87,Default,,0,0,0,,這是時裝展前的準備流程
+Dialogue: 0,0:03:50.55,0:03:53.49,Default,,0,0,0,,我準備把衣服的主題定為「風」
+Dialogue: 0,0:03:53.82,0:03:55.21,Default,,0,0,0,,這和「Wa」有關係嗎
+Dialogue: 0,0:03:55.84,0:03:58.46,Default,,0,0,0,,「Wa」只是引發聯想的源頭
+Dialogue: 0,0:03:58.72,0:04:01.24,Default,,0,0,0,,凡是能聯想到的東西好像都可以
+Dialogue: 0,0:04:03.32,0:04:05.99,Default,,0,0,0,,總共要做10套衣服啊
+Dialogue: 0,0:04:06.60,0:04:07.71,Default,,0,0,0,,我說 育人
+Dialogue: 0,0:04:08.30,0:04:09.32,Default,,0,0,0,,既然是走秀
+Dialogue: 0,0:04:09.52,0:04:11.65,Default,,0,0,0,,只有我一個人應該不夠的吧
+Dialogue: 0,0:04:13.52,0:04:16.39,Default,,0,0,0,,別的模特兒 你打算怎麼辦
+Dialogue: 0,0:04:19.42,0:04:21.15,Default,,0,0,0,,「風」這個主題
+Dialogue: 0,0:04:21.36,0:04:23.38,Default,,0,0,0,,其實是從千雪同學身上聯想到的
+Dialogue: 0,0:04:24.93,0:04:30.49,Default,,0,0,0,,聽說颱風越是靠近中心氣壓低的部分風力越強
+Dialogue: 0,0:04:31.73,0:04:32.84,Default,,0,0,0,,低？
+Dialogue: 0,0:04:33.14,0:04:34.82,Default,,0,0,0,,你是在說我的身高嗎
+Dialogue: 0,0:04:34.82,0:04:35.92,Default,,0,0,0,,別生氣嘛
+Dialogue: 0,0:04:36.39,0:04:40.28,Default,,0,0,0,,像颱風一樣我行我素 不在乎給別人添麻煩
+Dialogue: 0,0:04:40.63,0:04:42.65,Default,,0,0,0,,有時在背後推上別人一把
+Dialogue: 0,0:04:42.89,0:04:44.98,Default,,0,0,0,,有時又能讓人感到溫暖 舒適
+Dialogue: 0,0:04:45.96,0:04:46.68,Default,,0,0,0,,你看
+Dialogue: 0,0:04:47.33,0:04:48.86,Default,,0,0,0,,是不是非常像你啊
+Dialogue: 0,0:04:49.93,0:04:52.66,Default,,0,0,0,,我的時裝秀的主角是你
+Dialogue: 0,0:04:54.06,0:04:57.52,Default,,0,0,0,,所以我也想聽聽千雪同學的想法
+Dialogue: 0,0:05:01.67,0:05:04.07,Default,,0,0,0,,清一色都給我找頂級模特兒
+Dialogue: 0,0:05:04.68,0:05:05.99,Default,,0,0,0,,看我怎麼碾壓他們
+Dialogue: 0,0:05:06.31,0:05:07.27,Default,,0,0,0,,好的
+Dialogue: 0,0:05:10.42,0:05:11.69,Default,,0,0,0,,我出去一下
+Dialogue: 0,0:05:12.76,0:05:16.25,Default,,0,0,0,,把手頭的工作做完 剩餘時間隨你支配
+Dialogue: 0,0:05:17.43,0:05:18.67,Default,,0,0,0,,謝謝
+Dialogue: 0,0:05:25.88,0:05:29.05,Default,,0,0,0,,話說你和柳田先生現在怎麼樣了
+Dialogue: 0,0:05:32.74,0:05:33.67,Default,,0,0,0,,那個
+Dialogue: 0,0:05:34.17,0:05:36.30,Default,,0,0,0,,我還沒能聯繫上他
+Dialogue: 0,0:05:36.87,0:05:39.75,Default,,0,0,0,,怎麼回事 關係有鬧得這麼僵嗎
+Dialogue: 0,0:05:40.29,0:05:42.21,Default,,0,0,0,,本以為有同事幫我協調
+Dialogue: 0,0:05:42.57,0:05:44.81,Default,,0,0,0,,起碼不會弄成這樣
+Dialogue: 0,0:05:46.12,0:05:48.56,Default,,0,0,0,,你說的這個同事是個怎樣的人
+Dialogue: 0,0:05:49.13,0:05:51.51,Default,,0,0,0,,只是偶爾會聽你提到他
+Dialogue: 0,0:05:51.51,0:05:52.75,Default,,0,0,0,,也不知道是怎樣的一個人
+Dialogue: 0,0:05:54.57,0:05:56.75,Default,,0,0,0,,她很想從事製作衣服的工作
+Dialogue: 0,0:05:57.16,0:05:58.67,Default,,0,0,0,,卻遭到身邊人的強烈反對
+Dialogue: 0,0:05:59.81,0:06:01.49,Default,,0,0,0,,但她付出了很多努力
+Dialogue: 0,0:06:02.07,0:06:04.61,Default,,0,0,0,,已經成長到具備打入正賽的實力了
+Dialogue: 0,0:06:06.30,0:06:08.56,Default,,0,0,0,,努力終於得到了回報
+Dialogue: 0,0:06:08.56,0:06:10.17,Default,,0,0,0,,很厲害吧
+Dialogue: 0,0:06:10.35,0:06:12.85,Default,,0,0,0,,她現在應該也在努力吧
+Dialogue: 0,0:06:13.39,0:06:16.47,Default,,0,0,0,,因為她說不認真做的話是得不到認可的
+Dialogue: 0,0:06:19.96,0:06:21.15,Default,,0,0,0,,聽我說 育人
+Dialogue: 0,0:06:21.92,0:06:26.66,Default,,0,0,0,,比起得到認可 我更想證明給某些人看看
+Dialogue: 0,0:06:27.74,0:06:28.67,Default,,0,0,0,,例如爸爸
+Dialogue: 0,0:06:29.26,0:06:31.03,Default,,0,0,0,,還有像雫姐這些人
+Dialogue: 0,0:06:32.12,0:06:33.67,Default,,0,0,0,,育人也想證明給誰看看嗎
+Dialogue: 0,0:06:37.23,0:06:38.47,Default,,0,0,0,,有的
+Dialogue: 0,0:06:39.43,0:06:41.09,Default,,0,0,0,,那就放手一搏
+Dialogue: 0,0:06:41.88,0:06:42.81,Default,,0,0,0,,我們倆一起
+Dialogue: 0,0:06:45.85,0:06:46.49,Default,,0,0,0,,嗯
+Dialogue: 0,0:06:53.15,0:06:56.29,Default,,0,0,0,,為什麼會這樣
+Dialogue: 0,0:06:56.29,0:06:59.13,Default,,0,0,0,,矛盾最好能儘快解決
+Dialogue: 0,0:06:59.29,0:07:01.22,Default,,0,0,0,,過來 你站這邊
+Dialogue: 0,0:07:01.45,0:07:02.53,Default,,0,0,0,,等等
+Dialogue: 0,0:07:02.53,0:07:04.17,Default,,0,0,0,,別怕啊 振作點
+Dialogue: 0,0:07:04.17,0:07:06.53,Default,,0,0,0,,我還沒做好心理準備
+Dialogue: 0,0:07:12.82,0:07:15.12,Default,,0,0,0,,前輩和…
+Dialogue: 0,0:07:15.39,0:07:16.36,Default,,0,0,0,,心小姐
+Dialogue: 0,0:07:16.36,0:07:18.78,Default,,0,0,0,,給您添了好多麻煩 真的非常抱歉
+Dialogue: 0,0:07:18.97,0:07:19.82,Default,,0,0,0,,還有…
+Dialogue: 0,0:07:20.28,0:07:24.41,Default,,0,0,0,,對了 這位是藤戶千雪同學
+Dialogue: 0,0:07:24.41,0:07:25.88,Default,,0,0,0,,她會作為模特兒參加我的時裝展
+Dialogue: 0,0:07:26.33,0:07:27.06,Default,,0,0,0,,育人
+Dialogue: 0,0:07:27.97,0:07:29.00,Default,,0,0,0,,她就是
+Dialogue: 0,0:07:29.56,0:07:31.81,Default,,0,0,0,,我之前提到的那個非常厲害的模特兒
+Dialogue: 0,0:07:31.97,0:07:32.56,Default,,0,0,0,,欸？
+Dialogue: 0,0:07:33.27,0:07:35.41,Default,,0,0,0,,不好意思 突然跑過來
+Dialogue: 0,0:07:35.67,0:07:36.95,Default,,0,0,0,,柳田先生在嗎
+Dialogue: 0,0:07:37.84,0:07:40.03,Default,,0,0,0,,他剛好不在家
+Dialogue: 0,0:07:40.03,0:07:43.40,Default,,0,0,0,,我接下來要去拍攝 必須馬上過去
+Dialogue: 0,0:07:43.88,0:07:44.77,Default,,0,0,0,,這樣啊
+Dialogue: 0,0:07:45.02,0:07:46.69,Default,,0,0,0,,那你還是快些去吧
+Dialogue: 0,0:07:47.61,0:07:48.86,Default,,0,0,0,,我們改天再來吧 育人
+Dialogue: 0,0:07:49.32,0:07:50.36,Default,,0,0,0,,對不起
+Dialogue: 0,0:07:52.63,0:07:53.92,Default,,0,0,0,,前輩
+Dialogue: 0,0:07:54.57,0:07:56.37,Default,,0,0,0,,你能過來我很高興
+Dialogue: 0,0:07:56.57,0:07:58.67,Default,,0,0,0,,晚些時候我一定聯絡你
+Dialogue: 0,0:08:05.13,0:08:07.16,Default,,0,0,0,,她很想從事製作衣服的工作
+Dialogue: 0,0:08:07.63,0:08:09.53,Default,,0,0,0,,卻遭到身邊人的強烈反對
+Dialogue: 0,0:08:10.23,0:08:11.91,Default,,0,0,0,,但她付出了很多努力
+Dialogue: 0,0:08:12.77,0:08:15.25,Default,,0,0,0,,我想去做衣服是認真的
+Dialogue: 0,0:08:17.05,0:08:19.10,Default,,0,0,0,,千雪同學
+Dialogue: 0,0:08:19.80,0:08:20.84,Default,,0,0,0,,抱歉 育人
+Dialogue: 0,0:08:20.99,0:08:22.21,Default,,0,0,0,,我要去追她
+Dialogue: 0,0:08:22.21,0:08:23.52,Default,,0,0,0,,等等 千雪同學
+Dialogue: 0,0:08:25.51,0:08:27.01,Default,,0,0,0,,真是氣人
+Dialogue: 0,0:08:27.35,0:08:28.84,Default,,0,0,0,,明明嘴上說是認真的
+Dialogue: 0,0:08:29.34,0:08:32.87,Default,,0,0,0,,你既然是認真的 現在就反抗啊
+Dialogue: 0,0:08:34.27,0:08:35.29,Default,,0,0,0,,快上車
+Dialogue: 0,0:08:38.49,0:08:39.04,Default,,0,0,0,,喂
+Dialogue: 0,0:08:41.69,0:08:44.29,Default,,0,0,0,,我可以和她說幾句話嗎
+Dialogue: 0,0:08:44.41,0:08:47.73,Default,,0,0,0,,切 你可能有什麼誤解吧
+Dialogue: 0,0:08:47.87,0:08:49.88,Default,,0,0,0,,無論你怎麼反抗我都不會認可的
+Dialogue: 0,0:08:50.65,0:08:54.82,Default,,0,0,0,,你做衣服的才能是不可能超過你做模特兒的天賦的
+Dialogue: 0,0:08:54.82,0:08:56.35,Default,,0,0,0,,那你不妨也讓她
+Dialogue: 0,0:08:57.43,0:09:00.36,Default,,0,0,0,,去盡情地做一回服裝設計師吧
+Dialogue: 0,0:09:00.61,0:09:02.07,Default,,0,0,0,,閉嘴 低級模特兒
+Dialogue: 0,0:09:02.43,0:09:05.00,Default,,0,0,0,,你的提議根本沒有討論的價值
+Dialogue: 0,0:09:06.00,0:09:06.81,Default,,0,0,0,,還有你
+Dialogue: 0,0:09:07.00,0:09:09.28,Default,,0,0,0,,真的準備和這種模特兒玩扮家家酒遊戲嗎
+Dialogue: 0,0:09:09.40,0:09:10.60,Default,,0,0,0,,都村育人
+Dialogue: 0,0:09:11.56,0:09:14.97,Default,,0,0,0,,看樣子你已經不缺錢了
+Dialogue: 0,0:09:15.88,0:09:16.45,Default,,0,0,0,,別驚訝
+Dialogue: 0,0:09:16.84,0:09:20.25,Default,,0,0,0,,我只是向他提議要不要請長谷川心當模特兒而已
+Dialogue: 0,0:09:21.42,0:09:22.52,Default,,0,0,0,,你這人…
+Dialogue: 0,0:09:22.52,0:09:23.98,Default,,0,0,0,,現在也不遲
+Dialogue: 0,0:09:24.44,0:09:26.71,Default,,0,0,0,,讓長谷川心來做你的模特兒吧
+Dialogue: 0,0:09:27.32,0:09:30.01,Default,,0,0,0,,那個小個子只會扯你後腿
+Dialogue: 0,0:09:30.63,0:09:31.87,Default,,0,0,0,,你應該拿出全力
+Dialogue: 0,0:09:32.38,0:09:35.37,Default,,0,0,0,,就算耽誤母親的病情 你也想參加比賽的對吧
+Dialogue: 0,0:09:36.26,0:09:37.45,Default,,0,0,0,,真讓人火大
+Dialogue: 0,0:09:38.39,0:09:40.98,Default,,0,0,0,,既然你這麼執著才能
+Dialogue: 0,0:09:41.40,0:09:44.56,Default,,0,0,0,,也就是說 如果她真有做衣服的才能
+Dialogue: 0,0:09:44.88,0:09:47.39,Default,,0,0,0,,你就會同意她辭掉模特兒的工作了吧
+Dialogue: 0,0:09:48.07,0:09:50.04,Default,,0,0,0,,如果用我這個會拖後腿的模特兒
+Dialogue: 0,0:09:50.20,0:09:51.85,Default,,0,0,0,,也能在時裝展上拿出成績
+Dialogue: 0,0:09:52.37,0:09:54.45,Default,,0,0,0,,應該足以證明她是天才了吧
+Dialogue: 0,0:09:55.40,0:09:56.17,Default,,0,0,0,,育人
+Dialogue: 0,0:09:57.36,0:09:58.07,Default,,0,0,0,,可以嗎
+Dialogue: 0,0:10:01.73,0:10:04.05,Default,,0,0,0,,{\an8}當然 去做給他們看
+Dialogue: 0,0:10:04.75,0:10:07.45,Default,,0,0,0,,{\an8}居然我也能進入正賽
+Dialogue: 0,0:10:03.37,0:10:05.74,Default,,0,0,0,,不過 如果那樣的話
+Dialogue: 0,0:10:06.13,0:10:10.31,Default,,0,0,0,,我知道經紀人肯定不會認可的
+Dialogue: 0,0:10:08.34,0:10:11.88,Default,,0,0,0,,{\an8}幸好我沒放棄 過來挑戰了一下
+Dialogue: 0,0:10:14.75,0:10:15.80,Default,,0,0,0,,我們倆一起
+Dialogue: 0,0:10:16.44,0:10:17.48,Default,,0,0,0,,我啊
+Dialogue: 0,0:10:18.38,0:10:19.94,Default,,0,0,0,,更想證明給某些人看看
+Dialogue: 0,0:10:22.01,0:10:22.81,Default,,0,0,0,,可以
+Dialogue: 0,0:10:27.26,0:10:29.93,Default,,0,0,0,,我來做長谷川心的模特兒
+Dialogue: 0,0:10:32.79,0:10:34.40,Default,,0,0,0,,謝謝你 育人
+Dialogue: 0,0:10:35.51,0:10:36.12,Default,,0,0,0,,接下來
+Dialogue: 0,0:10:38.09,0:10:38.95,Default,,0,0,0,,我們就是敵手了
+Dialogue: 0,0:10:40.73,0:10:42.12,Default,,0,0,0,,長谷川小姐願意
+Dialogue: 0,0:10:42.41,0:10:43.72,Default,,0,0,0,,和我背水一戰嗎
+Dialogue: 0,0:10:44.80,0:10:46.70,Default,,0,0,0,,前輩 那個…
+Dialogue: 0,0:10:49.61,0:10:53.34,Default,,0,0,0,,這樣做能得到您的認可嗎
+Dialogue: 0,0:10:54.96,0:10:57.88,Default,,0,0,0,,無聊的賭局 自作主張的傢伙
+Dialogue: 0,0:11:00.96,0:11:05.24,Default,,0,0,0,,如果沒拿出成績就老老實實退學專心做模特兒
+Dialogue: 0,0:11:05.51,0:11:08.29,Default,,0,0,0,,這個條件你能接受嗎 長谷川
+Dialogue: 0,0:11:09.29,0:11:11.43,Default,,0,0,0,,長谷川心獲得優勝
+Dialogue: 0,0:11:11.91,0:11:13.64,Default,,0,0,0,,能接受的話我就跟你們賭
+Dialogue: 0,0:11:14.12,0:11:16.94,Default,,0,0,0,,就算把朋友踢出局也要拿到第一
+Dialogue: 0,0:11:17.76,0:11:18.77,Default,,0,0,0,,讓我看看
+Dialogue: 0,0:11:19.18,0:11:20.73,Default,,0,0,0,,你所謂的覺悟
+Dialogue: 0,0:11:21.74,0:11:22.57,Default,,0,0,0,,我…
+Dialogue: 0,0:11:23.19,0:11:23.91,Default,,0,0,0,,知道了
+Dialogue: 0,0:11:29.45,0:11:31.05,Default,,0,0,0,,這可怎麼辦
+Dialogue: 0,0:11:31.47,0:11:33.72,Default,,0,0,0,,原本打算做給千雪同學穿的
+Dialogue: 0,0:11:33.72,0:11:35.79,Default,,0,0,0,,現在完全沒了靈感
+Dialogue: 0,0:11:41.03,0:11:41.91,Default,,0,0,0,,育人
+Dialogue: 0,0:11:42.31,0:11:45.27,Default,,0,0,0,,你可不要盤算著故意輸給我們
+Dialogue: 0,0:11:45.93,0:11:48.90,Default,,0,0,0,,我想跟拿出全力的育人比試
+Dialogue: 0,0:11:49.42,0:11:52.69,Default,,0,0,0,,因為你是我心中的頭號敵手
+Dialogue: 0,0:11:52.89,0:11:53.98,Default,,0,0,0,,不要有顧慮
+Dialogue: 0,0:11:54.23,0:11:55.11,Default,,0,0,0,,嗯
+Dialogue: 0,0:11:59.24,0:12:00.99,Default,,0,0,0,,我並不是有什麼顧慮
+Dialogue: 0,0:12:01.87,0:12:03.91,Default,,0,0,0,,我從一開始就希望心小姐
+Dialogue: 0,0:12:04.09,0:12:06.08,Default,,0,0,0,,前輩 我…
+Dialogue: 0,0:12:07.44,0:12:08.52,Default,,0,0,0,,還有千雪同學
+Dialogue: 0,0:12:14.92,0:12:16.76,Default,,0,0,0,,都能得到應有的回報
+Dialogue: 0,0:12:21.56,0:12:23.00,Default,,0,0,0,,請在伸展台上微笑
+Dialogue: 0,0:12:26.20,0:12:28.46,Default,,0,0,0,,那條褲子需要縫的地方很多
+Dialogue: 0,0:12:28.62,0:12:30.27,Default,,0,0,0,,必須保證不開線
+Dialogue: 0,0:12:30.27,0:12:30.75,Default,,0,0,0,,是
+Dialogue: 0,0:12:30.83,0:12:33.86,Default,,0,0,0,,加個墊肩來凸顯腰部曲線
+Dialogue: 0,0:12:33.86,0:12:34.50,Default,,0,0,0,,{\an8}是
+Dialogue: 0,0:12:34.01,0:12:35.83,Default,,0,0,0,,要求太高了
+Dialogue: 0,0:12:35.83,0:12:38.86,Default,,0,0,0,,既然他知道怎麼做 為什麼不提前告訴我們
+Dialogue: 0,0:12:38.86,0:12:42.16,Default,,0,0,0,,我們打樣師的工作 不就是去考慮這些問題嗎
+Dialogue: 0,0:12:43.08,0:12:45.99,Default,,0,0,0,,還有 你們應該已經察覺到了吧
+Dialogue: 0,0:12:46.14,0:12:48.26,Default,,0,0,0,,自己的水準被拉高了
+Dialogue: 0,0:12:49.21,0:12:51.92,Default,,0,0,0,,明白了就抓緊時間做事
+Dialogue: 0,0:12:56.82,0:12:57.83,Default,,0,0,0,,還差一個
+Dialogue: 0,0:12:58.40,0:13:00.88,Default,,0,0,0,,還差一個決定性的設計
+Dialogue: 0,0:13:00.88,0:13:01.44,Default,,0,0,0,,遠
+Dialogue: 0,0:13:01.99,0:13:02.60,Default,,0,0,0,,該回家了
+Dialogue: 0,0:13:03.54,0:13:04.44,Default,,0,0,0,,奶奶
+Dialogue: 0,0:13:05.56,0:13:07.47,Default,,0,0,0,,我想再糾結一會
+Dialogue: 0,0:13:08.04,0:13:09.48,Default,,0,0,0,,您先回吧
+Dialogue: 0,0:13:10.05,0:13:12.85,Default,,0,0,0,,你這是著急什麼
+Dialogue: 0,0:13:17.11,0:13:20.08,Default,,0,0,0,,你大可不必把超越過去的我這種目標
+Dialogue: 0,0:13:20.39,0:13:22.05,Default,,0,0,0,,強加在自己身上
+Dialogue: 0,0:13:22.56,0:13:25.95,Default,,0,0,0,,你想獨立 隨時都可以
+Dialogue: 0,0:13:26.33,0:13:28.55,Default,,0,0,0,,謝謝你 奶奶
+Dialogue: 0,0:13:29.69,0:13:32.00,Default,,0,0,0,,但我不能這麼做
+Dialogue: 0,0:13:32.64,0:13:36.42,Default,,0,0,0,,無論我走到哪裡都是世界第一設計師的孫子
+Dialogue: 0,0:13:36.84,0:13:38.76,Default,,0,0,0,,如果半吊子水準就出去混
+Dialogue: 0,0:13:39.11,0:13:41.37,Default,,0,0,0,,最終給奶奶臉上抹黑
+Dialogue: 0,0:13:41.80,0:13:43.09,Default,,0,0,0,,我絕不允許
+Dialogue: 0,0:13:43.91,0:13:46.51,Default,,0,0,0,,你現在還當我是世界第一設計師啊
+Dialogue: 0,0:13:46.73,0:13:48.34,Default,,0,0,0,,奶奶當然是
+Dialogue: 0,0:13:48.91,0:13:50.92,Default,,0,0,0,,是我想要超越的目標
+Dialogue: 0,0:13:52.25,0:13:53.45,Default,,0,0,0,,你在寫什麼
+Dialogue: 0,0:13:55.49,0:13:56.09,Default,,0,0,0,,遺書
+Dialogue: 0,0:13:56.82,0:13:59.72,Default,,0,0,0,,拜託不要總是拿自己開玩笑
+Dialogue: 0,0:14:00.12,0:14:03.60,Default,,0,0,0,,常備一封遺書 避免留下遺憾
+Dialogue: 0,0:14:03.60,0:14:05.02,Default,,0,0,0,,別鬧了
+Dialogue: 0,0:14:06.31,0:14:09.12,Default,,0,0,0,,不過手術也做了 恢復得也挺好
+Dialogue: 0,0:14:09.27,0:14:11.45,Default,,0,0,0,,百分百痊癒
+Dialogue: 0,0:14:11.83,0:14:14.15,Default,,0,0,0,,以後再也不用住院啦
+Dialogue: 0,0:14:17.37,0:14:20.32,Default,,0,0,0,,不過當媽的還是能看出來的
+Dialogue: 0,0:14:21.56,0:14:23.80,Default,,0,0,0,,育人 出什麼事了嗎
+Dialogue: 0,0:14:27.97,0:14:30.38,Default,,0,0,0,,沒啊 沒什麼事
+Dialogue: 0,0:14:32.12,0:14:34.42,Default,,0,0,0,,當綾野先生對我說「你沒有才能」時
+Dialogue: 0,0:14:36.10,0:14:37.48,Default,,0,0,0,,我感到很不甘心
+Dialogue: 0,0:14:38.70,0:14:41.18,Default,,0,0,0,,當社長說「我想買下你設計的衣服」時
+Dialogue: 0,0:14:42.09,0:14:44.63,Default,,0,0,0,,我更加堅定了去做設計師的信念
+Dialogue: 0,0:14:46.09,0:14:50.08,Default,,0,0,0,,當千雪說「那就放手一搏 證明給某些人看看」時
+Dialogue: 0,0:14:50.35,0:14:51.35,Default,,0,0,0,,我熱血沸騰了
+Dialogue: 0,0:14:52.81,0:14:54.33,Default,,0,0,0,,但是這些
+Dialogue: 0,0:14:55.11,0:14:58.09,Default,,0,0,0,,和心小姐的前途比起來都太不值一提了
+Dialogue: 0,0:14:59.94,0:15:01.08,Default,,0,0,0,,聽我說 育人
+Dialogue: 0,0:15:01.55,0:15:03.30,Default,,0,0,0,,你打開遺書看一下
+Dialogue: 0,0:15:03.59,0:15:04.67,Default,,0,0,0,,因為對我來說
+Dialogue: 0,0:15:05.13,0:15:07.11,Default,,0,0,0,,現在能順利參加時裝展
+Dialogue: 0,0:15:07.43,0:15:08.61,Default,,0,0,0,,已經非常開心了
+Dialogue: 0,0:15:08.61,0:15:11.10,Default,,0,0,0,,我把自己死前想做的事都寫在上面了
+Dialogue: 0,0:15:14.01,0:15:17.20,Default,,0,0,0,,記得育人第一次做衣服是在6歲時吧
+Dialogue: 0,0:15:17.93,0:15:20.87,Default,,0,0,0,,7歲時幫我設計了咖啡店的圍裙
+Dialogue: 0,0:15:21.32,0:15:24.81,Default,,0,0,0,,第一次聽你說想做設計師也是在7歲那年
+Dialogue: 0,0:15:25.47,0:15:27.51,Default,,0,0,0,,從15歲開始就再也沒聽你這麼說過
+Dialogue: 0,0:15:27.75,0:15:30.66,Default,,0,0,0,,再次聽你說想做設計師
+Dialogue: 0,0:15:31.57,0:15:32.41,Default,,0,0,0,,是在今年
+Dialogue: 0,0:15:33.67,0:15:34.89,Default,,0,0,0,,育人
+Dialogue: 0,0:15:38.81,0:15:41.58,Default,,0,0,0,,全家人都會去為你加油的
+Dialogue: 0,0:15:43.77,0:15:46.68,Default,,0,0,0,,一定會的 哥哥
+Dialogue: 0,0:15:50.99,0:15:52.02,Default,,0,0,0,,媽媽
+Dialogue: 0,0:15:52.74,0:15:55.39,Default,,0,0,0,,你能在藝華祭之前出院嗎
+Dialogue: 0,0:15:57.04,0:15:58.92,Default,,0,0,0,,可別小看了媽媽我哦
+Dialogue: 0,0:15:58.92,0:16:01.09,Default,,0,0,0,,到時候我會連蹦帶跳地過去找你的
+Dialogue: 0,0:16:04.91,0:16:06.36,Default,,0,0,0,,我不能輸
+Dialogue: 0,0:16:07.88,0:16:10.78,Default,,0,0,0,,必須全力以赴才行
+Dialogue: 0,0:16:15.65,0:16:16.24,Default,,0,0,0,,好嘞
+Dialogue: 0,0:16:16.58,0:16:18.92,Default,,0,0,0,,首先要重新設定主題
+Dialogue: 0,0:16:19.32,0:16:21.75,Default,,0,0,0,,繼續圍繞為千雪定下的「風」這個主題
+Dialogue: 0,0:16:21.75,0:16:23.38,Default,,0,0,0,,根本想不出靈感來
+Dialogue: 0,0:16:24.17,0:16:25.72,Default,,0,0,0,,主題是「Wa」
+Dialogue: 0,0:16:25.88,0:16:27.55,Default,,0,0,0,,Wa Wa Wa
+Dialogue: 0,0:16:32.11,0:16:32.60,Default,,0,0,0,,Wa
+Dialogue: 0,0:16:33.03,0:16:34.51,Default,,0,0,0,,Wa…
+Dialogue: 0,0:16:31.47,0:16:32.60,Default,,0,0,0,,{\an7\fs35}註：日語中讀音「Wa」可以表示和、輪等漢字，算式中的“＝”也可以讀作「Wa」
+Dialogue: 0,0:16:36.63,0:16:38.01,Default,,0,0,0,,像一條褲子
+Dialogue: 0,0:16:38.59,0:16:39.65,Default,,0,0,0,,有靈感了
+Dialogue: 0,0:16:40.57,0:16:42.43,Default,,0,0,0,,主打褲子這一款式
+Dialogue: 0,0:16:42.43,0:16:45.20,Default,,0,0,0,,把主題定為男女裝的調和吧
+Dialogue: 0,0:16:46.23,0:16:47.00,Default,,0,0,0,,在我心底裡
+Dialogue: 0,0:16:47.51,0:16:50.56,Default,,0,0,0,,是不是一直期待著能和千雪同學還有心小姐
+Dialogue: 0,0:16:50.56,0:16:51.72,Default,,0,0,0,,比試一場呢
+Dialogue: 0,0:16:56.84,0:16:58.23,Default,,0,0,0,,好了 搞定
+Dialogue: 0,0:17:00.33,0:17:02.20,Default,,0,0,0,,搞定是搞定了
+Dialogue: 0,0:17:02.78,0:17:04.24,Default,,0,0,0,,可是這個估計…
+Dialogue: 0,0:17:06.68,0:17:09.40,Default,,0,0,0,,已經到該去藝華大學的時間了
+Dialogue: 0,0:17:09.40,0:17:11.63,Default,,0,0,0,,得趕緊去提交模特兒使用申請書
+Dialogue: 0,0:17:12.93,0:17:15.21,Default,,0,0,0,,總覺得靜不下來
+Dialogue: 0,0:17:16.20,0:17:18.81,Default,,0,0,0,,可能是因為剛才腦子裡閃過了他的身影吧
+Dialogue: 0,0:17:19.68,0:17:21.77,Default,,0,0,0,,萬一碰到他該怎麼辦
+Dialogue: 0,0:17:23.67,0:17:24.72,Default,,0,0,0,,就知道會這樣
+Dialogue: 0,0:17:25.30,0:17:26.55,Default,,0,0,0,,怎麼辦
+Dialogue: 0,0:17:26.85,0:17:31.15,Default,,0,0,0,,怎麼說人家也擔心過我 至少道個謝
+Dialogue: 0,0:17:31.99,0:17:33.74,Default,,0,0,0,,那個 綾野…
+Dialogue: 0,0:17:38.73,0:17:40.39,Default,,0,0,0,,綾 綾野先生
+Dialogue: 0,0:17:42.55,0:17:43.89,Default,,0,0,0,,啊 是你啊
+Dialogue: 0,0:17:44.36,0:17:46.57,Default,,0,0,0,,抱歉 沒注意到你
+Dialogue: 0,0:17:47.77,0:17:48.88,Default,,0,0,0,,有事嗎
+Dialogue: 0,0:17:49.09,0:17:50.47,Default,,0,0,0,,沒什麼
+Dialogue: 0,0:17:50.78,0:17:53.85,Default,,0,0,0,,感覺你的眼神和之前不太一樣
+Dialogue: 0,0:17:54.55,0:17:58.25,Default,,0,0,0,,你是對不準備做打樣師的我失去興趣了嗎
+Dialogue: 0,0:17:58.71,0:18:01.31,Default,,0,0,0,,這個嘛 誰知道呢
+Dialogue: 0,0:18:02.21,0:18:07.38,Default,,0,0,0,,我好像知道為什麼最近總是會不自覺地想到他了
+Dialogue: 0,0:18:08.79,0:18:11.25,Default,,0,0,0,,我準備擊敗的人中也包括你
+Dialogue: 0,0:18:12.79,0:18:13.55,Default,,0,0,0,,是嗎
+Dialogue: 0,0:18:14.45,0:18:15.86,Default,,0,0,0,,那你加油
+Dialogue: 0,0:18:16.38,0:18:18.53,Default,,0,0,0,,綾野遠 你等等
+Dialogue: 0,0:18:18.83,0:18:20.18,Default,,0,0,0,,怎麼又是你
+Dialogue: 0,0:18:21.05,0:18:23.04,Default,,0,0,0,,我之前已經低聲下氣地求過你了
+Dialogue: 0,0:18:23.45,0:18:25.56,Default,,0,0,0,,讓我加入你的團隊吧
+Dialogue: 0,0:18:26.39,0:18:29.96,Default,,0,0,0,,之前不是說了嗎 我不需要你
+Dialogue: 0,0:18:30.31,0:18:34.36,Default,,0,0,0,,為什麼 我明明比那幫人強多了
+Dialogue: 0,0:18:34.36,0:18:35.77,Default,,0,0,0,,麻煩你安靜點
+Dialogue: 0,0:18:36.37,0:18:38.31,Default,,0,0,0,,我現在很不爽
+Dialogue: 0,0:18:45.20,0:18:47.26,Default,,0,0,0,,喂 你瞅什麼呢
+Dialogue: 0,0:18:47.26,0:18:50.68,Default,,0,0,0,,不是的 我…
+Dialogue: 0,0:18:51.69,0:18:53.65,Default,,0,0,0,,要不你來我的團隊吧
+Dialogue: 0,0:18:53.65,0:18:55.37,Default,,0,0,0,,開什麼玩笑
+Dialogue: 0,0:18:55.56,0:18:57.80,Default,,0,0,0,,鬼才想去你的團隊
+Dialogue: 0,0:18:57.80,0:19:00.89,Default,,0,0,0,,也不用拒絕得這麼堅決吧
+Dialogue: 0,0:19:01.96,0:19:06.36,Default,,0,0,0,,我只會在比我更強還招人恨的傢伙手下做事
+Dialogue: 0,0:19:07.12,0:19:09.71,Default,,0,0,0,,我會把他的技術 品味
+Dialogue: 0,0:19:09.83,0:19:12.93,Default,,0,0,0,,所有精髓都吸得一乾二淨
+Dialogue: 0,0:19:13.05,0:19:15.80,Default,,0,0,0,,然後打敗他
+Dialogue: 0,0:19:16.20,0:19:19.52,Default,,0,0,0,,我一點也不覺得我有輸給你
+Dialogue: 0,0:19:19.85,0:19:22.04,Default,,0,0,0,,哥生氣了 快滾
+Dialogue: 0,0:19:24.16,0:19:25.09,Default,,0,0,0,,拜託了
+Dialogue: 0,0:19:25.75,0:19:27.40,Default,,0,0,0,,請助我一臂之力
+Dialogue: 0,0:19:30.44,0:19:31.83,Default,,0,0,0,,煩死人了
+Dialogue: 0,0:19:32.13,0:19:33.90,Default,,0,0,0,,為什麼死纏著我
+Dialogue: 0,0:19:35.53,0:19:37.45,Default,,0,0,0,,因為我有想要擊敗的人
+Dialogue: 0,0:19:39.86,0:19:42.38,Default,,0,0,0,,我準備擊敗的人中也包括你
+Dialogue: 0,0:19:43.54,0:19:44.49,Default,,0,0,0,,拜託了
+Dialogue: 0,0:19:49.96,0:19:54.67,Default,,0,0,0,,好吧 把你當沙包發洩一下也不錯
+Dialogue: 0,0:19:55.63,0:19:58.43,Default,,0,0,0,,我是不會手下留情的 到時可別抱怨
+Dialogue: 0,0:20:01.15,0:20:01.85,Default,,0,0,0,,好的
+Dialogue: 0,0:20:05.69,0:20:08.45,Default,,0,0,0,,這次統一設計成了褲子款式
+Dialogue: 0,0:20:09.17,0:20:12.06,Default,,0,0,0,,所以想請教一下專攻男裝的龍之介先生
+Dialogue: 0,0:20:13.27,0:20:16.42,Default,,0,0,0,,雖然說都叫褲子 但也分很多種的
+Dialogue: 0,0:20:16.73,0:20:18.88,Default,,0,0,0,,如果追根溯源的話
+Dialogue: 0,0:20:20.02,0:20:21.29,Default,,0,0,0,,長褲
+Dialogue: 0,0:20:21.89,0:20:26.01,Default,,0,0,0,,特點是中央有一條褶線 由西褲演變而來
+Dialogue: 0,0:20:26.79,0:20:28.06,Default,,0,0,0,,畫得真好
+Dialogue: 0,0:20:28.95,0:20:33.19,Default,,0,0,0,,近代的時尚男裝都可以視為發源自西裝
+Dialogue: 0,0:20:33.94,0:20:37.41,Default,,0,0,0,,能教我怎麼製作長褲嗎
+Dialogue: 0,0:20:41.81,0:20:44.42,Default,,0,0,0,,和女裝的凸顯曲線不同
+Dialogue: 0,0:20:44.68,0:20:46.03,Default,,0,0,0,,男裝注重直線
+Dialogue: 0,0:20:46.69,0:20:48.94,Default,,0,0,0,,製作手法完全不同
+Dialogue: 0,0:20:49.99,0:20:50.98,Default,,0,0,0,,怎麼辦
+Dialogue: 0,0:20:51.53,0:20:53.32,Default,,0,0,0,,我想把設計圖全改一遍
+Dialogue: 0,0:20:55.19,0:20:58.97,Default,,0,0,0,,龍之介先生 您不準備和我組隊的對吧
+Dialogue: 0,0:21:02.87,0:21:03.76,Default,,0,0,0,,既然這樣
+Dialogue: 0,0:21:05.07,0:21:08.65,Default,,0,0,0,,反正是我一個人做 還要什麼設計圖
+Dialogue: 0,0:21:12.14,0:21:13.65,Default,,0,0,0,,謝謝你
+Dialogue: 0,0:21:14.26,0:21:18.89,Default,,0,0,0,,多虧你 我好像知道如何去表現男女的調和了
+Dialogue: 0,0:21:20.04,0:21:21.03,Default,,0,0,0,,調和？
+Dialogue: 0,0:21:21.27,0:21:23.37,Default,,0,0,0,,沒錯 這次時裝展的主題
+Dialogue: 0,0:21:24.46,0:21:28.27,Default,,0,0,0,,那不就和綾野遠的主題重複了嗎
+Dialogue: 0,0:21:28.52,0:21:29.32,Default,,0,0,0,,欸？
+Dialogue: 0,0:21:29.92,0:21:30.99,Default,,0,0,0,,你打算怎麼辦
+Dialogue: 0,0:21:33.94,0:21:35.07,Default,,0,0,0,,不改了
+Dialogue: 0,0:21:35.64,0:21:36.91,Default,,0,0,0,,和他正面對決
+Dialogue: 0,0:21:40.52,0:21:41.27,Default,,0,0,0,,轉眼間
+Dialogue: 0,0:21:41.70,0:21:43.59,Default,,0,0,0,,時至夏末
+Dialogue: 0,0:21:44.92,0:21:46.80,Default,,0,0,0,,明天就是藝華祭了
+Dialogue: 0,0:21:47.88,0:21:48.57,Default,,0,0,0,,今晚
+Dialogue: 0,0:21:49.39,0:21:50.21,Default,,0,0,0,,今晚
+Dialogue: 0,0:21:50.89,0:21:51.77,Default,,0,0,0,,今晚
+Dialogue: 0,0:21:52.48,0:21:53.45,Default,,0,0,0,,是個不眠夜
+Dialogue: 0,0:21:54.97,0:21:58.57,Default,,0,0,0,,感覺這個做成雙層交替會更可愛
+Dialogue: 0,0:21:58.92,0:22:00.73,Default,,0,0,0,,紅色人造絲布料不夠用
+Dialogue: 0,0:22:01.17,0:22:02.07,Default,,0,0,0,,要我去買嗎
+Dialogue: 0,0:22:02.07,0:22:02.87,Default,,0,0,0,,拜託了
+Dialogue: 0,0:22:03.45,0:22:05.82,Default,,0,0,0,,肩部要做出美麗的體積感
+Dialogue: 0,0:22:06.18,0:22:09.11,Default,,0,0,0,,120號細線和緞子是必不可少的
+Dialogue: 0,0:22:09.11,0:22:10.52,Default,,0,0,0,,想辦法在紙樣上解決一下
+Dialogue: 0,0:22:10.80,0:22:14.10,Default,,0,0,0,,把6號 7號 9號服裝拿來我這裡
+Dialogue: 0,0:22:14.39,0:22:16.16,Default,,0,0,0,,負責人去跟進別的服裝
+Dialogue: 0,0:22:21.77,0:22:23.91,Default,,0,0,0,,這種臨近截止的緊迫感
+Dialogue: 0,0:22:24.27,0:22:25.38,Default,,0,0,0,,好懷念
+Dialogue: 0,0:22:26.28,0:22:28.54,Default,,0,0,0,,照明 音響還有著裝員
+Dialogue: 0,0:22:28.54,0:22:30.04,Default,,0,0,0,,總算也都安排上了
+Dialogue: 0,0:22:31.45,0:22:33.75,Default,,0,0,0,,無一例外
+Dialogue: 0,0:22:34.97,0:22:39.23,Default,,0,0,0,,這些都是柳田先生教會我的東西
+Dialogue: 0,0:22:40.73,0:22:41.67,Default,,0,0,0,,完工
+Dialogue: 0,0:22:42.46,0:22:43.42,Default,,0,0,0,,趕上了
+Dialogue: 0,0:24:24.66,0:24:26.55,Default,,0,0,0,,下集 我不能輸
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:02:13.07,0:02:16.53,OP-JP,,0,0,0,,{\fad(250,500)\blur3}私を笑い飛ばした影を
+Dialogue: 0,0:02:16.53,0:02:19.91,OP-JP,,0,0,0,,{\fad(250,500)\blur3}風が笑い飛ばす日を待とう
+Dialogue: 0,0:02:19.91,0:02:22.83,OP-JP,,0,0,0,,{\fad(250,500)\blur3}夢見たあの場所まで
+Dialogue: 0,0:02:37.80,0:02:44.31,OP-JP,,0,0,0,,{\fad(250,500)\blur3}眩い光に思わず目を閉じる
+Dialogue: 0,0:02:44.31,0:02:50.40,OP-JP,,0,0,0,,{\fad(250,500)\blur3}視線が運ぶ言葉は分かってるよ
+Dialogue: 0,0:02:50.40,0:02:57.24,OP-JP,,0,0,0,,{\fad(250,500)\blur3}何になりたいの　その度嫌になると
+Dialogue: 0,0:02:57.24,0:03:02.91,OP-JP,,0,0,0,,{\fad(250,500)\blur3}言った君も踏み出したんだね
+Dialogue: 0,0:03:02.91,0:03:08.25,OP-JP,,0,0,0,,{\fad(250,500)\blur3}つまづいても　フラついても　食らいついてきたんだ
+Dialogue: 0,0:03:09.21,0:03:14.59,OP-JP,,0,0,0,,{\fad(250,500)\blur3}意味を問うより響く鼓動　ちゃんと息をしてる
+Dialogue: 0,0:03:17.05,0:03:20.05,OP-JP,,0,0,0,,{\fad(250,500)\blur3}私を笑い飛ばした影を
+Dialogue: 0,0:03:20.05,0:03:23.14,OP-JP,,0,0,0,,{\fad(250,500)\blur3}風が笑い飛ばす日を待とう
+Dialogue: 0,0:03:23.31,0:03:26.31,OP-JP,,0,0,0,,{\fad(250,500)\blur3}涙が溢れてもうダメになる
+Dialogue: 0,0:03:26.31,0:03:29.23,OP-JP,,0,0,0,,{\fad(250,500)\blur3}明日へ飛び立つ勇気を待とう
+Dialogue: 0,0:03:29.23,0:03:35.19,OP-JP,,0,0,0,,{\fad(250,500)\blur3}夢見てたあの場所まで　私の道を歩いて
+Dialogue: 0,0:02:13.07,0:02:16.53,OP-CH,,0,0,0,,{\fad(250,500)\blur3}曾對我不屑一顧的背影
+Dialogue: 0,0:02:16.53,0:02:19.91,OP-CH,,0,0,0,,{\fad(250,500)\blur3}請等待將其隨風付之一笑的那天到來吧
+Dialogue: 0,0:02:19.91,0:02:22.83,OP-CH,,0,0,0,,{\fad(250,500)\blur3}直到抵達那個夢想的地方
+Dialogue: 0,0:02:37.80,0:02:44.31,OP-CH,,0,0,0,,{\fad(250,500)\blur3}耀眼的光芒讓我不禁閉上眼睛
+Dialogue: 0,0:02:44.31,0:02:50.40,OP-CH,,0,0,0,,{\fad(250,500)\blur3}我知道你的眼神傳達的意思
+Dialogue: 0,0:02:50.40,0:02:57.24,OP-CH,,0,0,0,,{\fad(250,500)\blur3}每當提起夢想就會難受的你
+Dialogue: 0,0:02:57.24,0:03:02.91,OP-CH,,0,0,0,,{\fad(250,500)\blur3}也終於邁開了腳步
+Dialogue: 0,0:03:02.91,0:03:08.25,OP-CH,,0,0,0,,{\fad(250,500)\blur3}即便跌跌撞撞  但你仍舊緊跟了上來
+Dialogue: 0,0:03:09.21,0:03:14.59,OP-CH,,0,0,0,,{\fad(250,500)\blur3}比起糾結意義不如遵循內心的鼓動  感受律動的呼吸
+Dialogue: 0,0:03:17.05,0:03:20.05,OP-CH,,0,0,0,,{\fad(250,500)\blur3}曾對我不屑一顧的背影
+Dialogue: 0,0:03:20.05,0:03:23.14,OP-CH,,0,0,0,,{\fad(250,500)\blur3}請等待將其隨風付之一笑的那天到來吧
+Dialogue: 0,0:03:23.31,0:03:26.31,OP-CH,,0,0,0,,{\fad(250,500)\blur3}淚水盈眶  萬念俱灰時
+Dialogue: 0,0:03:26.31,0:03:29.23,OP-CH,,0,0,0,,{\fad(250,500)\blur3}請積蓄展翅飛向明天的勇氣吧
+Dialogue: 0,0:03:29.23,0:03:35.19,OP-CH,,0,0,0,,{\fad(250,500)\blur3}走自己的路  直到抵達那個夢想的地方
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:23:07.16,0:23:18.46,ED-JP,,0,0,0,,{\fad(250,500)\blur3}思い描いたあの景色は 遠くに霞んで
+Dialogue: 0,0:23:19.09,0:23:30.52,ED-JP,,0,0,0,,{\fad(250,500)\blur3}追いかけてゆくその背中を ただ見つめていた
+Dialogue: 0,0:23:31.18,0:23:36.98,ED-JP,,0,0,0,,{\fad(250,500)\blur3}手放す理由を探す時もあった
+Dialogue: 0,0:23:36.98,0:23:43.45,ED-JP,,0,0,0,,{\fad(250,500)\blur3}それでも変わらぬ願い滲んでゆく
+Dialogue: 0,0:23:44.57,0:23:56.58,ED-JP,,0,0,0,,{\fad(250,500)\blur3}君だけを照らす光 いつか届くように
+Dialogue: 0,0:23:57.00,0:24:03.13,ED-JP,,0,0,0,,{\fad(250,500)\blur3}この道を繋いでゆこう
+Dialogue: 0,0:24:03.42,0:24:13.27,ED-JP,,0,0,0,,{\fad(250,500)\blur3}焦がれているあの未来へ
+Dialogue: 0,0:23:07.16,0:23:18.50,ED-CH,,0,0,0,,{\fad(250,500)\blur3}心中描繪的景色 在遠處變得模糊
+Dialogue: 0,0:23:19.09,0:23:30.52,ED-CH,,0,0,0,,{\fad(250,500)\blur3}而我只是靜靜地看著 你追逐它的背影
+Dialogue: 0,0:23:31.18,0:23:36.98,ED-CH,,0,0,0,,{\fad(250,500)\blur3}也曾為放手尋找過理由
+Dialogue: 0,0:23:36.98,0:23:43.45,ED-CH,,0,0,0,,{\fad(250,500)\blur3}但從未改變的願望卻日漸強烈
+Dialogue: 0,0:23:44.57,0:23:56.58,ED-CH,,0,0,0,,{\fad(250,500)\blur3}為了將那只照亮你的光芒 送抵你的身旁
+Dialogue: 0,0:23:57.00,0:24:03.13,ED-CH,,0,0,0,,{\fad(250,500)\blur3}讓我將這道路連到一起吧
+Dialogue: 0,0:24:03.42,0:24:13.27,ED-CH,,0,0,0,,{\fad(250,500)\blur3}直到通往那渴望的未來
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
