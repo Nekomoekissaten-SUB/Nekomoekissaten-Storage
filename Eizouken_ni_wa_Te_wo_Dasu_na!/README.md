@@ -44,3 +44,6 @@ FOT-ロダンわんぱく Pro B <FOT-RodinWanpaku Pro B>
 
 ## 日文
 
+来源于NHK総合テレビジョン，仅调轴后大致适配于Web源。
+
+[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_JPN.7z)
