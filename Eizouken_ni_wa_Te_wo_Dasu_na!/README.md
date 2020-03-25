@@ -2,9 +2,9 @@
 
 # 字幕
 
-## 简体字幕
+## 简体中文
 
-[Web合集](Eizouken_Web_CHS.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_CHS.7z)
 
 所需字体：
 ```
@@ -23,9 +23,9 @@ MZhiHei PRC UltraBold
 华文中宋 <STZhongsong>
 ```
 
-## 繁体字幕
+## 繁体中文
 
-[Web合集](Eizouken_Web_CHT.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_CHT.7z)
 
 所需字体：
 ```
@@ -41,3 +41,6 @@ FOT-ロダンわんぱく Pro B <FOT-RodinWanpaku Pro B>
 汉仪旗黑-90S <HYQiHei-90S>
 华文中宋 <STZhongsong>
 ```
+
+## 日文
+
