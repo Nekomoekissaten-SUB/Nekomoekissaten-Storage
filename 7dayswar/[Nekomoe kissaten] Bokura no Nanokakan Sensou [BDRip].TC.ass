@@ -2119,19 +2119,19 @@ Dialogue: 0,0:27:05.60,0:27:08.11,Screen,,0,0,0,,{\fs18\frz19.46\pos(872.223,420
 Dialogue: 0,0:27:05.60,0:27:08.11,Screen,,0,0,0,,{\fs18\frz20.82\pos(1107,350)}蠢？
 Dialogue: 0,0:27:05.60,0:27:08.11,Screen,,0,0,0,,{\an7\fs18\frz26.34\pos(767,553)}有採光用窗\N堵住 對面也不要忘記
 Dialogue: 0,0:27:05.60,0:27:08.11,Screen,,0,0,0,,{\fs18\fn@FZLanTingHei-DB-BIG5\pos(1111,518)\frz294.7}外側已封鎖 內側也需要封鎖
-Dialogue: 0,0:32:08.03,0:32:08.36,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\alpha&HFF&\t(\alpha&H1B&)\pos(493.333,367.714)\frz354.9}警報
-Dialogue: 0,0:32:08.36,0:32:08.41,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(496.38,361.36)\frz354.9\alpha&H1B&}警報
-Dialogue: 0,0:32:08.41,0:32:08.45,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(496.38,361.36)\frz354.9\alpha&H1B&}警報
-Dialogue: 0,0:32:08.45,0:32:08.49,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(496.39,361.37)\frz354.9\alpha&H1B&}警報
-Dialogue: 0,0:32:08.49,0:32:08.53,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(501.79,352.9)\frz354.9}警報
-Dialogue: 0,0:32:08.53,0:32:08.57,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(501.76,352.91)\frz354.9}警報
-Dialogue: 0,0:32:08.57,0:32:08.61,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(501.8,352.9)\frz354.9}警報
-Dialogue: 0,0:32:08.61,0:32:08.66,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(506.36,346.62)\frz354.9}警報
-Dialogue: 0,0:32:08.66,0:32:08.74,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(506.38,346.61)\frz354.9}警報
-Dialogue: 0,0:32:08.74,0:32:08.91,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(509.23,343.03)\frz354.9}警報
-Dialogue: 0,0:32:08.91,0:32:09.78,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(510.22,341.9)\frz354.9}警報
-Dialogue: 0,0:32:09.78,0:32:09.82,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(510.23,341.9)\frz354.9}警報
-Dialogue: 0,0:32:09.82,0:32:10.74,Screen,,0,0,0,,{\fs22\fnMZhiHei HK UltraBold\fax-0.1\c&H6D6F6F&\pos(510.22,341.9)\frz354.9}警報
+Dialogue: 0,0:32:08.03,0:32:08.36,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\alpha&HFF&\t(\alpha&H1B&)\pos(493.333,367.714)\frz354.9}警報
+Dialogue: 0,0:32:08.36,0:32:08.41,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(496.38,361.36)\frz354.9\alpha&H1B&}警報
+Dialogue: 0,0:32:08.41,0:32:08.45,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(496.38,361.36)\frz354.9\alpha&H1B&}警報
+Dialogue: 0,0:32:08.45,0:32:08.49,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(496.39,361.37)\frz354.9\alpha&H1B&}警報
+Dialogue: 0,0:32:08.49,0:32:08.53,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(501.79,352.9)\frz354.9}警報
+Dialogue: 0,0:32:08.53,0:32:08.57,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(501.76,352.91)\frz354.9}警報
+Dialogue: 0,0:32:08.57,0:32:08.61,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(501.8,352.9)\frz354.9}警報
+Dialogue: 0,0:32:08.61,0:32:08.66,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(506.36,346.62)\frz354.9}警報
+Dialogue: 0,0:32:08.66,0:32:08.74,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(506.38,346.61)\frz354.9}警報
+Dialogue: 0,0:32:08.74,0:32:08.91,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(509.23,343.03)\frz354.9}警報
+Dialogue: 0,0:32:08.91,0:32:09.78,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(510.22,341.9)\frz354.9}警報
+Dialogue: 0,0:32:09.78,0:32:09.82,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(510.23,341.9)\frz354.9}警報
+Dialogue: 0,0:32:09.82,0:32:10.74,Screen,,0,0,0,,{\fs22\fnMZhiHeiHK-UltraBold\fax-0.1\c&H6D6F6F&\pos(510.22,341.9)\frz354.9}警報
 Dialogue: 0,0:34:29.01,0:34:35.51,Screen,,0,0,0,,{\an4\c&HF6E2D9&\fs40\fscx80\frz349\move(641.333,510.266,410.933,466.533,21,6485)\iclip(m 644 441 l 615 570 98 462 138 344)}颱風訊息：在日本南部海域產生的12號颱風正保持強勁態勢北上。將於30號…
 Dialogue: 1,0:36:15.78,0:36:15.82,Screen,,0,0,0,,{\b1\pos(717,305)\fnFZKaTong-M19\bord4\c&HFE92F8&}明{\c&H85D8F5&}天{\c&HA4B4F8&}見
 Dialogue: 1,0:36:15.82,0:36:15.86,Screen,,0,0,0,,{\b1\pos(716.73,304.63)\fnFZKaTong-M19\bord4\c&HFE92F8&}明{\c&H85D8F5&}天{\c&HA4B4F8&}見

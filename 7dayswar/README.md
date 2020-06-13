@@ -25,7 +25,7 @@ MZhiHei PRC UltraBold   ver.1.00
 ```
 FOT-ニューセザンヌ ProN M <FOT-NewCezanne ProN M>   ver.2.00
 IBM Plex Thai SemiBold  ver.1.00
-MZhiHei HK  ver.1.00
+MZhiHeiHK-UltraBold  ver.1.10
 方正卡通_GBK <FZKaTong-M19> ver.5.30
 方正兰亭圆_GBK_特 <FZLanTingYuan-H-GBK> ver.1.00
 方正特雅宋_GBK <FZYaSong-H-GBK> ver.1.20
