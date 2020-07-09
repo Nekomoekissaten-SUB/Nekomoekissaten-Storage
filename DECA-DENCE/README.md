@@ -24,5 +24,5 @@ FOT-モード明朝Bラージ ProN H <FOT-ModeMinBLarge ProN H>
 ```
 
 
-[01S]: ./Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2001%20%5BWebRip%5D.JPSC.ass  '#1 JPSC'
-[01T]: ./Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2001%20%5BWebRip%5D.JPTC.ass  '#1 JPTC'
+[01S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2001%20%5BWebRip%5D.JPSC.ass  '#1 JPSC'
+[01T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2001%20%5BWebRip%5D.JPTC.ass  '#1 JPTC'
