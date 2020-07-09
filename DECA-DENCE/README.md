@@ -4,8 +4,7 @@
 
 集数 | 标题 | 简体字幕 | 繁體字幕
 --- | --- | --- | ---
-#1 | Ignition | 简日双语 | 繁日雙語
-
+#1 | Ignition | [简日双语][01S] | [繁日雙語][01T]
 
 ## 所需字体
 
@@ -23,3 +22,7 @@ FOT-モード明朝Bラージ ProN H <FOT-ModeMinBLarge ProN H>
 # 繁体字体
 華康儷金黑(P) <DFPLiKingHei-XB>
 ```
+
+
+[01S]: ./Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2001%20%5BWebRip%5D.JPSC.ass  '#1 JPSC'
+[01T]: ./Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2001%20%5BWebRip%5D.JPTC.ass  '#1 JPTC'
