@@ -15,8 +15,9 @@ Style: Dial-SC,HYRuiHuSongW,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 Style: Dial-SC_Top,HYRuiHuSongW,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,28,1
 Style: Dial-TC,DFPLiKingHei-XB,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,34,1
 Style: Dial-TC_Top,DFPLiKingHei-XB,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,34,1
-Style: Name,FZYaSong-H-GBK,40,&H00101010,&H000000FF,&H00F8F7F2,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,0,1
+Style: Name,FZRuiZhengHei_GBK ExtraBold,48,&H00101010,&H000000FF,&H00F8F7F2,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,0,1
 Style: Staff,FOT-NewRodin ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,2,1
+Style: UI,FZXiangPiZhangTiJF ExtraBold,48,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -663,10 +664,11 @@ Dialogue: 0,0:03:17.05,0:03:19.05,Name,,0,0,0,,{\pos(352,669)}琳美
 Dialogue: 0,0:03:20.93,0:03:23.68,Name,,0,0,0,,{\pos(1098,327)}菲
 Dialogue: 0,0:03:27.56,0:03:30.19,Name,,0,0,0,,{\pos(629,507)}箱人孤儿院
 Dialogue: 0,0:03:43.83,0:03:45.71,Name,,0,0,0,,{\pos(287,684)}枣
-Dialogue: 0,0:06:45.05,0:06:47.85,Name,,0,0,0,,{\pos(511,715)\bord2}移动要塞DECA-DENCE
-Dialogue: 0,0:06:58.36,0:07:00.11,Name,,0,0,0,,{\fn@FZYaSong-H-GBK\frz-90\pos(1030,441)}镝木
+Dialogue: 0,0:06:45.05,0:06:47.85,Name,,0,0,0,,{\bord2\pos(416,720)}移动要塞
+Dialogue: 0,0:06:45.05,0:06:47.85,Name,,0,0,0,,{\bord2\fnHYRuiHuSongW\fs52\pos(640,719)}DECA-DENCE
+Dialogue: 0,0:06:58.36,0:07:00.11,Name,,0,0,0,,{\fn@FZRuiZhengHei_GBK ExtraBold\frz-90\pos(1030,441)}镝木
 Dialogue: 0,0:09:45.94,0:09:47.90,Name,,0,0,0,,{\fad(0,350)\pos(1010,701)}芬内尔
-Dialogue: 0,0:14:39.02,0:14:41.78,Name,,0,0,0,,{\c&HE5E5D8&\fs20\pos(1167,36)}镝木
+Dialogue: 0,0:14:39.02,0:14:41.78,UI,,0,0,0,,{\c&HF1F4EA&\fs25\pos(1167,36)}镝木
 Dialogue: 0,0:16:28.30,0:16:31.51,Name,,0,0,0,,{\pos(225,545)\bord1.5}凑
 Dialogue: 0,0:17:04.34,0:17:06.92,Name,,0,0,0,,{\pos(1102,291)\bord1.5}红
 Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,OP
