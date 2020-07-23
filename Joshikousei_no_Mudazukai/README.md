@@ -85,4 +85,8 @@ Unifont
 
 来源于AT-X，调轴大致适配于BD源并更换样式。
 
-[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_BD_JPN.7z)
+[BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_JPN_AT-X.7z)
+
+来源于Netflix，未调轴适配BD
+
+[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_JPN_NF.7z)

@@ -1,5 +1,3 @@
-![](poster.jpg)
-
 # 字幕
 
 ## 中文字幕
@@ -40,3 +38,10 @@ FOT-あられ Std DB <FOT-Aralet Std DB>    ver.1.20
 ```
 
 ## 日文字幕
+
+日文字幕来自AT-X，未调轴适配Web/BD源
+
+[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Hizaue/Hizaue_TV_JPN.7z)
+
+
+![](poster.jpg)
