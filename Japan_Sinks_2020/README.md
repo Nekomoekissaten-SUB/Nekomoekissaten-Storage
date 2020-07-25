@@ -9,7 +9,7 @@
 第3話 | マイオリタキボウ | 希望降临 | [简体][03S] | [繁體][03T]
 第4話 | ヒラカレタトビラ | 敞开的门 | [简体][04S] | [繁體][04T]
 第5話 | カナシキゲンソウ | 悲伤幻想 | [简体][05S] | [繁體][05T]
-第6話 | コノセカイノオワリ | | 简体 | 繁體
+第6話 | コノセカイノオワリ | 世界末日 | [简体][06S] | [繁體][06T]
 第7話 | ニッポンノヨアケ | | 简体 | 繁體
 第8話 | ママサイテー | | 简体 | 繁體
 第9話 | ニッポンチンボツ | | 简体 | 繁體
@@ -42,3 +42,5 @@ AvenirNextW1G-Demi
 [04T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Web/%5BNekomoe%20kissaten%5D%20Japan%20Sinks%202020%2004%20%5BWebRip%5D.TC.ass  '#4 CHT'
 [05S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Web/%5BNekomoe%20kissaten%5D%20Japan%20Sinks%202020%2005%20%5BWebRip%5D.SC.ass  '#5 CHS'
 [05T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Web/%5BNekomoe%20kissaten%5D%20Japan%20Sinks%202020%2005%20%5BWebRip%5D.TC.ass  '#5 CHT'
+[06S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Web/%5BNekomoe%20kissaten%5D%20Japan%20Sinks%202020%2006%20%5BWebRip%5D.SC.ass  '#6 CHS'
+[06T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Web/%5BNekomoe%20kissaten%5D%20Japan%20Sinks%202020%2006%20%5BWebRip%5D.TC.ass  '#6 CHT'
