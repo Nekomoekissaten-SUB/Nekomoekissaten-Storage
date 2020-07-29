@@ -1,10 +1,12 @@
-![](poster.png)
-
 # 字幕
 
 ## 中文字幕
 
 注：经测试，MPC-BE 的内置字幕滤镜无法正确识别 ED 特效，可以使用 xy-VSFilter 作为字幕滤镜或使用其他播放器
+
+[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_BD_CHS.7z)
+
+[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_BD_CHT.7z)
 
 [简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_Web_CHS.7z)
 
@@ -13,6 +15,7 @@
 所需字体：
 ```
 A-OTF Midashi Go MB31 Pr6N MB31
+Avenir Next W1G
 Avenir Next W1G Demi
 FOT-CezanneBokutoh Pro DB
 FZLiBian-S02
@@ -36,3 +39,5 @@ FZTieJinLiShu-S17
 来源于Netflix，适配于Web源。
 
 [Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_Web_JPN.7z)
+
+![](poster.png)

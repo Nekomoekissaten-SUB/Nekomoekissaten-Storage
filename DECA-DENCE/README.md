@@ -5,6 +5,7 @@
 #1 | Ignition | [简日双语][01S] | [繁日雙語][01T]
 #2 | Sprocket | [简日双语][02S] | [繁日雙語][02T]
 #3 | Steering | [简日双语][03S] | [繁日雙語][03T]
+$4 | Transmission | 
 
 ## 所需字体
 
@@ -17,6 +18,7 @@ FOT-花風テクノ Std U <FOT-KafuTechno Std U>
 
 # 简繁通用
 汉仪旗黑-65S <HYQiHei-65S>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
 方正锐正黑_GBK ExtraBold <FZRuiZhengHei_GBK ExtraBold> 
 方正橡皮章体 简繁 ExtraBold <FZXiangPiZhangTiJF ExtraBold> 
 
