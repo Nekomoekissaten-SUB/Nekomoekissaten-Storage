@@ -7,10 +7,6 @@ PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Scroll Position: 297
-Active Line: 326
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
@@ -128,8 +124,8 @@ Dialogue: 0,0:08:43.43,0:08:44.95,Default,,0,0,0,,這讓人怎麼能不慌啊
 Dialogue: 0,0:08:45.25,0:08:46.83,Default,,0,0,0,,得快點通知大家
 Dialogue: 0,0:08:49.58,0:08:52.06,Default,,0,0,0,,妳確定妳剛剛說的嗎
 Dialogue: 0,0:08:53.05,0:08:54.37,Default,,0,0,0,,這是真的
-Dialogue: 0,0:08:54.75,0:08:56.16,Default,,0,0,0,,我很相信
-Dialogue: 0,0:08:56.74,0:08:59.89,Default,,0,0,0,,步 我是相信妳的
+Dialogue: 0,0:08:54.75,0:08:56.16,Default,,0,0,0,,相信我啊
+Dialogue: 0,0:08:56.74,0:08:59.89,Default,,0,0,0,,步 我相信妳
 Dialogue: 0,0:09:01.05,0:09:03.87,Default,,0,0,0,,但是小野寺先生的情報是否正確
 Dialogue: 0,0:09:04.03,0:09:05.42,Default,,0,0,0,,還需要進一步確認
 Dialogue: 0,0:09:10.53,0:09:10.99,Default,,0,0,0,,找到了
@@ -220,7 +216,7 @@ Dialogue: 0,0:14:52.57,0:14:53.94,Default,,0,0,0,,你們又來幹什麼
 Dialogue: 0,0:14:56.88,0:14:59.63,Default,,0,0,0,,看來大家目的相同吧
 Dialogue: 0,0:15:09.25,0:15:09.98,Default,,0,0,0,,住手
 Dialogue: 0,0:15:12.30,0:15:13.34,Default,,0,0,0,,還沒好嗎
-Dialogue: 0,0:15:31.43,0:15:32.77,Default,,0,0,0,,請逃離這裡 路上注意安全
+Dialogue: 0,0:15:31.43,0:15:32.77,Default,,0,0,0,,請逃離這裡
 Dialogue: 0,0:15:33.17,0:15:34.57,Default,,0,0,0,,一樓已經出不去了
 Dialogue: 0,0:15:34.91,0:15:36.04,Default,,0,0,0,,走樓上出去
 Dialogue: 0,0:15:36.92,0:15:38.21,Default,,0,0,0,,快開門

@@ -7,10 +7,6 @@ PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Scroll Position: 381
-Active Line: 386
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1

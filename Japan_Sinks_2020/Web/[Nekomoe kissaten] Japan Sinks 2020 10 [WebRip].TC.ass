@@ -7,10 +7,6 @@ PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Scroll Position: 382
-Active Line: 394
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
@@ -308,6 +304,7 @@ Dialogue: 0,0:28:21.68,0:28:27.19,Default,,0,0,0,,太陽會落下 但一定會�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:10:44.00,0:10:49.21,Title,,0,0,0,,{\fad(1500,1000)\c&HFFFFFF&\fs40\pos(640,413)}新的開始
 Dialogue: 0,0:13:09.06,0:13:11.27,Screen,,0,0,0,,{\c&H404F5F&\fax0.5\frx8\fry2\pos(675,141)\frz21.01}KITE上傳了影片 生日快樂 步
+Dialogue: 0,0:17:28.74,0:17:49.42,Screen,,0,0,0,,{\3c&HC8D348&\bord2\pos(172,189)}現在的孩子
 Dialogue: 0,0:19:41.74,0:19:43.70,Screen,,0,0,0,,{\c&H727272&\fs25\pos(577,83)}日本選手復歸紀念典禮直播
 Dialogue: 0,0:19:43.70,0:19:44.91,Screen,,0,0,0,,{\an1\c&HB3B3B3&\fs15\pos(263,355)}日本風景                                          日本箱根驛傳                                      日本東京塔                                           日本文化
 Dialogue: 0,0:19:43.70,0:19:44.91,Screen,,0,0,0,,{\an1\c&HB3B3B3&\fs15\pos(271,520)}日本美食                                          日本拉麵                                           日本競技                                          日本慶典1

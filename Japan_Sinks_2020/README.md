@@ -15,6 +15,8 @@
 第9話 | ニッポンチンボツ | 日本沉没 | [简体][09S] | [繁體][09T]
 第10話 | ハジマリノアサ | 新的开始 | [简体][10S] | [繁體][10T]
 
+[中文Web字幕合集](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Japan_Sinks_2020_Web_CHI.7z)
+
 [日文Web字幕合集](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Japan_Sinks_2020_Web_JPN.7z)
 
 ## 所需字体
@@ -28,9 +30,11 @@ A-OTF 正楷書CB1 Pr5 Regular <A-OTF Sei Kaisho CB1 Pr5>
 Avenir Next W1G Semibold / AvenirNextW1G-Demi
 
 # 简繁通用
+华文中宋 <STZhongsong>
 仓耳今楷01-27533 W03 <TsangerJinKai01-27533 W03>
 汉仪旗黑-65S <HYQiHei-65S>
 方正仿宋_GBK <FZFangSong-Z02>
+方正行楷_GBK <FZXingKai-S04>
 ```
 
 

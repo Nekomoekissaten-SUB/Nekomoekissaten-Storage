@@ -7,10 +7,6 @@ PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Scroll Position: 240
-Active Line: 267
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
@@ -249,7 +245,7 @@ Dialogue: 0,0:15:49.51,0:15:52.12,Default,,0,0,0,,我是你最想見的人喔
 Dialogue: 0,0:15:53.05,0:15:56.22,Default,,0,0,0,,對不起 其實是我
 Dialogue: 0,0:16:00.33,0:16:01.97,Default,,0,0,0,,吵架可不好喔
 Dialogue: 0,0:16:03.36,0:16:05.54,Default,,0,0,0,,如果我能好好和她說就好了
-Dialogue: 0,0:16:08.71,0:16:13.38,Default,,0,0,0,,筋疲力盡了
+Dialogue: 0,0:16:11.25,0:16:13.38,Default,,0,0,0,,筋疲力盡了
 Dialogue: 0,0:16:15.16,0:16:17.71,Default,,0,0,0,,讓自己稍微放鬆一下吧
 Dialogue: 0,0:16:22.35,0:16:24.83,Default,,0,0,0,,要是不撐著我就要崩潰了
 Dialogue: 0,0:16:25.49,0:16:26.49,Default,,0,0,0,,沒事的
