@@ -2,10 +2,13 @@
 
 集数 | 标题 | 简体字幕 | 繁體字幕
 :-: | :-: | :-: | :-:
-#1 | Ignition | [简日双语][01S] | [繁日雙語][01T]
-#2 | Sprocket | [简日双语][02S] | [繁日雙語][02T]
-#3 | Steering | [简日双语][03S] | [繁日雙語][03T]
-$4 | Transmission | 
+#1 | ignition | [简日双语][01S] | [繁日雙語][01T]
+#2 | sprocket | [简日双语][02S] | [繁日雙語][02T]
+#3 | steering | [简日双语][03S] | [繁日雙語][03T]
+#4 | transmission | [简日双语][04S] | [繁日雙語][04T]
+#5 | differential gear | [简日双语][05S] | [繁日雙語][05T]
+#5.5 | install | [简日双语][05.5S] | [繁日雙語][05.5T]
+#6 | radiator | 
 
 ## 所需字体
 
@@ -15,6 +18,7 @@ FOT-ニューロダン ProN DB <FOT-NewRodin ProN DB>
 FOT-ニューロダン ProN B <FOT-NewRodin ProN B>
 FOT-モード明朝Bラージ ProN H <FOT-ModeMinBLarge ProN H>
 FOT-花風テクノ Std U <FOT-KafuTechno Std U>
+FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 
 # 简繁通用
 汉仪旗黑-65S <HYQiHei-65S>
@@ -39,5 +43,11 @@ FOT-花風テクノ Std U <FOT-KafuTechno Std U>
 [02T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2002%20%5BWebRip%5D.JPTC.ass  '#2 JPTC'
 [03S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2003%20%5BWebRip%5D.JPSC.ass  '#3 JPSC'
 [03T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2003%20%5BWebRip%5D.JPTC.ass  '#3 JPTC'
+[04S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2004%20%5BWebRip%5D.JPSC.ass  '#4 JPSC'
+[04T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2004%20%5BWebRip%5D.JPTC.ass  '#4 JPTC'
+[05S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2005%20%5BWebRip%5D.JPSC.ass  '#5 JPSC'
+[05T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2005%20%5BWebRip%5D.JPTC.ass  '#5 JPTC'
+[05.5S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2005.5%20%5BWebRip%5D.JPSC.ass  '#5.5 JPSC'
+[05.5T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2005.5%20%5BWebRip%5D.JPTC.ass  '#5.5 JPTC'
 
 ![](poster.png)
