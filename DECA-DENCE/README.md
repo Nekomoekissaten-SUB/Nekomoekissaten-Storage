@@ -8,7 +8,8 @@
 #4 | transmission | [简日双语][04S] | [繁日雙語][04T]
 #5 | differential gear | [简日双语][05S] | [繁日雙語][05T]
 #5.5 | install | [简日双语][05.5S] | [繁日雙語][05.5T]
-#6 | radiator | 
+#6 | radiator | [简日双语][06S] | [繁日雙語][06]
+#7 | driveshaft |
 
 ## 所需字体
 
@@ -49,5 +50,7 @@ FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 [05T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2005%20%5BWebRip%5D.JPTC.ass  '#5 JPTC'
 [05.5S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2005.5%20%5BWebRip%5D.JPSC.ass  '#5.5 JPSC'
 [05.5T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2005.5%20%5BWebRip%5D.JPTC.ass  '#5.5 JPTC'
+[06S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2006%20%5BWebRip%5D.JPSC.ass  '#6 JPSC'
+[06T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2006%20%5BWebRip%5D.JPTC.ass  '#6 JPTC'
 
 ![](poster.png)
