@@ -10,7 +10,8 @@
 #5.5 | install | [简日双语][05.5S] | [繁日雙語][05.5T]
 #6 | radiator | [简日双语][06S] | [繁日雙語][06T]
 #7 | driveshaft | [简日双语][07S] | [繁日雙語][07T]
-#8 | turbine
+#8 | turbine | [简日双语][08S] | [繁日雙語][08T]
+#9 | turbocharger |
 
 ## 所需字体
 
@@ -55,5 +56,7 @@ FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 [06T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2006%20%5BWebRip%5D.JPTC.ass  '#6 JPTC'
 [07S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2007%20%5BWebRip%5D.JPSC.ass  '#7 JPSC'
 [07T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2007%20%5BWebRip%5D.JPTC.ass  '#7 JPTC'
+[08S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2008%20%5BWebRip%5D.JPSC.ass  '#8 JPSC'
+[08T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2008%20%5BWebRip%5D.JPTC.ass  '#8 JPTC'
 
 ![](poster.png)

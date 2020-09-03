@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 05 [WebRip 1080p HEVC-10bit AAC].SC
+Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 05 [BDRip].SC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -26,7 +26,7 @@ Style: Board2,HYQiHei-40S,30,&H00474747,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
-Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　繁化: 孟武　后期: MIR　WebRip: LoliHouse 空空
+Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　繁化: 孟武　后期: MIR　BDRip: VCB-Studio
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:05:57.59,0:06:01.01,Title-CHS,,0,0,0,,{\fad(700,700)\fax-0.15\pos(731,420)}铁巨人降临！
 Dialogue: 0,0:01:55.26,0:01:57.18,Board2,,0,0,0,,{\frz359.8\t(22,1899,\frz359.85)\move(422,310,422,17,22,1899)}颇具权威的萨满创造的扭曲的科学文化(或许有吧)
@@ -1104,7 +1104,7 @@ Dialogue: 0,0:04:25.15,0:04:28.23,Default,,0,0,0,,这是对工作负责的酬劳
 Dialogue: 0,0:04:29.55,0:04:33.40,Default,,0,0,0,,钱是高质量完工的保障
 Dialogue: 0,0:04:33.62,0:04:38.32,Default,,0,0,0,,既然收了钱 我们便有了高质量完成作品的义务
 Dialogue: 0,0:04:38.51,0:04:44.28,Default,,0,0,0,,拿钱负责和不拿钱不负责哪个比较合理
-Dialogue: 0,0:04:45.06,0:04:49.93,Default,,0,0,0,,不过不收钱 然后我们随心所欲的画不更好
+Dialogue: 0,0:04:45.06,0:04:49.93,Default,,0,0,0,,不过不收钱 然后我们随心所欲地画不更好
 Dialogue: 0,0:04:50.13,0:04:51.13,Default,,0,0,0,,我也这么觉得
 Dialogue: 0,0:04:51.27,0:04:52.42,Default,,0,0,0,,那可不行
 Dialogue: 0,0:04:53.82,0:04:59.14,Default,,0,0,0,,全长3.5米 重4.7吨 移动速度70公里
@@ -1176,7 +1176,7 @@ Dialogue: 0,0:09:21.85,0:09:24.37,Default,,0,0,0,,接受他们制作PV的委托
 Dialogue: 0,0:09:24.37,0:09:26.47,Default,,0,0,0,,映像研的知名度也会上升
 Dialogue: 0,0:09:26.73,0:09:28.04,Default,,0,0,0,,一下子就是大舞台了
 Dialogue: 0,0:09:28.25,0:09:29.55,Default,,0,0,0,,茶几就够了
-Dialogue: 0,0:09:29.84,0:09:32.89,Default,,0,0,0,,我本想在阴暗处不起眼的活着
+Dialogue: 0,0:09:29.84,0:09:32.89,Default,,0,0,0,,我本想在阴暗处不起眼地活着
 Dialogue: 0,0:09:33.01,0:09:34.64,Default,,0,0,0,,你不是讨厌暗处吗
 Dialogue: 0,0:09:34.76,0:09:39.42,Default,,0,0,0,,为了让世间认同我们的作品 必须走向光明
 Dialogue: 0,0:09:39.70,0:09:41.84,Default,,0,0,0,,这比喻和现在的行动完全相反

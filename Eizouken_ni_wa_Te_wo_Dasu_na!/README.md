@@ -1,13 +1,14 @@
-![](Eizouken_poster.png)
-
 # 字幕
 
 ## 简体中文
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_CHS.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_BD_CHS.7z)
+
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_CHS.7z)    仅留作备份
 
 所需字体：
 ```
+Avenir Next W1G Demi
 FOT-コメット Std B <FOT-Comet Std B>
 FOT-ロダンわんぱく Pro B <FOT-RodinWanpaku Pro B>
 MZhiHei PRC UltraBold
@@ -25,10 +26,13 @@ MZhiHei PRC UltraBold
 
 ## 繁体中文
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_CHT.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_BD_CHT.7z)
+
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_CHT.7z)    仅留作备份
 
 所需字体：
 ```
+Avenir Next W1G Demi
 FOT-コメット Std B <FOT-Comet Std B>
 FOT-ロダンわんぱく Pro B <FOT-RodinWanpaku Pro B>
 方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
@@ -44,6 +48,8 @@ FOT-ロダンわんぱく Pro B <FOT-RodinWanpaku Pro B>
 
 ## 日文
 
-来源于NHK総合テレビジョン，仅调轴后大致适配于Web源。
+来源于NHK総合テレビジョン，仅调轴后大致适配于Web源，几乎同BD源。
 
-[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_Web_JPN.7z)
+[Japanese Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken_ni_wa_Te_wo_Dasu_na!/Eizouken_JPN.7z)
+
+![](Eizouken_poster.png)

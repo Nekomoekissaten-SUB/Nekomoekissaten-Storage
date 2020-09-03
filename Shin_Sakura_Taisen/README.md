@@ -1,8 +1,12 @@
-![](poster.png)
-
 # 字幕
 
 ## 中日双语
+
+BD、Web除Staff外无内容变动
+
+[BD简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Shin_Sakura_Taisen/Shin_Sakura_Taisen_BD_JPSC.7z)
+
+[BD繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Shin_Sakura_Taisen/Shin_Sakura_Taisen_BD_JPTC.7z)
 
 [Web简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Shin_Sakura_Taisen/Shin_Sakura_Taisen_Web_JPSC.7z)
 
@@ -21,3 +25,5 @@ MStiffHei HK UltraBold
 方正中粗雅宋_GBK <FZYaSong-DB1-GBK>
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 ```
+
+![](poster.png)

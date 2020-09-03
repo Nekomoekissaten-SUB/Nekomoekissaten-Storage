@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 01 [WebRip 1080p HEVC-10bit AAC].SC
+Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 01 [BDRip].SC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -25,7 +25,7 @@ Style: Shape,HYQiHei-65S,56,&H0000EAFF,&H000000FF,&H00AA6547,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
-Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　后期: MIR　WebRip: LoliHouse 空空
+Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　后期: MIR　BDRip: VCB-Studio
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:02:03.44,0:02:10.65,Screen,,0,0,0,,{\pos(462,178)\c&HFBFDFD&}本月推荐
 Dialogue: 0,0:02:03.44,0:02:10.65,Screen,,0,0,0,,{\fs40\pos(425,630)\c&HFBFDFD&}新作动画

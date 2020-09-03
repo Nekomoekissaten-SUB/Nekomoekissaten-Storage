@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 03 [WebRip 1080p HEVC-10bit AAC].SC
+Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 03 [BDRip].SC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -26,7 +26,7 @@ Style: Board2,HYQiHei-40S,30,&H00474747,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
-Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　繁化: 孟武　后期: MIR　WebRip: LoliHouse 空空
+Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　繁化: 孟武　后期: MIR　BDRip: VCB-Studio
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:01:34.57,0:01:37.99,Title-CHS,,0,0,0,,{\fad(700,700)\fax-0.15}创造实绩吧！
 Dialogue: 0,0:08:02.09,0:08:02.13,Board,,0,0,0,,{\fs15\an7\pos(1220,510)}宇宙航行专用中规模宇宙飞船\N无法在有气压高重力环境下飞行\N没有突入大气层能力

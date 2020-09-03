@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 08 [WebRip 1080p HEVC-10bit AAC].SC
+Title: [Nekomoe kissaten] Eizouken ni wa Te wo Dasu na! 08 [BDRip].SC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -27,7 +27,7 @@ Style: Board3,HYQiHei-40S,25,&H00474747,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
-Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　繁化: 孟武　后期: MIR　WebRip: LoliHouse 空空
+Dialogue: 0,0:00:05.00,0:00:08.00,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Deja Vu  名別  ダメ人間 　校对: Dysonsphere　繁化: 孟武　后期: MIR　BDRip: VCB-Studio
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:06:03.43,0:06:06.85,Title-CHS,,0,0,0,,{\fad(700,700)\fax-0.15}大芝浜祭！
 Dialogue: 0,0:08:10.43,0:08:12.43,Screen,,0,0,0,,{\fnHYQiHei-65S\an7\3c&H8BA22A&\bord2}电磁阿米巴虫
