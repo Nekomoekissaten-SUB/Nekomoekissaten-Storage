@@ -1,0 +1,111 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 13 [Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans SC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans SC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif SC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CN,@Tensentype JiaLiXianYuanGB18030,36,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻译：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.05,0:00:29.05,Title,,0,0,0,,狂野罐头
+Dialogue: 0,0:05:53.50,0:06:00.01,Next,,0,0,0,,{\pos(1064,604)}美丽的康康
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超级小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家里
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,养着一条非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,随处可见的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.54,Default,,0,0,0,,仅有一点不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,它是保护世界的超级英雄
+Dialogue: 0,0:00:31.01,0:00:31.84,Screen,,0,0,0,,{\an9\3c&H7A2605&}那年艰苦寒冬
+Comment: 0,0:00:31.01,0:00:31.84,Default,,0,0,0,,弗兰德斯的狗
+Dialogue: 0,0:00:38.27,0:00:38.68,Default,,0,0,0,,小白
+Dialogue: 0,0:00:38.90,0:00:40.85,Default,,0,0,0,,发现疑似骨骨骨头反应
+Dialogue: 0,0:00:41.02,0:00:42.73,Top,,0,0,0,,{\fad(350,100)}鱼罐头
+Dialogue: 0,0:00:45.60,0:00:47.82,Default,,0,0,0,,十三丁目的罐头工厂
+Dialogue: 0,0:00:48.12,0:00:50.25,Default,,0,0,0,,要在落入恶人手中找到啊
+Dialogue: 0,0:00:51.20,0:00:51.96,Default,,0,0,0,,了解
+Dialogue: 0,0:00:56.34,0:00:58.62,Default,,0,0,0,,变身 超级小白
+Dialogue: 0,0:00:58.83,0:01:00.08,Top,,0,0,0,,鱼罐头
+Dialogue: 0,0:01:06.04,0:01:09.80,Default,,0,0,0,,引无数英雄竞折腰的骨骨骨头
+Dialogue: 0,0:01:09.80,0:01:13.41,Default,,0,0,0,,有着优雅高贵狂野的香味
+Dialogue: 0,0:01:13.85,0:01:18.75,Default,,0,0,0,,但是最新型的罐头根本不会漏出气味 Baby
+Dialogue: 0,0:01:19.81,0:01:22.35,Top,,0,0,0,,{\fad(300,0)\c&H873D4C&\bord3\3c&H59D0F3&}小心气味
+Dialogue: 0,0:01:31.71,0:01:32.52,Default,,0,0,0,,不行
+Dialogue: 0,0:01:33.87,0:01:36.20,Default,,0,0,0,,英雄不会擅自打开罐头的
+Dialogue: 0,0:01:49.45,0:01:52.56,Default,,0,0,0,,只要不是英雄就能随便开了
+Dialogue: 0,0:01:55.24,0:01:56.53,Default,,0,0,0,,好臭
+Dialogue: 0,0:01:57.59,0:02:02.10,Default,,0,0,0,,这什么危险刺激毛骨悚然的气味
+Dialogue: 0,0:02:21.59,0:02:22.92,Default,,0,0,0,,好臭
+Dialogue: 0,0:02:31.70,0:02:32.66,Default,,0,0,0,,想到了
+Dialogue: 0,0:02:35.14,0:02:39.06,Default,,0,0,0,,吾辈开发的万能气味遮断机
+Dialogue: 0,0:02:39.76,0:02:42.58,Default,,0,0,0,,这样再臭也无所谓
+Dialogue: 0,0:02:44.42,0:02:46.80,Default,,0,0,0,,这样的话就必杀 超级憋气
+Dialogue: 0,0:02:48.02,0:02:49.45,Default,,0,0,0,,超级憋气
+Dialogue: 0,0:02:49.45,0:02:51.89,Default,,0,0,0,,是活着停止呼吸
+Dialogue: 0,0:02:51.89,0:02:55.20,Default,,0,0,0,,不是英雄也能做到的必杀技 Baby
+Dialogue: 0,0:02:57.36,0:02:59.06,Default,,0,0,0,,完全闻不到
+Dialogue: 0,0:02:59.06,0:03:02.06,Default,,0,0,0,,这样也完全无法分辨骨骨骨头
+Dialogue: 0,0:03:03.02,0:03:03.83,Default,,0,0,0,,对了
+Dialogue: 0,0:03:05.26,0:03:06.18,Default,,0,0,0,,这个是吗
+Dialogue: 0,0:03:11.42,0:03:12.13,Default,,0,0,0,,是吗
+Dialogue: 0,0:03:13.19,0:03:13.83,Default,,0,0,0,,是吗
+Dialogue: 0,0:03:14.49,0:03:17.14,Default,,0,0,0,,是吗
+Dialogue: 0,0:03:21.20,0:03:22.07,Default,,0,0,0,,好臭
+Dialogue: 0,0:03:35.13,0:03:36.28,Default,,0,0,0,,好臭
+Dialogue: 0,0:03:48.35,0:03:49.15,Default,,0,0,0,,诶
+Dialogue: 0,0:03:49.38,0:03:52.65,Default,,0,0,0,,非常优雅高贵狂野的香味
+Dialogue: 0,0:03:53.19,0:03:54.10,Default,,0,0,0,,也就是说
+Dialogue: 0,0:03:57.08,0:03:58.47,Default,,0,0,0,,是骨骨骨头
+Dialogue: 0,0:03:58.63,0:04:00.06,Default,,0,0,0,,归我了
+Dialogue: 0,0:04:23.29,0:04:25.01,Default,,0,0,0,,好臭
+Dialogue: 0,0:04:40.78,0:04:41.80,Default,,0,0,0,,太好了 Baby
+Dialogue: 0,0:04:42.30,0:04:43.23,Default,,0,0,0,,小白 干得漂亮
+Dialogue: 0,0:04:43.40,0:04:43.80,Default,,0,0,0,,是
+Dialogue: 0,0:04:43.90,0:04:47.95,Default,,0,0,0,,这次有着非常优雅高贵狂野的香味
+Dialogue: 0,0:04:48.18,0:04:50.44,Default,,0,0,0,,很可能是骨骨骨头
+Dialogue: 0,0:04:59.23,0:05:01.82,Default,,0,0,0,,吃点臭鲱鱼吧
+Dialogue: 0,0:05:45.76,0:05:48.37,Default,,0,0,0,,恋爱是突然造访的
+Dialogue: 0,0:05:48.66,0:05:50.50,Default,,0,0,0,,骨骨骨头无所谓了
+Dialogue: 0,0:05:50.60,0:05:53.57,Default,,0,0,0,,康康康康康康
+Dialogue: 0,0:05:54.00,0:05:55.44,Default,,0,0,0,,{\an8}下集超级小白
+Dialogue: 0,0:05:55.74,0:05:56.96,Default,,0,0,0,,{\an8}美丽的康康
+Dialogue: 0,0:05:57.30,0:05:59.26,Default,,0,0,0,,{\an8}酸甜的恋爱 Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CN,,0,0,0,,{\fad(250,550)}其实是超级英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CN,,0,0,0,,{\fad(250,550)}蓬松的棉花糖一样 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CN,,0,0,0,,{\fad(250,550)}守护着和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CN,,0,0,0,,{\fad(250,550)}就算肚子饿
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CN,,0,0,0,,{\fad(250,550)}为了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CN,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CN,,0,0,0,,{\fad(250,550)}但今天也华丽地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

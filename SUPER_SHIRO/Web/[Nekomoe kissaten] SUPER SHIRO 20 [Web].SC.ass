@@ -1,0 +1,128 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 20 [Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans SC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans SC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif SC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CN,@Tensentype JiaLiXianYuanGB18030,36,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻译：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.05,0:00:29.05,Title,,0,0,0,,康康喜欢秋千
+Dialogue: 0,0:05:54.44,0:06:00.01,Next,,0,0,0,,{\pos(638,609)}钓鱼大骚动
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超级小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家里
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,养着一条非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,随处可见的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.54,Default,,0,0,0,,仅有一点不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,它是保护世界的超级英雄
+Dialogue: 0,0:00:34.57,0:00:35.19,Default,,0,0,0,,小白
+Dialogue: 0,0:00:35.43,0:00:38.33,Default,,0,0,0,,这里发现疑似骨骨骨头物体
+Dialogue: 0,0:00:38.95,0:00:40.89,Default,,0,0,0,,又是隔壁镇的秋千?
+Dialogue: 0,0:00:40.89,0:00:42.86,Default,,0,0,0,,之前那次是假的
+Dialogue: 0,0:00:43.09,0:00:45.14,Default,,0,0,0,,这次反应更强烈
+Dialogue: 0,0:00:45.27,0:00:49.63,Default,,0,0,0,,隔着屏幕都能闻到优雅高贵狂野的香味
+Dialogue: 0,0:00:49.93,0:00:53.18,Default,,0,0,0,,那这次是真的骨骨骨头?
+Dialogue: 0,0:00:53.37,0:00:54.38,Default,,0,0,0,,大概吧
+Dialogue: 0,0:00:54.67,0:00:57.40,Default,,0,0,0,,要在落入恶人手中前找到啊
+Dialogue: 0,0:00:58.15,0:00:58.73,Default,,0,0,0,,了解
+Dialogue: 0,0:01:03.23,0:01:04.00,Default,,0,0,0,,变身
+Dialogue: 0,0:01:04.25,0:01:05.54,Default,,0,0,0,,超级小白
+Dialogue: 0,0:01:18.27,0:01:19.82,Default,,0,0,0,,秋千啊
+Dialogue: 0,0:01:23.32,0:01:25.52,Default,,0,0,0,,今天一定要得到骨骨骨头
+Dialogue: 0,0:01:25.52,0:01:27.32,Default,,0,0,0,,成为世界总统
+Dialogue: 0,0:01:27.32,0:01:29.07,Default,,0,0,0,,不会让你得逞
+Dialogue: 0,0:01:52.22,0:01:53.09,Default,,0,0,0,,康康
+Dialogue: 0,0:01:53.89,0:01:56.59,Default,,0,0,0,,康康想坐秋千了
+Dialogue: 0,0:01:56.83,0:01:59.64,Default,,0,0,0,,但是康康不想排队
+Dialogue: 0,0:02:00.17,0:02:04.64,Default,,0,0,0,,会不会有绅士愿意帮我排队呢
+Dialogue: 0,0:02:08.11,0:02:12.07,Default,,0,0,0,,康康…
+Dialogue: 0,0:02:14.34,0:02:17.66,Default,,0,0,0,,就算是大晚上秋千也人气火爆
+Dialogue: 0,0:02:18.23,0:02:18.98,Default,,0,0,0,,康康
+Dialogue: 0,0:02:19.27,0:02:20.28,Default,,0,0,0,,康康
+Dialogue: 0,0:02:28.86,0:02:30.15,Default,,0,0,0,,还没好吗
+Dialogue: 0,0:02:59.36,0:03:00.46,Default,,0,0,0,,马上就到了
+Dialogue: 0,0:03:00.67,0:03:02.75,Default,,0,0,0,,康康等着我呢
+Dialogue: 0,0:03:07.39,0:03:08.50,Default,,0,0,0,,还没好吗
+Dialogue: 0,0:03:09.72,0:03:11.07,Default,,0,0,0,,十次就该换人了
+Dialogue: 0,0:03:11.07,0:03:13.94,Default,,0,0,0,,不守规矩的狗是败犬
+Dialogue: 0,0:03:27.39,0:03:29.58,Default,,0,0,0,,谢谢你告诉我
+Dialogue: 0,0:03:29.58,0:03:31.30,Default,,0,0,0,,原来不知道吗
+Dialogue: 0,0:03:32.14,0:03:34.63,Default,,0,0,0,,数到十太简单了
+Dialogue: 0,0:03:35.76,0:03:39.10,Default,,0,0,0,,1 2 3 4
+Dialogue: 0,0:03:39.10,0:03:41.24,Default,,0,0,0,,4 3 2…
+Dialogue: 0,0:03:41.24,0:03:42.66,Default,,0,0,0,,还没好吗
+Dialogue: 0,0:03:43.71,0:03:45.89,Default,,0,0,0,,1 2 3 4 5 6 7 8 9 10
+Dialogue: 0,0:03:49.61,0:03:51.16,Default,,0,0,0,,康康
+Dialogue: 0,0:03:54.17,0:03:56.04,Default,,0,0,0,,康康
+Dialogue: 0,0:04:11.43,0:04:12.80,Default,,0,0,0,,康康
+Dialogue: 0,0:04:13.77,0:04:14.63,Default,,0,0,0,,康康
+Dialogue: 0,0:04:18.57,0:04:19.69,Default,,0,0,0,,把这个拿下来
+Dialogue: 0,0:04:19.85,0:04:20.41,Default,,0,0,0,,康康
+Dialogue: 0,0:04:24.35,0:04:24.94,Default,,0,0,0,,这是
+Dialogue: 0,0:04:26.00,0:04:27.32,Default,,0,0,0,,骨骨骨头
+Dialogue: 0,0:04:27.73,0:04:28.98,Default,,0,0,0,,快给我
+Dialogue: 0,0:04:28.98,0:04:31.54,Default,,0,0,0,,英雄不会交出骨骨骨头
+Dialogue: 0,0:04:32.59,0:04:33.75,Default,,0,0,0,,不会的
+Dialogue: 0,0:04:33.92,0:04:34.63,Default,,0,0,0,,康康
+Dialogue: 0,0:04:34.71,0:04:35.78,Default,,0,0,0,,骨骨骨头
+Dialogue: 0,0:04:35.78,0:04:36.60,Default,,0,0,0,,康康
+Dialogue: 0,0:04:36.60,0:04:37.62,Default,,0,0,0,,骨骨骨头
+Dialogue: 0,0:04:37.62,0:04:38.54,Default,,0,0,0,,康康
+Dialogue: 0,0:04:38.54,0:04:39.63,Default,,0,0,0,,骨骨骨头
+Dialogue: 0,0:04:39.93,0:04:40.95,Default,,0,0,0,,康康
+Dialogue: 0,0:04:41.93,0:04:43.38,Default,,0,0,0,,抱歉 Baby
+Dialogue: 0,0:04:43.87,0:04:46.61,Default,,0,0,0,,真是的 就差一点了
+Dialogue: 0,0:04:48.55,0:04:49.79,Default,,0,0,0,,干得漂亮小白
+Dialogue: 0,0:04:49.79,0:04:50.94,Default,,0,0,0,,在哭吗
+Dialogue: 0,0:04:50.94,0:04:52.75,Default,,0,0,0,,眼里进沙子了而已
+Dialogue: 0,0:04:53.14,0:04:56.68,Default,,0,0,0,,现在传送骨骨骨头到宇宙基地
+Dialogue: 0,0:05:04.42,0:05:08.11,Default,,0,0,0,,今天也在魔爪下保护了春我部市 Baby
+Dialogue: 0,0:05:08.11,0:05:08.91,Default,,0,0,0,,康康
+Dialogue: 0,0:05:45.85,0:05:47.34,Default,,0,0,0,,犬首向东尾朝西
+Dialogue: 0,0:05:47.34,0:05:49.10,Default,,0,0,0,,鱼头向北尾朝南
+Dialogue: 0,0:05:49.10,0:05:50.66,Default,,0,0,0,,头向南南东尾朝北北西
+Dialogue: 0,0:05:50.66,0:05:52.11,Default,,0,0,0,,头向北北东尾朝南南西
+Dialogue: 0,0:05:52.11,0:05:54.42,Default,,0,0,0,,南南北北东南西北大四喜
+Dialogue: 0,0:05:54.42,0:05:55.65,Default,,0,0,0,,{\an8}下集超级小白
+Dialogue: 0,0:05:55.65,0:05:57.38,Default,,0,0,0,,{\an8}钓鱼大骚动
+Dialogue: 0,0:05:57.38,0:05:59.46,Default,,0,0,0,,{\an8}大旋转Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CN,,0,0,0,,{\fad(250,550)}其实是超级英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CN,,0,0,0,,{\fad(250,550)}蓬松的棉花糖一样 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CN,,0,0,0,,{\fad(250,550)}守护着和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CN,,0,0,0,,{\fad(250,550)}就算肚子饿
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CN,,0,0,0,,{\fad(250,550)}为了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CN,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CN,,0,0,0,,{\fad(250,550)}但今天也华丽地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

@@ -1,0 +1,97 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 45 [Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans SC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans SC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif SC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CHS,@FZFW ZhuZi A YuanS L,45,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+Style: OP-CHT,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻译：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.04,0:00:29.05,Title,,0,0,0,,爆爆爆米花
+Dialogue: 0,0:05:56.14,0:06:00.01,Next,,0,0,0,,{\bord1.5\pos(909,590)}华丽的洗涤物
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超级小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家里
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,养着一条非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,随处可见的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.34,Default,,0,0,0,,仅有一点不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,它是保护世界的超级英雄
+Dialogue: 0,0:00:34.39,0:00:36.85,Default,,0,0,0,,小白 发现疑似骨骨骨头反应
+Dialogue: 0,0:00:37.99,0:00:40.73,Default,,0,0,0,,四十五丁目的爆米花工厂
+Dialogue: 0,0:00:41.02,0:00:44.66,Default,,0,0,0,,在爆米花原料中发现骨骨骨头反应
+Dialogue: 0,0:00:44.93,0:00:49.01,Default,,0,0,0,,但是在做成爆米花前无法判断
+Dialogue: 0,0:00:53.69,0:00:55.67,Default,,0,0,0,,去做爆米花就行呗
+Dialogue: 0,0:00:55.74,0:00:56.82,Default,,0,0,0,,正是
+Dialogue: 0,0:00:57.03,0:00:59.29,Default,,0,0,0,,要在落入恶人手中前找到啊
+Dialogue: 0,0:00:59.75,0:01:00.95,Default,,0,0,0,,了解
+Dialogue: 0,0:01:05.32,0:01:07.67,Default,,0,0,0,,变身 超级小白
+Dialogue: 0,0:01:12.19,0:01:15.38,Default,,0,0,0,,从这里的材料里诞生的骨骨骨头吗
+Dialogue: 0,0:01:17.23,0:01:20.14,Default,,0,0,0,,今天就要得到引无数英雄竞折腰的骨骨骨头
+Dialogue: 0,0:01:20.14,0:01:22.27,Default,,0,0,0,,成为世界总统
+Dialogue: 0,0:01:22.79,0:01:24.25,Default,,0,0,0,,不会让你得逞
+Dialogue: 0,0:01:27.54,0:01:28.39,Default,,0,0,0,,就这吗
+Dialogue: 0,0:01:30.17,0:01:32.04,Default,,0,0,0,,原来如此
+Dialogue: 0,0:01:33.83,0:01:35.84,Default,,0,0,0,,在这里加材料
+Dialogue: 0,0:01:35.84,0:01:36.87,Default,,0,0,0,,按下按钮
+Dialogue: 0,0:01:36.87,0:01:38.06,Default,,0,0,0,,稍等片刻
+Dialogue: 0,0:01:38.24,0:01:41.25,Default,,0,0,0,,爆米花就做好了
+Dialogue: 0,0:01:59.66,0:02:04.03,Default,,0,0,0,,骨骨骨头有着优雅高贵狂野的香味
+Dialogue: 0,0:02:04.14,0:02:07.10,Default,,0,0,0,,结果只有刚出炉的爆米花香味
+Dialogue: 0,0:02:30.96,0:02:32.86,Default,,0,0,0,,果然真香
+Dialogue: 0,0:02:55.39,0:02:57.93,Default,,0,0,0,,在这里面有骨骨骨头
+Dialogue: 0,0:02:58.15,0:03:00.87,Default,,0,0,0,,骨骨骨头到手后
+Dialogue: 0,0:03:50.01,0:03:52.37,Default,,0,0,0,,在这里面有骨骨骨头
+Dialogue: 0,0:03:53.00,0:03:55.45,Default,,0,0,0,,骨骨骨头到手后
+Dialogue: 0,0:04:44.96,0:04:46.26,Default,,0,0,0,,太好了 Baby
+Dialogue: 0,0:04:47.18,0:04:48.72,Default,,0,0,0,,小白 干得漂亮
+Dialogue: 0,0:04:49.62,0:04:52.85,Default,,0,0,0,,那是真的骨骨骨头吗
+Dialogue: 0,0:04:53.19,0:04:54.63,Default,,0,0,0,,要是假的话
+Dialogue: 0,0:04:55.48,0:04:56.28,Default,,0,0,0,,爆炸
+Dialogue: 0,0:04:59.89,0:05:03.53,Default,,0,0,0,,今天也保护了春我部市的和平 Baby
+Dialogue: 0,0:05:06.20,0:05:07.27,Default,,0,0,0,,骨骨骨头
+Dialogue: 0,0:05:45.89,0:05:46.50,Default,,0,0,0,,什么
+Dialogue: 0,0:05:46.76,0:05:48.63,Default,,0,0,0,,骨骨骨头居然在那
+Dialogue: 0,0:05:48.85,0:05:54.34,Default,,0,0,0,,一定要在它发霉前到手
+Dialogue: 0,0:05:54.64,0:05:55.84,Default,,0,0,0,,{\an8}下集超级小白
+Dialogue: 0,0:05:56.14,0:05:57.64,Default,,0,0,0,,{\an8}华丽的洗涤物
+Dialogue: 0,0:05:57.64,0:05:59.35,Default,,0,0,0,,{\an8}敬请期待 Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CHS,,0,0,0,,{\fad(250,550)}其实是超级英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CHS,,0,0,0,,{\fad(250,550)}蓬松的棉花糖一样 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CHS,,0,0,0,,{\fad(250,550)}守护着和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CHS,,0,0,0,,{\fad(250,550)}就算肚子饿
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CHS,,0,0,0,,{\fad(250,550)}为了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CHS,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CHS,,0,0,0,,{\fad(250,550)}但今天也华丽地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

@@ -1,0 +1,121 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 39 [Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans SC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans SC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif SC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CHS,@FZFW ZhuZi A YuanS L,45,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+Style: OP-CHT,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻译：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.04,0:00:29.05,Title,,0,0,0,,蚂蚁的生活
+Dialogue: 0,0:05:56.37,0:06:00.01,Next,,0,0,0,,{\bord1.5\pos(1045,608)}周日的高尔夫
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超级小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家里
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,养着一条非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,随处可见的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.34,Default,,0,0,0,,仅有一点不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,它是保护世界的超级英雄
+Dialogue: 0,0:00:39.74,0:00:42.37,Default,,0,0,0,,小白 发现疑似骨骨骨头反应
+Dialogue: 0,0:00:43.41,0:00:48.37,Default,,0,0,0,,三十九丁目的 偶尔也想被宠公园的蚁穴
+Dialogue: 0,0:00:50.04,0:00:52.82,Default,,0,0,0,,要在落入恶人手中前找到啊
+Dialogue: 0,0:00:53.85,0:00:54.60,Default,,0,0,0,,了解
+Dialogue: 0,0:00:58.97,0:01:01.34,Default,,0,0,0,,变身 超级小白
+Dialogue: 0,0:01:04.75,0:01:08.29,Default,,0,0,0,,今天就要得到引无数英雄竞折腰的骨骨骨头
+Dialogue: 0,0:01:08.42,0:01:10.95,Default,,0,0,0,,成为世界总统
+Dialogue: 0,0:01:12.04,0:01:14.54,Default,,0,0,0,,不妙 这时候就要用超级光线
+Dialogue: 0,0:01:14.84,0:01:16.93,Default,,0,0,0,,超超超级
+Dialogue: 0,0:01:16.93,0:01:18.68,Default,,0,0,0,,超级 超级 超级
+Dialogue: 0,0:01:18.68,0:01:20.86,Default,,0,0,0,,超级级级英雄
+Dialogue: 0,0:01:20.86,0:01:22.49,Default,,0,0,0,,级级级小白的
+Dialogue: 0,0:01:22.89,0:01:25.19,Default,,0,0,0,,超超超级
+Dialogue: 0,0:01:25.19,0:01:28.51,Default,,0,0,0,,光光光线
+Dialogue: 0,0:01:28.97,0:01:30.38,Default,,0,0,0,,会变小哦
+Dialogue: 0,0:01:30.78,0:01:31.94,Default,,0,0,0,,光线
+Dialogue: 0,0:01:34.81,0:01:35.65,Default,,0,0,0,,可恶
+Dialogue: 0,0:01:35.65,0:01:38.17,Default,,0,0,0,,但这样就能潜入蚁穴了
+Dialogue: 0,0:01:39.61,0:01:42.52,Default,,0,0,0,,糟了 悔不当初
+Dialogue: 0,0:01:42.70,0:01:43.31,Default,,0,0,0,,小白
+Dialogue: 0,0:01:43.99,0:01:46.63,Default,,0,0,0,,你以为徽章的S是什么的缩写啊
+Dialogue: 0,0:01:46.74,0:01:48.78,Default,,0,0,0,,是Super Hero的S吗
+Dialogue: 0,0:01:48.78,0:01:50.42,Default,,0,0,0,,S码的S
+Dialogue: 0,0:01:50.42,0:01:54.46,Default,,0,0,0,,可以用徽章改变自己的大小
+Dialogue: 0,0:01:54.76,0:01:55.79,Default,,0,0,0,,不知道吗
+Dialogue: 0,0:02:02.66,0:02:03.77,Default,,0,0,0,,是5S码
+Dialogue: 0,0:02:03.90,0:02:05.48,Default,,0,0,0,,这样就能追击泰迪了
+Dialogue: 0,0:02:06.04,0:02:09.42,Default,,0,0,0,,骨骨骨头有着优雅高贵狂野的香味
+Dialogue: 0,0:02:13.07,0:02:13.84,Default,,0,0,0,,小白?
+Dialogue: 0,0:02:18.50,0:02:19.29,Default,,0,0,0,,被发现了
+Dialogue: 0,0:02:36.43,0:02:37.83,Default,,0,0,0,,和蚂蚁的气味相同
+Dialogue: 0,0:02:37.83,0:02:39.35,Default,,0,0,0,,这样变成蚂蚁了
+Dialogue: 0,0:02:48.09,0:02:51.27,Default,,0,0,0,,啊? 不劳无获?
+Dialogue: 0,0:03:17.64,0:03:20.43,Default,,0,0,0,,还有更省力的搬运方法啊
+Dialogue: 0,0:03:20.43,0:03:21.46,Default,,0,0,0,,这样如何
+Dialogue: 0,0:03:24.04,0:03:25.18,Default,,0,0,0,,一二
+Dialogue: 0,0:03:27.74,0:03:30.26,Default,,0,0,0,,轻轻松松
+Dialogue: 0,0:03:33.83,0:03:35.64,Default,,0,0,0,,什么 一直没休息
+Dialogue: 0,0:03:35.64,0:03:37.90,Default,,0,0,0,,不劳逸结合是没有效率的
+Dialogue: 0,0:03:38.78,0:03:40.12,Default,,0,0,0,,这需要劳动改革
+Dialogue: 0,0:03:55.05,0:03:56.95,Default,,0,0,0,,让我成为蚁穴的王？
+Dialogue: 0,0:03:58.10,0:04:00.49,Default,,0,0,0,,不可思议的成功故事
+Dialogue: 0,0:04:16.28,0:04:17.91,Default,,0,0,0,,给它点饭吃
+Dialogue: 0,0:04:21.51,0:04:26.32,Default,,0,0,0,,虽然那么狼狈 毕竟是以前的对手
+Dialogue: 0,0:04:27.12,0:04:29.29,Default,,0,0,0,,虽然好像忘了什么
+Dialogue: 0,0:04:33.73,0:04:34.96,Default,,0,0,0,,太好了 Baby
+Dialogue: 0,0:04:35.64,0:04:36.94,Default,,0,0,0,,干得漂亮小白
+Dialogue: 0,0:04:37.06,0:04:37.55,Default,,0,0,0,,是
+Dialogue: 0,0:04:38.16,0:04:41.43,Default,,0,0,0,,这是真的骨骨骨头吗
+Dialogue: 0,0:04:41.68,0:04:42.98,Default,,0,0,0,,大概是的
+Dialogue: 0,0:04:42.98,0:04:47.54,Default,,0,0,0,,不过没想到这个S是S码的S
+Dialogue: 0,0:04:47.54,0:04:48.21,Default,,0,0,0,,好了吗
+Dialogue: 0,0:04:48.21,0:04:48.53,Default,,0,0,0,,是
+Dialogue: 0,0:04:53.31,0:04:56.42,Default,,0,0,0,,今天也保护了春我部市的和平
+Dialogue: 0,0:05:02.62,0:05:04.17,Default,,0,0,0,,原来我是狗
+Dialogue: 0,0:05:05.90,0:05:06.51,Default,,0,0,0,,别这样
+Dialogue: 0,0:05:07.01,0:05:09.47,Default,,0,0,0,,谢谢你们 谢谢
+Dialogue: 0,0:05:45.93,0:05:48.91,Default,,0,0,0,,爸爸有场绝对无法拒绝的高尔夫
+Dialogue: 0,0:05:48.91,0:05:50.70,Default,,0,0,0,,那是陪领导打球
+Dialogue: 0,0:05:51.00,0:05:54.78,Default,,0,0,0,,事业和平都会好球一杆进洞
+Dialogue: 0,0:05:54.97,0:05:56.37,Default,,0,0,0,,{\an8}下集超级小白
+Dialogue: 0,0:05:56.37,0:05:57.57,Default,,0,0,0,,{\an8}周日的高尔夫
+Dialogue: 0,0:05:58.33,0:05:59.19,Default,,0,0,0,,{\an8}Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CHS,,0,0,0,,{\fad(250,550)}其实是超级英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CHS,,0,0,0,,{\fad(250,550)}蓬松的棉花糖一样 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CHS,,0,0,0,,{\fad(250,550)}守护着和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CHS,,0,0,0,,{\fad(250,550)}就算肚子饿
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CHS,,0,0,0,,{\fad(250,550)}为了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CHS,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CHS,,0,0,0,,{\fad(250,550)}但今天也华丽地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

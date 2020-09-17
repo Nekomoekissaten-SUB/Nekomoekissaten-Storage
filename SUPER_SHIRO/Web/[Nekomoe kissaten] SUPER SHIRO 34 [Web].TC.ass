@@ -1,0 +1,89 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 34 [Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans TC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans TC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif TC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CHS,@FZFW ZhuZi A YuanS L,45,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+Style: OP-CHT,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻譯：Dysonsphere　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.04,0:00:29.05,Title,,0,0,0,,英雄的假日
+Dialogue: 0,0:05:55.77,0:05:59.94,Next,,0,0,0,,{\bord1.5\pos(737,608)}雨林大冒險
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超級小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家裡
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,養著一條非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,隨處可見的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.34,Default,,0,0,0,,僅有一點不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,牠是保護世界的超級英雄
+Dialogue: 0,0:00:30.78,0:00:34.61,Default,,0,0,0,,今天就要得到引無數英雄競折腰的骨骨骨頭
+Dialogue: 0,0:00:34.61,0:00:37.18,Default,,0,0,0,,成為世界總統
+Dialogue: 0,0:00:39.01,0:00:40.88,Default,,0,0,0,,不會讓你得逞
+Dialogue: 0,0:00:54.40,0:00:59.33,Default,,0,0,0,,骨骨骨頭有著優雅高貴狂野的香味
+Dialogue: 0,0:01:17.47,0:01:21.49,Default,,0,0,0,,這就是人類經常用的按摩椅吧
+Dialogue: 0,0:01:28.24,0:01:31.43,Default,,0,0,0,,這東西不可能讓英雄舒服
+Dialogue: 0,0:01:38.74,0:01:40.51,Default,,0,0,0,,不是做這種事的時候
+Dialogue: 0,0:01:40.76,0:01:42.69,Default,,0,0,0,,快去找骨骨骨頭
+Dialogue: 0,0:02:04.47,0:02:05.45,Default,,0,0,0,,真舒服
+Dialogue: 0,0:02:06.49,0:02:09.03,Default,,0,0,0,,現在不是在腦袋上搭毛巾的時候
+Dialogue: 0,0:02:44.41,0:02:46.27,Default,,0,0,0,,狗活著就是為了這一杯
+Dialogue: 0,0:02:48.92,0:02:51.00,Default,,0,0,0,,不是做這種事的時候
+Dialogue: 0,0:02:51.51,0:02:53.62,Default,,0,0,0,,快去找骨骨骨頭
+Dialogue: 0,0:03:32.30,0:03:34.42,Default,,0,0,0,,骨骨骨頭呢
+Dialogue: 0,0:03:34.82,0:03:36.47,Default,,0,0,0,,別打桌球了
+Dialogue: 0,0:03:48.07,0:03:52.25,Default,,0,0,0,,雖然舒服 不過不如之前的那個
+Dialogue: 0,0:03:59.33,0:03:59.86,Default,,0,0,0,,喂
+Dialogue: 0,0:04:10.74,0:04:12.82,Default,,0,0,0,,喂 骨骨骨頭呢
+Dialogue: 0,0:04:21.42,0:04:24.16,Default,,0,0,0,,喂 骨骨骨頭呢
+Dialogue: 0,0:04:29.48,0:04:30.39,Default,,0,0,0,,放了個屁
+Dialogue: 0,0:04:34.12,0:04:36.36,Default,,0,0,0,,喂 你們怎麼了
+Dialogue: 0,0:04:38.60,0:04:40.10,Default,,0,0,0,,我們是…
+Dialogue: 0,0:04:41.59,0:04:44.58,Default,,0,0,0,,狗活著就是為了這一杯
+Dialogue: 0,0:04:56.12,0:04:57.82,Default,,0,0,0,,真開心
+Dialogue: 0,0:04:58.09,0:05:00.64,Default,,0,0,0,,還想再去啊
+Dialogue: 0,0:05:04.33,0:05:06.75,Default,,0,0,0,,小白 骨骨骨頭呢
+Dialogue: 0,0:05:46.12,0:05:48.96,Default,,0,0,0,,亞熱帶森林有骨骨骨頭反應
+Dialogue: 0,0:05:49.10,0:05:53.35,Default,,0,0,0,,你不會說「春我部市怎麼會有那種地方」吧
+Dialogue: 0,0:05:53.54,0:05:54.74,Default,,0,0,0,,{\an8}下集超級小白
+Dialogue: 0,0:05:54.82,0:05:56.21,Default,,0,0,0,,{\an8}雨林大冒險
+Dialogue: 0,0:05:56.47,0:05:58.90,Default,,0,0,0,,{\an8}嗷嗷 Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CHT,,0,0,0,,{\fad(250,550)\rOP-CHS}你{\r}是超級小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CHT,,0,0,0,,{\fad(250,550)}其實是超級英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CHT,,0,0,0,,{\fad(250,550)}蓬鬆的棉花糖一樣 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CHT,,0,0,0,,{\fad(250,550)}守護著和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CHT,,0,0,0,,{\fad(250,550)\rOP-CHS}你{\r}是超級小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CHT,,0,0,0,,{\fad(250,550)}就算肚子餓
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CHT,,0,0,0,,{\fad(250,550)}為了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CHT,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CHT,,0,0,0,,{\fad(250,550)}但今天也華麗地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

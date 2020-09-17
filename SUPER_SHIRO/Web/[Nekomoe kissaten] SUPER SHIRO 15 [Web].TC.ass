@@ -1,0 +1,95 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 15 [Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans TC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans TC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif TC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CN,@Tensentype JiaLiXianYuanGB18030,36,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻譯：Dysonsphere　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.05,0:00:29.05,Title,,0,0,0,,愉快保齡球
+Dialogue: 0,0:05:53.94,0:06:00.01,Next,,0,0,0,,{\pos(1064,604)}日常忘傘
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超級小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家裡
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,養著一條非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,隨處可見的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.54,Default,,0,0,0,,僅有一點不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,牠是保護世界的超級英雄
+Dialogue: 0,0:00:39.46,0:00:40.05,Default,,0,0,0,,小白
+Dialogue: 0,0:00:40.29,0:00:42.33,Default,,0,0,0,,發現疑似骨骨骨頭反應
+Dialogue: 0,0:00:47.82,0:00:49.59,Default,,0,0,0,,十五丁目的保齡球場
+Dialogue: 0,0:00:49.59,0:00:52.19,Default,,0,0,0,,要在落入惡人手中前找到啊
+Dialogue: 0,0:00:52.87,0:00:53.88,Default,,0,0,0,,了解
+Dialogue: 0,0:00:58.30,0:01:00.58,Default,,0,0,0,,變身 超級小白
+Dialogue: 0,0:01:05.77,0:01:09.90,Default,,0,0,0,,有著優雅高貴狂野香味的骨骨骨頭
+Dialogue: 0,0:01:09.90,0:01:11.85,Default,,0,0,0,,一定在這某處
+Dialogue: 0,0:01:30.57,0:01:33.43,Default,,0,0,0,,英雄沒有時間玩耍
+Dialogue: 0,0:01:44.29,0:01:45.17,Default,,0,0,0,,Strike
+Dialogue: 0,0:01:45.95,0:01:49.13,Default,,0,0,0,,不是英雄的話隨便玩
+Dialogue: 0,0:01:53.36,0:01:56.04,Default,,0,0,0,,我要得到引無數英雄競折腰的骨骨骨頭
+Dialogue: 0,0:01:56.04,0:01:58.61,Default,,0,0,0,,成為世界總統
+Dialogue: 0,0:02:10.46,0:02:14.49,Default,,0,0,0,,這優雅高貴狂野的香味就是骨骨骨頭
+Dialogue: 0,0:02:14.64,0:02:16.96,Default,,0,0,0,,背水一戰 孤注一擲
+Dialogue: 0,0:02:17.04,0:02:18.24,Default,,0,0,0,,接招吧
+Dialogue: 0,0:02:21.57,0:02:22.24,Default,,0,0,0,,太遜了
+Dialogue: 0,0:02:38.80,0:02:39.81,Default,,0,0,0,,糟了
+Dialogue: 0,0:02:40.15,0:02:42.13,Default,,0,0,0,,把骨骨骨頭也打下去了
+Dialogue: 0,0:02:46.54,0:02:48.41,Default,,0,0,0,,骨骨骨頭在哪
+Dialogue: 0,0:04:30.13,0:04:32.34,Default,,0,0,0,,還是背水一戰
+Dialogue: 0,0:04:35.34,0:04:37.32,Default,,0,0,0,,找到骨骨骨頭了
+Dialogue: 0,0:04:37.86,0:04:39.40,Default,,0,0,0,,糟了這樣話
+Dialogue: 0,0:04:39.40,0:04:41.96,Default,,0,0,0,,必殺 超級金勾臂
+Dialogue: 0,0:04:48.00,0:04:49.48,Default,,0,0,0,,贏了Baby
+Dialogue: 0,0:04:53.55,0:04:55.40,Default,,0,0,0,,玩保齡真開心啊
+Dialogue: 0,0:04:55.40,0:04:55.88,Default,,0,0,0,,小白
+Dialogue: 0,0:04:57.99,0:05:00.68,Default,,0,0,0,,當然骨骨骨頭已經到手了
+Dialogue: 0,0:05:00.68,0:05:01.73,Default,,0,0,0,,哎呀 不愧是你
+Dialogue: 0,0:05:01.92,0:05:03.34,Default,,0,0,0,,馬上傳送
+Dialogue: 0,0:05:06.46,0:05:09.27,Default,,0,0,0,,今天也保護了春日部市的和平 Baby
+Dialogue: 0,0:05:45.48,0:05:48.04,Default,,0,0,0,,雨天下班回家時
+Dialogue: 0,0:05:48.04,0:05:50.20,Default,,0,0,0,,看著雨傘林立不禁沉思
+Dialogue: 0,0:05:50.20,0:05:52.74,Default,,0,0,0,,欸 這不是我的傘嗎
+Dialogue: 0,0:05:52.74,0:05:53.92,Default,,0,0,0,,不是不是不是嗎
+Dialogue: 0,0:05:53.92,0:05:55.12,Default,,0,0,0,,{\an8}下集超級小白
+Dialogue: 0,0:05:55.31,0:05:56.56,Default,,0,0,0,,{\an8}日常忘傘
+Dialogue: 0,0:05:56.80,0:05:59.40,Default,,0,0,0,,{\an8}塑膠傘要特別注意Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超級小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CN,,0,0,0,,{\fad(250,550)}其實是超級英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CN,,0,0,0,,{\fad(250,550)}蓬鬆的棉花糖一樣 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CN,,0,0,0,,{\fad(250,550)}守護著和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超級小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CN,,0,0,0,,{\fad(250,550)}就算肚子餓
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CN,,0,0,0,,{\fad(250,550)}為了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CN,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CN,,0,0,0,,{\fad(250,550)}但今天也華麗地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

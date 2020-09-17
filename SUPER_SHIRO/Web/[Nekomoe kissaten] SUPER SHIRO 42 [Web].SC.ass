@@ -1,0 +1,95 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 42 [Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans SC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans SC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif SC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CHS,@FZFW ZhuZi A YuanS L,45,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+Style: OP-CHT,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻译：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.04,0:00:29.05,Title,,0,0,0,,英雄感冒了
+Dialogue: 0,0:05:54.94,0:06:00.01,Next,,0,0,0,,{\bord1.5\pos(1049,609)}奔跑 逃走 追逐
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超级小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家里
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,养着一条非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,随处可见的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.34,Default,,0,0,0,,仅有一点不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,它是保护世界的超级英雄
+Dialogue: 0,0:00:35.98,0:00:41.19,Default,,0,0,0,,听说骨骨骨头反应的传闻了吗
+Dialogue: 0,0:00:41.38,0:00:42.13,Default,,0,0,0,,在哪
+Dialogue: 0,0:00:42.34,0:00:44.83,Default,,0,0,0,,情报不是白给的
+Dialogue: 0,0:00:52.47,0:00:54.91,Default,,0,0,0,,好像在四十二丁目的山坡上
+Dialogue: 0,0:00:54.91,0:00:57.78,Default,,0,0,0,,混在树林的叶子里头
+Dialogue: 0,0:01:01.18,0:01:06.03,Default,,0,0,0,,优雅高贵狂野的香味的骨骨骨头是我的了
+Dialogue: 0,0:01:11.21,0:01:12.95,Default,,0,0,0,,不会让你得逞
+Dialogue: 0,0:01:31.87,0:01:33.29,Default,,0,0,0,,感冒了吗
+Dialogue: 0,0:01:33.71,0:01:36.06,Default,,0,0,0,,英雄不会输给感冒的
+Dialogue: 0,0:01:42.06,0:01:45.92,Default,,0,0,0,,趁现在得到引无数英雄竞折腰的骨骨骨头
+Dialogue: 0,0:01:45.92,0:01:48.98,Default,,0,0,0,,成为世界总统
+Dialogue: 0,0:02:06.14,0:02:08.73,Default,,0,0,0,,谁会照顾英雄啊
+Dialogue: 0,0:02:31.44,0:02:34.23,Default,,0,0,0,,真是的 我才不照顾英雄呢
+Dialogue: 0,0:02:39.18,0:02:41.60,Default,,0,0,0,,我是不会照顾英雄的
+Dialogue: 0,0:02:56.45,0:02:59.96,Default,,0,0,0,,我是绝对绝对不会照顾英雄的
+Dialogue: 0,0:03:12.44,0:03:15.51,Default,,0,0,0,,绝对绝对绝对不会的
+Dialogue: 0,0:03:20.23,0:03:20.81,Default,,0,0,0,,营养流失吧
+Dialogue: 0,0:03:28.80,0:03:31.83,Default,,0,0,0,,这优雅高贵狂野的香味
+Dialogue: 0,0:03:31.83,0:03:33.96,Default,,0,0,0,,是骨骨骨头
+Dialogue: 0,0:03:34.12,0:03:35.17,Default,,0,0,0,,太好了
+Dialogue: 0,0:03:36.90,0:03:37.80,Default,,0,0,0,,太好了
+Dialogue: 0,0:03:38.62,0:03:39.20,Default,,0,0,0,,太
+Dialogue: 0,0:03:44.45,0:03:45.79,Default,,0,0,0,,收下了
+Dialogue: 0,0:03:51.18,0:03:55.16,Default,,0,0,0,,我才不会帮英雄
+Dialogue: 0,0:04:34.60,0:04:37.14,Default,,0,0,0,,终于等到这一天
+Dialogue: 0,0:04:37.43,0:04:39.23,Default,,0,0,0,,把真的骨骨骨头
+Dialogue: 0,0:04:39.32,0:04:44.50,Default,,0,0,0,,放进我开发的朕是总统机器中
+Dialogue: 0,0:04:45.07,0:04:49.29,Default,,0,0,0,,就能成为世界总统了
+Dialogue: 0,0:04:49.77,0:04:53.58,Default,,0,0,0,,世界就在我的肉球之中
+Dialogue: 0,0:04:53.94,0:04:59.01,Default,,0,0,0,,此刻狗狗站起来了
+Dialogue: 0,0:05:03.19,0:05:04.28,Default,,0,0,0,,没成功
+Dialogue: 0,0:05:04.28,0:05:07.12,Default,,0,0,0,,春我部市的和平还将继续 Baby
+Dialogue: 0,0:05:45.94,0:05:47.88,Default,,0,0,0,,追来追去
+Dialogue: 0,0:05:47.88,0:05:52.82,Default,,0,0,0,,一定要第一个找到骨骨骨头
+Dialogue: 0,0:05:53.18,0:05:54.55,Default,,0,0,0,,{\an8}下集 超级小白
+Dialogue: 0,0:05:54.62,0:05:56.83,Default,,0,0,0,,{\an8}奔跑 逃走 追逐
+Dialogue: 0,0:05:57.04,0:05:59.02,Default,,0,0,0,,{\an8}绝对要看啊 Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CHS,,0,0,0,,{\fad(250,550)}其实是超级英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CHS,,0,0,0,,{\fad(250,550)}蓬松的棉花糖一样 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CHS,,0,0,0,,{\fad(250,550)}守护着和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CHS,,0,0,0,,{\fad(250,550)}就算肚子饿
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CHS,,0,0,0,,{\fad(250,550)}为了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CHS,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CHS,,0,0,0,,{\fad(250,550)}但今天也华丽地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

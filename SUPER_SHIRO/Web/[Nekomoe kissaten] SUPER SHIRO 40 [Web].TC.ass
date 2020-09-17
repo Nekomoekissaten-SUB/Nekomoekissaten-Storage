@@ -1,0 +1,128 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 40 [Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans TC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans TC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif TC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CHS,@FZFW ZhuZi A YuanS L,45,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+Style: OP-CHT,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻譯：Dysonsphere　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.04,0:00:29.05,Title,,0,0,0,,{\fnSource Han Sans TC Heavy}週日的高爾夫
+Dialogue: 0,0:05:55.61,0:06:00.01,Next,,0,0,0,,{\bord1.5\pos(1002,608)}不眠之夜
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超級小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家裡
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,養著一條非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,隨處可見的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.34,Default,,0,0,0,,僅有一點不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,它是保護世界的超級英雄
+Dialogue: 0,0:00:37.23,0:00:40.06,Default,,0,0,0,,小白 發現疑似骨骨骨頭反應
+Dialogue: 0,0:00:41.26,0:00:43.79,Default,,0,0,0,,四十丁目的高爾夫球場
+Dialogue: 0,0:00:45.17,0:00:47.88,Default,,0,0,0,,要在落入惡人手中前找到啊
+Dialogue: 0,0:00:48.92,0:00:49.63,Default,,0,0,0,,了解
+Dialogue: 0,0:00:53.97,0:00:56.20,Default,,0,0,0,,變身 超級小白
+Dialogue: 0,0:01:00.38,0:01:04.11,Default,,0,0,0,,今天就要得到引無數英雄競折腰的骨骨骨頭
+Dialogue: 0,0:01:04.11,0:01:07.18,Default,,0,0,0,,成為世界總統
+Dialogue: 0,0:01:07.18,0:01:08.69,Default,,0,0,0,,不會讓你得逞的
+Dialogue: 0,0:01:08.69,0:01:12.28,Default,,0,0,0,,啊 部長今天天氣真適合打高爾夫
+Dialogue: 0,0:01:13.87,0:01:14.97,Default,,0,0,0,,小新的爸爸
+Dialogue: 0,0:01:19.25,0:01:21.36,Default,,0,0,0,,部長頭回打高爾夫嗎
+Dialogue: 0,0:01:23.49,0:01:26.24,Default,,0,0,0,,那絕對是體制高爾夫
+Dialogue: 0,0:01:26.61,0:01:27.71,Default,,0,0,0,,體制高爾夫
+Dialogue: 0,0:01:27.88,0:01:33.90,Default,,0,0,0,,只是為了讓領導舒服而陪領導打球
+Dialogue: 0,0:01:34.05,0:01:35.01,Default,,0,0,0,,好球
+Dialogue: 0,0:01:35.36,0:01:37.59,Default,,0,0,0,,讓體制高爾夫圓滿結束
+Dialogue: 0,0:01:37.59,0:01:39.45,Default,,0,0,0,,完成交易
+Dialogue: 0,0:01:39.79,0:01:41.54,Default,,0,0,0,,小新爸爸加油
+Dialogue: 0,0:01:41.61,0:01:44.15,Default,,0,0,0,,現在不是給高爾夫加油的時候
+Dialogue: 0,0:01:44.30,0:01:48.39,Default,,0,0,0,,英雄的使命是不讓骨骨骨頭落入惡人手中
+Dialogue: 0,0:01:49.64,0:01:53.80,Default,,0,0,0,,啊 部長的球有股狂野的香味啊
+Dialogue: 0,0:01:53.80,0:01:55.47,Default,,0,0,0,,好高級啊
+Dialogue: 0,0:01:56.85,0:01:58.04,Default,,0,0,0,,這氣味是
+Dialogue: 0,0:01:58.04,0:01:59.34,Default,,0,0,0,,是骨骨骨頭
+Dialogue: 0,0:02:03.94,0:02:04.98,Default,,0,0,0,,好球
+Dialogue: 0,0:02:20.27,0:02:22.27,Default,,0,0,0,,部長 找到了
+Dialogue: 0,0:02:22.27,0:02:23.52,Default,,0,0,0,,在這
+Dialogue: 0,0:02:24.85,0:02:25.96,Default,,0,0,0,,好球
+Dialogue: 0,0:02:38.30,0:02:39.64,Default,,0,0,0,,找到了 部長
+Dialogue: 0,0:02:39.81,0:02:41.50,Default,,0,0,0,,差點就掉水裡了
+Dialogue: 0,0:02:41.50,0:02:42.51,Default,,0,0,0,,不愧是部長
+Dialogue: 0,0:02:43.93,0:02:44.52,Default,,0,0,0,,好球
+Dialogue: 0,0:02:53.69,0:02:54.92,Default,,0,0,0,,部長 找到了
+Dialogue: 0,0:02:54.92,0:02:55.71,Default,,0,0,0,,在這
+Dialogue: 0,0:02:55.86,0:02:58.50,Default,,0,0,0,,差點就進坑裡了
+Dialogue: 0,0:03:01.14,0:03:02.19,Default,,0,0,0,,好球
+Dialogue: 0,0:03:03.13,0:03:04.17,Default,,0,0,0,,既然如此
+Dialogue: 0,0:03:07.10,0:03:08.94,Default,,0,0,0,,啊 打偏了
+Dialogue: 0,0:03:11.94,0:03:12.61,Default,,0,0,0,,那是
+Dialogue: 0,0:03:13.15,0:03:16.70,Default,,0,0,0,,偽裝成部長球桿的泰迪
+Dialogue: 0,0:03:18.99,0:03:22.71,Default,,0,0,0,,擊球瞬間骨骨骨頭就到手了
+Dialogue: 0,0:03:33.03,0:03:34.34,Default,,0,0,0,,漂亮的揮桿
+Dialogue: 0,0:03:34.34,0:03:35.78,Default,,0,0,0,,下次是真打吧
+Dialogue: 0,0:03:39.14,0:03:40.71,Default,,0,0,0,,這次一定
+Dialogue: 0,0:03:41.48,0:03:42.92,Default,,0,0,0,,現在只能出那一招了
+Dialogue: 0,0:03:43.96,0:03:47.29,Default,,0,0,0,,超級搞笑光線
+Dialogue: 0,0:03:52.89,0:03:54.28,Default,,0,0,0,,超級搞笑光線
+Dialogue: 0,0:03:54.51,0:04:02.54,Default,,0,0,0,,會讓人重複想起搞笑事情導致什麼都做不了的必殺技 Baby
+Dialogue: 0,0:04:05.01,0:04:05.90,Default,,0,0,0,,好球
+Dialogue: 0,0:04:21.58,0:04:23.89,Default,,0,0,0,,超級魔球啊
+Dialogue: 0,0:04:24.11,0:04:26.06,Default,,0,0,0,,一桿進洞啊
+Dialogue: 0,0:04:28.60,0:04:30.81,Default,,0,0,0,,作為紀念把球送我嗎
+Dialogue: 0,0:04:32.17,0:04:35.46,Default,,0,0,0,,作為紀念下次交易讓我出馬嗎
+Dialogue: 0,0:04:35.87,0:04:36.98,Default,,0,0,0,,感謝部長
+Dialogue: 0,0:04:36.98,0:04:38.45,Default,,0,0,0,,感謝部長
+Dialogue: 0,0:04:48.13,0:04:49.47,Default,,0,0,0,,太好了 Baby
+Dialogue: 0,0:04:49.59,0:04:50.79,Default,,0,0,0,,做得漂亮小白
+Dialogue: 0,0:04:50.79,0:04:51.24,Default,,0,0,0,,是
+Dialogue: 0,0:04:51.53,0:04:53.18,Default,,0,0,0,,多虧了小新爸爸
+Dialogue: 0,0:04:53.69,0:04:56.22,Default,,0,0,0,,那是真的骨骨骨頭嗎
+Dialogue: 0,0:04:56.44,0:04:58.85,Default,,0,0,0,,是 看起來都那麼高級
+Dialogue: 0,0:04:58.85,0:05:00.65,Default,,0,0,0,,大概是真的
+Dialogue: 0,0:05:04.88,0:05:09.47,Default,,0,0,0,,今天也保護了春我部市和工薪族的和平 Baby
+Dialogue: 0,0:05:45.69,0:05:48.27,Default,,0,0,0,,為了正義今夜不能睡覺
+Dialogue: 0,0:05:48.27,0:05:49.85,Default,,0,0,0,,好睏 總之好睏啊
+Dialogue: 0,0:05:49.85,0:05:53.32,Default,,0,0,0,,要小心強行睜眼可能會翻白眼
+Dialogue: 0,0:05:53.49,0:05:54.53,Default,,0,0,0,,{\an8}下集超級小白
+Dialogue: 0,0:05:54.53,0:05:55.61,Default,,0,0,0,,{\an8}不眠之夜
+Dialogue: 0,0:05:55.78,0:05:58.55,Default,,0,0,0,,{\an8}小狗狗 睡覺覺
+Dialogue: 0,0:05:58.55,0:05:59.24,Default,,0,0,0,,{\an8}Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CHT,,0,0,0,,{\fad(250,550)\rOP-CHS}你{\r}是超級小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CHT,,0,0,0,,{\fad(250,550)}其實是超級英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CHT,,0,0,0,,{\fad(250,550)}蓬鬆的棉花糖一樣 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CHT,,0,0,0,,{\fad(250,550)}守護著和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CHT,,0,0,0,,{\fad(250,550)\rOP-CHS}你{\r}是超級小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CHT,,0,0,0,,{\fad(250,550)}就算肚子餓
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CHT,,0,0,0,,{\fad(250,550)}為了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CHT,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CHT,,0,0,0,,{\fad(250,550)}但今天也華麗地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

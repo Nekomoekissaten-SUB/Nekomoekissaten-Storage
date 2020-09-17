@@ -1,0 +1,110 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 25 [Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans TC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Top,Source Han Sans TC,55,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans TC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif TC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CN,@Tensentype JiaLiXianYuanGB18030,36,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻譯：Dysonsphere　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.04,0:00:29.05,Title,,0,0,0,,蜜蜂的甜蜜生活
+Dialogue: 0,0:05:55.64,0:06:00.01,Next,,0,0,0,,{\fs50\bord1.5\pos(796,604)}恐怖博士的研究所
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.27,0:00:23.84,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超級小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家裡
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,養著一條非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,隨處可見的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.34,Default,,0,0,0,,僅有一點不平凡 那就是
+Dialogue: 0,0:00:19.56,0:00:23.40,Default,,0,0,0,,牠是保護世界的超級英雄
+Dialogue: 0,0:00:35.46,0:00:38.46,Default,,0,0,0,,小白 發現疑似骨骨骨頭反應
+Dialogue: 0,0:00:40.78,0:00:44.30,Default,,0,0,0,,二十五丁目的他人不幸甜如蜜公園
+Dialogue: 0,0:00:44.61,0:00:47.26,Default,,0,0,0,,要在落入惡人手中前找到啊
+Dialogue: 0,0:00:48.35,0:00:49.00,Default,,0,0,0,,了解
+Dialogue: 0,0:00:53.35,0:00:55.58,Default,,0,0,0,,變身 超級小白
+Dialogue: 0,0:00:57.81,0:01:02.21,Default,,0,0,0,,骨骨骨頭有著優雅高貴狂野的香味
+Dialogue: 0,0:01:04.53,0:01:05.43,Default,,0,0,0,,在那裡
+Dialogue: 0,0:01:07.46,0:01:09.16,Default,,0,0,0,,骨骨骨頭在這裡面
+Dialogue: 0,0:01:09.56,0:01:15.89,Default,,0,0,0,,可是英雄不能踐踏蜜蜂的勞動成果
+Dialogue: 0,0:01:18.91,0:01:21.49,Default,,0,0,0,,不是英雄就隨心所欲了
+Dialogue: 0,0:02:16.25,0:02:18.49,Default,,0,0,0,,蜜蜂們真是強力的對手
+Dialogue: 0,0:02:19.06,0:02:22.29,Default,,0,0,0,,您好 這裡有您最喜歡的東西
+Dialogue: 0,0:02:35.32,0:02:35.91,Default,,0,0,0,,熊
+Dialogue: 0,0:02:36.11,0:02:36.70,Default,,0,0,0,,不好
+Dialogue: 0,0:02:37.01,0:02:38.94,Default,,0,0,0,,蜜蜂的家要被毀了
+Dialogue: 0,0:03:00.46,0:03:04.03,Default,,0,0,0,,那是蜂后專用的蜂王漿
+Dialogue: 0,0:03:32.30,0:03:33.41,Default,,0,0,0,,麻煩了
+Dialogue: 0,0:03:35.49,0:03:38.04,Default,,0,0,0,,這樣的話就連樹都砍了
+Dialogue: 0,0:03:41.14,0:03:43.72,Default,,0,0,0,,穿上防護服你奈我何
+Dialogue: 0,0:03:46.33,0:03:48.43,Default,,0,0,0,,今天就要得到骨骨骨頭
+Dialogue: 0,0:03:48.43,0:03:51.18,Default,,0,0,0,,成為世界總統
+Dialogue: 0,0:03:51.51,0:03:52.88,Default,,0,0,0,,泰迪快住手
+Dialogue: 0,0:03:53.38,0:03:55.01,Default,,0,0,0,,逼我用超級光線
+Dialogue: 0,0:03:55.36,0:03:57.34,Default,,0,0,0,,超超超級
+Dialogue: 0,0:03:57.34,0:03:59.15,Default,,0,0,0,,超級 超級 超級
+Dialogue: 0,0:03:59.15,0:04:01.40,Default,,0,0,0,,超級級級英雄
+Dialogue: 0,0:04:01.40,0:04:02.93,Default,,0,0,0,,級級級小白的
+Dialogue: 0,0:04:03.31,0:04:05.63,Default,,0,0,0,,超超超級
+Dialogue: 0,0:04:05.63,0:04:08.97,Default,,0,0,0,,光光光線
+Dialogue: 0,0:04:09.40,0:04:11.00,Default,,0,0,0,,會變小哦
+Dialogue: 0,0:04:11.87,0:04:14.44,Default,,0,0,0,,光線
+Dialogue: 0,0:04:20.33,0:04:22.55,Default,,0,0,0,,可惡 給我記住
+Dialogue: 0,0:04:30.59,0:04:32.18,Default,,0,0,0,,這是骨骨骨頭
+Dialogue: 0,0:04:32.44,0:04:35.89,Default,,0,0,0,,但英雄不能拿蜂巢的東西
+Dialogue: 0,0:04:38.94,0:04:40.53,Default,,0,0,0,,總之先搶救一下
+Dialogue: 0,0:04:43.48,0:04:46.01,Default,,0,0,0,,什麼 搶救的謝禮?
+Dialogue: 0,0:04:46.01,0:04:47.40,Default,,0,0,0,,謝謝你
+Dialogue: 0,0:04:47.40,0:04:48.71,Default,,0,0,0,,Thank You Baby
+Dialogue: 0,0:04:49.15,0:04:50.71,Default,,0,0,0,,太好了 Thank You
+Dialogue: 0,0:04:51.17,0:04:52.71,Default,,0,0,0,,小白幹得漂亮
+Dialogue: 0,0:04:52.71,0:04:53.25,Default,,0,0,0,,是
+Dialogue: 0,0:04:53.34,0:04:56.58,Default,,0,0,0,,那是真的骨骨骨頭嗎
+Dialogue: 0,0:04:56.82,0:04:59.89,Default,,0,0,0,,是 蜜蜂說可能是的
+Dialogue: 0,0:04:59.89,0:05:01.77,Default,,0,0,0,,應該不會錯
+Dialogue: 0,0:05:05.18,0:05:09.62,Default,,0,0,0,,今天也保護了蜜蜂們的安穩生活 Baby
+Dialogue: 0,0:05:45.69,0:05:47.08,Default,,0,0,0,,不行啊 好可怕
+Dialogue: 0,0:05:47.18,0:05:49.02,Default,,0,0,0,,不行就是不行啊 好可怕
+Dialogue: 0,0:05:49.02,0:05:50.03,Default,,0,0,0,,好黑啊
+Dialogue: 0,0:05:50.23,0:05:52.97,Default,,0,0,0,,什麼 這裡有骨骨骨頭嗎
+Dialogue: 0,0:05:52.97,0:05:54.27,Default,,0,0,0,,真的嗎
+Dialogue: 0,0:05:54.27,0:05:55.64,Default,,0,0,0,,{\an8}下集超級小白
+Dialogue: 0,0:05:55.64,0:05:57.49,Default,,0,0,0,,{\an8}恐怖博士的研究所
+Dialogue: 0,0:05:57.49,0:05:59.34,Default,,0,0,0,,{\an8}不行啊 Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超級小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CN,,0,0,0,,{\fad(250,550)}其實是超級英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CN,,0,0,0,,{\fad(250,550)}蓬鬆的棉花糖一樣 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CN,,0,0,0,,{\fad(250,550)}守護著和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CN,,0,0,0,,{\fad(250,550)}你是超級小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CN,,0,0,0,,{\fad(250,550)}就算肚子餓
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CN,,0,0,0,,{\fad(250,550)}為了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CN,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CN,,0,0,0,,{\fad(250,550)}但今天也華麗地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

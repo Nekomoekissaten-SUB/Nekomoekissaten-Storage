@@ -1,0 +1,123 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SUPER SHIRO 02 [Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Source Han Sans SC,60,&H00F8F8F8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
+Style: Screen,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00DF9851,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,20,1
+Style: Title,HYQiHei-105JF,60,&H00CD0101,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,200,1
+Style: Next,Source Han Sans SC Heavy,58,&H00FFFFFF,&H000000FF,&H00F51822,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,480,0,120,1
+Style: Staff,Source Han Serif SC,40,&H00E1A72A,&H000000FF,&H00A9607A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: OP-JP,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,0,1200,0,1
+Style: OP-CHS,@FZFW ZhuZi A YuanS L,45,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+Style: OP-CHT,@FOT-TsukuARdGothic Std L,52,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,5,1200,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.10,0:00:02.30,Staff,,0,0,0,,{\fad(500,500)}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:02.40,0:00:05.00,Staff,,0,0,0,,{\fad(500,500)}翻译：Dysonsphere　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:00:24.21,0:00:29.21,Title,,0,0,0,,奇怪的点心工厂
+Dialogue: 0,0:05:54.27,0:06:00.01,Next,,0,0,0,,宝石是骨骨骨头
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:22.44,0:00:24.01,Screen,,0,0,0,,{\an8\fnHYQiHei-105JF\fs50\bord0}超级小白
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:05.90,0:00:07.68,Default,,0,0,0,,非常平凡的野原一家里
+Dialogue: 0,0:00:07.68,0:00:10.11,Default,,0,0,0,,养着一条非常非常平凡的狗
+Dialogue: 0,0:00:10.25,0:00:12.67,Default,,0,0,0,,名字也是非常非常非常平凡的小白
+Dialogue: 0,0:00:12.83,0:00:15.69,Default,,0,0,0,,随处可见的非常非常非常非常平凡的狗
+Dialogue: 0,0:00:16.02,0:00:18.54,Default,,0,0,0,,仅有一点不平凡 那就是
+Dialogue: 0,0:00:19.58,0:00:23.56,Default,,0,0,0,,它是保护世界的超级英雄
+Dialogue: 0,0:00:33.34,0:00:33.92,Default,,0,0,0,,小白
+Dialogue: 0,0:00:33.92,0:00:36.84,Default,,0,0,0,,四丁目的24小时无人点心工厂
+Dialogue: 0,0:00:37.00,0:00:39.62,Default,,0,0,0,,有疑似骨骨骨头的强烈反应
+Dialogue: 0,0:00:39.86,0:00:40.75,Default,,0,0,0,,点心工厂?
+Dialogue: 0,0:00:40.97,0:00:43.19,Default,,0,0,0,,在落入恶人手中前找到哦
+Dialogue: 0,0:00:44.02,0:00:44.59,Default,,0,0,0,,了解
+Dialogue: 0,0:00:49.31,0:00:51.44,Default,,0,0,0,,变身 超级小白
+Dialogue: 0,0:01:02.70,0:01:04.07,Default,,0,0,0,,味道不错的饼干
+Dialogue: 0,0:01:04.27,0:01:05.99,Default,,0,0,0,,骨骨骨头混在其中
+Dialogue: 0,0:01:06.20,0:01:10.12,Default,,0,0,0,,骨骨骨头有着征服世界的无穷力量
+Dialogue: 0,0:01:10.27,0:01:15.22,Default,,0,0,0,,传说有着优雅高贵狂野的香味 Baby
+Dialogue: 0,0:01:22.22,0:01:22.84,Default,,0,0,0,,当然
+Dialogue: 0,0:01:23.22,0:01:25.81,Default,,0,0,0,,英雄可不会偷吃 Baby
+Dialogue: 0,0:01:30.98,0:01:33.53,Default,,0,0,0,,只要不是英雄就能偷吃了
+Dialogue: 0,0:01:33.72,0:01:34.42,Default,,0,0,0,,泰迪
+Dialogue: 0,0:01:34.84,0:01:36.85,Default,,0,0,0,,不能让你偷吃下去了
+Dialogue: 0,0:01:49.77,0:01:50.42,Default,,0,0,0,,这啥
+Dialogue: 0,0:01:50.91,0:01:52.67,Default,,0,0,0,,优雅高贵狂野的香味
+Dialogue: 0,0:01:53.13,0:01:53.84,Default,,0,0,0,,也就是说
+Dialogue: 0,0:01:54.52,0:01:55.71,Default,,0,0,0,,是骨骨骨头
+Dialogue: 0,0:02:00.38,0:02:01.04,Default,,0,0,0,,站住
+Dialogue: 0,0:02:23.29,0:02:24.35,Default,,0,0,0,,怎样
+Dialogue: 0,0:02:24.35,0:02:26.55,Default,,0,0,0,,我的足量黄油曲奇炮
+Dialogue: 0,0:02:26.61,0:02:28.78,Default,,0,0,0,,在香甜的味道中无法动弹
+Dialogue: 0,0:02:28.90,0:02:31.08,Default,,0,0,0,,材料也非常致密 它的…
+Dialogue: 0,0:02:33.17,0:02:34.12,Default,,0,0,0,,久等了
+Dialogue: 0,0:02:34.25,0:02:36.54,Default,,0,0,0,,甜曲奇人登场
+Dialogue: 0,0:02:36.67,0:02:37.46,Default,,0,0,0,,站住
+Dialogue: 0,0:03:09.34,0:03:10.70,Default,,0,0,0,,是骨骨骨头 Baby
+Dialogue: 0,0:03:29.02,0:03:33.32,Default,,0,0,0,,骨骨骨头终于到手了
+Dialogue: 0,0:03:33.51,0:03:35.93,Default,,0,0,0,,这样就可以统治世界了
+Dialogue: 0,0:03:36.08,0:03:37.73,Default,,0,0,0,,统治世界之后
+Dialogue: 0,0:03:37.99,0:03:41.62,Default,,0,0,0,,我就可以制定世界的规则了
+Dialogue: 0,0:03:45.92,0:03:46.59,Default,,0,0,0,,今日起
+Dialogue: 0,0:03:46.76,0:03:50.03,Default,,0,0,0,,世界的所有食品都是高级狗粮
+Dialogue: 0,0:03:50.57,0:03:53.00,Default,,0,0,0,,世界所有公园都是狗狗乐园
+Dialogue: 0,0:03:53.20,0:03:56.93,Default,,0,0,0,,所有的屎都不用铲回家
+Dialogue: 0,0:04:02.88,0:04:05.46,Default,,0,0,0,,绝不会让你统治世界
+Dialogue: 0,0:04:05.59,0:04:07.81,Default,,0,0,0,,永不放弃 超级光线
+Dialogue: 0,0:04:07.81,0:04:09.71,Default,,0,0,0,,超超超级
+Dialogue: 0,0:04:09.89,0:04:11.44,Default,,0,0,0,,超级 超级 超级
+Dialogue: 0,0:04:11.79,0:04:13.83,Default,,0,0,0,,超级级级英雄
+Dialogue: 0,0:04:13.95,0:04:15.42,Default,,0,0,0,,级级级小白的
+Dialogue: 0,0:04:15.86,0:04:17.98,Default,,0,0,0,,超超超级
+Dialogue: 0,0:04:18.17,0:04:21.44,Default,,0,0,0,,光光光线
+Dialogue: 0,0:04:21.90,0:04:23.28,Default,,0,0,0,,会变小哦
+Dialogue: 0,0:04:24.32,0:04:25.99,Default,,0,0,0,,光线
+Dialogue: 0,0:04:31.13,0:04:33.10,Default,,0,0,0,,给我记住了
+Dialogue: 0,0:04:34.43,0:04:35.75,Default,,0,0,0,,成功了Baby
+Dialogue: 0,0:04:37.60,0:04:38.63,Default,,0,0,0,,干得好小白
+Dialogue: 0,0:04:38.80,0:04:39.13,Default,,0,0,0,,是
+Dialogue: 0,0:04:39.54,0:04:42.44,Default,,0,0,0,,这回是真的骨骨骨头吗
+Dialogue: 0,0:04:42.65,0:04:44.45,Default,,0,0,0,,没错的
+Dialogue: 0,0:04:44.85,0:04:47.89,Default,,0,0,0,,有着优雅高贵狂野的香味
+Dialogue: 0,0:04:48.13,0:04:50.66,Default,,0,0,0,,那请放在传送装置上
+Dialogue: 0,0:04:51.16,0:04:51.86,Default,,0,0,0,,了解
+Dialogue: 0,0:04:54.03,0:04:55.33,Default,,0,0,0,,我想你知道
+Dialogue: 0,0:04:55.54,0:04:58.13,Default,,0,0,0,,要是假货的话是会爆炸的
+Dialogue: 0,0:04:58.42,0:05:01.51,Default,,0,0,0,,没关系 没错的是真的
+Dialogue: 0,0:05:04.94,0:05:08.87,Default,,0,0,0,,今天也在恶人魔爪下保护了世界 Baby
+Dialogue: 0,0:05:45.98,0:05:48.32,Default,,0,0,0,,为了人类一条狗挺身而出
+Dialogue: 0,0:05:48.32,0:05:49.33,Default,,0,0,0,,他就是小白
+Dialogue: 0,0:05:49.53,0:05:53.82,Default,,0,0,0,,一定要在野心统治世界的泰迪前得到骨骨骨头
+Dialogue: 0,0:05:54.05,0:05:55.16,Default,,0,0,0,,{\an8}下集超级小白
+Dialogue: 0,0:05:55.34,0:05:56.90,Default,,0,0,0,,{\an8}宝石是骨骨骨头
+Dialogue: 0,0:05:57.11,0:05:59.28,Default,,0,0,0,,{\an8}光泽会亮瞎眼的哦 Baby
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,Theme Song
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-JP,,0,0,0,,{\fad(250,550)}実はスーパーヒーロー
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-JP,,0,0,0,,{\fad(250,550)}わたあめふわふわ Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-JP,,0,0,0,,{\fad(250,550)}平和を守ってる
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-JP,,0,0,0,,{\fad(250,550)}君はスーパーシロ
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-JP,,0,0,0,,{\fad(250,550)}お腹すいても
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-JP,,0,0,0,,{\fad(250,550)}世界のために
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-JP,,0,0,0,,{\fad(250,550)}立ち上がる
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-JP,,0,0,0,,{\fad(250,550)}でも今日も爆発　はじけてる
+Dialogue: 0,0:05:15.40,0:05:18.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:19.21,0:05:21.34,OP-CHS,,0,0,0,,{\fad(250,550)}其实是超级英雄
+Dialogue: 0,0:05:22.35,0:05:25.02,OP-CHS,,0,0,0,,{\fad(250,550)}蓬松的棉花糖一样 Baby
+Dialogue: 0,0:05:25.02,0:05:26.71,OP-CHS,,0,0,0,,{\fad(250,550)}守护着和平
+Dialogue: 0,0:05:27.49,0:05:29.49,OP-CHS,,0,0,0,,{\fad(250,550)}你是超级小白
+Dialogue: 0,0:05:30.28,0:05:32.20,OP-CHS,,0,0,0,,{\fad(250,550)}就算肚子饿
+Dialogue: 0,0:05:33.22,0:05:35.87,OP-CHS,,0,0,0,,{\fad(250,550)}为了世界
+Dialogue: 0,0:05:36.15,0:05:37.53,OP-CHS,,0,0,0,,{\fad(250,550)}挺身而出
+Dialogue: 0,0:05:38.52,0:05:43.16,OP-CHS,,0,0,0,,{\fad(250,550)}但今天也华丽地爆炸了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
