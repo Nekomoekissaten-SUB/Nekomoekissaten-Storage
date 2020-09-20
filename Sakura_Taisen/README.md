@@ -29,3 +29,9 @@ MStiffHei HK UltraBold
 ```
 
 # 樱花革命 华丽绽放的少女们 特别动画
+
+源视频在Youtube[配信](https://youtu.be/o5gFFmhxx80)
+
+[简日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPSC.ass)
+
+[繁日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPTC.ass)
