@@ -35,3 +35,15 @@ MStiffHei HK UltraBold
 [简日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPSC.ass)
 
 [繁日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPTC.ass)
+
+所需字体：
+```
+FOT-マティスV Pro B <FOT-MatisseV Pro B>
+FOT-ロダン ProN DB <FOT-Rodin ProN DB>
+方正中粗雅宋_GBK <FZYaSong-DB1-GBK>
+汉仪旗黑-65S <HYQiHei-65S>
+
+华康雅宋体W9 <DFYaSongW9-GB>
+
+華康雅宋體 <DFYeaSong-B5>
+```
