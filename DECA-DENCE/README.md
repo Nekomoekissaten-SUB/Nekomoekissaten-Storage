@@ -11,7 +11,10 @@
 #6 | radiator | [简日双语][06S] | [繁日雙語][06T]
 #7 | driveshaft | [简日双语][07S] | [繁日雙語][07T]
 #8 | turbine | [简日双语][08S] | [繁日雙語][08T]
-#9 | turbocharger |
+#9 | turbocharger | [简日双语][09S] | [繁日雙語][09T]
+#10 | brake system | [简日双语][10S] | [繁日雙語][10T]
+#11 | engine | [简日双语][11S] | [繁日雙語][11T]
+#12 | decadence |
 
 ## 所需字体
 
@@ -58,5 +61,11 @@ FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 [07T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2007%20%5BWebRip%5D.JPTC.ass  '#7 JPTC'
 [08S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2008%20%5BWebRip%5D.JPSC.ass  '#8 JPSC'
 [08T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2008%20%5BWebRip%5D.JPTC.ass  '#8 JPTC'
+[09S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2009%20%5BWebRip%5D.JPSC.ass  '#9 JPSC'
+[09T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2009%20%5BWebRip%5D.JPTC.ass  '#9 JPSC'
+[10S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2010%20%5BWebRip%5D.JPSC.ass  '#10 JPSC'
+[10T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2010%20%5BWebRip%5D.JPTC.ass  '#10 JPTC'
+[11S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2011%20%5BWebRip%5D.JPSC.ass  '#11 JPSC'
+[11T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2011%20%5BWebRip%5D.JPTC.ass  '#11 JPTC'
 
 ![](poster.png)
