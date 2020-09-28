@@ -1,4 +1,6 @@
-# 字幕
+# Web字幕
+
+本字幕适配于切掉开头LOGO的Web源
 
 集数 | 标题 | 简体字幕 | 繁體字幕
 :-: | :-: | :-: | :-:
@@ -14,7 +16,11 @@
 #9 | turbocharger | [简日双语][09S] | [繁日雙語][09T]
 #10 | brake system | [简日双语][10S] | [繁日雙語][10T]
 #11 | engine | [简日双语][11S] | [繁日雙語][11T]
-#12 | decadence |
+#12 | decadence | [简日双语][12S] | [繁日雙語][12T]
+
+[简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/DECA-DENCE/DECA-DENCE_Web_JPSC.7z)
+
+[繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/DECA-DENCE/DECA-DENCE_Web_JPTC.7z)
 
 ## 所需字体
 
@@ -67,5 +73,7 @@ FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 [10T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2010%20%5BWebRip%5D.JPTC.ass  '#10 JPTC'
 [11S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2011%20%5BWebRip%5D.JPSC.ass  '#11 JPSC'
 [11T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2011%20%5BWebRip%5D.JPTC.ass  '#11 JPTC'
+[12S]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2012%20%5BWebRip%5D.JPSC.ass  '#12 JPSC'
+[12T]: https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/DECA-DENCE/Web/%5BNekomoe%20kissaten%5D%20DECA-DENCE%2012%20%5BWebRip%5D.JPTC.ass  '#12 JPTC'
 
 ![](poster.png)
