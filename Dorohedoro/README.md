@@ -1,6 +1,10 @@
 # 字幕
 
+BD字幕内容为01-12+OVA，Web字幕内容为01-12
+
 ## 简体中文
+
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dorohedoro/Dorohedoro_BD_CHS.7z)
 
 [Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dorohedoro/Dorohedoro_Web_CHS.7z)
 
@@ -40,6 +44,8 @@ Zpix
 ```
 
 ## 繁体中文
+
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dorohedoro/Dorohedoro_BD_CHT.7z)
 
 [Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dorohedoro/Dorohedoro_Web_CHT.7z)
 
@@ -83,6 +89,6 @@ Zpix
 
 ## 日文
 
-来源于Netflix，适配于Web源。
+来源于Netflix，适配于Web源，大致适配BD源。
 
-[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dorohedoro/Dorohedoro_Web_JPN.7z)
+[Web&BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dorohedoro/Dorohedoro_JPN.7z)
