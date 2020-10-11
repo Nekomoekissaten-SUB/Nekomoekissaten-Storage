@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 01 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.47,0:00:01.37,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.48,0:00:04.32,Default,,0,0,0,,{\an9\fs35}零食
+Dialogue: 0,0:00:01.70,0:00:04.58,Default,,0,0,0,,我家狗狗每當聽到我撕開袋子的聲音
+Dialogue: 0,0:00:04.70,0:00:05.66,Default,,0,0,0,,都會飛奔著跑過來
+Dialogue: 0,0:00:05.87,0:00:06.54,Default,,0,0,0,,會給我嗎
+Dialogue: 0,0:00:06.54,0:00:07.52,Default,,0,0,0,,會給我嗎
+Dialogue: 0,0:00:07.64,0:00:11.63,Default,,0,0,0,,唔 我又從來沒給過妳 妳也該放棄了吧
+Dialogue: 0,0:00:11.63,0:00:13.89,Default,,0,0,0,,不對 這傢伙一直以來…
+Dialogue: 0,0:00:14.22,0:00:17.06,Default,,0,0,0,,從沒想過「一次都沒給過我 所以放棄吧」
+Dialogue: 0,0:00:17.14,0:00:21.12,Default,,0,0,0,,而是在想「或許今天會第一次給我」
+Dialogue: 0,0:00:23.50,0:00:26.01,Default,,0,0,0,,妳腦袋裡裝的是水嗎 小鬼
+Dialogue: 0,0:00:26.52,0:00:30.42,Default,,0,0,0,,妳得等他們睡熟了去偷吃
+Dialogue: 0,0:00:31.04,0:00:33.91,Default,,0,0,0,,第二天早上 零食瞬間被搶食
+Dialogue: 0,0:00:34.11,0:00:35.70,Default,,0,0,0,,貓好可怕
+Dialogue: 0,0:00:37.65,0:00:38.51,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:37.60,0:00:38.60,Screen,,0,0,0,,{\fs35\frz15.76\c&H171723&\pos(387,481)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:39.04,0:00:39.75,Default,,0,0,0,,小狗子
+Dialogue: 0,0:00:40.09,0:00:42.35,Default,,0,0,0,,修毛時被剪成了奇怪的造型
+Dialogue: 0,0:00:42.35,0:00:44.60,Default,,0,0,0,,好醜 太傻了
+Dialogue: 0,0:00:45.10,0:00:46.21,Default,,0,0,0,,快看快看
+Dialogue: 0,0:00:46.21,0:00:48.03,Default,,0,0,0,,這是什麼奇怪的造型啊
+Dialogue: 0,0:00:48.03,0:00:49.22,Default,,0,0,0,,快看快看
+Dialogue: 0,0:00:49.22,0:00:50.87,Default,,0,0,0,,這髮型有夠別緻的
+Dialogue: 0,0:00:50.87,0:00:52.56,Default,,0,0,0,,明明成了大家的笑料
+Dialogue: 0,0:00:52.56,0:00:56.41,Default,,0,0,0,,但她誤以為大家都在笑就等於幸福
+Dialogue: 0,0:00:52.53,0:00:56.41,Screen,,0,0,0,,{\fad(270,0)\fn@FZZhunYuan-M02\frz-90\c&H171723&\3c&HFFFFFF&\bord4\pos(1071,363)}大家笑了
+Dialogue: 0,0:00:53.91,0:00:56.41,Screen,,0,0,0,,{\fad(270,0)\fnFZZhunYuan-M02\fs36\c&H171723&\3c&HFFFFFF&\bord4\pos(1050,141)}等於
+Dialogue: 0,0:00:54.33,0:00:56.41,Screen,,0,0,0,,{\fad(270,0)\fn@FZZhunYuan-M02\frz-90\c&H2223C8&\3c&HFFFFFF&\bord4\pos(971,351)}幸福
+Dialogue: 0,0:00:56.86,0:00:58.29,Default,,0,0,0,,但是狗狗的確厲害
+Dialogue: 0,0:00:58.64,0:01:01.11,Default,,0,0,0,,因為大家真的變得幸福了
+Dialogue: 0,0:01:02.49,0:01:03.33,Default,,0,0,0,,啊 貓貓
+Dialogue: 0,0:01:03.33,0:01:04.54,Default,,0,0,0,,快看快看
+Dialogue: 0,0:01:04.71,0:01:06.61,Default,,0,0,0,,妳是誰啊 混蛋
+Dialogue: 0,0:01:07.07,0:01:09.66,Default,,0,0,0,,換了個髮型就不認識了
+Dialogue: 0,0:01:09.77,0:01:10.97,Default,,0,0,0,,還動手揍人家
+Dialogue: 0,0:01:11.15,0:01:13.04,Default,,0,0,0,,貓貓 依舊是那麼冷酷無情
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

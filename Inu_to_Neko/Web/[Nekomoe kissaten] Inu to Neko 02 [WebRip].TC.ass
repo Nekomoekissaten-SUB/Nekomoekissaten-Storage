@@ -1,0 +1,55 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 02 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.47,0:00:01.37,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:00.47,0:00:01.37,Default,,0,0,0,,工作上被罵了
+Dialogue: 0,0:00:01.58,0:00:02.58,Default,,0,0,0,,不想活了
+Dialogue: 0,0:00:02.58,0:00:04.09,Default,,0,0,0,,明天去辭職
+Dialogue: 0,0:00:04.09,0:00:06.24,Default,,0,0,0,,每當我傷心的時候
+Dialogue: 0,0:00:06.55,0:00:08.82,Default,,0,0,0,,狗狗都會叼著球過來蹭我
+Dialogue: 0,0:00:08.93,0:00:12.90,Default,,0,0,0,,別鬧了 現在沒心情陪妳玩
+Dialogue: 0,0:00:13.43,0:00:15.47,Default,,0,0,0,,真拿妳沒辦法
+Dialogue: 0,0:00:15.47,0:00:17.31,Default,,0,0,0,,也不知道是不是我想多了
+Dialogue: 0,0:00:17.59,0:00:20.09,Default,,0,0,0,,每次在我傷心時狗狗都會叼著球過來找我玩
+Dialogue: 0,0:00:20.09,0:00:21.61,Default,,0,0,0,,並不是因為牠不會察言觀色
+Dialogue: 0,0:00:21.78,0:00:26.13,Default,,0,0,0,,而是因為牠記得一起玩球時主人開心的笑容
+Dialogue: 0,0:00:26.45,0:00:29.61,Default,,0,0,0,,所以是在對我說「一起來玩球 開心起來吧」
+Dialogue: 0,0:00:30.83,0:00:33.29,Default,,0,0,0,,心情好像已經好起來了
+Dialogue: 0,0:00:33.47,0:00:35.18,Default,,0,0,0,,看來不必勞煩我出場了
+Dialogue: 0,0:00:36.18,0:00:38.02,Default,,0,0,0,,原來一直在暗中觀察啊
+Dialogue: 0,0:00:38.14,0:00:39.63,Default,,0,0,0,,貓貓也很體貼
+Dialogue: 0,0:00:40.60,0:00:41.43,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:40.60,0:00:41.60,Screen,,0,0,0,,{\fs35\frz15.76\c&H171723&\pos(424,457)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:41.92,0:00:44.11,Default,,0,0,0,,狗狗在我關掉廚房的燈後
+Dialogue: 0,0:00:44.22,0:00:45.48,Default,,0,0,0,,到睡覺時間了
+Dialogue: 0,0:00:45.78,0:00:46.58,Default,,0,0,0,,睡覺吧
+Dialogue: 0,0:00:46.58,0:00:47.61,Default,,0,0,0,,睡覺吧
+Dialogue: 0,0:00:47.82,0:00:49.33,Default,,0,0,0,,是睡在被窩裡呢
+Dialogue: 0,0:00:49.47,0:00:50.66,Default,,0,0,0,,還是睡在上面呢
+Dialogue: 0,0:00:51.31,0:00:53.18,Default,,0,0,0,,呃 好重啊
+Dialogue: 0,0:00:53.16,0:00:54.62,Screen,,0,0,0,,{\b1\fnFZZhunYuan-M02\bord3\3c&HFFFFFF&\c&H000001&\an8}尋找合適位置中
+Dialogue: 0,0:00:54.75,0:00:58.32,Default,,0,0,0,,狗狗就像今天是第一次陪最愛的主人睡一般
+Dialogue: 0,0:00:58.43,0:01:00.54,Default,,0,0,0,,可以說拼盡全力地想睡得更幸福一些
+Dialogue: 0,0:01:01.70,0:01:02.63,Default,,0,0,0,,晚安
+Dialogue: 0,0:01:07.37,0:01:07.96,Default,,0,0,0,,貓貓
+Dialogue: 0,0:01:08.33,0:01:11.53,Default,,0,0,0,,就像是在說「爺的時間到了」一般 盡情撒野
+Dialogue: 0,0:01:11.84,0:01:12.85,Default,,0,0,0,,睡不著
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
