@@ -16,6 +16,7 @@ Style: OP-JP,FOT-TsukuMin Pr6N D,48,&H00FFFFFF,&H000000FF,&H00888888,&H00646464,
 Style: OP-CH,STZhongsong,34,&H00FFFFFF,&H000000FF,&H00888888,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0,8,20,20,14,1
 Style: ED-JP,FOT-TsukuMin Pr6N D,48,&H00000000,&H000000FF,&H00888888,&H00646464,0,0,0,0,100,100,0,0,1,0,0,2,20,20,10,128
 Style: ED-CH,STZhongsong,34,&H00000000,&H000000FF,&H00888888,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,20,20,14,1
+Style: Majo,STZhongsong,35,&H00171727,&H000000FF,&H00DAEDFB,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -334,6 +335,11 @@ Dialogue: 0,0:21:55.75,0:21:57.63,Default,,0,0,0,,等我成为独当一面的魔
 Dialogue: 0,0:21:57.84,0:22:00.17,Default,,0,0,0,,我要去见我最喜欢的那个旅人
 Dialogue: 0,0:22:03.26,0:22:04.59,Default,,0,0,0,,我会继续旅行
 Dialogue: 0,0:22:04.93,0:22:07.85,Default,,0,0,0,,满怀期待地等着你的 沙耶小姐
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Majo
+Dialogue: 0,0:01:00.00,0:01:00.96,Majo,,0,0,0,,{\an6\fs20\blur6}Literature\Nlike the colored fantasy\Ncarved into shape\Nwe can paint, \Nwe can make it real\Nit's like a gentle wind\Nturning the old pages
+Dialogue: 0,0:02:13.53,0:02:17.99,Majo,,0,0,0,,{\fad(950,0)\blur0\fs30\bord0\fax-0.1\3c&HDFE0E0&\c&H000000&\frz17.65\pos(696,410)}The Land of Witches
+Dialogue: 0,0:21:34.44,0:21:37.94,Majo,,0,0,0,,{\an8\blur5}Tea Time News
+Dialogue: 0,0:21:37.94,0:21:54.83,Majo,,0,0,0,,{\an7\3c&H948E8B&\blur5\bord3\pos(839,4)}Saya\NThe Land of Witches\N{\fs22\bord3}According to the article, she had moved to the\Ncountry of mages with her little sister several\Nyears ago. Her sister and only her sister quic-\Nkly became an apprentice.\N\NHer sister and only her sister quickly became\Nan apprentice witch and returned to their ho-\Nmetown without her. Then she met acertain \Ntraveler who gave her the courage to fight on\Nher own. As wel as one increbidlc…\N\N根据这篇文章，几年前她和她的妹妹搬到了这个魔\N法之国。然而只有她的妹妹很快成为了见习魔女，\N独自回到了她们的家乡。后来她遇到了一位旅行者\N给了她独自战斗的勇气。还有一个难以置信的…
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Dialogue: 0,0:00:44.46,0:00:52.13,OP-JP,,0,0,0,,{\fad(300,300)\blur5}彩られていけば幻想が　形あるものになるように
 Dialogue: 0,0:00:52.34,0:00:57.10,OP-JP,,0,0,0,,{\fad(300,300)\blur5}描いていける　叶えていけるんだ
