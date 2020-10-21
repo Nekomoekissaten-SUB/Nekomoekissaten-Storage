@@ -1,0 +1,54 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 03 [WebRip].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.47,0:00:01.48,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:01.61,0:00:06.28,Default,,0,0,0,,前些天我打车带猫猫去宠物医院时
+Dialogue: 0,0:00:04.62,0:00:07.82,Default,,0,0,0,,{\an8\fs42}没事的 没事的 别害怕
+Dialogue: 0,0:00:06.28,0:00:08.53,Default,,0,0,0,,猫好像不是很开心啊
+Dialogue: 0,0:00:08.99,0:00:11.03,Default,,0,0,0,,啊 抱歉 吵到你了吧
+Dialogue: 0,0:00:11.03,0:00:12.57,Default,,0,0,0,,猫这种动物可聪明了
+Dialogue: 0,0:00:12.57,0:00:15.00,Default,,0,0,0,,总是很快就知道你要带它去哪儿
+Dialogue: 0,0:00:15.00,0:00:16.99,Default,,0,0,0,,而且很可爱
+Dialogue: 0,0:00:16.99,0:00:18.33,Default,,0,0,0,,太好了 这人喜欢猫
+Dialogue: 0,0:00:18.73,0:00:20.60,Default,,0,0,0,,我之前也养过一只
+Dialogue: 0,0:00:20.86,0:00:22.54,Default,,0,0,0,,可黏人了
+Dialogue: 0,0:00:22.77,0:00:26.01,Default,,0,0,0,,非常讨厌我把它单独留在家里
+Dialogue: 0,0:00:26.01,0:00:30.43,Default,,0,0,0,,每当我穿正装出门时它都会很不情愿地看着我出门
+Dialogue: 0,0:00:28.01,0:00:30.43,Default,,0,0,0,,{\an8\fs42}我要出门喽 老实看家哦
+Dialogue: 0,0:00:30.57,0:00:33.29,Default,,0,0,0,,而当我穿便装出门时就会对我大打出手
+Dialogue: 0,0:00:34.01,0:00:35.10,Default,,0,0,0,,好可爱
+Dialogue: 0,0:00:35.10,0:00:38.02,Default,,0,0,0,,可爱个鬼 它是真的动手啊
+Dialogue: 0,0:00:38.94,0:00:42.94,Screen,,0,0,0,,{\fnFZZhunYuan-M02\c&H000000&\3c&HFFFFFF&\bord2\an8}窃窃私语
+Dialogue: 0,0:00:39.19,0:00:41.60,Default,,0,0,0,,搞得我最后只好先穿正装出门
+Dialogue: 0,0:00:41.75,0:00:43.40,Default,,0,0,0,,再到外面换上便装
+Dialogue: 0,0:00:44.49,0:00:47.77,Default,,0,0,0,,它活了23年 没生过一次病
+Dialogue: 0,0:00:48.11,0:00:49.41,Default,,0,0,0,,好厉害
+Dialogue: 0,0:00:49.41,0:00:51.50,Default,,0,0,0,,真的好可爱啊
+Dialogue: 0,0:00:51.70,0:00:53.69,Default,,0,0,0,,不准备再养一只了吗
+Dialogue: 0,0:00:54.51,0:00:57.75,Default,,0,0,0,,我已经这个年纪了 估计也活不过猫了吧
+Dialogue: 0,0:00:58.49,0:00:59.41,Default,,0,0,0,,而且
+Dialogue: 0,0:01:00.34,0:01:04.63,Default,,0,0,0,,那孩子真的太任性太黏人了
+Dialogue: 0,0:01:06.53,0:01:08.70,Default,,0,0,0,,我们的交谈也到此为止了
+Dialogue: 0,0:01:09.34,0:01:11.36,Default,,0,0,0,,老人应该是想说「如果我再养一只的话
+Dialogue: 0,0:01:11.36,0:01:15.33,Default,,0,0,0,,估计那只猫一定也不会允许的吧」
+Dialogue: 0,0:01:16.20,0:01:19.93,Default,,0,0,0,,那只猫猫现在依然活在爷爷心中重要的位置
+Dialogue: 0,0:01:20.69,0:01:23.91,Default,,0,0,0,,我觉得这对搭档真的好让人羡慕啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

@@ -1,0 +1,96 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] BUNNY - Josee, the Tiger and the Fish another story [BDRip 960x720 HEVC-10bit AC3].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZYouHei_GBK 509R,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Top,FZYouHei_GBK 509R,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Style: Comment,FZYouHei_GBK 509R,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,7,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.86,0:00:13.51,Comment,,0,0,0,,{\an9}兔子\N脊索动物门 哺乳纲 兔形目 兔科
+Dialogue: 0,0:00:13.51,0:00:19.87,Comment,,0,0,0,,{\an9}⚪抱兔子的正确方式\N×抱兔子的错误方式
+Dialogue: 0,0:00:24.15,0:00:25.39,Default,,0,0,0,,一直以来
+Dialogue: 0,0:00:27.20,0:00:28.12,Default,,0,0,0,,我都想试试
+Dialogue: 0,0:00:30.48,0:00:33.19,Default,,0,0,0,,我很好奇兔子会变成什么样
+Dialogue: 0,0:02:22.45,0:02:23.51,Default,,0,0,0,,久美子？
+Dialogue: 0,0:02:25.05,0:02:25.99,Default,,0,0,0,,你回来了
+Dialogue: 0,0:02:29.15,0:02:30.64,Default,,0,0,0,,你怎么会在这里
+Dialogue: 0,0:02:34.69,0:02:35.50,Default,,0,0,0,,等等
+Dialogue: 0,0:02:38.24,0:02:39.93,Default,,0,0,0,,你真是久美子吗
+Dialogue: 0,0:02:40.84,0:02:41.81,Default,,0,0,0,,对啊
+Dialogue: 0,0:02:50.23,0:02:51.85,Default,,0,0,0,,可是你为什么变成小孩儿了
+Dialogue: 0,0:03:02.14,0:03:05.95,Default,,0,0,0,,我知道了 是梦 我是在做梦吧
+Dialogue: 0,0:03:11.74,0:03:16.78,Default,,0,0,0,,一条腿 两只眼睛的东西 是什么
+Dialogue: 0,0:03:18.91,0:03:23.85,Default,,0,0,0,,一条腿 两只眼睛的东西 是什么
+Dialogue: 0,0:03:24.05,0:03:25.32,Default,,0,0,0,,信号灯
+Dialogue: 0,0:03:26.53,0:03:27.40,Default,,0,0,0,,错啦
+Dialogue: 0,0:03:28.59,0:03:32.75,Default,,0,0,0,,是一条腿 两只眼睛的妖怪
+Dialogue: 0,0:03:32.99,0:03:34.28,Default,,0,0,0,,你耍我呢
+Dialogue: 0,0:03:35.53,0:03:38.51,Default,,0,0,0,,今天那妖怪对我说了
+Dialogue: 0,0:03:39.16,0:03:39.79,Default,,0,0,0,,啊？
+Dialogue: 0,0:03:40.72,0:03:45.43,Default,,0,0,0,,它说可以实现幸治的一个愿望 什么都行
+Dialogue: 0,0:03:47.39,0:03:48.36,Default,,0,0,0,,你说什么啊
+Dialogue: 0,0:03:49.79,0:03:51.56,Default,,0,0,0,,这就是能实现你愿望的梦
+Dialogue: 0,0:03:52.54,0:03:53.96,Default,,0,0,0,,什么愿望都能实现哦
+Dialogue: 0,0:03:58.16,0:03:59.00,Default,,0,0,0,,什么都行？
+Dialogue: 0,0:04:12.65,0:04:15.91,Default,,0,0,0,,我又没什么愿望
+Dialogue: 0,0:04:18.87,0:04:19.67,Default,,0,0,0,,你在干嘛
+Dialogue: 0,0:04:21.56,0:04:23.29,Default,,0,0,0,,快过来坐下吧
+Dialogue: 0,0:04:25.52,0:04:28.09,Default,,0,0,0,,等等 你在干嘛呢
+Dialogue: 0,0:04:28.90,0:04:30.85,Default,,0,0,0,,这不是你刚刚在许的愿望吗
+Dialogue: 0,0:04:31.36,0:04:33.16,Default,,0,0,0,,我做的早饭
+Dialogue: 0,0:04:33.85,0:04:34.75,Default,,0,0,0,,快吃吧
+Dialogue: 0,0:04:35.25,0:04:36.55,Default,,0,0,0,,开什么玩笑
+Dialogue: 0,0:04:37.28,0:04:38.83,Default,,0,0,0,,我才没许那种愿望
+Dialogue: 0,0:04:40.86,0:04:42.13,Default,,0,0,0,,你刚刚是这么想的吧
+Dialogue: 0,0:04:42.45,0:04:43.71,Default,,0,0,0,,想吃我煎的鸡蛋卷…
+Dialogue: 0,0:04:43.71,0:04:45.46,Default,,0,0,0,,你好烦啊
+Dialogue: 0,0:04:47.07,0:04:49.16,Default,,0,0,0,,谁想吃那种东西啊
+Dialogue: 0,0:04:49.98,0:04:52.06,Default,,0,0,0,,真是个捉摸不透的孩子啊
+Dialogue: 0,0:04:52.79,0:04:54.63,Default,,0,0,0,,那你想要什么
+Dialogue: 0,0:04:55.05,0:04:58.16,Default,,0,0,0,,我说了我什么都不想要
+Dialogue: 0,0:05:02.51,0:05:03.93,Default,,0,0,0,,你想去哪儿？
+Dialogue: 0,0:05:07.44,0:05:08.35,Default,,0,0,0,,搞什么啊
+Dialogue: 0,0:05:09.33,0:05:12.43,Default,,0,0,0,,你不是想开车和我去旅行吗
+Dialogue: 0,0:05:14.22,0:05:16.30,Default,,0,0,0,,我才没想那种事
+Dialogue: 0,0:05:17.85,0:05:19.24,Default,,0,0,0,,我才没想 白痴
+Dialogue: 0,0:05:19.78,0:05:22.19,Default,,0,0,0,,怎么能说妈妈白痴呢
+Dialogue: 0,0:05:22.19,0:05:24.47,Default,,0,0,0,,我都说了你不是我妈
+Dialogue: 0,0:05:24.70,0:05:26.57,Default,,0,0,0,,我才不想和你去旅行
+Dialogue: 0,0:05:27.70,0:05:29.40,Default,,0,0,0,,这包是怎么回事啊
+Dialogue: 0,0:05:30.65,0:05:32.08,Default,,0,0,0,,什么狗屁旅行啊
+Dialogue: 0,0:05:32.32,0:05:33.61,Default,,0,0,0,,什么老妈啊
+Dialogue: 0,0:05:33.61,0:05:36.62,Default,,0,0,0,,结什么婚啊 气死我了
+Dialogue: 0,0:05:43.54,0:05:45.06,Default,,0,0,0,,这次又是什么啊
+Dialogue: 0,0:05:45.17,0:05:46.06,Default,,0,0,0,,是兔子
+Dialogue: 0,0:05:46.41,0:05:47.35,Default,,0,0,0,,为什么是兔子
+Dialogue: 0,0:05:49.14,0:05:51.23,Default,,0,0,0,,你不是一直都想试试吗
+Dialogue: 0,0:05:56.75,0:05:57.95,Default,,0,0,0,,试什么
+Dialogue: 0,0:05:58.71,0:06:00.65,Default,,0,0,0,,抓着兔子耳朵
+Dialogue: 0,0:06:36.52,0:06:39.00,Default,,0,0,0,,一 二 三
+Dialogue: 0,0:06:52.99,0:06:54.60,Default,,0,0,0,,怎么会这样
+Dialogue: 0,0:06:55.28,0:06:57.64,Default,,0,0,0,,就是因为你不认真回答我
+Dialogue: 0,0:06:58.19,0:07:00.72,Default,,0,0,0,,你的愿望到底是什么
+Dialogue: 0,0:07:00.72,0:07:02.62,Default,,0,0,0,,你好烦啊
+Dialogue: 0,0:07:03.88,0:07:05.81,Default,,0,0,0,,你又嫌烦了
+Dialogue: 0,0:07:06.73,0:07:11.97,Default,,0,0,0,,可恶 什么愿望啊
+Dialogue: 0,0:07:13.88,0:07:15.51,Default,,0,0,0,,我先看看书吧
+Dialogue: 0,0:07:23.43,0:07:24.58,Default,,0,0,0,,赶紧决定吧
+Dialogue: 0,0:07:25.60,0:07:28.26,Default,,0,0,0,,不然天亮的时候 梦就要醒了
+Dialogue: 0,0:08:48.39,0:08:50.38,Default,,0,0,0,,真的许这个愿望就行吗
+Dialogue: 0,0:08:57.87,0:08:59.50,Default,,0,0,0,,行个屁啊 白痴
+Dialogue: 0,0:09:07.67,0:09:10.90,Default,,0,0,0,,行个屁啊 白痴
+Dialogue: 0,0:09:14.48,0:09:16.58,Default,,0,0,0,,没事 他说梦话
+Dialogue: 0,0:09:17.72,0:09:19.45,Default,,0,0,0,,嗯 等下我就回店里
+Dialogue: 0,0:09:20.50,0:09:21.01,Default,,0,0,0,,好
+Dialogue: 0,0:09:40.05,0:09:41.09,Default,,0,0,0,,怎么哭了啊
+Dialogue: 0,0:10:38.99,0:10:44.59,Default,,0,0,20,,{\fad(600,600)\an8\fs30\bord0}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N翻译：小风yusa　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

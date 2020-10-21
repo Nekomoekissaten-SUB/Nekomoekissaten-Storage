@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 03 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Scroll Position: 15
+Active Line: 20
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.47,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.61,0:00:06.28,Default,,0,0,0,,前些天我叫車帶貓貓去寵物醫院時
+Dialogue: 0,0:00:04.62,0:00:07.82,Default,,0,0,0,,{\an8\fs42}沒事的 沒事的 別害怕
+Dialogue: 0,0:00:06.28,0:00:08.53,Default,,0,0,0,,貓好像不是很開心啊
+Dialogue: 0,0:00:08.99,0:00:11.03,Default,,0,0,0,,啊 抱歉 吵到你了吧
+Dialogue: 0,0:00:11.03,0:00:12.57,Default,,0,0,0,,貓這種動物可聰明了
+Dialogue: 0,0:00:12.57,0:00:15.00,Default,,0,0,0,,總是很快就知道你要帶牠去哪裡
+Dialogue: 0,0:00:15.00,0:00:16.99,Default,,0,0,0,,而且很可愛
+Dialogue: 0,0:00:16.99,0:00:18.33,Default,,0,0,0,,太好了 這人喜歡貓
+Dialogue: 0,0:00:18.73,0:00:20.60,Default,,0,0,0,,我之前也養過一隻
+Dialogue: 0,0:00:20.86,0:00:22.54,Default,,0,0,0,,可黏人了
+Dialogue: 0,0:00:22.77,0:00:26.01,Default,,0,0,0,,非常討厭我把牠單獨留在家裡
+Dialogue: 0,0:00:26.01,0:00:30.43,Default,,0,0,0,,每當我穿正裝出門時牠都會很不情願地看著我出門
+Dialogue: 0,0:00:28.01,0:00:30.43,Default,,0,0,0,,{\an8\fs42}我要出門囉 老實看家喔
+Dialogue: 0,0:00:30.57,0:00:33.29,Default,,0,0,0,,而當我穿便裝出門時就會對我大打出手
+Dialogue: 0,0:00:34.01,0:00:35.10,Default,,0,0,0,,好可愛
+Dialogue: 0,0:00:35.10,0:00:38.02,Default,,0,0,0,,可愛個鬼 牠是真的動手啊
+Dialogue: 0,0:00:38.94,0:00:42.94,Screen,,0,0,0,,{\fnFZZhunYuan-M02\c&H000000&\3c&HFFFFFF&\bord2\an8}竊竊私語
+Dialogue: 0,0:00:39.19,0:00:41.60,Default,,0,0,0,,搞得我最後只好先穿正裝出門
+Dialogue: 0,0:00:41.75,0:00:43.40,Default,,0,0,0,,再到外面換上便裝
+Dialogue: 0,0:00:44.49,0:00:47.77,Default,,0,0,0,,牠活了23年 沒生過一次病
+Dialogue: 0,0:00:48.11,0:00:49.41,Default,,0,0,0,,好厲害
+Dialogue: 0,0:00:49.41,0:00:51.50,Default,,0,0,0,,真的好可愛啊
+Dialogue: 0,0:00:51.70,0:00:53.69,Default,,0,0,0,,不準備再養一隻了嗎
+Dialogue: 0,0:00:54.51,0:00:57.75,Default,,0,0,0,,我已經這個年紀了 大概也活不過貓了吧
+Dialogue: 0,0:00:58.49,0:00:59.41,Default,,0,0,0,,而且
+Dialogue: 0,0:01:00.34,0:01:04.63,Default,,0,0,0,,那孩子真的太任性太黏人了
+Dialogue: 0,0:01:06.53,0:01:08.70,Default,,0,0,0,,我們的交談也到此為止了
+Dialogue: 0,0:01:09.34,0:01:11.36,Default,,0,0,0,,老人應該是想說「如果我再養一隻的話
+Dialogue: 0,0:01:11.36,0:01:15.33,Default,,0,0,0,,估計那隻貓一定也不會允許的吧」
+Dialogue: 0,0:01:16.20,0:01:19.93,Default,,0,0,0,,那隻貓貓現在依然活在爺爺心中重要的位置
+Dialogue: 0,0:01:20.69,0:01:23.91,Default,,0,0,0,,我覺得這對搭檔真的好讓人羨慕啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
