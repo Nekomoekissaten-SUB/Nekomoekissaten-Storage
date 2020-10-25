@@ -22,6 +22,7 @@ Style: OP-CH,FZYunDongHei-B-GBK,44,&H00FFFFFF,&H000000FF,&H00A27634,&H00000000,0
 Style: ED-JP,DFGabiMincho StdN W5,42,&H00FFFFFF,&H000000FF,&H00507FAB,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,128
 Style: ED-CHS,FZGaoYuanMingChaoS DemiBold,46,&H00FFFFFF,&H000000FF,&H00507FAB,&H00000000,0,0,0,0,114,92,0,0,1,0,0,8,20,20,24,1
 Style: ED-CHT,華康愛情體Std W5,40,&H00FFFFFF,&H000000FF,&H00507FAB,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,20,20,24,1
+Style: Insert,Avenir Next W1G Medium,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,10,10,5,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -415,6 +416,15 @@ Dialogue: 0,0:14:29.18,0:14:30.68,Screen,,0,0,0,,{\bord0\pos(205,216)\fax0.1\frx
 Dialogue: 0,0:14:29.18,0:14:30.68,Screen,,0,0,0,,{\fs30\fax0.5\fnHYQiHei-65S\bord0\c&H99734A&\frz335.9\pos(984,515)}服務區 戶外廁所
 Dialogue: 0,0:15:36.87,0:15:38.08,Screen,,0,0,0,,{\an5\fnHYQiHei-65S\bord0\fs30\pos(511,234)\frz218.1\frx50\fry352}阿祖祖
 Dialogue: 0,0:23:57.00,0:24:00.00,Title,,0,0,0,,{\fad(500,0)}館山城泳裝男女環遊戰！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert「クラウディアの子守唄」
+Dialogue: 0,0:18:55.15,0:19:00.97,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}Hljóðs bið ek allar
+Dialogue: 0,0:19:01.53,0:19:05.96,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}helgar kindir,
+Dialogue: 0,0:19:07.66,0:19:11.96,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}meiri ok minni
+Dialogue: 0,0:19:11.96,0:19:15.89,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}mögu Heimdallar;
+Dialogue: 0,0:19:17.71,0:19:22.63,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}viltu, at ek, Valföðr!
+Dialogue: 0,0:19:23.69,0:19:26.65,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}vel framtelja
+Dialogue: 0,0:19:27.10,0:19:30.65,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}forn spjöll fíra,
+Dialogue: 0,0:19:31.65,0:19:41.23,Insert,,0,0,0,,{\fad(200,200)\fax-0.15}þau er fremst um man.
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Opening
 Dialogue: 0,0:00:28.49,0:00:28.71,OP-JP,,0,0,0,,{\move(2040,700,644,700)\fax-0.35}曖昧な　まだ見えない明日にだって
 Dialogue: 0,0:00:31.68,0:00:31.88,OP-JP,,0,0,0,,{\move(2040,700,644,700)\fax-0.35}君となら飛べるから
