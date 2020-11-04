@@ -1,0 +1,74 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Munou na Nana Mini 02 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhengHei-DB-GBK,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,10,10,10,1
+Style: Dial-CH2,FZZhengHei-DB-GBK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,8,10,10,34,1
+Style: Dial-JP,FOT-Skip ProN E,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,2,128
+Style: Dial-JP2,FOT-Skip ProN E,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,1,128
+Style: Staff,FZZhengHei-DB-GBK,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,15,1
+Style: ED-JP1,FOT-Skip ProN E,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,30,30,20,128
+Style: ED-CH1,FZZhengHei-DB-GBK,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,24,24,24,1
+Style: Screen,FZLanTingHei-H-GBK,45,&H00747266,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title,FZZhengHei-DB-GBK,60,&H00DE8BE9,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,Staff
+Dialogue: 0,0:00:00.80,0:00:02.72,Staff,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途 \N翻譯: Hmiku　後製: MIR　繁化: 雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,Text
+Dialogue: 0,0:00:01.98,0:00:04.98,Title,,0,0,0,,{\fad(450,800)}踢{\c&HD59655&}罐子
+Dialogue: 0,0:00:05.42,0:00:07.20,Default,,0,0,0,,藏~好~了~嘛~
+Dialogue: 0,0:00:07.69,0:00:09.77,Default,,0,0,0,,藏~好~了~喔~
+Dialogue: 0,0:00:10.33,0:00:12.80,Default,,0,0,0,,好咧 那我就開始找囉
+Dialogue: 0,0:00:13.09,0:00:14.80,Default,,0,0,0,,大家都會藏到哪裡呢
+Dialogue: 0,0:00:15.26,0:00:16.95,Default,,0,0,0,,柊 妳在幹什麼呢
+Dialogue: 0,0:00:17.28,0:00:20.23,Default,,0,0,0,,啊 恭也同學 我們在玩踢罐子呢
+Dialogue: 0,0:00:20.48,0:00:23.37,Default,,0,0,0,,大家藏起來 然後我去找他們
+Dialogue: 0,0:00:23.85,0:00:25.20,Default,,0,0,0,,在抓住所有人之前
+Dialogue: 0,0:00:25.33,0:00:26.98,Default,,0,0,0,,有人把罐子踢倒了的話
+Dialogue: 0,0:00:27.26,0:00:28.20,Default,,0,0,0,,就算我輸啦
+Dialogue: 0,0:00:28.42,0:00:30.86,Default,,0,0,0,,原來如此 妳就是魔鬼啊
+Dialogue: 0,0:00:31.49,0:00:32.99,Default,,0,0,0,,這可不是單純的玩
+Dialogue: 0,0:00:33.10,0:00:36.38,Default,,0,0,0,,這也是為了對抗人類之敵做的自主練習
+Dialogue: 0,0:00:36.94,0:00:40.74,Default,,0,0,0,,鍛鍊那個時候的判斷力 也能強化隨機應變的能力
+Dialogue: 0,0:00:41.00,0:00:43.22,Default,,0,0,0,,茂具男同學和聖也同學邀請我來玩的
+Dialogue: 0,0:00:43.83,0:00:47.30,Default,,0,0,0,,這麼說 他們就只是想和妳玩而已
+Dialogue: 0,0:00:47.50,0:00:49.75,Default,,0,0,0,,藏起來的一方是人類之敵
+Dialogue: 0,0:00:50.16,0:00:53.19,Default,,0,0,0,,踢倒罐子之後「人類就滅絕了」就是這種設定
+Dialogue: 0,0:00:54.13,0:00:56.51,Default,,0,0,0,,柊 人類之敵出現了
+Dialogue: 0,0:00:57.06,0:00:59.73,Default,,0,0,0,,娜娜 我要踢倒罐子囉
+Dialogue: 0,0:00:59.81,0:01:00.84,Default,,0,0,0,,不會讓你得逞的
+Dialogue: 0,0:01:03.23,0:01:05.92,Default,,0,0,0,,怎麼可能就這麼輕易地讓妳抓到
+Dialogue: 0,0:01:06.62,0:01:10.02,Default,,0,0,0,,娜娜 人類就快要滅絕了喔
+Dialogue: 0,0:01:10.10,0:01:11.40,Default,,0,0,0,,那可不行
+Dialogue: 0,0:01:11.89,0:01:14.16,Default,,0,0,0,,柊 這裡就交給我吧
+Dialogue: 0,0:01:14.36,0:01:17.25,Default,,0,0,0,,慢著 為什麼恭也同學要來溱一腳啊
+Dialogue: 0,0:01:17.48,0:01:20.36,Default,,0,0,0,,柊 快去抓住那邊那個人類之敵吧
+Dialogue: 0,0:01:20.72,0:01:23.64,Default,,0,0,0,,感謝相助 站住！！！
+Dialogue: 0,0:01:26.04,0:01:28.73,Default,,0,0,0,,茂具男同學 想辦法先搞定恭也同學
+Dialogue: 0,0:01:28.91,0:01:30.73,Default,,0,0,0,,明白 先幹掉他
+Dialogue: 0,0:01:31.29,0:01:32.09,Default,,0,0,0,,被盯上了啊
+Dialogue: 0,0:01:32.59,0:01:36.03,Default,,0,0,0,,柊 我被圍攻的時候 妳趁機抓住他們
+Dialogue: 0,0:01:36.96,0:01:38.61,Default,,0,0,0,,完蛋 中計了
+Dialogue: 0,0:01:39.06,0:01:42.30,Default,,0,0,0,,恭也同學 不會白白讓你犧牲的
+Dialogue: 0,0:01:44.17,0:01:45.63,Default,,0,0,0,,被幹掉了
+Dialogue: 0,0:01:45.66,0:01:47.29,Default,,0,0,0,,被抓住了啊
+Dialogue: 0,0:01:48.44,0:01:49.86,Default,,0,0,0,,幹得漂亮 柊
+Dialogue: 0,0:01:50.36,0:01:51.96,Default,,0,0,0,,這樣就守護住了人類
+Dialogue: 0,0:01:56.93,0:01:59.96,Default,,0,0,0,,啊 人類就這樣滅絕了
+Dialogue: 0,0:02:00.32,0:02:02.15,Default,,0,0,0,,這種情況算什麼
+Dialogue: 0,0:02:02.38,0:02:05.11,Default,,0,0,0,,沒有罐子了 這樣就結束了
+Dialogue: 0,0:02:05.22,0:02:07.04,Default,,0,0,0,,去更大的地方玩吧
+Dialogue: 0,0:02:07.78,0:02:10.65,Default,,0,0,0,,我也贊成 去操場玩吧
+Dialogue: 0,0:02:11.10,0:02:13.32,Default,,0,0,0,,難道說 我也要一起嗎
+Dialogue: 0,0:02:13.78,0:02:14.94,Default,,0,0,0,,當然啦
+Dialogue: 0,0:02:18.19,0:02:20.96,Default,,0,0,0,,還有我呢 是不是把我給忘了
+Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,

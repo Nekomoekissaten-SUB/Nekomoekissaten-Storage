@@ -1,0 +1,94 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Munou na Nana Mini 03 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhengHei-DB-GBK,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,10,10,10,1
+Style: Dial-CH2,FZZhengHei-DB-GBK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,8,10,10,34,1
+Style: Dial-JP,FOT-Skip ProN E,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,2,128
+Style: Dial-JP2,FOT-Skip ProN E,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,1,128
+Style: Staff,FZZhengHei-DB-GBK,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,15,1
+Style: ED-JP1,FOT-Skip ProN E,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,30,30,20,128
+Style: ED-CH1,FZZhengHei-DB-GBK,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,24,24,24,1
+Style: Screen,FZLanTingHei-H-GBK,45,&H00747266,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title,FZZhengHei-DB-GBK,60,&H00DE8BE9,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,Staff
+Dialogue: 0,0:00:00.80,0:00:02.72,Staff,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途 \N翻譯: Hmiku　後製: MIR　繁化: 雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,Text
+Dialogue: 0,0:00:01.98,0:00:04.98,Title,,0,0,0,,{\fad(450,800)}羅密歐{\c&H252940&}與{\c&HD59655&}茱麗葉
+Dialogue: 0,0:00:05.21,0:00:06.97,Default,,0,0,0,,啊 茱麗葉
+Dialogue: 0,0:00:07.69,0:00:09.53,Default,,0,0,0,,我已難以忍受對你的思念
+Dialogue: 0,0:00:09.96,0:00:11.53,Default,,0,0,0,,為你來到這裡
+Dialogue: 0,0:00:12.09,0:00:16.16,Default,,0,0,0,,跟隨著月光 不知不覺 就來到了你的窗前
+Dialogue: 0,0:00:16.76,0:00:19.02,Default,,0,0,0,,這是羅密歐的台詞嗎 柊
+Dialogue: 0,0:00:19.25,0:00:20.57,Default,,0,0,0,,是啊 恭也同學
+Dialogue: 0,0:00:20.96,0:00:24.08,Default,,0,0,0,,作為國文作業的參考
+Dialogue: 0,0:00:24.51,0:00:29.48,Default,,0,0,0,,是讀後心得吧 體會羅密歐與茱麗葉的心情
+Dialogue: 0,0:00:29.79,0:00:33.81,Default,,0,0,0,,是啊 自己演一下說不定能感受到一些
+Dialogue: 0,0:00:34.32,0:00:37.80,Default,,0,0,0,,對了 恭也同學能演一下茱麗葉嗎
+Dialogue: 0,0:00:39.55,0:00:40.62,Default,,0,0,0,,要我來演茱麗葉嗎
+Dialogue: 0,0:00:41.16,0:00:42.35,Default,,0,0,0,,不應該是羅密歐嗎
+Dialogue: 0,0:00:42.63,0:00:45.74,Default,,0,0,0,,不是不瞭解異性的戀愛心理嗎
+Dialogue: 0,0:00:46.17,0:00:48.62,Default,,0,0,0,,所以我才要演羅密歐
+Dialogue: 0,0:00:50.72,0:00:54.46,Default,,0,0,0,,確實我也很難理解茱麗葉的心情啊
+Dialogue: 0,0:00:54.96,0:00:59.42,Default,,0,0,0,,是吧 恭也同學演一下的話 說不定就能抓住什麼靈感了
+Dialogue: 0,0:00:59.77,0:01:01.42,Default,,0,0,0,,如果我是茱麗葉的話…
+Dialogue: 0,0:01:03.60,0:01:06.55,Default,,0,0,0,,我明白了 雖然沒什麼自信演好但也要體驗一下
+Dialogue: 0,0:01:06.97,0:01:07.67,Default,,0,0,0,,試試看吧
+Dialogue: 0,0:01:08.11,0:01:09.00,Default,,0,0,0,,那就開始啦
+Dialogue: 0,0:01:09.54,0:01:11.00,Default,,0,0,0,,好 開始
+Dialogue: 0,0:01:11.08,0:01:14.00,Default,,0,0,0,,噢~羅密歐~羅密歐
+Dialogue: 0,0:01:14.59,0:01:16.43,Default,,0,0,0,,為什麼你偏偏是羅密歐呢
+Dialogue: 0,0:01:16.75,0:01:18.16,Default,,0,0,0,,一下子就進入狀態了
+Dialogue: 0,0:01:18.31,0:01:20.60,Default,,0,0,0,,如果剛才是真心告白的話
+Dialogue: 0,0:01:21.07,0:01:23.66,Default,,0,0,0,,那就與我一起逃離這個地方吧
+Dialogue: 0,0:01:24.02,0:01:27.04,Default,,0,0,0,,求求你了 羅密歐 羅密歐~
+Dialogue: 0,0:01:28.10,0:01:30.00,Default,,0,0,0,,這我可不能輸給他
+Dialogue: 0,0:01:30.70,0:01:32.91,Default,,0,0,0,,啊~茱麗葉
+Dialogue: 0,0:01:32.93,0:01:36.90,Default,,0,0,0,,此刻能與你相見 我已經死而無憾了
+Dialogue: 0,0:01:37.04,0:01:39.02,Default,,0,0,0,,羅密歐~羅密歐~
+Dialogue: 0,0:01:39.10,0:01:41.31,Default,,0,0,0,,茱麗葉~
+Dialogue: 0,0:01:41.47,0:01:42.47,Default,,0,0,0,,羅密歐
+Dialogue: 0,0:01:42.58,0:01:46.40,Default,,0,0,0,,那傢伙 和娜娜在一起玩得那麼開心
+Dialogue: 0,0:01:46.49,0:01:48.37,Default,,0,0,0,,這我就看不下去了
+Dialogue: 0,0:01:48.54,0:01:51.06,Default,,0,0,0,,絕對不允許獨佔那麼可愛的女孩子
+Dialogue: 0,0:01:52.04,0:01:56.34,Default,,0,0,0,,羅密歐 我絕不允許你和那樣的女孩交往
+Dialogue: 0,0:01:57.07,0:01:57.80,Default,,0,0,0,,茂具男同學
+Dialogue: 0,0:01:58.02,0:02:02.88,Default,,0,0,0,,我不是茂具男 而是你敬愛的媽媽
+Dialogue: 0,0:02:03.93,0:02:07.28,Default,,0,0,0,,而我是羅密歐的摯友 莫枯修
+Dialogue: 0,0:02:07.90,0:02:11.68,Default,,0,0,0,,我不會把你交給這樣眼神兇惡的女人的
+Dialogue: 0,0:02:12.40,0:02:13.64,Default,,0,0,0,,喂 你們兩個幹什麼啊
+Dialogue: 0,0:02:13.84,0:02:17.37,Default,,0,0,0,,慢著 你們要把我的羅密歐帶到哪裡去
+Dialogue: 0,0:02:17.62,0:02:19.58,Default,,0,0,0,,帶到你觸及不到的地方
+Dialogue: 0,0:02:19.95,0:02:24.32,Default,,0,0,0,,來吧 羅密歐 和我一起去愛的龍宮旅行吧
+Dialogue: 0,0:02:24.45,0:02:26.74,Default,,0,0,0,,你想趁亂偷跑嗎
+Dialogue: 0,0:02:27.04,0:02:31.86,Default,,0,0,0,,茱麗葉 和媽媽一起去鬼島尋寶吧
+Dialogue: 0,0:02:32.05,0:02:34.34,Default,,0,0,0,,我已經不明白你們在表達什麼了
+Dialogue: 0,0:02:35.26,0:02:39.03,Default,,0,0,0,,我的 我體內的魔物就要覺醒了
+Dialogue: 0,0:02:39.71,0:02:41.22,Default,,0,0,0,,為了奪回我的羅密歐
+Dialogue: 0,0:02:41.74,0:02:44.45,Default,,0,0,0,,我要打破這一千年的封印
+Dialogue: 0,0:02:44.57,0:02:47.64,Default,,0,0,0,,恭也同學也這樣 這豈不是成異能力漫畫了
+Dialogue: 0,0:02:48.06,0:02:50.13,Default,,0,0,0,,雖然這種我也很喜歡
+Dialogue: 0,0:02:50.26,0:02:53.61,Default,,0,0,0,,覺醒吧 被封印的暗黑茱麗葉
+Dialogue: 0,0:02:54.26,0:02:56.75,Default,,0,0,0,,啊啊啊啊啊啊~
+Dialogue: 0,0:02:56.78,0:02:59.30,Default,,0,0,0,,放馬過來吧 茱麗葉
+Dialogue: 0,0:02:59.36,0:03:01.90,Default,,0,0,0,,羅密歐 你也要參加與茱麗葉的戰鬥
+Dialogue: 0,0:03:02.01,0:03:03.90,Default,,0,0,0,,啊啊啊啊啊啊~
+Dialogue: 0,0:03:04.21,0:03:06.29,Screen,,0,0,0,,{\fad(0,250)\an8\c&HE042D2&\bord4\3c&HE2E0E0&}某天
+Dialogue: 0,0:03:06.29,0:03:08.12,Default,,0,0,0,,總結一下最近的作業
+Dialogue: 0,0:03:08.75,0:03:11.84,Default,,0,0,0,,柊同學 小野寺同學 飯島同學 郡同學
+Dialogue: 0,0:03:12.27,0:03:13.10,Default,,0,0,0,,全員…
+Dialogue: 0,0:03:13.93,0:03:14.39,Default,,0,0,0,,滿分
+Dialogue: 0,0:03:14.93,0:03:15.70,Default,,0,0,0,,不會吧
+Dialogue: 0,0:03:14.84,0:03:17.76,Screen,,0,0,0,,{\fad(0,900)\an8\c&H4645E8&}做得不錯
+Dialogue: 0,0:03:15.81,0:03:16.50,Default,,0,0,0,,我都猜到了
+Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,
