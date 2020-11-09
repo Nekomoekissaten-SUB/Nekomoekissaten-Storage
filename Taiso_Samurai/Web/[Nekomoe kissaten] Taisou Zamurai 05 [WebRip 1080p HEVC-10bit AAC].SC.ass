@@ -1,0 +1,540 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Taisou Zamurai 05 [WebRip 1080p HEVC-10bit AAC].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,方正兰亭特黑_GBK,55,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.2,0,2,15,15,15,1
+Style: Screen,方正兰亭中黑_GBK,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
+Style: Dialogue,方正兰亭中黑_GBK,47,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
+Style: Dialogue_Alt,方正兰亭中黑_GBK,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,8,15,15,15,1
+Style: Comment,方正兰亭中黑_GBK,30,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,7,15,15,15,1
+Style: Taisou_OPJP,FOT-Skip ProN E,52,&H3700DEFF,&H00000000,&H00121617,&H00000000,0,0,0,0,100,100,7,0,1,2,0,2,25,25,15,1
+Style: Taisou_OPCN,方正正粗黑_GBK,43,&H3700DEFF,&H00000000,&H00121617,&H00000000,0,0,0,0,100,100,7,0,1,2,0,8,25,25,15,1
+Style: Taisou_EDJP,FOT-Rodin ProN B,36,&H00FFFFFF,&H00000000,&H00000000,&H00363636,0,0,0,0,100,100,0,0,1,1,2,2,25,25,6,128
+Style: Taisou_EDCH,FZLanTingHei-B-GBK,34,&H00FFFFFF,&H00000000,&H00000000,&H00363636,0,0,0,0,100,100,0,0,1,1,2,8,25,25,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,------------Staff------------
+Dialogue: 0,0:00:00.02,0:00:04.06,Title,,0,0,0,,{\an8\fs42\fad(300,300)\bord2\blur2\fn方正粗雅宋_GBK}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途
+Dialogue: 0,0:00:04.06,0:00:08.27,Title,,0,0,0,,{\fs42\an8\fad(300,300)\bord2\blur2\fn方正粗雅宋_GBK}翻译: Nemeton　后期: MIR
+Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,------------Text------------
+Dialogue: 0,0:00:04.29,0:00:05.74,Dialogue,,0,0,0,,{\blur2}集中注意力
+Dialogue: 0,0:00:06.05,0:00:07.70,Dialogue,,0,0,0,,{\blur2}还有一周大赛就要开始了
+Dialogue: 0,0:00:07.90,0:00:08.27,Dialogue,,0,0,0,,{\blur2}是
+Dialogue: 0,0:00:14.53,0:00:16.59,Dialogue,,0,0,0,,{\blur2}Joe马上就要上战场了
+Dialogue: 0,0:00:17.57,0:00:19.58,Dialogue,,0,0,0,,{\blur2}关原之战就要开始了
+Dialogue: 0,0:00:28.09,0:00:28.71,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:00:29.79,0:00:31.85,Dialogue,,0,0,0,,{\blur2}这天也有关原之战吗
+Dialogue: 0,0:02:07.84,0:02:09.56,Dialogue,,0,0,0,,{\blur2}状态不错
+Dialogue: 0,0:02:10.70,0:02:14.63,Dialogue,,0,0,0,,{\blur2}即便如此 这次NHK杯也会是一场恶战
+Dialogue: 0,0:02:15.22,0:02:18.86,Dialogue,,0,0,0,,{\blur2}你需要和年轻人中的佼佼者同台竞技
+Dialogue: 0,0:02:19.80,0:02:22.03,Dialogue,,0,0,0,,{\blur2}其中就有南野
+Dialogue: 0,0:02:23.87,0:02:26.58,Dialogue,,0,0,0,,{\blur2}干脆把自己当做新人去挑战他们
+Dialogue: 0,0:02:27.29,0:02:27.77,Dialogue,,0,0,0,,{\blur2}听好了吧?
+Dialogue: 0,0:02:28.23,0:02:30.25,Dialogue,,0,0,0,,{\blur2}所谓不忘初…
+Dialogue: 0,0:02:30.25,0:02:30.75,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:02:32.63,0:02:33.48,Dialogue,,0,0,0,,{\blur2}抱歉
+Dialogue: 0,0:02:33.69,0:02:35.66,Dialogue,,0,0,0,,{\blur2}要不忘「鯱」是吧{FZFW ZhuZi HeiS B 𩾇}
+Dialogue: 0,0:02:33.69,0:02:35.66,Comment,,0,0,0,,{\blur2}注：鯱，想像中类似鱼的海兽，虎头、鱼身、尾鳍向上。{FZFW ZhuZi HeiS B 𩾇}
+Dialogue: 0,0:02:35.83,0:02:37.07,Dialogue,,0,0,0,,{\blur2}你还是接电话吧
+Dialogue: 0,0:02:38.47,0:02:39.73,Dialogue,,0,0,0,,{\blur2}今天也要晚点回来吗
+Dialogue: 0,0:02:40.54,0:02:41.15,Dialogue,,0,0,0,,{\blur2}嗯
+Dialogue: 0,0:02:41.37,0:02:44.17,Dialogue,,0,0,0,,{\blur2}练习结束以后还要和天草先生交流一下
+Dialogue: 0,0:02:44.37,0:02:46.01,Dialogue,,0,0,0,,{\blur2}可能得快八点才能到家
+Dialogue: 0,0:02:46.34,0:02:46.96,Dialogue,,0,0,0,,{\blur2}明白了
+Dialogue: 0,0:02:47.13,0:02:48.64,Dialogue,,0,0,0,,{\blur2}做好晚饭等你
+Dialogue: 0,0:02:50.91,0:02:53.57,Dialogue,,0,0,0,,{\blur2}这次大赛小玲也会来吧
+Dialogue: 0,0:02:53.86,0:02:54.40,Dialogue,,0,0,0,,{\blur2}嗯
+Dialogue: 0,0:02:55.21,0:02:58.43,Dialogue,,0,0,0,,{\blur2}可不能让她失望
+Dialogue: 0,0:02:58.93,0:02:59.90,Dialogue,,0,0,0,,{\blur2}我啊
+Dialogue: 0,0:03:00.35,0:03:02.02,Dialogue,,0,0,0,,{\blur2}也邀请了我女儿
+Dialogue: 0,0:03:03.14,0:03:04.89,Dialogue,,0,0,0,,{\blur2}结果就收到了这个
+Dialogue: 0,0:03:05.70,0:03:07.25,Dialogue,,0,0,0,,{\blur2}给…
+Dialogue: 0,0:03:08.17,0:03:08.69,Dialogue,,0,0,0,,{\blur2}给?
+Dialogue: 0,0:03:09.31,0:03:10.61,Dialogue,,0,0,0,,{\blur2}你能相信吗
+Dialogue: 0,0:03:10.97,0:03:12.45,Dialogue,,0,0,0,,{\blur2}我可是她亲爹
+Dialogue: 0,0:03:13.14,0:03:15.10,Dialogue,,0,0,0,,{\blur2}我就这么回她
+Dialogue: 0,0:03:16.67,0:03:17.06,Dialogue,,0,0,0,,{\blur2}下
+Dialogue: 0,0:03:17.78,0:03:18.34,Dialogue,,0,0,0,,{\blur2}个…
+Dialogue: 0,0:03:19.03,0:03:19.60,Dialogue,,0,0,0,,{\blur2}个?
+Dialogue: 0,0:03:20.54,0:03:22.14,Dialogue,,0,0,0,,{\blur2}我是不是太惯着她了
+Dialogue: 0,0:03:23.55,0:03:25.33,Dialogue,,0,0,0,,{\blur2}你怎么看
+Dialogue: 0,0:03:27.05,0:03:29.54,Dialogue,,0,0,0,,{\blur2}Go…
+Dialogue: 0,0:03:29.92,0:03:31.62,Dialogue,,0,0,0,,{\pos(658.42,660.00)\fsp0.4\fs32\fnSitka Small\b1\i1\blur2}Godzilla
+Dialogue: 0,0:03:29.92,0:03:31.62,Dialogue,,0,0,0,,{\blur2}啊 哥斯拉!
+Dialogue: 0,0:03:31.79,0:03:33.43,Dialogue,,0,0,0,,{\pos(639.00,660.00)\fsp0.4\fs32\fnSitka Small\b1\i1\blur2}Last Action Hero
+Dialogue: 0,0:03:31.79,0:03:33.43,Dialogue,,0,0,0,,{\blur2}幻影英雄
+Dialogue: 0,0:03:33.69,0:03:35.43,Dialogue,,0,0,0,,{\blur2}Ro…
+Dialogue: 0,0:03:35.98,0:03:37.07,Dialogue,,0,0,0,,{\pos(639.00,660.00)\fsp0.4\fs32\fnSitka Small\b1\i1\blur2}RoboCop
+Dialogue: 0,0:03:35.98,0:03:37.07,Dialogue,,0,0,0,,{\blur2}机械战警
+Dialogue: 0,0:03:37.20,0:03:38.21,Dialogue,,0,0,0,,{\pos(636.90,660.00)\fsp0.4\fs32\fnSitka Small\b1\i1\blur2}Project A
+Dialogue: 0,0:03:37.20,0:03:38.21,Dialogue,,0,0,0,,{\blur2}A计划
+Dialogue: 0,0:03:38.37,0:03:40.55,Dialogue,,0,0,0,,{\blur2}A…
+Dialogue: 0,0:03:40.99,0:03:41.71,Dialogue,,0,0,0,,{\pos(639.00,660.00)\fsp0.4\fs32\fnSitka Small\b1\i1\blur2}Alien
+Dialogue: 0,0:03:40.99,0:03:41.71,Dialogue,,0,0,0,,{\blur2}异形
+Dialogue: 0,0:03:41.71,0:03:42.46,Dialogue,,0,0,0,,{\blur2}出局
+Dialogue: 0,0:03:42.46,0:03:43.48,Dialogue,,0,0,0,,{\blur2}结尾是「n」
+Dialogue: 0,0:03:43.48,0:03:45.96,Dialogue,,0,0,0,,{\blur2}大意啦
+Dialogue: 0,0:03:45.96,0:03:47.58,Dialogue,,0,0,0,,{\blur2}我赢了!
+Dialogue: 0,0:03:48.63,0:03:50.71,Dialogue,,0,0,0,,{\blur2}里安也记住了不少呢
+Dialogue: 0,0:03:51.07,0:03:53.09,Dialogue,,0,0,0,,{\blur2}你是11月份来我们家的吧
+Dialogue: 0,0:03:53.50,0:03:55.63,Dialogue,,0,0,0,,{\blur2}已经过去半年了啊
+Dialogue: 0,0:03:56.01,0:03:58.29,Dialogue,,0,0,0,,{\blur2}时间过得真快
+Dialogue: 0,0:04:00.48,0:04:03.56,Dialogue,,0,0,0,,{\blur2}说起来 7月5号是什么日子
+Dialogue: 0,0:04:03.90,0:04:04.32,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:04:05.74,0:04:09.96,Dialogue,,0,0,0,,{\blur2}哦 那天是我生日
+Dialogue: 0,0:04:10.42,0:04:12.65,Dialogue,,0,0,0,,{\blur2}小玲的生日?
+Dialogue: 0,0:04:12.65,0:04:13.26,Dialogue,,0,0,0,,{\blur2}嗯
+Dialogue: 0,0:04:13.75,0:04:15.86,Dialogue,,0,0,0,,{\blur2}我们家有一个重要的规矩
+Dialogue: 0,0:04:16.28,0:04:19.35,Dialogue,,0,0,0,,{\blur2}生日要全家人在一起过
+Dialogue: 0,0:04:23.80,0:04:26.91,Dialogue,,0,0,0,,{\blur2}那天爸爸也会在家里待一天
+Dialogue: 0,0:04:28.27,0:04:30.56,Dialogue,,0,0,0,,{\blur2}这是妈妈决定的
+Dialogue: 0,0:04:32.41,0:04:34.11,Dialogue,,0,0,0,,{\blur2}会是个不错的生日呢
+Dialogue: 0,0:04:39.96,0:04:41.41,Dialogue,,0,0,0,,{\blur2}今年…
+Dialogue: 0,0:04:41.88,0:04:43.35,Dialogue,,0,0,0,,{\blur2}里安也会为我庆祝生日吗
+Dialogue: 0,0:04:43.73,0:04:44.08,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:04:44.81,0:04:47.28,Dialogue,,0,0,0,,{\blur2}因…因为 里安已经…
+Dialogue: 0,0:04:47.76,0:04:49.77,Dialogue,,0,0,0,,{\blur2}算是我们的家人了吧
+Dialogue: 0,0:04:51.27,0:04:52.14,Dialogue,,0,0,0,,{\blur2}所以说
+Dialogue: 0,0:04:54.90,0:04:55.68,Dialogue,,0,0,0,,{\blur2}家人…
+Dialogue: 0,0:04:57.61,0:04:59.37,Dialogue,,0,0,0,,{\blur2}不行吗?
+Dialogue: 0,0:05:01.57,0:05:03.22,Dialogue,,0,0,0,,{\blur2}我一定会参加的
+Dialogue: 0,0:05:03.35,0:05:04.36,Dialogue,,0,0,0,,{\blur2}约定成立
+Dialogue: 0,0:05:05.94,0:05:06.51,Dialogue,,0,0,0,,{\blur2}嗯
+Dialogue: 0,0:05:06.79,0:05:08.19,Dialogue,,0,0,0,,{\blur2}约定成立
+Dialogue: 0,0:05:12.54,0:05:13.84,Dialogue,,0,0,0,,{\blur2}违反约定就切腹自尽吧
+Dialogue: 0,0:05:13.84,0:05:14.88,Dialogue,,0,0,0,,{\blur2}切腹?
+Dialogue: 0,0:05:38.91,0:05:40.65,Dialogue,,0,0,0,,{\blur2}湛蓝的天空之下
+Dialogue: 0,0:05:40.81,0:05:44.41,Dialogue,,0,0,0,,{\blur2}第42届NHK杯终于开始了
+Dialogue: 0,0:05:44.70,0:05:48.27,Dialogue,,0,0,0,,{\blur2}今年的比赛比往年更受关注
+Dialogue: 0,0:05:49.31,0:05:51.61,Dialogue,,0,0,0,,{\blur2}日本体操界长期状态低迷
+Dialogue: 0,0:05:51.61,0:05:57.05,Dialogue,,0,0,0,,{\blur2}而新一代的实力选手将打破这个僵局
+Dialogue: 0,0:05:59.45,0:06:00.33,Dialogue,,0,0,0,,{\blur2}城太郎呢
+Dialogue: 0,0:06:00.78,0:06:02.09,Dialogue,,0,0,0,,{\blur2}和以往一样
+Dialogue: 0,0:06:11.30,0:06:11.99,Dialogue,,0,0,0,,{\blur2}好
+Dialogue: 0,0:06:15.15,0:06:15.46,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:06:27.50,0:06:29.70,Dialogue,,0,0,0,,{\blur2}好久不见 城太郎
+Dialogue: 0,0:06:29.90,0:06:31.35,Dialogue,,0,0,0,,{\blur2}中之森先生
+Dialogue: 0,0:06:31.94,0:06:33.81,Dialogue,,0,0,0,,{\blur2}好久不见您了
+Dialogue: 0,0:06:34.24,0:06:38.13,Dialogue,,0,0,0,,{\blur2}我看了你那个「取消退役」见面会了
+Dialogue: 0,0:06:38.46,0:06:41.20,Dialogue,,0,0,0,,{\blur2}你还是这么喜欢制造惊喜呢
+Dialogue: 0,0:06:41.62,0:06:45.63,Dialogue,,0,0,0,,{\blur2}突然宣布和女演员结婚的时候也是
+Dialogue: 0,0:06:46.78,0:06:47.55,Dialogue,,0,0,0,,{\blur2}放开我
+Dialogue: 0,0:06:48.03,0:06:49.43,Dialogue,,0,0,0,,{\blur2}好好打招呼
+Dialogue: 0,0:06:49.89,0:06:51.28,Dialogue,,0,0,0,,{\blur2}大家同为选手
+Dialogue: 0,0:06:53.01,0:06:54.96,Dialogue,,0,0,0,,{\blur2}同为选手?
+Dialogue: 0,0:06:58.06,0:07:00.94,Dialogue,,0,0,0,,{\blur2}注意在登台前保持好状态
+Dialogue: 0,0:07:01.42,0:07:02.19,Dialogue,,0,0,0,,{\blur2}小铁
+Dialogue: 0,0:07:09.37,0:07:10.48,Dialogue,,0,0,0,,{\blur2}不好意思
+Dialogue: 0,0:07:10.73,0:07:13.19,Dialogue,,0,0,0,,{\blur2}是我这个教练做得不好
+Dialogue: 0,0:07:13.19,0:07:14.15,Dialogue,,0,0,0,,{\blur2}没事…
+Dialogue: 0,0:07:14.72,0:07:16.13,Dialogue,,0,0,0,,{\blur2}他还年轻
+Dialogue: 0,0:07:16.30,0:07:18.15,Dialogue,,0,0,0,,{\blur2}不过他的实力是不错的
+Dialogue: 0,0:07:19.00,0:07:23.53,Dialogue,,0,0,0,,{\blur2}我相信他能在今后的体操界独当一面
+Dialogue: 0,0:07:32.14,0:07:34.22,Dialogue,,0,0,0,,{\blur2}这就是Joe的战场
+Dialogue: 0,0:07:34.42,0:07:37.23,Dialogue,,0,0,0,,{\blur2}关原之战!
+Dialogue: 0,0:07:37.66,0:07:38.63,Dialogue,,0,0,0,,{\blur2}好了 里安
+Dialogue: 0,0:07:42.16,0:07:44.31,Dialogue,,0,0,0,,{\blur2}我们也努力为爸爸加油吧
+Dialogue: 0,0:07:44.31,0:07:45.78,Dialogue,,0,0,0,,{\blur2}好的!
+Dialogue: 0,0:07:47.09,0:07:49.33,Dialogue,,0,0,0,,{\blur2}选手们要入场了
+Dialogue: 0,0:07:52.91,0:07:57.34,Dialogue,,0,0,0,,{\blur2}我们请到了原奥运会代表选手上村隆来解说
+Dialogue: 0,0:07:57.55,0:08:00.21,Dialogue,,0,0,0,,{\blur2}上村先生有特别关注的选手吗
+Dialogue: 0,0:08:00.75,0:08:04.64,Dialogue,,0,0,0,,{\blur2}我比较关注近年崭露头角的年轻选手
+Dialogue: 0,0:08:05.23,0:08:08.34,Dialogue,,0,0,0,,{\blur2}首先是去年在全日本大赛获得第三名的
+Dialogue: 0,0:08:08.34,0:08:11.02,Dialogue,,0,0,0,,{\blur2}丰国会的堂岛润选手
+Dialogue: 0,0:08:12.12,0:08:14.14,Dialogue,,0,0,0,,{\blur2}还有在全日本大赛获得第二名的
+Dialogue: 0,0:08:14.14,0:08:16.91,Dialogue,,0,0,0,,{\blur2}立体大的锦织茂选手
+Dialogue: 0,0:08:17.89,0:08:21.12,Dialogue,,0,0,0,,{\blur2}还有芝兰堂大的冈町博选手
+Dialogue: 0,0:08:21.70,0:08:24.51,Dialogue,,0,0,0,,{\blur2}他去年问鼎全日本大赛和NHK杯
+Dialogue: 0,0:08:24.65,0:08:27.61,Dialogue,,0,0,0,,{\blur2}是现在日本体操界的顶尖选手
+Dialogue: 0,0:08:29.17,0:08:32.85,Dialogue,,0,0,0,,{\blur2}这位可能威胁到他冠军地位的存在
+Dialogue: 0,0:08:33.16,0:08:36.89,Dialogue,,0,0,0,,{\blur2}Play Sports俱乐部的南野选手同样不可小觑
+Dialogue: 0,0:08:37.39,0:08:40.78,Dialogue,,0,0,0,,{\blur2}最近大家都喜欢称他为头巾王子呢
+Dialogue: 0,0:08:41.81,0:08:44.60,Dialogue,,0,0,0,,{\blur2}他在过去的一年中进步极快
+Dialogue: 0,0:08:44.92,0:08:46.68,Dialogue,,0,0,0,,{\blur2}即便考虑到他还是高中生
+Dialogue: 0,0:08:46.68,0:08:48.55,Dialogue,,0,0,0,,{\blur2}这种进步速度依旧令人吃惊
+Dialogue: 0,0:08:48.86,0:08:51.43,Dialogue,,0,0,0,,{\blur2}也有人称他为未来的王牌
+Dialogue: 0,0:08:51.95,0:08:55.02,Dialogue,,0,0,0,,{\blur2}这次大赛的冠军或许就会在这四人中产生
+Dialogue: 0,0:08:56.60,0:08:59.31,Dialogue,,0,0,0,,{\blur2}这次大赛的参赛者还有因退役风波而闻名的
+Dialogue: 0,0:08:59.31,0:09:03.03,Dialogue,,0,0,0,,{\blur2}四叶体育的荒垣城太郎选手
+Dialogue: 0,0:09:03.41,0:09:04.92,Dialogue,,0,0,0,,{\blur2}荒垣吗
+Dialogue: 0,0:09:05.63,0:09:08.49,Dialogue,,0,0,0,,{\blur2}他这几年状态都不太好
+Dialogue: 0,0:09:08.89,0:09:10.84,Dialogue,,0,0,0,,{\blur2}参考他去年全日本大赛的成绩
+Dialogue: 0,0:09:10.84,0:09:13.10,Dialogue,,0,0,0,,{\blur2}这次比赛对他来说也不容易吧
+Dialogue: 0,0:09:14.29,0:09:16.00,Dialogue,,0,0,0,,{\blur2}爸爸 加油!
+Dialogue: 0,0:09:16.14,0:09:19.20,Dialogue,,0,0,0,,{\blur2}让我们看看你的体操
+Dialogue: 0,0:09:19.47,0:09:22.17,Dialogue,,0,0,0,,{\blur2}泷泽前辈 加油!
+Dialogue: 0,0:09:24.89,0:09:27.49,Dialogue,,0,0,0,,{\blur2}本次大赛参赛选手共36名
+Dialogue: 0,0:09:27.83,0:09:31.86,Dialogue,,0,0,0,,{\blur2}分为6人小组 各项目轮流进行
+Dialogue: 0,0:09:33.53,0:09:37.79,Dialogue,,0,0,0,,{\blur2}第一项 自由体操 王牌冈町选手登场了
+Dialogue: 0,0:09:42.61,0:09:44.27,Dialogue,,0,0,0,,{\blur2}利落的踺子之后是
+Dialogue: 0,0:09:44.27,0:09:45.52,Dialogue,,0,0,0,,{\blur2}双重月面宙返
+Dialogue: 0,0:09:45.89,0:09:47.59,Dialogue,,0,0,0,,{\blur2}最高级E难度的动作
+Dialogue: 0,0:09:47.59,0:09:49.50,Dialogue,,0,0,0,,{\blur2}落地非常漂亮
+Dialogue: 0,0:09:50.13,0:09:53.67,Dialogue,,0,0,0,,{\blur2}冈町是一位动作十分精细的选手
+Dialogue: 0,0:09:53.88,0:09:57.74,Dialogue,,0,0,0,,{\blur2}每一个动作都干净利落 完成度很高
+Dialogue: 0,0:09:58.21,0:09:59.33,Dialogue,,0,0,0,,{\blur2}请看
+Dialogue: 0,0:10:05.81,0:10:09.18,Dialogue,,0,0,0,,{\blur2}看他这倒立 脚尖直指屋顶
+Dialogue: 0,0:10:09.24,0:10:10.69,Dialogue,,0,0,0,,{\blur2}实在是美极了
+Dialogue: 0,0:10:11.25,0:10:14.54,Dialogue,,0,0,0,,{\blur2}体操并非单纯比拼动作的难度
+Dialogue: 0,0:10:14.83,0:10:20.35,Dialogue,,0,0,0,,{\blur2}完成动作时姿势的美感也是重要的评分参考
+Dialogue: 0,0:10:24.11,0:10:25.80,Dialogue,,0,0,0,,{\blur2}冈町选手 漂亮的表演
+Dialogue: 0,0:10:25.80,0:10:27.80,Dialogue,,0,0,0,,{\blur2}应该会获得高分
+Dialogue: 0,0:10:29.90,0:10:31.70,Dialogue,,0,0,0,,{\blur2}结果出来了 9.475
+Dialogue: 0,0:10:31.70,0:10:33.57,Dialogue,,0,0,0,,{\blur2}不愧是上一届的冠军
+Dialogue: 0,0:10:33.57,0:10:35.70,Dialogue,,0,0,0,,{\blur2}第一项就获得了高分
+Dialogue: 0,0:10:37.78,0:10:39.21,Dialogue,,0,0,0,,{\blur2}第二项 鞍马
+Dialogue: 0,0:10:39.21,0:10:40.62,Dialogue,,0,0,0,,{\blur2}堂岛选手出场
+Dialogue: 0,0:10:41.01,0:10:43.75,Dialogue,,0,0,0,,{\blur2}堂岛 加油!
+Dialogue: 0,0:10:45.74,0:10:49.09,Dialogue,,0,0,0,,{\blur2}堂岛 分腿全旋接E难度组合
+Dialogue: 0,0:10:49.35,0:10:52.46,Dialogue,,0,0,0,,{\blur2}充满运动感的大幅度动作表演
+Dialogue: 0,0:10:53.17,0:10:56.52,Dialogue,,0,0,0,,{\blur2}他的鞍马在高中时代就十分出众
+Dialogue: 0,0:10:56.68,0:10:59.89,Dialogue,,0,0,0,,{\blur2}「鞍马之子」的称号就象征着他的实力
+Dialogue: 0,0:11:01.34,0:11:02.80,Dialogue,,0,0,0,,{\blur2}9.425
+Dialogue: 0,0:11:02.90,0:11:04.46,Dialogue,,0,0,0,,{\blur2}同样获得了高分
+Dialogue: 0,0:11:08.23,0:11:09.40,Dialogue,,0,0,0,,{\blur2}各位请看
+Dialogue: 0,0:11:09.82,0:11:11.25,Dialogue,,0,0,0,,{\blur2}锦织选手的吊环
+Dialogue: 0,0:11:11.94,0:11:14.25,Dialogue,,0,0,0,,{\blur2}本间腿前举十字悬垂
+Dialogue: 0,0:11:14.25,0:11:15.83,Dialogue,,0,0,0,,{\blur2}接水平十字
+Dialogue: 0,0:11:15.83,0:11:18.26,Dialogue,,0,0,0,,{\blur2}成功完成E难度动作
+Dialogue: 0,0:11:19.00,0:11:22.82,Dialogue,,0,0,0,,{\blur2}吊环的力量系动作很依靠上半身的肌肉
+Dialogue: 0,0:11:22.82,0:11:25.54,Dialogue,,0,0,0,,{\blur2}他那种稳定感 实在是太棒了
+Dialogue: 0,0:11:26.02,0:11:27.86,Dialogue,,0,0,0,,{\blur2}差不多要出分了
+Dialogue: 0,0:11:29.02,0:11:30.40,Dialogue,,0,0,0,,{\blur2}9.450
+Dialogue: 0,0:11:30.40,0:11:32.67,Dialogue,,0,0,0,,{\blur2}锦织9.450分
+Dialogue: 0,0:11:33.58,0:11:34.64,Dialogue,,0,0,0,,{\blur2}现在的排名
+Dialogue: 0,0:11:34.64,0:11:38.82,Dialogue,,0,0,0,,{\blur2}冈町 锦织 堂岛 分差很小
+Dialogue: 0,0:11:39.75,0:11:42.98,Dialogue,,0,0,0,,{\blur2}但这三人依旧无法获得第一位的成绩
+Dialogue: 0,0:11:43.19,0:11:46.24,Dialogue,,0,0,0,,{\blur2}谁能想象比赛会如此发展呢
+Dialogue: 0,0:11:46.80,0:11:50.19,Dialogue,,0,0,0,,{\blur2}现在的第一位是南野选手
+Dialogue: 0,0:11:50.85,0:11:52.73,Dialogue,,0,0,0,,{\blur2}超越去年的全日本大赛冠军
+Dialogue: 0,0:11:52.73,0:11:55.70,Dialogue,,0,0,0,,{\blur2}如今保持第一位的是南野铁男选手
+Dialogue: 0,0:12:00.24,0:12:02.81,Dialogue,,0,0,0,,{\blur2}超过去年的冠军冈町选手
+Dialogue: 0,0:12:02.98,0:12:06.66,Dialogue,,0,0,0,,{\blur2}第一天的六个项目结束后获得第一 感受如何
+Dialogue: 0,0:12:07.49,0:12:08.15,Dialogue,,0,0,0,,{\blur2}没感受
+Dialogue: 0,0:12:09.04,0:12:12.87,Dialogue,,0,0,0,,{\blur2}南野选手目前保持第一位
+Dialogue: 0,0:12:12.99,0:12:14.74,Dialogue,,0,0,0,,{\blur2}不过还有其他的强力选手
+Dialogue: 0,0:12:14.74,0:12:16.92,Dialogue,,0,0,0,,{\blur2}他能否撑过接下来的第二个比赛日
+Dialogue: 0,0:12:16.99,0:12:17.92,Dialogue,,0,0,0,,{\blur2}大家拭目以待
+Dialogue: 0,0:12:19.47,0:12:20.91,Dialogue,,0,0,0,,{\blur2}Joe是第15名呢
+Dialogue: 0,0:12:23.06,0:12:25.14,Dialogue,,0,0,0,,{\blur2}爸爸的表演也很棒
+Dialogue: 0,0:12:25.31,0:12:27.23,Dialogue,,0,0,0,,{\blur2}完全不输他们
+Dialogue: 0,0:12:27.52,0:12:28.62,Dialogue,,0,0,0,,{\blur2}是的
+Dialogue: 0,0:12:29.05,0:12:32.87,Dialogue,,0,0,0,,{\blur2}排名很靠后 也不用太消沉
+Dialogue: 0,0:12:44.77,0:12:45.42,Dialogue,,0,0,0,,{\blur2}没事的
+Dialogue: 0,0:12:46.21,0:12:49.45,Dialogue,,0,0,0,,{\blur2}几年来 这次我状态最好
+Dialogue: 0,0:12:49.73,0:12:50.85,Dialogue,,0,0,0,,{\blur2}我也这么认为
+Dialogue: 0,0:12:51.40,0:12:52.66,Dialogue,,0,0,0,,{\blur2}被你发现了
+Dialogue: 0,0:12:53.34,0:12:53.94,Dialogue,,0,0,0,,{\blur2}那…
+Dialogue: 0,0:12:54.59,0:12:56.88,Dialogue,,0,0,0,,{\blur2}接下来要超过14个人
+Dialogue: 0,0:12:57.87,0:12:58.32,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:13:01.17,0:13:01.71,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:13:15.03,0:13:16.39,Dialogue,,0,0,0,,{\blur2}提到逆转!
+Dialogue: 0,0:13:23.35,0:13:25.33,Dialogue,,0,0,0,,{\blur2}Wild thing!
+Dialogue: 0,0:13:27.01,0:13:29.86,Dialogue,,0,0,0,,{\blur2}You make my heart sing.
+Dialogue: 0,0:13:29.86,0:13:31.58,Dialogue,,0,0,0,,{\blur2}不好
+Dialogue: 0,0:13:33.45,0:13:35.17,Dialogue,,0,0,0,,{\blur2}目前三个项目已经结束
+Dialogue: 0,0:13:35.17,0:13:36.25,Dialogue,,0,0,0,,{\blur2}现在正在进行跳马项目
+Dialogue: 0,0:13:36.78,0:13:41.34,Dialogue,,0,0,0,,{\blur2}紧接着第一天 第二天的表演也很精彩
+Dialogue: 0,0:13:41.46,0:13:44.01,Dialogue,,0,0,0,,{\blur2}而南野选手的势头依旧凶猛
+Dialogue: 0,0:13:44.77,0:13:46.22,Dialogue,,0,0,0,,{\blur2}冈町如何应对
+Dialogue: 0,0:13:55.06,0:13:58.56,Dialogue,,0,0,0,,{\blur2}冈町十分可惜 落地时跳动了一下
+Dialogue: 0,0:13:58.87,0:14:00.69,Dialogue,,0,0,0,,{\blur2}落地稍有失误
+Dialogue: 0,0:14:00.69,0:14:03.36,Dialogue,,0,0,0,,{\blur2}不过应该还是能获得高分
+Dialogue: 0,0:14:04.02,0:14:04.95,Dialogue,,0,0,0,,{\blur2}得分出来了
+Dialogue: 0,0:14:06.21,0:14:07.78,Dialogue,,0,0,0,,{\blur2}9.400
+Dialogue: 0,0:14:07.78,0:14:09.51,Dialogue,,0,0,0,,{\blur2}仿佛不肯让出王牌的称号
+Dialogue: 0,0:14:09.70,0:14:12.03,Dialogue,,0,0,0,,{\blur2}他又带来了有气势的表演
+Dialogue: 0,0:14:13.87,0:14:15.71,Dialogue,,0,0,0,,{\blur2}接下来是南野
+Dialogue: 0,0:14:16.44,0:14:17.71,Dialogue,,0,0,0,,{\blur2}第一天的跳马
+Dialogue: 0,0:14:17.71,0:14:20.05,Dialogue,,0,0,0,,{\blur2}他完成了直体奎尔沃转体一周
+Dialogue: 0,0:14:29.19,0:14:30.28,Dialogue,,0,0,0,,{\blur2}站住了!
+Dialogue: 0,0:14:31.08,0:14:33.46,Dialogue,,0,0,0,,{\blur2}南野 落地十分完美
+Dialogue: 0,0:14:33.78,0:14:34.94,Dialogue,,0,0,0,,{\blur2}慢动作回放
+Dialogue: 0,0:14:38.69,0:14:40.25,Dialogue,,0,0,0,,{\blur2}这是德里格斯
+Dialogue: 0,0:14:40.72,0:14:43.69,Dialogue,,0,0,0,,{\blur2}比直体奎尔沃的难度还高
+Dialogue: 0,0:14:45.51,0:14:48.21,Dialogue,,0,0,0,,{\blur2}他提高了动作的难度
+Dialogue: 0,0:14:48.36,0:14:49.33,Dialogue,,0,0,0,,{\blur2}来看得分
+Dialogue: 0,0:14:50.38,0:14:51.69,Dialogue,,0,0,0,,{\blur2}9.550
+Dialogue: 0,0:14:51.78,0:14:53.82,Dialogue,,0,0,0,,{\blur2}超过了冈町的得分
+Dialogue: 0,0:14:55.42,0:14:59.22,Dialogue,,0,0,0,,{\blur2}提高动作的难度 失败的可能性也会提高
+Dialogue: 0,0:14:59.48,0:15:00.96,Dialogue,,0,0,0,,{\blur2}然而他还是提高了难度
+Dialogue: 0,0:15:01.34,0:15:04.76,Dialogue,,0,0,0,,{\blur2}第一位的南野选手故意提高难度…
+Dialogue: 0,0:15:05.53,0:15:07.83,Dialogue,,0,0,0,,{\blur2}说明他没把我们放在眼里
+Dialogue: 0,0:15:08.15,0:15:09.41,Dialogue,,0,0,0,,{\blur2}并不只是我们
+Dialogue: 0,0:15:09.62,0:15:10.60,Dialogue,,0,0,0,,{\blur2}这大赛也一样
+Dialogue: 0,0:15:11.23,0:15:14.49,Dialogue,,0,0,0,,{\blur2}他在挑战自己的极限
+Dialogue: 0,0:15:15.38,0:15:16.77,Dialogue,,0,0,0,,{\blur2}讨人厌的家伙
+Dialogue: 0,0:15:19.33,0:15:21.46,Dialogue,,0,0,0,,{\blur2}各位选手不断出现失误呢
+Dialogue: 0,0:15:21.83,0:15:25.07,Dialogue,,0,0,0,,{\blur2}是南野选手带来的压力吧
+Dialogue: 0,0:15:25.07,0:15:28.76,Dialogue,,0,0,0,,{\blur2}他这次的表演就是有这么恐怖的魄力
+Dialogue: 0,0:15:29.75,0:15:31.66,Dialogue,,0,0,0,,{\blur2}爸爸他没事吧
+Dialogue: 0,0:15:32.02,0:15:33.67,Dialogue,,0,0,0,,{\blur2}不用担心Joe
+Dialogue: 0,0:15:34.70,0:15:35.52,Dialogue,,0,0,0,,{\blur2}因为他…
+Dialogue: 0,0:15:37.50,0:15:38.38,Dialogue,,0,0,0,,{\blur2}在笑啊
+Dialogue: 0,0:15:40.42,0:15:42.92,Dialogue,,0,0,0,,{\blur2}加油的时候就要露出笑容 小玲
+Dialogue: 0,0:15:43.60,0:15:44.09,Dialogue,,0,0,0,,{\blur2}嗯
+Dialogue: 0,0:15:46.49,0:15:49.32,Dialogue,,0,0,0,,{\blur2}历时两天的NHK杯
+Dialogue: 0,0:15:49.85,0:15:51.89,Dialogue,,0,0,0,,{\blur2}接下来是最后一个项目
+Dialogue: 0,0:15:56.60,0:15:57.27,Dialogue,,0,0,0,,{\blur2}怎么了
+Dialogue: 0,0:15:57.95,0:15:58.95,Dialogue,,0,0,0,,{\blur2}你很在意吗
+Dialogue: 0,0:15:59.51,0:16:00.15,Dialogue,,0,0,0,,{\blur2}并不
+Dialogue: 0,0:16:00.88,0:16:02.66,Dialogue,,0,0,0,,{\blur2}我听天草先生说了
+Dialogue: 0,0:16:03.14,0:16:05.57,Dialogue,,0,0,0,,{\blur2}你可真会乱来呢
+Dialogue: 0,0:16:07.33,0:16:09.51,Dialogue,,0,0,0,,{\blur2}今天的城太郎…
+Dialogue: 0,0:16:09.95,0:16:13.28,Dialogue,,0,0,0,,{\blur2}哦 和你没关系来着
+Dialogue: 0,0:16:13.67,0:16:15.64,Dialogue,,0,0,0,,{\blur2}没错 没关系
+Dialogue: 0,0:16:17.39,0:16:18.98,Dialogue,,0,0,0,,{\blur2}按照自己的意愿来就行
+Dialogue: 0,0:16:19.62,0:16:22.13,Dialogue,,0,0,0,,{\blur2}今天一定是属于你的
+Dialogue: 0,0:16:25.61,0:16:28.71,Dialogue,,0,0,0,,{\blur2}南野 最后一项 单杠
+Dialogue: 0,0:16:29.39,0:16:32.43,Dialogue,,0,0,0,,{\blur2}整个赛场的人都在认真观看他的表演
+Dialogue: 0,0:16:32.57,0:16:36.67,Dialogue,,0,0,0,,{\blur2}仿佛在等待新的王牌诞生
+Dialogue: 0,0:16:42.37,0:16:44.44,Dialogue,,0,0,0,,{\blur2}旋转的幅度非常大
+Dialogue: 0,0:16:45.58,0:16:46.31,Dialogue,,0,0,0,,{\blur2}科尔曼!
+Dialogue: 0,0:16:49.25,0:16:51.59,Dialogue,,0,0,0,,{\blur2}完全没有感到身为第一名的压力
+Dialogue: 0,0:16:51.59,0:16:53.66,Dialogue,,0,0,0,,{\blur2}不愧为钢铁心脏的男人
+Dialogue: 0,0:16:56.91,0:16:57.58,Dialogue,,0,0,0,,{\blur2}我要赢
+Dialogue: 0,0:16:58.43,0:16:59.58,Dialogue,,0,0,0,,{\blur2}仅此而已
+Dialogue: 0,0:17:07.55,0:17:08.75,Dialogue,,0,0,0,,{\blur2}下法成功
+Dialogue: 0,0:17:10.15,0:17:12.86,Dialogue,,0,0,0,,{\blur2}南野 完美地走到了最后
+Dialogue: 0,0:17:20.77,0:17:26.91,Dialogue,,0,0,0,,{\blur2}第42届NHK杯获胜者 南野铁男选手
+Dialogue: 0,0:17:28.27,0:17:30.33,Dialogue,,0,0,0,,{\blur2}根据这次NHK杯的结果
+Dialogue: 0,0:17:30.43,0:17:32.73,Dialogue,,0,0,0,,{\blur2}将于8月举行的第38届世界体操锦标赛
+Dialogue: 0,0:17:32.73,0:17:35.73,Dialogue,,0,0,0,,{\blur2}参赛代表确定
+Dialogue: 0,0:17:37.33,0:17:40.23,Dialogue,,0,0,0,,{\blur2}南野选手第二次参加世锦赛
+Dialogue: 0,0:17:40.36,0:17:42.11,Dialogue,,0,0,0,,{\blur2}去年是第一次参加
+Dialogue: 0,0:17:43.01,0:17:47.78,Dialogue,,0,0,0,,{\blur2}他最近的快速进步很可能与经历过世界舞台有关
+Dialogue: 0,0:17:48.47,0:17:52.92,Dialogue,,0,0,0,,{\blur2}因为一个契机急速成长的情况是存在的
+Dialogue: 0,0:17:54.40,0:17:55.72,Dialogue,,0,0,0,,{\blur2}这次是我输了
+Dialogue: 0,0:17:57.26,0:18:01.73,Dialogue,,0,0,0,,{\blur2}不过在世界的舞台上 我不能再输了
+Dialogue: 0,0:18:05.95,0:18:09.17,Dialogue,,0,0,0,,{\blur2}这次大赛的激烈程度比往年高许多呢
+Dialogue: 0,0:18:09.34,0:18:10.27,Dialogue,,0,0,0,,{\blur2}嗯
+Dialogue: 0,0:18:10.43,0:18:12.74,Dialogue,,0,0,0,,{\blur2}前几名被年轻选手占据
+Dialogue: 0,0:18:12.74,0:18:15.18,Dialogue,,0,0,0,,{\blur2}给人一种下一个时代要到来的感觉
+Dialogue: 0,0:18:15.83,0:18:20.15,Dialogue,,0,0,0,,{\blur2}说起前几名 荒垣选手获得了第六名呢
+Dialogue: 0,0:18:20.87,0:18:24.33,Dialogue,,0,0,0,,{\blur2}第一天应该是第15名吧
+Dialogue: 0,0:18:25.04,0:18:28.99,Dialogue,,0,0,0,,{\blur2}其他选手后半段输给了南野选手带来的压力
+Dialogue: 0,0:18:28.99,0:18:30.15,Dialogue,,0,0,0,,{\blur2}落后了不少分吧
+Dialogue: 0,0:18:30.75,0:18:33.74,Dialogue,,0,0,0,,{\blur2}多亏了其他人的失误吗
+Dialogue: 0,0:18:34.11,0:18:37.83,Dialogue,,0,0,0,,{\blur2}不是 实际上他的表演十分细致
+Dialogue: 0,0:18:38.17,0:18:39.84,Dialogue,,0,0,0,,{\blur2}在他被称作武士的时候
+Dialogue: 0,0:18:39.84,0:18:43.61,Dialogue,,0,0,0,,{\blur2}由于动作充满活力 多少有点粗犷的感觉
+Dialogue: 0,0:18:43.89,0:18:45.67,Dialogue,,0,0,0,,{\blur2}这次比赛却没有那种感觉
+Dialogue: 0,0:18:46.49,0:18:49.97,Dialogue,,0,0,0,,{\blur2}这和他以往的体操区别很大
+Dialogue: 0,0:18:52.94,0:18:53.82,Dialogue,,0,0,0,,{\blur2}奶奶?
+Dialogue: 0,0:18:54.59,0:18:56.03,Dialogue,,0,0,0,,{\blur2}嗯 刚刚结束了
+Dialogue: 0,0:18:56.03,0:18:57.71,Dialogue,,0,0,0,,{\blur2}爸爸第六名哦
+Dialogue: 0,0:19:03.38,0:19:04.54,Dialogue,,0,0,0,,{\blur2}好了 里安
+Dialogue: 0,0:19:04.92,0:19:05.27,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:19:06.81,0:19:07.51,Dialogue,,0,0,0,,{\blur2}里安?
+Dialogue: 0,0:19:09.71,0:19:10.99,Dialogue,,0,0,0,,{\blur2}终于找到你了
+Dialogue: 0,0:19:14.42,0:19:15.43,Dialogue,,0,0,0,,{\blur2}爸爸
+Dialogue: 0,0:19:15.43,0:19:17.06,Dialogue,,0,0,0,,{\blur2}里安来过吗
+Dialogue: 0,0:19:17.18,0:19:17.74,Dialogue,,0,0,0,,{\blur2}啊?
+Dialogue: 0,0:19:17.86,0:19:19.43,Dialogue,,0,0,0,,{\blur2}他突然不见了
+Dialogue: 0,0:19:19.66,0:19:21.59,Dialogue,,0,0,0,,{\blur2}是不是迷路了
+Dialogue: 0,0:19:22.54,0:19:23.43,Dialogue,,0,0,0,,{\blur2}里安的话
+Dialogue: 0,0:19:23.89,0:19:24.89,Dialogue,,0,0,0,,{\blur2}就在那边
+Dialogue: 0,0:19:25.47,0:19:26.20,Dialogue,,0,0,0,,{\blur2}里安?
+Dialogue: 0,0:19:26.35,0:19:27.44,Dialogue,,0,0,0,,{\blur2}你去哪里了
+Dialogue: 0,0:19:29.09,0:19:31.62,Dialogue,,0,0,0,,{\blur2}忍法·匿形术
+Dialogue: 0,0:19:31.68,0:19:32.39,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:19:56.57,0:19:56.99,Dialogue,,0,0,0,,{\blur2}嗯?
+Dialogue: 0,0:19:58.50,0:19:59.18,Dialogue,,0,0,0,,{\blur2}牛奶
+Dialogue: 0,0:19:59.74,0:20:00.57,Dialogue,,0,0,0,,{\blur2}爸爸
+Dialogue: 0,0:20:01.23,0:20:01.79,Dialogue,,0,0,0,,{\blur2}看这个
+Dialogue: 0,0:20:03.43,0:20:05.63,Dialogue,,0,0,0,,{\blur2}修行之旅?
+Dialogue: 0,0:20:06.49,0:20:08.46,Dialogue,,0,0,0,,{\blur2}我去了里安的房间 他不在
+Dialogue: 0,0:20:09.46,0:20:11.48,Dialogue,,0,0,0,,{\blur2}应该是跑去哪里玩了吧
+Dialogue: 0,0:20:11.48,0:20:12.68,Dialogue,,0,0,0,,{\blur2}和平常一样
+Dialogue: 0,0:20:14.09,0:20:15.64,Dialogue,,0,0,0,,{\blur2}应该吧…
+Dialogue: 0,0:20:17.81,0:20:19.77,Dialogue,,0,0,0,,{\blur2}怎么样 休息好了吗
+Dialogue: 0,0:20:20.47,0:20:21.19,Dialogue,,0,0,0,,{\blur2}是的
+Dialogue: 0,0:20:21.53,0:20:23.26,Dialogue,,0,0,0,,{\blur2}好好休息了三天
+Dialogue: 0,0:20:23.77,0:20:25.62,Dialogue,,0,0,0,,{\blur2}之前的NHK杯
+Dialogue: 0,0:20:26.05,0:20:28.60,Dialogue,,0,0,0,,{\blur2}以前的小失误基本上消失了
+Dialogue: 0,0:20:29.27,0:20:31.78,Dialogue,,0,0,0,,{\blur2}提高动作精度的任务完成了
+Dialogue: 0,0:20:32.51,0:20:32.90,Dialogue,,0,0,0,,{\blur2}嗯
+Dialogue: 0,0:20:33.66,0:20:36.33,Dialogue,,0,0,0,,{\blur2}接下来该挑战高难度动作了
+Dialogue: 0,0:20:36.78,0:20:37.91,Dialogue,,0,0,0,,{\blur2}提高难度
+Dialogue: 0,0:20:38.17,0:20:39.72,Dialogue,,0,0,0,,{\blur2}如果不稳定下来
+Dialogue: 0,0:20:39.96,0:20:41.83,Dialogue,,0,0,0,,{\blur2}明年的雅典奥运可就去不成了
+Dialogue: 0,0:20:43.77,0:20:48.27,Dialogue,,0,0,0,,{\blur2}现在有个中日合宿的活动
+Dialogue: 0,0:20:48.87,0:20:51.74,Dialogue,,0,0,0,,{\blur2}合宿的候选人名单里也有你
+Dialogue: 0,0:20:52.01,0:20:54.15,Dialogue,,0,0,0,,{\blur2}诶? 和中国吗?
+Dialogue: 0,0:20:54.73,0:20:55.37,Dialogue,,0,0,0,,{\blur2}没错
+Dialogue: 0,0:20:55.72,0:21:00.28,Dialogue,,0,0,0,,{\blur2}去年的世锦赛团体第一 那个最强的中国
+Dialogue: 0,0:21:01.35,0:21:05.27,Dialogue,,0,0,0,,{\blur2}目的是双方的高水平运动员一起锻炼提高
+Dialogue: 0,0:21:05.78,0:21:08.74,Dialogue,,0,0,0,,{\blur2}中国的超级王牌 刘龙翔也会来
+Dialogue: 0,0:21:09.23,0:21:11.11,Dialogue,,0,0,0,,{\blur2}个人全能冠军…
+Dialogue: 0,0:21:12.74,0:21:14.50,Dialogue,,0,0,0,,{\blur2}体操界的新王者
+Dialogue: 0,0:21:15.19,0:21:19.13,Dialogue,,0,0,0,,{\blur2}南野之前获得的分数也不及刘
+Dialogue: 0,0:21:20.60,0:21:23.41,Dialogue,,0,0,0,,{\blur2}肯定会对现在的你有益
+Dialogue: 0,0:21:23.68,0:21:24.64,Dialogue,,0,0,0,,{\blur2}什么时候开始
+Dialogue: 0,0:21:25.31,0:21:27.82,Dialogue,,0,0,0,,{\blur2}日程是7月1日到6日
+Dialogue: 0,0:21:28.62,0:21:28.93,Dialogue,,0,0,0,,{\blur2}诶?
+Dialogue: 0,0:21:29.91,0:21:31.07,Dialogue,,0,0,0,,{\blur2}怎么了
+Dialogue: 0,0:21:32.14,0:21:33.14,Dialogue,,0,0,0,,{\blur2}7月…
+Dialogue: 0,0:21:34.71,0:21:35.74,Dialogue,,0,0,0,,{\blur2}正中靶心
+Dialogue: 0,0:21:36.08,0:21:37.54,Dialogue,,0,0,0,,{\blur2}愿望实现了
+Comment: 0,0:00:00.00,0:00:00.00,Screen,,0,0,0,,------------Screen------------
+Dialogue: 0,0:03:05.00,0:03:09.00,Screen,,0,0,0,,{\c&H8A857E&\bord0\pos(991,421)}給峩詪多錢峩噈紶
+Dialogue: 0,0:03:15.97,0:03:19.85,Screen,,0,0,0,,{\c&H8A857E&\bord0\pos(1013.667,493)}↓個月哆給○糀錢
+Dialogue: 0,0:03:26.19,0:03:31.69,Title,,0,0,0,,{\fad(0,500)\pos(360,601)}武士对抗
+Dialogue: 0,0:05:32.52,0:05:34.02,Screen,,0,0,0,,{\fn@FZLanTingHei-H-GBK\frz-90\c&H35393B&\pos(931.429,363.428)}武士将参加ＮＨＫ杯
+Dialogue: 0,0:10:28.36,0:10:36.62,Screen,,0,0,0,,{\fn@FZLanTingYuan-M-GBK\frz-90\c&H000000&\bord0\pos(445,152)}自由体操
+Dialogue: 0,0:11:00.68,0:11:04.94,Screen,,0,0,0,,{\fnFZLanTingYuan-M-GBK\c&H000000&\bord0\pos(320.429,250.286)}鞍马
+Dialogue: 0,0:11:28.17,0:11:32.67,Screen,,0,0,0,,{\fnFZLanTingYuan-M-GBK\c&H000000&\bord0\pos(314.333,250.667)}吊环
+Dialogue: 0,0:12:08.46,0:12:15.21,Screen,,0,0,0,,{\an9\c&H1A1A1A&\bord1\fs25\blur5\3c&HFFFFFF&\pos(1264,375)}擅长\N\N单杠\N自由体操\N吊环\N鞍马\N单杠
+Dialogue: 0,0:19:53.76,0:19:55.76,Screen,,0,0,0,,{\an8\blur3\3c&HFFFFFF&\c&H5D5D5D&\fs40}在下踏上了修行之旅\N　　　　　　　里安
+Dialogue: 0,0:20:03.01,0:20:06.02,Screen,,0,0,0,,{\c&H292929&\bord0\fn\pos(436,664)\fax-0.05}在下踏上了修行之旅\N　　　　　　　里安
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_OPCN,,0,0,0,,------------OP_SC------------
+Dialogue: 0,0:00:33.51,0:00:34.93,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}好啊  是晴天
+Dialogue: 0,0:00:34.93,0:00:35.85,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}万里无云
+Dialogue: 0,0:00:35.85,0:00:36.68,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}太阳当头
+Dialogue: 0,0:00:36.68,0:00:37.64,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}想了解你
+Dialogue: 0,0:00:37.64,0:00:38.60,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}之后交给我们
+Dialogue: 0,0:00:38.60,0:00:39.60,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}今天想要拥抱
+Dialogue: 0,0:00:39.60,0:00:40.56,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}岸边的
+Dialogue: 0,0:00:40.56,0:00:41.06,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}热情
+Dialogue: 0,0:00:41.06,0:00:41.48,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}决心
+Dialogue: 0,0:00:41.48,0:00:42.44,Taisou_OPCN,,0,0,0,,{\an9\fax-0.08\blur2}甲子园球童
+Dialogue: 0,0:00:42.44,0:00:43.23,Taisou_OPCN,,0,0,0,,{\an7\fax-0.08\blur2}一腔斗志
+Dialogue: 0,0:00:43.23,0:00:44.32,Taisou_OPCN,,0,0,0,,{\an9\fax-0.08\blur2}打击率却仅9%
+Dialogue: 0,0:00:44.32,0:00:45.19,Taisou_OPCN,,0,0,0,,{\an7\fax-0.08\blur2}对不住我的小John
+Dialogue: 0,0:00:45.19,0:00:45.69,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}正是
+Dialogue: 0,0:00:45.69,0:00:46.11,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}传承的
+Dialogue: 0,0:00:46.11,0:00:47.07,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}故事
+Dialogue: 0,0:00:47.07,0:00:49.07,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}独自玩乐到今夜为止吗
+Dialogue: 0,0:00:49.15,0:00:52.91,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}伴上海丽人  海边社交舞
+Dialogue: 0,0:00:52.91,0:00:56.49,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}久久注视  美到窒息
+Dialogue: 0,0:00:56.54,0:01:00.21,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}与上海丽人  来亚洲式约会
+Dialogue: 0,0:01:00.25,0:01:04.34,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}歹意与道德心在斗争
+Dialogue: 0,0:01:04.42,0:01:08.88,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}我虽然不太了解你
+Dialogue: 0,0:01:08.88,0:01:11.01,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}但确实心动
+Dialogue: 0,0:01:13.34,0:01:14.60,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}巧妙的话术
+Dialogue: 0,0:01:14.60,0:01:15.68,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}将她玩弄
+Dialogue: 0,0:01:15.68,0:01:16.47,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}母性本能
+Dialogue: 0,0:01:16.47,0:01:17.22,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}撩拨的对话
+Dialogue: 0,0:01:17.22,0:01:18.56,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}那是我的理想
+Dialogue: 0,0:01:18.56,0:01:19.68,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}可理想不过是理想
+Dialogue: 0,0:01:19.68,0:01:21.35,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}又要以一句「好温柔」收尾
+Dialogue: 0,0:01:21.35,0:01:23.06,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}不  我今夜一定要得到
+Dialogue: 0,0:01:23.06,0:01:25.02,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}赌上生死  正如决斗
+Dialogue: 0,0:01:25.02,0:01:25.82,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}就在今晚
+Dialogue: 0,0:01:25.82,0:01:26.73,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}我们的青春
+Dialogue: 0,0:01:26.73,0:01:27.65,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}一起放肆吧
+Dialogue: 0,0:01:27.65,0:01:28.73,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}鼓起勇气
+Dialogue: 0,0:01:28.82,0:01:32.66,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}伴上海丽人  海边社交舞
+Dialogue: 0,0:01:32.66,0:01:36.24,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}久久注视  美到窒息
+Dialogue: 0,0:01:36.24,0:01:39.95,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}与上海丽人  来亚洲式约会
+Dialogue: 0,0:01:39.95,0:01:43.96,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}歹意与道德心在斗争
+Dialogue: 0,0:01:44.13,0:01:47.63,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}有点纯爱？开玩笑的
+Dialogue: 0,0:01:47.75,0:01:50.26,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}也别无办法
+Dialogue: 0,0:01:50.26,0:01:55.89,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}因为我虽然不太了解你
+Dialogue: 0,0:01:56.01,0:01:57.97,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}但确实心动
+Comment: 0,0:02:01.43,0:02:01.93,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}Mi
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_OPJP,,0,0,0,,------------OP_JP------------
+Dialogue: 0,0:00:33.51,0:00:34.93,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}いいね快晴じゃん
+Dialogue: 0,0:00:34.93,0:00:35.85,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}雲一つないよ
+Dialogue: 0,0:00:35.85,0:00:36.68,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}真っ赤な太陽
+Dialogue: 0,0:00:36.68,0:00:37.64,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}君を知りたいよゥ
+Dialogue: 0,0:00:37.64,0:00:38.60,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}あとはオレ等次第
+Dialogue: 0,0:00:38.60,0:00:39.60,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}今日は抱きしめたい
+Dialogue: 0,0:00:39.60,0:00:40.56,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}波打ち際の
+Dialogue: 0,0:00:40.56,0:00:41.06,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}熱い
+Dialogue: 0,0:00:41.06,0:00:41.48,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}決意
+Dialogue: 0,0:00:41.48,0:00:42.44,Taisou_OPJP,,0,0,0,,{\an1\blur2\fax-0.08}甲子園球児
+Dialogue: 0,0:00:42.44,0:00:43.23,Taisou_OPJP,,0,0,0,,{\an3\blur2\fax-0.08}さながらの闘志
+Dialogue: 0,0:00:43.23,0:00:44.32,Taisou_OPJP,,0,0,0,,{\an1\blur2\fax-0.08}でも打率は9厘
+Dialogue: 0,0:00:44.32,0:00:45.19,Taisou_OPJP,,0,0,0,,{\an3\blur2\fax-0.08}オレのジョンにSORRY
+Dialogue: 0,0:00:45.19,0:00:45.69,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}まさに
+Dialogue: 0,0:00:45.69,0:00:46.11,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}語り
+Dialogue: 0,0:00:46.11,0:00:47.07,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}告継がれるストーリー
+Dialogue: 0,0:00:47.07,0:00:49.07,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}1人でアソブのは今夜で終わり？
+Dialogue: 0,0:00:49.15,0:00:52.91,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}上海ハニーと　浜辺社交ダンス
+Dialogue: 0,0:00:52.91,0:00:56.49,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}見つめっぱなし　たまんねぇ女神
+Dialogue: 0,0:00:56.54,0:01:00.21,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}上海ハニーと　エイジアン・ランデブー
+Dialogue: 0,0:01:00.25,0:01:04.34,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}寄せては返す　下心とモラル
+Dialogue: 0,0:01:04.42,0:01:08.88,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}僕君のことよく知らないけれど
+Dialogue: 0,0:01:08.88,0:01:11.01,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}何かトキメいてます
+Dialogue: 0,0:01:13.34,0:01:14.60,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}Yo巧みな話術
+Dialogue: 0,0:01:14.60,0:01:15.68,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}彼女を翻弄
+Dialogue: 0,0:01:15.68,0:01:16.47,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}母性本能
+Dialogue: 0,0:01:16.47,0:01:17.22,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}くすぐるトーク
+Dialogue: 0,0:01:17.22,0:01:18.56,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}これがオレの理想像
+Dialogue: 0,0:01:18.56,0:01:19.68,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}でも理想は理想
+Dialogue: 0,0:01:19.68,0:01:21.35,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}また「優しそう」で終わりそう
+Dialogue: 0,0:01:21.35,0:01:23.06,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}いやいや今夜こそはGET
+Dialogue: 0,0:01:23.06,0:01:25.02,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}セイシをかけたまさに決闘
+Dialogue: 0,0:01:25.02,0:01:25.82,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}今が旬
+Dialogue: 0,0:01:25.82,0:01:26.73,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}俺たちの青春
+Dialogue: 0,0:01:26.73,0:01:27.65,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}「しまっていこう！！」
+Dialogue: 0,0:01:27.65,0:01:28.73,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}気合い十分
+Dialogue: 0,0:01:28.82,0:01:32.66,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}上海ハニーと　浜辺社交ダンス
+Dialogue: 0,0:01:32.66,0:01:36.24,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}見つめっぱなし　たまんねぇ女神
+Dialogue: 0,0:01:36.24,0:01:39.95,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}上海ハニーと　エイジアン・ランデブー
+Dialogue: 0,0:01:39.95,0:01:43.96,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}寄せては返す　下心とモラル
+Dialogue: 0,0:01:44.13,0:01:47.63,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}何か純愛じゃない？なんてね
+Dialogue: 0,0:01:47.75,0:01:50.26,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}そっかそりゃ無理だよな
+Dialogue: 0,0:01:50.26,0:01:55.89,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}だってそう僕君のこと　よく知らないけれど
+Dialogue: 0,0:01:56.01,0:01:57.97,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}何かトキメいてます
+Dialogue: 0,0:02:01.43,0:02:01.93,Taisou_OPJP,,0,0,0,,{\an8\blur2\fax-0.08}み
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_EDCH,,0,0,0,,------------ED_SC------------
+Dialogue: 0,0:21:49.50,0:21:51.29,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}看得见什么
+Dialogue: 0,0:21:51.33,0:21:55.17,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}今天也戴着不合度数的墨镜
+Dialogue: 0,0:21:55.17,0:21:59.05,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}看这脸色还能说些什么呢
+Dialogue: 0,0:21:59.05,0:21:59.88,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}既不正确  也不错误
+Dialogue: 0,0:21:59.88,0:22:01.67,Taisou_EDCH,,600,0,22,,{\3c&HB4B55A&\4c&HB4B55A&}既不正确  也不错误
+Dialogue: 0,0:22:01.67,0:22:04.34,Taisou_EDCH,,600,0,22,,{\3c&HB4B55A&\4c&HB4B55A&}马马虎虎的每一天
+Dialogue: 0,0:22:04.34,0:22:07.01,Taisou_EDCH,,600,0,22,,{\3c&HB4B55A&\4c&HB4B55A&}装作没有问题
+Dialogue: 0,0:22:07.01,0:22:09.56,Taisou_EDCH,,600,0,22,,{\3c&HB4B55A&\4c&HB4B55A&}还能坚持多久
+Dialogue: 0,0:22:09.64,0:22:10.10,Taisou_EDCH,,600,0,22,,{\3c&HB4B55A&\4c&HB4B55A&}还要继续欺骗自己吗
+Dialogue: 0,0:22:10.10,0:22:14.65,Taisou_EDCH,,0,660,0,,{\3c&HF3A299&\4c&HF3A299&}还要继续欺骗自己吗
+Dialogue: 0,0:22:14.77,0:22:20.28,Taisou_EDCH,,0,660,0,,{\3c&HF3A299&\4c&HF3A299&}还真是辛苦你了
+Dialogue: 0,0:22:20.44,0:22:25.16,Taisou_EDCH,,600,0,50,,{\3c&HCE7CED&\4c&HCE7CED&}忘记自我
+Dialogue: 0,0:22:25.16,0:22:30.12,Taisou_EDCH,,600,0,50,,{\3c&HCE7CED&\4c&HCE7CED&}仅仅活在当下还不行吗
+Dialogue: 0,0:22:30.24,0:22:32.91,Taisou_EDCH,,0,720,20,,{\alpha&H15&}不是梦境
+Dialogue: 0,0:22:32.91,0:22:38.17,Taisou_EDCH,,0,720,20,,{\alpha&H15&}随意称作梦境  可并非如此
+Dialogue: 0,0:22:38.17,0:22:40.76,Taisou_EDCH,,0,720,20,,{\alpha&H15&}只想完成想做的事情
+Dialogue: 0,0:22:40.76,0:22:43.34,Taisou_EDCH,,0,720,20,,{\alpha&H15&}没有梦想
+Dialogue: 0,0:22:43.34,0:22:45.84,Taisou_EDCH,,0,720,20,,{\alpha&H15&}无法成为理想的自己
+Dialogue: 0,0:22:45.84,0:22:51.27,Taisou_EDCH,,0,720,20,,{\alpha&H15&}我何时来到了这样无趣的世界
+Dialogue: 0,0:22:51.27,0:22:54.27,Taisou_EDCH,,0,720,20,,{\alpha&H15&}乐在其中便是赢家  所谓未来
+Dialogue: 0,0:22:54.35,0:22:56.19,Taisou_EDCH,,0,720,20,,{\alpha&H15&}看得见什么
+Dialogue: 0,0:22:56.19,0:22:57.98,Taisou_EDCH,,0,720,20,,{\alpha&H15&}漆黑的影子
+Dialogue: 0,0:22:57.98,0:22:58.77,Taisou_EDCH,,720,0,20,,{\alpha&H15&}漆黑的影子
+Dialogue: 0,0:22:58.77,0:23:04.20,Taisou_EDCH,,720,0,20,,{\alpha&H15&}步伐沉重呼吸困难  还能坚持多久
+Comment: 0,0:00:00.02,0:00:00.02,Taisou_EDJP,,0,0,0,,------------ED_JP------------
+Dialogue: 0,0:21:49.50,0:21:51.29,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}な　何が見える
+Dialogue: 0,0:21:51.33,0:21:55.17,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}度がずれた色眼鏡　掛けた今日も
+Dialogue: 0,0:21:55.17,0:21:59.05,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}顔色見てどこまで言える
+Dialogue: 0,0:21:59.05,0:21:59.88,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}正解じゃない　間違いじゃない
+Dialogue: 0,0:21:59.88,0:22:01.67,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}正解じゃない　間違いじゃない
+Dialogue: 0,0:22:01.67,0:22:04.34,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}うやむやの毎日に
+Dialogue: 0,0:22:04.34,0:22:07.01,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}問題がない振りしたまま
+Dialogue: 0,0:22:07.01,0:22:09.56,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}どこまで行ける
+Dialogue: 0,0:22:09.64,0:22:10.10,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}自分騙して生きてくのかい
+Dialogue: 0,0:22:10.10,0:22:14.65,Taisou_EDJP,,0,660,0,,{\3c&HF3A299&\4c&HF3A299&}自分騙して生きてくのかい
+Dialogue: 0,0:22:14.77,0:22:20.28,Taisou_EDJP,,0,660,0,,{\3c&HF3A299&\4c&HF3A299&}それはそれは　ご苦労さんです
+Dialogue: 0,0:22:20.44,0:22:25.16,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}あ　我を忘れて今を
+Dialogue: 0,0:22:25.16,0:22:30.12,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}生きているだけじゃダメなのかい
+Dialogue: 0,0:22:30.24,0:22:32.91,Taisou_EDJP,,0,720,20,,{\alpha&H15&}夢じゃない
+Dialogue: 0,0:22:32.91,0:22:38.17,Taisou_EDJP,,0,720,20,,{\alpha&H15&}勝手に夢と周りは呼ぶけどそうじゃない
+Dialogue: 0,0:22:38.17,0:22:40.76,Taisou_EDJP,,0,720,20,,{\alpha&H15&}やりたいことをやりたいだけ
+Dialogue: 0,0:22:40.76,0:22:43.34,Taisou_EDJP,,0,720,20,,{\alpha&H15&}夢なんてない
+Dialogue: 0,0:22:43.34,0:22:45.84,Taisou_EDJP,,0,720,20,,{\alpha&H15&}なりたいものになれないような
+Dialogue: 0,0:22:45.84,0:22:51.27,Taisou_EDJP,,0,720,20,,{\alpha&H15&}そんなつまらない世界に生まれた覚えはない
+Dialogue: 0,0:22:51.27,0:22:54.27,Taisou_EDJP,,0,720,20,,{\alpha&H15&}楽しんだもの勝ちさ　未来は
+Dialogue: 0,0:22:54.35,0:22:56.19,Taisou_EDJP,,720,0,20,,{\alpha&H15&}な　何が見える
+Dialogue: 0,0:22:56.19,0:22:57.98,Taisou_EDJP,,720,0,20,,{\alpha&H15&}真っ黒い影法師
+Dialogue: 0,0:22:57.98,0:22:58.77,Taisou_EDJP,,0,720,20,,{\alpha&H15&}真っ黒い影法師
+Dialogue: 0,0:22:58.77,0:23:04.20,Taisou_EDJP,,0,720,20,,{\alpha&H15&}重い足で引きづってはどこまで行ける
+Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,

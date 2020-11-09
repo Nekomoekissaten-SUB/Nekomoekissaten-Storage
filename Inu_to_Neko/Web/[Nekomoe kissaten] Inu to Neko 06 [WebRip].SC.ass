@@ -1,0 +1,61 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 06 [WebRip].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.47,0:00:01.48,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:01.48,0:00:03.83,Default,,0,0,0,,被子完全被猫猫和狗狗占领了
+Dialogue: 0,0:00:03.83,0:00:05.92,Default,,0,0,0,,但是好可爱 不忍心撵走它们
+Dialogue: 0,0:00:06.30,0:00:06.78,Default,,0,0,0,,好窄
+Dialogue: 0,0:00:12.61,0:00:13.88,Default,,0,0,0,,主人请
+Dialogue: 0,0:00:13.88,0:00:15.85,Default,,0,0,0,,你是天使吗
+Dialogue: 0,0:00:16.29,0:00:17.75,Default,,0,0,0,,不会吧 连猫猫也要…
+Dialogue: 0,0:00:20.00,0:00:21.93,Default,,0,0,0,,算了 我就知道会这样
+Dialogue: 0,0:00:22.21,0:00:22.60,Default,,0,0,0,,嗯
+Dialogue: 0,0:00:24.10,0:00:24.90,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:24.09,0:00:25.09,Screen,,0,0,0,,{\fs35\frz15.76\c&H171723&\pos(956,451)}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:25.46,0:00:27.51,Default,,0,0,0,,对狗狗来说最恐怖的事情
+Dialogue: 0,0:00:27.67,0:00:29.25,Default,,0,0,0,,是去宠物医院打预防针
+Dialogue: 0,0:00:29.89,0:00:30.89,Default,,0,0,0,,咱家的狗狗
+Dialogue: 0,0:00:31.10,0:00:32.90,Default,,0,0,0,,大家好 我来啦
+Dialogue: 0,0:00:32.90,0:00:33.90,Default,,0,0,0,,大家好
+Dialogue: 0,0:00:33.90,0:00:35.37,Default,,0,0,0,,大家好 我是狗狗
+Dialogue: 0,0:00:35.37,0:00:36.38,Default,,0,0,0,,噢 你好
+Dialogue: 0,0:00:36.68,0:00:38.71,Default,,0,0,0,,松本家的狗狗
+Dialogue: 0,0:00:37.93,0:00:38.58,Default,,0,0,0,,{\an8}是我
+Dialogue: 0,0:00:38.92,0:00:41.37,Default,,0,0,0,,大姐姐 是我 是我！
+Dialogue: 0,0:00:41.89,0:00:44.73,Default,,0,0,0,,根本不知道去了哪儿 被做了什么
+Dialogue: 0,0:00:44.73,0:00:45.95,Default,,0,0,0,,便开开心心地回家了
+Dialogue: 0,0:00:46.69,0:00:47.35,Default,,0,0,0,,猫猫…
+Dialogue: 0,0:00:48.65,0:00:51.00,Default,,0,0,0,,我好像看过类似的电影
+Dialogue: 0,0:00:50.95,0:00:51.95,Screen,,0,0,0,,{\fs35\frz15.76\c&H171723&\pos(375,480)}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:52.09,0:00:54.30,Default,,0,0,0,,狗狗学会了新的玩法
+Dialogue: 0,0:00:52.07,0:00:54.20,Screen,,0,0,0,,{\bord2\c&H000000&\3c&HFFFFFF&\b1\fn@FZMiaoWu-GBK\pos(1205,420)\frz289.3}扔球球
+Dialogue: 0,0:00:52.62,0:00:54.20,Screen,,0,0,0,,{\bord2\c&H000000&\3c&HFFFFFF&\b1\fn@FZMiaoWu-GBK\frz291.4\pos(1143,457)}快扔球球玩
+Dialogue: 0,0:00:54.30,0:00:55.66,Default,,0,0,0,,想玩扔球球了吗
+Dialogue: 0,0:00:55.86,0:00:56.90,Default,,0,0,0,,我扔
+Dialogue: 0,0:00:58.04,0:00:59.33,Default,,0,0,0,,很好 捡回来…
+Dialogue: 0,0:00:59.33,0:00:59.67,Default,,0,0,0,,咦？
+Dialogue: 0,0:01:01.13,0:01:02.30,Default,,0,0,0,,大功告成
+Dialogue: 0,0:01:02.41,0:01:04.38,Default,,0,0,0,,这是在搞什么啊
+Dialogue: 0,0:01:04.64,0:01:05.73,Default,,0,0,0,,猫猫也学会了新玩法
+Dialogue: 0,0:01:05.73,0:01:07.38,Default,,0,0,0,,咦 布偶怎么会在这里
+Dialogue: 0,0:01:09.05,0:01:11.87,Default,,0,0,0,,只将布偶的内脏扯出来
+Dialogue: 0,0:01:12.10,0:01:13.95,Default,,0,0,0,,玩法过于残暴
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
