@@ -1,0 +1,56 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 07 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.47,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.98,0:00:03.98,Default,,0,0,0,,一次 在我和責編會面時
+Dialogue: 0,0:00:03.98,0:00:06.61,Default,,0,0,0,,英吉小姐的漫畫人氣超高的說
+Dialogue: 0,0:00:06.61,0:00:08.49,Default,,0,0,0,,希望能大賺上一筆版稅
+Dialogue: 0,0:00:08.74,0:00:11.83,Default,,0,0,0,,話說妳之前的那隻狗狗也滿可愛的
+Dialogue: 0,0:00:13.10,0:00:16.00,Default,,0,0,0,,我之前養的那隻狗狗在五年前壽終正寢了
+Dialogue: 0,0:00:16.57,0:00:20.25,Default,,0,0,0,,最後的那段日子 牠眼也白了 背也駝了
+Dialogue: 0,0:00:20.65,0:00:24.00,Default,,0,0,0,,每當排便弄髒地面時 都會露出愧疚的表情
+Dialogue: 0,0:00:24.23,0:00:26.10,Default,,0,0,0,,沒事的 沒事的喔
+Dialogue: 0,0:00:26.10,0:00:29.12,Default,,0,0,0,,也許是因為這個吧 最後留在我記憶中的
+Dialogue: 0,0:00:29.47,0:00:32.01,Default,,0,0,0,,滿是牠充滿愧疚的表情
+Dialogue: 0,0:00:32.77,0:00:33.41,Default,,0,0,0,,那是…
+Dialogue: 0,0:00:33.74,0:00:35.07,Default,,0,0,0,,真的好可愛啊
+Dialogue: 0,0:00:36.52,0:00:37.83,Default,,0,0,0,,但在這位編輯的心中
+Dialogue: 0,0:00:38.11,0:00:40.89,Default,,0,0,0,,那孩子依然是健康活潑的樣子
+Dialogue: 0,0:00:41.45,0:00:43.53,Default,,0,0,0,,回家後我哭得像個孩子
+Dialogue: 0,0:00:43.53,0:00:47.06,Default,,0,0,0,,太好了 責編跟我說你很可愛
+Dialogue: 0,0:00:47.40,0:00:49.46,Default,,0,0,0,,他說你很可愛
+Dialogue: 0,0:00:49.46,0:00:50.41,Default,,0,0,0,,於是…
+Dialogue: 0,0:00:50.95,0:00:54.28,Default,,0,0,0,,時隔許久 那孩子自信的笑容
+Dialogue: 0,0:00:54.48,0:00:56.63,Default,,0,0,0,,再次浮現在了我的腦海裡
+Dialogue: 0,0:00:58.25,0:00:59.25,Screen,,0,0,0,,{\fn@FZZhunYuan-M02\frz-90\c&H010101&\b1\pos(1182.666,209.333)}什麼情況
+Dialogue: 0,0:00:57.06,0:00:59.19,Default,,0,0,0,,我也搞不清楚自己為什麼會哭
+Dialogue: 0,0:00:59.61,0:01:01.91,Default,,0,0,0,,既自私 又沒能解決什麼問題
+Dialogue: 0,0:01:01.91,0:01:03.22,Default,,0,0,0,,留下的只有遺憾
+Dialogue: 0,0:01:03.70,0:01:06.59,Default,,0,0,0,,後悔自己沒能再多摸摸牠的腦袋
+Dialogue: 0,0:01:06.74,0:01:10.55,Default,,0,0,0,,沒能堅持對牠說「你很可愛喔」就算牠老態龍鍾
+Dialogue: 0,0:01:11.22,0:01:15.24,Default,,0,0,0,,所以現在我要以最大的熱情將我的心意傳遞給牠們
+Dialogue: 0,0:01:15.61,0:01:17.48,Default,,0,0,0,,將牠們的各種表情牢記在心中
+Dialogue: 0,0:01:17.48,0:01:18.06,Default,,0,0,0,,滾
+Dialogue: 0,0:01:18.06,0:01:18.72,Default,,0,0,0,,好痛
+Dialogue: 0,0:01:18.72,0:01:19.77,Default,,0,0,0,,好像有什麼紅色的東西噴出來了
+Dialogue: 0,0:01:19.77,0:01:22.84,Default,,0,0,0,,就這樣 今天我又惹得牠們很厭煩
+Dialogue: 0,0:01:23.06,0:01:24.49,Default,,0,0,0,,每天都好開心
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

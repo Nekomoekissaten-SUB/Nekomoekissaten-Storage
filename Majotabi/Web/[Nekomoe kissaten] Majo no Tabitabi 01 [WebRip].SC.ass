@@ -19,7 +19,7 @@ Style: Majo,STZhongsong,35,&H00171727,&H000000FF,&H00DAEDFB,&H00000000,0,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
-Dialogue: 0,0:22:30.00,0:22:33.00,Staff,,0,0,0,,{\fad(500,500)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：小风yusa　后期：MIR
+Dialogue: 0,0:22:30.00,0:22:33.00,Staff,,0,0,0,,{\fad(500,500)\blur5}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途\N\N翻译：小风yusa　后期：MIR
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
 Dialogue: 0,0:01:43.04,0:01:47.46,Title,,0,0,0,,{\fad(500,0)\blur5\pos(1001,700)}见习魔女伊蕾娜
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
