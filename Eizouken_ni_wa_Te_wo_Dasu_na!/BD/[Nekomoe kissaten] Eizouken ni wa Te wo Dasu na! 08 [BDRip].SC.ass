@@ -40,11 +40,11 @@ Dialogue: 0,0:08:16.02,0:08:18.52,Screen,,0,0,0,,{\fnHYQiHei-65S\bord2\an7\3c&HC
 Dialogue: 0,0:08:16.02,0:08:18.52,Screen,,0,0,0,,{\fnHYQiHei-65S\bord2\an9\3c&H4448CE&}关东煮
 Dialogue: 0,0:08:18.52,0:08:19.27,Screen,,0,0,0,,{\fnHYQiHei-65S\bord2\an8\3c&H63361F&}新剧研究部\N{\fs30\bord1.6}3号体育馆演出
 Dialogue: 0,0:08:20.15,0:08:21.19,Screen,,0,0,0,,{\an7\bord1.5\alpha&H10&\pos(0,0)\p1}m 931 15 l 1277 15 1277 203 931 203
-Dialogue: 1,0:08:20.15,0:08:21.19,Screen,,0,0,0,,{\an9\fnHYQiHei-40S\c&H696969&\fs30\fax-0.1}机器人研究部主办 feat 映像研\N{\fax-0.1\bord1\3c&HE77F64&\c&HFFFFFF&}SHIBA8 {\bord0\c&H6C72FF&}vs {\bord1\c&HFFFFFF&\3c&H7FA5FA&}巨钳龟蟹\N{\3c&H7D76FE&}特{\3c&HFBF93C&}艺{\3c&H74F663&}彩{\3c&HF95EFB&}色\N{\bord0\c&H696969&}第一体育馆上映\N{\c&H7475DB&}人气读者模特{\c&HFEBF4D&}水崎燕{\c&H5B5F58&}参加制作\N那时 在芝浜发生的故事——
+Dialogue: 1,0:08:20.15,0:08:21.19,Screen,,0,0,0,,{\an9\fnHYQiHei-40S\c&H696969&\fs30\fax-0.1}机器人研究部主办 feat 映像研\N{\fax-0.1\bord1\3c&HE77F64&\c&HFFFFFF&}SHIBA8 {\bord0\c&H6C72FF&}vs {\bord1\c&HFFFFFF&\3c&H7FA5FA&}巨钳龟蟹\N{\3c&H7D76FE&}特{\3c&HFBF93C&}艺{\3c&H74F663&}彩{\3c&HF95EFB&}色\N{\bord0\c&H696969&}第一体育馆上映\N{\c&H7475DB&}人气平面模特{\c&HFEBF4D&}水崎燕{\c&H5B5F58&}参加制作\N那时 在芝浜发生的故事——
 Dialogue: 0,0:08:37.87,0:08:44.38,Screen,,0,0,0,,{\fnHYQiHei-80S\c&H131517&\an9\bord2\3c&H83B8C0&}水崎燕
 Dialogue: 0,0:08:49.72,0:08:53.89,Screen,,0,0,0,,{\an8\fnHYQiHei-80S\c&H171819&\bord2\3c&H50E5F3&}水崎燕 机器人动画上映庆祝礼炮！
 Dialogue: 0,0:12:48.66,0:12:53.50,Screen,,0,0,0,,{\an7\alpha&H20&\c&HEEE9E1&\pos(0,0)\p1}m 957 5 l 1277 5 1277 149 957 149
-Dialogue: 1,0:12:48.66,0:12:53.50,Screen,,0,0,0,,{\an9\fs30\fnHYQiHei-65S\c&H2C2E3B&}东西屋研究会\N{\c&H3A4BDD&}机器人动画\N{\c&H2C2E3B&}在一号体育馆上映\N人气读者模特{\c&HFE8100&}水崎燕{\c&H2C2E3B&}也参加
+Dialogue: 1,0:12:48.66,0:12:53.50,Screen,,0,0,0,,{\an9\fs30\fnHYQiHei-65S\c&H2C2E3B&}东西屋研究会\N{\c&H3A4BDD&}机器人动画\N{\c&H2C2E3B&}在一号体育馆上映\N人气平面模特{\c&HFE8100&}水崎燕{\c&H2C2E3B&}也参加
 Dialogue: 0,0:13:04.22,0:13:13.94,Screen,,0,0,0,,{\3c&H654375&\bord2\fnHYQiHei-45S\an7\c&HCDBFAC&}纸箱分发处
 Dialogue: 0,0:13:52.48,0:13:56.73,Screen,,0,0,0,,{\an9\c&H181818&\fnHYQiHei-45S\fs30}机器人动画\N在一号体育馆上映\N{\fnHYQiHei-65S}水崎燕参加
 Dialogue: 0,0:14:11.29,0:14:13.54,Screen,,0,0,0,,{\an8\c&H4656B2&}溜索
@@ -115,7 +115,7 @@ Dialogue: 0,0:04:12.23,0:04:13.43,Default,,0,0,0,,这个可以有
 Dialogue: 0,0:04:13.71,0:04:16.97,Default,,0,0,0,,不过听说空调管理部是学生会的鹰犬啊
 Dialogue: 0,0:04:16.97,0:04:20.00,Default,,0,0,0,,没事 我有能够交涉的把柄
 Dialogue: 0,0:04:20.24,0:04:22.53,Default,,0,0,0,,不过 更加重要的是…
-Dialogue: 0,0:04:24.24,0:04:27.43,Default,,0,0,0,,人气读者模特水崎燕参加
+Dialogue: 0,0:04:24.24,0:04:27.43,Default,,0,0,0,,人气平面模特水崎燕参加
 Dialogue: 0,0:04:27.43,0:04:30.68,Default,,0,0,0,,着重突出水崎氏的存在
 Dialogue: 0,0:04:30.68,0:04:32.02,Default,,0,0,0,,等…等一下
 Dialogue: 0,0:04:32.25,0:04:34.81,Default,,0,0,0,,那样最引人注目的就成了水崎燕
