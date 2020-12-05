@@ -1,0 +1,109 @@
+﻿[Script Info]
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 912
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei-65S,40,&H00FFFFFF,&H000000FF,&H03272727,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,125,1
+Style: Screen,HYQiHei-65S,35,&H00FFFFFF,&H000000FF,&H09323232,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,70,1
+Style: Screen2,HYQiHei-55S,32,&H00000000,&H000000FF,&H09323232,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,70,1
+Style: Screen3,HYQiHei-65S,32,&H00FFFFFF,&H000000FF,&H27383838,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,10,10,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:55.16,0:01:02.29,Screen,,0,0,0,,{\fad(1000,1000)\pos(93,763)}东映动画 大泉工作室
+Dialogue: 0,0:01:10.30,0:01:19.64,Screen2,,0,0,0,,{\fad(1500,1500)\pos(137,702)}「小魔女DoReMi」系列\N电影 《寻找见习魔女》\N制片人 关宏美
+Dialogue: 0,0:01:28.90,0:01:32.86,Screen3,,0,0,0,,{\blur2\pos(89,785)}「小魔女DoReMi」20周年纪念 众筹回馈特别动画 企划会议
+Dialogue: 0,0:01:32.86,0:01:35.87,Screen,,0,0,0,,{\pos(109,526)}电影 《寻找见习魔女》 制片人助理 国广守
+Dialogue: 0,0:01:35.87,0:01:39.25,Screen,,0,0,0,,{\pos(89,560)}「小魔女DoReMi」系列 初代系列导演  电影 《寻找见习魔女》导演{佐藤顺一}
+Dialogue: 0,0:01:39.25,0:01:42.71,Screen,,0,0,0,,{\pos(101,768)}「小魔女DoReMi」系列 人物概念设计\N电影 《寻找见习魔女》人物设计·总作画导演{马越嘉彦}
+Dialogue: 0,0:01:53.43,0:01:56.76,Screen,,0,0,0,,{\pos(106,769)}电影 《寻找见习魔女》导演 镰谷悠
+Dialogue: 0,0:01:56.76,0:01:59.72,Screen,,0,0,0,,{\an9\pos(1828,792)}电影《寻找见习魔女》\N道具设计 栖崎朝子
+Dialogue: 0,0:04:22.99,0:04:34.88,Screen3,,0,0,0,,{\pos(86,726)\blur5\fad(1500,1500)}「为何发起这次众筹？」
+Dialogue: 0,0:04:36.84,0:04:45.76,Screen,,0,0,0,,{\pos(100,788)\fad(500,500)}人物设计
+Dialogue: 0,0:05:49.62,0:05:54.88,Screen,,0,0,0,,{\an9\fad(500,0)\pos(1784,736)}「小魔女DoReMi」系列\N电影《寻找见习魔女》\N色彩设计 辻田邦夫
+Dialogue: 0,0:06:01.30,0:06:03.93,Screen,,0,0,0,,{\an9\pos(1825,630)}电影《寻找见习魔女》 美术设计 田尻健一
+Dialogue: 0,0:07:21.75,0:07:27.68,Screen2,,0,0,0,,{\an8\pos(958,720)\fad(4000,0)}致20年后的你
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:01:15.26,0:01:19.52,Default,,0,0,0,,{\blur3}我是想和DoReMi她们成为朋友的人
+Dialogue: 0,0:01:22.56,0:01:26.44,Default,,0,0,0,,{\blur3}是DoReMi的头号粉丝
+Dialogue: 0,0:01:51.61,0:01:54.76,Default,,0,0,0,,{\blur3}我们制作DoReMi之前的一部作品
+Dialogue: 0,0:01:54.76,0:01:56.51,Default,,0,0,0,,{\blur3}是《梦之蜡笔王国》
+Dialogue: 0,0:01:56.51,0:01:59.47,Default,,0,0,0,,{\blur3}虽是改编自儿童文学的作品
+Dialogue: 0,0:01:59.72,0:02:04.23,Default,,0,0,0,,{\blur3}但作品大部分都是原创
+Dialogue: 0,0:02:04.60,0:02:07.06,Default,,0,0,0,,{\blur3}它让团队有了成功的经验
+Dialogue: 0,0:02:07.06,0:02:10.19,Default,,0,0,0,,{\blur3}所以我们把想要制作原创动画的意愿
+Dialogue: 0,0:02:10.19,0:02:11.94,Default,,0,0,0,,{\blur3}传达给电视台和
+Dialogue: 0,0:02:12.28,0:02:15.07,Default,,0,0,0,,{\blur3}代理商以及赞助商时说
+Dialogue: 0,0:02:15.32,0:02:18.24,Default,,0,0,0,,{\blur3}我和佐藤导演和
+Dialogue: 0,0:02:18.24,0:02:20.45,Default,,0,0,0,,{\blur3}编剧的山田隆司
+Dialogue: 0,0:02:20.45,0:02:23.71,Default,,0,0,0,,{\blur3}我们三人协力的话没问题
+Dialogue: 0,0:02:23.71,0:02:25.83,Default,,0,0,0,,{\blur3}然后就通过了企划
+Dialogue: 0,0:02:39.93,0:02:43.89,Default,,0,0,0,,{\blur3}DoReMi大体上是以想成为朋友为主题考虑的
+Dialogue: 0,0:02:43.89,0:02:45.73,Default,,0,0,0,,{\blur3}然后设计各种同学
+Dialogue: 0,0:02:45.73,0:02:49.90,Default,,0,0,0,,{\blur3}和朋友相处中发生各种的困难和烦恼
+Dialogue: 0,0:02:49.90,0:02:51.65,Default,,0,0,0,,{\blur3}为了帮助他人而使用魔法
+Dialogue: 0,0:02:52.07,0:02:54.61,Default,,0,0,0,,{\blur3}据此创作的
+Dialogue: 0,0:02:55.91,0:02:58.28,Default,,0,0,0,,{\blur3}关最初说
+Dialogue: 0,0:02:58.28,0:03:00.53,Default,,0,0,0,,{\blur3}想一直做到她们毕业
+Dialogue: 0,0:03:00.53,0:03:03.25,Default,,0,0,0,,{\blur3}希望能和观看的孩子们一同成长
+Dialogue: 0,0:03:03.54,0:03:05.08,Default,,0,0,0,,{\blur3}那种感觉
+Dialogue: 0,0:03:05.46,0:03:07.75,Default,,0,0,0,,{\blur3}真是一种很深刻的体验
+Dialogue: 0,0:03:09.13,0:03:15.17,Default,,0,0,0,,{\blur3}和自己生活氛围相同的DoReMi的世界相连
+Dialogue: 0,0:03:15.17,0:03:17.01,Default,,0,0,0,,{\blur3}这大概也说不清道不明
+Dialogue: 0,0:03:17.01,0:03:19.43,Default,,0,0,0,,{\blur3}但孩子们可以去感受
+Dialogue: 0,0:03:25.06,0:03:27.98,Default,,0,0,0,,{\blur3}小魔女DoReMi这部作品
+Dialogue: 0,0:03:27.98,0:03:30.11,Default,,0,0,0,,{\blur3}也迎来了成人礼
+Dialogue: 0,0:03:30.69,0:03:33.73,Default,,0,0,0,,{\blur3}看到成人礼中的孩子
+Dialogue: 0,0:03:34.74,0:03:37.24,Default,,0,0,0,,{\blur3}就像是父母的感觉
+Dialogue: 0,0:03:47.46,0:03:51.17,Default,,0,0,0,,{\blur3}装傻的表情 还有各种表情
+Dialogue: 0,0:03:51.17,0:03:54.05,Default,,0,0,0,,{\blur3}随着作品的进展
+Dialogue: 0,0:03:56.30,0:04:00.97,Default,,0,0,0,,{\blur3}哭脸 笑脸 崩溃 惊讶
+Dialogue: 0,0:04:00.97,0:04:03.14,Default,,0,0,0,,{\blur3}渐渐的各种表情多了起来
+Dialogue: 0,0:04:03.60,0:04:04.77,Default,,0,0,0,,{\blur3}我们公司的
+Dialogue: 0,0:04:05.27,0:04:08.23,Default,,0,0,0,,{\blur3}人物设计方法基本上
+Dialogue: 0,0:04:08.39,0:04:10.23,Default,,0,0,0,,{\blur3}主角全员
+Dialogue: 0,0:04:10.23,0:04:12.23,Default,,0,0,0,,{\blur3}轮廓不能一样
+Dialogue: 0,0:04:12.94,0:04:15.44,Default,,0,0,0,,{\blur3}所以就算全涂黑
+Dialogue: 0,0:04:15.82,0:04:19.78,Default,,0,0,0,,{\blur3}也必须能看出来这孩子是DoReMi
+Dialogue: 0,0:04:23.08,0:04:26.20,Default,,0,0,0,,{\blur3}为迎接DoReMi20周年
+Dialogue: 0,0:04:26.50,0:04:28.79,Default,,0,0,0,,{\blur3}向老观众们
+Dialogue: 0,0:04:29.00,0:04:33.25,Default,,0,0,0,,{\blur3}提供一种愉快节日氛围的活动
+Dialogue: 0,0:04:33.79,0:04:35.59,Default,,0,0,0,,{\blur3}就算不在本地
+Dialogue: 0,0:04:35.59,0:04:38.34,Default,,0,0,0,,{\blur3}就算手头紧张
+Dialogue: 0,0:04:38.34,0:04:43.97,Default,,0,0,0,,{\blur3}也能和大家一起庆祝DoReMi的成年
+Dialogue: 0,0:04:44.22,0:04:46.52,Default,,0,0,0,,{\blur3}我们正是寻找这样的方法
+Dialogue: 0,0:04:47.43,0:04:48.81,Default,,0,0,0,,{\blur3}网络或手机
+Dialogue: 0,0:04:48.81,0:04:50.44,Default,,0,0,0,,{\blur3}在上面号召的话
+Dialogue: 0,0:04:50.69,0:04:54.06,Default,,0,0,0,,{\blur3}说不定就能传达给全日本
+Dialogue: 0,0:04:54.90,0:04:57.23,Default,,0,0,0,,{\blur3}程序和内容
+Dialogue: 0,0:04:57.82,0:05:02.24,Default,,0,0,0,,{\blur3}死板的话无法让观众们享受
+Dialogue: 0,0:05:02.24,0:05:06.20,Default,,0,0,0,,{\blur3}然后就做了这样的活动企划
+Dialogue: 0,0:05:07.08,0:05:11.12,Default,,0,0,0,,{\blur3}该怎么说呢 转眼间吗
+Dialogue: 0,0:05:14.08,0:05:18.05,Default,,0,0,0,,{\blur3}回过神来已经20年了
+Dialogue: 0,0:05:18.46,0:05:26.51,Default,,0,0,0,,{\blur3}我可能也是优先了自己的乐趣
+Dialogue: 0,0:05:28.10,0:05:33.84,Default,,0,0,0,,{\blur3}说不定也能让观众也能体会到那种快乐
+Dialogue: 0,0:05:34.02,0:05:36.82,Default,,0,0,0,,{\blur3}想这样和观众分享乐趣
+Dialogue: 0,0:05:42.57,0:05:45.49,Default,,0,0,0,,{\blur3}首先想带给粉丝们欢乐
+Dialogue: 0,0:05:45.49,0:05:49.58,Default,,0,0,0,,{\blur3}然后想勾起大家的回忆
+Dialogue: 0,0:05:49.58,0:05:56.09,Default,,0,0,0,,{\blur3}曾经的孩子们在这20年间的种种经历
+Dialogue: 0,0:05:56.34,0:06:01.84,Default,,0,0,0,,{\blur3}就算是升学 恋爱 或者就职
+Dialogue: 0,0:06:02.47,0:06:05.76,Default,,0,0,0,,{\blur3}让大家感受到生活的美好
+Dialogue: 0,0:06:06.10,0:06:11.89,Default,,0,0,0,,{\blur3}很高兴大家长大成人
+Dialogue: 0,0:06:20.69,0:06:22.65,Default,,0,0,0,,{\blur3}像是自己的所爱
+Dialogue: 0,0:06:22.65,0:06:25.70,Default,,0,0,0,,{\blur3}能找到的话再好不过了
+Dialogue: 0,0:06:25.91,0:06:27.66,Default,,0,0,0,,{\blur3}没找到也没关系
+Dialogue: 0,0:06:27.91,0:06:30.99,Default,,0,0,0,,{\blur3}希望能好好的烦恼一次
+Dialogue: 0,0:06:31.50,0:06:34.37,Default,,0,0,0,,{\blur3}像是就算不善交际
+Dialogue: 0,0:06:34.37,0:06:39.04,Default,,0,0,0,,{\blur3}也希望能变得善解人意
+Dialogue: 0,0:06:40.84,0:06:44.51,Default,,0,0,0,,{\blur3}就算长大也有很多人拥有童心
+Dialogue: 0,0:06:44.72,0:06:49.05,Default,,0,0,0,,{\blur3}希望大家永远珍藏这段回忆
+Dialogue: 0,0:06:49.68,0:06:56.10,Default,,0,0,0,,{\blur3}粉丝们有孩子时能一起观看
+Dialogue: 0,0:06:56.10,0:06:59.98,Default,,0,0,0,,{\blur3}然后成为一种纽带
+Dialogue: 0,0:07:00.61,0:07:03.15,Default,,0,0,0,,{\blur3}对DoReMi投入爱情
+Dialogue: 0,0:07:03.15,0:07:09.74,Default,,0,0,0,,{\blur3}希望和观众共同享受DoReMi的新作品
+Dialogue: 0,0:07:30.68,0:07:35.27,Screen2,,0,0,0,,{\an8\pos(960,720)}中文字幕  喵萌奶茶屋\N\NDysonsphere x MIR
