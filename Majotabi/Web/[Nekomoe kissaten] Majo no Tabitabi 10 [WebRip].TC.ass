@@ -27,7 +27,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
 Dialogue: 0,0:21:19.99,0:21:23.50,Staff,,0,0,0,,{\fad(500,500)\blur5}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途\N\N翻譯：四葉氷鋒  紅黑劍士蓋亞  羊羊羊　校對：小風yusa　後期：MIR　繁化：SashiharaRino　OP特效：poi
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
-Dialogue: 0,0:02:43.69,0:02:48.02,Title,,0,0,0,,{\fad(950,0)\blur0\bord0\pos(876,509)\frz18.1\frx0\fry358}兩個人的師父
+Dialogue: 0,0:02:43.69,0:02:48.02,Title,,0,0,0,,{\fad(950,0)\blur0\bord0\pos(876,509)\frz18.1\frx0\fry358}兩位師傅
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
 Dialogue: 0,0:00:03.30,0:00:07.58,Default,,0,0,0,,感覺很有年頭了啊 這是什麼
 Dialogue: 0,0:00:07.73,0:00:12.64,Default,,0,0,0,,不知道 好像是以前一樁事件沒收的東西
