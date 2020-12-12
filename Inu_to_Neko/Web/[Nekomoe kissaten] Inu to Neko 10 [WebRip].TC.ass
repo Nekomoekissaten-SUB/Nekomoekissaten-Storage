@@ -1,0 +1,57 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 10 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.47,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:02.95,0:00:03.59,Default,,0,0,0,,小不點
+Dialogue: 0,0:00:03.59,0:00:04.46,Default,,0,0,0,,小點子
+Dialogue: 0,0:00:04.46,0:00:05.44,Default,,0,0,0,,點點
+Dialogue: 0,0:00:01.48,0:00:04.46,Default,,0,0,0,,據說不可以用不同的名字去喚一隻狗
+Dialogue: 0,0:00:05.44,0:00:06.98,Default,,0,0,0,,但還是會忍不住這麼做
+Dialogue: 0,0:00:06.98,0:00:08.36,Default,,0,0,0,,小狗子
+Dialogue: 0,0:00:08.36,0:00:08.98,Default,,0,0,0,,在
+Dialogue: 0,0:00:09.35,0:00:10.18,Default,,0,0,0,,小旺旺
+Dialogue: 0,0:00:10.18,0:00:10.89,Default,,0,0,0,,在
+Dialogue: 0,0:00:11.07,0:00:12.77,Default,,0,0,0,,肚臍大魔王
+Dialogue: 0,0:00:12.77,0:00:13.48,Default,,0,0,0,,在
+Dialogue: 0,0:00:13.81,0:00:16.35,Default,,0,0,0,,嘣噔兒那個嘣噔兒
+Dialogue: 0,0:00:16.35,0:00:17.20,Default,,0,0,0,,在
+Dialogue: 0,0:00:18.00,0:00:19.44,Default,,0,0,0,,在叫我耶
+Dialogue: 0,0:00:22.55,0:00:23.89,Default,,0,0,0,,貓大騷
+Dialogue: 0,0:00:24.49,0:00:26.45,Default,,0,0,0,,大貓子
+Dialogue: 0,0:00:27.40,0:00:29.59,Default,,0,0,0,,黑鼻子老師
+Dialogue: 0,0:00:30.70,0:00:31.74,Default,,0,0,0,,貓貓
+Dialogue: 0,0:00:32.98,0:00:33.76,Default,,0,0,0,,開飯
+Dialogue: 0,0:00:35.14,0:00:36.34,Default,,0,0,0,,妳說了開飯對吧
+Dialogue: 0,0:00:34.81,0:00:41.02,Screen,,0,0,0,,{\an9\fnFZZhunYuan-M02\c&H5B65F0&\3c&H090909&\bord1\blur5}貓糧
+Dialogue: 0,0:00:36.84,0:00:39.46,Default,,0,0,0,,貓貓根本不在乎什麼名字
+Dialogue: 0,0:00:41.00,0:00:42.02,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:41.02,0:00:42.02,Screen,,0,0,0,,{\fs32\frz15.76\c&H171723&\pos(416,466.666)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:42.38,0:00:45.65,Default,,0,0,0,,最近我和狗狗熱衷的一種玩法
+Dialogue: 0,0:00:45.65,0:00:47.41,Default,,0,0,0,,狗狗機關槍
+Dialogue: 0,0:00:47.41,0:00:48.96,Default,,0,0,0,,噠噠噠…
+Dialogue: 0,0:00:48.96,0:00:50.35,Default,,0,0,0,,噠噠噠…
+Dialogue: 0,0:00:51.34,0:00:55.35,Default,,0,0,0,,雖不知道為什麼 這也太好玩了吧
+Dialogue: 0,0:00:55.35,0:00:56.04,Default,,0,0,0,,噠噠…
+Dialogue: 0,0:01:01.29,0:01:03.04,Screen,,0,0,0,,{\an9\c&H090909&}狗狗貓貓
+Dialogue: 0,0:01:04.94,0:01:07.33,Default,,0,0,0,,不會吧 難道說貓貓也想玩那個
+Dialogue: 0,0:01:07.54,0:01:10.05,Default,,0,0,0,,好呀 一起玩吧
+Dialogue: 0,0:01:10.82,0:01:12.92,Default,,0,0,0,,用貓貓根本玩不了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
