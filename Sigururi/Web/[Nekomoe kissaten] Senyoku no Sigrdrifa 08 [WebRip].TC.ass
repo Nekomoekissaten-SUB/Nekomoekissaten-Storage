@@ -393,6 +393,7 @@ Dialogue: 0,0:23:58.95,0:23:59.50,Default,,0,0,0,,吧
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:02:23.53,0:02:27.54,Title,,0,0,0,,{\fad(500,500)}神話世界探索作戰！
+Comment: 0,0:19:38.07,0:19:41.70,Screen,,0,0,0,,{\fnAvenir Next W1G Medium\an8\blur2}Hljóðs bið ek allar helgar kindir, meiri ok minni mögu Heimdallar
 Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,第八·五話 第909戰術姬隊戰鬥記錄
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Opening
 Dialogue: 0,0:00:51.57,0:00:51.73,OP-JP,,0,0,0,,{\move(2040,700,644,700)\fax-0.35}曖昧な　まだ見えない明日にだって

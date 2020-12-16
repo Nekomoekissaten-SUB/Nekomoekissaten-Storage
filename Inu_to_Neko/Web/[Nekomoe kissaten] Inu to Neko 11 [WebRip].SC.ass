@@ -1,0 +1,54 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 11 [WebRip].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:01.72,0:00:03.98,Default,,0,0,0,,这是咱家养的上上条狗的故事
+Dialogue: 0,0:00:04.09,0:00:07.09,Default,,0,0,0,,以前咱家养过一只不是很纯种的柴犬
+Dialogue: 0,0:00:07.66,0:00:10.27,Default,,0,0,0,,一天 在我放学回家的路上
+Dialogue: 0,0:00:11.33,0:00:12.13,Default,,0,0,0,,从前面…
+Dialogue: 0,0:00:12.13,0:00:14.48,Default,,0,0,0,,跑来一只脖子上还系着手绳的狗狗
+Dialogue: 0,0:00:15.44,0:00:19.05,Default,,0,0,0,,联系收容所也好 登报纸也好
+Dialogue: 0,0:00:17.37,0:00:20.88,Screen,,0,0,0,,{\blur1\an9\fnFZZhunYuan-M02\3c&H635A38&\bord2}留言板\N捡到一只迷路的狗狗
+Dialogue: 0,0:00:19.05,0:00:21.06,Default,,0,0,0,,可是始终没有人来认领
+Dialogue: 0,0:00:21.06,0:00:22.46,Default,,0,0,0,,那就留下来养吧
+Dialogue: 0,0:00:22.46,0:00:23.44,Default,,0,0,0,,也是
+Dialogue: 0,0:00:23.44,0:00:25.03,Default,,0,0,0,,好耶
+Dialogue: 0,0:00:25.03,0:00:26.01,Default,,0,0,0,,万分感激 无比幸福
+Dialogue: 0,0:00:26.32,0:00:27.54,Default,,0,0,0,,一餐一宿的大恩
+Dialogue: 0,0:00:27.54,0:00:30.79,Default,,0,0,0,,小犬必铭记于心 效忠主人
+Dialogue: 0,0:00:30.91,0:00:33.24,Default,,0,0,0,,它虽然是女孩子 却像个武士
+Dialogue: 0,0:00:33.58,0:00:37.43,Default,,0,0,0,,而且是一只非常聪明的忠犬
+Dialogue: 0,0:00:38.02,0:00:39.07,Default,,0,0,0,,后来有一天
+Dialogue: 0,0:00:39.07,0:00:40.45,Default,,0,0,0,,咦 不见了
+Dialogue: 0,0:00:45.58,0:00:49.09,Default,,0,0,0,,你明明肚子不舒服
+Dialogue: 0,0:00:49.39,0:00:52.03,Default,,0,0,0,,却不想在院子里大便
+Dialogue: 0,0:00:52.03,0:00:54.59,Default,,0,0,0,,拖着十多斤的砖头
+Dialogue: 0,0:00:54.91,0:00:56.57,Default,,0,0,0,,是我大意了
+Dialogue: 0,0:00:56.85,0:00:59.06,Default,,0,0,0,,愿接受任何处罚
+Dialogue: 0,0:00:59.06,0:01:01.03,Default,,0,0,0,,别在意 别在意
+Dialogue: 0,0:01:01.03,0:01:03.85,Default,,0,0,0,,那孩子在很久以前就寿终正寝了
+Dialogue: 0,0:01:04.61,0:01:05.34,Default,,0,0,0,,现在
+Dialogue: 0,0:01:06.18,0:01:07.03,Default,,0,0,0,,拉完了
+Dialogue: 0,0:01:06.75,0:01:07.76,Screen,,0,0,0,,{\pos(1021,493)\c&H000000&\fs60\bord3\b1\3c&HFFFFFF&\frz352.8}←无所谓
+Dialogue: 0,0:01:08.42,0:01:09.79,Default,,0,0,0,,快来铲屎
+Dialogue: 0,0:01:09.51,0:01:10.51,Screen,,0,0,0,,{\c&H000000&\fs60\bord3\b1\3c&HFFFFFF&\frz1.035\pos(309,453)}明明是自己搞砸拉外面的
+Dialogue: 0,0:01:10.76,0:01:14.71,Default,,0,0,0,,每只猫猫每只狗狗都性格迥异 都很可爱呢
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
