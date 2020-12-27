@@ -1,0 +1,66 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 13 [WebRip].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:01.48,0:00:04.24,Default,,0,0,0,,这是我在流浪犬收容所做志愿者时发生的事情
+Dialogue: 0,0:00:01.48,0:00:04.24,Default,,0,0,0,,{\an8\fs42}好嘞 开始干活
+Dialogue: 0,0:00:04.24,0:00:04.92,Default,,0,0,0,,散步
+Dialogue: 0,0:00:05.03,0:00:06.11,Screen,,0,0,0,,{\fs55\b1\c&H000000&\bord4\3c&HFFFFFF&\frz10.56\pos(1143,664)}来晚了
+Dialogue: 0,0:00:06.19,0:00:06.82,Default,,0,0,0,,排便
+Dialogue: 0,0:00:07.32,0:00:08.70,Screen,,0,0,0,,{\fs55\b1\c&H000000&\bord4\3c&HFFFFFF&\pos(264,677)}来晚了
+Dialogue: 0,0:00:07.01,0:00:08.81,Default,,0,0,0,,你们动作太快了吧
+Dialogue: 0,0:00:08.81,0:00:09.89,Default,,0,0,0,,梳毛
+Dialogue: 0,0:00:09.91,0:00:10.87,Screen,,0,0,0,,{\fs55\b1\c&H000000&\bord4\3c&HFFFFFF&\pos(1031,634)\frz7.75}来晚了
+Dialogue: 0,0:00:10.22,0:00:12.86,Default,,0,0,0,,可恶 但修剪指甲我可是不会败给你们的
+Dialogue: 0,0:00:12.78,0:00:15.95,Screen,,0,0,0,,{\fnFZZhunYuan-M02\an8\c&H000000&\bord2\3c&HFFFFFF&}工匠手艺
+Dialogue: 0,0:00:14.45,0:00:15.95,Screen,,0,0,0,,{\fs55\b1\c&H000000&\bord4\3c&HFFFFFF&\pos(1120,414)}完美避开血管
+Dialogue: 0,0:00:15.95,0:00:19.08,Screen,,0,0,0,,{\fn@FZMiaoWu-GBK\frz-90\fs55\b1\c&H000000&\bord4\3c&HFFFFFF&\pos(139,319)}玩耍也是重要的工作
+Dialogue: 0,0:00:16.89,0:00:18.39,Default,,0,0,0,,大家都好厉害
+Dialogue: 0,0:00:18.39,0:00:21.81,Default,,0,0,0,,打扰一下 二楼现在还有猫咪
+Dialogue: 0,0:00:22.00,0:00:23.40,Default,,0,0,0,,你可以帮忙照顾一下吗
+Dialogue: 0,0:00:23.40,0:00:24.84,Default,,0,0,0,,我不会照顾猫咪
+Dialogue: 0,0:00:24.84,0:00:25.67,Default,,0,0,0,,好嘞
+Dialogue: 0,0:00:26.79,0:00:28.74,Default,,0,0,0,,咱家那只倔猫都被我给驯服了
+Dialogue: 0,0:00:28.74,0:00:30.93,Default,,0,0,0,,再怎么顽劣的野猫也不在话下
+Dialogue: 0,0:00:32.34,0:00:34.72,Default,,0,0,0,,这…这什么生物 怎么可以这么可爱
+Dialogue: 0,0:00:34.72,0:00:37.54,Default,,0,0,0,,黏人的猫咪难道不是都市传说吗
+Dialogue: 0,0:00:36.81,0:00:42.23,Screen,,0,0,0,,{\fs55\b1\c&H000000&\bord4\3c&HFFFFFF&\fad(1000,500)\pos(504,79)}喜欢你喵 不要离开我喵
+Dialogue: 0,0:00:37.54,0:00:41.04,Default,,0,0,0,,别这样 我心里已经有别的猫了
+Dialogue: 0,0:00:41.04,0:00:42.76,Default,,0,0,0,,快到时间了
+Dialogue: 0,0:00:42.76,0:00:43.89,Default,,0,0,0,,我要延长
+Dialogue: 0,0:00:44.09,0:00:45.10,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:44.07,0:00:45.07,Screen,,0,0,0,,{\fs36\frz15.76\c&H171723&\pos(430,458)}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:45.21,0:00:48.33,Default,,0,0,0,,猫猫对着你慢慢地眨眼睛表示「喜欢你」
+Dialogue: 0,0:00:48.33,0:00:51.87,Default,,0,0,0,,就是说我也可以像这样向猫猫表达我的爱意喽
+Dialogue: 0,0:00:50.20,0:00:51.82,Screen,,0,0,0,,{\an9\fnFZZhunYuan-M02\c&H9D2BE0&\3c&H210044&\b1}轰轰轰
+Dialogue: 0,0:00:52.17,0:00:53.79,Default,,0,0,0,,慢慢闭上眼
+Dialogue: 0,0:00:56.78,0:00:57.62,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:56.70,0:00:57.70,Screen,,0,0,0,,{\fs36\frz15.76\c&H171723&\pos(971,444)}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:57.85,0:01:00.68,Default,,0,0,0,,猫猫这是在蛄蛹什么呀 太可爱了吧
+Dialogue: 0,0:01:01.01,0:01:02.46,Default,,0,0,0,,必须拍下来
+Dialogue: 0,0:01:02.46,0:01:04.38,Default,,0,0,0,,不行 光是拍照根本不够
+Dialogue: 0,0:01:04.38,0:01:05.99,Default,,0,0,0,,对了 拍视频
+Dialogue: 0,0:01:07.21,0:01:09.62,Default,,0,0,0,,明明是想拍一段可爱猫咪的视频
+Dialogue: 0,0:01:09.62,0:01:11.88,Default,,0,0,0,,{\an8\fs42}真不错 好可爱
+Dialogue: 0,0:01:12.25,0:01:15.01,Default,,0,0,0,,{\an8\fs42}喵 你在叫吗
+Dialogue: 0,0:01:10.23,0:01:13.61,Default,,0,0,0,,之后回看时却发现视频里混杂着大妈恶心的喘息声
+Dialogue: 0,0:01:13.75,0:01:14.61,Default,,0,0,0,,是怎么回事呢
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
