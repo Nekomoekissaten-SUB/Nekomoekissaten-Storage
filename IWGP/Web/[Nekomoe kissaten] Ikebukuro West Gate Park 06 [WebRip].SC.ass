@@ -16,6 +16,8 @@ Style: OP-JP,FOT-KafuTechno Std U,52,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000
 Style: OP-CHS,AR XinYiGB UL,41,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,0,0,10,1
 Style: OP-CHT,文鼎新藝體U,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,10,1
 Style: Screen,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: ED-JP,Toppan Bunkyu Gothic Regular,54,&H00FFFFFF,&H000000FF,&H14212121,&H00000000,0,0,0,0,90,100,0,0,1,1,0,2,14,14,10,128
+Style: ED-CH,HYQiHei-40S,40,&H00FFFFFF,&H000000FF,&H14212121,&H16212121,0,0,0,0,90,100,1,0,1,1,0,8,14,14,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -346,7 +348,7 @@ Dialogue: 0,0:21:42.14,0:21:43.69,Default,,0,0,0,,明白了吗 崇
 Dialogue: 0,0:21:47.74,0:21:49.00,Default,,0,0,0,,等等 宽人
 Dialogue: 0,0:21:49.33,0:21:52.09,Default,,0,0,0,,战争已经开始了
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
-Dialogue: 0,0:03:13.63,0:03:16.22,Screen,,0,0,0,,{\an8\bord1\blur5}摄像机 你别叫唤!!
+Dialogue: 0,0:03:13.63,0:03:16.22,Screen,,0,0,0,,{\an8\bord1\blur5}卡梅拉 你别叫唤!!
 Dialogue: 0,0:03:34.28,0:03:41.62,Screen,,0,0,0,,{\c&H375B74&\3c&H7CE3F5&\bord1\blur5\move(228,193,271,193,17,7316)}出租
 Dialogue: 0,0:03:34.28,0:03:41.62,Screen,,0,0,0,,{\an7\fs20\move(407,338,450,338,17,7316)\3c&HA96C68&\bord1\blur5}DVD BD 租得越多越便宜！\N旧作 准新作 租十免一！\N只要 1000日元
 Dialogue: 0,0:03:34.28,0:03:41.62,Screen,,0,0,0,,{\fs35\fn@HYQiHei-65S\frz-90\3c&HA96C68&\bord1\blur5\move(1094,140,1137,140,17,7316)}全部100日元
@@ -863,4 +865,55 @@ Dialogue: 0,0:02:16.34,0:02:19.22,OP-CHS,,0,0,0,,{\clip(0,40,1280,42)\pos(640,1)
 Dialogue: 0,0:02:16.34,0:02:19.22,OP-CHS,,0,0,0,,{\clip(0,42,1280,44)\pos(640,1)\c&H880D31&}但是没一个地方像{\fnFOT-KafuTechno Std U\fs52\c&H880D31&}Needleknot
 Dialogue: 0,0:02:16.34,0:02:19.22,OP-CHS,,0,0,0,,{\clip(0,44,1280,46)\pos(640,1)\c&H8A0C2A&}但是没一个地方像{\fnFOT-KafuTechno Std U\fs52\c&H8A0C2A&}Needleknot
 Dialogue: 0,0:02:16.34,0:02:19.22,OP-CHS,,0,0,0,,{\clip(0,46,1280,48)\pos(640,1)\c&H8B0C28&}但是没一个地方像{\fnFOT-KafuTechno Std U\fs52\c&H8B0C28&}Needleknot
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:09.24,0:22:09.97,ED-JP,,0,0,0,,{\blur5}What’s up
+Dialogue: 0,0:22:09.97,0:22:13.10,ED-JP,,0,0,0,,{\blur5}予定があるやつから消えていく世界
+Dialogue: 0,0:22:13.10,0:22:15.80,ED-JP,,0,0,0,,{\blur5}だなんて不意に思った朝帰り
+Dialogue: 0,0:22:15.80,0:22:18.64,ED-JP,,0,0,0,,{\blur5}堅気の連中とは、溝ができていって
+Dialogue: 0,0:22:18.64,0:22:22.36,ED-JP,,0,0,0,,{\blur5}びびって握ってた MIC
+Dialogue: 0,0:22:22.36,0:22:24.48,ED-JP,,0,0,0,,{\blur5}Stage に置いていって
+Dialogue: 0,0:22:24.48,0:22:27.42,ED-JP,,0,0,0,,{\blur5}次の一手を信用できずに
+Dialogue: 0,0:22:27.42,0:22:30.50,ED-JP,,0,0,0,,{\blur5}お前は夢の舞台から降りていって
+Dialogue: 0,0:22:30.50,0:22:33.34,ED-JP,,0,0,0,,{\blur5}現場の喧騒から消えていって
+Dialogue: 0,0:22:33.34,0:22:36.10,ED-JP,,0,0,0,,{\blur5}知っているか　あいつのその後を
+Dialogue: 0,0:22:36.10,0:22:39.13,ED-JP,,0,0,0,,{\blur5}っていうか、てめぇにあるのか知る覚悟
+Dialogue: 0,0:22:39.13,0:22:42.05,ED-JP,,0,0,0,,{\blur5}関わったからには、見届けたい
+Dialogue: 0,0:22:42.05,0:22:44.69,ED-JP,,0,0,0,,{\blur5}お前が選んだ滑走路
+Dialogue: 0,0:22:44.69,0:22:48.01,ED-JP,,0,0,0,,{\blur5}また今日も明日もこの地球の上
+Dialogue: 0,0:22:48.69,0:22:52.19,ED-JP,,0,0,0,,{\blur5}どこかで偶然、逢ったのなら
+Dialogue: 0,0:22:52.37,0:22:56.86,ED-JP,,0,0,0,,{\blur5}あのときみたいに Freestyle でもして遊ぼうよ
+Dialogue: 0,0:22:58.94,0:22:59.72,ED-JP,,0,0,0,,{\blur5}What’s up
+Dialogue: 0,0:22:59.72,0:23:02.56,ED-JP,,0,0,0,,{\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:02.56,0:23:05.45,ED-JP,,0,0,0,,{\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:05.45,0:23:08.56,ED-JP,,0,0,0,,{\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:08.56,0:23:11.37,ED-JP,,0,0,0,,{\blur5}忘れる気は、毛頭ねぇわ
+Dialogue: 0,0:23:11.37,0:23:14.32,ED-JP,,0,0,0,,{\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:14.32,0:23:17.42,ED-JP,,0,0,0,,{\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:17.42,0:23:20.26,ED-JP,,0,0,0,,{\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:20.26,0:23:22.90,ED-JP,,0,0,0,,{\blur5}忘れる気は、毛頭ねぇわ
+Comment: 0,0:22:09.24,0:22:09.97,ED-CH,,0,0,0,,{\blur5}What’s up
+Dialogue: 0,0:22:09.97,0:22:13.10,ED-CH,,0,0,0,,{\blur5}按部就班的家伙们接连消失
+Dialogue: 0,0:22:13.10,0:22:15.80,ED-CH,,0,0,0,,{\blur5}早上回家的我如是突发奇想
+Dialogue: 0,0:22:15.80,0:22:18.64,ED-CH,,0,0,0,,{\blur5}和那些老实人划清了界限
+Dialogue: 0,0:22:18.64,0:22:22.36,ED-CH,,0,0,3,,{\blur5}颤抖的手中握着的 {\fnToppan Bunkyu Gothic Regular\fs54}MIC
+Dialogue: 0,0:22:22.36,0:22:24.48,ED-CH,,0,0,0,,{\blur5}只能轻轻放在舞台上
+Dialogue: 0,0:22:24.48,0:22:27.42,ED-CH,,0,0,0,,{\blur5}无法相信自己的下一步决定
+Dialogue: 0,0:22:27.42,0:22:30.50,ED-CH,,0,0,0,,{\blur5}你只好走下了舞台
+Dialogue: 0,0:22:30.50,0:22:33.34,ED-CH,,0,0,0,,{\blur5}消失在现场的喧嚣中
+Dialogue: 0,0:22:33.34,0:22:36.10,ED-CH,,0,0,0,,{\blur5}你知道他之后怎么样了吗
+Dialogue: 0,0:22:36.10,0:22:39.13,ED-CH,,0,0,0,,{\blur5}话说  你有这觉悟去了解吗
+Dialogue: 0,0:22:39.13,0:22:42.05,ED-CH,,0,0,0,,{\blur5}事已至此  只能见证最后一刻
+Dialogue: 0,0:22:42.05,0:22:44.69,ED-CH,,0,0,0,,{\blur5}见证你所选择的道路
+Dialogue: 0,0:22:44.69,0:22:48.01,ED-CH,,0,0,0,,{\blur5}如果今天明天在这地球上
+Dialogue: 0,0:22:48.69,0:22:52.19,ED-CH,,0,0,0,,{\blur5}我们偶然在某处重逢
+Dialogue: 0,0:22:52.37,0:22:56.86,ED-CH,,0,0,3,,{\blur5}那就像那时一样一起 {\fnToppan Bunkyu Gothic Regular\fs54}Freestyle{\r\blur5} 吧
+Comment: 0,0:22:58.94,0:22:59.72,ED-CH,,0,0,0,,{\blur5}What’s up
+Dialogue: 0,0:22:59.72,0:23:02.56,ED-CH,,0,0,0,,{\blur5}Live 结束之后  电车的车窗
+Dialogue: 0,0:23:02.56,0:23:05.45,ED-CH,,0,0,3,,{\blur5}浮现出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 0,0:23:05.45,0:23:08.56,ED-CH,,0,0,0,,{\blur5}如今  我不想回首过去
+Dialogue: 0,0:23:08.56,0:23:11.37,ED-CH,,0,0,0,,{\blur5}但我更不想就此忘却
+Dialogue: 0,0:23:11.37,0:23:14.32,ED-CH,,0,0,3,,{\blur5\fnToppan Bunkyu Gothic Regular\fs54}Live{\r\blur5} 结束之后 电车的车窗
+Dialogue: 0,0:23:14.32,0:23:17.42,ED-CH,,0,0,3,,{\blur5}浮现出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 0,0:23:17.42,0:23:20.26,ED-CH,,0,0,0,,{\blur5}如今  我不想回首过去
+Dialogue: 0,0:23:20.26,0:23:22.90,ED-CH,,0,0,0,,{\blur5}但我更不想就此忘却
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

@@ -16,6 +16,8 @@ Style: OP-JP,FOT-KafuTechno Std U,52,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000
 Style: OP-CHS,AR XinYiGB UL,41,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,0,0,10,1
 Style: OP-CHT,文鼎新藝體U,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,10,1
 Style: Screen,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: ED-JP,Toppan Bunkyu Gothic Regular,54,&H00FFFFFF,&H000000FF,&H14212121,&H00000000,0,0,0,0,90,100,0,0,1,1,0,2,14,14,10,128
+Style: ED-CH,HYQiHei-40S,40,&H00FFFFFF,&H000000FF,&H14212121,&H16212121,0,0,0,0,90,100,1,0,1,1,0,8,14,14,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -25,13 +27,13 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
 Dialogue: 0,0:00:25.38,0:00:26.92,Default,,0,0,0,,迄今為止的池袋
 Dialogue: 0,0:00:27.72,0:00:29.93,Default,,0,0,0,,無論黑幫 舞者 或者斜槓青年
 Dialogue: 0,0:00:27.72,0:00:29.93,Default,,0,0,0,,{\an7\fs35}註：斜槓青年，代指擁有多重職業和身分的人群
-Dialogue: 0,0:00:30.47,0:00:32.09,Default,,0,0,0,,還是無數的年輕人們
+Dialogue: 0,0:00:30.47,0:00:32.09,Default,,0,0,0,,還是無數的小鬼們
 Dialogue: 0,0:00:32.76,0:00:34.81,Default,,0,0,0,,都被G-Boys所統治
 Dialogue: 0,0:00:35.77,0:00:38.56,Default,,0,0,0,,而他們的KING 安藤崇
 Dialogue: 0,0:00:39.44,0:00:43.15,Default,,0,0,0,,像被冰凍而成的玻璃一樣 冷酷的國王
 Dialogue: 0,0:00:43.94,0:00:46.44,Default,,0,0,0,,他是這街區萬千女孩的夢中情人
 Dialogue: 0,0:00:47.61,0:00:49.28,Default,,0,0,0,,而此時他登場了
-Dialogue: 0,0:00:50.11,0:00:54.03,Default,,0,0,0,,在年輕人魚龍混雜的西口公園突然起舞
+Dialogue: 0,0:00:50.11,0:00:54.03,Default,,0,0,0,,在小鬼們魚龍混雜的西口公園突然起舞
 Dialogue: 0,0:00:54.58,0:00:58.16,Default,,0,0,0,,一下子就抓住了在場所有人的心
 Dialogue: 0,0:01:02.29,0:01:04.42,Default,,0,0,0,,他的名字是尾崎京一
 Dialogue: 0,0:01:05.00,0:01:08.88,Default,,0,0,0,,降臨於池袋的另一位領袖
@@ -56,7 +58,7 @@ Dialogue: 0,0:03:32.15,0:03:36.28,Default,,0,0,0,,歡迎光臨 歡迎來到OK咖
 Dialogue: 0,0:03:36.65,0:03:40.32,Default,,0,0,0,,謝謝惠顧 下次再來
 Dialogue: 0,0:03:40.91,0:03:42.53,Default,,0,0,0,,讓您久等啦
 Dialogue: 0,0:03:42.83,0:03:44.20,Default,,0,0,0,,請慢用
-Dialogue: 0,0:03:45.12,0:03:46.21,Default,,0,0,0,,就是這裡 誠
+Dialogue: 0,0:03:45.12,0:03:46.21,Default,,0,0,0,,就是這裡 阿誠
 Dialogue: 0,0:03:49.04,0:03:52.67,Default,,0,0,0,,真是名不虛傳 可以說是遠超傳聞了
 Dialogue: 0,0:03:52.75,0:03:53.67,Default,,0,0,0,,真壯觀
 Dialogue: 0,0:03:56.17,0:03:57.09,Default,,0,0,0,,味道如何
@@ -861,4 +863,55 @@ Dialogue: 0,0:02:29.35,0:02:32.23,OP-CHT,,0,0,0,,{\clip(0,40,1280,42)\pos(640,1)
 Dialogue: 0,0:02:29.35,0:02:32.23,OP-CHT,,0,0,0,,{\clip(0,42,1280,44)\pos(640,1)\c&H880D31&}但是沒一個地方像{\fnFOT-KafuTechno Std U\fs52\c&H880D31&}Needleknot
 Dialogue: 0,0:02:29.35,0:02:32.23,OP-CHT,,0,0,0,,{\clip(0,44,1280,46)\pos(640,1)\c&H8A0C2A&}但是沒一個地方像{\fnFOT-KafuTechno Std U\fs52\c&H8A0C2A&}Needleknot
 Dialogue: 0,0:02:29.35,0:02:32.23,OP-CHT,,0,0,0,,{\clip(0,46,1280,48)\pos(640,1)\c&H8B0C28&}但是沒一個地方像{\fnFOT-KafuTechno Std U\fs52\c&H8B0C28&}Needleknot
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:09.24,0:22:09.97,ED-JP,,0,0,0,,{\an8\blur5}What’s up
+Dialogue: 0,0:22:09.97,0:22:13.10,ED-JP,,0,0,0,,{\an8\blur5}予定があるやつから消えていく世界
+Dialogue: 0,0:22:13.10,0:22:15.80,ED-JP,,0,0,0,,{\an8\blur5}だなんて不意に思った朝帰り
+Dialogue: 0,0:22:15.80,0:22:18.64,ED-JP,,0,0,0,,{\an8\blur5}堅気の連中とは、溝ができていって
+Dialogue: 0,0:22:18.64,0:22:22.36,ED-JP,,0,0,0,,{\an8\blur5}びびって握ってた MIC
+Dialogue: 0,0:22:22.36,0:22:24.48,ED-JP,,0,0,0,,{\an8\blur5}Stage に置いていって
+Dialogue: 0,0:22:24.48,0:22:27.42,ED-JP,,0,0,0,,{\an8\blur5}次の一手を信用できずに
+Dialogue: 0,0:22:27.42,0:22:30.50,ED-JP,,0,0,0,,{\an8\blur5}お前は夢の舞台から降りていって
+Dialogue: 0,0:22:30.50,0:22:33.34,ED-JP,,0,0,0,,{\an8\blur5}現場の喧騒から消えていって
+Dialogue: 0,0:22:33.34,0:22:36.10,ED-JP,,0,0,0,,{\an8\blur5}知っているか　あいつのその後を
+Dialogue: 0,0:22:36.10,0:22:39.13,ED-JP,,0,0,0,,{\an8\blur5}っていうか、てめぇにあるのか知る覚悟
+Dialogue: 0,0:22:39.13,0:22:42.05,ED-JP,,0,0,0,,{\an8\blur5}関わったからには、見届けたい
+Dialogue: 0,0:22:42.05,0:22:44.69,ED-JP,,0,0,0,,{\an8\blur5}お前が選んだ滑走路
+Dialogue: 0,0:22:44.69,0:22:48.01,ED-JP,,0,0,0,,{\an8\blur5}また今日も明日もこの地球の上
+Dialogue: 0,0:22:48.69,0:22:52.19,ED-JP,,0,0,0,,{\an8\blur5}どこかで偶然、逢ったのなら
+Dialogue: 0,0:22:52.37,0:22:56.86,ED-JP,,0,0,0,,{\an8\blur5}あのときみたいに Freestyle でもして遊ぼうよ
+Dialogue: 0,0:22:58.94,0:22:59.72,ED-JP,,0,0,0,,{\an8\blur5}What’s up
+Dialogue: 0,0:22:59.72,0:23:02.56,ED-JP,,0,0,0,,{\an8\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:02.56,0:23:05.45,ED-JP,,0,0,0,,{\an8\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:05.45,0:23:08.56,ED-JP,,0,0,0,,{\an8\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:08.56,0:23:11.37,ED-JP,,0,0,0,,{\an8\blur5}忘れる気は、毛頭ねぇわ
+Dialogue: 0,0:23:11.37,0:23:14.32,ED-JP,,0,0,0,,{\an8\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:14.32,0:23:17.42,ED-JP,,0,0,0,,{\an8\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:17.42,0:23:20.26,ED-JP,,0,0,0,,{\an8\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:20.26,0:23:22.90,ED-JP,,0,0,0,,{\an8\blur5}忘れる気は、毛頭ねぇわ
+Comment: 1,0:22:09.24,0:22:09.97,ED-CH,,0,0,70,,{\an8\blur5}What’s up
+Dialogue: 1,0:22:09.97,0:22:13.10,ED-CH,,0,0,70,,{\an8\blur5}按部就班的傢伙們接連消失
+Dialogue: 1,0:22:13.10,0:22:15.80,ED-CH,,0,0,70,,{\an8\blur5}早上回家的我如是突發奇想
+Dialogue: 1,0:22:15.80,0:22:18.64,ED-CH,,0,0,70,,{\an8\blur5}和那些老實人劃清了界限
+Dialogue: 1,0:22:18.64,0:22:22.36,ED-CH,,0,0,56,,{\an8\blur5}顫抖的手中握著的 {\fnToppan Bunkyu Gothic Regular\fs54}MIC
+Dialogue: 1,0:22:22.36,0:22:24.48,ED-CH,,0,0,70,,{\an8\blur5}只能輕輕放在舞台上
+Dialogue: 1,0:22:24.48,0:22:27.42,ED-CH,,0,0,70,,{\an8\blur5}無法相信自己的下一步決定
+Dialogue: 1,0:22:27.42,0:22:30.50,ED-CH,,0,0,70,,{\an8\blur5}你只好走下了舞台
+Dialogue: 1,0:22:30.50,0:22:33.34,ED-CH,,0,0,70,,{\an8\blur5}消失在現場的喧囂中
+Dialogue: 1,0:22:33.34,0:22:36.10,ED-CH,,0,0,70,,{\an8\blur5}你知道他之後怎麼樣了嗎
+Dialogue: 1,0:22:36.10,0:22:39.13,ED-CH,,0,0,70,,{\an8\blur5}話說  你有這覺悟去了解嗎
+Dialogue: 1,0:22:39.13,0:22:42.05,ED-CH,,0,0,70,,{\an8\blur5}事已至此  只能見證最後一刻
+Dialogue: 1,0:22:42.05,0:22:44.69,ED-CH,,0,0,70,,{\an8\blur5}見證你所選擇的道路
+Dialogue: 1,0:22:44.69,0:22:48.01,ED-CH,,0,0,70,,{\an8\blur5}如果今天明天在這地球上
+Dialogue: 1,0:22:48.69,0:22:52.19,ED-CH,,0,0,70,,{\an8\blur5}我們偶然在某處重逢
+Dialogue: 1,0:22:52.37,0:22:56.86,ED-CH,,0,0,56,,{\an8\blur5}那就像那時一樣一起 {\fnToppan Bunkyu Gothic Regular\fs54}Freestyle{\r\blur5} 吧
+Comment: 1,0:22:58.94,0:22:59.72,ED-CH,,0,0,70,,{\an8\blur5}What’s up
+Dialogue: 1,0:22:59.72,0:23:02.56,ED-CH,,0,0,70,,{\an8\blur5}Live 結束之後  電車的車窗
+Dialogue: 1,0:23:02.56,0:23:05.45,ED-CH,,0,0,56,,{\an8\blur5}浮現出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 1,0:23:05.45,0:23:08.56,ED-CH,,0,0,70,,{\an8\blur5}如今  我不想回首過去
+Dialogue: 1,0:23:08.56,0:23:11.37,ED-CH,,0,0,70,,{\an8\blur5}但我更不想就此忘卻
+Dialogue: 1,0:23:11.37,0:23:14.32,ED-CH,,0,0,56,,{\an8\blur5\fnToppan Bunkyu Gothic Regular\fs54}Live{\r\blur5} 结束之后 电车的车窗
+Dialogue: 1,0:23:14.32,0:23:17.42,ED-CH,,0,0,56,,{\an8\blur5}浮現出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 1,0:23:17.42,0:23:20.26,ED-CH,,0,0,70,,{\an8\blur5}如今  我不想回首過去
+Dialogue: 1,0:23:20.26,0:23:22.90,ED-CH,,0,0,70,,{\an8\blur5}但我更不想就此忘卻
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

@@ -16,6 +16,8 @@ Style: OP-JP,FOT-KafuTechno Std U,52,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000
 Style: OP-CHS,AR XinYiGB UL,41,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,0,0,10,1
 Style: OP-CHT,文鼎新藝體U,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,10,1
 Style: Screen,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: ED-JP,Toppan Bunkyu Gothic Regular,54,&H00FFFFFF,&H000000FF,&H14212121,&H00000000,0,0,0,0,90,100,0,0,1,1,0,2,14,14,10,128
+Style: ED-CH,HYQiHei-40S,40,&H00FFFFFF,&H000000FF,&H14212121,&H16212121,0,0,0,0,90,100,1,0,1,1,0,8,14,14,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -41,12 +43,12 @@ Dialogue: 1,0:00:49.54,0:00:51.79,Default,,0,0,0,,把這種事當職業嗎
 Dialogue: 1,0:02:27.79,0:02:30.60,Default,,0,0,0,,雖然有很多上傳影片能賺錢的網站
 Dialogue: 1,0:02:30.70,0:02:34.22,Default,,0,0,0,,不過最近比較有影響力的是這家ZettaMovie
 Dialogue: 1,0:02:34.94,0:02:38.10,Default,,0,0,0,,註冊帳號 成為所謂的ZettaMovier之後
-Dialogue: 1,0:02:38.52,0:02:41.35,Default,,0,0,0,,上傳的影片 按觀看次數算錢
-Dialogue: 1,0:02:41.49,0:02:43.10,Default,,0,0,0,,一次觀看能拿多少錢呢
-Dialogue: 1,0:02:43.61,0:02:45.79,Default,,0,0,0,,這跟網站運營有關
-Dialogue: 1,0:02:46.00,0:02:47.90,Default,,0,0,0,,雖說最近價格有些下跌
-Dialogue: 1,0:02:48.34,0:02:50.43,Default,,0,0,0,,但如果一次觀看0.1日圓
-Dialogue: 1,0:02:50.69,0:02:55.65,Default,,0,0,0,,那麼100萬觀看次數就能賺10萬日圓
+Dialogue: 1,0:02:38.52,0:02:43.10,Default,,0,0,0,,上傳的影片 按觀看次數算錢
+Dialogue: 1,0:02:43.61,0:02:45.79,Default,,0,0,0,,一次觀看能拿多少錢呢
+Dialogue: 1,0:02:46.08,0:02:47.90,Default,,0,0,0,,這跟網站運營有關
+Dialogue: 1,0:02:48.34,0:02:50.43,Default,,0,0,0,,雖說最近價格有些下跌
+Dialogue: 1,0:02:50.69,0:02:53.56,Default,,0,0,0,,但如果一次觀看0.1日圓
+Dialogue: 1,0:02:53.62,0:02:55.66,Default,,0,0,0,,那麼100萬觀看次數就能賺10萬日圓
 Dialogue: 1,0:02:56.50,0:02:59.74,Default,,0,0,0,,所以 你怎麼突然對這個感興趣了
 Dialogue: 1,0:03:00.28,0:03:02.50,Default,,0,0,0,,是幫尾崎京一做推廣嗎
 Dialogue: 1,0:03:02.98,0:03:05.36,Default,,0,0,0,,不是 是崇託我幫忙
@@ -321,7 +323,7 @@ Dialogue: 1,0:17:56.46,0:18:00.48,Default,,0,0,0,,然而流星先生卻不打算
 Dialogue: 1,0:18:01.24,0:18:03.51,Default,,0,0,0,,我知道現在沒有資格再求你
 Dialogue: 1,0:18:03.97,0:18:07.44,Default,,0,0,0,,可是能不能請你想辦法救救流星先生
 Dialogue: 1,0:18:17.99,0:18:18.74,Default,,0,0,0,,阿誠
-Dialogue: 1,0:18:19.19,0:18:22.66,Default,,0,0,0,,機會難得 我就幫你做個見證吧
+Dialogue: 1,0:18:19.19,0:18:22.66,Default,,0,0,0,,機會難得 我還是送佛送到西吧
 Dialogue: 1,0:18:23.66,0:18:24.82,Default,,0,0,0,,謝謝你
 Dialogue: 1,0:18:25.10,0:18:27.40,Default,,0,0,0,,不過有可能會遇到危險
 Dialogue: 1,0:18:27.82,0:18:30.75,Default,,0,0,0,,其實我和戶田橋那幫傢伙是真的鬧翻了
@@ -943,4 +945,55 @@ Dialogue: 0,0:02:14.34,0:02:17.22,OP-CHT,,0,0,0,,{\clip(0,40,1280,42)\pos(640,1)
 Dialogue: 0,0:02:14.34,0:02:17.22,OP-CHT,,0,0,0,,{\clip(0,42,1280,44)\pos(640,1)\c&H880D31&}但是沒一個地方像{\fnFOT-KafuTechno Std U\fs52\c&H880D31&}Needleknot
 Dialogue: 0,0:02:14.34,0:02:17.22,OP-CHT,,0,0,0,,{\clip(0,44,1280,46)\pos(640,1)\c&H8A0C2A&}但是沒一個地方像{\fnFOT-KafuTechno Std U\fs52\c&H8A0C2A&}Needleknot
 Dialogue: 0,0:02:14.34,0:02:17.22,OP-CHT,,0,0,0,,{\clip(0,46,1280,48)\pos(640,1)\c&H8B0C28&}但是沒一個地方像{\fnFOT-KafuTechno Std U\fs52\c&H8B0C28&}Needleknot
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:09.24,0:22:09.97,ED-JP,,0,0,0,,{\an8\blur5}What’s up
+Dialogue: 0,0:22:09.97,0:22:13.10,ED-JP,,0,0,0,,{\an8\blur5}予定があるやつから消えていく世界
+Dialogue: 0,0:22:13.10,0:22:15.80,ED-JP,,0,0,0,,{\an8\blur5}だなんて不意に思った朝帰り
+Dialogue: 0,0:22:15.80,0:22:18.64,ED-JP,,0,0,0,,{\an8\blur5}堅気の連中とは、溝ができていって
+Dialogue: 0,0:22:18.64,0:22:22.36,ED-JP,,0,0,0,,{\an8\blur5}びびって握ってた MIC
+Dialogue: 0,0:22:22.36,0:22:24.48,ED-JP,,0,0,0,,{\an8\blur5}Stage に置いていって
+Dialogue: 0,0:22:24.48,0:22:27.42,ED-JP,,0,0,0,,{\an8\blur5}次の一手を信用できずに
+Dialogue: 0,0:22:27.42,0:22:30.50,ED-JP,,0,0,0,,{\an8\blur5}お前は夢の舞台から降りていって
+Dialogue: 0,0:22:30.50,0:22:33.34,ED-JP,,0,0,0,,{\an8\blur5}現場の喧騒から消えていって
+Dialogue: 0,0:22:33.34,0:22:36.10,ED-JP,,0,0,0,,{\an8\blur5}知っているか　あいつのその後を
+Dialogue: 0,0:22:36.10,0:22:39.13,ED-JP,,0,0,0,,{\an8\blur5}っていうか、てめぇにあるのか知る覚悟
+Dialogue: 0,0:22:39.13,0:22:42.05,ED-JP,,0,0,0,,{\an8\blur5}関わったからには、見届けたい
+Dialogue: 0,0:22:42.05,0:22:44.69,ED-JP,,0,0,0,,{\an8\blur5}お前が選んだ滑走路
+Dialogue: 0,0:22:44.69,0:22:48.01,ED-JP,,0,0,0,,{\an8\blur5}また今日も明日もこの地球の上
+Dialogue: 0,0:22:48.69,0:22:52.19,ED-JP,,0,0,0,,{\an8\blur5}どこかで偶然、逢ったのなら
+Dialogue: 0,0:22:52.37,0:22:56.86,ED-JP,,0,0,0,,{\an8\blur5}あのときみたいに Freestyle でもして遊ぼうよ
+Dialogue: 0,0:22:58.94,0:22:59.72,ED-JP,,0,0,0,,{\an8\blur5}What’s up
+Dialogue: 0,0:22:59.72,0:23:02.56,ED-JP,,0,0,0,,{\an8\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:02.56,0:23:05.45,ED-JP,,0,0,0,,{\an8\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:05.45,0:23:08.56,ED-JP,,0,0,0,,{\an8\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:08.56,0:23:11.37,ED-JP,,0,0,0,,{\an8\blur5}忘れる気は、毛頭ねぇわ
+Dialogue: 0,0:23:11.37,0:23:14.32,ED-JP,,0,0,0,,{\an8\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:14.32,0:23:17.42,ED-JP,,0,0,0,,{\an8\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:17.42,0:23:20.26,ED-JP,,0,0,0,,{\an8\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:20.26,0:23:22.90,ED-JP,,0,0,0,,{\an8\blur5}忘れる気は、毛頭ねぇわ
+Comment: 1,0:22:09.24,0:22:09.97,ED-CH,,0,0,70,,{\an8\blur5}What’s up
+Dialogue: 1,0:22:09.97,0:22:13.10,ED-CH,,0,0,70,,{\an8\blur5}按部就班的傢伙們接連消失
+Dialogue: 1,0:22:13.10,0:22:15.80,ED-CH,,0,0,70,,{\an8\blur5}早上回家的我如是突發奇想
+Dialogue: 1,0:22:15.80,0:22:18.64,ED-CH,,0,0,70,,{\an8\blur5}和那些老實人劃清了界限
+Dialogue: 1,0:22:18.64,0:22:22.36,ED-CH,,0,0,56,,{\an8\blur5}顫抖的手中握著的 {\fnToppan Bunkyu Gothic Regular\fs54}MIC
+Dialogue: 1,0:22:22.36,0:22:24.48,ED-CH,,0,0,70,,{\an8\blur5}只能輕輕放在舞台上
+Dialogue: 1,0:22:24.48,0:22:27.42,ED-CH,,0,0,70,,{\an8\blur5}無法相信自己的下一步決定
+Dialogue: 1,0:22:27.42,0:22:30.50,ED-CH,,0,0,70,,{\an8\blur5}你只好走下了舞台
+Dialogue: 1,0:22:30.50,0:22:33.34,ED-CH,,0,0,70,,{\an8\blur5}消失在現場的喧囂中
+Dialogue: 1,0:22:33.34,0:22:36.10,ED-CH,,0,0,70,,{\an8\blur5}你知道他之後怎麼樣了嗎
+Dialogue: 1,0:22:36.10,0:22:39.13,ED-CH,,0,0,70,,{\an8\blur5}話說  你有這覺悟去了解嗎
+Dialogue: 1,0:22:39.13,0:22:42.05,ED-CH,,0,0,70,,{\an8\blur5}事已至此  只能見證最後一刻
+Dialogue: 1,0:22:42.05,0:22:44.69,ED-CH,,0,0,70,,{\an8\blur5}見證你所選擇的道路
+Dialogue: 1,0:22:44.69,0:22:48.01,ED-CH,,0,0,70,,{\an8\blur5}如果今天明天在這地球上
+Dialogue: 1,0:22:48.69,0:22:52.19,ED-CH,,0,0,70,,{\an8\blur5}我們偶然在某處重逢
+Dialogue: 1,0:22:52.37,0:22:56.86,ED-CH,,0,0,56,,{\an8\blur5}那就像那時一樣一起 {\fnToppan Bunkyu Gothic Regular\fs54}Freestyle{\r\blur5} 吧
+Comment: 1,0:22:58.94,0:22:59.72,ED-CH,,0,0,70,,{\an8\blur5}What’s up
+Dialogue: 1,0:22:59.72,0:23:02.56,ED-CH,,0,0,70,,{\an8\blur5}Live 結束之後  電車的車窗
+Dialogue: 1,0:23:02.56,0:23:05.45,ED-CH,,0,0,56,,{\an8\blur5}浮現出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 1,0:23:05.45,0:23:08.56,ED-CH,,0,0,70,,{\an8\blur5}如今  我不想回首過去
+Dialogue: 1,0:23:08.56,0:23:11.37,ED-CH,,0,0,70,,{\an8\blur5}但我更不想就此忘卻
+Dialogue: 1,0:23:11.37,0:23:14.32,ED-CH,,0,0,56,,{\an8\blur5\fnToppan Bunkyu Gothic Regular\fs54}Live{\r\blur5} 结束之后 电车的车窗
+Dialogue: 1,0:23:14.32,0:23:17.42,ED-CH,,0,0,56,,{\an8\blur5}浮現出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 1,0:23:17.42,0:23:20.26,ED-CH,,0,0,70,,{\an8\blur5}如今  我不想回首過去
+Dialogue: 1,0:23:20.26,0:23:22.90,ED-CH,,0,0,70,,{\an8\blur5}但我更不想就此忘卻
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

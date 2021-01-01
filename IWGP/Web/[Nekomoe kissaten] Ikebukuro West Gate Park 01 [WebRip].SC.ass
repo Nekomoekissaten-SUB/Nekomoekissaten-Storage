@@ -16,13 +16,15 @@ Style: OP-JP,FOT-KafuTechno Std U,52,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000
 Style: OP-CHS,AR XinYiGB UL,41,&H008B0C28,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,0,0,10,1
 Style: OP-CHT,文鼎新藝體U,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,10,1
 Style: Screen,HYQiHei-65S,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: ED-JP,Toppan Bunkyu Gothic Regular,54,&H00FFFFFF,&H000000FF,&H14212121,&H00000000,0,0,0,0,90,100,0,0,1,1,0,2,14,14,10,128
+Style: ED-CH,HYQiHei-40S,40,&H00FFFFFF,&H000000FF,&H14212121,&H16212121,0,0,0,0,90,100,1,0,1,1,0,8,14,14,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
 Dialogue: 0,0:00:02.06,0:00:06.24,Staff,,0,0,0,,{\fad(300,0)\blur5}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译：四葉氷鋒  番茄鸡  小盒子　校对：小风yusa　后期：MIR　繁化：雲棋
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
-Dialogue: 0,0:00:04.15,0:00:05.86,Default,,0,0,0,,池袋万岁
+Dialogue: 0,0:00:04.15,0:00:05.86,Default,,0,0,0,,池袋是最棒的
 Dialogue: 0,0:00:09.03,0:00:11.49,Default,,0,0,0,,位于东京西北部的巨大街区
 Dialogue: 0,0:00:12.37,0:00:16.29,Default,,0,0,0,,林立的高楼之下 人群熙熙攘攘
 Dialogue: 0,0:00:16.58,0:00:18.46,Default,,0,0,0,,今天也是和平的一天
@@ -171,7 +173,7 @@ Dialogue: 0,0:13:12.98,0:13:14.94,Default,,0,0,0,,我懂的 会注意的
 Dialogue: 0,0:13:20.36,0:13:21.49,Default,,0,0,0,,我说你啊
 Dialogue: 0,0:13:22.11,0:13:23.62,Default,,0,0,0,,你给我回家啊
 Dialogue: 0,0:13:23.74,0:13:26.49,Default,,0,0,0,,礼哥不是说了不要做出危险举动吗
-Dialogue: 0,0:13:26.54,0:13:30.12,Default,,0,0,0,,不要 我要看看是什么人弄伤了我妈妈
+Dialogue: 0,0:13:26.54,0:13:30.12,Default,,0,0,0,,不 我要看看害我妈妈受伤的是什么人
 Dialogue: 0,0:13:30.58,0:13:32.17,Default,,0,0,0,,我绝对要跟你去
 Dialogue: 0,0:14:04.07,0:14:05.57,Default,,0,0,0,,这就是新品吗
 Dialogue: 0,0:14:05.70,0:14:07.58,Default,,0,0,0,,没错 才进的货
@@ -222,7 +224,7 @@ Dialogue: 0,0:16:42.31,0:16:45.11,Default,,0,0,0,,他想要和同伴去偷窥女
 Dialogue: 0,0:16:45.11,0:16:46.86,Default,,0,0,0,,这种事就别提了
 Dialogue: 0,0:16:47.32,0:16:50.36,Default,,0,0,0,,真是的 所以我才不想见到你
 Dialogue: 0,0:16:50.86,0:16:53.99,Default,,0,0,0,,不过 现在已经是个出色的勤劳青年了
-Dialogue: 0,0:16:56.58,0:16:58.83,Default,,0,0,0,,你母亲的事情真是让人难过
+Dialogue: 0,0:16:56.58,0:16:58.83,Default,,0,0,0,,你母亲的事让人很难过
 Dialogue: 0,0:16:59.62,0:17:03.00,Default,,0,0,0,,很早之前大叔我就想搞掉那个店铺
 Dialogue: 0,0:17:03.50,0:17:06.63,Default,,0,0,0,,所以 偶尔也会像这样过来看看情况
 Dialogue: 0,0:17:06.96,0:17:08.97,Default,,0,0,0,,即使警察没办法动手
@@ -330,6 +332,7 @@ Dialogue: 0,0:13:42.63,0:13:44.14,Screen,,0,0,0,,{\fnSTZhongsong\bord2\3c&H8B8F9
 Dialogue: 0,0:13:42.63,0:13:44.14,Screen,,0,0,0,,{\fnSTZhongsong\bord2\3c&H8B8F92&\fs35\fax-0.15\pos(576,477)\frz3.733}薄荷屋
 Dialogue: 0,0:13:57.90,0:13:59.65,Screen,,0,0,0,,{\an8}龙蒿             迷迭香             四季葱
 Dialogue: 0,0:13:59.65,0:14:01.53,Screen,,0,0,0,,{\an8}芳香炷
+Dialogue: 0,0:16:20.04,0:16:23.05,Title,,0,0,0,,{\bord0\c&HFFFFFF&\fs50\pos(920,312)}北口烟塔
 Dialogue: 0,0:17:53.43,0:17:58.43,Screen,,0,0,0,,{\an8\fs40\pos(640,42)}池袋北口烟塔老板，香草界的新星
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
 Dialogue: 0,0:03:30.10,0:03:36.93,OP-JP,,0,0,0,,{\clip(0,668,1280,670)\pos(640,710)\c&H8B0C28&}さかしらにきどりな　わめきちらしたら　ちぎれそう
@@ -841,4 +844,55 @@ Dialogue: 0,0:04:48.35,0:04:51.23,OP-CHS,,0,0,0,,{\clip(0,40,1280,42)\pos(640,1)
 Dialogue: 0,0:04:48.35,0:04:51.23,OP-CHS,,0,0,0,,{\clip(0,42,1280,44)\pos(640,1)\c&H880D31&}但是没一个地方像{\fnFOT-KafuTechno Std U\fs52\c&H880D31&}Needleknot
 Dialogue: 0,0:04:48.35,0:04:51.23,OP-CHS,,0,0,0,,{\clip(0,44,1280,46)\pos(640,1)\c&H8A0C2A&}但是没一个地方像{\fnFOT-KafuTechno Std U\fs52\c&H8A0C2A&}Needleknot
 Dialogue: 0,0:04:48.35,0:04:51.23,OP-CHS,,0,0,0,,{\clip(0,46,1280,48)\pos(640,1)\c&H8B0C28&}但是没一个地方像{\fnFOT-KafuTechno Std U\fs52\c&H8B0C28&}Needleknot
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:09.62,0:22:10.45,ED-JP,,0,0,0,,{\an8\blur5}What’s up
+Dialogue: 0,0:22:10.45,0:22:13.58,ED-JP,,0,0,0,,{\an8\blur5}予定があるやつから消えていく世界
+Dialogue: 0,0:22:13.58,0:22:16.28,ED-JP,,0,0,0,,{\an8\blur5}だなんて不意に思った朝帰り
+Dialogue: 0,0:22:16.28,0:22:19.12,ED-JP,,0,0,0,,{\an8\blur5}堅気の連中とは、溝ができていって
+Dialogue: 0,0:22:19.12,0:22:22.84,ED-JP,,0,0,0,,{\an8\blur5}びびって握ってた MIC
+Dialogue: 0,0:22:22.84,0:22:24.96,ED-JP,,0,0,0,,{\an8\blur5}Stage に置いていって
+Dialogue: 0,0:22:24.96,0:22:27.90,ED-JP,,0,0,0,,{\an8\blur5}次の一手を信用できずに
+Dialogue: 0,0:22:27.90,0:22:30.98,ED-JP,,0,0,0,,{\an8\blur5}お前は夢の舞台から降りていって
+Dialogue: 0,0:22:30.98,0:22:33.82,ED-JP,,0,0,0,,{\an8\blur5}現場の喧騒から消えていって
+Dialogue: 0,0:22:33.82,0:22:36.58,ED-JP,,0,0,0,,{\an8\blur5}知っているか　あいつのその後を
+Dialogue: 0,0:22:36.58,0:22:39.61,ED-JP,,0,0,0,,{\an8\blur5}っていうか、てめぇにあるのか知る覚悟
+Dialogue: 0,0:22:39.61,0:22:42.53,ED-JP,,0,0,0,,{\an8\blur5}関わったからには、見届けたい
+Dialogue: 0,0:22:42.53,0:22:45.17,ED-JP,,0,0,0,,{\an8\blur5}お前が選んだ滑走路
+Dialogue: 0,0:22:45.17,0:22:48.49,ED-JP,,0,0,0,,{\an8\blur5}また今日も明日もこの地球の上
+Dialogue: 0,0:22:49.17,0:22:52.67,ED-JP,,0,0,0,,{\an8\blur5}どこかで偶然、逢ったのなら
+Dialogue: 0,0:22:52.85,0:22:57.34,ED-JP,,0,0,0,,{\an8\blur5}あのときみたいに Freestyle でもして遊ぼうよ
+Dialogue: 0,0:22:59.42,0:23:00.20,ED-JP,,0,0,0,,{\an8\blur5}What’s up
+Dialogue: 0,0:23:00.20,0:23:03.04,ED-JP,,0,0,0,,{\an8\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:03.04,0:23:05.93,ED-JP,,0,0,0,,{\an8\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:05.93,0:23:09.04,ED-JP,,0,0,0,,{\an8\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:09.04,0:23:11.85,ED-JP,,0,0,0,,{\an8\blur5}忘れる気は、毛頭ねぇわ
+Dialogue: 0,0:23:11.85,0:23:14.80,ED-JP,,0,0,0,,{\an8\blur5}Live の後　電車の窓
+Dialogue: 0,0:23:14.80,0:23:17.90,ED-JP,,0,0,0,,{\an8\blur5}不意に浮かんだ Brother の顔
+Dialogue: 0,0:23:17.90,0:23:20.74,ED-JP,,0,0,0,,{\an8\blur5}今は、過去を振り返る気はねぇが
+Dialogue: 0,0:23:20.74,0:23:23.38,ED-JP,,0,0,0,,{\an8\blur5}忘れる気は、毛頭ねぇわ
+Comment: 1,0:22:09.62,0:22:10.45,ED-CH,,0,0,70,,{\an8\blur5}What’s up
+Dialogue: 1,0:22:10.45,0:22:13.58,ED-CH,,0,0,70,,{\an8\blur5}按部就班的家伙们接连消失
+Dialogue: 1,0:22:13.58,0:22:16.28,ED-CH,,0,0,70,,{\an8\blur5}早上回家的我如是突发奇想
+Dialogue: 1,0:22:16.28,0:22:19.12,ED-CH,,0,0,70,,{\an8\blur5}和那些老实人划清了界限
+Dialogue: 1,0:22:19.12,0:22:22.84,ED-CH,,0,0,56,,{\an8\blur5}颤抖的手中握着的 {\fnToppan Bunkyu Gothic Regular\fs54}MIC
+Dialogue: 1,0:22:22.84,0:22:24.96,ED-CH,,0,0,70,,{\an8\blur5}只能轻轻放在舞台上
+Dialogue: 1,0:22:24.96,0:22:27.90,ED-CH,,0,0,70,,{\an8\blur5}无法相信自己的下一步决定
+Dialogue: 1,0:22:27.90,0:22:30.98,ED-CH,,0,0,70,,{\an8\blur5}你只好走下了舞台
+Dialogue: 1,0:22:30.98,0:22:33.82,ED-CH,,0,0,70,,{\an8\blur5}消失在现场的喧嚣中
+Dialogue: 1,0:22:33.82,0:22:36.58,ED-CH,,0,0,70,,{\an8\blur5}你知道他之后怎么样了吗
+Dialogue: 1,0:22:36.58,0:22:39.61,ED-CH,,0,0,70,,{\an8\blur5}话说  你有这觉悟去了解吗
+Dialogue: 1,0:22:39.61,0:22:42.53,ED-CH,,0,0,70,,{\an8\blur5}事已至此  只能见证最后一刻
+Dialogue: 1,0:22:42.53,0:22:45.17,ED-CH,,0,0,70,,{\an8\blur5}见证你所选择的道路
+Dialogue: 1,0:22:45.17,0:22:48.49,ED-CH,,0,0,70,,{\an8\blur5}如果今天明天在这地球上
+Dialogue: 1,0:22:49.17,0:22:52.67,ED-CH,,0,0,70,,{\an8\blur5}我们偶然在某处重逢
+Dialogue: 1,0:22:52.85,0:22:57.34,ED-CH,,0,0,56,,{\an8\blur5}那就像那时一样一起 {\fnToppan Bunkyu Gothic Regular\fs54}Freestyle{\r\blur5} 吧
+Comment: 1,0:22:59.42,0:23:00.20,ED-CH,,0,0,70,,{\an8\blur5}What’s up
+Dialogue: 1,0:23:00.20,0:23:03.04,ED-CH,,0,0,70,,{\an8\blur5}Live 结束之后  电车的车窗
+Dialogue: 1,0:23:03.04,0:23:05.93,ED-CH,,0,0,56,,{\an8\blur5}浮现出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 1,0:23:05.93,0:23:09.04,ED-CH,,0,0,70,,{\an8\blur5}如今  我不想回首过去
+Dialogue: 1,0:23:09.04,0:23:11.85,ED-CH,,0,0,70,,{\an8\blur5}但我更不想就此忘却
+Dialogue: 1,0:23:11.85,0:23:14.80,ED-CH,,0,0,56,,{\an8\blur5\fnToppan Bunkyu Gothic Regular\fs54}Live{\r\blur5} 结束之后 电车的车窗
+Dialogue: 1,0:23:14.80,0:23:17.90,ED-CH,,0,0,56,,{\an8\blur5}浮现出的是 {\fnToppan Bunkyu Gothic Regular\fs54}Brother{\r\blur5} 的脸庞
+Dialogue: 1,0:23:17.90,0:23:20.74,ED-CH,,0,0,70,,{\an8\blur5}如今  我不想回首过去
+Dialogue: 1,0:23:20.74,0:23:23.38,ED-CH,,0,0,70,,{\an8\blur5}但我更不想就此忘却
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
