@@ -26,7 +26,7 @@ Style: ED-CHT,華康愛情體Std W5,40,&H00FFFFFF,&H000000FF,&H00507FAB,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
-Dialogue: 0,0:00:02.06,0:00:06.24,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译：花落  Ronny  雨后飘雪　校对：緒実　后期：MIR　繁化：雨林　顾问：601
+Dialogue: 0,0:00:02.06,0:00:06.24,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译：花落  Ronny  雨后飘雪　校对：緒実  時の指輪　后期：MIR　繁化：雨林　顾问：601
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
 Dialogue: 0,0:00:26.25,0:00:31.12,Default,,0,0,0,,克劳狄娅 等哪天你也去一次日本吧
 Dialogue: 0,0:00:31.98,0:00:33.69,Default,,0,0,0,,去日本吗？
