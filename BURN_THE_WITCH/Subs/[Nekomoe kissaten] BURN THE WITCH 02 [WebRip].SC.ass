@@ -320,7 +320,7 @@ Dialogue: 0,0:20:52.78,0:20:56.14,Default,,0,0,0,,最后的告别结束了没
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
 Dialogue: 0,0:21:12.89,0:21:15.39,ED-JP,,0,0,0,,{\fad(200,200)\blur3}I stay this way again
 Dialogue: 0,0:21:15.68,0:21:18.14,ED-JP,,0,0,0,,{\fad(200,200)\blur3}明滅を繰り返し
-Dialogue: 0,0:21:18.48,0:21:21.01,ED-JP,,0,0,0,,{\fad(200,200)\blur3}合わせられない In step
+Dialogue: 0,0:21:18.48,0:21:21.01,ED-JP,,0,0,0,,{\fad(200,200)\blur3}合わせられない in step
 Dialogue: 0,0:21:21.14,0:21:23.97,ED-JP,,0,0,0,,{\fad(200,200)\blur3}Second hand of clock is slowly
 Dialogue: 0,0:21:24.17,0:21:26.46,ED-JP,,0,0,0,,{\fad(200,200)\blur3}How much longer? Hurry
 Dialogue: 0,0:21:26.85,0:21:29.30,ED-JP,,0,0,0,,{\fad(200,200)\blur3}風の通り道まで
@@ -329,12 +329,12 @@ Dialogue: 0,0:21:32.59,0:21:35.29,ED-JP,,0,0,0,,{\fad(200,200)\blur3}It is not l
 Dialogue: 0,0:21:35.81,0:21:41.15,ED-JP,,0,0,0,,{\fad(200,200)\blur3}Twilight of tonight
 Dialogue: 0,0:21:41.50,0:21:46.67,ED-JP,,0,0,0,,{\fad(200,200)\blur3}From here on out
 Dialogue: 0,0:21:46.84,0:21:48.01,ED-JP,,0,0,0,,{\fad(200,200)\blur3}I’m coming
-Dialogue: 0,0:21:48.26,0:21:52.24,ED-JP,,0,0,0,,{\fad(200,200)\blur3}Resonated with winds
+Dialogue: 0,0:21:48.26,0:21:52.24,ED-JP,,0,0,0,,{\fad(200,200)\blur3}resonated with winds
 Dialogue: 0,0:21:52.50,0:21:53.63,ED-JP,,0,0,0,,{\fad(200,200)\blur3}I miss you
 Dialogue: 0,0:21:53.89,0:21:57.86,ED-JP,,0,0,0,,{\fad(200,200)\blur3}この手でBright
 Dialogue: 0,0:21:58.19,0:21:59.23,ED-JP,,0,0,0,,{\fad(200,200)\blur3}I’m coming
 Dialogue: 0,0:21:59.59,0:22:03.43,ED-JP,,0,0,0,,{\fad(200,200)\blur3}other side of the world
-Dialogue: 0,0:22:03.90,0:22:06.33,ED-JP,,0,0,0,,{\fad(200,200)\blur3}何処だって行ける
+Dialogue: 0,0:22:03.90,0:22:06.33,ED-JP,,0,0,0,,{\fad(200,200)\blur3}どこだって行ける
 Dialogue: 0,0:22:06.64,0:22:11.34,ED-JP,,0,0,0,,{\fad(200,200)\blur3}いつの日もFly
 Comment: 0,0:21:12.89,0:21:15.39,ED-CH,,0,0,0,,{\fad(200,200)\blur3}I stay this way again
 Dialogue: 0,0:21:15.68,0:21:18.14,ED-CH,,0,0,0,,{\fad(200,200)\blur3}明灭轮回
@@ -347,7 +347,7 @@ Comment: 0,0:21:32.59,0:21:35.29,ED-CH,,0,0,0,,{\fad(200,200)\blur3}It is not li
 Comment: 0,0:21:35.81,0:21:41.15,ED-CH,,0,0,0,,{\fad(200,200)\blur3}Twilight of tonight
 Comment: 0,0:21:41.50,0:21:46.67,ED-CH,,0,0,0,,{\fad(200,200)\blur3}From here on out
 Comment: 0,0:21:46.84,0:21:48.01,ED-CH,,0,0,0,,{\fad(200,200)\blur3}I’m coming
-Comment: 0,0:21:48.26,0:21:52.24,ED-CH,,0,0,0,,{\fad(200,200)\blur3}Resonated with winds
+Comment: 0,0:21:48.26,0:21:52.24,ED-CH,,0,0,0,,{\fad(200,200)\blur3}resonated with winds
 Comment: 0,0:21:52.50,0:21:53.63,ED-CH,,0,0,0,,{\fad(200,200)\blur3}I miss you
 Dialogue: 0,0:21:53.89,0:21:57.86,ED-CH,,0,0,0,,{\fad(200,200)\blur3}在掌中闪烁
 Comment: 0,0:21:58.19,0:21:59.23,ED-CH,,0,0,0,,{\fad(200,200)\blur3}I’m coming
