@@ -1,0 +1,83 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 15 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Scroll Position: 3
+Active Line: 20
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.60,0:00:03.75,Default,,0,0,0,,4月1日是狗狗的生日
+Dialogue: 0,0:00:03.75,0:00:07.99,Default,,0,0,0,,狗狗生日快樂 狗狗生日快樂
+Dialogue: 0,0:00:08.59,0:00:10.65,Default,,0,0,0,,這次的生日禮物很棒的喔
+Dialogue: 0,0:00:09.54,0:00:11.72,Default,,0,0,0,,{\an8}是什麼 是什麼 要送我什麼
+Dialogue: 0,0:00:11.72,0:00:13.54,Default,,0,0,0,,看 怎麼樣
+Dialogue: 0,0:00:11.95,0:00:13.70,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs50\pos(544,281)}塑膠骨頭
+Dialogue: 0,0:00:12.20,0:00:13.70,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs50\pos(245,663)}內部裝填氣味揮發蠟
+Dialogue: 0,0:00:12.45,0:00:13.70,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs50\pos(1065,510)}可無限產生氣味
+Dialogue: 0,0:00:12.70,0:00:13.70,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs50\pos(1079,665)}感覺好強
+Dialogue: 0,0:00:13.99,0:00:15.74,Default,,0,0,0,,呃…
+Dialogue: 0,0:00:15.74,0:00:17.26,Default,,0,0,0,,貓奴狗奴的日常
+Dialogue: 0,0:00:17.87,0:00:19.85,Default,,0,0,0,,對禮物太講究反而搞砸了
+Dialogue: 0,0:00:20.20,0:00:22.14,Default,,0,0,0,,狗狗對生日的感想
+Dialogue: 0,0:00:22.14,0:00:23.86,Default,,0,0,0,,唱歌很好玩
+Dialogue: 0,0:00:24.04,0:00:26.18,Default,,0,0,0,,3月1日是貓貓的生日
+Dialogue: 0,0:00:26.33,0:00:28.61,Default,,0,0,0,,小貓貓 給妳的禮物是
+Dialogue: 0,0:00:28.61,0:00:30.41,Default,,0,0,0,,高級零食
+Dialogue: 0,0:00:30.41,0:00:31.39,Default,,0,0,0,,不錯
+Dialogue: 0,0:00:31.39,0:00:32.88,Default,,0,0,0,,{\an8}我也要 我也要
+Dialogue: 0,0:00:31.39,0:00:32.05,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(164,73)\frz2.286}我也要
+Dialogue: 0,0:00:32.05,0:00:32.80,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(414,439)\frz7.469}我也要
+Dialogue: 0,0:00:32.05,0:00:32.80,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(690,235)\frz343.6}我也要
+Dialogue: 0,0:00:32.80,0:00:33.39,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\frz23.23\pos(224,96)}我也要
+Dialogue: 0,0:00:31.64,0:00:33.51,Default,,0,0,0,,不行不行 那是給貓貓的
+Dialogue: 0,0:00:33.51,0:00:35.97,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs35\frz15.22\pos(1148,306)}普通的牛肉條
+Dialogue: 0,0:00:35.56,0:00:35.97,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(1196,702)}我也要
+Dialogue: 0,0:00:35.56,0:00:35.97,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(613,382)\frz32.27}我也要…
+Dialogue: 0,0:00:35.10,0:00:35.97,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(322,676)}吃得很慢
+Dialogue: 0,0:00:34.16,0:00:36.02,Default,,0,0,0,,我是不會催你快點吃的
+Dialogue: 0,0:00:36.02,0:00:38.36,Default,,0,0,0,,{\an8}我也要 我也要 我也要
+Dialogue: 0,0:00:36.10,0:00:39.27,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs50\frz20.11\pos(693,585)}我也要
+Dialogue: 0,0:00:36.10,0:00:39.27,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(1056,533)\frz343.2}我也要…
+Dialogue: 0,0:00:36.10,0:00:39.27,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs45\pos(203,105)}細嚼慢嚥…
+Dialogue: 0,0:00:36.98,0:00:39.48,Default,,0,0,0,,別在意我 慢慢吃
+Dialogue: 0,0:00:40.80,0:00:42.16,Default,,0,0,0,,好…好吃嗎
+Dialogue: 0,0:00:42.43,0:00:44.12,Default,,0,0,0,,貓貓對生日的感想
+Dialogue: 0,0:00:44.46,0:00:45.60,Default,,0,0,0,,吵死了
+Dialogue: 0,0:00:45.77,0:00:46.64,Default,,0,0,0,,對不起
+Dialogue: 0,0:00:48.47,0:00:49.43,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:48.40,0:00:49.40,Screen,,0,0,0,,{\frz15.76\c&H171723&\fs40\pos(384,471)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:49.43,0:00:51.34,Default,,0,0,0,,給狗狗買了個玩具
+Dialogue: 0,0:00:49.90,0:00:51.41,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\pos(1106,117)\fs60}彈性十足
+Dialogue: 0,0:00:50.41,0:00:51.41,Screen,,0,0,0,,{\c&H000000&\bord3\3c&HFFFFFF&\b1\fs60\pos(318,585)}還帶凸起
+Dialogue: 0,0:00:51.34,0:00:51.99,Default,,0,0,0,,給
+Dialogue: 0,0:00:51.99,0:00:52.62,Default,,0,0,0,,是給我的嗎
+Dialogue: 0,0:00:52.62,0:00:53.08,Default,,0,0,0,,真要給我嗎
+Dialogue: 0,0:00:53.08,0:00:54.37,Default,,0,0,0,,這是什麼呀 這是什麼呀
+Dialogue: 0,0:00:55.03,0:00:56.88,Default,,0,0,0,,嘴巴裡好好玩
+Dialogue: 0,0:00:58.04,0:00:59.24,Default,,0,0,0,,跳起來了
+Dialogue: 0,0:00:59.24,0:01:00.04,Default,,0,0,0,,哇喔
+Dialogue: 0,0:01:00.04,0:01:01.35,Default,,0,0,0,,真是愚蠢
+Dialogue: 0,0:01:01.35,0:01:02.70,Default,,0,0,0,,也給貓貓買了喔
+Dialogue: 0,0:01:03.30,0:01:04.55,Default,,0,0,0,,哼 無聊
+Dialogue: 0,0:01:08.49,0:01:09.24,Default,,0,0,0,,貓貓
+Dialogue: 0,0:01:09.36,0:01:11.49,Default,,0,0,0,,假裝成路過玩玩具
+Dialogue: 0,0:01:11.49,0:01:13.70,Default,,0,0,0,,其實心裡超喜歡
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
