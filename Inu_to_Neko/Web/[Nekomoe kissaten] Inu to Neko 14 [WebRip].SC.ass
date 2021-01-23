@@ -1,0 +1,61 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 14 [WebRip].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:01.72,0:00:03.00,Default,,0,0,0,,时隔三日回家
+Dialogue: 0,0:00:03.21,0:00:04.28,Default,,0,0,0,,我回来了
+Dialogue: 0,0:00:04.69,0:00:07.49,Screen,,0,0,0,,{\an9\c&H000000&\3c&HFFFFFF&\bord2}嘶~~ 嘶~~
+Dialogue: 0,0:00:07.68,0:00:09.11,Default,,0,0,0,,欢迎回家
+Dialogue: 0,0:00:09.27,0:00:10.31,Default,,0,0,0,,{\an8}好开心 好开心
+Dialogue: 0,0:00:10.31,0:00:10.86,Default,,0,0,0,,{\an8}好开心
+Dialogue: 0,0:00:10.86,0:00:11.78,Default,,0,0,0,,{\an8}好开心
+Dialogue: 0,0:00:09.35,0:00:10.86,Default,,0,0,0,,知道啦 知道啦
+Dialogue: 0,0:00:10.86,0:00:12.46,Default,,0,0,0,,喂 我都没法走路了
+Dialogue: 0,0:00:12.78,0:00:15.25,Default,,0,0,0,,狗狗用它的全身表达喜悦之情
+Dialogue: 0,0:00:15.43,0:00:18.64,Default,,0,0,0,,仿佛要补齐之前缺失的疼爱一般黏着你不放
+Dialogue: 0,0:00:17.35,0:00:19.01,Default,,0,0,0,,{\an8}让我去洗个手吧
+Dialogue: 0,0:00:19.19,0:00:20.85,Default,,0,0,0,,猫猫 我回来啦
+Dialogue: 0,0:00:22.14,0:00:23.21,Default,,0,0,0,,我回来啦
+Dialogue: 0,0:00:23.62,0:00:24.81,Default,,0,0,0,,我回来啦
+Dialogue: 0,0:00:25.06,0:00:25.91,Default,,0,0,0,,我回来啦
+Dialogue: 0,0:00:26.95,0:00:28.22,Default,,0,0,0,,在你身后
+Dialogue: 0,0:00:28.56,0:00:29.89,Default,,0,0,0,,看起来蛮精神的嘛
+Dialogue: 0,0:00:30.20,0:00:30.63,Default,,0,0,0,,猫猫
+Dialogue: 0,0:00:30.80,0:00:32.74,Default,,0,0,0,,悄无声息地确认你的到来后 离去
+Dialogue: 0,0:00:34.56,0:00:35.46,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:34.47,0:00:35.47,Screen,,0,0,0,,{\fs35\frz15.76\c&H171723&\pos(965,459)}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:35.72,0:00:37.13,Default,,0,0,0,,时隔一周回家
+Dialogue: 0,0:00:37.30,0:00:38.29,Default,,0,0,0,,我回来了
+Dialogue: 0,0:00:38.64,0:00:41.60,Screen,,0,0,0,,{\an9\c&H000000&\3c&HFFFFFF&\bord2}嘶~~ 嘶~~
+Dialogue: 0,0:00:41.73,0:00:43.11,Default,,0,0,0,,欢迎回家
+Dialogue: 0,0:00:44.02,0:00:45.69,Default,,0,0,0,,哇哦 猫猫也来了
+Dialogue: 0,0:00:49.29,0:00:51.24,Default,,0,0,0,,什么嘛 原来是去磨爪子啊
+Dialogue: 0,0:00:52.48,0:00:53.38,Default,,0,0,0,,妈妈
+Dialogue: 0,0:00:53.60,0:00:55.64,Default,,0,0,0,,被…被我给看到了
+Dialogue: 0,0:00:56.10,0:00:59.46,Default,,0,0,0,,就在你回来前不久 猫猫从被窝里爬出来
+Dialogue: 0,0:01:00.04,0:01:02.21,Default,,0,0,0,,在门口焦急等待
+Dialogue: 0,0:01:02.63,0:01:04.24,Default,,0,0,0,,在你开门的一瞬躲了起来
+Dialogue: 0,0:01:04.55,0:01:06.85,Default,,0,0,0,,然后一脸淡定地走了出来
+Dialogue: 0,0:01:06.05,0:01:06.71,Default,,0,0,0,,{\an8}哇哦 猫猫也来了
+Dialogue: 0,0:01:06.85,0:01:08.96,Default,,0,0,0,,真是够了 去磨个爪子吧
+Dialogue: 0,0:01:08.96,0:01:10.87,Default,,0,0,0,,猫猫
+Dialogue: 0,0:01:10.87,0:01:12.90,Default,,0,0,0,,这傲娇 过于高次元
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
