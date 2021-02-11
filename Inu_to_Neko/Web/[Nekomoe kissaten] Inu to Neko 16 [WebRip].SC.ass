@@ -1,0 +1,63 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 16 [WebRip].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:01.48,0:00:04.24,Default,,0,0,0,,不知不觉间 咱家的狗狗九岁了
+Dialogue: 0,0:00:04.43,0:00:07.30,Default,,0,0,0,,按人类的年龄算 已经是五十多岁的中老年了
+Dialogue: 0,0:00:08.06,0:00:09.39,Default,,0,0,0,,{\an8}贝贝
+Dialogue: 0,0:00:09.70,0:00:10.74,Screen,,0,0,0,,{\pos(352,653.333)\b1\c&H000000&\3c&HFFFFFF&\bord4}摇摇尾巴 以示回应
+Dialogue: 0,0:00:07.56,0:00:10.74,Default,,0,0,0,,虽说上了年纪的狗狗会变得越来越不乐意活动
+Dialogue: 0,0:00:10.92,0:00:11.84,Default,,0,0,0,,小狗狗
+Dialogue: 0,0:00:13.51,0:00:14.82,Default,,0,0,0,,撕开零食袋
+Dialogue: 0,0:00:14.82,0:00:15.39,Default,,0,0,0,,会给我吗
+Dialogue: 0,0:00:15.56,0:00:16.34,Default,,0,0,0,,会给我吗
+Dialogue: 0,0:00:16.52,0:00:17.14,Default,,0,0,0,,会给我吗
+Dialogue: 0,0:00:17.14,0:00:18.28,Default,,0,0,0,,一定会给我的吧
+Dialogue: 0,0:00:18.40,0:00:20.00,Default,,0,0,0,,不仅现在不会给 今后也不会给的
+Dialogue: 0,0:00:20.11,0:00:22.70,Default,,0,0,0,,目前来看 狗狗没有任何变化
+Dialogue: 0,0:00:23.10,0:00:24.08,Default,,0,0,0,,猫猫也九岁了
+Dialogue: 0,0:00:24.27,0:00:27.07,Default,,0,0,0,,按人类的年龄算也快60岁了
+Dialogue: 0,0:00:27.55,0:00:29.69,Default,,0,0,0,,最近睡觉的时间多了不少
+Dialogue: 0,0:00:29.69,0:00:31.31,Default,,0,0,0,,陪我玩 陪我玩
+Dialogue: 0,0:00:31.31,0:00:34.58,Default,,0,0,0,,不知道能不能像这样平静地老去呢
+Dialogue: 0,0:00:34.58,0:00:35.52,Default,,0,0,0,,伤感
+Dialogue: 0,0:00:35.52,0:00:37.23,Default,,0,0,0,,应该差不多吧
+Dialogue: 0,0:00:40.34,0:00:44.72,Default,,0,0,0,,太好了 一点儿都没变
+Dialogue: 0,0:00:45.30,0:00:46.20,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:45.19,0:00:46.19,Screen,,0,0,0,,{\fs40\frz15.76\c&H171723&\pos(961.333,454.667)}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:46.94,0:00:51.57,Screen,,0,0,0,,{\b1\c&H000000&\3c&HFFFFFF&\bord3\pos(881.333,557.334)}朋友 极其喜欢狗狗
+Dialogue: 0,0:00:46.37,0:00:48.94,Default,,0,0,0,,最近有几个奇怪的宗教人士上门传教
+Dialogue: 0,0:00:48.94,0:00:50.49,Default,,0,0,0,,我让她们进屋里了
+Dialogue: 0,0:00:50.49,0:00:51.78,Default,,0,0,0,,呃 那也太危险了吧
+Dialogue: 0,0:00:51.78,0:00:52.72,Default,,0,0,0,,还给她们上茶了
+Dialogue: 0,0:00:52.72,0:00:53.59,Default,,0,0,0,,上什么茶啊
+Dialogue: 0,0:00:53.73,0:00:54.76,Default,,0,0,0,,跟我讲了一堆神啊什么的
+Dialogue: 0,0:00:54.76,0:00:58.28,Default,,0,0,0,,还说人死后灵魂会踏上旅途之类的
+Dialogue: 0,0:00:58.63,0:01:01.62,Default,,0,0,0,,于是我问她们「狗狗死后会怎样」
+Dialogue: 0,0:01:02.04,0:01:03.92,Default,,0,0,0,,狗狗是畜生 灵魂会消失
+Dialogue: 0,0:01:03.92,0:01:05.17,Default,,0,0,0,,滚出去
+Dialogue: 0,0:01:05.17,0:01:06.85,Default,,0,0,0,,我一边飙着泪一边把她们给轰了出去
+Dialogue: 0,0:01:06.85,0:01:08.40,Default,,0,0,0,,对方应该也吓得不轻吧
+Dialogue: 0,0:01:08.40,0:01:09.50,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:01:08.42,0:01:09.42,Screen,,0,0,0,,{\fs40\frz15.76\c&H171723&\pos(424,450.667)}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:01:09.50,0:01:10.15,Default,,0,0,0,,夏天
+Dialogue: 0,0:01:09.42,0:01:11.01,Screen,,0,0,0,,{\fsp0\fax-0.5\pos(869.333,682.666)\frx6\fry358\frz358.5}黄豆面
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

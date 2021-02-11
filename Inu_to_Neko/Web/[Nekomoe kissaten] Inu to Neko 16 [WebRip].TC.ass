@@ -1,0 +1,67 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 16 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Scroll Position: 24
+Active Line: 44
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.48,0:00:04.24,Default,,0,0,0,,不知不覺間 我家的狗狗九歲了
+Dialogue: 0,0:00:04.43,0:00:07.30,Default,,0,0,0,,按人類的年齡算 已經是五十多歲的中老年了
+Dialogue: 0,0:00:08.06,0:00:09.39,Default,,0,0,0,,{\an8}貝貝
+Dialogue: 0,0:00:09.70,0:00:10.74,Screen,,0,0,0,,{\pos(352,653.333)\b1\c&H000000&\3c&HFFFFFF&\bord4}搖搖尾巴 以示回應
+Dialogue: 0,0:00:07.56,0:00:10.74,Default,,0,0,0,,雖說上了年紀的狗狗會變得越來越不樂意活動
+Dialogue: 0,0:00:10.92,0:00:11.84,Default,,0,0,0,,小狗狗
+Dialogue: 0,0:00:13.51,0:00:14.82,Default,,0,0,0,,撕開零食袋
+Dialogue: 0,0:00:14.82,0:00:15.39,Default,,0,0,0,,會給我嗎
+Dialogue: 0,0:00:15.56,0:00:16.34,Default,,0,0,0,,會給我嗎
+Dialogue: 0,0:00:16.52,0:00:17.14,Default,,0,0,0,,會給我嗎
+Dialogue: 0,0:00:17.14,0:00:18.28,Default,,0,0,0,,一定會給我的吧
+Dialogue: 0,0:00:18.40,0:00:20.00,Default,,0,0,0,,不僅現在不會給 今後也不會給的
+Dialogue: 0,0:00:20.11,0:00:22.70,Default,,0,0,0,,目前來看 狗狗沒有任何變化
+Dialogue: 0,0:00:23.10,0:00:24.08,Default,,0,0,0,,貓貓也九歲了
+Dialogue: 0,0:00:24.27,0:00:27.07,Default,,0,0,0,,按人類的年齡算也快六十歲了
+Dialogue: 0,0:00:27.55,0:00:29.69,Default,,0,0,0,,最近睡覺的時間多了不少
+Dialogue: 0,0:00:29.69,0:00:31.31,Default,,0,0,0,,陪我玩 陪我玩
+Dialogue: 0,0:00:31.31,0:00:34.58,Default,,0,0,0,,不知道能不能像這樣平靜地老去呢
+Dialogue: 0,0:00:34.58,0:00:35.52,Default,,0,0,0,,傷感
+Dialogue: 0,0:00:35.52,0:00:37.23,Default,,0,0,0,,應該差不多吧
+Dialogue: 0,0:00:40.34,0:00:44.72,Default,,0,0,0,,太好了 一點都沒變
+Dialogue: 0,0:00:45.30,0:00:46.20,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:45.19,0:00:46.19,Screen,,0,0,0,,{\fs40\frz15.76\c&H171723&\pos(961.333,454.667)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:46.94,0:00:51.57,Screen,,0,0,0,,{\b1\c&H000000&\3c&HFFFFFF&\bord3\pos(881.333,557.334)}朋友 極其喜歡狗狗
+Dialogue: 0,0:00:46.37,0:00:48.94,Default,,0,0,0,,最近有幾個奇怪的宗教人士上門傳教
+Dialogue: 0,0:00:48.94,0:00:50.49,Default,,0,0,0,,我讓她們進屋裡了
+Dialogue: 0,0:00:50.49,0:00:51.78,Default,,0,0,0,,呃 那也太危險了吧
+Dialogue: 0,0:00:51.78,0:00:52.72,Default,,0,0,0,,還給她們上茶了
+Dialogue: 0,0:00:52.72,0:00:53.59,Default,,0,0,0,,上什麼茶啊
+Dialogue: 0,0:00:53.73,0:00:54.76,Default,,0,0,0,,跟我講了一堆神啊什麼的
+Dialogue: 0,0:00:54.76,0:00:58.28,Default,,0,0,0,,還說人死後靈魂會踏上旅途之類的
+Dialogue: 0,0:00:58.63,0:01:01.62,Default,,0,0,0,,於是我問她們「狗狗死後會怎樣」
+Dialogue: 0,0:01:02.04,0:01:03.92,Default,,0,0,0,,狗狗是畜生 靈魂會消失
+Dialogue: 0,0:01:03.92,0:01:05.17,Default,,0,0,0,,滾出去
+Dialogue: 0,0:01:05.17,0:01:06.85,Default,,0,0,0,,我一邊飆著淚一邊把她們給轟了出去
+Dialogue: 0,0:01:06.85,0:01:08.40,Default,,0,0,0,,對方應該也嚇得不輕吧
+Dialogue: 0,0:01:08.40,0:01:09.50,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:01:08.42,0:01:09.42,Screen,,0,0,0,,{\fs40\frz15.76\c&H171723&\pos(424,450.667)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:01:09.50,0:01:10.15,Default,,0,0,0,,夏天
+Dialogue: 0,0:01:09.42,0:01:11.01,Screen,,0,0,0,,{\fsp0\fax-0.5\pos(869.333,682.666)\frx6\fry358\frz358.5}黃豆麵
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
