@@ -1,0 +1,69 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 18 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.48,0:00:02.28,Default,,0,0,0,,狗狗
+Dialogue: 0,0:00:02.55,0:00:04.09,Default,,0,0,0,,來吃零食吧
+Dialogue: 0,0:00:04.09,0:00:05.69,Default,,0,0,0,,這零食看起來好好吃
+Dialogue: 0,0:00:04.36,0:00:04.86,Screen,,0,0,0,,{\bord2\c&H000000&\3c&HFFFFFF&\b1\fs60\pos(1051,452)}給我
+Dialogue: 0,0:00:05.61,0:00:06.11,Screen,,0,0,0,,{\bord2\c&H000000&\3c&HFFFFFF&\b1\fs60\frz17.6\pos(937,446)}給我
+Dialogue: 0,0:00:05.69,0:00:07.62,Default,,0,0,0,,要不我吃了吧
+Dialogue: 0,0:00:07.62,0:00:08.26,Default,,0,0,0,,啊 啊
+Dialogue: 0,0:00:08.26,0:00:09.27,Default,,0,0,0,,那個 我…
+Dialogue: 0,0:00:09.46,0:00:10.78,Default,,0,0,0,,我會坐下
+Dialogue: 0,0:00:11.07,0:00:11.91,Default,,0,0,0,,好孩子
+Dialogue: 0,0:00:11.91,0:00:13.40,Default,,0,0,0,,不生氣也不鬧彆扭
+Dialogue: 0,0:00:13.50,0:00:16.40,Default,,0,0,0,,拼命地向我表現自己的優點
+Dialogue: 0,0:00:16.40,0:00:18.46,Default,,0,0,0,,很能幹嘛 給妳兩根
+Dialogue: 0,0:00:19.02,0:00:20.72,Default,,0,0,0,,貓貓也來吃零食吧
+Dialogue: 0,0:00:20.80,0:00:22.74,Default,,0,0,0,,這零食看起來好好吃
+Dialogue: 0,0:00:22.86,0:00:24.32,Default,,0,0,0,,我要吃囉
+Dialogue: 0,0:00:25.46,0:00:27.80,Default,,0,0,0,,完全無視飼主的互動
+Dialogue: 0,0:00:28.01,0:00:29.40,Default,,0,0,0,,讓我見識到了貓貓的強大
+Dialogue: 0,0:00:31.41,0:00:32.37,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:31.39,0:00:32.39,Screen,,0,0,0,,{\fs36\frz15.76\c&H171723&\pos(417.066,465.066)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:32.37,0:00:35.56,Default,,0,0,0,,狗狗常去的寵物理髮店搬走了
+Dialogue: 0,0:00:35.56,0:00:36.93,Default,,0,0,0,,帶牠去新的理髮店
+Dialogue: 0,0:00:35.52,0:00:36.77,Default,,0,0,0,,{\an8}從沒走過的路
+Dialogue: 0,0:00:37.02,0:00:38.31,Default,,0,0,0,,{\an8}好開心 好開心
+Dialogue: 0,0:00:38.31,0:00:39.94,Default,,0,0,0,,{\an8}從沒來過的店 可以進去嗎
+Dialogue: 0,0:00:38.06,0:00:40.32,Default,,0,0,0,,我家狗狗對未知充滿了好奇
+Dialogue: 0,0:00:40.32,0:00:41.19,Default,,0,0,0,,好耶
+Dialogue: 0,0:00:41.19,0:00:42.26,Default,,0,0,0,,你好啊
+Dialogue: 0,0:00:42.26,0:00:45.44,Default,,0,0,0,,似乎新事物會更多地給牠帶來興奮 而不是恐懼
+Dialogue: 0,0:00:45.44,0:00:47.17,Default,,0,0,0,,歡迎光臨
+Dialogue: 0,0:00:47.17,0:00:49.23,Default,,0,0,0,,啊 我就知道是來理髮的
+Dialogue: 0,0:00:49.23,0:00:49.71,Default,,0,0,0,,來理髮的…
+Dialogue: 0,0:00:50.32,0:00:50.96,Default,,0,0,0,,結果
+Dialogue: 0,0:00:51.29,0:00:52.78,Default,,0,0,0,,今天好開心
+Dialogue: 0,0:00:52.78,0:00:56.13,Default,,0,0,0,,不開心的事情統統忘記 只有「開心」留了下來
+Dialogue: 0,0:00:56.18,0:00:57.49,Default,,0,0,0,,真是個幸福的傢伙
+Dialogue: 0,0:00:57.80,0:01:01.44,Default,,0,0,0,,貓貓最近總是在牠中意的位置睡覺
+Dialogue: 0,0:01:01.55,0:01:03.92,Default,,0,0,0,,這裡什麼都沒有 有什麼好的
+Dialogue: 0,0:01:04.04,0:01:05.06,Default,,0,0,0,,我來給牠布置得豪華些吧
+Dialogue: 0,0:01:05.13,0:01:06.63,Screen,,0,0,0,,{\bord1\c&H000000&\3c&HFFFFFF&\b1\pos(270,100)}貓抓板
+Dialogue: 0,0:01:05.38,0:01:06.63,Screen,,0,0,0,,{\bord1\c&H000000&\3c&HFFFFFF&\b1\pos(964,106)}蓬鬆的毛毯
+Dialogue: 0,0:01:05.63,0:01:06.63,Screen,,0,0,0,,{\bord1\c&H000000&\3c&HFFFFFF&\b1\pos(425,661)}水
+Dialogue: 0,0:01:06.05,0:01:06.63,Screen,,0,0,0,,{\bord1\c&H000000&\3c&HFFFFFF&\b1\pos(1122,601)}玩具
+Dialogue: 0,0:01:08.48,0:01:10.92,Default,,0,0,0,,我知道啦 這就給你恢復原樣
+Dialogue: 0,0:01:10.92,0:01:11.38,Default,,0,0,0,,行嗎
+Dialogue: 0,0:01:11.62,0:01:13.97,Default,,0,0,0,,貓貓討厭新事物
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
