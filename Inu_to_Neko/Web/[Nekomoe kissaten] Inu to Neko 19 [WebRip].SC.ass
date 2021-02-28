@@ -1,0 +1,54 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 19 [WebRip].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,猫猫和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}养{\c&HFFFFFF&}猫{\c&H171723&}又养{\c&HFFFFFF&}狗{\c&H171723&} 每天都开心
+Dialogue: 0,0:00:01.48,0:00:03.90,Default,,0,0,0,,宠物医院开了些药给狗狗
+Dialogue: 0,0:00:03.90,0:00:05.91,Default,,0,0,0,,可以回家后拌在狗粮里喂给它吃
+Dialogue: 0,0:00:05.99,0:00:09.06,Default,,0,0,0,,不过要注意 狗狗可能会将药丸单独留下来
+Dialogue: 0,0:00:09.60,0:00:13.82,Default,,0,0,0,,那一刻我想到了「西顿动物记」中的狼王洛波
+Dialogue: 0,0:00:14.27,0:00:16.40,Default,,0,0,0,,为了捉住袭击家畜的洛波
+Dialogue: 0,0:00:16.58,0:00:17.82,Default,,0,0,0,,西顿在饵料中混入毒药
+Dialogue: 0,0:00:18.12,0:00:20.34,Default,,0,0,0,,为了不留下铁的气味用骨头代替勺子
+Dialogue: 0,0:00:20.47,0:00:22.38,Default,,0,0,0,,将牛油和奶酪一起熬煮
+Dialogue: 0,0:00:22.38,0:00:24.43,Default,,0,0,0,,放凉后掺入毒药
+Dialogue: 0,0:00:24.74,0:00:26.66,Default,,0,0,0,,毒药用密封的胶囊包裹
+Dialogue: 0,0:00:26.79,0:00:28.84,Default,,0,0,0,,然后再在上面浇上一层奶酪
+Dialogue: 0,0:00:29.04,0:00:33.05,Default,,0,0,0,,最后撒上牛血 放在狼经常通过的兽道上
+Dialogue: 0,0:00:33.22,0:00:35.23,Default,,0,0,0,,即便这样 还是发现毒饵被堆积到了一处
+Dialogue: 0,0:00:35.23,0:00:38.35,Default,,0,0,0,,洛波在上面撒了屎尿 仿佛是在嘲笑投毒者
+Dialogue: 0,0:00:38.63,0:00:40.70,Default,,0,0,0,,犬科恐怖的智慧和嗅觉
+Dialogue: 0,0:00:40.90,0:00:45.25,Default,,0,0,0,,想让狗狗吃药想必是难于登天
+Dialogue: 0,0:00:43.16,0:00:44.86,Default,,0,0,0,,{\an8}给我 给我 给我
+Dialogue: 0,0:00:46.03,0:00:47.09,Default,,0,0,0,,还要 还要
+Dialogue: 0,0:00:47.09,0:00:50.03,Default,,0,0,0,,西顿老师 狗毕竟是狗
+Dialogue: 0,0:00:51.38,0:00:53.41,Default,,0,0,0,,宠物医院也开了些药给猫猫
+Dialogue: 0,0:00:53.67,0:00:54.76,Default,,0,0,0,,混在猫粮中
+Dialogue: 0,0:00:55.30,0:00:56.11,Default,,0,0,0,,吃完了
+Dialogue: 0,0:00:56.44,0:00:57.58,Default,,0,0,0,,只留下了药片
+Dialogue: 0,0:00:57.90,0:00:59.71,Default,,0,0,0,,只好追加了一些猫粮
+Dialogue: 0,0:01:00.14,0:01:01.05,Default,,0,0,0,,留下药片
+Dialogue: 0,0:01:01.43,0:01:02.52,Default,,0,0,0,,追加猫粮
+Dialogue: 0,0:01:02.75,0:01:03.78,Default,,0,0,0,,留下药片
+Dialogue: 0,0:01:03.95,0:01:05.30,Default,,0,0,0,,追加猫粮
+Dialogue: 0,0:01:08.20,0:01:09.50,Default,,0,0,0,,这该不会是猫猫的计谋吧
+Dialogue: 0,0:01:09.70,0:01:11.87,Default,,0,0,0,,等我意识到时已经晚了
+Dialogue: 0,0:01:12.23,0:01:13.37,Default,,0,0,0,,猫猫是真的强
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
