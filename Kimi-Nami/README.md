@@ -13,4 +13,6 @@ Tensentype JiaLiZhuncuYuanGB18030
 汉仪旗黑-65S <HYQiHei-65S>
 ```
 
-日文字幕来源于 WOWOWプライム <!--JST 2020年09月05日 05:25-->
+日文字幕来源于
+1. WOWOWプライム <!--JST 2020年09月05日 05:25-->
+2. Netflix <!--JST 2021年02月26日-->
