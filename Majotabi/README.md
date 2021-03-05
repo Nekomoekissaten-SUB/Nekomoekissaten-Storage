@@ -1,10 +1,10 @@
 # 字幕
 
-内含正片01-12Web字幕
+内含正片01-12BD字幕
 
-[简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Majotabi/Majotabi_Web_CHS.7z)
+[简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Majotabi/Majotabi_BD_CHS.7z)
 
-[繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Majotabi/Majotabi_Web_CHT.7z)
+[繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Majotabi/Majotabi_BD_CHT.7z)
 
 ## 中文字幕
 
