@@ -1,0 +1,62 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 23 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.98,0:00:05.02,Default,,0,0,0,,狗狗的睡眠很淺 據說是殘餘的野生習性
+Dialogue: 0,0:00:05.02,0:00:07.07,Default,,0,0,0,,好像感冒了 吃點藥吧
+Dialogue: 0,0:00:11.26,0:00:13.22,Default,,0,0,0,,好清脆 我聽到了清脆的響聲
+Dialogue: 0,0:00:13.34,0:00:14.39,Default,,0,0,0,,不可大意
+Dialogue: 0,0:00:15.31,0:00:17.44,Default,,0,0,0,,藥已經吃了 稍微休息一下吧
+Dialogue: 0,0:00:18.19,0:00:19.07,Default,,0,0,0,,貓在睡覺
+Dialogue: 0,0:00:20.31,0:00:21.69,Default,,0,0,0,,真是不可思議
+Dialogue: 0,0:00:21.69,0:00:24.41,Default,,0,0,0,,自從養了貓之後 只是看著鼓包的被子
+Dialogue: 0,0:00:24.41,0:00:26.40,Default,,0,0,0,,就會覺得好可愛
+Dialogue: 0,0:00:26.56,0:00:29.09,Default,,0,0,0,,真是的 瞧你睡的
+Dialogue: 0,0:00:29.26,0:00:32.36,Default,,0,0,0,,睡覺的地方都被你給佔了 叫我還怎麼睡啊
+Dialogue: 0,0:00:32.36,0:00:35.59,Default,,0,0,0,,貓貓用一副彷彿看見鬼的表情
+Dialogue: 0,0:00:35.72,0:00:37.35,Default,,0,0,0,,看著對著被子侃侃而談的主人
+Dialogue: 0,0:00:37.53,0:00:39.01,Default,,0,0,0,,貓貓也不可大意
+Dialogue: 0,0:00:40.59,0:00:41.51,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:40.56,0:00:41.56,Screen,,0,0,0,,{\fs36\frz15.76\c&H171723&\pos(969,445)}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:41.71,0:00:44.02,Default,,0,0,0,,{\an8}陪我玩 陪我玩 陪我玩
+Dialogue: 0,0:00:41.71,0:00:43.39,Default,,0,0,0,,就算沒有玩具
+Dialogue: 0,0:00:43.39,0:00:44.99,Default,,0,0,0,,真拿妳沒辦法
+Dialogue: 0,0:00:44.99,0:00:45.50,Default,,0,0,0,,腦袋
+Dialogue: 0,0:00:45.50,0:00:46.03,Default,,0,0,0,,腦袋
+Dialogue: 0,0:00:46.03,0:00:46.54,Default,,0,0,0,,下巴
+Dialogue: 0,0:00:46.54,0:00:47.01,Default,,0,0,0,,下巴
+Dialogue: 0,0:00:47.01,0:00:47.58,Default,,0,0,0,,好的 腦袋
+Dialogue: 0,0:00:47.58,0:00:48.11,Default,,0,0,0,,下巴 下巴
+Dialogue: 0,0:00:48.11,0:00:49.44,Default,,0,0,0,,腦袋 騙妳的 是屁股
+Dialogue: 0,0:00:49.64,0:00:50.83,Default,,0,0,0,,腦袋 下巴
+Dialogue: 0,0:00:51.15,0:00:52.79,Default,,0,0,0,,腦袋 屁股
+Dialogue: 0,0:00:53.09,0:00:54.03,Default,,0,0,0,,{\an8}呀呼~
+Dialogue: 0,0:00:53.91,0:00:56.83,Screen,,0,0,0,,{\pos(493,496)\c&H000000&\3c&HFFFFFF&\b1\bord4}嗨起來了
+Dialogue: 0,0:00:54.03,0:00:56.80,Default,,0,0,0,,嘴裡說著「太好應付了 陪牠玩太容易了」
+Dialogue: 0,0:00:57.10,0:01:00.04,Default,,0,0,0,,最終卻很難說到底是誰在陪誰玩
+Dialogue: 0,0:01:00.40,0:01:01.99,Default,,0,0,0,,貓貓也來玩吧
+Dialogue: 0,0:01:02.04,0:01:05.06,Default,,0,0,0,,來 來 來…
+Dialogue: 0,0:01:05.06,0:01:06.58,Default,,0,0,0,,好了 到此結束
+Dialogue: 0,0:01:06.58,0:01:07.51,Default,,0,0,0,,是嗎
+Dialogue: 0,0:01:07.51,0:01:08.05,Default,,0,0,0,,那麼
+Dialogue: 0,0:01:08.35,0:01:08.97,Default,,0,0,0,,快
+Dialogue: 0,0:01:09.06,0:01:13.63,Default,,0,0,0,,貓貓很清楚 是自己在陪主人玩
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
