@@ -1,10 +1,17 @@
 # 字幕
 
+## 修改记录
+
+1. 2021-04-01 Web -> BD，BDRip发布  
+    仅修改文件名及字幕内 Title
+2. 2021-04-03
+    - 03 TC 修正 ED
+    - 02 TC，04、07、09 SC & TC 修正别字
+
 ## 中文字幕
 
-[Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_Web_CHS.7z)
-
-[Web繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_Web_CHT.7z)
+[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_BD_CHS.7z)  
+[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_BD_CHT.7z)
 
 所需字体：
 ```
@@ -18,8 +25,6 @@ FOT-マティス ProN EB <FOT-Matisse ProN EB>
 
 ## 日文字幕
 
-来自Netflix，未作调轴适配
-
-[日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_Web_JPN.7z)
+[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_Web_JPN.7z)来自Netflix，未作调轴适配
 
 ![](poster.png)
