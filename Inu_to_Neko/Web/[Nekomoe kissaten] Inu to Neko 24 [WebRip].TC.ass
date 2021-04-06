@@ -1,0 +1,55 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Inu to Neko 24 [WebRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZMiaoWu-GBK,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:01.48,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.33,0:00:01.48,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:00:00.00,0:00:01.48,Screen,,0,0,0,,{\frz15.76\pos(715,574)\c&H171723&}養{\c&HFFFFFF&}貓{\c&H171723&}又養{\c&HFFFFFF&}狗{\c&H171723&} 每天都開心
+Dialogue: 0,0:00:01.48,0:00:04.68,Default,,0,0,0,,前幾天 我媽讀了養貓又養狗的第一卷
+Dialogue: 0,0:00:07.25,0:00:08.59,Default,,0,0,0,,妳怎麼突然哭了呀
+Dialogue: 0,0:00:09.04,0:00:13.49,Default,,0,0,0,,老了 狗子比第一卷那時候老了不少
+Dialogue: 0,0:00:13.49,0:00:16.43,Default,,0,0,0,,看妳說的 才過去兩三年而已
+Dialogue: 0,0:00:17.75,0:00:19.27,Default,,0,0,0,,狗生短暫
+Dialogue: 0,0:00:19.74,0:00:22.56,Default,,0,0,0,,狗狗活一年相當於人活了四年
+Dialogue: 0,0:00:23.04,0:00:24.85,Default,,0,0,0,,現今充滿活力的狗狗
+Dialogue: 0,0:00:25.09,0:00:29.36,Default,,0,0,0,,總有一天會變成彎腰駝背 整日睡覺的老犬
+Dialogue: 0,0:00:29.72,0:00:32.67,Default,,0,0,0,,一般在漫畫裡 主人公的年齡不會增長
+Dialogue: 0,0:00:33.10,0:00:37.08,Default,,0,0,0,,因為讀者更樂意看到形象始終如一的主人公
+Dialogue: 0,0:00:37.69,0:00:42.39,Default,,0,0,0,,然而 這部漫畫的主人公或許會在今後發生變化
+Dialogue: 0,0:00:42.76,0:00:45.69,Default,,0,0,0,,但我認為包括這種變化在內 都是狗狗的一部分
+Dialogue: 0,0:00:46.03,0:00:49.69,Default,,0,0,0,,而且 老犬也有老犬的可愛之處
+Dialogue: 0,0:00:50.03,0:00:51.42,Default,,0,0,0,,狗狗 耶
+Dialogue: 0,0:00:51.42,0:00:53.87,Default,,0,0,0,,妳是真的喜歡狗啊
+Dialogue: 0,0:00:54.03,0:00:56.52,Default,,0,0,0,,貓貓也一樣呀 不論年齡多大
+Dialogue: 0,0:00:56.83,0:00:57.83,Screen,,0,0,0,,{\an8\fs60}0歲
+Dialogue: 0,0:00:57.83,0:00:58.58,Screen,,0,0,0,,{\an8\fs60}1歲
+Dialogue: 0,0:00:58.58,0:00:59.21,Screen,,0,0,0,,{\an8\fs60}2歲
+Dialogue: 0,0:00:59.21,0:00:59.58,Screen,,0,0,0,,{\an8\fs60}3歲
+Dialogue: 0,0:00:59.58,0:00:59.79,Screen,,0,0,0,,{\an8\fs60}4歲
+Dialogue: 0,0:00:59.79,0:00:59.96,Screen,,0,0,0,,{\an8\fs60}5歲
+Dialogue: 0,0:00:59.96,0:01:00.08,Screen,,0,0,0,,{\an8\fs60}6歲
+Dialogue: 0,0:01:00.08,0:01:00.21,Screen,,0,0,0,,{\an8\fs60}7歲
+Dialogue: 0,0:01:00.21,0:01:00.33,Screen,,0,0,0,,{\an8\fs60}8歲
+Dialogue: 0,0:01:00.33,0:01:00.46,Screen,,0,0,0,,{\an8\fs60}9歲
+Dialogue: 0,0:01:00.46,0:01:01.21,Screen,,0,0,0,,{\an8\fs60}10歲
+Dialogue: 0,0:01:01.42,0:01:04.67,Default,,0,0,0,,我家這隻貓 感覺一直都沒怎麼變啊
+Dialogue: 0,0:01:04.67,0:01:08.68,Default,,0,0,0,,過了小奶貓時期 就一直有種莫名的官威
+Dialogue: 0,0:01:08.68,0:01:11.16,Default,,0,0,0,,貓貓可能永遠不會變化吧
+Dialogue: 0,0:01:13.09,0:01:14.58,Default,,0,0,0,,貓貓和狗狗
+Dialogue: 0,0:01:12.97,0:01:14.97,Screen,,0,0,0,,{\b1\c&H000000&\bord3\3c&HFFFFFF&\fs60\fsp5\pos(641,327)}感謝觀{\fsp0}看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
