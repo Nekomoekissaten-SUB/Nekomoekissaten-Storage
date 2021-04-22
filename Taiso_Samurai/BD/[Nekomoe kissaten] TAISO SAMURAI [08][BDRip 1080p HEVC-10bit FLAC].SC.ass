@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Taisou Zamurai 08 [WebRip 1080p HEVC-10bit AAC].SC
+Title: [Nekomoe kissaten] TAISO SAMURAI [08][BDRip 1080p HEVC-10bit FLAC].SC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -166,7 +166,7 @@ Dialogue: 0,0:11:08.90,0:11:10.65,Dialogue,,0,0,0,,{\blur2}是风车哦
 Dialogue: 0,0:11:10.94,0:11:12.28,Dialogue,,0,0,0,,{\blur2}风车…
 Dialogue: 0,0:11:12.40,0:11:13.65,Dialogue,,0,0,0,,{\blur2}搞不懂
 Dialogue: 0,0:11:15.65,0:11:17.11,Dialogue,,0,0,0,,{\blur2}风车…
-Dialogue: 0,0:11:18.91,0:11:23.08,Dialogue,,0,0,0,,{\blur2}哗得一下 嗖得一下 就成了
+Dialogue: 0,0:11:18.91,0:11:23.08,Dialogue,,0,0,0,,{\blur2}哗的一下 嗖的一下 就成了
 Dialogue: 0,0:11:23.45,0:11:24.62,Dialogue,,0,0,0,,{\blur2}嗖…
 Dialogue: 0,0:11:24.91,0:11:26.75,Dialogue,,0,0,0,,{\blur2}更不懂了
 Dialogue: 0,0:11:26.83,0:11:29.00,Dialogue,,0,0,0,,{\blur2}你是有意识地这样去转吗
@@ -178,7 +178,7 @@ Dialogue: 0,0:11:42.06,0:11:44.68,Dialogue,,0,0,0,,{\blur2}跳高一点更开心
 Dialogue: 0,0:11:45.35,0:11:47.56,Dialogue,,0,0,0,,{\blur2}开心是很重要…
 Dialogue: 0,0:11:48.02,0:11:49.69,Dialogue,,0,0,0,,{\blur2}不刻意去转…
 Dialogue: 0,0:11:50.11,0:11:50.81,Dialogue,,0,0,0,,{\blur2}怎么了
-Dialogue: 0,0:11:52.44,0:11:55.90,Dialogue,,0,0,0,,{\blur2}不想着去转 哗得一下 嗖…
+Dialogue: 0,0:11:52.44,0:11:55.90,Dialogue,,0,0,0,,{\blur2}不想着去转 哗的一下 嗖…
 Dialogue: 0,0:11:56.65,0:11:57.61,Dialogue,,0,0,0,,{\blur2}原来如此
 Dialogue: 0,0:11:58.36,0:12:00.49,Dialogue,,0,0,0,,{\blur2}开开心心地去运动吗
 Dialogue: 0,0:12:01.12,0:12:03.41,Dialogue,,0,0,0,,{\blur2}没错 Joe!
@@ -428,7 +428,7 @@ Dialogue: 0,0:00:03.65,0:00:03.69,Screen,,0,0,0,,{\fscy100.02\fscx100.02\fs33\bl
 Dialogue: 0,0:00:03.69,0:00:09.70,Screen,,0,0,0,,{\fscy100\t(19,5983,\fscy100.04)\frz0\t(19,5983,\frz0)\fscx100\t(19,5983,\fscx100.04)\blur1\t(19,5983,\blur1)\bord0\t(19,5983,\bord0)\c&H2D2D2D&\fn方正兰亭黑_GBK\b1\move(690.86,323.68,691.09,-36.51,19,5983)}发件人：Kitty·张
 Dialogue: 0,0:00:03.69,0:00:09.70,Screen,,0,0,0,,{\fscy100\t(19,5983,\fscy100.04)\frz0\t(19,5983,\frz0)\fscx100\t(19,5983,\fscx100.04)\blur1\t(19,5983,\blur1)\bord0\t(19,5983,\bord0)\c&H2D2D2D&\fn方正兰亭黑_GBK\move(873.91,403.81,874.21,43.65,19,5983)}主题：{\fn方正兰亭中黑_GBK}明明是点心日
 Dialogue: 0,0:00:03.69,0:00:09.70,Screen,,0,0,0,,{\fscy99.98\t(19,5983,\fscy100.02)\frz0\t(19,5983,\frz0)\fscx99.98\t(19,5983,\fscx100.02)\fs40\an7\blur0.5\t(19,5983,\blur0.5)\bord0\t(19,5983,\bord0)\c&H2D2D2D&\fn方正兰亭粗黑_GBK\move(350.68,612.95,350.77,252.88,19,5983)\b1}今天是一个月仅有一次的可以吃点心的日子，\N我上个月就选好的蛋糕今天偏偏卖完了。\N难以置信！\N不对，不是这样的。\N开心的东西还是要留到最后。\N这是好事即将发生的征兆。
-Dialogue: 0,0:00:09.70,0:00:12.70,Screen,,0,0,0,,{\blur1\bord0\pos(640,600)\c&H090909&\fn方正兰亭特黑_GBK}这是好事即将发生的征兆。
+Dialogue: 0,0:00:09.70,0:00:12.70,Screen,,0,0,0,,{\blur1\bord0\pos(640,600)\c&H090909&\fn方正兰亭特黑_GBK\fs60}这是好事即将发生的征兆。
 Dialogue: 0,0:00:16.45,0:00:20.46,Screen,,0,0,0,,{\blur1\bord0\pos(640,657)\c&H090909&\fn方正兰亭特黑_GBK}下个月的世锦赛结束以后我去找你玩，请多指教哦。\N 顺便让你看看金牌。
 Dialogue: 0,0:05:42.45,0:05:45.95,Title,,0,0,0,,{\fad(0,500)\pos(360,601)}特训武士
 Dialogue: 0,0:14:54.83,0:14:59.09,Screen,,0,0,0,,{\fs33\blur0.5\bord0\c&H818070&\fn方正兰亭特黑_GBK\frz354.4\fax0.26\pos(396.222,348.444)\frx358\fry0}年轻的皇家舞团至宝 迷之长期修养？
@@ -437,7 +437,7 @@ Dialogue: 0,0:15:18.61,0:15:22.11,Screen,,0,0,0,,{\an7\fs18\blur1\bord1\alpha&H1
 Dialogue: 0,0:17:22.10,0:17:24.94,Screen,,0,0,0,,{\fscy100\t(21,2816,\fscy100)\fscx100\t(21,2816,\fscx100)\fax0.4\bord1.8\t(21,2816,\bord1.8)\blur2\t(21,2816,\blur2)\fs25\3c&HBF7A25&\fn@方正准雅宋_GBK\c&HFFFFFF&\alpha&H30&\frx354\fsp3\fry0\frz279\t(21,2816,\frz279)\move(726.67,298,876.47,225.6,21,2816)}与你一同走过的幸福过往
 Dialogue: 0,0:19:13.17,0:19:13.30,Screen,,0,0,0,,{\fad(670,0)\blur5\bord1\c&H81674D&\fn@方正中雅宋_GBK\frz278.4\3c&H342516&\pos(1138.571,229.714)}不为人知的女忍的战斗
 Dialogue: 0,0:19:13.30,0:19:17.14,Screen,,0,0,0,,{\fscy100\alpha&HCC&\t(16,1100,\alpha&H00&)\t(16,3811,\fscy91.58)\fscx100\t(16,3811,\fscx91.58)\blur5\t(16,3811,\blur1.83)\bord1\t(16,3811,\bord0.92)\c&H81674D&\fn@方正中雅宋_GBK\frz278.4\t(16,3811,\frz278.4)\3c&H342516&\move(1138.57,229.71,1093.05,239.9,16,3811)}不为人知的女忍的战斗
-Comment: 0,0:00:24.96,0:00:24.96,Taisou_OPCN,,0,0,0,,------------OP_SC------------
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_OPCN,,0,0,0,,------------OP_SC------------
 Dialogue: 0,0:01:14.51,0:01:15.93,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}好啊  是晴天
 Dialogue: 0,0:01:15.93,0:01:16.85,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}万里无云
 Dialogue: 0,0:01:16.85,0:01:17.68,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}太阳当头
@@ -481,9 +481,9 @@ Dialogue: 0,0:02:20.95,0:02:24.96,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}歹意与
 Dialogue: 0,0:02:25.12,0:02:28.63,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}有点纯爱？开玩笑的
 Dialogue: 0,0:02:28.75,0:02:31.26,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}也别无办法
 Dialogue: 0,0:02:31.26,0:02:36.89,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}因为我虽然不太了解你
-Dialogue: 0,0:02:37.01,0:02:38.97,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}但确实心动 
+Dialogue: 0,0:02:37.01,0:02:38.97,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}但确实心动
 Comment: 0,0:02:42.43,0:02:42.93,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}Mi
-Comment: 0,0:00:40.98,0:00:40.98,Taisou_OPJP,,0,0,0,,------------OP_JP------------
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_OPJP,,0,0,0,,------------OP_JP------------
 Dialogue: 0,0:01:14.51,0:01:15.93,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}いいね快晴じゃん
 Dialogue: 0,0:01:15.93,0:01:16.85,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}雲一つないよ
 Dialogue: 0,0:01:16.85,0:01:17.68,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}真っ赤な太陽

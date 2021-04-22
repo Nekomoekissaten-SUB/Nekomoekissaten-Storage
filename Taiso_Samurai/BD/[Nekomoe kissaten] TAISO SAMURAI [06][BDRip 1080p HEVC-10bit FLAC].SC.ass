@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Taisou Zamurai 06 [WebRip 1080p HEVC-10bit AAC].SC
+Title: [Nekomoe kissaten] TAISO SAMURAI [06][BDRip 1080p HEVC-10bit FLAC].SC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -55,7 +55,7 @@ Dialogue: 0,0:03:05.66,0:03:06.96,Dialogue,,0,0,0,,{\blur2}明见
 Dialogue: 0,0:03:07.37,0:03:08.79,Dialogue,,0,0,0,,{\blur2}玲 注意安全
 Dialogue: 0,0:03:10.09,0:03:10.88,Dialogue,,0,0,0,,{\blur2}好的
 Dialogue: 0,0:03:14.38,0:03:16.34,Dialogue,,0,0,0,,{\blur2}店长 你这话说的
-Dialogue: 0,0:03:19.68,0:03:23.47,Dialogue,,0,0,0,,{\blur2\frz0}满怀期待 结果里安没回来 那不是更难受吗
+Dialogue: 0,0:03:19.68,0:03:23.47,Dialogue,,0,0,0,,{\blur2}满怀期待 结果里安没回来 那不是更难受吗
 Dialogue: 0,0:03:28.27,0:03:29.15,Dialogue,,0,0,0,,{\blur2}我回来了
 Dialogue: 0,0:03:30.44,0:03:31.19,Dialogue,,0,0,0,,{\blur2}欢迎回来
 Dialogue: 0,0:03:33.94,0:03:35.53,Dialogue,,0,0,0,,{\blur2}他还没回来吗
@@ -481,7 +481,7 @@ Dialogue: 0,0:02:03.77,0:02:06.27,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}也别无
 Dialogue: 0,0:02:06.27,0:02:11.90,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}因为我虽然不太了解你
 Dialogue: 0,0:02:12.03,0:02:13.99,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}但确实心动
 Comment: 0,0:02:17.45,0:02:17.95,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}Mi
-Comment: 0,0:00:16.00,0:00:16.00,Taisou_OPJP,,0,0,0,,------------OP_JP------------
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_OPJP,,0,0,0,,------------OP_JP------------
 Dialogue: 0,0:00:49.53,0:00:50.95,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}いいね快晴じゃん
 Dialogue: 0,0:00:50.95,0:00:51.86,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}雲一つないよ
 Dialogue: 0,0:00:51.86,0:00:52.70,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}真っ赤な太陽
@@ -538,21 +538,21 @@ Dialogue: 0,0:21:43.95,0:21:46.62,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F
 Dialogue: 0,0:21:46.62,0:21:49.16,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}还能坚持多久
 Dialogue: 0,0:21:49.25,0:21:54.25,Taisou_EDCH,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}还要继续欺骗自己吗
 Dialogue: 0,0:21:54.38,0:21:59.88,Taisou_EDCH,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}还真是辛苦你了
-Dialogue: 0,0:22:00.05,0:22:04.76,Taisou_EDCH,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}忘记自我
-Dialogue: 0,0:22:04.76,0:22:09.72,Taisou_EDCH,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}仅仅活在当下还不行吗
+Dialogue: 0,0:22:00.05,0:22:04.76,Taisou_EDCH,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}忘记自我
+Dialogue: 0,0:22:04.76,0:22:09.72,Taisou_EDCH,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}仅仅活在当下还不行吗
 Dialogue: 0,0:22:09.85,0:22:12.52,Taisou_EDCH,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}不是梦境
 Dialogue: 0,0:22:12.52,0:22:17.77,Taisou_EDCH,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}随意称作梦境  可并非如此
-Dialogue: 0,0:22:17.77,0:22:20.07,Taisou_EDCH,,0,0,20,,{\3c&HCE7CED&\4c&HCE7CED&}只想完成想做的事情
+Dialogue: 0,0:22:17.77,0:22:20.07,Taisou_EDCH,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}只想完成想做的事情
 Dialogue: 0,0:22:20.07,0:22:20.36,Taisou_EDCH,,0,0,20,,{\alpha&H15&}只想完成想做的事情
 Dialogue: 0,0:22:20.36,0:22:22.95,Taisou_EDCH,,0,0,20,,{\alpha&H15&}没有梦想
 Dialogue: 0,0:22:22.95,0:22:25.45,Taisou_EDCH,,0,0,20,,{\alpha&H15&}无法成为理想的自己
 Dialogue: 0,0:22:25.45,0:22:30.87,Taisou_EDCH,,0,0,6,,{\alpha&H15&}我何时来到了这样无趣的世界
 Dialogue: 0,0:22:30.87,0:22:33.96,Taisou_EDCH,,0,0,20,,{\alpha&H15&}乐在其中便是赢家  所谓未来
-Dialogue: 0,0:22:44.30,0:22:46.14,Taisou_EDCH,,0,729,20,,{\alpha&H15&}看得见什么
+Dialogue: 0,0:22:44.30,0:22:46.14,Taisou_EDCH,,0,720,20,,{\alpha&H15&}看得见什么
 Dialogue: 0,0:22:46.14,0:22:47.93,Taisou_EDCH,,0,720,20,,{\alpha&H15&}漆黑的影子
 Dialogue: 0,0:22:47.93,0:22:48.72,Taisou_EDCH,,720,0,20,,{\alpha&H15&}漆黑的影子
 Dialogue: 0,0:22:48.72,0:22:54.14,Taisou_EDCH,,720,0,20,,{\alpha&H15&}步伐沉重呼吸困难  还能坚持多久
-Comment: 0,0:22:44.34,0:22:45.05,Taisou_EDJP,,0,0,0,,------------ED_JP------------
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_EDJP,,0,0,0,,------------ED_JP------------
 Dialogue: 0,0:21:29.10,0:21:30.89,Taisou_EDJP,,0,0,40,,{\3c&H5F82F4&\4c&H5F82F4&}なあ　何が見える？
 Dialogue: 0,0:21:30.94,0:21:34.77,Taisou_EDJP,,0,0,40,,{\3c&H5F82F4&\4c&H5F82F4&}度がズレた色眼鏡　かけて今日も
 Dialogue: 0,0:21:34.77,0:21:38.65,Taisou_EDJP,,0,0,40,,{\3c&H5F82F4&\4c&H5F82F4&}顔色見て　どこまで言える？
@@ -563,11 +563,11 @@ Dialogue: 0,0:21:43.95,0:21:46.62,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F
 Dialogue: 0,0:21:46.62,0:21:49.16,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}どこまで行ける？
 Dialogue: 0,0:21:49.25,0:21:54.25,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}自分　騙して生きてくのかい？
 Dialogue: 0,0:21:54.38,0:21:59.88,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}それはそれはご苦労さんです
-Dialogue: 0,0:22:00.05,0:22:04.76,Taisou_EDJP,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}ああ　我を忘れて今を
-Dialogue: 0,0:22:04.76,0:22:09.72,Taisou_EDJP,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}生きているだけじゃあ　ダメなのかい？
+Dialogue: 0,0:22:00.05,0:22:04.76,Taisou_EDJP,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}ああ　我を忘れて今を
+Dialogue: 0,0:22:04.76,0:22:09.72,Taisou_EDJP,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}生きているだけじゃあ　ダメなのかい？
 Dialogue: 0,0:22:09.85,0:22:12.52,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}“夢”じゃない
 Dialogue: 0,0:22:12.52,0:22:17.77,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}勝手に“夢”と周りは呼ぶけどそうじゃない
-Dialogue: 0,0:22:17.77,0:22:20.07,Taisou_EDJP,,0,0,20,,{\3c&HCE7CED&\4c&HCE7CED&}やりたいことをやりたいだけ
+Dialogue: 0,0:22:17.77,0:22:20.07,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}やりたいことをやりたいだけ
 Dialogue: 0,0:22:20.07,0:22:20.36,Taisou_EDJP,,0,0,20,,{\alpha&H15&}やりたいことをやりたいだけ
 Dialogue: 0,0:22:20.36,0:22:22.95,Taisou_EDJP,,0,0,20,,{\alpha&H15&}“夢”なんてない
 Dialogue: 0,0:22:22.95,0:22:25.45,Taisou_EDJP,,0,0,20,,{\alpha&H15&}なりたいものになれないような

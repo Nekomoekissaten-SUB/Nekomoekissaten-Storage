@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Taisou Zamurai 07 [WebRip 1080p HEVC-10bit AAC].TC
+Title: [Nekomoe kissaten] TAISO SAMURAI [07][BDRip 1080p HEVC-10bit FLAC].TC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -11,9 +11,9 @@ PlayResY: 720
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,方正兰亭特黑_GBK,55,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.2,0,2,15,15,15,1
 Style: Screen,方正兰亭中黑_GBK,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
-Style: Dialogue,方正兰亭中黑_GBK,47,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
-Style: Dialogue_Alt,方正兰亭中黑_GBK,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,8,15,15,15,1
-Style: Comment,方正兰亭中黑_GBK,30,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,7,15,15,15,1
+Style: Dialogue,FZLanTingHei-DB-BIG5,47,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
+Style: Dialogue_Alt,FZLanTingHei-DB-BIG5,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,8,15,15,15,1
+Style: Comment,FZLanTingHei-DB-BIG5,30,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,7,15,15,15,1
 Style: Taisou_OPJP,FOT-Skip ProN E,52,&H3700DEFF,&H00000000,&H00121617,&H00000000,0,0,0,0,100,100,7,0,1,2,0,2,25,25,15,1
 Style: Taisou_OPCN,方正正粗黑_GBK,43,&H3700DEFF,&H00000000,&H00121617,&H00000000,0,0,0,0,100,100,7,0,1,2,0,8,25,25,15,1
 Style: Taisou_EDJP,FOT-Rodin ProN B,36,&H00FFFFFF,&H00000000,&H00000000,&H00363636,0,0,0,0,100,100,0,0,1,1,2,2,25,25,6,128
@@ -216,16 +216,16 @@ Dialogue: 0,0:15:53.97,0:15:56.28,Dialogue,,0,0,0,,{\blur2}請好好享受合宿
 Dialogue: 0,0:16:00.47,0:16:02.62,Dialogue,,0,0,0,,{\blur2}我去拿點飲料 想喝什麼?
 Dialogue: 0,0:16:03.45,0:16:04.28,Dialogue,,0,0,0,,{\blur2}牛奶
 Dialogue: 0,0:16:04.56,0:16:05.21,Dialogue,,0,0,0,,{\blur2}好的
-Dialogue: 0,0:16:18.51,0:16:20.87,Dialogue,,0,0,0,,{\blur2}你是…
-Dialogue: 0,0:16:21.18,0:16:23.95,Dialogue,,0,0,0,,{\blur2}你是三船知世的女兒吧
+Dialogue: 0,0:16:18.51,0:16:20.87,Dialogue,,0,0,0,,{\blur2}妳是…
+Dialogue: 0,0:16:21.18,0:16:23.95,Dialogue,,0,0,0,,{\blur2}妳是三船知世的女兒吧
 Dialogue: 0,0:16:24.38,0:16:24.70,Dialogue,,0,0,0,,{\blur2}欸?
 Dialogue: 0,0:16:26.80,0:16:27.59,Dialogue,,0,0,0,,{\blur2}那是…
 Dialogue: 0,0:16:28.26,0:16:30.53,Dialogue,,0,0,0,,{\blur2}我是她的大粉絲!
-Dialogue: 0,0:16:31.45,0:16:33.61,Dialogue,,0,0,0,,{\blur2}第一眼看到你我就知道你是她的女兒
+Dialogue: 0,0:16:31.45,0:16:33.61,Dialogue,,0,0,0,,{\blur2}第一眼看到妳我就知道妳是她的女兒
 Dialogue: 0,0:16:33.78,0:16:35.32,Dialogue,,0,0,0,,{\blur2}長得太像了
 Dialogue: 0,0:16:35.56,0:16:37.58,Dialogue,,0,0,0,,{\blur2}是…是嗎
 Dialogue: 0,0:16:38.52,0:16:40.17,Dialogue,,0,0,0,,{\blur2}我是張Kitty
-Dialogue: 0,0:16:40.43,0:16:42.23,Dialogue,,0,0,0,,{\blur2}我能和你聊聊嗎
+Dialogue: 0,0:16:40.43,0:16:42.23,Dialogue,,0,0,0,,{\blur2}我能和妳聊聊嗎
 Dialogue: 0,0:16:42.53,0:16:44.90,Dialogue,,0,0,0,,{\blur2}Kitty嗎 可以哦
 Dialogue: 0,0:16:48.63,0:16:51.17,Dialogue,,0,0,0,,{\blur2}說實話一開始我沒打算來的
 Dialogue: 0,0:16:51.49,0:16:53.03,Dialogue,,0,0,0,,{\blur2}不過真的是要刮目相看了
@@ -315,7 +315,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Taisou_OPCN,,0,0,0,,------------OP_SC----------
 Dialogue: 0,0:03:25.52,0:03:26.94,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}好啊  是晴天
 Dialogue: 0,0:03:26.94,0:03:27.85,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}萬里無雲
 Dialogue: 0,0:03:27.85,0:03:28.69,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}太陽當頭
-Dialogue: 0,0:03:28.69,0:03:29.65,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}想了解你
+Dialogue: 0,0:03:28.69,0:03:29.65,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}想了解妳
 Dialogue: 0,0:03:29.65,0:03:30.61,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}之後交給我們
 Dialogue: 0,0:03:30.61,0:03:31.61,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}今天想要擁抱
 Dialogue: 0,0:03:31.61,0:03:32.57,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}岸邊的
@@ -333,7 +333,7 @@ Dialogue: 0,0:03:41.16,0:03:44.91,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}伴上海
 Dialogue: 0,0:03:44.91,0:03:48.50,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}久久注視  美到窒息
 Dialogue: 0,0:03:48.54,0:03:52.21,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}與上海麗人  來亞洲式約會
 Dialogue: 0,0:03:52.25,0:03:56.34,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}歹意與道德心在鬥爭
-Dialogue: 0,0:03:56.42,0:04:00.89,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}我雖然不太了解你
+Dialogue: 0,0:03:56.42,0:04:00.89,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}我雖然不太了解妳
 Dialogue: 0,0:04:00.89,0:04:03.01,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}但確實心動
 Dialogue: 0,0:04:05.35,0:04:06.60,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}巧妙的話術
 Dialogue: 0,0:04:06.60,0:04:07.69,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}將她玩弄
@@ -354,10 +354,10 @@ Dialogue: 0,0:04:28.25,0:04:31.96,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}與上海
 Dialogue: 0,0:04:31.96,0:04:35.96,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}歹意與道德心在鬥爭
 Dialogue: 0,0:04:36.13,0:04:39.63,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}有點純愛？開玩笑的
 Dialogue: 0,0:04:39.76,0:04:42.26,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}也別無辦法
-Dialogue: 0,0:04:42.26,0:04:47.89,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}因為我雖然不太了解你
+Dialogue: 0,0:04:42.26,0:04:47.89,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}因為我雖然不太了解妳
 Dialogue: 0,0:04:48.02,0:04:49.98,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}但確實心動
 Comment: 0,0:04:53.44,0:04:53.94,Taisou_OPCN,,0,0,0,,{\fax-0.08\blur2}Mi
-Comment: 0,0:02:51.98,0:02:51.98,Taisou_OPJP,,0,0,0,,------------OP_JP------------
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_OPJP,,0,0,0,,------------OP_JP------------
 Dialogue: 0,0:03:25.52,0:03:26.94,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}いいね快晴じゃん
 Dialogue: 0,0:03:26.94,0:03:27.85,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}雲一つないよ
 Dialogue: 0,0:03:27.85,0:03:28.69,Taisou_OPJP,,0,0,0,,{\blur2\fax-0.08}真っ赤な太陽
@@ -414,21 +414,21 @@ Dialogue: 0,0:21:37.03,0:21:39.69,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F
 Dialogue: 0,0:21:39.69,0:21:42.24,Taisou_EDCH,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}還能堅持多久
 Dialogue: 0,0:21:42.32,0:21:47.33,Taisou_EDCH,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}還要繼續欺騙自己嗎
 Dialogue: 0,0:21:47.45,0:21:52.96,Taisou_EDCH,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}還真是辛苦你了
-Dialogue: 0,0:21:53.12,0:21:57.84,Taisou_EDCH,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}忘記自我
-Dialogue: 0,0:21:57.84,0:22:02.80,Taisou_EDCH,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}僅僅活在當下還不行嗎
+Dialogue: 0,0:21:53.12,0:21:57.84,Taisou_EDCH,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}忘記自我
+Dialogue: 0,0:21:57.84,0:22:02.80,Taisou_EDCH,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}僅僅活在當下還不行嗎
 Dialogue: 0,0:22:02.93,0:22:05.60,Taisou_EDCH,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}不是夢境
 Dialogue: 0,0:22:05.60,0:22:10.85,Taisou_EDCH,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}隨意稱作夢境  可並非如此
-Dialogue: 0,0:22:10.85,0:22:13.14,Taisou_EDCH,,0,0,20,,{\3c&HCE7CED&\4c&HCE7CED&}只想完成想做的事情
+Dialogue: 0,0:22:10.85,0:22:13.14,Taisou_EDCH,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}只想完成想做的事情
 Dialogue: 0,0:22:13.14,0:22:13.44,Taisou_EDCH,,0,0,20,,{\alpha&H15&}只想完成想做的事情
 Dialogue: 0,0:22:13.44,0:22:16.02,Taisou_EDCH,,0,0,20,,{\alpha&H15&}沒有夢想
 Dialogue: 0,0:22:16.02,0:22:18.52,Taisou_EDCH,,0,0,20,,{\alpha&H15&}無法成為理想的自己
 Dialogue: 0,0:22:18.52,0:22:23.95,Taisou_EDCH,,0,0,6,,{\alpha&H15&}我何時來到了這樣無趣的世界
 Dialogue: 0,0:22:23.95,0:22:27.03,Taisou_EDCH,,0,0,20,,{\alpha&H15&}樂在其中便是贏家  所謂未來
-Dialogue: 0,0:22:37.38,0:22:39.21,Taisou_EDCH,,0,729,20,,{\alpha&H15&}看得見什麼
+Dialogue: 0,0:22:37.38,0:22:39.21,Taisou_EDCH,,0,720,20,,{\alpha&H15&}看得見什麼
 Dialogue: 0,0:22:39.21,0:22:41.01,Taisou_EDCH,,0,720,20,,{\alpha&H15&}漆黑的影子
 Dialogue: 0,0:22:41.01,0:22:41.80,Taisou_EDCH,,720,0,20,,{\alpha&H15&}漆黑的影子
 Dialogue: 0,0:22:41.80,0:22:47.22,Taisou_EDCH,,720,0,20,,{\alpha&H15&}步伐沉重呼吸困難  還能堅持多久
-Comment: 0,0:22:37.42,0:22:38.13,Taisou_EDJP,,0,0,0,,------------ED_JP------------
+Comment: 0,0:00:00.00,0:00:00.00,Taisou_EDJP,,0,0,0,,------------ED_JP------------
 Dialogue: 0,0:21:22.18,0:21:23.97,Taisou_EDJP,,0,0,40,,{\3c&H5F82F4&\4c&H5F82F4&}なあ　何が見える？
 Dialogue: 0,0:21:24.01,0:21:27.85,Taisou_EDJP,,0,0,40,,{\3c&H5F82F4&\4c&H5F82F4&}度がズレた色眼鏡　かけて今日も
 Dialogue: 0,0:21:27.85,0:21:31.73,Taisou_EDJP,,0,0,40,,{\3c&H5F82F4&\4c&H5F82F4&}顔色見て　どこまで言える？
@@ -439,11 +439,11 @@ Dialogue: 0,0:21:37.03,0:21:39.69,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F
 Dialogue: 0,0:21:39.69,0:21:42.24,Taisou_EDJP,,0,600,40,,{\3c&H5F82F4&\4c&H5F82F4&}どこまで行ける？
 Dialogue: 0,0:21:42.32,0:21:47.33,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}自分　騙して生きてくのかい？
 Dialogue: 0,0:21:47.45,0:21:52.96,Taisou_EDJP,,600,0,18,,{\3c&HB4B55A&\4c&HB4B55A&}それはそれはご苦労さんです
-Dialogue: 0,0:21:53.12,0:21:57.84,Taisou_EDJP,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}ああ　我を忘れて今を
-Dialogue: 0,0:21:57.84,0:22:02.80,Taisou_EDJP,,600,0,30,,{\3c&HF3A299&\4c&HF3A299&}生きているだけじゃあ　ダメなのかい？
+Dialogue: 0,0:21:53.12,0:21:57.84,Taisou_EDJP,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}ああ　我を忘れて今を
+Dialogue: 0,0:21:57.84,0:22:02.80,Taisou_EDJP,,0,660,10,,{\3c&HF3A299&\4c&HF3A299&}生きているだけじゃあ　ダメなのかい？
 Dialogue: 0,0:22:02.93,0:22:05.60,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}“夢”じゃない
 Dialogue: 0,0:22:05.60,0:22:10.85,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}勝手に“夢”と周りは呼ぶけどそうじゃない
-Dialogue: 0,0:22:10.85,0:22:13.14,Taisou_EDJP,,0,0,20,,{\3c&HCE7CED&\4c&HCE7CED&}やりたいことをやりたいだけ
+Dialogue: 0,0:22:10.85,0:22:13.14,Taisou_EDJP,,600,0,40,,{\3c&HCE7CED&\4c&HCE7CED&}やりたいことをやりたいだけ
 Dialogue: 0,0:22:13.14,0:22:13.44,Taisou_EDJP,,0,0,20,,{\alpha&H15&}やりたいことをやりたいだけ
 Dialogue: 0,0:22:13.44,0:22:16.02,Taisou_EDJP,,0,0,20,,{\alpha&H15&}“夢”なんてない
 Dialogue: 0,0:22:16.02,0:22:18.52,Taisou_EDJP,,0,0,20,,{\alpha&H15&}なりたいものになれないような

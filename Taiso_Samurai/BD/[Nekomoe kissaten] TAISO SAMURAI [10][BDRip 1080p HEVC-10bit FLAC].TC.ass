@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Taisou Zamurai 10 [WebRip 1080p HEVC-10bit AAC].TC
+Title: [Nekomoe kissaten] TAISO SAMURAI [10][BDRip 1080p HEVC-10bit FLAC].TC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -11,9 +11,9 @@ PlayResY: 720
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,方正兰亭特黑_GBK,55,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.2,0,2,15,15,15,1
 Style: Screen,方正兰亭中黑_GBK,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
-Style: Dialogue,方正兰亭中黑_GBK,47,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
-Style: Dialogue_Alt,方正兰亭中黑_GBK,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,8,15,15,15,1
-Style: Comment,方正兰亭中黑_GBK,30,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,7,15,15,15,1
+Style: Dialogue,FZLanTingHei-DB-BIG5,47,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,2,15,15,15,1
+Style: Dialogue_Alt,FZLanTingHei-DB-BIG5,46,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,8,15,15,15,1
+Style: Comment,FZLanTingHei-DB-BIG5,30,&H00FFFFFF,&H00FFFFFF,&H00141414,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,7,15,15,15,1
 Style: Taisou_OPJP,FOT-Skip ProN E,52,&H3700DEFF,&H00000000,&H00121617,&H00000000,0,0,0,0,100,100,7,0,1,2,0,2,25,25,15,1
 Style: Taisou_OPCN,方正正粗黑_GBK,43,&H3700DEFF,&H00000000,&H00121617,&H00000000,0,0,0,0,100,100,7,0,1,2,0,8,25,25,15,1
 Style: Taisou_EDJP,FOT-Rodin ProN B,36,&H00FFFFFF,&H00000000,&H00000000,&H00363636,0,0,0,0,100,100,0,0,1,1,2,2,25,25,6,128
@@ -25,12 +25,13 @@ Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,------------Staff------------
 Dialogue: 0,0:00:13.87,0:00:17.91,Title,,0,0,0,,{\an8\fs42\fad(300,300)\bord2\blur2\fn方正粗雅宋_GBK}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途
 Dialogue: 0,0:00:17.91,0:00:22.13,Title,,0,0,0,,{\fs42\an8\fad(300,300)\bord2\blur2\fn方正粗雅宋_GBK}翻譯&時軸: Nemeton　後期: MIR
 Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,------------Text------------
-Dialogue: 0,0:00:08.03,0:00:14.37,Dialogue,,0,0,0,,{\blur2}我一直有話想對你說 也許…
+Dialogue: 0,0:00:08.03,0:00:14.37,Dialogue,,0,0,0,,{\blur2}我一直有話想對妳說 也許…
 Dialogue: 0,0:00:14.73,0:00:15.82,Dialogue,,0,0,0,,{\blur2}什麼?
-Dialogue: 0,0:00:16.44,0:00:21.52,Dialogue,,0,0,0,,{\blur2}我一直…在練習體操 你知道吧…
+Dialogue: 0,0:00:16.44,0:00:21.52,Dialogue,,0,0,0,,{\blur2}我一直…在練習體操 妳知道吧…
 Dialogue: 0,0:00:22.09,0:00:27.66,Dialogue,,0,0,0,,{\blur2}然後明天有…大賽的樣子…
 Dialogue: 0,0:00:27.72,0:00:29.08,Dialogue,,0,0,0,,{\blur2}如果可以的話…
 Dialogue: 0,0:00:29.17,0:00:29.97,Dialogue,,0,0,0,,{\blur2}可以
+Dialogue: 0,0:00:34.74,0:00:41.69,Comment,,0,0,0,,{\blur2\fad(1000,0)}註：此處背景音樂為「男と女のラブゲーム」。
 Dialogue: 0,0:00:45.36,0:00:46.78,Dialogue,,0,0,0,,{\blur2}在下雨嗎
 Dialogue: 0,0:02:22.59,0:02:25.21,Dialogue,,0,0,0,,{\blur2}今日11月14日 有雨
 Dialogue: 0,0:02:26.11,0:02:30.94,Dialogue,,0,0,0,,{\blur2}最高氣溫攝氏9度 就11月來說氣溫很低
