@@ -1,12 +1,12 @@
-![](kyokousuiri_post.jpg)
-
 # 字幕
 
-## BD
+## 中文字幕
+
+### BD
 
 适配保留每集片头24帧黑屏的视频源
 
-### 正片
+#### 正片
 
 [BD ep.01-12 简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Main_CHS.7z)
 
@@ -31,7 +31,7 @@ FOT-ニューシネマB Std D <FOT-NewCinemaB Std D>
 MHGReithic T HK TTF ver.3.0
 ```
 
-### 迷你动画
+#### 迷你动画
 
 [BD 迷你动画 ep.01-38 简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Mini_CHS.7z)
 
@@ -64,7 +64,7 @@ MYoyo HK Medium
 華康儷金黑 <DFLiKingHei-XB>
 ```
 
-## Web
+### Web
 
 <details>
 <summary>Web字幕</summary>
@@ -89,3 +89,11 @@ FOT-筑紫明朝 Pr6N E <FOT-TsukuMin Pr6N E>
 MHGReithicTHK-Light
 ```
 </details>
+
+## 日文字幕
+
+[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_JPN.7z)来自 Netflix，未做调轴适配。
+
+# 海报
+
+![](kyokousuiri_poster.jpg)
