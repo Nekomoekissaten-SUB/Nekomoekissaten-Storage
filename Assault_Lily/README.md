@@ -4,7 +4,8 @@
 
 内含正片 01-12 BD 字幕。
 
-[中日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Assault_Lily/Assault_Lily_BD_JPCH.7z)
+[简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Assault_Lily/Assault_Lily_BD_JPSC.7z)
+[繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Assault_Lily/Assault_Lily_BD_JPTC.7z)
 
 所需字体：
 ```
