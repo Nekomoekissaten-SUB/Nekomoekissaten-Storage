@@ -1,5 +1,9 @@
 # IDOLY PRIDE 字幕
 
+## 修改记录
+
+1. 2021-05-09  Web 字幕打包，WebRip发布
+
 ## 中日双语字幕
 
 内含正片 01-12 Web 字幕。
@@ -19,9 +23,9 @@ FOT-筑紫明朝 Pr6N D <FOT-TsukuMin Pr6N D>
 仓耳今楷01-27533 W05 <TsangerJinKai01-27533 W05>
 方正卡通_GBK <FZKaTong-M19>
 方正兰亭圆_GBK <FZLanTingYuan-R-GBK>
-方正兰亭中粗黑_GBK <FZLanTingHei-DB1-GBK>
+方正兰亭中粗黑_GBK <FZLanTingHei-DB1-GBK>  ver.1.31+
 方正悠宋 GBK 509R <FZYouSong GBK 509R>
-方正中粗雅宋_GBK <FZYaSong-DB1-GBK>
+方正中粗雅宋_GBK <FZYaSong-DB1-GBK>  ver.1.20
 华康翩翩体W5-A <DFHanziPenW5-A>
 华康手札体W7-A <DFHannotateW7-A>
 
