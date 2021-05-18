@@ -56,7 +56,7 @@ Vapoursynth:
 4. 部分字体的竖排效果，如 `\fn@Source Han Sans`  
     - 错误：所有 VSFilter 系滤镜，应该是 GDI 的问题？目前无法解决
     - 正确：所有基于 libass 的字幕滤镜
-    - 处理：由于这个问题在 Windows 下难以解决，所以不使用此类字体标签
+    - 处理：以 libass 为准，但由于这个问题在 Windows 下难以解决，可能会考虑对 VSF 系渲染效果的兼容，同时在竖排时尽量避免如「思源」字体这类变化较大的字体
 
 5. `fay` 的渲染效果
     - libass 在 0.15.1 中使其与 xy-VSFilter 系保持一致
