@@ -4,7 +4,7 @@ License: CC BY-NC-ND 4.0，具体见 [Nekomoekissaten-Subs #注意事项](https:
 
 ## 注意
 
-本字幕库内自 2021-04-01 起的 Fansub ASS 字幕均基于 [libass](https://github.com/libass/libass) 0.15.0 及之后最新版本制作，之前基于 xy-VSFilter 制作的旧字幕正在逐步检查以在 libass 0.15.0+ 下正常显示。同时会尽力保证 [xy-VSFilter](https://github.com/HomeOfVapourSynthEvolution/xy-VSFilter) 和 [xySubFilter](https://github.com/pinterf/xy-VSFilter) 最新版本的渲染效果，详见[不一致渲染的情况](#不一致渲染的情况)，如有问题欢迎回报 / open issue。
+本字幕库内自 2021-04-01 起的 Fansub ASS 字幕均基于 [libass](https://github.com/libass/libass) 0.15.0 及之后最新版本制作，之前基于 xy-VSFilter 制作的旧字幕正在逐步检查以在 libass 0.15.0+ 下正常显示。同时会尽力保证 [xy-VSFilter_VS](https://github.com/HomeOfVapourSynthEvolution/xy-VSFilter) 和 [xy-VSFilter_AVS / xySubFilter](https://github.com/pinterf/xy-VSFilter) 最新版本的渲染效果，详见[不一致渲染的情况](#不一致渲染的情况)，如有问题欢迎回报 / open issue。
 
 ### 可以正确渲染的推荐环境配置
 
@@ -35,12 +35,15 @@ Vapoursynth:
 
 1. `\frx` `\fry` 在 ASS 分辨率（`PlayResX`、`PlayResY`）与播放视频分辨率不同时的渲染效果  
     以 ASS 分辨率与视频分辨率相同时的渲染效果为正确，[参考对比图](https://slow.pics/c/KDV5mZDv)
-    - 错误：xy-VSFilter
-    - 正确：
+    - VSFilter 系
+        - xy-VSFilter
+            - AVS: [xy-VSFilter](https://github.com/pinterf/xy-VSFilter) [66575c](https://github.com/pinterf/xy-VSFilter/commit/665757ca2ffac6c2cb0b90f8664ad34d6845992e)+
+            - VS: [xy-VSFilter](https://github.com/HomeOfVapourSynthEvolution/xy-VSFilter) [62c07fd](https://github.com/HomeOfVapourSynthEvolution/xy-VSFilter/commit/62c07fd803fcb8dc10a429b7143c31cda20db163) +
         - xySubFilter 设置 `More - Renderer layout options - Customize`
-        - MPC-BE / MPC-HC 内置的 VSFilter
+        - MPC-BE / MPC-HC 内置的 VSFilter，[Vapoursynth 版](https://github.com/HomeOfVapourSynthEvolution/VSFilter)
         - VSFilterMod r5.2.4+
-        - mpv 配置 `sub-ass-vsfilter-blur-compat=no`
+    - libass 系
+        - 默认，mpv 需配置 `sub-ass-vsfilter-blur-compat=no`
     - 处理：以正确效果为准
 
 2. `\p` 大于 1 时的缩放效果
