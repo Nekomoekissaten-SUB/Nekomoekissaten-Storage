@@ -1,4 +1,4 @@
-![](poster.jpg)
+![](7dayswar_poster.jpg)
 
 # 简中字幕
 
