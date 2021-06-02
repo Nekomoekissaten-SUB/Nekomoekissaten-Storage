@@ -28,4 +28,6 @@ FOT-花風テクノ Std U <FOT-KafuTechno Std U>
 文鼎新藝體U <AR XinYiB5 Ultra>
 ```
 
+[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/IWGP/IWGP_JPN.7z)来自AT-X，未做调轴适配和分割。
+
 ![](poster.png)
