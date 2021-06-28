@@ -1,6 +1,4 @@
-![](nakineko.jpg)
-
-# 字幕
+# BD字幕
 
 ## 所需字体
 
@@ -37,3 +35,5 @@ FOT-筑紫明朝 Pr6N D <FOT-TsukuMin Pr6N D>
 華康粗黑體(P) <DFPHeiBold-B5>
 華康棒棒體W5(P) <DFPBangBangW5-B5>
 ```
+
+![](nakineko_poster.jpg)
