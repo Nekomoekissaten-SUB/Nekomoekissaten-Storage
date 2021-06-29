@@ -1,5 +1,7 @@
 # BD字幕
 
+[old commit history](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/commits/ddf3eaf2ba6b9623a119e481ddd943e2466e435d/nakineko)
+
 ## 所需字体
 
 其中日文字体与简繁通用字体为简繁字幕都需要的字体，简体字体与繁体字体只有观看各自语言的字幕需要安装
