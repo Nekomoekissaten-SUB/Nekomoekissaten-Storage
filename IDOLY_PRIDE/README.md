@@ -2,13 +2,17 @@
 
 ## 修改记录
 
-1. 2021-05-09  Web 字幕打包，WebRip发布
+1. 2021-05-09  WebRip 字幕打包，WebRip 发布
+2. 2021-06-30  BD 字幕打包，BDRip 发布
+    1. 修正 EP.04 一处日文错误、整理 EP.01 一处标签
+    2. 时间轴无变动
+    3. 按 BD 增加 No Credit 版本字幕，内容与正常版相同
 
 ## 中日双语字幕
 
-内含正片 01-12 Web 字幕。
+内含正片 01-12 BD 字幕。
 
-[简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/IDOLY_PRIDE/IDOLY_PRIDE_Web_JPCH.7z)
+[简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/IDOLY_PRIDE/IDOLY_PRIDE_BD_JPCH.7z)
 
 所需字体：
 ```
