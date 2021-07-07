@@ -3520,31 +3520,23 @@ Dialogue: 0,0:10:09.38,0:10:16.72,Screen,,0,0,0,,{\fn@FZShaoEr-M11\frz-90\fs50\p
 Dialogue: 0,0:10:09.38,0:10:16.72,Screen,,0,0,0,,{\fn@FZShaoEr-M11\frz-90\fs50\pos(1081.6,354.133)\c&HE6B62D&\3c&HFFFFFF&\bord1.2\clip(1122,218,1125,493)}弱勢卡塔莉娜
 Dialogue: 0,0:10:09.38,0:10:16.72,Screen,,0,0,0,,{\fn@FZShaoEr-M11\frz-90\fs50\pos(1081.6,354.133)\c&HE9BB2D&\3c&HFFFFFF&\bord1.2\clip(1125,218,1128,493)}弱勢卡塔莉娜
 Dialogue: 0,0:10:09.38,0:10:16.72,Screen,,0,0,0,,{\fn@FZShaoEr-M11\frz-90\fs50\pos(1081.6,354.133)\c&HEBC02E&\3c&HFFFFFF&\bord1.2\clip(1128,218,1131,493)}弱勢卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H6D34ED&\clip(181,210,183,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H7137EE&\clip(183,210,185,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H7639EF&\clip(185,210,187,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H7A3CEF&\clip(187,210,189,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H7E3FF0&\clip(189,210,191,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H8342F1&\clip(191,210,193,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H8744F2&\clip(193,210,195,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H8B47F2&\clip(195,210,197,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H904AF3&\clip(197,210,199,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H944CF4&\clip(199,210,201,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H984FF5&\clip(201,210,203,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&H9D52F5&\clip(203,210,205,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HA155F6&\clip(205,210,207,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HA557F7&\clip(207,210,209,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HAA5AF8&\clip(209,210,211,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HAE5DF8&\clip(211,210,213,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HB25FF9&\clip(213,210,215,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HB762FA&\clip(215,210,217,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HBB65FB&\clip(217,210,219,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HBF67FB&\clip(219,210,221,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HC46AFC&\clip(221,210,223,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HC86DFD&\clip(223,210,225,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HCC70FE&\clip(225,210,227,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HD172FE&\clip(227,210,229,492)\pos(186,350)}樂觀卡塔莉娜
-Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\frz-90\fs50\fsp3\fn@MYoyo HK Medium\b1\3c&HFFFFFF&\bord1.2\c&HD575FF&\clip(229,210,231,492)\pos(186,350)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H6D34ED&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(181,209,184,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H6D34ED&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(184,209,187,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H6D34ED&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(187,209,190,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H6E34ED&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(190,209,193,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H6F35ED&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(193,209,196,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H7036EE&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(196,209,199,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H7338EE&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(199,209,202,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H763AEE&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(202,209,205,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H7A3CEF&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(205,209,208,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H8040F0&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(208,209,211,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H8744F1&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(211,209,214,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H8F4AF3&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(214,209,217,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&H9A50F4&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(217,209,220,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&HA658F6&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(220,209,223,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&HB461F8&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(223,209,226,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&HC46BFB&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(226,209,229,492)}樂觀卡塔莉娜
+Dialogue: 0,0:10:16.72,0:10:19.72,Screen,,0,0,0,,{\fn@FZZanMeiTiJF Medium\fs50\bord1\c&HD777FE&\3c&HFFFFFF&\frz-90\pos(180.911,356.372)\clip(229,209,232,492)}樂觀卡塔莉娜
 Dialogue: 0,0:10:19.72,0:10:23.35,Screen,,0,0,0,,{\fn@FZLanTingHei-B-GBK\frz-90\fs60\pos(1073,347)\3c&HFFFFFF&\bord1.2\c&H238420&\clip(1072,193,1075,504)}認真卡塔莉娜
 Dialogue: 0,0:10:19.72,0:10:23.35,Screen,,0,0,0,,{\fn@FZLanTingHei-B-GBK\frz-90\fs60\pos(1073,347)\3c&HFFFFFF&\bord1.2\c&H278E2A&\clip(1075,193,1078,504)}認真卡塔莉娜
 Dialogue: 0,0:10:19.72,0:10:23.35,Screen,,0,0,0,,{\fn@FZLanTingHei-B-GBK\frz-90\fs60\pos(1073,347)\3c&HFFFFFF&\bord1.2\c&H2A9532&\clip(1078,193,1081,504)}認真卡塔莉娜
