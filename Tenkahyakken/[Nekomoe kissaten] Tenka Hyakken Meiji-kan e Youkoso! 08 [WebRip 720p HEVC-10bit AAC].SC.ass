@@ -1,0 +1,96 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Tenka Hyakken Meiji-kan e Youkoso! 08.SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-JP,FOT-TelopMin ProN E,50,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-CN,FZDaBiaoSong-B06,38,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,95,0,0,1,2,0,8,10,10,25,1
+Style: Staff,FZDaBiaoSong-B06,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,25,1
+Style: Name,HYShangWeiShouShuW,48,&H00000000,&H000000FF,&H00000000,&H0092ACB6,0,0,0,0,100,100,0,0,1,0,1,6,10,10,15,1
+Style: Screen,@FZDaBiaoSong-B06,35,&H00FFFFFF,&H00000000,&H001921E3,&H00C4E0F2,0,0,0,0,100,100,0,-90,1,2,0,8,10,10,15,1
+Style: Screen2,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen3,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:00.10,0:00:03.10,Staff,,0,0,0,,{\fad(500,500)\blur3}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:00:03.15,0:00:06.15,Staff,,0,0,0,,{\fad(500,500)\blur3}翻译：Hmiku　校对：K　后期：MIR　繁化：風風
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TEXT
+Dialogue: 0,0:00:01.48,0:00:05.15,Default,,0,0,0,,{\frz-90\fn@FZZhunYuan-M02\c&H0E8BFD&\3c&HB5EEF9&\pos(1197,565)}巫剑喜欢的东西
+Dialogue: 0,0:00:01.70,0:00:03.10,Default,,0,0,0,,饭还没好吗
+Dialogue: 0,0:00:03.40,0:00:05.13,Default,,0,0,0,,应该还没好吧
+Dialogue: 0,0:00:06.15,0:00:08.47,Default,,0,0,0,,大家不吃饭的时候都在干什么呢
+Dialogue: 0,0:00:09.12,0:00:12.64,Default,,0,0,0,,一定是在想下顿吃什么之类的吧
+Dialogue: 0,0:00:13.05,0:00:15.39,Default,,0,0,0,,下顿吃什么啊
+Dialogue: 0,0:00:17.07,0:00:18.79,Default,,0,0,0,,总之先去吃点什么吧
+Dialogue: 0,0:00:24.31,0:00:26.34,Default,,0,0,0,,只放这么一小段 果然还是有点短吧
+Dialogue: 0,0:00:26.55,0:00:31.36,Default,,0,0,0,,不过这点时间足够吃掉一升米饭啦
+Dialogue: 0,0:00:26.55,0:00:31.36,Default,,0,0,0,,{\an7\fs40}注：这里的升是日本特有的计量单位 约合1804mL
+Dialogue: 0,0:00:31.48,0:00:35.02,Default,,0,0,0,,红叶天妇罗至少得来三块
+Dialogue: 0,0:00:36.82,0:00:39.14,Default,,0,0,0,,肚子好饿
+Dialogue: 0,0:00:45.34,0:00:46.29,Default,,0,0,0,,真好喝
+Dialogue: 0,0:00:46.46,0:00:47.71,Default,,0,0,0,,你泡茶水平是不是提高了
+Dialogue: 0,0:00:48.23,0:00:49.06,Default,,0,0,0,,太好了
+Dialogue: 0,0:00:51.18,0:00:52.02,Default,,0,0,0,,诶 不会吧
+Dialogue: 0,0:00:53.67,0:00:55.69,Default,,0,0,0,,讨厌 有两根
+Dialogue: 0,0:00:56.08,0:00:56.69,Default,,0,0,0,,头发分叉吗
+Dialogue: 0,0:00:56.92,0:00:59.19,Default,,0,0,0,,头发分叉真是太糟了
+Dialogue: 0,0:00:59.32,0:01:01.06,Default,,0,0,0,,不好好保养可不行啊
+Dialogue: 0,0:01:02.09,0:01:04.12,Default,,0,0,0,,最近真不顺啊
+Dialogue: 0,0:01:04.39,0:01:07.08,Default,,0,0,0,,补充营养的话是不是就能恢复呢
+Dialogue: 0,0:01:07.47,0:01:08.84,Default,,0,0,0,,是这样吗
+Dialogue: 0,0:01:09.46,0:01:11.11,Default,,0,0,0,,不清楚 没准能行吧
+Dialogue: 0,0:01:14.55,0:01:17.52,Screen,,0,0,0,,{\pos(1064,340)}城和泉正宗 「偷得浮生半日闲」
+Dialogue: 0,0:01:17.93,0:01:21.09,Default,,0,0,0,,下次好像会有新的红茶到货
+Dialogue: 0,0:01:21.35,0:01:23.46,Default,,0,0,0,,好像是下周吧
+Dialogue: 0,0:01:23.73,0:01:25.06,Default,,0,0,0,,差不多那几天吧
+Dialogue: 0,0:01:25.66,0:01:28.57,Default,,0,0,0,,说起来我尝了一下样品
+Dialogue: 0,0:01:28.98,0:01:31.88,Default,,0,0,0,,喝起来有些苹果的味道 特别好喝
+Dialogue: 0,0:01:32.10,0:01:35.80,Default,,0,0,0,,苹果的味道吗 还挺独特的
+Dialogue: 0,0:01:36.90,0:01:38.61,Default,,0,0,0,,那个茶肯定会流行起来的
+Dialogue: 0,0:01:39.11,0:01:43.16,Default,,0,0,0,,流行起来是不错 只要泡起来别太麻烦就好
+Dialogue: 0,0:01:43.44,0:01:46.75,Default,,0,0,0,,泡起来步骤比现在还多的话 就有些头疼了
+Dialogue: 0,0:01:46.86,0:01:50.22,Default,,0,0,0,,太复杂的话 店里忙的时候就泡不过来了
+Dialogue: 0,0:01:52.44,0:01:55.55,Default,,0,0,0,,桑名江洗头的时候会很费劲吗
+Dialogue: 0,0:01:57.02,0:01:59.36,Default,,0,0,0,,我倒是没觉得费劲
+Dialogue: 0,0:01:59.78,0:02:01.27,Default,,0,0,0,,可能是习惯了吧
+Dialogue: 0,0:02:01.72,0:02:03.98,Default,,0,0,0,,话虽如此 我们的头发不也挺长吗
+Dialogue: 0,0:02:04.54,0:02:06.77,Default,,0,0,0,,我就觉得弄干头发好麻烦啊
+Dialogue: 0,0:02:07.04,0:02:08.31,Default,,0,0,0,,确实
+Dialogue: 0,0:02:08.76,0:02:10.54,Default,,0,0,0,,毕竟头发不弄干没法睡觉啊
+Dialogue: 0,0:02:11.46,0:02:12.74,Default,,0,0,0,,总觉得好麻烦啊
+Dialogue: 0,0:02:12.91,0:02:14.95,Default,,0,0,0,,总不能湿着头发上床睡觉吧
+Dialogue: 0,0:02:15.30,0:02:18.67,Default,,0,0,0,,让八宵发明一个方便弄干头发的东西吧
+Dialogue: 0,0:02:19.04,0:02:21.97,Default,,0,0,0,,让她发明一个…听起来不错
+Dialogue: 0,0:02:22.59,0:02:25.14,Default,,0,0,0,,刚好她也喜欢做一些新东西
+Dialogue: 0,0:02:26.00,0:02:29.90,Default,,0,0,0,,说来那个苹果味红茶的样品还有吗
+Dialogue: 0,0:02:31.33,0:02:33.44,Default,,0,0,0,,因为只有一杯的量 已经没有了
+Dialogue: 0,0:02:33.87,0:02:35.07,Default,,0,0,0,,太狡猾了吧
+Dialogue: 0,0:02:35.13,0:02:37.08,Default,,0,0,0,,我也想尝一尝啊
+Dialogue: 0,0:02:37.48,0:02:39.47,Default,,0,0,0,,等到货了你们不就能喝到了嘛
+Dialogue: 0,0:02:42.01,0:02:43.12,Default,,0,0,0,,什么时候到
+Dialogue: 0,0:02:43.59,0:02:45.86,Default,,0,0,0,,不是下周吗
+Dialogue: 0,0:02:46.71,0:02:47.96,Default,,0,0,0,,等来了就知道了
+Dialogue: 0,0:02:48.29,0:02:49.76,Default,,0,0,0,,是装在一个漂亮盒子里的
+Dialogue: 0,0:02:50.39,0:02:51.91,Default,,0,0,0,,那个茶大概能流行起来
+Dialogue: 0,0:02:52.35,0:02:54.68,Default,,0,0,0,,城和泉总在说这句话呢
+Dialogue: 0,0:02:55.02,0:02:56.90,Default,,0,0,0,,你到时候尝尝就知道了
+Dialogue: 0,0:02:57.12,0:02:59.65,Default,,0,0,0,,让你见识我的先见之明
+Dialogue: 0,0:03:00.87,0:03:02.60,Default,,0,0,0,,不过这个茶也不错啊
+Dialogue: 0,0:03:02.98,0:03:05.37,Default,,0,0,0,,这个味道我也挺中意的
+Dialogue: 0,0:03:05.78,0:03:07.54,Default,,0,0,0,,有种日常生活的味道
+Dialogue: 0,0:03:08.01,0:03:09.75,Default,,0,0,0,,感觉能让人静下心来
+Dialogue: 0,0:03:12.41,0:03:14.10,Default,,0,0,0,,头发分叉真是太糟了
+Dialogue: 0,0:03:14.54,0:03:16.12,Default,,0,0,0,,不好好保养可不行啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:21.07,0:00:23.17,OP-JP,,0,0,0,,{\fad(200,0)\blur5}これは愛情友情それ以上
+Dialogue: 0,0:00:21.07,0:00:23.00,OP-CN,,0,0,0,,{\fad(200,0)\blur5}这超越了爱情和友情
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

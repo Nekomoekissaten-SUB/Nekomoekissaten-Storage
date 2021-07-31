@@ -1,0 +1,99 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Tenka Hyakken Meiji-kan e Youkoso! 01.TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-JP,FOT-TelopMin ProN E,50,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-CN,FZDaBiaoSong-B06,38,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,95,0,0,1,2,0,8,10,10,25,1
+Style: Staff,FZDaBiaoSong-B06,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,25,1
+Style: Name,HYShangWeiShouShuW,48,&H00000000,&H000000FF,&H00000000,&H0092ACB6,0,0,0,0,100,100,0,0,1,0,1,6,10,10,15,1
+Style: Screen,@FZDaBiaoSong-B06,35,&H00FFFFFF,&H00000000,&H001921E3,&H00C4E0F2,0,0,0,0,100,100,0,-90,1,2,0,8,10,10,15,1
+Style: Screen2,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:00.10,0:00:03.10,Staff,,0,0,0,,{\fad(500,500)\blur3}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途
+Dialogue: 0,0:00:03.15,0:00:06.15,Staff,,0,0,0,,{\fad(500,500)\blur3}翻譯：Hmiku　校對：K　後期：MIR　繁化：風風
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TEXT
+Dialogue: 0,0:00:02.67,0:00:04.05,Default,,0,0,0,,銘治時代
+Dialogue: 0,0:00:05.00,0:00:07.78,Default,,0,0,0,,由於近代化浪潮與廢刀令的頒布
+Dialogue: 0,0:00:08.58,0:00:10.53,Default,,0,0,0,,擁有少女姿態的刀劍——
+Dialogue: 0,0:00:11.39,0:00:12.73,Default,,0,0,0,,「巫劍」們的姿態
+Dialogue: 0,0:00:13.69,0:00:15.37,Default,,0,0,0,,發生了巨大的改變
+Dialogue: 0,0:00:18.91,0:00:19.42,Default,,0,0,0,,沒錯
+Dialogue: 0,0:00:19.81,0:00:20.99,Default,,0,0,0,,變成了女僕的姿態
+Comment: 0,0:00:23.84,0:00:26.51,Default,,0,0,0,,#天華百劍
+Comment: 0,0:00:23.84,0:00:26.51,Default,,0,0,0,,#~歡迎來到銘治館~
+Dialogue: 0,0:00:53.25,0:00:54.58,Default,,0,0,0,,那麼 天華百劍
+Dialogue: 0,0:00:54.88,0:00:56.69,Default,,0,0,0,,開始了唷
+Dialogue: 0,0:01:01.96,0:01:04.59,Name,,0,0,0,,{\pos(244,410)\blur5\t(0,250,\blur0)\xshad2.8\yshad3.2}透雕正宗\N小透
+Dialogue: 0,0:01:07.46,0:01:10.13,Name,,0,0,0,,{\pos(192.286,267.429)\blur5\t(0,250,\blur0)\xshad3.4\yshad4.5}庖丁正宗\N小庖
+Dialogue: 0,0:01:07.92,0:01:09.14,Default,,0,0,0,,透姐
+Dialogue: 0,0:01:10.88,0:01:13.59,Name,,0,0,0,,{\blur5\t(0,250,\blur0)\xshad3.4\yshad4.5\pos(522.286,258.285)}掘貫正宗\N小貫
+Dialogue: 0,0:01:11.10,0:01:13.13,Default,,0,0,0,,這是怎麼回事
+Dialogue: 0,0:01:18.49,0:01:20.02,Default,,0,0,0,,這 這是怎麼了
+Dialogue: 0,0:01:21.14,0:01:23.12,Default,,0,0,0,,這是透姐做的啊
+Dialogue: 0,0:01:23.12,0:01:23.66,Default,,0,0,0,,不會吧
+Dialogue: 0,0:01:23.66,0:01:25.04,Default,,0,0,0,,怎怎怎麼辦
+Dialogue: 0,0:01:25.37,0:01:26.72,Default,,0,0,0,,你問我我也…
+Dialogue: 0,0:01:29.91,0:01:31.96,Default,,0,0,0,,剛才都怪庖姐
+Dialogue: 0,0:01:32.04,0:01:34.01,Default,,0,0,0,,為什麼 難道是我的錯嗎
+Dialogue: 0,0:01:34.45,0:01:36.23,Default,,0,0,0,,比 比起那個
+Dialogue: 0,0:01:38.28,0:01:39.09,Default,,0,0,0,,快躲起來
+Comment: 0,0:01:44.21,0:01:47.67,Name,,0,0,0,,#桑名江
+Dialogue: 0,0:01:43.57,0:01:46.21,Default,,0,0,0,,庖丁她們是怎麼了
+Comment: 0,0:01:49.42,0:01:52.42,Name,,0,0,0,,#牛王吉光
+Dialogue: 0,0:01:48.64,0:01:50.88,Default,,0,0,0,,難道是花粉症
+Dialogue: 0,0:02:07.27,0:02:10.23,Screen,,0,0,0,,{\blur5\pos(1060,356)\alpha&H80&\3c&H77AAFF&\3a&H70&}庖丁三姐妹「喧鬧的每日」
+Dialogue: 1,0:02:07.27,0:02:10.23,Screen,,0,0,0,,{\blur0.6\pos(1060,356)}庖丁三姐妹「喧鬧的每日」
+Dialogue: 0,0:02:11.96,0:02:14.27,Default,,0,0,0,,所以 這是怎麼回事
+Comment: 0,0:02:15.28,0:02:18.37,Name,,0,0,0,,#城和泉正宗
+Dialogue: 0,0:02:16.40,0:02:17.52,Default,,0,0,0,,真是的
+Dialogue: 0,0:02:18.40,0:02:19.53,Default,,0,0,0,,我們也不知道
+Dialogue: 0,0:02:19.53,0:02:20.85,Default,,0,0,0,,突然就碎了好多
+Dialogue: 0,0:02:20.85,0:02:22.51,Default,,0,0,0,,不是我們的錯
+Dialogue: 0,0:02:22.93,0:02:25.85,Default,,0,0,0,,反正都是你們引起的吧
+Dialogue: 0,0:02:27.81,0:02:29.86,Default,,0,0,0,,好了好了 城和泉
+Dialogue: 0,0:02:30.56,0:02:33.44,Default,,0,0,0,,她們也沒有惡意的
+Dialogue: 0,0:02:34.02,0:02:35.51,Default,,0,0,0,,那這算什麼啦
+Dialogue: 0,0:02:36.41,0:02:37.62,Default,,0,0,0,,是因為這個啦
+Dialogue: 0,0:02:38.05,0:02:42.47,Screen2,,0,0,0,,花粉性黃色藥品
+Dialogue: 0,0:02:51.99,0:02:52.91,Default,,0,0,0,,很厲害吧
+Dialogue: 0,0:02:53.67,0:02:56.26,Default,,0,0,0,,大概這就是秋天的花粉症吧
+Dialogue: 0,0:02:56.74,0:02:58.18,Default,,0,0,0,,怎麼可能
+Dialogue: 0,0:02:58.73,0:03:01.70,Default,,0,0,0,,或許連巫劍都無法抵擋花粉的威力呢
+Dialogue: 0,0:03:02.01,0:03:03.46,Default,,0,0,0,,去吧去吧
+Dialogue: 0,0:03:03.60,0:03:04.95,Default,,0,0,0,,喂喂 牛王
+Dialogue: 0,0:03:10.67,0:03:13.75,Default,,0,0,0,,今天還怎麼營業啊
+Dialogue: 0,0:03:13.84,0:03:15.97,Screen2,,0,0,0,,今日停業
+Dialogue: 0,0:03:26.79,0:03:28.02,Default,,0,0,0,,下次也要看喔！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:24.17,0:00:26.59,OP-JP,,0,0,0,,{\fad(200,200)\blur5}これは愛情友情それ以上
+Dialogue: 0,0:00:26.63,0:00:29.68,OP-JP,,0,0,0,,{\fad(200,200)\blur5}絆 I KNOW YOU KNOW 強くなってる
+Dialogue: 0,0:00:29.84,0:00:32.34,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ララララララララ
+Dialogue: 0,0:00:32.34,0:00:34.51,OP-JP,,0,0,0,,{\fad(200,200)\blur5}本当にそれだけ
+Dialogue: 0,0:00:34.51,0:00:36.38,OP-JP,,0,0,0,,{\fad(200,200)\blur5}めぐる懊悩煩悶こえても
+Dialogue: 0,0:00:36.49,0:00:39.53,OP-JP,,0,0,0,,{\fad(200,200)\blur5}揺れる感情反応どうしたらいい
+Dialogue: 0,0:00:39.76,0:00:42.05,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ララララララララ
+Dialogue: 0,0:00:42.05,0:00:43.99,OP-JP,,0,0,0,,{\fad(200,200)\blur5}真剣に向き合う
+Dialogue: 0,0:00:43.99,0:00:48.91,OP-JP,,0,0,0,,{\fad(200,200)\blur5}脆く　柔な　関係じゃないのだから
+Dialogue: 0,0:00:48.91,0:00:52.08,OP-JP,,0,0,0,,{\fad(200,200)\blur5}少しだけ踏み出していこうよ
+Dialogue: 0,0:00:24.17,0:00:26.59,OP-CN,,0,0,0,,{\fad(200,200)\blur5}這超越了愛情和友情
+Dialogue: 0,0:00:26.63,0:00:29.68,OP-CN,,0,0,0,,{\fad(200,200)\blur5}你我都知道羈絆變得更強
+Dialogue: 0,0:00:29.84,0:00:32.34,OP-CN,,0,0,0,,{\fad(200,200)\blur5}啦啦啦啦啦啦啦啦
+Dialogue: 0,0:00:32.34,0:00:34.51,OP-CN,,0,0,0,,{\fad(200,200)\blur5}真的就只是那樣嗎
+Dialogue: 0,0:00:34.51,0:00:36.38,OP-CN,,0,0,0,,{\fad(200,200)\blur5}即使超越了循環的懊惱煩悶
+Dialogue: 0,0:00:36.49,0:00:39.53,OP-CN,,0,0,0,,{\fad(200,200)\blur5}動搖的情感反應該如何是好
+Dialogue: 0,0:00:39.76,0:00:42.05,OP-CN,,0,0,0,,{\fad(200,200)\blur5}啦啦啦啦啦啦啦啦
+Dialogue: 0,0:00:42.05,0:00:43.99,OP-CN,,0,0,0,,{\fad(200,200)\blur5}認真地去面對
+Dialogue: 0,0:00:43.99,0:00:48.91,OP-CN,,0,0,0,,{\fad(200,200)\blur5}並不是脆弱軟弱的關係
+Dialogue: 0,0:00:48.91,0:00:52.08,OP-CN,,0,0,0,,{\fad(200,200)\blur5}就小小踏出一步前進吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
