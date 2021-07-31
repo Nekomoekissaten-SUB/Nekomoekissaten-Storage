@@ -1,5 +1,3 @@
-![](poster.png)
-
 # 中文字幕
 
 ep.01-13 [Web简繁合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Arifureta/Arifureta_Web_CHS&CHT.7z)
@@ -28,3 +26,5 @@ FOT-マティス ProN B <FOT-Matisse ProN B> ver.1.20
 ep.01-13
 
 [Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Arifureta/Arifureta_Web_JPN.7z)
+
+![](Arifureta_poster.png)
