@@ -1,0 +1,94 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Tenka Hyakken Meiji-kan e Youkoso! 10.TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-JP,FOT-TelopMin ProN E,50,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-CN,FZDaBiaoSong-B06,38,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,95,0,0,1,2,0,8,10,10,25,1
+Style: Staff,FZDaBiaoSong-B06,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,25,1
+Style: Name,HYShangWeiShouShuW,48,&H00000000,&H000000FF,&H00000000,&H0092ACB6,0,0,0,0,100,100,0,0,1,0,1,6,10,10,15,1
+Style: Screen,@FZDaBiaoSong-B06,35,&H00FFFFFF,&H00000000,&H001921E3,&H00C4E0F2,0,0,0,0,100,100,0,-90,1,2,0,8,10,10,15,1
+Style: Screen2,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen3,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:00.10,0:00:03.10,Staff,,0,0,0,,{\fad(500,500)\blur3}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途
+Dialogue: 0,0:00:03.15,0:00:06.15,Staff,,0,0,0,,{\fad(500,500)\blur3}翻譯：Hmiku　校對：K　後期：MIR　繁化：風風
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TEXT
+Dialogue: 0,0:00:01.56,0:00:20.00,Default,,0,0,0,,{\frz-90\fn@FZZhunYuan-M02\c&H0E8BFD&\3c&HB5EEF9&\pos(20,658)}巫魂
+Dialogue: 0,0:00:01.56,0:00:05.81,Default,,0,0,0,,巫劍們特殊力量的源泉 巫魂
+Dialogue: 0,0:00:06.37,0:00:13.17,Default,,0,0,0,,巫劍們使用這份力量 可以發動各自的特殊能力
+Dialogue: 0,0:00:14.04,0:00:17.88,Default,,0,0,0,,不論是在任何情況下…
+Dialogue: 0,0:00:37.26,0:00:39.99,Default,,0,0,0,,今天是烤肉 我開動啦
+Dialogue: 0,0:00:43.69,0:00:45.04,Default,,0,0,0,,好期待啊
+Dialogue: 0,0:00:45.18,0:00:47.02,Default,,0,0,0,,第一次烤肉呢
+Dialogue: 0,0:00:52.11,0:00:53.38,Default,,0,0,0,,久等啦
+Dialogue: 0,0:00:55.43,0:00:57.18,Default,,0,0,0,,多謝籌備
+Dialogue: 0,0:00:59.50,0:01:01.51,Default,,0,0,0,,大家都在呢
+Dialogue: 0,0:01:02.66,0:01:04.81,Default,,0,0,0,,真是 等得花兒都謝了
+Dialogue: 0,0:01:06.59,0:01:08.76,Default,,0,0,0,,我對這一天可是期盼已久了
+Dialogue: 0,0:01:09.96,0:01:11.62,Default,,0,0,0,,那就快點開始吧
+Dialogue: 0,0:01:12.97,0:01:14.22,Default,,0,0,0,,斬破黑暗
+Dialogue: 0,0:01:15.47,0:01:16.85,Screen3,,0,0,0,,{\fad(200,150)\fnFZDaBiaoSong-B06\c&H000000&\bord0\move(640,500,640,523,0,400)\fs40\t(0,400,\fs45)}燒烤目標
+Dialogue: 0,0:01:16.04,0:01:18.55,Default,,0,0,0,,現在 開始烤肉
+Dialogue: 0,0:01:18.93,0:01:20.48,Default,,0,0,0,,{\fad(300,0)\fnFZDaBiaoSong-B06\c&HB4E3F3&\3c&H444242&\fs20\pos(864,35)\bord2\1a&H00&}喜歡的部位
+Dialogue: 0,0:01:23.52,0:01:30.11,Default,,0,0,0,,{\fad(300,0)\fnFZDaBiaoSong-B06\c&HB4E3F3&\3c&H444242&\fs20\pos(864,35)\bord2\1a&H00&}喜歡的部位
+Dialogue: 0,0:01:19.89,0:01:21.16,Default,,0,0,0,,迅捷 敏銳
+Dialogue: 0,0:01:26.04,0:01:27.76,Default,,0,0,0,,不好 被吃了
+Dialogue: 0,0:01:27.93,0:01:29.06,Default,,0,0,0,,不會讓你得逞的
+Dialogue: 0,0:01:29.75,0:01:31.15,Default,,0,0,0,,我上了
+Dialogue: 0,0:01:31.20,0:01:32.83,Default,,0,0,0,,驅逐黑暗吧
+Dialogue: 0,0:01:36.06,0:01:38.10,Default,,0,0,0,,把筷子都吹跑了 不愧是桑名…
+Dialogue: 0,0:01:43.87,0:01:45.16,Default,,0,0,0,,非常抱歉
+Dialogue: 0,0:01:43.17,0:01:46.50,Screen,,0,0,0,,{\pos(1059,366)}桑名江「非常抱歉」
+Dialogue: 0,0:01:48.06,0:01:51.65,Default,,0,0,0,,在戰場上 未必每次都能遇到可以戰勝的對手
+Dialogue: 0,0:01:52.28,0:01:53.60,Default,,0,0,0,,所以特訓吧
+Dialogue: 0,0:01:53.90,0:01:56.71,Default,,0,0,0,,能從我們手中搶到肉嗎
+Dialogue: 0,0:02:00.79,0:02:02.54,Default,,0,0,0,,我們 全都 準備好了
+Dialogue: 0,0:02:03.01,0:02:05.75,Default,,0,0,0,,讓我見識一下你們的力量吧
+Dialogue: 0,0:02:07.19,0:02:08.90,Default,,0,0,0,,不給肉就搗蛋
+Dialogue: 0,0:02:09.91,0:02:11.65,Default,,0,0,0,,請給我們肉
+Dialogue: 0,0:02:16.28,0:02:18.68,Default,,0,0,0,,烤肉還真是充滿殺機啊
+Dialogue: 0,0:02:18.82,0:02:20.33,Default,,0,0,0,,是對手太強了啦
+Dialogue: 0,0:02:20.33,0:02:21.83,Default,,0,0,0,,就是就是
+Dialogue: 0,0:02:23.42,0:02:24.34,Default,,0,0,0,,不好了
+Dialogue: 0,0:02:25.72,0:02:28.07,Default,,0,0,0,,一番隊 加州清光
+Dialogue: 0,0:02:28.95,0:02:30.83,Default,,0,0,0,,還差得遠
+Dialogue: 0,0:02:31.42,0:02:33.67,Default,,0,0,0,,你能躲過我的三段擊嗎
+Dialogue: 0,0:02:33.67,0:02:35.36,Default,,0,0,0,,我會超越自己的極限
+Dialogue: 0,0:02:36.52,0:02:38.37,Default,,0,0,0,,那可是我烤的肉啊
+Dialogue: 0,0:02:41.07,0:02:44.43,Default,,0,0,0,,只有我吃的最少的樣子
+Dialogue: 0,0:02:45.85,0:02:49.90,Default,,0,0,0,,這樣的話 我就要使用秘技了
+Dialogue: 0,0:02:51.42,0:02:52.36,Default,,0,0,0,,城和泉
+Dialogue: 0,0:02:53.11,0:02:54.18,Default,,0,0,0,,要避難了呢
+Dialogue: 0,0:02:54.86,0:02:59.84,Default,,0,0,0,,燃燒吧 巫魂
+Dialogue: 0,0:03:05.08,0:03:06.52,Default,,0,0,0,,烤得剛剛好
+Dialogue: 0,0:03:07.81,0:03:09.08,Default,,0,0,0,,全烤完了
+Dialogue: 0,0:03:10.43,0:03:12.15,Default,,0,0,0,,火候也剛剛好
+Dialogue: 0,0:03:14.98,0:03:16.41,Default,,0,0,0,,烤得剛剛好
+Dialogue: 0,0:03:26.26,0:03:28.53,Default,,0,0,0,,烤肉 就是戰鬥
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:21.07,0:00:23.49,OP-JP,,0,0,0,,{\fad(200,200)\blur5}これは愛情友情それ以上
+Dialogue: 0,0:00:23.53,0:00:26.58,OP-JP,,0,0,0,,{\fad(200,200)\blur5}絆 I KNOW YOU KNOW 強くなってる
+Dialogue: 0,0:00:26.74,0:00:29.24,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ララララララララ
+Dialogue: 0,0:00:29.24,0:00:31.41,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ほんとにそれだけ
+Dialogue: 0,0:00:31.41,0:00:33.28,OP-JP,,0,0,0,,{\fad(200,200)\blur5}めぐる懊悩煩悶こえても
+Dialogue: 0,0:00:33.39,0:00:36.43,OP-JP,,0,0,0,,{\fad(200,200)\blur5}揺れる感情反応どうしたらいい
+Dialogue: 0,0:00:36.66,0:00:37.21,OP-JP,,0,0,0,,{\fad(200,0)\blur5}ラララ
+Dialogue: 0,0:00:21.07,0:00:23.49,OP-CN,,0,0,0,,{\fad(200,200)\blur5}這超越了愛情和友情
+Dialogue: 0,0:00:23.53,0:00:26.58,OP-CN,,0,0,0,,{\fad(200,200)\blur5}你我都知道羈絆變得更強
+Dialogue: 0,0:00:26.74,0:00:29.24,OP-CN,,0,0,0,,{\fad(200,200)\blur5}啦啦啦啦啦啦啦啦
+Dialogue: 0,0:00:29.24,0:00:31.41,OP-CN,,0,0,0,,{\fad(200,200)\blur5}真的就只是那樣嗎
+Dialogue: 0,0:00:31.41,0:00:33.28,OP-CN,,0,0,0,,{\fad(200,200)\blur5}即使超越了循環的懊惱煩悶
+Dialogue: 0,0:00:33.39,0:00:36.43,OP-CN,,0,0,0,,{\fad(200,200)\blur5}動搖的情感反應該如何是好
+Dialogue: 0,0:00:36.66,0:00:37.06,OP-CN,,0,0,0,,{\fad(200,0)\blur5}啦啦啦
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

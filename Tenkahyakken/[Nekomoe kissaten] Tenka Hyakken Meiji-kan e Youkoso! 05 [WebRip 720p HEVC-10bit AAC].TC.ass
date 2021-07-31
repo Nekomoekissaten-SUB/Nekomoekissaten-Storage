@@ -1,0 +1,105 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Tenka Hyakken Meiji-kan e Youkoso! 05.TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-JP,FOT-TelopMin ProN E,50,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: OP-CN,FZDaBiaoSong-B06,38,&H00FFFFFF,&H000000FF,&H00767676,&H00000000,0,0,0,0,100,95,0,0,1,2,0,8,10,10,25,1
+Style: Staff,FZDaBiaoSong-B06,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,25,1
+Style: Name,HYShangWeiShouShuW,48,&H00000000,&H000000FF,&H00000000,&H0092ACB6,0,0,0,0,100,100,0,0,1,0,1,6,10,10,15,1
+Style: Screen,@FZDaBiaoSong-B06,35,&H00FFFFFF,&H00000000,&H001921E3,&H00C4E0F2,0,0,0,0,100,100,0,-90,1,2,0,8,10,10,15,1
+Style: Screen2,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen3,FZZhunYuan-M02,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,STAFF
+Dialogue: 0,0:00:00.10,0:00:03.10,Staff,,0,0,0,,{\fad(500,500)\blur3}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途
+Dialogue: 0,0:00:03.15,0:00:06.15,Staff,,0,0,0,,{\fad(500,500)\blur3}翻譯：Hmiku　校對：K　後期：MIR　繁化：風風
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TEXT
+Dialogue: 0,0:00:01.81,0:00:21.00,Default,,0,0,0,,{\frz-90\fn@FZZhunYuan-M02\c&H0E8BFD&\3c&HB5EEF9&\pos(19,650)}禍憑
+Dialogue: 0,0:00:01.88,0:00:05.45,Default,,0,0,0,,最近都沒有禍憑出沒 真是和平啊
+Dialogue: 0,0:00:06.74,0:00:08.93,Default,,0,0,0,,給追求刺激的你
+Dialogue: 0,0:00:12.42,0:00:14.67,Default,,0,0,0,,是我親手做的禍憑人偶喔
+Dialogue: 0,0:00:14.85,0:00:16.90,Default,,0,0,0,,你又做了奇怪的東西
+Dialogue: 0,0:00:17.22,0:00:19.09,Default,,0,0,0,,我是用在倉庫放著的人偶做的
+Dialogue: 0,0:00:35.50,0:00:36.90,Default,,0,0,0,,為什麼要追上來啊
+Dialogue: 0,0:00:37.16,0:00:38.76,Default,,0,0,0,,這東西發著奇怪的光
+Dialogue: 0,0:00:39.10,0:00:42.30,Default,,0,0,0,,一起來解開其中的奧秘吧 來嘛來嘛
+Dialogue: 0,0:00:44.29,0:00:45.55,Default,,0,0,0,,這是什麼呀
+Dialogue: 0,0:00:45.92,0:00:47.58,Default,,0,0,0,,店裡怎麼全是南瓜啊
+Dialogue: 0,0:00:50.53,0:00:54.24,Default,,0,0,0,,{\frz340.2\pos(819,335)\fs25\3c&HFFFFFF&\c&HEEC08F&}萬聖節
+Dialogue: 0,0:00:50.53,0:00:54.24,Default,,0,0,0,,{\frz337.7\fs25\bord0\c&HC8A6BD&\pos(666,405)}扮演你喜歡的角色來這裡要點心吃吧！
+Dialogue: 0,0:00:50.53,0:00:54.24,Default,,0,0,0,,{\frz330.1\fs25\bord0\c&HC8A6BD&\pos(420,591)}時間
+Dialogue: 0,0:00:48.67,0:00:54.03,Default,,0,0,0,,今天好像是一個叫做萬聖節的國外節日呢
+Dialogue: 0,0:00:54.71,0:00:55.77,Default,,0,0,0,,萬聖節
+Dialogue: 0,0:00:56.48,0:00:57.91,Default,,0,0,0,,是萬聖節呢
+Dialogue: 0,0:00:58.37,0:00:59.37,Default,,0,0,0,,我做了面具
+Dialogue: 0,0:00:59.76,0:01:01.19,Default,,0,0,0,,是有白給的點心嗎？
+Dialogue: 0,0:01:02.38,0:01:03.75,Default,,0,0,0,,我會加油的
+Dialogue: 0,0:01:05.04,0:01:06.16,Default,,0,0,0,,準備完畢
+Dialogue: 0,0:01:08.03,0:01:09.80,Default,,0,0,0,,多去要點吧！
+Dialogue: 0,0:01:11.36,0:01:12.56,Default,,0,0,0,,好期待呀
+Dialogue: 0,0:01:14.51,0:01:17.14,Screen,,0,0,0,,{\pos(1063,357)}五虎退吉光「為你戴上的」
+Dialogue: 0,0:01:17.23,0:01:19.22,Default,,0,0,0,,一 二 不給糖就搗蛋！
+Dialogue: 0,0:01:20.05,0:01:21.55,Default,,0,0,0,,這是什麼咒語嗎
+Dialogue: 0,0:01:21.85,0:01:23.67,Default,,0,0,0,,大家都戴著奇怪的面具
+Dialogue: 0,0:01:24.05,0:01:25.94,Default,,0,0,0,,請問有什麼事嗎
+Dialogue: 0,0:01:26.47,0:01:28.35,Default,,0,0,0,,不給糖就搗蛋！
+Dialogue: 0,0:01:30.56,0:01:32.53,Default,,0,0,0,,這跟聽說的不一樣啊
+Dialogue: 0,0:01:34.31,0:01:35.94,Default,,0,0,0,,不給我們點心吃嗎
+Dialogue: 0,0:01:36.45,0:01:39.97,Default,,0,0,0,,不對勁啊 這上面寫著白給點心的啊
+Dialogue: 0,0:01:40.62,0:01:42.44,Default,,0,0,0,,那麼 如果是可愛的小五虎的話
+Dialogue: 0,0:01:43.95,0:01:44.64,Default,,0,0,0,,看你了
+Dialogue: 0,0:01:44.64,0:01:45.90,Default,,0,0,0,,拜託了
+Dialogue: 0,0:01:46.98,0:01:49.14,Default,,0,0,0,,那 那我努力試試
+Dialogue: 0,0:01:50.83,0:01:56.01,Default,,0,0,0,,不給糖就搗蛋 請給我點心 好嗎
+Dialogue: 0,0:01:59.01,0:02:01.29,Default,,0,0,0,,小五虎真可愛呀
+Dialogue: 0,0:02:01.29,0:02:02.26,Default,,0,0,0,,嗯
+Dialogue: 0,0:02:02.76,0:02:05.67,Default,,0,0,0,,總之 不給我們點心吃的話…
+Dialogue: 0,0:02:05.86,0:02:07.15,Default,,0,0,0,,我們就要惡作劇了
+Dialogue: 0,0:02:07.62,0:02:09.20,Default,,0,0,0,,今天這是怎麼了
+Dialogue: 0,0:02:09.51,0:02:13.17,Default,,0,0,0,,還要惡作劇 確實跟平常不太一樣
+Dialogue: 0,0:02:13.97,0:02:16.91,Default,,0,0,0,,莫非是被腦袋上的那東西給操縱了
+Dialogue: 0,0:02:17.80,0:02:21.18,Default,,0,0,0,,確實腦袋上有什麼不可名狀的東西附著呢
+Dialogue: 0,0:02:21.98,0:02:26.01,Default,,0,0,0,,說起來 那可能就是元兇
+Dialogue: 0,0:02:26.36,0:02:27.03,Default,,0,0,0,,這樣的話
+Dialogue: 0,0:02:32.87,0:02:34.83,Default,,0,0,0,,任務 完成
+Dialogue: 0,0:02:36.78,0:02:40.71,Default,,0,0,0,,等等 把店裡的東西弄壞了沒關係嗎
+Dialogue: 0,0:02:41.27,0:02:44.60,Default,,0,0,0,,為了讓大家恢復原狀 不得已只能這麼做
+Dialogue: 0,0:02:44.86,0:02:47.30,Default,,0,0,0,,恢復原狀 是怎麼一回事
+Dialogue: 0,0:02:47.54,0:02:50.71,Default,,0,0,0,,大家都被腦袋上的傢伙 還有這傢伙
+Dialogue: 0,0:02:50.91,0:02:52.48,Default,,0,0,0,,給操縱了
+Dialogue: 0,0:02:52.84,0:02:54.90,Default,,0,0,0,,這個是店裡的傳單 對吧
+Dialogue: 0,0:02:55.84,0:02:57.02,Default,,0,0,0,,上面都寫著呢
+Dialogue: 0,0:02:57.18,0:02:58.28,Default,,0,0,0,,Cosplay是什麼
+Dialogue: 0,0:02:58.45,0:03:00.74,Default,,0,0,0,,類似於變裝
+Dialogue: 0,0:03:00.70,0:03:04.71,Default,,0,0,0,,{\fnHYShangWeiShouShuW\pos(853,624)\bord0\c&H000000&}什麼
+Dialogue: 0,0:03:01.03,0:03:03.58,Default,,0,0,0,,莫非這是店裡搞的活動
+Dialogue: 0,0:03:05.16,0:03:08.66,Default,,0,0,0,,太好了 看來沒有巫劍被操縱啊
+Dialogue: 0,0:03:13.27,0:03:15.26,Default,,0,0,0,,這可是花了好大功夫做的…
+Dialogue: 0,0:03:13.51,0:03:15.97,Screen2,,0,0,0,,這可是花了好大功夫做的…
+Dialogue: 0,0:03:25.00,0:03:26.81,Default,,0,0,0,,總覺得有點遺憾呢
+Dialogue: 0,0:03:27.01,0:03:28.36,Default,,0,0,0,,今天就到這裡
+Dialogue: 0,0:03:28.36,0:03:29.54,Default,,0,0,0,,再見啦
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:22.17,0:00:24.59,OP-JP,,0,0,0,,{\fad(200,200)\blur5}これは愛情友情それ以上
+Dialogue: 0,0:00:24.63,0:00:27.68,OP-JP,,0,0,0,,{\fad(200,200)\blur5}絆 I KNOW YOU KNOW 強くなってる
+Dialogue: 0,0:00:27.84,0:00:30.34,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ララララララララ
+Dialogue: 0,0:00:30.34,0:00:32.51,OP-JP,,0,0,0,,{\fad(200,200)\blur5}ほんとにそれだけ
+Dialogue: 0,0:00:32.51,0:00:34.38,OP-JP,,0,0,0,,{\fad(200,200)\blur5}めぐる懊悩煩悶こえても
+Dialogue: 0,0:00:34.49,0:00:35.18,OP-JP,,0,0,0,,{\fad(200,0)\blur5}揺れる
+Dialogue: 0,0:00:22.17,0:00:24.59,OP-CN,,0,0,0,,{\fad(200,200)\blur5}這超越了愛情和友情
+Dialogue: 0,0:00:24.63,0:00:27.68,OP-CN,,0,0,0,,{\fad(200,200)\blur5}你我都知道羈絆變得更強
+Dialogue: 0,0:00:27.84,0:00:30.34,OP-CN,,0,0,0,,{\fad(200,200)\blur5}啦啦啦啦啦啦啦啦
+Dialogue: 0,0:00:30.34,0:00:32.51,OP-CN,,0,0,0,,{\fad(200,200)\blur5}真的就只是那樣嗎
+Dialogue: 0,0:00:32.51,0:00:34.38,OP-CN,,0,0,0,,{\fad(200,200)\blur5}即使超越了循環的懊惱煩悶
+Dialogue: 0,0:00:34.49,0:00:35.06,OP-CN,,0,0,0,,{\fad(200,0)\blur5}動搖的
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
