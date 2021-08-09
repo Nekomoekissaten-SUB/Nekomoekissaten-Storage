@@ -1,12 +1,16 @@
 # 字幕
 
-## 中文字幕
+## 中日双语字幕
+
+[简日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sigururi/Sigururi_BD_JPSC.7z)  
+[繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sigururi/Sigururi_BD_JPTC.7z)
 
 所需字体：
 ```
-Avenir Next W1G Medium
+Avenir Next W1G Medium (Italic)
 
-ＤＦ娥眉明朝体 StdN W5 <DFGabiMincho StdN W5>
+A-OTF 新ゴ Pr6N DB <A-OTF Shin Go Pr6N DB> 
+DF娥眉明朝体 StdN W5 <DFGabiMincho StdN W5>
 FOT-セザンヌ ProN B <FOT-Cezanne ProN B>
 FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 FOT-パルラムネ Std B <FOT-PalRamune Std B>
@@ -23,4 +27,4 @@ FOT-パルラムネ Std B <FOT-PalRamune Std B>
 華康愛情體Std W5
 ```
 
-![](poster.jpg)
+![](Sigururi_poster.jpg)
