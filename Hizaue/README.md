@@ -44,4 +44,4 @@ FOT-あられ Std DB <FOT-Aralet Std DB>    ver.1.20
 [日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Hizaue/Hizaue_TV_JPN.7z)
 
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2019-01/hizaue.jpg)

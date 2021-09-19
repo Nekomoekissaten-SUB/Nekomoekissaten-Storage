@@ -4,4 +4,4 @@
 
 [繁日双语](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Utapri-movie/Utapri-movie_BD_JPTC.7z)
 
-![](Utapri-movie_poster.png)
+![](https://nekomoe.pages.dev/images/others/utapri-movie.png)

@@ -27,4 +27,4 @@ FOT-ユトリロ Pro DB <FOT-Utrillo Pro DB>
 
 注：字体[FF-AL-Rune](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Assault_Lily/FF-AL-Rune.ttf)来自于[fermi](https://booth.pm/zh-cn/items/2441452)。
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-10/AssaultLilyBOUQUET.png)

@@ -21,4 +21,4 @@ FOT-筑紫Aオールド明朝 Pr6N D <FOT-TsukuAOldMin Pr6N D>
 腾祥金砖黑简繁 <Tensentype JinZhuanHeiJF>
 ```
 
-![](Vivy_poster.jpg)
+![](https://nekomoe.pages.dev/images/2021-04/vivy-portal.jpg)

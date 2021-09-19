@@ -1,0 +1,1 @@
+![](https://nekomoe.pages.dev/images/2019-10/tenka.jpg)

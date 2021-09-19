@@ -23,4 +23,4 @@ FZLanTingHei-M-GBK
 文鼎DC清圓B5
 ```
 
-![](Seijo_poster.jpg)
+![](https://nekomoe.pages.dev/images/2021-04/seijyonomaryoku.jpg)

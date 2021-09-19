@@ -36,4 +36,4 @@ FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 
 [Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/pet/pet_Web_JPN.7z)
 
-![](pet.jpg)
+![](https://nekomoe.pages.dev/images/2020-01/pet.jpg)

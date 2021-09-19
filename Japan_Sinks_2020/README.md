@@ -1,5 +1,3 @@
-![](post1.gif)
-
 # 字幕
 
 [中文BD字幕合集](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Japan_Sinks_2020/Japan_Sinks_2020_BD_ZHO.7z)
@@ -23,3 +21,5 @@ Avenir Next W1G Semibold / AvenirNextW1G-Demi
 方正仿宋_GBK <FZFangSong-Z02>
 方正行楷_GBK <FZXingKai-S04>
 ```
+
+![](https://nekomoe.pages.dev/images/2020-07/js2020.gif)

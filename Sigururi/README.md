@@ -27,4 +27,4 @@ FOT-パルラムネ Std B <FOT-PalRamune Std B>
 華康愛情體Std W5
 ```
 
-![](Sigururi_poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-10/sigururi.png)

@@ -32,4 +32,4 @@ FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 文鼎新藝體U <AR XinYiB5 Ultra>
 ```
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-07/DD.png)

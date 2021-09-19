@@ -60,4 +60,4 @@ FOT-奈 Std L <FOT-Nan Std L>
 [S1 Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_Web_JPN.7z)  
 [S2 Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS2_Web_JPN.7z)
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2019-10/beastars.png)

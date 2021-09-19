@@ -27,4 +27,4 @@
 
 [日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kemono_Jihen/Kemono_Jihen_Web_JPN.7z)来自Netflix，未作调轴适配
 
-![](Kemono_Jihen_poster.jpg)
+![](https://nekomoe.pages.dev/images/2021-01/Kemono_Jihen.jpg)

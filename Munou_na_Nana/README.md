@@ -23,4 +23,4 @@ MComic HK Medium
 
 暂缺
 
-![](https://nekomoe.pages.dev/images/2020-10/无能的奈奈.jpg)
+![](https://nekomoe.pages.dev/images/2020-10/nana.jpg)

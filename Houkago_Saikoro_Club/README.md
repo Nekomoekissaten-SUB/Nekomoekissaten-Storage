@@ -21,4 +21,4 @@ TsangerJinKai01-27533 W05
 华文宋体 <STSong>
 ```
 
-![](Saikoro-club_poster.jpg)
+![](https://nekomoe.pages.dev/images/2019-10/saikoro-club.jpg)

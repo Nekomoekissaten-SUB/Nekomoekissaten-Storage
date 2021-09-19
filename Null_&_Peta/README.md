@@ -1,5 +1,3 @@
-![](nullpeta.jpg)
-
 # 字幕
 
 ## 简体中文
@@ -35,3 +33,5 @@
 華康方圓體W7(P) <DFPFangYuanW7-B5>
 腾祥嘉丽大圆GB18030 <Tensentype JiaLiDaYuanGB18030>
 ```
+
+![](https://nekomoe.pages.dev/images/2019-10/nullpeta.jpg)

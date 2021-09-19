@@ -23,4 +23,4 @@ FOT-マティス ProN B <FOT-Matisse ProN B>
 
 [日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Tenkuu_Shinpan/Tenkuu_Shinpan_Web_JPN.7z) 来源于 Netflix。
 
-![](Tenkuu_Shinpan_poster.jxl)
+![](https://nekomoe.pages.dev/images/2021-01/TenkuuShinpan.jxl)

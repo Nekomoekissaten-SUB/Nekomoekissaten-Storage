@@ -27,4 +27,4 @@ FOT-マティス ProN EB <FOT-Matisse ProN EB>
 
 [日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_Web_JPN.7z)来自Netflix，未作调轴适配
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-10/kimisen.png)

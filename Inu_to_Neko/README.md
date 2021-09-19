@@ -8,4 +8,4 @@
 方正准圆_GBK <FZZhunYuan-M02>
 ```
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-01/inu_to_neko.png)

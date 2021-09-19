@@ -1,6 +1,6 @@
 # 新樱花大战 TV动画
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-04/sakura.png)
 
 ## 中日双语
 

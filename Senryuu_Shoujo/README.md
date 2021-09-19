@@ -1,5 +1,3 @@
-![](poster.png)
-
 # 字幕
 
 [Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Senryuu_Shoujo/Senryuu_Shoujo_Web.7z)
@@ -41,3 +39,5 @@ FOT-マティスはつひやまとPro DB <FOT-MatisseHatsuhi Pro DB> ver.1.20
 華康勘亭流 <DFKanTingLiu-B5> ver.5.00
 華康正顏楷體W7 <DFYanKaiW7-B5> ver.5.00
 ```
+
+![](https://nekomoe.pages.dev/images/2019-04/Senryuu_Shoujo.png)

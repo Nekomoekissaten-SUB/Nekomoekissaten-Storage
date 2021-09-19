@@ -25,3 +25,5 @@ MComputer HK Bold
 华康圆体W7-A <DFYuanW7-A>
 华文中宋 <STZhongsong>
 ```
+
+![](https://nekomoe.pages.dev/images/others/dora-bi.jpg)

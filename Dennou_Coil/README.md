@@ -33,4 +33,4 @@ Fira Sans Medium
 
 [日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dennou_Coil/Dennou_Coil_JPN.7z)来自于キッズステーション和 Netflix，未作调轴适配。
 
-![](Dennou_Coil_poster.png)
+![](https://nekomoe.pages.dev/images/others/Dennou_Coil.png)

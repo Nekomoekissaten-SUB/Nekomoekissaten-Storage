@@ -37,5 +37,5 @@ FOT-筑紫ゴシック Pro B <FOT-TsukuGo Pro B>
 
 # 海报
 
-![](gekidol_poster.jpg)
+![](https://nekomoe.pages.dev/images/2021-01/gekidol.jpg)
 ![](alicein_kv.jpg)

@@ -17,4 +17,4 @@ FOT-ニューロダン ProN DB <FOT-NewRodin ProN DB>
 
 # 海报
 
-![](blackfox_poster.jpg)
+![](https://nekomoe.pages.dev/images/others/blackfox.jpg)

@@ -15,4 +15,4 @@
 華康行書體 <DFXingShu-B5>
 ```
 
-![](poster.png)
+![](https://nekomoe.pages.dev/images/2020-10/yashahime.png)

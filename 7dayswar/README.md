@@ -1,5 +1,3 @@
-![](7dayswar_poster.jpg)
-
 # 简中字幕
 
 所需字体：
@@ -41,3 +39,5 @@ MZhiHeiHK-UltraBold  ver.1.10
 # 日文字幕
 
 BD自带
+
+![](https://nekomoe.pages.dev/images/others/7dayswar.jpg)

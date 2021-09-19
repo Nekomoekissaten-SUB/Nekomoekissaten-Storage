@@ -31,4 +31,4 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 汉仪旗黑-65S <HYQiHei-65S>
 ```
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/others/doremi.jpg)

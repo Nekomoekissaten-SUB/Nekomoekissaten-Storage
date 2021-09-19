@@ -1,5 +1,3 @@
-![](Gleipnir.png)
-
 # 字幕
 
 所需字体：
@@ -46,3 +44,5 @@ Sitka Text Bold Italic
 来源于Netflix，未调轴
 
 [Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Gleipnir/Gleipnir_JPN.7z)
+
+![](https://nekomoe.pages.dev/images/2020-04/Gleipnir.png)

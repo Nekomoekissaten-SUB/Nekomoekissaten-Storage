@@ -35,4 +35,4 @@ MStiffHei HK Medium
 
 [日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Rikekoi/Rikekoi_JPN.7z)
 
-![](Rikekoi_poster.png)
+![](https://nekomoe.pages.dev/images/2020-01/rikekoi.jpg)

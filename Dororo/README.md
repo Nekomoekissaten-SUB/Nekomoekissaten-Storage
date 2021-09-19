@@ -36,4 +36,4 @@ FZYouSong GBK 507R
 華康金文體W3(P) <DFPJinWenW3-B5>
 ```
 
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2019-01/dororo.jpg)

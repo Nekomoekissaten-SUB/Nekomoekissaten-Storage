@@ -38,4 +38,4 @@ FOT-筑紫明朝 Pr6N D <FOT-TsukuMin Pr6N D>
 華康棒棒體W5(P) <DFPBangBangW5-B5>
 ```
 
-![](nakineko_poster.jpg)
+![](https://nekomoe.pages.dev/images/others/nakineko.jpg)

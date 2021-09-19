@@ -27,4 +27,4 @@ ep.01-13
 
 [Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Arifureta/Arifureta_Web_JPN.7z)
 
-![](Arifureta_poster.png)
+![](https://nekomoe.pages.dev/images/2019-07/Arifureta.jpg)

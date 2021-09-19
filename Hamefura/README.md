@@ -1,5 +1,3 @@
-![](poster.png)
-
 # 字幕
 
 ## 中日双语
@@ -29,3 +27,5 @@ MYoyo PRC Medium
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 腾祥嘉丽大圆GB18030 <Tensentype JiaLiDaYuanGB18030>
 ```
+
+![](https://nekomoe.pages.dev/images/2020-04/otome.png)

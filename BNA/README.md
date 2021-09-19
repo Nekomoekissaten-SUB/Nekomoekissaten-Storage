@@ -1,5 +1,3 @@
-![](BNA_poster.jpg)
-
 # 字幕
 
 ## 中文
@@ -26,3 +24,5 @@ FOT-ロダン ProN EB <FOT-Rodin ProN EB>
 From Netflix
 
 [Web日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BNA/BNA_Web_JPN.7z)
+
+![](https://nekomoe.pages.dev/images/2020-04/BNA_poster.jpg)

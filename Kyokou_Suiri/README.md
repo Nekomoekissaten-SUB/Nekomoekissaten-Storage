@@ -96,4 +96,4 @@ MHGReithicTHK-Light
 
 # 海报
 
-![](kyokousuiri_poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-01/kyokousuiri.jpg)

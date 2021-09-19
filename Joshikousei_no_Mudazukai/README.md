@@ -1,5 +1,3 @@
-![](poster.jpg)
-
 # 字幕
 
 ## 简体中文
@@ -90,3 +88,5 @@ Unifont
 来源于Netflix，未调轴适配BD
 
 [Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_JPN_NF.7z)
+
+![](https://nekomoe.pages.dev/images/2019-07/jyoshimuda.jpg)

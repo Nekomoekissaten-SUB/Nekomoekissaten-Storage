@@ -21,4 +21,4 @@ Source Han Serif CN Medium
 華康雅宋體
 ```
 
-![](Kyototeramachi-holmes_poster.jpg)
+![](https://nekomoe.pages.dev/images/2018-07/Kyototeramachi-holmes.jpg)

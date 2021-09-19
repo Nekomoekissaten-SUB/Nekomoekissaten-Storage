@@ -1,5 +1,3 @@
-![](poster.png)
-
 # 字幕
 
 ## 中文
@@ -21,3 +19,5 @@ FOT-筑紫Aオールド明朝 Pr6N D <FOT-TsukuAOldMin Pr6N D>
 来源于Netflix，仅调轴后大致适配于Web源。
 
 [Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Runway_de_Waratte/Runway_de_Waratte_Web_JPN.7z)
+
+![](https://nekomoe.pages.dev/images/2020-01/runway.png)

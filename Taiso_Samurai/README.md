@@ -41,4 +41,4 @@ Sitka Small Bold Italic
 
 # 海报
 
-![](taiso_poster.jpg)
+![](https://nekomoe.pages.dev/images/2020-10/taiso.jpg)

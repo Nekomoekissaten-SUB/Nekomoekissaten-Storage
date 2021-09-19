@@ -43,4 +43,4 @@ FOT-筑紫明朝 Pr6N D <FOT-TsukuMin Pr6N D>
 華康超特黑體(P) <DFPHeiSUBold-B5>
 ```
 
-![](IDOLY_PRIDE_poster.jpg)
+![](https://nekomoe.pages.dev/images/2021-01/IDOLY-PRIDE.jpg)

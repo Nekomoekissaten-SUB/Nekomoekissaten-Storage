@@ -35,4 +35,4 @@ FOT-筑紫明朝 Pr6N D <FOT-TsukuMin Pr6N D>
 
 [日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Majotabi/Majotabi_JPN.7z)
 
-![](poster1.jpg)
+![](https://nekomoe.pages.dev/images/2020-10/majotabi1.jpg)

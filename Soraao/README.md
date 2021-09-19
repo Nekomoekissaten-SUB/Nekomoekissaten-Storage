@@ -1,4 +1,4 @@
-![](soraao_poster.png)
+![](https://nekomoe.pages.dev/images/others/soraao.png)
 
 # 字幕
 

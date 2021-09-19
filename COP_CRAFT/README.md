@@ -18,3 +18,5 @@ UDKakugo_LargePr6N-DB
 方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
 方正准圆_GBK <FZZhunYuan-M02>
 ```
+
+![](https://nekomoe.pages.dev/images/2019-07/copcraft.jpg)

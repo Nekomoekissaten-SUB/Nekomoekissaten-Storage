@@ -1,4 +1,4 @@
-![](poster.jpg)
+![](https://nekomoe.pages.dev/images/2019-07/sounan_desu_ka.jpg)
 
 # 字幕
 
