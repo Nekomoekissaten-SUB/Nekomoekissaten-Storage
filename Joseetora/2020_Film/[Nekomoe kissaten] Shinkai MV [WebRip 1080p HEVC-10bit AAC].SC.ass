@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Shinkai MV [WebRip 1080p HEVC-10bit AAC].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,TsangerJinKai01-27533 W01,30,&H00310B1B,&H000000FF,&H1A2F2828,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:40.72,0:00:45.16,Default,,0,0,0,,几经风霜　假装早已不抱期待
+Dialogue: 0,0:00:46.66,0:00:48.77,Default,,0,0,0,,不愿承认
+Dialogue: 0,0:00:48.77,0:00:55.74,Default,,0,0,0,,但我深深明白
+Dialogue: 0,0:00:55.74,0:00:56.97,Default,,0,0,0,,话虽如此
+Dialogue: 0,0:00:56.97,0:01:01.85,Default,,0,0,0,,双曲线依旧无法彼此相连
+Dialogue: 0,0:01:01.85,0:01:04.68,Default,,0,0,0,,我却一无所知
+Dialogue: 0,0:01:04.68,0:01:08.55,Default,,0,0,0,,越潜越深　越潜越深
+Dialogue: 0,0:01:08.55,0:01:11.76,Default,,0,0,0,,几乎无法呼吸
+Dialogue: 0,0:01:11.76,0:01:15.56,Default,,0,0,0,,朦胧中一道微光
+Dialogue: 0,0:01:15.56,0:01:18.33,Default,,0,0,0,,将我唤醒
+Dialogue: 0,0:01:18.33,0:01:22.00,Default,,0,0,0,,只愿与你伸手相牵
+Dialogue: 0,0:01:23.90,0:01:28.91,Default,,0,0,0,,啊　沉默的心依旧无法应答
+Dialogue: 0,0:01:28.91,0:01:32.21,Default,,0,0,0,,深邃大海风平浪静
+Dialogue: 0,0:01:32.21,0:01:35.31,Default,,0,0,0,,描绘出理想情景
+Dialogue: 0,0:01:35.31,0:01:36.51,Default,,0,0,0,,只能用尽力气
+Dialogue: 0,0:01:36.51,0:01:37.68,Default,,0,0,0,,祈祷着
+Dialogue: 0,0:01:37.68,0:01:39.85,Default,,0,0,0,,坚信一定不会忘记
+Dialogue: 0,0:01:39.85,0:01:45.02,Default,,0,0,0,,啊　若是在此停下脚步
+Dialogue: 0,0:01:45.02,0:01:47.76,Default,,0,0,0,,我们也不必
+Dialogue: 0,0:01:47.76,0:01:52.30,Default,,0,0,0,,品尝眼泪咸甜
+Dialogue: 0,0:01:52.30,0:01:56.00,Default,,0,0,0,,一起欢笑
+Dialogue: 0,0:01:56.00,0:01:58.44,Default,,0,0,0,,到永远
+Dialogue: 0,0:02:04.47,0:02:10.45,Default,,0,0,0,,想在幻想世界里畅游
+Dialogue: 0,0:02:10.45,0:02:13.12,Default,,0,0,0,,黄昏落日下
+Dialogue: 0,0:02:13.12,0:02:18.72,Default,,0,0,0,,回忆渗入夕阳
+Dialogue: 0,0:02:18.72,0:02:20.99,Default,,0,0,0,,涌上心田
+Dialogue: 0,0:02:20.99,0:02:23.99,Default,,0,0,0,,语气失落　如同陷入绝望
+Dialogue: 0,0:02:23.99,0:02:28.60,Default,,0,0,0,,仰头为明天发愁
+Dialogue: 0,0:02:28.60,0:02:32.47,Default,,0,0,0,,该怎么办呢
+Dialogue: 0,0:02:32.47,0:02:35.61,Default,,0,0,0,,连未来也变得忐忑不安
+Dialogue: 0,0:02:35.61,0:02:36.84,Default,,0,0,0,,唯有
+Dialogue: 0,0:02:36.84,0:02:38.07,Default,,0,0,0,,一丝音色
+Dialogue: 0,0:02:38.07,0:02:39.71,Default,,0,0,0,,高昂
+Dialogue: 0,0:02:39.71,0:02:42.18,Default,,0,0,0,,如耀眼阳光
+Dialogue: 0,0:02:42.18,0:02:44.01,Default,,0,0,0,,尽管梦想
+Dialogue: 0,0:02:44.01,0:02:46.55,Default,,0,0,0,,已遍体鳞伤
+Dialogue: 0,0:03:04.97,0:03:10.01,Default,,0,0,0,,{\fad(1516,0)}心跳加速　焦急难耐
+Dialogue: 0,0:03:10.01,0:03:12.74,Default,,0,0,0,,从心海尽头传来的声音
+Dialogue: 0,0:03:12.74,0:03:18.75,Default,,0,0,0,,就是你我曾经存在的证明
+Dialogue: 0,0:03:18.75,0:03:19.68,Default,,0,0,0,,漫长追寻
+Dialogue: 0,0:03:19.68,0:03:21.28,Default,,0,0,0,,终于结束
+Dialogue: 0,0:03:21.28,0:03:22.79,Default,,0,0,0,,发出近乎
+Dialogue: 0,0:03:22.79,0:03:24.29,Default,,0,0,0,,嘶哑的呼喊
+Dialogue: 0,0:03:24.29,0:03:25.86,Default,,0,0,0,,我来了
+Dialogue: 0,0:03:28.06,0:03:32.90,Default,,0,0,0,,{\fad(381,0)}啊　沉默的心依旧无法应答
+Dialogue: 0,0:03:32.90,0:03:36.03,Default,,0,0,0,,深邃大海风平浪静
+Dialogue: 0,0:03:36.03,0:03:38.60,Default,,0,0,0,,描绘出理想情景
+Dialogue: 0,0:03:38.60,0:03:41.57,Default,,0,0,0,,只能用尽力气祈祷
+Dialogue: 0,0:03:41.57,0:03:43.74,Default,,0,0,0,,坚信一定不会忘记
+Dialogue: 0,0:03:43.74,0:03:49.01,Default,,0,0,0,,啊　若是在此停下脚步
+Dialogue: 0,0:03:49.01,0:03:51.48,Default,,0,0,0,,我们也不必
+Dialogue: 0,0:03:51.48,0:03:55.99,Default,,0,0,0,,品尝眼泪咸甜
+Dialogue: 0,0:03:55.99,0:03:58.96,Default,,0,0,0,,一起欢笑
+Dialogue: 0,0:03:59.59,0:04:01.02,Default,,0,0,0,,到永远
+Dialogue: 0,0:04:17.11,0:04:22.98,Default,,0,0,0,,字幕：喵萌奶茶屋　翻译·时轴：小风yusa　后期：MIR
