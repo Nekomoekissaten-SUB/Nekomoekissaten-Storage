@@ -37,6 +37,8 @@ FOT-筑紫明朝 Pr6N B <FOT-TsukuMin Pr6N B>
 仓耳今楷01-27533 W01 <TsangerJinKai01-27533 W01>  只有 MV 需要
 ```
 
+![](https://joseetora.jp/special/img/download/pc_wall/js_pc_01.jpg)
+
 
 [2003_main_chs]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Joseetora/2003_Film/%5BNekomoe%20kissaten%5D%20Josee%2C%20the%20Tiger%20and%20the%20Fish%20%5BBDRip%201854x1020%20HEVC-10bit%20FLAC_AC3%20PGSx2%5D.SC.ass
 [2003_main_cht]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Joseetora/2003_Film/%5BNekomoe%20kissaten%5D%20Josee%2C%20the%20Tiger%20and%20the%20Fish%20%5BBDRip%201854x1020%20HEVC-10bit%20FLAC_AC3%20PGSx2%5D.TC.ass
