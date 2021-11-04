@@ -1,0 +1,59 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima TV [12][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Scroll Position: 13
+Active Line: 31
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.08,0:00:02.08,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.56,0:00:03.00,Default,,0,0,0,,小對 你去哪裡了啊
+Dialogue: 0,0:00:09.52,0:00:11.78,Default,,0,0,0,,哇 有貓賊
+Dialogue: 0,0:00:13.37,0:00:15.51,Default,,0,0,0,,叫我對大哥
+Dialogue: 0,0:00:17.44,0:00:19.27,Default,,0,0,0,,你不用這麼傷心
+Dialogue: 0,0:00:19.48,0:00:22.06,Default,,0,0,0,,我也會幫你找的 好嗎
+Dialogue: 0,0:00:22.06,0:00:24.47,Default,,0,0,0,,太謝謝你了
+Dialogue: 0,0:00:25.99,0:00:27.43,Default,,0,0,0,,我是不會被你抓到的
+Dialogue: 0,0:00:28.26,0:00:29.43,Default,,0,0,0,,唔 肚子餓了
+Dialogue: 0,0:00:30.96,0:00:34.48,Default,,0,0,0,,那之後 已經過去多久了呢
+Dialogue: 0,0:00:34.74,0:00:37.55,Default,,0,0,0,,雖然每天還會準備些食物
+Dialogue: 0,0:00:37.83,0:00:41.00,Default,,0,0,0,,我到底是在等誰呢
+Dialogue: 0,0:00:41.65,0:00:43.58,Default,,0,0,0,,振作點 老爺子
+Dialogue: 0,0:00:43.58,0:00:47.52,Default,,0,0,0,,已經想不起來了 全都忘了
+Dialogue: 0,0:00:48.66,0:00:50.31,Default,,0,0,0,,過來 大小姐
+Dialogue: 0,0:00:50.45,0:00:51.82,Default,,0,0,0,,茶也過來
+Dialogue: 0,0:00:52.65,0:00:57.43,Default,,0,0,0,,我死後你們也要堅強地活下去喔
+Dialogue: 0,0:00:57.59,0:00:59.87,Default,,0,0,0,,去找個好人家
+Dialogue: 0,0:01:00.33,0:01:03.29,Default,,0,0,0,,如果實在餓得受不了了
+Dialogue: 0,0:01:03.29,0:01:06.10,Default,,0,0,0,,可以吃了我來充飢
+Dialogue: 0,0:01:06.81,0:01:08.37,Default,,0,0,0,,誰要吃你啊 噁心
+Dialogue: 0,0:01:08.37,0:01:09.37,Default,,0,0,0,,髒死了
+Dialogue: 0,0:01:09.37,0:01:10.77,Default,,0,0,0,,能吃嗎 這東西
+Dialogue: 0,0:01:13.54,0:01:14.87,Default,,0,0,0,,是做夢
+Dialogue: 0,0:01:15.98,0:01:17.32,Default,,0,0,0,,對不起 小對
+Dialogue: 0,0:01:18.44,0:01:19.88,Default,,0,0,0,,害你擔心了 這個送你
+Dialogue: 0,0:01:21.48,0:01:24.56,Default,,0,0,0,,叫我對大哥 果然還是家裡最好
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:13.77,0:00:16.98,Title,,0,0,0,,{\pos(452.525,486.299)}叫我對大哥
+Dialogue: 0,0:00:16.98,0:00:17.90,Screen,,0,0,0,,{\fad(0,500)\an7\fs30\pos(74.667,10.667)\bord2}　　　懸賞\N尋找走失貓咪\N姓名 對大哥\N（公貓 對馬虎斑）\N特徵\N·袋熊的體形（二頭身）\N·穿著裹腹帶·可愛\N發現請務必聯絡！！
+Dialogue: 0,0:01:24.98,0:01:29.98,Title,,0,0,0,,{\c&HDBFCFF&\fs40\pos(628.563,38.784)}叫我對大哥
+Dialogue: 0,0:01:29.98,0:01:44.98,End,,0,0,0,,{\pos(589.775,636.464)\c&H040611&}《叫我對大哥》{\r}的更多篇章\N請下載WEB版觀看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

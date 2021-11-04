@@ -1,0 +1,38 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima Web [10][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:01.40,0:00:06.69,Staff,,0,0,0,,{\fad(300,1000)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:01.40,0:00:03.56,Default,,0,0,0,,叫我對大哥
+Dialogue: 0,0:00:08.01,0:00:11.63,Default,,0,0,0,,活著便充滿了驚訝
+Dialogue: 0,0:00:12.51,0:00:13.94,Default,,0,0,0,,——艾米莉·狄金森
+Dialogue: 0,0:00:14.88,0:00:16.72,Default,,0,0,0,,哎呀 你醒啦
+Dialogue: 0,0:00:16.72,0:00:17.77,Default,,0,0,0,,要吃飯嗎
+Dialogue: 0,0:00:19.16,0:00:21.61,Default,,0,0,0,,好好 稍等一下
+Dialogue: 0,0:00:22.22,0:00:24.39,Default,,0,0,0,,小對 讓我起來一下
+Dialogue: 0,0:00:26.47,0:00:28.31,Default,,0,0,0,,伸 縮
+Dialogue: 0,0:00:28.44,0:00:30.51,Default,,0,0,0,,伸 縮
+Dialogue: 0,0:00:36.10,0:00:37.35,Default,,0,0,0,,好可怕
+Dialogue: 0,0:00:37.64,0:00:39.43,Default,,0,0,0,,咦 為什麼啊
+Dialogue: 0,0:00:40.41,0:00:43.02,Default,,0,0,0,,茶也充滿了驚訝
+Dialogue: 0,0:00:43.59,0:00:44.82,Default,,0,0,0,,爺爺如是說
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

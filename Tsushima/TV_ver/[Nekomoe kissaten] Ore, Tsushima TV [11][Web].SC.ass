@@ -1,0 +1,66 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima TV [11][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.08,0:00:02.08,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.90,0:00:02.08,Default,,0,0,0,,牙疼
+Dialogue: 0,0:00:03.38,0:00:04.11,Default,,0,0,0,,怎么了
+Dialogue: 0,0:00:04.46,0:00:06.36,Default,,0,0,0,,给我看看 流血了啊
+Dialogue: 0,0:00:06.69,0:00:07.59,Default,,0,0,0,,快住手
+Dialogue: 0,0:00:07.59,0:00:09.23,Default,,0,0,0,,嘴巴里么全是血
+Dialogue: 0,0:00:09.23,0:00:09.94,Default,,0,0,0,,别摸我
+Dialogue: 0,0:00:09.94,0:00:12.77,Default,,0,0,0,,只能麻醉拔牙了
+Dialogue: 0,0:00:12.77,0:00:15.05,Default,,0,0,0,,必须带去医院治疗才行吧
+Dialogue: 0,0:00:15.05,0:00:17.45,Default,,0,0,0,,确实 你想办法把它带过来
+Dialogue: 0,0:00:18.45,0:00:19.56,Default,,0,0,0,,情势所逼
+Dialogue: 0,0:00:19.68,0:00:21.69,Default,,0,0,0,,这里必须狠下心来
+Dialogue: 0,0:00:23.83,0:00:24.52,Default,,0,0,0,,骗子
+Dialogue: 0,0:00:25.40,0:00:27.52,Default,,0,0,0,,你不是承诺再也不会带我去医院吗
+Dialogue: 0,0:00:27.57,0:00:28.32,Default,,0,0,0,,骗子
+Dialogue: 0,0:00:28.32,0:00:30.74,Default,,0,0,0,,抱歉 抱歉 小怼
+Dialogue: 0,0:00:30.74,0:00:31.49,Default,,0,0,0,,骗子
+Dialogue: 0,0:00:31.49,0:00:31.88,Default,,0,0,0,,好重
+Dialogue: 0,0:00:33.33,0:00:35.49,Default,,0,0,0,,我是怼大哥
+Dialogue: 0,0:00:37.02,0:00:38.25,Default,,0,0,0,,你好
+Dialogue: 0,0:00:38.25,0:00:40.46,Default,,0,0,0,,我来带小怼回家了
+Dialogue: 0,0:00:41.10,0:00:41.92,Default,,0,0,0,,小怼！
+Dialogue: 0,0:00:43.48,0:00:46.81,Default,,0,0,0,,对不起 小怼你原谅我吧
+Dialogue: 0,0:00:46.81,0:00:47.75,Default,,0,0,0,,牙被拔了
+Dialogue: 0,0:00:47.75,0:00:48.29,Default,,0,0,0,,对不起
+Dialogue: 0,0:00:48.29,0:00:49.65,Default,,0,0,0,,手臂上的毛也被剃了
+Dialogue: 0,0:00:49.65,0:00:51.48,Default,,0,0,0,,哇 好可怜
+Dialogue: 0,0:00:51.69,0:00:53.91,Default,,0,0,0,,我没能原谅爷爷
+Dialogue: 0,0:00:55.24,0:00:57.38,Default,,0,0,0,,变得不再相信人类了
+Dialogue: 0,0:00:58.97,0:01:01.07,Default,,0,0,0,,永远都不会再进来这个家了
+Dialogue: 0,0:01:02.08,0:01:04.32,Default,,0,0,0,,小怼 开饭了哦
+Dialogue: 0,0:01:04.32,0:01:05.01,Default,,0,0,0,,咦
+Dialogue: 0,0:01:05.01,0:01:06.03,Default,,0,0,0,,小怼
+Dialogue: 0,0:01:10.58,0:01:12.65,Default,,0,0,0,,小怼 你去哪儿了啊
+Dialogue: 0,0:01:13.34,0:01:15.04,Default,,0,0,0,,为什么不回来啊
+Dialogue: 0,0:01:15.04,0:01:15.89,Default,,0,0,0,,小怼
+Dialogue: 0,0:01:16.66,0:01:17.79,Default,,0,0,0,,我是怼大哥
+Dialogue: 0,0:01:18.05,0:01:20.10,Default,,0,0,0,,孤独漂泊的旅行猫
+Dialogue: 0,0:01:22.24,0:01:23.67,Default,,0,0,0,,太挤了 再往边上挤挤
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:33.77,0:00:36.98,Title,,0,0,0,,{\pos(452.525,486.299)}我是怼大哥
+Dialogue: 0,0:01:24.98,0:01:29.98,Title,,0,0,0,,{\c&HDBFCFF&\fs40\pos(628.563,38.784)}我是怼大哥
+Dialogue: 0,0:01:29.98,0:01:44.98,End,,0,0,0,,{\pos(589.775,636.464)\c&H040611&}《我是怼大哥》{\r}的更多篇章\N请下载WEB版观看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

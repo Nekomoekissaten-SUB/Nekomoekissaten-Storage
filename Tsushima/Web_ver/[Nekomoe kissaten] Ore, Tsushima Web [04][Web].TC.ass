@@ -1,0 +1,55 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima Web [04][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:01.40,0:00:06.69,Staff,,0,0,0,,{\fad(300,1000)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:01.40,0:00:03.54,Default,,0,0,0,,叫我對大哥
+Dialogue: 0,0:00:09.62,0:00:12.30,Default,,0,0,0,,熱帶島嶼啊 真不錯
+Dialogue: 0,0:00:12.99,0:00:14.31,Default,,0,0,0,,熱帶島嶼？
+Dialogue: 0,0:00:14.99,0:00:16.00,Default,,0,0,0,,在哪裡啊
+Dialogue: 0,0:00:16.37,0:00:20.00,Default,,0,0,0,,熱帶島嶼在離這裡很遠的那邊
+Dialogue: 0,0:00:20.45,0:00:22.06,Default,,0,0,0,,不對 是那邊吧
+Dialogue: 0,0:00:22.55,0:00:25.74,Default,,0,0,0,,爺爺是個不可救藥的路痴
+Dialogue: 0,0:00:26.82,0:00:29.01,Default,,0,0,0,,熱帶島嶼那邊都有什麼
+Dialogue: 0,0:00:29.28,0:00:30.99,Default,,0,0,0,,大海啊 有大海
+Dialogue: 0,0:00:31.18,0:00:36.18,Default,,0,0,0,,大海比那邊的神社要大上幾萬倍對喔
+Dialogue: 0,0:00:36.28,0:00:37.83,Default,,0,0,0,,小對有聽說過嗎
+Dialogue: 0,0:00:38.15,0:00:40.02,Default,,0,0,0,,海裡有魚對吧
+Dialogue: 0,0:00:40.70,0:00:41.71,Default,,0,0,0,,是啊
+Dialogue: 0,0:00:41.83,0:00:47.62,Default,,0,0,0,,但是熱帶島嶼那邊的海洋生物都超大隻對喔
+Dialogue: 0,0:00:48.24,0:00:50.35,Default,,0,0,0,,爺爺你是在胡說吧
+Dialogue: 0,0:00:50.79,0:00:54.61,Default,,0,0,0,,確實 我又沒去過 還害怕坐飛機
+Dialogue: 0,0:00:55.53,0:00:58.10,Default,,0,0,0,,對了 在熱帶島嶼上
+Dialogue: 0,0:00:58.38,0:01:00.58,Default,,0,0,0,,有對馬山貓對喔
+Dialogue: 0,0:01:00.79,0:01:04.32,Default,,0,0,0,,對喔 是我名字來源的那個
+Dialogue: 0,0:01:05.69,0:01:06.88,Default,,0,0,0,,也不怎麼像吧
+Dialogue: 0,0:01:07.31,0:01:08.66,Default,,0,0,0,,也是啊
+Dialogue: 0,0:01:10.79,0:01:12.63,Default,,0,0,0,,和爺爺談談這些
+Dialogue: 0,0:01:12.82,0:01:16.00,Default,,0,0,0,,感覺好像真的一起去旅行了一樣
+Dialogue: 0,0:01:16.61,0:01:20.92,Default,,0,0,0,,這樣吧 為了更有南國氛圍
+Dialogue: 0,0:01:21.74,0:01:24.13,Default,,0,0,0,,我來跳支南國舞蹈吧
+Dialogue: 0,0:01:24.13,0:01:25.94,Default,,0,0,0,,快看 快看
+Dialogue: 0,0:01:29.32,0:01:32.58,Default,,0,0,0,,但我還是覺得家裡最棒
+Dialogue: 0,0:01:33.47,0:01:34.21,Default,,0,0,0,,對大哥
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:06.90,0:00:12.83,Screen,,0,0,0,,{\an7\fs36\c&H575553&\bord0}我在熱帶島嶼上\N好開心\N哈哈哈哈…\N　西塔
+Dialogue: 0,0:01:01.54,0:01:04.42,Screen,,0,0,0,,{\fad(250,250)\fnFZLanTingYuan-B-GBK\bord4\3c&HFFFFFF&\c&H084778&\pos(804.327,606.31)}對馬山貓
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima Web [06][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:01.40,0:00:06.69,Staff,,0,0,0,,{\fad(300,1000)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:01.40,0:00:03.55,Default,,0,0,0,,我是怼大哥
+Dialogue: 0,0:00:09.44,0:00:10.50,Default,,0,0,0,,我不干
+Dialogue: 0,0:00:11.03,0:00:12.38,Default,,0,0,0,,凭什么要我这么做
+Dialogue: 0,0:00:13.67,0:00:17.25,Default,,0,0,0,,爷爷经常看演戏
+Dialogue: 0,0:00:18.27,0:00:20.41,Default,,0,0,0,,我 像这样…
+Dialogue: 0,0:00:21.05,0:00:21.83,Default,,0,0,0,,为什么呢
+Dialogue: 0,0:00:23.37,0:00:28.69,Default,,0,0,0,,…闭上眼睛 认真回想
+Dialogue: 0,0:00:30.36,0:00:33.39,Default,,0,0,0,,好久未见的母亲曾经的身影就会浮现在脑海里
+Dialogue: 0,0:00:34.76,0:00:35.75,Default,,0,0,0,,这就足够了
+Dialogue: 0,0:00:39.51,0:00:41.68,Default,,0,0,0,,可能是因为能让人睡得很香吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

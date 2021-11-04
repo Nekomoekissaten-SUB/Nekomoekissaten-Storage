@@ -1,0 +1,69 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima TV [09][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Active Line: 5
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.08,0:00:02.08,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.43,0:00:03.69,Default,,0,0,0,,完了 這個月根本沒錢
+Dialogue: 0,0:00:03.69,0:00:05.07,Default,,0,0,0,,錢是什麼
+Dialogue: 0,0:00:05.85,0:00:07.88,Default,,0,0,0,,錢很重要喔
+Dialogue: 0,0:00:07.88,0:00:09.05,Default,,0,0,0,,很重要？
+Dialogue: 0,0:00:09.84,0:00:12.68,Default,,0,0,0,,說到爺爺覺得重要的東西
+Dialogue: 0,0:00:14.26,0:00:14.86,Default,,0,0,0,,就是這個
+Dialogue: 0,0:00:15.92,0:00:17.22,Default,,0,0,0,,多帶些回去給他吧
+Dialogue: 0,0:00:19.36,0:00:21.52,Default,,0,0,0,,叫我對大哥
+Dialogue: 0,0:00:24.65,0:00:25.35,Default,,0,0,0,,你是誰
+Dialogue: 0,0:00:25.77,0:00:26.49,Default,,0,0,0,,是小茶嗎
+Dialogue: 0,0:00:27.03,0:00:28.03,Default,,0,0,0,,不 不是小茶
+Dialogue: 0,0:00:28.35,0:00:30.28,Default,,0,0,0,,這男性的側臉
+Dialogue: 0,0:00:30.28,0:00:31.31,Default,,0,0,0,,長長的睫毛
+Dialogue: 0,0:00:31.40,0:00:33.77,Default,,0,0,0,,是的 毫無疑問他就是…
+Dialogue: 0,0:00:34.41,0:00:36.34,Default,,0,0,0,,王子 歡迎回來
+Dialogue: 0,0:00:36.52,0:00:37.03,Default,,0,0,0,,王子
+Dialogue: 0,0:00:37.21,0:00:39.35,Default,,0,0,0,,嗯 好久不見 爺爺
+Dialogue: 0,0:00:39.59,0:00:42.92,Default,,0,0,0,,太好了 一直都想再見你一面
+Dialogue: 0,0:00:43.29,0:00:45.34,Default,,0,0,0,,過來 快過來王子
+Dialogue: 0,0:00:45.68,0:00:46.34,Default,,0,0,0,,讓開
+Dialogue: 0,0:00:47.49,0:00:49.79,Default,,0,0,0,,你還是老樣子 像個暴君
+Dialogue: 0,0:00:50.13,0:00:52.40,Default,,0,0,0,,你很想向我撒嬌對吧
+Dialogue: 0,0:00:52.40,0:00:53.20,Default,,0,0,0,,是的 日思夜想
+Dialogue: 0,0:00:53.38,0:00:54.78,Default,,0,0,0,,你還記得嗎 爺爺
+Dialogue: 0,0:00:55.04,0:00:56.35,Default,,0,0,0,,我們每天晚上去散步
+Dialogue: 0,0:00:56.35,0:00:57.22,Default,,0,0,0,,當然
+Dialogue: 0,0:00:57.38,0:00:59.71,Default,,0,0,0,,去爬樹玩 去撿松果
+Dialogue: 0,0:00:59.99,0:01:01.79,Default,,0,0,0,,一起度過悠閒自在的時光
+Dialogue: 0,0:01:01.79,0:01:04.84,Default,,0,0,0,,就像全都是昨天剛發生的一樣
+Dialogue: 0,0:01:04.84,0:01:07.74,Default,,0,0,0,,好了 朕該趕緊離去了
+Dialogue: 0,0:01:08.12,0:01:09.04,Default,,0,0,0,,這麼快嗎
+Dialogue: 0,0:01:09.04,0:01:10.63,Default,,0,0,0,,你心裡很清楚吧
+Dialogue: 0,0:01:10.77,0:01:12.94,Default,,0,0,0,,朕已經不在這個世間
+Dialogue: 0,0:01:12.94,0:01:14.13,Default,,0,0,0,,王子
+Dialogue: 0,0:01:16.07,0:01:17.45,Default,,0,0,0,,很幸福的樣子
+Dialogue: 0,0:01:18.24,0:01:19.51,Default,,0,0,0,,對了 還有這個
+Dialogue: 0,0:01:19.80,0:01:21.98,Default,,0,0,0,,哼哼 希望爺爺能喜歡
+Dialogue: 0,0:01:23.27,0:01:24.40,Default,,0,0,0,,王子
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:19.77,0:00:22.98,Title,,0,0,0,,{\pos(452.525,486.299)}叫我對大哥
+Dialogue: 0,0:01:24.98,0:01:29.98,Title,,0,0,0,,{\c&HDBFCFF&\fs40\pos(628.563,38.784)}叫我對大哥
+Dialogue: 0,0:01:29.98,0:01:44.98,End,,0,0,0,,{\pos(589.775,636.464)\c&H040611&}《叫我對大哥》{\r}的更多篇章\N請下載WEB版觀看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

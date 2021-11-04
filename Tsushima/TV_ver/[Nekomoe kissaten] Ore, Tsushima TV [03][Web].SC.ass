@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima TV [03][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.08,0:00:02.08,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.29,0:00:02.88,Default,,0,0,0,,快看这边 是梳毛刷哦
+Dialogue: 0,0:00:02.88,0:00:04.56,Default,,0,0,0,,你看它多舒服
+Dialogue: 0,0:00:04.56,0:00:06.68,Default,,0,0,0,,本猫可是纯粹的野猫
+Dialogue: 0,0:00:06.68,0:00:08.99,Default,,0,0,0,,是不会那么轻易亲近这家伙的
+Dialogue: 0,0:00:09.56,0:00:11.38,Default,,0,0,0,,舒服吧
+Dialogue: 0,0:00:11.64,0:00:13.40,Default,,0,0,0,,哦 这东西叫梳毛刷啊
+Dialogue: 0,0:00:13.40,0:00:16.65,Default,,0,0,0,,人类会用这种道具来驯服我们
+Dialogue: 0,0:00:18.37,0:00:20.57,Default,,0,0,0,,我是怼大哥
+Dialogue: 0,0:00:23.53,0:00:24.68,Default,,0,0,0,,我又不是狗崽子
+Dialogue: 0,0:00:24.98,0:00:28.05,Default,,0,0,0,,以为我会因为这东西向人类摇尾巴的话
+Dialogue: 0,0:00:28.05,0:00:31.26,Default,,0,0,0,,那你就大错特…错…啊…
+Dialogue: 0,0:00:34.51,0:00:37.23,Default,,0,0,0,,怎么了 手为什么停了
+Dialogue: 0,0:00:37.23,0:00:39.63,Default,,0,0,0,,抱歉 让我休息一下
+Dialogue: 0,0:00:39.63,0:00:42.35,Default,,0,0,0,,已经不停手地梳了3个小时了
+Dialogue: 0,0:00:42.35,0:00:44.00,Default,,0,0,0,,那我离开这里算了
+Dialogue: 0,0:00:44.00,0:00:46.68,Default,,0,0,0,,别呀 别呀 这就给你梳
+Dialogue: 0,0:00:46.94,0:00:49.32,Default,,0,0,0,,真是的 人类就得不停盯着才行
+Dialogue: 0,0:00:52.53,0:00:54.98,Default,,0,0,0,,爷爷经常买些玩具回来
+Dialogue: 0,0:00:54.98,0:00:57.24,Default,,0,0,0,,小怼快看 新玩具
+Dialogue: 0,0:00:57.65,0:00:59.80,Default,,0,0,0,,哟 很感兴趣的样子嘛
+Dialogue: 0,0:01:02.51,0:01:04.48,Default,,0,0,0,,愣着干嘛 快把那东西甩起来
+Dialogue: 0,0:01:04.48,0:01:05.31,Default,,0,0,0,,啊 好的
+Dialogue: 0,0:01:05.31,0:01:07.77,Default,,0,0,0,,真是的 人类真让猫费神
+Dialogue: 0,0:01:08.17,0:01:12.88,Default,,0,0,0,,爷爷为了留住我 对我猛烈地献殷勤
+Dialogue: 0,0:01:12.88,0:01:14.71,Default,,0,0,0,,不会吧 你要走了吗
+Dialogue: 0,0:01:14.71,0:01:17.12,Default,,0,0,0,,没有小怼 爷爷我会因为太寂寞流眼泪的哦
+Dialogue: 0,0:01:17.12,0:01:19.98,Default,,0,0,0,,说实话 这种恶心的撒娇声着实令人反胃
+Dialogue: 0,0:01:19.98,0:01:21.98,Default,,0,0,0,,但我已经看中这个家了
+Dialogue: 0,0:01:22.23,0:01:24.42,Default,,0,0,0,,不用担心 我会回来的
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:18.77,0:00:21.98,Title,,0,0,0,,{\pos(452.525,486.299)}我是怼大哥
+Dialogue: 0,0:00:49.48,0:00:52.48,Title_V,,0,0,0,,{\pos(73.598,398.784)}我是怼大哥
+Dialogue: 0,0:01:24.98,0:01:29.98,Title,,0,0,0,,{\c&HDBFCFF&\fs40\pos(628.563,38.784)}我是怼大哥
+Dialogue: 0,0:01:29.98,0:01:44.98,End,,0,0,0,,{\pos(589.775,636.464)\c&H040611&}《我是怼大哥》{\r}的更多篇章\N请下载WEB版观看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

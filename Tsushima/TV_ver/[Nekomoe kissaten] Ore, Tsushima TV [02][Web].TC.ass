@@ -1,0 +1,54 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima TV [02][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.08,0:00:02.08,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.90,0:00:03.50,Default,,0,0,0,,你怎麼這麼能吃啊
+Dialogue: 0,0:00:03.56,0:00:06.56,Default,,0,0,0,,因為我是野貓 這就是本喵的活法
+Dialogue: 0,0:00:06.56,0:00:08.14,Default,,0,0,0,,別的貓怎麼說不關我的事
+Dialogue: 0,0:00:09.86,0:00:12.07,Default,,0,0,0,,叫我對大哥
+Dialogue: 0,0:00:15.57,0:00:17.93,Default,,0,0,0,,咳 喂 說你呢
+Dialogue: 0,0:00:18.88,0:00:21.96,Default,,0,0,0,,老夫家的院子成了你的廁所了嗎
+Dialogue: 0,0:00:22.62,0:00:25.32,Default,,0,0,0,,怎麼 一臉「也不給倒杯茶」的表情
+Dialogue: 0,0:00:25.79,0:00:27.91,Default,,0,0,0,,好吧 你稍等
+Dialogue: 0,0:00:29.98,0:00:32.55,Default,,0,0,0,,喲 勞駕了
+Dialogue: 0,0:00:33.17,0:00:38.59,Default,,0,0,0,,難得你來一趟 讓你在院子裡等著確實不妥
+Dialogue: 0,0:00:38.79,0:00:43.48,Default,,0,0,0,,從那天起 我每天都會去這位獨居爺爺的家裡
+Dialogue: 0,0:00:43.69,0:00:46.87,Default,,0,0,0,,這樣啊 謝啦
+Dialogue: 0,0:00:47.23,0:00:49.14,Default,,0,0,0,,你是對馬山貓吧
+Dialogue: 0,0:00:49.54,0:00:50.93,Default,,0,0,0,,看 是不是一模一樣
+Dialogue: 0,0:00:51.37,0:00:54.25,Default,,0,0,0,,爺爺非要說我是對馬山貓
+Dialogue: 0,0:00:54.48,0:00:55.19,Default,,0,0,0,,小對
+Dialogue: 0,0:00:55.84,0:00:57.12,Default,,0,0,0,,喂 對大哥
+Dialogue: 0,0:00:57.52,0:00:58.92,Default,,0,0,0,,那是半片
+Dialogue: 0,0:00:59.23,0:01:00.53,Default,,0,0,0,,喜歡嗎
+Dialogue: 0,0:01:01.61,0:01:05.48,Default,,0,0,0,,無所謂 我只想要個可以悠閒待著的地方
+Dialogue: 0,0:01:08.06,0:01:09.53,Default,,0,0,0,,就這樣 入冬後的一天
+Dialogue: 0,0:01:09.98,0:01:12.12,Default,,0,0,0,,早上爺爺再沒醒來
+Dialogue: 0,0:01:13.07,0:01:17.25,Default,,0,0,0,,你能來我家我很感激 對大哥
+Dialogue: 0,0:01:17.79,0:01:20.87,Default,,0,0,0,,人會逝去 住所和食物也會跟著消失
+Dialogue: 0,0:01:21.22,0:01:22.14,Default,,0,0,0,,沒辦法的事
+Dialogue: 0,0:01:22.30,0:01:24.47,Default,,0,0,0,,看來你是受了不少苦啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:09.98,0:00:13.48,Title,,0,0,0,,{\pos(452.525,486.299)}叫我對大哥
+Dialogue: 0,0:01:24.98,0:01:29.98,Title,,0,0,0,,{\c&HDBFCFF&\fs40\pos(628.563,38.784)}叫我對大哥
+Dialogue: 0,0:01:29.98,0:01:44.98,End,,0,0,0,,{\pos(589.775,636.464)\c&H040611&}《叫我對大哥》{\r}的更多篇章\N請下載WEB版觀看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

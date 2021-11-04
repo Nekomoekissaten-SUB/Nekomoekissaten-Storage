@@ -1,0 +1,67 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima TV [08][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Scroll Position: 15
+Active Line: 41
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.08,0:00:02.08,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:02.47,0:00:04.45,Default,,0,0,0,,喂 別鬧了 修
+Dialogue: 0,0:00:05.66,0:00:06.70,Default,,0,0,0,,你個渾球
+Dialogue: 0,0:00:07.71,0:00:08.77,Default,,0,0,0,,怎麼 你這傢伙想打架嗎
+Dialogue: 0,0:00:10.82,0:00:11.75,Default,,0,0,0,,吵死了
+Dialogue: 0,0:00:11.95,0:00:12.87,Default,,0,0,0,,不准打架
+Dialogue: 0,0:00:13.22,0:00:15.38,Default,,0,0,0,,會搞得我拉不出來的
+Dialogue: 0,0:00:15.48,0:00:15.72,Default,,0,0,0,,是
+Dialogue: 0,0:00:16.22,0:00:16.84,Default,,0,0,0,,對不起
+Dialogue: 0,0:00:16.97,0:00:18.18,Default,,0,0,0,,抱歉
+Dialogue: 0,0:00:18.18,0:00:21.20,Default,,0,0,0,,在這個家裡 大姐說的話是絕對的
+Dialogue: 0,0:00:22.89,0:00:25.02,Default,,0,0,0,,叫我對大哥
+Dialogue: 0,0:00:26.48,0:00:29.95,Default,,0,0,0,,大姐已經在這個家生活超過20年了
+Dialogue: 0,0:00:30.08,0:00:32.81,Default,,0,0,0,,所以這個家中地位最高的是大姐
+Dialogue: 0,0:00:33.02,0:00:35.58,Default,,0,0,0,,你這沒完沒了地要吸到什麼時候
+Dialogue: 0,0:00:35.84,0:00:37.48,Default,,0,0,0,,而且大姐她
+Dialogue: 0,0:00:38.06,0:00:39.79,Default,,0,0,0,,對 對
+Dialogue: 0,0:00:41.39,0:00:42.91,Default,,0,0,0,,再吸點
+Dialogue: 0,0:00:42.91,0:00:43.73,Default,,0,0,0,,好的 好的
+Dialogue: 0,0:00:40.40,0:00:41.39,Default,,0,0,0,,是隻吸塵器貓
+Dialogue: 0,0:00:43.73,0:00:46.62,Default,,0,0,0,,雖然她教給我和茶許多東西
+Dialogue: 0,0:00:47.59,0:00:49.03,Default,,0,0,0,,唯獨這個學不來
+Dialogue: 0,0:00:49.75,0:00:52.34,Default,,0,0,0,,大姐果然就是厲害
+Dialogue: 0,0:00:54.09,0:00:57.56,Default,,0,0,0,,訓練貓貓上廁所並不太難
+Dialogue: 0,0:00:57.56,0:01:01.07,Default,,0,0,0,,因為貓咪本來就有將排在沙子上的糞便
+Dialogue: 0,0:01:01.07,0:01:03.73,Default,,0,0,0,,埋起來的習性
+Dialogue: 0,0:01:03.95,0:01:07.39,Default,,0,0,0,,將貓貓輕輕放在貓砂上
+Dialogue: 0,0:01:07.68,0:01:12.28,Default,,0,0,0,,大部分的貓很快就能理解這裡是用來做什麼的
+Dialogue: 0,0:01:12.59,0:01:13.73,Default,,0,0,0,,咦 這…
+Dialogue: 0,0:01:14.40,0:01:15.33,Default,,0,0,0,,你要摸我嗎
+Dialogue: 0,0:01:15.33,0:01:18.90,Default,,0,0,0,,確實也有些貓很難學會
+Dialogue: 0,0:01:19.23,0:01:20.81,Default,,0,0,0,,爺爺已經前前後後
+Dialogue: 0,0:01:21.11,0:01:24.22,Default,,0,0,0,,堅持不懈地像這樣訓練他5年了
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:23.27,0:00:26.48,Title,,0,0,0,,{\pos(452.525,486.299)}叫我對大哥
+Dialogue: 0,0:00:39.98,0:00:44.69,Screen,,0,0,0,,{\an9\c&H030106&}吸塵器健康法
+Dialogue: 0,0:00:51.48,0:00:53.98,Title_V,,0,0,0,,{\pos(73.598,398.784)\c&H7C4000&}叫我對大哥
+Dialogue: 0,0:00:53.98,0:00:58.48,Screen,,0,0,0,,{\an8\c&H2F2D3F&}訓練貓貓上廁所 附加環節
+Dialogue: 0,0:01:24.98,0:01:29.98,Title,,0,0,0,,{\c&HDBFCFF&\fs40\pos(628.563,38.784)}叫我對大哥
+Dialogue: 0,0:01:29.98,0:01:44.98,End,,0,0,0,,{\pos(589.775,636.464)\c&H040611&}《叫我對大哥》{\r}的更多篇章\N請下載WEB版觀看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

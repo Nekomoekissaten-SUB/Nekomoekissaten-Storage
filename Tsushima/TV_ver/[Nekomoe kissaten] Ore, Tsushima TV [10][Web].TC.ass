@@ -1,0 +1,66 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima TV [10][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Scroll Position: 10
+Active Line: 35
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.08,0:00:02.08,Staff,,0,0,0,,{\fad(300,300)\blur5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：御邪魔蟲　後製：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.63,0:00:02.08,Default,,0,0,0,,一覺醒來
+Dialogue: 0,0:00:02.46,0:00:03.87,Default,,0,0,0,,就有美食送到嘴邊
+Dialogue: 0,0:00:04.31,0:00:07.07,Default,,0,0,0,,然後那個人必然會在旁邊
+Dialogue: 0,0:00:07.77,0:00:09.31,Default,,0,0,0,,必然會有那傢伙在
+Dialogue: 0,0:00:10.75,0:00:13.16,Default,,0,0,0,,為什麼非要附帶著那傢伙呢
+Dialogue: 0,0:00:13.16,0:00:15.24,Default,,0,0,0,,我能理解你 感覺好大一隻
+Dialogue: 0,0:00:15.24,0:00:16.37,Default,,0,0,0,,好想趕他走
+Dialogue: 0,0:00:16.37,0:00:17.92,Default,,0,0,0,,把他扔出去如何
+Dialogue: 0,0:00:18.75,0:00:20.24,Default,,0,0,0,,噢 貓咪在開會
+Dialogue: 0,0:00:20.78,0:00:21.63,Default,,0,0,0,,好可愛
+Dialogue: 0,0:00:23.42,0:00:25.45,Default,,0,0,0,,叫我對大哥
+Dialogue: 0,0:00:28.99,0:00:31.02,Default,,0,0,0,,喲 小對你醒啦
+Dialogue: 0,0:00:31.25,0:00:33.86,Default,,0,0,0,,想要我給你刷毛 還是陪你玩呢
+Dialogue: 0,0:00:34.10,0:00:36.62,Default,,0,0,0,,還是說想撒嬌
+Dialogue: 0,0:00:37.69,0:00:38.94,Default,,0,0,0,,這還用問嗎
+Dialogue: 0,0:00:40.56,0:00:41.62,Default,,0,0,0,,全都給我整上
+Dialogue: 0,0:00:41.62,0:00:44.10,Default,,0,0,0,,也是啊 我知道的
+Dialogue: 0,0:00:44.10,0:00:46.51,Default,,0,0,0,,知道為什麼每次還要問
+Dialogue: 0,0:00:46.71,0:00:48.03,Default,,0,0,0,,還有吃的也給我準備一下
+Dialogue: 0,0:00:51.58,0:00:53.85,Default,,0,0,0,,睡得好香啊
+Dialogue: 0,0:00:54.58,0:00:54.87,Default,,0,0,0,,咦
+Dialogue: 0,0:00:55.42,0:00:57.84,Default,,0,0,0,,怎麼感覺 一股屎臭味
+Dialogue: 0,0:00:58.24,0:01:00.17,Default,,0,0,0,,這裡也是 全身都是屎臭味
+Dialogue: 0,0:01:00.17,0:01:01.48,Default,,0,0,0,,難道這是
+Dialogue: 0,0:01:02.80,0:01:04.36,Default,,0,0,0,,老年臭
+Dialogue: 0,0:01:04.36,0:01:06.25,Default,,0,0,0,,老年臭是屎的味道嗎
+Dialogue: 0,0:01:06.25,0:01:07.79,Default,,0,0,0,,不會吧 喂
+Dialogue: 0,0:01:09.21,0:01:10.88,Default,,0,0,0,,不是的爺爺
+Dialogue: 0,0:01:10.88,0:01:14.07,Default,,0,0,0,,那是黏在我屁股上的屎
+Dialogue: 0,0:01:15.02,0:01:17.31,Default,,0,0,0,,黏到爺爺的鼻子上了
+Dialogue: 0,0:01:17.76,0:01:18.81,Default,,0,0,0,,完了 不想活了
+Dialogue: 0,0:01:18.81,0:01:20.63,Default,,0,0,0,,活著還有什麼意義
+Dialogue: 0,0:01:21.03,0:01:23.69,Default,,0,0,0,,很有趣 等會再告訴他吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:23.77,0:00:26.98,Title,,0,0,0,,{\pos(452.525,486.299)}叫我對大哥
+Dialogue: 0,0:00:45.73,0:00:48.73,Title_V,,0,0,0,,{\pos(65,376)}叫我對大哥
+Dialogue: 0,0:01:24.98,0:01:29.98,Title,,0,0,0,,{\c&HDBFCFF&\fs40\pos(628.563,38.784)}叫我對大哥
+Dialogue: 0,0:01:29.98,0:01:44.98,End,,0,0,0,,{\pos(589.775,636.464)\c&H040611&}《叫我對大哥》{\r}的更多篇章\N請下載WEB版觀看
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

@@ -1,0 +1,39 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ore, Tsushima Web [07][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,1.6,0,2,10,10,10,1
+Style: Staff,FZZhunYuan-M02,28,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: Screen,FZZhunYuan-M02,48,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,10,1
+Style: Title,HYShangWeiShouShuW,70,&H000D1A25,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Title_V,@HYShangWeiShouShuW,70,&H00DAFBFE,&H000000FF,&H00222222,&H00A1CCDF,0,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
+Style: End,HYQiHei-65S,36,&H000066FF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,1,0,1,0,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:01.40,0:00:06.69,Staff,,0,0,0,,{\fad(300,1000)\blur5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：御邪魔虫　后期：MIR　繁化：雲棋
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:01.40,0:00:03.56,Default,,0,0,0,,我是怼大哥
+Dialogue: 0,0:00:09.05,0:00:12.44,Default,,0,0,0,,抱歉啦 只是稍微摸摸你而已
+Dialogue: 0,0:00:12.73,0:00:14.88,Default,,0,0,0,,不用气成这样吧
+Dialogue: 0,0:00:15.10,0:00:17.12,Default,,0,0,0,,也该适应了
+Dialogue: 0,0:00:20.01,0:00:21.62,Default,,0,0,0,,一言不发
+Dialogue: 0,0:00:21.70,0:00:25.43,Default,,0,0,0,,透露着寂寞的怼大哥的背影想要倾诉的东西
+Dialogue: 0,0:00:25.70,0:00:29.67,Default,,0,0,0,,爷爷那时已经是心知肚明
+Dialogue: 0,0:00:30.98,0:00:35.84,Default,,0,0,0,,怨恨 嫉妒 埋怨 羡慕
+Dialogue: 0,0:00:36.19,0:00:38.19,Default,,0,0,0,,小怼无声的后背
+Dialogue: 0,0:00:38.52,0:00:43.26,Default,,0,0,0,,仿佛就在诉说着这些复杂的感情
+Dialogue: 0,0:00:44.48,0:00:47.36,Default,,0,0,0,,对不起 小怼
+Dialogue: 0,0:00:48.57,0:00:49.72,Default,,0,0,0,,吓我一跳
+Dialogue: 0,0:00:49.94,0:00:50.52,Default,,0,0,0,,怎么了
+Dialogue: 0,0:00:52.20,0:00:53.74,Default,,0,0,0,,我在看虫子呢
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
