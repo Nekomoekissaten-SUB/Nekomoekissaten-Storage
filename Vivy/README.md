@@ -2,10 +2,9 @@
 
 ## 简繁中文字幕
 
-内含正片 01-13 WebRip 字幕，若要匹配 Web 源需将时间轴向后平移 289 帧。
+内含正片 01-13 BDRip 字幕。
 
-[简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Vivy/Vivy_Web_CHS.7z)
-[繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Vivy/Vivy_Web_CHT.7z)
+[简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Vivy/Vivy_BD_zho.7z)
 
 所需字体：
 ```
