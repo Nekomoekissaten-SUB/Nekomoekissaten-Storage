@@ -1,7 +1,7 @@
 # Gyakuten Sekai no Denchi Shoujo
 
 内含 01-12 简繁日 WebRip 字幕
-[简繁日Web合集]()
+[简繁日Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/denchi/Denchi-project_Web_JPCH.7z)
 
 使用字体：
 ```
