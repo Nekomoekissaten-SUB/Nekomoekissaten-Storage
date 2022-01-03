@@ -3,7 +3,7 @@
 ## 中文字幕
 
 内含 01-12 简繁 WebRip 字幕  
-[简繁Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/fena/Fena_Web_zho.7z)
+[简繁中文 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Fena_Web_zho.7z)
 
 使用字体：
 ```
