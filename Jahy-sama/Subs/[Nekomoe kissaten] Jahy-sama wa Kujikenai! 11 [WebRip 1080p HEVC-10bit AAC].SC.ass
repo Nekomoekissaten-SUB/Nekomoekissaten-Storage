@@ -14,10 +14,10 @@ YCbCr Matrix: TV.709
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
 Style: Top,Tensentype JiaLiDaYuanGB18030,40,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
-Style: Title,方正锐正黑_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
+Style: Title,FZRuiZhengHei_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
 Style: Screen,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
 Style: comment,Tensentype JiaLiDaYuanGB18030,34,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,15,1
-Style: Staff,方正锐正黑_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
+Style: Staff,FZRuiZhengHei_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: OP-JP,DFPNekoMaru-W12,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,12,1
 Style: OP-CHS,DFPHaiBaoW12-GB,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
 Style: OP-CHT,DFPYuanLiu-B5,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
@@ -34,14 +34,14 @@ Dialogue: 0,0:23:33.93,0:23:38.94,Title,,0,0,0,,{\blur0.6\pos(659.56,534.24)}下
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Screen------------
 Dialogue: 0,0:00:08.03,0:00:15.25,Screen,,0,0,0,,{\an8\c&H4957C4&\3c&HFFFFFF&\bord2}创意{\c&H4A4945&}居酒屋 莫忘
 Dialogue: 0,0:02:46.81,0:02:51.78,Screen,,0,0,0,,{\an8\c&H4957C4&\3c&HFFFFFF&\bord2}创意{\c&H4A4945&}居酒屋 莫忘
-Dialogue: 0,0:04:11.90,0:04:13.27,Screen,,0,0,0,,{\an7\fn@腾祥伯当行楷GB18030\fad(250,0)\bord2\frz270\c&H3A3A3A&\3c&HFFFFFF&\pos(465.66,112.45)}命名\N西红郎
+Dialogue: 0,0:04:11.90,0:04:13.27,Screen,,0,0,0,,{\an7\fn@Tensentype XingKaiGB18030\fad(250,0)\bord2\frz270\c&H3A3A3A&\3c&HFFFFFF&\pos(465.66,112.45)}命名\N西红郎
 Dialogue: 0,0:05:15.50,0:05:23.22,Screen,,0,0,0,,{\fs23\bord2\c&H3A3A3A&\3c&HFFFFFF&\frz341.4\move(1208.53,301.61,1177.6,306.94)}西红柿的肥料
-Dialogue: 0,0:05:37.94,0:05:39.65,Screen,,0,0,0,,{\fn方正兰亭中粗黑_GBK\fs70\bord4\fax-0.3\c&H615D2B&\3c&HC4E3D4&\pos(413.33,116)\frz17.47}栽培之王
+Dialogue: 0,0:05:37.94,0:05:39.65,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs70\bord4\fax-0.3\c&H615D2B&\3c&HC4E3D4&\pos(413.33,116)\frz17.47}栽培之王
 Dialogue: 0,0:05:47.83,0:05:49.91,Screen,,0,0,0,,{\an7\fn@Tensentype JiaLiDaYuanGB18030\bord2\fad(500,0)\frz270\c&H3D4645&\3c&HFFFFFF&\move(175.67,275.33,101,260.66)}菜园·花专用\N{\c&H3A3AE3&}除虫
 Dialogue: 0,0:05:50.00,0:05:54.88,Screen,,0,0,0,,{\fad(200,0)\an8\fs30\c&H40524E&\bord2\3c&H2CE7F3&}含天然草药成分 {\c&H3F45E0&}快速驱虫 {\c&H40524E&}可作用于任何虫类 对植物无害\N含天然草药成分 保护您的蔬菜不受虫类侵害
-Dialogue: 0,0:08:13.39,0:08:16.93,Screen,,0,0,0,,{\fn方正兰亭中粗黑_GBK\bord2\fax-0.2\3c&HFFFFFF&\c&H546ADE&\frz358.7\pos(686.1,101.59)}我的菜园系列
-Dialogue: 0,0:08:13.39,0:08:16.93,Screen,,0,0,0,,{\fn方正兰亭中粗黑_GBK\fs50\bord2\fax-0.2\3c&H4960D9&\c&HADB3E9&\pos(625.78,275.56)\frz357.1}灯笼椒
-Dialogue: 0,0:08:13.39,0:08:16.93,Screen,,0,0,0,,{\an7\fn方正兰亭中粗黑_GBK\fs28\bord2\fax-0.2\3c&HFFFFFF&\c&H3D4645&\frz356.8\pos(325,528.01)}非常有名的超辣辣椒！\N因为色彩艳红也常当作观赏用植物
+Dialogue: 0,0:08:13.39,0:08:16.93,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\bord2\fax-0.2\3c&HFFFFFF&\c&H546ADE&\frz358.7\pos(686.1,101.59)}我的菜园系列
+Dialogue: 0,0:08:13.39,0:08:16.93,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs50\bord2\fax-0.2\3c&H4960D9&\c&HADB3E9&\pos(625.78,275.56)\frz357.1}灯笼椒
+Dialogue: 0,0:08:13.39,0:08:16.93,Screen,,0,0,0,,{\an7\fnFZLanTingHei-DB1-GBK\fs28\bord2\fax-0.2\3c&HFFFFFF&\c&H3D4645&\frz356.8\pos(325,528.01)}非常有名的超辣辣椒！\N因为色彩艳红也常当作观赏用植物
 Dialogue: 0,0:08:22.44,0:08:25.78,Screen,,0,0,0,,{\an8\c&H4957C4&\3c&HFFFFFF&\bord2}创意{\c&H4A4945&}居酒屋 莫忘
 Dialogue: 0,0:19:17.26,0:19:18.22,Screen,,0,0,0,,{\fs28\fax-0.6\frz332.6\pos(1016,344.67)}姐姐
 Dialogue: 0,0:19:39.62,0:19:46.87,Screen,,0,0,0,,{\fs18\fax0.3\pos(800,492.53)\frz312.6}小椋

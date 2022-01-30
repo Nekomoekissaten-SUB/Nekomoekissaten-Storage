@@ -14,9 +14,9 @@ YCbCr Matrix: TV.709
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
 Style: Top,Tensentype JiaLiDaYuanGB18030,40,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
-Style: Title,方正锐正黑_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
+Style: Title,FZRuiZhengHei_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
 Style: Screen,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
-Style: Staff,方正锐正黑_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
+Style: Staff,FZRuiZhengHei_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -26,27 +26,27 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Title-----------
 Dialogue: 0,0:01:30.48,0:01:35.28,Title,,0,0,0,,{\blur3\fad(400,500)\pos(902.4,535.467)}復興{\c&H0399F1&}計劃 {\r\blur3}其{\c&H0399F1&}一\N{\r\blur3}迦希大人回不去了{\c&H0399F1&}！
 Dialogue: 0,0:23:33.97,0:23:38.98,Title,,0,0,0,,{\pos(659.556,520.111)\blur0.6}下集 {\c&HC3425B&}朵露西小姐不會懷疑{\c&H0098F3&}！
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Screen------------
-Dialogue: 0,0:04:28.91,0:04:32.25,Screen,,0,0,0,,{\an8\fn方正卡通_GBK\b1\c&H14321B&\move(235,709.777,235,111.11)}豆芽
+Dialogue: 0,0:04:28.91,0:04:32.25,Screen,,0,0,0,,{\an8\fnFZKaTong-M19\b1\c&H14321B&\move(235,709.777,235,111.11)}豆芽
 Dialogue: 0,0:05:49.12,0:05:56.08,Screen,,0,0,0,,{\fs16\fax-0.08\c&H5F7DDE&\frz2.216\pos(433.543,355.505)\frx0\fry352}創作{\c&H53544F&}酒館
 Dialogue: 0,0:05:49.12,0:05:56.08,Screen,,0,0,0,,{\fs30\c&H53544F&\fax-0.05\pos(731.035,283.11)\frz3.078\frx0\fry344}莫忘
-Dialogue: 0,0:11:11.94,0:11:12.02,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8\pos(58.133,424.534)}工資
-Dialogue: 0,0:11:12.02,0:11:12.10,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8\pos(182.133,443.201)}工資
-Dialogue: 0,0:11:12.10,0:11:12.19,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8\pos(294.133,460.534)}工資
-Dialogue: 0,0:11:12.19,0:11:12.27,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(404.799,477.867)}工資
-Dialogue: 0,0:11:12.27,0:11:12.35,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(492.799,491.2)}工資
-Dialogue: 0,0:11:12.35,0:11:12.44,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(566.132,501.867)}工資
-Dialogue: 0,0:11:12.44,0:11:12.52,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(623.465,511.2)}工資
-Dialogue: 0,0:11:12.52,0:11:12.61,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(664.798,517.867)}工資
-Dialogue: 0,0:11:12.61,0:11:12.69,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(698.131,523.2)}工資
-Dialogue: 0,0:11:12.69,0:11:12.77,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(718.131,525.867)}工資
-Dialogue: 0,0:11:12.77,0:11:12.86,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(734.131,525.867)}工資
-Dialogue: 0,0:11:12.86,0:11:12.94,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(740.798,528.534)}工資
-Dialogue: 0,0:11:12.94,0:11:15.02,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(743.465,529.867)}工資
-Dialogue: 0,0:16:49.82,0:16:49.90,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz220.1\pos(617.333,436.001)}工資
-Dialogue: 0,0:16:49.90,0:16:49.98,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz232.4\pos(696,622.667)}工資
-Dialogue: 0,0:16:49.98,0:16:50.07,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz236.7\pos(713.778,651.111)}工資
-Dialogue: 0,0:16:50.07,0:16:50.15,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz228.9\pos(580.445,542.667)}工資
-Dialogue: 0,0:16:50.15,0:16:50.86,Screen,,0,0,0,,{\fn@华康翩翩体W3-A\fs60\c&H27363F&\frz218.2\pos(452.445,411.111)}工資
+Dialogue: 0,0:11:11.94,0:11:12.02,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8\pos(58.133,424.534)}工資
+Dialogue: 0,0:11:12.02,0:11:12.10,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8\pos(182.133,443.201)}工資
+Dialogue: 0,0:11:12.10,0:11:12.19,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8\pos(294.133,460.534)}工資
+Dialogue: 0,0:11:12.19,0:11:12.27,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(404.799,477.867)}工資
+Dialogue: 0,0:11:12.27,0:11:12.35,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(492.799,491.2)}工資
+Dialogue: 0,0:11:12.35,0:11:12.44,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(566.132,501.867)}工資
+Dialogue: 0,0:11:12.44,0:11:12.52,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(623.465,511.2)}工資
+Dialogue: 0,0:11:12.52,0:11:12.61,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(664.798,517.867)}工資
+Dialogue: 0,0:11:12.61,0:11:12.69,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(698.131,523.2)}工資
+Dialogue: 0,0:11:12.69,0:11:12.77,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(718.131,525.867)}工資
+Dialogue: 0,0:11:12.77,0:11:12.86,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(734.131,525.867)}工資
+Dialogue: 0,0:11:12.86,0:11:12.94,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(740.798,528.534)}工資
+Dialogue: 0,0:11:12.94,0:11:15.02,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz313.8frz313.8\pos(743.465,529.867)}工資
+Dialogue: 0,0:16:49.82,0:16:49.90,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz220.1\pos(617.333,436.001)}工資
+Dialogue: 0,0:16:49.90,0:16:49.98,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz232.4\pos(696,622.667)}工資
+Dialogue: 0,0:16:49.98,0:16:50.07,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz236.7\pos(713.778,651.111)}工資
+Dialogue: 0,0:16:50.07,0:16:50.15,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz228.9\pos(580.445,542.667)}工資
+Dialogue: 0,0:16:50.15,0:16:50.86,Screen,,0,0,0,,{\fn@DFHanziPenW3-A\fs60\c&H27363F&\frz218.2\pos(452.445,411.111)}工資
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Text------------
 Dialogue: 9,0:01:35.68,0:01:37.75,Default,,0,0,0,,房齡40年的老公寓
 Dialogue: 9,0:01:38.85,0:01:40.58,Default,,0,0,0,,不到八平米的單間

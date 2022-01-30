@@ -14,10 +14,10 @@ YCbCr Matrix: TV.709
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
 Style: Top,Tensentype JiaLiDaYuanGB18030,40,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
-Style: Title,方正锐正黑_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
+Style: Title,FZRuiZhengHei_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
 Style: Screen,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
 Style: comment,Tensentype JiaLiDaYuanGB18030,34,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,15,1
-Style: Staff,方正锐正黑_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
+Style: Staff,FZRuiZhengHei_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: OP-JP,DFPNekoMaru-W12,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,12,1
 Style: OP-CHS,DFPHaiBaoW12-GB,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
 Style: OP-CHT,DFPYuanLiu-B5,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
@@ -32,39 +32,39 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Title-----------
 Dialogue: 0,0:02:54.20,0:02:57.99,Title,,0,0,0,,{\blur3\fad(500,0)\pos(362.4,523.47)}复兴{\c&H0399F1&}计划 {\r\blur3}其{\c&H0399F1&}二\N{\blur3\c&HC3435C&}朵露希小姐{\r\blur3}不会怀疑{\c&H0399F4&}！
 Dialogue: 0,0:23:34.06,0:23:38.98,Title,,0,0,0,,{\pos(659.556,520.111)\blur0.6}下集 {\c&HC65BBE&}迦希大人无法炫耀{\c&H0098F3&}…
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Screen------------
-Dialogue: 0,0:00:56.74,0:00:58.71,Screen,,0,0,0,,{\fn方正兰亭中黑_GBK\bord2\c&H6C6EE6&\frz10.18\pos(192.76,149.34)\3c&HFFFFFF&}站前\N超市
-Dialogue: 0,0:00:56.74,0:00:58.71,Screen,,0,0,0,,{\fn方正兰亭中黑_GBK\bord2\c&HFFFFFF&\3c&H5051E1&\pos(228.66,356)\frz15.07}仅限今日!\N{\fn方正粗雅宋_GBK}大特价!
-Dialogue: 0,0:06:15.10,0:06:17.06,Screen,,0,0,0,,{\fn方正兰亭中黑_GBK\fax0.3\c&H36383A&\pos(706.4,438.66)\frz202.8}堂岛合作股份有限公司
-Dialogue: 0,0:06:15.10,0:06:17.06,Screen,,0,0,0,,{\fn方正兰亭中黑_GBK\fs23\fax0.3\c&H53595A&\frz202.8\pos(644.86,401.54)}法人董事长
-Dialogue: 0,0:06:15.10,0:06:17.06,Screen,,0,0,0,,{\fn方正兰亭中黑_GBK\fsp6\fax0.3\c&H35393B&\frz202.8\pos(572.44,296.89)}堂岛奈奈
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(204.54,113.97)}混合咖啡
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(207.03,147.88)}有机混合咖啡
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(179.33,174.67)}浓缩咖啡
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(167.7,205.63)}蓝山咖啡
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(152.89,236.44)}卡布奇诺
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(154.85,271.62)}焦糖卡布奇诺
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(126.82,298.67)}昂列咖啡
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(113.77,329.48)}美式咖啡
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(92.45,360.89)}冰咖啡
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(67.05,460.19)}金刚大吉岭
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(74.67,497.33)}有机帝王茉莉花茶
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(50.28,524.19)}柠檬芒果探戈
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(72.23,563.51)}凤梨可乐达路易波士茶
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(41.9,590.48)}西洋甘菊花茶
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(31.43,620.57)}椰蓉黑茶
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(769.72,219.52)}草莓奶油蛋糕
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(745.78,257.77)}巧克力蛋糕
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(728.89,297.77)}起司蛋糕
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(707.04,337.52)}蒙布朗
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(697.14,379.43)}提拉米苏
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(675.55,420.44)}柠檬挞
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(679.62,466.28)}抹茶慕斯蛋糕
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(641.91,501.9)}苹果派
-Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(655.11,601.78)}马斯卡邦尼奶酪布蕾\N　　　附意式浓缩咖啡冰淇淋
-Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fax-0.1\c&H5D7188&\frz347.7\pos(301.11,318.02)}混合咖啡
-Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fax-0.1\c&H5D7188&\frz347.7\pos(281.33,453.34)}有机混合咖啡
-Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fax-0.1\c&H5D7188&\frz347.7\pos(196,568)}浓缩咖啡
-Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\fax-0.1\c&H5D7188&\frz347.7\pos(152,697.33)}蓝山咖啡
+Dialogue: 0,0:00:56.74,0:00:58.71,Screen,,0,0,0,,{\fnFZLanTingHei-DB-GBK\bord2\c&H6C6EE6&\frz10.18\pos(192.76,149.34)\3c&HFFFFFF&}站前\N超市
+Dialogue: 0,0:00:56.74,0:00:58.71,Screen,,0,0,0,,{\fnFZLanTingHei-DB-GBK\bord2\c&HFFFFFF&\3c&H5051E1&\pos(228.66,356)\frz15.07}仅限今日!\N{\fnFZYaSong-B-GBK}大特价!
+Dialogue: 0,0:06:15.10,0:06:17.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB-GBK\fax0.3\c&H36383A&\pos(706.4,438.66)\frz202.8}堂岛合作股份有限公司
+Dialogue: 0,0:06:15.10,0:06:17.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB-GBK\fs23\fax0.3\c&H53595A&\frz202.8\pos(644.86,401.54)}法人董事长
+Dialogue: 0,0:06:15.10,0:06:17.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB-GBK\fsp6\fax0.3\c&H35393B&\frz202.8\pos(572.44,296.89)}堂岛奈奈
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(204.54,113.97)}混合咖啡
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(207.03,147.88)}有机混合咖啡
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(179.33,174.67)}浓缩咖啡
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(167.7,205.63)}蓝山咖啡
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(152.89,236.44)}卡布奇诺
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(154.85,271.62)}焦糖卡布奇诺
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(126.82,298.67)}昂列咖啡
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(113.77,329.48)}美式咖啡
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(92.45,360.89)}冰咖啡
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(67.05,460.19)}金刚大吉岭
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(74.67,497.33)}有机帝王茉莉花茶
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(50.28,524.19)}柠檬芒果探戈
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(72.23,563.51)}凤梨可乐达路易波士茶
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(41.9,590.48)}西洋甘菊花茶
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs18\fax-0.1\c&H6D869E&\frz344\pos(31.43,620.57)}椰蓉黑茶
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(769.72,219.52)}草莓奶油蛋糕
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(745.78,257.77)}巧克力蛋糕
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(728.89,297.77)}起司蛋糕
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(707.04,337.52)}蒙布朗
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(697.14,379.43)}提拉米苏
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(675.55,420.44)}柠檬挞
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(679.62,466.28)}抹茶慕斯蛋糕
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(641.91,501.9)}苹果派
+Dialogue: 0,0:06:47.68,0:06:49.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fs20\fax-0.3\c&H6D869E&\frz353.9\pos(655.11,601.78)}马斯卡邦尼奶酪布蕾\N　　　附意式浓缩咖啡冰淇淋
+Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fax-0.1\c&H5D7188&\frz347.7\pos(301.11,318.02)}混合咖啡
+Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fax-0.1\c&H5D7188&\frz347.7\pos(281.33,453.34)}有机混合咖啡
+Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fax-0.1\c&H5D7188&\frz347.7\pos(196,568)}浓缩咖啡
+Dialogue: 0,0:06:49.31,0:06:50.31,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\fax-0.1\c&H5D7188&\frz347.7\pos(152,697.33)}蓝山咖啡
 Dialogue: 0,0:14:14.96,0:14:16.92,Screen,,0,0,0,,{\an8}震惊
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Text------------
 Dialogue: 0,0:00:10.12,0:00:12.37,Default,,0,0,0,,魔界二号人物的迦希大人

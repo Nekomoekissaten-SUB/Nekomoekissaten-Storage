@@ -14,10 +14,10 @@ YCbCr Matrix: TV.709
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
 Style: Top,Tensentype JiaLiDaYuanGB18030,40,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
-Style: Title,方正锐正黑_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
+Style: Title,FZRuiZhengHei_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
 Style: Screen,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
 Style: comment,Tensentype JiaLiDaYuanGB18030,34,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,15,1
-Style: Staff,方正锐正黑_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
+Style: Staff,FZRuiZhengHei_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: OP-JP,DFPNekoMaru-W12,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,12,1
 Style: OP-CHS,DFPHaiBaoW12-GB,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
 Style: OP-CHT,DFPYuanLiu-B5,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
@@ -35,10 +35,10 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Screen----------
 Dialogue: 0,0:12:13.05,0:12:16.51,Screen,,0,0,0,,{\an8\bord2\c&H4957C4&\3c&HFFFFFF&}創意{\c&H4A4945&}居酒屋 莫忘
 Dialogue: 0,0:17:41.58,0:17:46.46,Screen,,0,0,0,,{\an8\bord2\fad(0,1700)\c&H4957C4&\3c&HFFFFFF&}創意{\c&H4A4945&}居酒屋 莫忘
 Dialogue: 0,0:18:56.37,0:19:07.08,Default,,0,0,0,,{\an8\bord2\c&H4957C4&\3c&HFFFFFF&}創意{\c&H4A4945&}居酒屋 莫忘
-Dialogue: 0,0:20:37.09,0:20:40.09,Screen,,0,0,0,,{\fn方正锐正黑_GBK ExtraBold\fs65\bord4\fad(0,1000)\3c&HFFFFFF&\c&H974792&\pos(770,569)}迦希大人的{\c&HFFFFFF&\3c&H0098F3&}3分鐘{\c&H0098F3&\3c&HFFFFFF&}廚房
+Dialogue: 0,0:20:37.09,0:20:40.09,Screen,,0,0,0,,{\fnFZRuiZhengHei_GBK ExtraBold\fs65\bord4\fad(0,1000)\3c&HFFFFFF&\c&H974792&\pos(770,569)}迦希大人的{\c&HFFFFFF&\3c&H0098F3&}3分鐘{\c&H0098F3&\3c&HFFFFFF&}廚房
 Dialogue: 0,0:20:46.52,0:20:49.98,Screen,,0,0,0,,{\fs40\c&H313232&\pos(658.66,641.6)}食材(1人份) 豆芽-1袋 鹽-適量
-Dialogue: 0,0:21:28.64,0:21:31.65,Screen,,0,0,0,,{\fn方正锐正黑_GBK ExtraBold\fs65\bord4\fad(0,1000)\3c&HFFFFFF&\c&H974792&\pos(770,569)}迦希大人的{\c&HFFFFFF&\3c&H0098F3&}3分鐘{\c&H0098F3&\3c&HFFFFFF&}廚房
-Dialogue: 0,0:22:16.40,0:22:17.15,Screen,,0,0,0,,{\fn方正锐正黑_GBK ExtraBold\fs65\bord4\fad(0,700)\3c&HFFFFFF&\c&H974792&\pos(770,569)}迦希大人的{\c&HFFFFFF&\3c&H0098F3&}3分鐘{\c&H0098F3&\3c&HFFFFFF&}廚房
+Dialogue: 0,0:21:28.64,0:21:31.65,Screen,,0,0,0,,{\fnFZRuiZhengHei_GBK ExtraBold\fs65\bord4\fad(0,1000)\3c&HFFFFFF&\c&H974792&\pos(770,569)}迦希大人的{\c&HFFFFFF&\3c&H0098F3&}3分鐘{\c&H0098F3&\3c&HFFFFFF&}廚房
+Dialogue: 0,0:22:16.40,0:22:17.15,Screen,,0,0,0,,{\fnFZRuiZhengHei_GBK ExtraBold\fs65\bord4\fad(0,700)\3c&HFFFFFF&\c&H974792&\pos(770,569)}迦希大人的{\c&HFFFFFF&\3c&H0098F3&}3分鐘{\c&H0098F3&\3c&HFFFFFF&}廚房
 Dialogue: 0,0:22:21.82,0:22:26.03,Screen,,0,0,0,,{\fs40\bord2\c&H313232&\3c&HDDFFFE&\pos(643.99,484.27)}食材(1人份) 豆芽-1袋 鹽-適量 色拉油-一勺 胡椒粉-適量
 Dialogue: 0,0:23:29.85,0:23:31.81,Screen,,0,0,0,,{\an8\c&H172B1E&}豆芽
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Text------------

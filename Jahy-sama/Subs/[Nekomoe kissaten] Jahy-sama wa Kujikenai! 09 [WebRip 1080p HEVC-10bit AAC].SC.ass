@@ -14,10 +14,10 @@ YCbCr Matrix: TV.709
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
 Style: Top,Tensentype JiaLiDaYuanGB18030,40,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
-Style: Title,方正锐正黑_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
+Style: Title,FZRuiZhengHei_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
 Style: Screen,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
 Style: comment,Tensentype JiaLiDaYuanGB18030,34,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,15,1
-Style: Staff,方正锐正黑_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
+Style: Staff,FZRuiZhengHei_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: OP-JP,DFPNekoMaru-W12,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,12,1
 Style: OP-CHS,DFPHaiBaoW12-GB,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
 Style: OP-CHT,DFPYuanLiu-B5,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
@@ -33,72 +33,72 @@ Dialogue: 0,0:02:18.49,0:02:23.79,Title,,0,0,0,,{\be3\fad(500,500)\pos(886.67,52
 Dialogue: 0,0:23:34.02,0:23:39.02,Title,,0,0,0,,{\blur0.6\pos(659.56,534.24)}下集 {\c&H9940FE&}魔法少女不能输{\c&H0098F3&}!
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Screen------------
 Dialogue: 0,0:00:34.97,0:00:39.19,Screen,,0,0,0,,{\an8\c&H51398A&\3c&HFFFFFF&\bord2}澡堂
-Dialogue: 0,0:07:18.75,0:07:25.97,Screen,,0,0,0,,{\an8\fn华康手札体W5-A\fs60\fscx100\fscy100\c&H1A2632&\move(646.72,67.23,648.95,-55.76,22,7196)\t(22,7196,\fscy141.75)\t(22,7196,\fscx141.75)}薪水
-Dialogue: 0,0:07:44.02,0:07:44.06,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,-14.51)}浴室清洁
-Dialogue: 0,0:07:44.06,0:07:44.11,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,0.56)}浴室清洁
-Dialogue: 0,0:07:44.11,0:07:44.15,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,16.03)}浴室清洁
-Dialogue: 0,0:07:44.15,0:07:44.19,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,31.7)}浴室清洁
-Dialogue: 0,0:07:44.19,0:07:44.23,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,47.58)}浴室清洁
-Dialogue: 0,0:07:44.23,0:07:44.27,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,63.59)}浴室清洁
-Dialogue: 0,0:07:44.27,0:07:44.31,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,79.73)}浴室清洁
-Dialogue: 0,0:07:44.31,0:07:44.36,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,95.82)}浴室清洁
-Dialogue: 0,0:07:44.36,0:07:44.40,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,111.85)}浴室清洁
-Dialogue: 0,0:07:44.40,0:07:44.44,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,127.78)}浴室清洁
-Dialogue: 0,0:07:44.44,0:07:44.48,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,143.5)}浴室清洁
-Dialogue: 0,0:07:44.48,0:07:44.52,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,158.98)}浴室清洁
-Dialogue: 0,0:07:44.52,0:07:44.56,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,174.12)}浴室清洁
-Dialogue: 0,0:07:44.56,0:07:44.61,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,188.84)}浴室清洁
-Dialogue: 0,0:07:44.61,0:07:44.65,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,203.14)}浴室清洁
-Dialogue: 0,0:07:44.65,0:07:44.69,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,216.85)}浴室清洁
-Dialogue: 0,0:07:44.69,0:07:44.73,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,230.03)}浴室清洁
-Dialogue: 0,0:07:44.73,0:07:44.77,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,242.57)}浴室清洁
-Dialogue: 0,0:07:44.77,0:07:44.81,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,254.58)}浴室清洁
-Dialogue: 0,0:07:44.81,0:07:44.86,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,266.06)}浴室清洁
-Dialogue: 0,0:07:44.86,0:07:44.90,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,276.91)}浴室清洁
-Dialogue: 0,0:07:44.90,0:07:44.94,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,287.25)}浴室清洁
-Dialogue: 0,0:07:44.94,0:07:44.98,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,296.93)}浴室清洁
-Dialogue: 0,0:07:44.98,0:07:45.02,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,306.14)}浴室清洁
-Dialogue: 0,0:07:45.02,0:07:45.06,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,314.75)}浴室清洁
-Dialogue: 0,0:07:45.06,0:07:45.11,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,322.74)}浴室清洁
-Dialogue: 0,0:07:45.11,0:07:45.15,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,330.22)}浴室清洁
-Dialogue: 0,0:07:45.15,0:07:45.19,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,337.07)}浴室清洁
-Dialogue: 0,0:07:45.19,0:07:45.23,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,343.35)}浴室清洁
-Dialogue: 0,0:07:45.23,0:07:45.27,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,349.05)}浴室清洁
-Dialogue: 0,0:07:45.27,0:07:45.32,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,354.08)}浴室清洁
-Dialogue: 0,0:07:45.32,0:07:45.36,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,358.58)}浴室清洁
-Dialogue: 0,0:07:45.36,0:07:45.40,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,362.49)}浴室清洁
-Dialogue: 0,0:07:45.40,0:07:45.44,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,365.78)}浴室清洁
-Dialogue: 0,0:07:45.44,0:07:45.48,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,368.46)}浴室清洁
-Dialogue: 0,0:07:45.48,0:07:45.52,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,370.58)}浴室清洁
-Dialogue: 0,0:07:45.52,0:07:45.57,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,372.09)}浴室清洁
-Dialogue: 0,0:07:45.57,0:07:45.61,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.93,372.93)}浴室清洁
-Dialogue: 0,0:07:45.61,0:07:49.45,Screen,,0,0,0,,{\an1\blur0.6\fn方正粗雅宋_GBK\fs24\3c&H224EA3&\bord0\pos(12.929,372.928)}浴室清洁
+Dialogue: 0,0:07:18.75,0:07:25.97,Screen,,0,0,0,,{\an8\fnDFHannotateW5-A\fs60\fscx100\fscy100\c&H1A2632&\move(646.72,67.23,648.95,-55.76,22,7196)\t(22,7196,\fscy141.75)\t(22,7196,\fscx141.75)}薪水
+Dialogue: 0,0:07:44.02,0:07:44.06,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,-14.51)}浴室清洁
+Dialogue: 0,0:07:44.06,0:07:44.11,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,0.56)}浴室清洁
+Dialogue: 0,0:07:44.11,0:07:44.15,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,16.03)}浴室清洁
+Dialogue: 0,0:07:44.15,0:07:44.19,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,31.7)}浴室清洁
+Dialogue: 0,0:07:44.19,0:07:44.23,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,47.58)}浴室清洁
+Dialogue: 0,0:07:44.23,0:07:44.27,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,63.59)}浴室清洁
+Dialogue: 0,0:07:44.27,0:07:44.31,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,79.73)}浴室清洁
+Dialogue: 0,0:07:44.31,0:07:44.36,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,95.82)}浴室清洁
+Dialogue: 0,0:07:44.36,0:07:44.40,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,111.85)}浴室清洁
+Dialogue: 0,0:07:44.40,0:07:44.44,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,127.78)}浴室清洁
+Dialogue: 0,0:07:44.44,0:07:44.48,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,143.5)}浴室清洁
+Dialogue: 0,0:07:44.48,0:07:44.52,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,158.98)}浴室清洁
+Dialogue: 0,0:07:44.52,0:07:44.56,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,174.12)}浴室清洁
+Dialogue: 0,0:07:44.56,0:07:44.61,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,188.84)}浴室清洁
+Dialogue: 0,0:07:44.61,0:07:44.65,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,203.14)}浴室清洁
+Dialogue: 0,0:07:44.65,0:07:44.69,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,216.85)}浴室清洁
+Dialogue: 0,0:07:44.69,0:07:44.73,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,230.03)}浴室清洁
+Dialogue: 0,0:07:44.73,0:07:44.77,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,242.57)}浴室清洁
+Dialogue: 0,0:07:44.77,0:07:44.81,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,254.58)}浴室清洁
+Dialogue: 0,0:07:44.81,0:07:44.86,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,266.06)}浴室清洁
+Dialogue: 0,0:07:44.86,0:07:44.90,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,276.91)}浴室清洁
+Dialogue: 0,0:07:44.90,0:07:44.94,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,287.25)}浴室清洁
+Dialogue: 0,0:07:44.94,0:07:44.98,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,296.93)}浴室清洁
+Dialogue: 0,0:07:44.98,0:07:45.02,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,306.14)}浴室清洁
+Dialogue: 0,0:07:45.02,0:07:45.06,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,314.75)}浴室清洁
+Dialogue: 0,0:07:45.06,0:07:45.11,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,322.74)}浴室清洁
+Dialogue: 0,0:07:45.11,0:07:45.15,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,330.22)}浴室清洁
+Dialogue: 0,0:07:45.15,0:07:45.19,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,337.07)}浴室清洁
+Dialogue: 0,0:07:45.19,0:07:45.23,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,343.35)}浴室清洁
+Dialogue: 0,0:07:45.23,0:07:45.27,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,349.05)}浴室清洁
+Dialogue: 0,0:07:45.27,0:07:45.32,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,354.08)}浴室清洁
+Dialogue: 0,0:07:45.32,0:07:45.36,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,358.58)}浴室清洁
+Dialogue: 0,0:07:45.36,0:07:45.40,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,362.49)}浴室清洁
+Dialogue: 0,0:07:45.40,0:07:45.44,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,365.78)}浴室清洁
+Dialogue: 0,0:07:45.44,0:07:45.48,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,368.46)}浴室清洁
+Dialogue: 0,0:07:45.48,0:07:45.52,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,370.58)}浴室清洁
+Dialogue: 0,0:07:45.52,0:07:45.57,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,372.09)}浴室清洁
+Dialogue: 0,0:07:45.57,0:07:45.61,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.93,372.93)}浴室清洁
+Dialogue: 0,0:07:45.61,0:07:49.45,Screen,,0,0,0,,{\an1\blur0.6\fnFZYaSong-B-GBK\fs24\3c&H224EA3&\bord0\pos(12.929,372.928)}浴室清洁
 Dialogue: 0,0:08:10.80,0:08:13.76,Screen,,0,0,0,,{\frz18.69\fs38\c&HF2D189&\pos(961.33,146.66)}泡泡丰富
-Dialogue: 0,0:08:04.59,0:08:10.80,Screen,,0,0,0,,{\fn华康手札体W7-A\frz7.973\fs20\c&H1B2F35&\pos(396.27,580.91)}今日限定!! 海绵8块\N免费附赠3个!
-Dialogue: 0,0:08:16.73,0:08:19.19,Screen,,0,0,0,,{\fn华康手札体W7-A\fs20\c&H1B2F35&\pos(650.94,510.24)}今日限定!! 海绵8块\N免费附赠3个!
-Dialogue: 0,0:08:24.65,0:08:29.36,Screen,,0,0,0,,{\fn@方正粗雅宋_GBK\frz270\fs30\c&HE7E9F6&\3c&H224EA3&\bord0\move(630,82,715,82)}厨房用具
-Dialogue: 0,0:08:56.89,0:09:02.61,Screen,,0,0,0,,{\an8\fn方正粗雅宋_GBK\fs24\fscx141.38\fscy141.38\c&H6A98D1&\3c&H224EA3&\move(356.57,3.66,438.6,171.05,22,5694)\t(22,5694,\fscy100)\t(22,5694,\fscx100)}生活用品
-Dialogue: 0,0:08:56.89,0:09:02.61,Screen,,0,0,0,,{\an8\fn@方正粗雅宋_GBK\frz271.3\fs20\fscx141.38\fscy141.38\c&H6A98D1&\3c&H224EA3&\move(893.12,-77.01,818.13,113.99,22,5694)\t(22,5694,\fscy100)\t(22,5694,\fscx100)}浴室·厕所清理用品
-Dialogue: 0,0:09:03.65,0:09:08.82,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\frz350.4\c&HB8D99A&\frx2\fry32\pos(571.62,91.81)}财运UP!!{\c&H6EECF2&}力量之石
-Dialogue: 0,0:09:03.65,0:09:08.82,Screen,,0,0,0,,{\fn华康手札体W7-A\b1\fs25\c&H6B949B&\pos(615.46,301.11)}能使得财神降临身边\N的幸运小道具！
-Dialogue: 0,0:09:03.65,0:09:08.82,Screen,,0,0,0,,{\fn华康手札体W7-A\b1\fs25\c&H3692F2&\pos(838.39,258.13)}趁势把想要的\N一切都拿下吧！
-Dialogue: 0,0:09:08.82,0:09:11.78,Screen,,0,0,0,,{\fn方正粗雅宋_GBK\frz350.4\fs56\c&HB8D99A&\frx2\fry32\fax0.15\pos(449.236,97.677)}财运UP!!{\c&H6EECF2&}力量之石
-Dialogue: 0,0:09:08.82,0:09:11.78,Screen,,0,0,0,,{\fn华康手札体W7-A\b1\fs35\c&H6B949B&\pos(531.448,528.894)}能使得财神降临身边\N的幸运小道具！
-Dialogue: 0,0:09:08.82,0:09:11.78,Screen,,0,0,0,,{\fn华康手札体W7-A\b1\fs35\c&H3692F2&\pos(1027.689,435.017)}趁势把想要的\N一切都拿下吧！
-Dialogue: 0,0:09:38.81,0:09:42.77,Screen,,0,0,0,,{\fn方正兰亭中粗黑_GBK\frz4.684\3c&H5885DB&\bord2\move(73,122,300,122)}被褥区
+Dialogue: 0,0:08:04.59,0:08:10.80,Screen,,0,0,0,,{\fnDFHannotateW7-A\frz7.973\fs20\c&H1B2F35&\pos(396.27,580.91)}今日限定!! 海绵8块\N免费附赠3个!
+Dialogue: 0,0:08:16.73,0:08:19.19,Screen,,0,0,0,,{\fnDFHannotateW7-A\fs20\c&H1B2F35&\pos(650.94,510.24)}今日限定!! 海绵8块\N免费附赠3个!
+Dialogue: 0,0:08:24.65,0:08:29.36,Screen,,0,0,0,,{\fn@FZYaSong-B-GBK\frz270\fs30\c&HE7E9F6&\3c&H224EA3&\bord0\move(630,82,715,82)}厨房用具
+Dialogue: 0,0:08:56.89,0:09:02.61,Screen,,0,0,0,,{\an8\fnFZYaSong-B-GBK\fs24\fscx141.38\fscy141.38\c&H6A98D1&\3c&H224EA3&\move(356.57,3.66,438.6,171.05,22,5694)\t(22,5694,\fscy100)\t(22,5694,\fscx100)}生活用品
+Dialogue: 0,0:08:56.89,0:09:02.61,Screen,,0,0,0,,{\an8\fn@FZYaSong-B-GBK\frz271.3\fs20\fscx141.38\fscy141.38\c&H6A98D1&\3c&H224EA3&\move(893.12,-77.01,818.13,113.99,22,5694)\t(22,5694,\fscy100)\t(22,5694,\fscx100)}浴室·厕所清理用品
+Dialogue: 0,0:09:03.65,0:09:08.82,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\frz350.4\c&HB8D99A&\frx2\fry32\pos(571.62,91.81)}财运UP!!{\c&H6EECF2&}力量之石
+Dialogue: 0,0:09:03.65,0:09:08.82,Screen,,0,0,0,,{\fnDFHannotateW7-A\b1\fs25\c&H6B949B&\pos(615.46,301.11)}能使得财神降临身边\N的幸运小道具！
+Dialogue: 0,0:09:03.65,0:09:08.82,Screen,,0,0,0,,{\fnDFHannotateW7-A\b1\fs25\c&H3692F2&\pos(838.39,258.13)}趁势把想要的\N一切都拿下吧！
+Dialogue: 0,0:09:08.82,0:09:11.78,Screen,,0,0,0,,{\fnFZYaSong-B-GBK\frz350.4\fs56\c&HB8D99A&\frx2\fry32\fax0.15\pos(449.236,97.677)}财运UP!!{\c&H6EECF2&}力量之石
+Dialogue: 0,0:09:08.82,0:09:11.78,Screen,,0,0,0,,{\fnDFHannotateW7-A\b1\fs35\c&H6B949B&\pos(531.448,528.894)}能使得财神降临身边\N的幸运小道具！
+Dialogue: 0,0:09:08.82,0:09:11.78,Screen,,0,0,0,,{\fnDFHannotateW7-A\b1\fs35\c&H3692F2&\pos(1027.689,435.017)}趁势把想要的\N一切都拿下吧！
+Dialogue: 0,0:09:38.81,0:09:42.77,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\frz4.684\3c&H5885DB&\bord2\move(73,122,300,122)}被褥区
 Dialogue: 0,0:09:38.81,0:09:42.77,Screen,,0,0,0,,{\frz6.806\fs30\c&H7A6D67&\3c&H5885DB&\move(-9.34,229.33,217.66,230.67,0,3939)}非常轻便！
 Dialogue: 0,0:09:38.81,0:09:42.77,Screen,,0,0,0,,{\frz6.806\fs30\c&HBE80F4&\3c&H5885DB&\move(167.47,289.87,396.6,289.08,18,3939)}干燥清爽
-Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fn华康手札体W7-A\frz4.904\fs30\c&H333539&\3c&HFAF9F4&\bord2\fax-0.1\move(648,530,864,526)}安眠枕\N{\fscx80\fscy80}自适应\N您的头型
-Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fn华康手札体W7-A\frz4.904\fs30\c&H333539&\3c&H67E7F0&\bord2\fax-0.1\move(339.2,538.67,555.2,534.67)}安眠效果\N　　　拔群！！
-Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fn华康手札体W7-A\frz4.904\fs30\c&H333539&\3c&H67E7F0&\bord2\fax-0.1\move(321.07,581.33,537.07,577.33)}超特价\N　　3000日元(不含税)
-Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fn华康手札体W7-A\frz10.95\fs30\c&H333539&\3c&HEBF9F8&\bord2\fax-0.2\move(2.13,541.87,218.13,537.87)}记忆枕\N内含防腐防虫剂
-Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fn华康手札体W7-A\frz15.56\fs26\c&H333539&\3c&HEBF9F8&\bord2\fax-0.4\move(60,158,280,154)}松松软软\N高弹力
+Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fnDFHannotateW7-A\frz4.904\fs30\c&H333539&\3c&HFAF9F4&\bord2\fax-0.1\move(648,530,864,526)}安眠枕\N{\fscx80\fscy80}自适应\N您的头型
+Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fnDFHannotateW7-A\frz4.904\fs30\c&H333539&\3c&H67E7F0&\bord2\fax-0.1\move(339.2,538.67,555.2,534.67)}安眠效果\N　　　拔群！！
+Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fnDFHannotateW7-A\frz4.904\fs30\c&H333539&\3c&H67E7F0&\bord2\fax-0.1\move(321.07,581.33,537.07,577.33)}超特价\N　　3000日元(不含税)
+Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fnDFHannotateW7-A\frz10.95\fs30\c&H333539&\3c&HEBF9F8&\bord2\fax-0.2\move(2.13,541.87,218.13,537.87)}记忆枕\N内含防腐防虫剂
+Dialogue: 0,0:09:46.48,0:09:50.44,Screen,,0,0,0,,{\an4\fnDFHannotateW7-A\frz15.56\fs26\c&H333539&\3c&HEBF9F8&\bord2\fax-0.4\move(60,158,280,154)}松松软软\N高弹力
 Dialogue: 0,0:09:50.44,0:09:53.66,Screen,,0,0,0,,{\frz346.9\c&HF4D0F0&\3c&HFFFFFF&\bord4\fax0.2\move(505,229,309,229)}美容&\N　　　　　节约用水
 Dialogue: 0,0:09:50.44,0:09:53.66,Screen,,0,0,0,,{\frz340.9\fs30\c&HF7EFFB&\3c&HF8E5B5&\bord4\fax0.2\move(843.73,125.87,647.73,125.87)}让您的皮肤\N{\c&HDCBCF5&}光滑剔透
-Dialogue: 0,0:09:53.66,0:09:59.62,Screen,,0,0,0,,{\fn方正兰亭中粗黑_GBK\frz13.1\fs35\c&HF0DEB9&\3c&HFFFFFF&\bord2\fax-0.4\move(878.66,161.32,878.66,378.65,16,5939)}ULTRA BRILLIANT COATING
-Dialogue: 0,0:09:53.66,0:09:59.62,Screen,,0,0,0,,{\fn华康手札体W7-A\b1\frz6.751\fs35\c&HFFFFFF&\3c&HFFFFFF&\fax-0.2\move(1146.67,572,1146.67,789.33,16,5939)}无需用油 简单烹饪
-Dialogue: 0,0:10:01.16,0:10:02.58,Screen,,0,0,0,,{\an8\fn方正兰亭中粗黑_GBK\frz338.5\c&H535BEC&\3c&H000000&\bord1\move(501.33,720.67,501.33,367.67)}ULTRA\N{\c&HEBD18F&}BRILLIANT\NCOATING\N{\c&H74DBED&}平底锅
-Dialogue: 0,0:09:59.62,0:10:02.58,Screen,,0,0,0,,{\an8\fn方正兰亭中粗黑_GBK\frz85.64\c&H68686B&\3c&H000000&\bord1\move(932.27,676.27,932.27,-76.73)}记忆枕头\N内含防腐防虫剂
+Dialogue: 0,0:09:53.66,0:09:59.62,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\frz13.1\fs35\c&HF0DEB9&\3c&HFFFFFF&\bord2\fax-0.4\move(878.66,161.32,878.66,378.65,16,5939)}ULTRA BRILLIANT COATING
+Dialogue: 0,0:09:53.66,0:09:59.62,Screen,,0,0,0,,{\fnDFHannotateW7-A\b1\frz6.751\fs35\c&HFFFFFF&\3c&HFFFFFF&\fax-0.2\move(1146.67,572,1146.67,789.33,16,5939)}无需用油 简单烹饪
+Dialogue: 0,0:10:01.16,0:10:02.58,Screen,,0,0,0,,{\an8\fnFZLanTingHei-DB1-GBK\frz338.5\c&H535BEC&\3c&H000000&\bord1\move(501.33,720.67,501.33,367.67)}ULTRA\N{\c&HEBD18F&}BRILLIANT\NCOATING\N{\c&H74DBED&}平底锅
+Dialogue: 0,0:09:59.62,0:10:02.58,Screen,,0,0,0,,{\an8\fnFZLanTingHei-DB1-GBK\frz85.64\c&H68686B&\3c&H000000&\bord1\move(932.27,676.27,932.27,-76.73)}记忆枕头\N内含防腐防虫剂
 Dialogue: 0,0:10:05.54,0:10:07.75,Screen,,0,0,0,,{\frz2.193\fs30\4c&H68686B&\yshad2\fax-0.1\move(121,480,121,656.2,0,2192)}何时何地\N{\3c&H29269C&\bord2\shad0}天天开心\N{\c&H29269C&\3c&HFFFFFF&}玩具全部7折出售
 Dialogue: 0,0:10:05.54,0:10:07.75,Screen,,0,0,0,,{\frz356.8\fs30\3c&H826531&\4c&H68686B&\bord2\move(561.07,524.8,561.07,701,0,2192)}完美特价
 Dialogue: 0,0:11:54.07,0:11:58.99,Screen,,0,0,0,,{\an8\c&H933086&}迦希{\c&H933086&\1a&HFF&\t(561,561,\1a&H00&)}女王{\c&H933086&\1a&HFF&\t(1186,1186,\1a&H00&)}不{\c&H933086&\1a&HFF&\t(1645,1645,\1a&H00&)}气馁{\c&H1C95F5&}！

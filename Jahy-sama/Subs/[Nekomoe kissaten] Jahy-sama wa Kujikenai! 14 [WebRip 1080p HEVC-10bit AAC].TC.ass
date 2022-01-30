@@ -14,10 +14,10 @@ YCbCr Matrix: TV.709
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
 Style: Top,Tensentype JiaLiDaYuanGB18030,40,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
-Style: Title,方正锐正黑_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
+Style: Title,FZRuiZhengHei_GBK ExtraBold,50,&H00974791,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,10,10,10,1
 Style: Screen,Tensentype JiaLiDaYuanGB18030,44,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
 Style: comment,Tensentype JiaLiDaYuanGB18030,34,&H00FFFFFF,&H00FFFFFF,&H00873F7A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,15,1
-Style: Staff,方正锐正黑_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
+Style: Staff,FZRuiZhengHei_GBK ExtraBold,34,&H00C3425B,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: OP-JP,DFPNekoMaru-W12,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,12,1
 Style: OP-CHS,DFPHaiBaoW12-GB,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
 Style: OP-CHT,DFPYuanLiu-B5,40,&H0000E2DF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,12,1
@@ -32,9 +32,9 @@ Comment: 0,0:00:43.02,0:00:43.02,Default,,0,0,0,,---------------Title-----------
 Dialogue: 0,0:02:06.11,0:02:11.03,Title,,0,0,0,,{\be3\fad(500,500)\pos(358.23,527.56)}復興{\c&H0399F1&}計劃 {\r\be3}其{\c&H0399F1&}13\N{\c&H9940FE&}魔法少女不戰鬥{\c&H0399F4&}！
 Dialogue: 0,0:23:19.00,0:23:24.01,Title,,0,0,0,,{\blur0.6\pos(659.56,534.24)}下集 {\c&H7EE0E0&}店長無法做決定{\c&H0098F3&}！
 Comment: 0,0:00:43.02,0:00:43.02,Default,,0,0,0,,---------------Screen------------
-Dialogue: 0,0:14:58.92,0:14:59.04,Screen,,0,0,0,,{\an9\fs25\fn方正锐正黑_GBK ExtraBold\xshad1.5\yshad1.5\c&HC9CCD1&\pos(922.66,580.57)}這份美味 魔王級!\N特質番茄蝦仁豪華披薩
-Dialogue: 0,0:14:59.04,0:15:00.80,Screen,,0,0,0,,{\an9\fs25\fn方正锐正黑_GBK ExtraBold\xshad1.5\yshad1.5\pos(1034.66,491.43)\c&HC9CCD1&}這份美味 魔王級!\N特質番茄蝦仁豪華披薩
-Dialogue: 0,0:17:48.13,0:17:50.13,Screen,,0,0,0,,{\fn方正兰亭粗黑_GBK\pos(650.93,538)\c&H79851F&}把人們從不幸中拯救出來吧
+Dialogue: 0,0:14:58.92,0:14:59.04,Screen,,0,0,0,,{\an9\fs25\fnFZRuiZhengHei_GBK ExtraBold\xshad1.5\yshad1.5\c&HC9CCD1&\pos(922.66,580.57)}這份美味 魔王級!\N特質番茄蝦仁豪華披薩
+Dialogue: 0,0:14:59.04,0:15:00.80,Screen,,0,0,0,,{\an9\fs25\fnFZRuiZhengHei_GBK ExtraBold\xshad1.5\yshad1.5\pos(1034.66,491.43)\c&HC9CCD1&}這份美味 魔王級!\N特質番茄蝦仁豪華披薩
+Dialogue: 0,0:17:48.13,0:17:50.13,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\pos(650.93,538)\c&H79851F&}把人們從不幸中拯救出來吧
 Comment: 0,0:00:43.02,0:00:43.02,Default,,0,0,0,,---------------Text------------
 Dialogue: 0,0:00:04.53,0:00:08.06,Default,,0,0,0,,這正是所謂 命中注定的對決
 Dialogue: 0,0:00:08.83,0:00:13.05,Default,,0,0,0,,魔法少女毀滅了她的故鄉
