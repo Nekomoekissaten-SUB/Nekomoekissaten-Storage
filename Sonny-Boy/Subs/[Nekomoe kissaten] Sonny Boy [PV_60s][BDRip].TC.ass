@@ -1,0 +1,56 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Sonny Boy [PV_60s][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Scr_PV,HYXuanSong 65S,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Chat,DFYuanW7-A,20,&H00615A5B,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,12,1
+Style: Scr,HYXuanSong 65S,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: Dial-CH,FZYouHei_GBK 509R,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,10,10,12,1
+Style: Cmt-CH,FZYouHei_GBK 509R,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,7,10,10,12,1
+Style: ED1-JP,FOT-ModeMinBLarge ProN M,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,20,20,10,1
+Style: ED1-CH,FZSongHei-B07,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,100,0,0,1,1.6,0,8,20,20,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Text
+Dialogue: 0,0:00:01.20,0:00:05.15,Dial-CH,,0,0,0,,整天躺在這好玩嗎
+Dialogue: 0,0:00:05.99,0:00:06.82,Dial-CH,,0,0,0,,好玩啊
+Dialogue: 0,0:00:09.04,0:00:12.17,Dial-CH,,0,0,0,,一切都消失了 只剩下學校
+Dialogue: 0,0:00:12.17,0:00:13.75,Dial-CH,,0,0,0,,這個現象簡直無法解釋
+Dialogue: 0,0:00:13.75,0:00:15.34,Dial-CH,,0,0,0,,無法與外界取得聯繫
+Dialogue: 0,0:00:15.34,0:00:17.66,Dial-CH,,0,0,0,,我們正可謂是處於漂流狀態
+Dialogue: 0,0:00:17.88,0:00:18.83,Dial-CH,,0,0,0,,這樣啊
+Dialogue: 0,0:00:19.26,0:00:21.05,Dial-CH,,0,0,0,,這裡是烏托邦嗎
+Dialogue: 0,0:00:21.38,0:00:23.64,Dial-CH,,0,0,0,,抑或是…地獄?
+Dialogue: 0,0:00:26.81,0:00:30.06,Dial-CH,,0,0,0,,人並不是生來就具有價值
+Dialogue: 0,0:00:30.39,0:00:32.11,Dial-CH,,0,0,0,,所以我們要去尋找其意義
+Dialogue: 0,0:00:32.35,0:00:33.79,Dial-CH,,0,0,0,,想那麼多又有什麼用
+Dialogue: 0,0:00:34.11,0:00:35.90,Dial-CH,,0,0,0,,我要逃離這世界
+Dialogue: 0,0:00:36.57,0:00:37.40,Dial-CH,,0,0,0,,怎樣逃離?
+Dialogue: 0,0:00:37.77,0:00:38.97,Dial-CH,,0,0,0,,奔跑就是了
+Dialogue: 0,0:00:39.65,0:00:40.56,Dial-CH,,0,0,0,,…用盡全力
+Dialogue: 0,0:00:43.06,0:00:44.78,Dial-CH,,0,0,0,,違反規則的人
+Dialogue: 0,0:00:44.78,0:00:45.95,Dial-CH,,0,0,0,,將受到懲罰
+Dialogue: 0,0:00:46.15,0:00:48.50,Dial-CH,,0,0,0,,自己沒有什麼像樣的能力 就嫉妒別人嗎
+Dialogue: 0,0:00:48.50,0:00:50.86,Dial-CH,,0,0,0,,不要逃避現實自欺欺人
+Dialogue: 0,0:00:52.36,0:00:53.68,Dial-CH,,0,0,0,,你不害怕嗎
+Dialogue: 0,0:00:54.08,0:00:55.74,Dial-CH,,0,0,0,,所以才要這麼做啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:07.15,0:00:08.66,Scr_PV,,0,0,0,,{\fsp5\fscx100\fscy100\move(640,424,640.02,428.12,21,1481)\t(21,1481,\fscy104)\t(21,1481,\fscx104)}某一天，我們 {\fsp0}——
+Dialogue: 0,0:00:09.24,0:00:10.62,Scr_PV,,0,0,0,,{\pos(973,224)}從這世界上消失了
+Dialogue: 0,0:00:16.45,0:00:17.66,Scr_PV,,0,0,0,,{\fs56\fsp5\pos(640,501)}「正處於漂流狀態。{\fsp0}」
+Dialogue: 0,0:00:32.35,0:00:33.60,Scr_PV,,0,0,0,,{\fs56\fscx100\fscy100\move(640,518,640.02,526.97,23,1232)\t(23,1232,\fscy105.68)\t(23,1232,\fscx105.68)}MADHOUS{\fsp0}E
+Dialogue: 0,0:00:34.93,0:00:36.22,Scr_PV,,0,0,0,,{\fnHYXuanSong 55S\fsp2\fscx80\fscy80\move(640,272,640.02,266.97,19,1270)\t(19,1270,\fscx84.56)\t(19,1270,\fscy84.56)}角色原{\fsp0}案
+Dialogue: 0,0:00:43.65,0:00:44.44,Scr_PV,,0,0,0,,{\fsp5\fscx100\fscy100\move(640,468,640.01,474.05,16,766)\t(16,766,\fscy105.63)\t(16,766,\fscx105.63)}在新的世界展現自我 {\fsp0}——
+Dialogue: 0,0:00:46.15,0:00:46.99,Scr_PV,,0,0,0,,{\fsp5\fscx100\fscy100\move(640,468,640.01,471.76,18,811)\t(18,811,\fscy103.5)\t(18,811,\fscx103.5)}少年少女們{\fsp0}的
+Dialogue: 0,0:00:48.28,0:00:48.95,Scr_PV,,0,0,0,,{\fsp5\fscx100\fscy100\move(640,468,640.01,473.09,25,651)\t(25,651,\fscy104.74)\t(25,651,\fscx104.74)}秘密{\fsp0}和
+Dialogue: 0,0:00:50.11,0:00:50.86,Scr_PV,,0,0,0,,{\fsp5\fscx100\fscy100\move(640,468,640.01,472.21,20,729)\t(20,729,\fscy103.91)\t(20,729,\fscx103.91)}自我{\fsp0}。
+Dialogue: 0,0:00:53.91,0:00:54.70,Scr_PV,,0,0,0,,{\fsp5\fscx100\fscy100\move(640,468,640.01,473.77,16,767)\t(16,767,\fscy105.36)\t(16,767,\fscx105.36)}奇妙青春的開{\fsp0}始
