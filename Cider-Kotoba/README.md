@@ -1,4 +1,6 @@
-# Web字幕
+# Cider no You ni Kotoba ga Wakiagaru
+
+BD 中日双语字幕
 
 ## 所需字体
 
@@ -10,7 +12,7 @@ FOT-筑紫A丸ゴシック Std R <FOT-TsukuARdGothic Std R>
 方正兰亭圆_GBK_特 <FZLanTingYuan-H-GBK>
 方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
 方正准圆_GBK <FZZhunYuan-M02>
-汉仪旗黑-65S <HYQiHei-65S>
+汉仪旗黑 65S <HYQiHei 65S>
 汉仪玄宋 55S <HYXuanSong 55S>
 汉仪玄宋 75S <HYXuanSong 75S>
 华康手札体W5-A <DFHannotateW5-A>
