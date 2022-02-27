@@ -1,7 +1,11 @@
-# Love Live! Superstar!!
+# Love Live!
 
-[Web 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Love_Live/lovelive-superstar_Web_JPCH.7z)  
-内含 01-12 集
+## Love Live! Superstar!!
+
+### Season 1
+
+内含正片 01-12 + 特典动画「リエラのうた」（Liella no uta） 01-12 BDRip 简繁日双语字幕  
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/lovelive-superstar_BD_JPCH.7z)
 
 所需字体：
 ```
@@ -13,7 +17,7 @@ Zpix
 方正兰亭特黑_GBK <FZLanTingHei-H-GBK>
 方正兰亭圆_GBK <FZLanTingYuan-R-GBK>
 方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
-汉仪旗黑-65S <HYQiHei-65S>
+汉仪旗黑 65S <HYQiHei 65S>
 汉仪玄宋 65S <HYXuanSong 65S>
 华康翩翩体W5-A <DFHanziPenW5-A>
 华康手札体W7-A <DFHannotateW7-A>
