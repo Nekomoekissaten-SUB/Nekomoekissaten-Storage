@@ -167,6 +167,10 @@ Dialogue: 0,0:00:15.20,0:00:17.58,Title-CHS,,0,0,0,,{\fad(0,0)\bord7\c&H33FF4C&\
 Dialogue: 0,0:00:26.67,0:00:30.64,Title-CHS,,0,0,0,,{\fad(500,250)\bord7\c&HFF8738&\frz8.099\pos(420.933,580.267)}待兼福来
 Dialogue: 0,0:00:37.18,0:00:39.94,Title-CHS,,0,0,0,,{\fad(0,0)\bord7\c&H4725FF&\frz8.099\pos(942,564)}丸善斯基
 Dialogue: 0,0:00:50.57,0:00:53.37,Title-CHS,,0,0,0,,{\fad(0,0)\bord7\c&HFF5CDD&\frz8.099\pos(1088,534.667)}艾尼斯风神
+Dialogue: 0,0:01:14.47,0:01:15.51,Screen,,0,0,0,,{\fad(0,0)\fs62\bord5\c&HECE9E0&\fn汉仪旗黑-65S\b1\3c&H7E63D7&\pos(636.178,76.844)}马儿超市
+Dialogue: 1,0:01:15.51,0:01:16.89,Screen,,0,0,0,,{\fn汉仪旗黑-65S\bord2\c&HB79BE2&\3c&HFDFCF9&\pos(640,56)}限时特价
+Dialogue: 0,0:01:15.51,0:01:16.89,Screen,,0,0,0,,{\fn汉仪旗黑-65S\bord8\c&HB79BE2&\3c&HC08D6C&\pos(640,56)}限时特价
+Dialogue: 0,0:01:15.51,0:01:16.89,Screen,,0,0,0,,{\fn汉仪旗黑-65S\pos(640,704)\bord3\c&H91908C&\3c&HFBFAF5&}特色商品每人限购一件
 Dialogue: 0,0:01:54.14,0:01:57.81,Screen,,0,0,0,,{\fad(0,0)\fs62\bord5\c&HFFFFFF&\fn汉仪旗黑-65S\b1\3c&HB42933&\pos(1090.4,176.4)}照片判定
 Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,ED《Ring Ring ダイアリー》
 Dialogue: 0,0:02:33.34,0:02:35.93,ED-JP,,0,0,0,,逃げ切り！（逃げ切り！）　逃げ切れ！（逃げ切れ！）
