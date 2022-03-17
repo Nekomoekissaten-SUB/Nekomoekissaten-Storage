@@ -14,7 +14,7 @@ FOT-マティス ProN DB <FOT-Matisse ProN DB>
 ```
 
 
-[nlb_chs]:
-[nlb_cht]:
-[ltb_chs]:
-[ltb_cht]:
+[nlb_chs]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Poupelle/%5BNekomoe%20kissaten%5D%20Entotsu%20Machi%20no%20Poupelle%20%5BMovie%5D%5BBDRip%5D%5B1920x816%5D.SC.ass
+[nlb_cht]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Poupelle/%5BNekomoe%20kissaten%5D%20Entotsu%20Machi%20no%20Poupelle%20%5BMovie%5D%5BBDRip%5D%5B1920x816%5D.TC.ass
+[ltb_chs]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Poupelle/%5BNekomoe%20kissaten%5D%20Entotsu%20Machi%20no%20Poupelle%20%5BMovie%5D%5BBDRip%5D.SC.ass
+[ltb_cht]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Poupelle/%5BNekomoe%20kissaten%5D%20Entotsu%20Machi%20no%20Poupelle%20%5BMovie%5D%5BBDRip%5D.TC.ass
