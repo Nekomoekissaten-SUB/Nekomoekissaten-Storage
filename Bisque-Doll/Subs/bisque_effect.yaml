@@ -1,0 +1,23 @@
+python_bin:
+  'F:/Software/VapourSynth/python.exe'
+
+namef:
+  - '[Nekomoe kissaten] Sono Bisque Doll wa Koi wo Suru [{ep}][Web].{lang}'
+  - 'Bisque_OP_Effect_02_Web.{lang}'
+  - 'Bisque_ED_Effect_02_Web.{lang}'
+
+# OP, Logo = 988
+# ED, last line = first frame 31771
+shift_fr:
+  '01': [1679, -3] #2667
+  '02': [0, 0]
+  '03': [1559, -1]  #2547
+  '04': [1007, -2]  #1995
+  '05': [5538, -3] #6526
+  '06': [10429, -4] #11417
+  '07': [1055, -2] #2043
+  '08': [1847, -3] #2835
+  '09': [2781, -1] #3769
+  '10': [11963, -2] #12951
+  '11': [480, -4] #1468
+  '12': [840, -5325] #1828, 26446
