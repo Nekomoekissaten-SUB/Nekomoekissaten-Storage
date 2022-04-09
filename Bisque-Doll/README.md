@@ -21,3 +21,5 @@ FOT-筑紫A丸ゴシック Std B <FOT-TsukuARdGothic Std B>
 汉仪玄宋 75S <HYXuanSong 75S>
 华康手札体W7-A <DFHannotateW7-A>
 ```
+
+![](https://nekomoe.pages.dev/images/2022-01/bisquedoll.jpg)
