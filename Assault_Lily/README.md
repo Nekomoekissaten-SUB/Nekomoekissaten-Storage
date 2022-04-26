@@ -29,8 +29,8 @@ FOT-ユトリロ Pro DB <FOT-Utrillo Pro DB>
 
 ## Assault Lily Fruits
 
-内含正片 01-13 Web 字幕  
-[简繁日 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Assault_Lily_Fru_Web_JPCH.7z)
+内含正片 01-13 BD 字幕  
+[简繁日 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Assault_Lily_Fru_BD_JPCH.7z)
 
 所需字体：
 ```

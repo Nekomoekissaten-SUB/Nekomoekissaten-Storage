@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Assault Lily Fruits [03][WebRip].JPTC
+Title: [Nekomoe kissaten] Assault Lily Fruits [03][BDRip].JPSC
 ScriptType: v4.00+
 WrapStyle: 2
 ScaledBorderAndShadow: yes
@@ -25,7 +25,7 @@ Style: Screen_ED,@DFHanziPenW3-A,40,&H0035474A,&H000000FF,&H00000000,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
-Dialogue: 0,0:00:00.01,0:00:04.73,Staff,,0,0,0,,{\blur7.5}本字幕由喵萌奶茶屋製作　僅供交流試看之用  請勿用於商業用途\N\N翻譯：Ronny　後期：MIR　繁化：SashiharaRino
+Dialogue: 0,0:00:00.01,0:00:04.73,Staff,,0,0,0,,{\blur7.5}本字幕由喵萌奶茶屋制作　仅供交流试看之用  请勿用于商业用途\N\N翻译：Ronny　后期：MIR　繁化：SashiharaRino
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue Japanese
 Dialogue: 1,0:00:01.19,0:00:02.89,Dial-JP,,0,0,0,,「アサルトリリィ　ふるーつ」
 Dialogue: 1,0:00:03.81,0:00:05.56,Dial-JP,,0,0,0,,グラン・エプレ　出撃よ
@@ -80,59 +80,59 @@ Dialogue: 1,0:01:55.94,0:01:57.94,Dial-JP2,,0,0,0,,とっきーのお手なら�
 Dialogue: 1,0:01:57.94,0:02:00.10,Dial-JP,,0,0,0,,いやー
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue Chinese
 Dialogue: 0,0:00:01.19,0:00:02.89,Dial-CH,,0,0,0,,「Assault Lily Fruits」
-Dialogue: 0,0:00:03.81,0:00:05.56,Dial-CH,,0,0,0,,格蘭·艾普蕾 出擊
+Dialogue: 0,0:00:03.81,0:00:05.56,Dial-CH,,0,0,0,,格兰·艾普蕾 出击
 Dialogue: 0,0:00:06.28,0:00:06.97,Dial-CH,,0,0,0,,好痛
 Dialogue: 0,0:00:07.35,0:00:09.21,Dial-CH,,0,0,0,,被刺到了
-Dialogue: 0,0:00:09.67,0:00:11.51,Dial-CH,,0,0,0,,來 把手給我
-Dialogue: 0,0:00:14.90,0:00:17.35,Dial-CH,,0,0,0,,不要 好癢呀 高嶺
-Dialogue: 0,0:00:17.50,0:00:19.15,Dial-CH,,0,0,0,,看來忘記疼痛了
-Dialogue: 0,0:00:19.15,0:00:20.25,Dial-CH,,0,0,0,,放開我
-Dialogue: 0,0:00:20.25,0:00:21.66,Dial-CH,,0,0,0,,不要用舌頭搔搔癢啊
+Dialogue: 0,0:00:09.67,0:00:11.51,Dial-CH,,0,0,0,,来 把手给我
+Dialogue: 0,0:00:14.90,0:00:17.35,Dial-CH,,0,0,0,,不要 好痒呀 高岭
+Dialogue: 0,0:00:17.50,0:00:19.15,Dial-CH,,0,0,0,,看来忘记疼痛了
+Dialogue: 0,0:00:19.15,0:00:20.25,Dial-CH,,0,0,0,,放开我
+Dialogue: 0,0:00:20.25,0:00:21.66,Dial-CH,,0,0,0,,不要用舌头挠痒痒啊
 Dialogue: 0,0:00:21.84,0:00:22.92,Dial-CH,,0,0,0,,忍耐一下吧
-Dialogue: 0,0:00:23.20,0:00:24.90,Dial-CH,,0,0,0,,那是什麼場景啊
-Dialogue: 0,0:00:24.90,0:00:27.92,Dial-CH,,0,0,0,,一大早就看到這麼刺激的景象沒問題嗎
-Dialogue: 0,0:00:28.14,0:00:30.22,Dial-CH2,,0,0,0,,腦… 腦袋開始暈了
-Dialogue: 0,0:00:28.86,0:00:30.96,Dial-CH,,0,0,0,,小岐又在自言自語了
-Dialogue: 0,0:00:31.08,0:00:33.25,Dial-CH,,0,0,0,,又在偷窺了嗎 真是的
-Dialogue: 0,0:00:35.01,0:00:36.92,Dial-CH,,0,0,0,,既然是軍團的伙伴
-Dialogue: 0,0:00:36.92,0:00:38.68,Dial-CH,,0,0,0,,就大大方方地去搭話吧
-Dialogue: 0,0:00:39.34,0:00:42.81,Dial-CH,,0,0,0,,這… 這樣大不敬的事情 對我來說難度太高了
-Dialogue: 0,0:00:43.74,0:00:45.56,Dial-CH,,0,0,0,,喂喂 在做什麼呢
-Dialogue: 0,0:00:45.86,0:00:47.04,Dial-CH,,0,0,0,,呀 燈莉同學
-Dialogue: 0,0:00:47.14,0:00:50.75,Dial-CH,,0,0,0,,高喵前輩 為什麼在吃葉星前輩的手指呢
-Dialogue: 0,0:00:50.92,0:00:51.97,Dial-CH,,0,0,0,,燈… 燈莉同學？
-Dialogue: 0,0:00:51.97,0:00:53.18,Dial-CH,,0,0,0,,她什麼時候跑過去的
-Dialogue: 0,0:00:53.49,0:00:54.92,Dial-CH,,0,0,0,,因為很好吃嗎
-Dialogue: 0,0:00:55.53,0:00:57.53,Dial-CH,,0,0,0,,是的哦 特別好吃
+Dialogue: 0,0:00:23.20,0:00:24.90,Dial-CH,,0,0,0,,那是什么场景啊
+Dialogue: 0,0:00:24.90,0:00:27.92,Dial-CH,,0,0,0,,一大早就看到这么刺激的景象没问题吗
+Dialogue: 0,0:00:28.14,0:00:30.22,Dial-CH2,,0,0,0,,脑… 脑袋开始晕了
+Dialogue: 0,0:00:28.86,0:00:30.96,Dial-CH,,0,0,0,,小岐又在自言自语了
+Dialogue: 0,0:00:31.08,0:00:33.25,Dial-CH,,0,0,0,,又在偷窥了吗 真是的
+Dialogue: 0,0:00:35.01,0:00:36.92,Dial-CH,,0,0,0,,既然是军团的伙伴
+Dialogue: 0,0:00:36.92,0:00:38.68,Dial-CH,,0,0,0,,就大大方方地去搭话吧
+Dialogue: 0,0:00:39.34,0:00:42.81,Dial-CH,,0,0,0,,这… 这样大不敬的事情 对我来说难度太高了
+Dialogue: 0,0:00:43.74,0:00:45.56,Dial-CH,,0,0,0,,喂喂 在做什么呢
+Dialogue: 0,0:00:45.86,0:00:47.04,Dial-CH,,0,0,0,,呀 灯莉同学
+Dialogue: 0,0:00:47.14,0:00:50.75,Dial-CH,,0,0,0,,高喵前辈 为什么在吃叶星前辈的手指呢
+Dialogue: 0,0:00:50.92,0:00:51.97,Dial-CH,,0,0,0,,灯… 灯莉同学？
+Dialogue: 0,0:00:51.97,0:00:53.18,Dial-CH,,0,0,0,,她什么时候跑过去的
+Dialogue: 0,0:00:53.49,0:00:54.92,Dial-CH,,0,0,0,,因为很好吃吗
+Dialogue: 0,0:00:55.53,0:00:57.53,Dial-CH,,0,0,0,,是的哦 特别好吃
 Dialogue: 0,0:00:57.53,0:00:58.08,Dial-CH,,0,0,0,,舔
-Dialogue: 0,0:00:58.08,0:01:00.24,Dial-CH,,0,0,0,,高嶺真是的
-Dialogue: 0,0:01:00.34,0:01:02.64,Dial-CH,,0,0,0,,好棒 我也要嚐嚐
-Dialogue: 0,0:01:02.64,0:01:04.80,Dial-CH,,0,0,0,,不行 葉星是我專用的
-Dialogue: 0,0:01:04.92,0:01:06.05,Dial-CH,,0,0,0,,對不起了
+Dialogue: 0,0:00:58.08,0:01:00.24,Dial-CH,,0,0,0,,高岭真是的
+Dialogue: 0,0:01:00.34,0:01:02.64,Dial-CH,,0,0,0,,好棒 我也要尝尝
+Dialogue: 0,0:01:02.64,0:01:04.80,Dial-CH,,0,0,0,,不行 叶星是我专用的
+Dialogue: 0,0:01:04.92,0:01:06.05,Dial-CH,,0,0,0,,对不住了
 Dialogue: 0,0:01:06.13,0:01:07.74,Dial-CH,,0,0,0,,鼻血止不住了
-Dialogue: 0,0:01:07.74,0:01:10.17,Dial-CH,,0,0,0,,確… 確實不太好正面去搭話呀
-Dialogue: 0,0:01:10.45,0:01:13.17,Dial-CH,,0,0,0,,話說回來 她還真敢進入那二人世界啊
-Dialogue: 0,0:01:13.42,0:01:15.28,Dial-CH,,0,0,0,,作為補償 給你吃糖吧
-Dialogue: 0,0:01:15.28,0:01:17.51,Dial-CH,,0,0,0,,好耶 謝謝前輩
-Dialogue: 0,0:01:18.06,0:01:20.30,Dial-CH,,0,0,0,,那邊的兩位 也要來一根嗎
+Dialogue: 0,0:01:07.74,0:01:10.17,Dial-CH,,0,0,0,,确… 确实不太好正面去搭话呀
+Dialogue: 0,0:01:10.45,0:01:13.17,Dial-CH,,0,0,0,,话说回来 她还真敢进入那二人世界啊
+Dialogue: 0,0:01:13.42,0:01:15.28,Dial-CH,,0,0,0,,作为补偿 给你吃糖吧
+Dialogue: 0,0:01:15.28,0:01:17.51,Dial-CH,,0,0,0,,好耶 谢谢前辈
+Dialogue: 0,0:01:18.06,0:01:20.30,Dial-CH,,0,0,0,,那边的两位 也要来一根吗
 Dialogue: 0,0:01:21.22,0:01:23.16,Dial-CH,,0,0,0,,喂 小岐 定盛
 Dialogue: 0,0:01:23.16,0:01:24.79,Dial-CH,,0,0,0,,好甜好好吃哦
-Dialogue: 0,0:01:26.38,0:01:29.53,Dial-CH,,0,0,0,,那個 偷偷看了你們 對不起
-Dialogue: 0,0:01:29.71,0:01:32.84,Dial-CH,,0,0,0,,我覺得出來打擾太沒禮貌了 就順勢…
-Dialogue: 0,0:01:32.84,0:01:36.36,Dial-CH,,0,0,0,,沒關係 我才該道歉 沒注意到你們
-Dialogue: 0,0:01:36.36,0:01:37.89,Dial-CH,,0,0,0,,明明大家都在場
-Dialogue: 0,0:01:37.89,0:01:40.30,Dial-CH,,0,0,0,,咦 完全沒注意到嗎
-Dialogue: 0,0:01:40.40,0:01:42.73,Dial-CH,,0,0,0,,我還以為你是明知道故意秀恩愛的呢
-Dialogue: 0,0:01:43.03,0:01:45.98,Dial-CH,,0,0,0,,高嶺真是的 不要說這麼羞恥的話啦
+Dialogue: 0,0:01:26.38,0:01:29.53,Dial-CH,,0,0,0,,那个 偷偷看了你们 对不起
+Dialogue: 0,0:01:29.71,0:01:32.84,Dial-CH,,0,0,0,,我觉得出来打扰太没礼貌了 就顺势…
+Dialogue: 0,0:01:32.84,0:01:36.36,Dial-CH,,0,0,0,,没关系 我才该道歉 没注意到你们
+Dialogue: 0,0:01:36.36,0:01:37.89,Dial-CH,,0,0,0,,明明大家都在场
+Dialogue: 0,0:01:37.89,0:01:40.30,Dial-CH,,0,0,0,,咦 完全没注意到吗
+Dialogue: 0,0:01:40.40,0:01:42.73,Dial-CH,,0,0,0,,我还以为你是明知道故意秀恩爱的呢
+Dialogue: 0,0:01:43.03,0:01:45.98,Dial-CH,,0,0,0,,高岭真是的 不要说这么羞耻的话啦
 Dialogue: 0,0:01:48.74,0:01:51.70,Dial-CH,,0,0,0,,咦 奇怪 完全不好吃
-Dialogue: 0,0:01:51.70,0:01:53.02,Dial-CH,,0,0,0,,你幹什麼啊
-Dialogue: 0,0:01:53.02,0:01:54.87,Dial-CH,,0,0,0,,熱熱鬧鬧真開心呀
-Dialogue: 0,0:01:55.09,0:01:56.89,Dial-CH,,0,0,0,,確實
-Dialogue: 0,0:01:55.94,0:01:57.94,Dial-CH2,,0,0,0,,小岐的手應該更好吃？
-Dialogue: 0,0:01:57.94,0:02:00.10,Dial-CH,,0,0,0,,別啊
+Dialogue: 0,0:01:51.70,0:01:53.02,Dial-CH,,0,0,0,,你干什么啊
+Dialogue: 0,0:01:53.02,0:01:54.87,Dial-CH,,0,0,0,,热热闹闹真开心呀
+Dialogue: 0,0:01:55.09,0:01:56.89,Dial-CH,,0,0,0,,确实
+Dialogue: 0,0:01:55.94,0:01:57.94,Dial-CH2,,0,0,0,,小岐的手应该更好吃？
+Dialogue: 0,0:01:57.94,0:02:00.10,Dial-CH,,0,0,0,,别啊
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
-Dialogue: 0,0:00:01.02,0:00:05.99,Title,,0,0,0,,{\c&H5949DE&\pos(1089.6,812.8)}櫻桃
+Dialogue: 0,0:00:01.02,0:00:05.99,Title,,0,0,0,,{\c&H5949DE&\pos(1089.6,812.8)}樱桃
 Dialogue: 0,0:00:08.82,0:00:10.28,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\fad(200,0)\c&H955DEE&\3c&HFFFFFF&\frz283.6\pos(892,225.333)}出血了…
 Dialogue: 0,0:00:13.87,0:00:13.91,Screen,,0,0,0,,{\fnFZZhengHei-EB-GBK\fs120\bord2\c&HDC644D&\3c&HFFFFFF&\pos(1789.44,335.36)}抖
 Dialogue: 0,0:00:13.91,0:00:13.95,Screen,,0,0,0,,{\fnFZZhengHei-EB-GBK\fs120\bord2\c&HDC644D&\3c&HFFFFFF&\pos(1787.26,334.22)}抖
@@ -292,166 +292,166 @@ Dialogue: 0,0:00:28.17,0:00:28.21,Screen,,0,0,0,,{\bord2\c&HF25D64&\3c&HFFFFFF&\
 Dialogue: 0,0:00:28.21,0:00:28.25,Screen,,0,0,0,,{\bord2\c&HF25D64&\3c&HFFFFFF&\fscx100.03\fscy100.03\pos(1385.67,397.7)}念念叨叨
 Dialogue: 0,0:00:28.25,0:00:28.29,Screen,,0,0,0,,{\bord2\c&HF25D64&\3c&HFFFFFF&\fscx100.02\fscy100.02\pos(1385.81,397.79)}念念叨叨
 Dialogue: 0,0:00:28.29,0:00:33.26,Screen,,0,0,0,,{\bord2\c&HF25D64&\3c&HFFFFFF&\fscx100\fscy100\pos(1385.81,397.89)}念念叨叨
-Dialogue: 0,0:00:22.75,0:00:22.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx110.14\fscy110.14\frz-90\pos(1689.39,868.76)}流個不停
-Dialogue: 0,0:00:22.83,0:00:22.87,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx110.06\fscy110.06\frz-90\pos(1689.61,868.98)}流個不停
-Dialogue: 0,0:00:22.87,0:00:22.91,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.98\fscy109.98\frz-90\pos(1689.84,869.18)}流個不停
-Dialogue: 0,0:00:22.91,0:00:22.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.89\fscy109.89\frz-90\pos(1690.06,869.38)}流個不停
-Dialogue: 0,0:00:22.96,0:00:23.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.79\fscy109.79\frz-90\pos(1690.27,869.57)}流個不停
-Dialogue: 0,0:00:23.00,0:00:23.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.69\fscy109.69\frz-90\pos(1690.47,869.79)}流個不停
-Dialogue: 0,0:00:23.04,0:00:23.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.6\fscy109.6\frz-90\pos(1690.7,870)}流個不停
-Dialogue: 0,0:00:23.08,0:00:23.12,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.5\fscy109.5\frz-90\pos(1690.93,870.21)}流個不停
-Dialogue: 0,0:00:23.12,0:00:23.16,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.39\fscy109.39\frz-90\pos(1691.14,870.4)}流個不停
-Dialogue: 0,0:00:23.16,0:00:23.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.29\fscy109.29\frz-90\pos(1691.37,870.62)}流個不停
-Dialogue: 0,0:00:23.21,0:00:23.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.19\fscy109.19\frz-90\pos(1691.6,870.83)}流個不停
-Dialogue: 0,0:00:23.25,0:00:23.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.08\fscy109.08\frz-90\pos(1691.82,871.05)}流個不停
-Dialogue: 0,0:00:23.29,0:00:23.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.98\fscy108.98\frz-90\pos(1692.07,871.27)}流個不停
-Dialogue: 0,0:00:23.33,0:00:23.37,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.87\fscy108.87\frz-90\pos(1692.29,871.48)}流個不停
-Dialogue: 0,0:00:23.37,0:00:23.41,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.76\fscy108.76\frz-90\pos(1692.51,871.7)}流個不停
-Dialogue: 0,0:00:23.41,0:00:23.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.66\fscy108.66\frz-90\pos(1692.73,871.92)}流個不停
-Dialogue: 0,0:00:23.46,0:00:23.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.55\fscy108.55\frz-90\pos(1692.98,872.14)}流個不停
-Dialogue: 0,0:00:23.50,0:00:23.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.45\fscy108.45\frz-90\pos(1693.21,872.35)}流個不停
-Dialogue: 0,0:00:23.54,0:00:23.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.34\fscy108.34\frz-90\pos(1693.43,872.58)}流個不停
-Dialogue: 0,0:00:23.58,0:00:23.62,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.23\fscy108.23\frz-90\pos(1693.67,872.8)}流個不停
-Dialogue: 0,0:00:23.62,0:00:23.66,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.13\fscy108.13\frz-90\pos(1693.91,873)}流個不停
-Dialogue: 0,0:00:23.66,0:00:23.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.02\fscy108.02\frz-90\pos(1694.13,873.23)}流個不停
-Dialogue: 0,0:00:23.71,0:00:23.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.91\fscy107.91\frz-90\pos(1694.36,873.45)}流個不停
-Dialogue: 0,0:00:23.75,0:00:23.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.81\fscy107.81\frz-90\pos(1694.6,873.67)}流個不停
-Dialogue: 0,0:00:23.79,0:00:23.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.69\fscy107.69\frz-90\pos(1694.82,873.88)}流個不停
-Dialogue: 0,0:00:23.83,0:00:23.87,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.59\fscy107.59\frz-90\pos(1695.05,874.11)}流個不停
-Dialogue: 0,0:00:23.87,0:00:23.91,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.49\fscy107.49\frz-90\pos(1695.28,874.32)}流個不停
-Dialogue: 0,0:00:23.91,0:00:23.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.38\fscy107.38\frz-90\pos(1695.53,874.55)}流個不停
-Dialogue: 0,0:00:23.96,0:00:24.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.27\fscy107.27\frz-90\pos(1695.73,874.76)}流個不停
-Dialogue: 0,0:00:24.00,0:00:24.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.17\fscy107.17\frz-90\pos(1695.97,874.98)}流個不停
-Dialogue: 0,0:00:24.04,0:00:24.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.06\fscy107.06\frz-90\pos(1696.19,875.19)}流個不停
-Dialogue: 0,0:00:24.08,0:00:24.12,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.96\fscy106.96\frz-90\pos(1696.42,875.41)}流個不停
-Dialogue: 0,0:00:24.12,0:00:24.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.85\fscy106.85\frz-90\pos(1696.64,875.61)}流個不停
-Dialogue: 0,0:00:24.17,0:00:24.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.75\fscy106.75\frz-90\pos(1696.86,875.83)}流個不停
-Dialogue: 0,0:00:24.21,0:00:24.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.65\fscy106.65\frz-90\pos(1697.1,876.05)}流個不停
-Dialogue: 0,0:00:24.25,0:00:24.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.55\fscy106.55\frz-90\pos(1697.33,876.27)}流個不停
-Dialogue: 0,0:00:24.29,0:00:24.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.44\fscy106.44\frz-90\pos(1697.55,876.47)}流個不停
-Dialogue: 0,0:00:24.33,0:00:24.37,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.34\fscy106.34\frz-90\pos(1697.77,876.68)}流個不停
-Dialogue: 0,0:00:24.37,0:00:24.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.24\fscy106.24\frz-90\pos(1697.99,876.89)}流個不停
-Dialogue: 0,0:00:24.42,0:00:24.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.14\fscy106.14\frz-90\pos(1698.21,877.09)}流個不停
-Dialogue: 0,0:00:24.46,0:00:24.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.04\fscy106.04\frz-90\pos(1698.43,877.3)}流個不停
-Dialogue: 0,0:00:24.50,0:00:24.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.93\fscy105.93\frz-90\pos(1698.64,877.5)}流個不停
-Dialogue: 0,0:00:24.54,0:00:24.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.84\fscy105.84\frz-90\pos(1698.89,877.72)}流個不停
-Dialogue: 0,0:00:24.58,0:00:24.62,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.73\fscy105.73\frz-90\pos(1699.08,877.92)}流個不停
-Dialogue: 0,0:00:24.62,0:00:24.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.63\fscy105.63\frz-90\pos(1699.28,878.11)}流個不停
-Dialogue: 0,0:00:24.67,0:00:24.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.54\fscy105.54\frz-90\pos(1699.51,878.33)}流個不停
-Dialogue: 0,0:00:24.71,0:00:24.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.44\fscy105.44\frz-90\pos(1699.72,878.54)}流個不停
-Dialogue: 0,0:00:24.75,0:00:24.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.34\fscy105.34\frz-90\pos(1699.92,878.73)}流個不停
-Dialogue: 0,0:00:24.79,0:00:24.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.24\fscy105.24\frz-90\pos(1700.14,878.92)}流個不停
-Dialogue: 0,0:00:24.83,0:00:24.87,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.14\fscy105.14\frz-90\pos(1700.34,879.13)}流個不停
-Dialogue: 0,0:00:24.87,0:00:24.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.05\fscy105.05\frz-90\pos(1700.56,879.33)}流個不停
-Dialogue: 0,0:00:24.92,0:00:24.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.95\fscy104.95\frz-90\pos(1700.76,879.52)}流個不停
-Dialogue: 0,0:00:24.96,0:00:25.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.86\fscy104.86\frz-90\pos(1700.98,879.72)}流個不停
-Dialogue: 0,0:00:25.00,0:00:25.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.77\fscy104.77\frz-90\pos(1701.19,879.91)}流個不停
-Dialogue: 0,0:00:25.04,0:00:25.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.67\fscy104.67\frz-90\pos(1701.38,880.1)}流個不停
-Dialogue: 0,0:00:25.08,0:00:25.12,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.58\fscy104.58\frz-90\pos(1701.57,880.3)}流個不停
-Dialogue: 0,0:00:25.12,0:00:25.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.48\fscy104.48\frz-90\pos(1701.77,880.47)}流個不停
-Dialogue: 0,0:00:25.17,0:00:25.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.39\fscy104.39\frz-90\pos(1701.98,880.67)}流個不停
-Dialogue: 0,0:00:25.21,0:00:25.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.29\fscy104.29\frz-90\pos(1702.16,880.83)}流個不停
-Dialogue: 0,0:00:25.25,0:00:25.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.21\fscy104.21\frz-90\pos(1702.38,881.06)}流個不停
-Dialogue: 0,0:00:25.29,0:00:25.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.12\fscy104.12\frz-90\pos(1702.57,881.23)}流個不停
-Dialogue: 0,0:00:25.33,0:00:25.37,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.03\fscy104.03\frz-90\pos(1702.77,881.41)}流個不停
-Dialogue: 0,0:00:25.37,0:00:25.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.94\fscy103.94\frz-90\pos(1702.96,881.59)}流個不停
-Dialogue: 0,0:00:25.42,0:00:25.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.85\fscy103.85\frz-90\pos(1703.14,881.78)}流個不停
-Dialogue: 0,0:00:25.46,0:00:25.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.75\fscy103.75\frz-90\pos(1703.3,881.95)}流個不停
-Dialogue: 0,0:00:25.50,0:00:25.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.68\fscy103.68\frz-90\pos(1703.52,882.14)}流個不停
-Dialogue: 0,0:00:25.54,0:00:25.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.59\fscy103.59\frz-90\pos(1703.7,882.3)}流個不停
-Dialogue: 0,0:00:25.58,0:00:25.62,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.51\fscy103.51\frz-90\pos(1703.9,882.49)}流個不停
-Dialogue: 0,0:00:25.62,0:00:25.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.42\fscy103.42\frz-90\pos(1704.08,882.65)}流個不停
-Dialogue: 0,0:00:25.67,0:00:25.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.34\fscy103.34\frz-90\pos(1704.3,882.84)}流個不停
-Dialogue: 0,0:00:25.71,0:00:25.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.25\fscy103.25\frz-90\pos(1704.45,883.01)}流個不停
-Dialogue: 0,0:00:25.75,0:00:25.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.17\fscy103.17\frz-90\pos(1704.61,883.17)}流個不停
-Dialogue: 0,0:00:25.79,0:00:25.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.09\fscy103.09\frz-90\pos(1704.81,883.34)}流個不停
-Dialogue: 0,0:00:25.83,0:00:25.88,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.01\fscy103.01\frz-90\pos(1704.98,883.51)}流個不停
-Dialogue: 0,0:00:25.88,0:00:25.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.93\fscy102.93\frz-90\pos(1705.17,883.68)}流個不停
-Dialogue: 0,0:00:25.92,0:00:25.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.85\fscy102.85\frz-90\pos(1705.35,883.84)}流個不停
-Dialogue: 0,0:00:25.96,0:00:26.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.77\fscy102.77\frz-90\pos(1705.52,884.01)}流個不停
-Dialogue: 0,0:00:26.00,0:00:26.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.69\fscy102.69\frz-90\pos(1705.66,884.16)}流個不停
-Dialogue: 0,0:00:26.04,0:00:26.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.61\fscy102.61\frz-90\pos(1705.84,884.32)}流個不停
-Dialogue: 0,0:00:26.08,0:00:26.13,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.54\fscy102.54\frz-90\pos(1706.04,884.48)}流個不停
-Dialogue: 0,0:00:26.13,0:00:26.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.46\fscy102.46\frz-90\pos(1706.17,884.64)}流個不停
-Dialogue: 0,0:00:26.17,0:00:26.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.39\fscy102.39\frz-90\pos(1706.36,884.8)}流個不停
-Dialogue: 0,0:00:26.21,0:00:26.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.32\fscy102.32\frz-90\pos(1706.52,884.96)}流個不停
-Dialogue: 0,0:00:26.25,0:00:26.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.25\fscy102.25\frz-90\pos(1706.7,885.11)}流個不停
-Dialogue: 0,0:00:26.29,0:00:26.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.18\fscy102.18\frz-90\pos(1706.86,885.27)}流個不停
-Dialogue: 0,0:00:26.33,0:00:26.38,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.11\fscy102.11\frz-90\pos(1707.02,885.41)}流個不停
-Dialogue: 0,0:00:26.38,0:00:26.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.03\fscy102.03\frz-90\pos(1707.16,885.56)}流個不停
-Dialogue: 0,0:00:26.42,0:00:26.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.96\fscy101.96\frz-90\pos(1707.31,885.7)}流個不停
-Dialogue: 0,0:00:26.46,0:00:26.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.9\fscy101.9\frz-90\pos(1707.48,885.84)}流個不停
-Dialogue: 0,0:00:26.50,0:00:26.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.83\fscy101.83\frz-90\pos(1707.63,886)}流個不停
-Dialogue: 0,0:00:26.54,0:00:26.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.76\fscy101.76\frz-90\pos(1707.77,886.13)}流個不停
-Dialogue: 0,0:00:26.58,0:00:26.63,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.7\fscy101.7\frz-90\pos(1707.93,886.27)}流個不停
-Dialogue: 0,0:00:26.63,0:00:26.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.63\fscy101.63\frz-90\pos(1708.06,886.41)}流個不停
-Dialogue: 0,0:00:26.67,0:00:26.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.56\fscy101.56\frz-90\pos(1708.19,886.53)}流個不停
-Dialogue: 0,0:00:26.71,0:00:26.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.5\fscy101.5\frz-90\pos(1708.34,886.67)}流個不停
-Dialogue: 0,0:00:26.75,0:00:26.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.44\fscy101.44\frz-90\pos(1708.49,886.8)}流個不停
-Dialogue: 0,0:00:26.79,0:00:26.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.38\fscy101.38\frz-90\pos(1708.62,886.93)}流個不停
-Dialogue: 0,0:00:26.83,0:00:26.88,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.32\fscy101.32\frz-90\pos(1708.74,887.04)}流個不停
-Dialogue: 0,0:00:26.88,0:00:26.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.25\fscy101.25\frz-90\pos(1708.87,887.18)}流個不停
-Dialogue: 0,0:00:26.92,0:00:26.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.2\fscy101.2\frz-90\pos(1709.04,887.31)}流個不停
-Dialogue: 0,0:00:26.96,0:00:27.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.14\fscy101.14\frz-90\pos(1709.15,887.42)}流個不停
-Dialogue: 0,0:00:27.00,0:00:27.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.09\fscy101.09\frz-90\pos(1709.27,887.53)}流個不停
-Dialogue: 0,0:00:27.04,0:00:27.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.03\fscy101.03\frz-90\pos(1709.39,887.65)}流個不停
-Dialogue: 0,0:00:27.08,0:00:27.13,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.98\fscy100.98\frz-90\pos(1709.53,887.77)}流個不停
-Dialogue: 0,0:00:27.13,0:00:27.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.92\fscy100.92\frz-90\pos(1709.64,887.88)}流個不停
-Dialogue: 0,0:00:27.17,0:00:27.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.87\fscy100.87\frz-90\pos(1709.75,887.97)}流個不停
-Dialogue: 0,0:00:27.21,0:00:27.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.82\fscy100.82\frz-90\pos(1709.88,888.1)}流個不停
-Dialogue: 0,0:00:27.25,0:00:27.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.78\fscy100.78\frz-90\pos(1710.03,888.2)}流個不停
-Dialogue: 0,0:00:27.29,0:00:27.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.73\fscy100.73\frz-90\pos(1710.1,888.32)}流個不停
-Dialogue: 0,0:00:27.33,0:00:27.38,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.68\fscy100.68\frz-90\pos(1710.2,888.4)}流個不停
-Dialogue: 0,0:00:27.38,0:00:27.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.64\fscy100.64\frz-90\pos(1710.32,888.5)}流個不停
-Dialogue: 0,0:00:27.42,0:00:27.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.59\fscy100.59\frz-90\pos(1710.43,888.61)}流個不停
-Dialogue: 0,0:00:27.46,0:00:27.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.55\fscy100.55\frz-90\pos(1710.52,888.7)}流個不停
-Dialogue: 0,0:00:27.50,0:00:27.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.5\fscy100.5\frz-90\pos(1710.59,888.77)}流個不停
-Dialogue: 0,0:00:27.54,0:00:27.59,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.46\fscy100.46\frz-90\pos(1710.69,888.85)}流個不停
-Dialogue: 0,0:00:27.59,0:00:27.63,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.43\fscy100.43\frz-90\pos(1710.82,888.94)}流個不停
-Dialogue: 0,0:00:27.63,0:00:27.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.39\fscy100.39\frz-90\pos(1710.9,889.03)}流個不停
-Dialogue: 0,0:00:27.67,0:00:27.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.35\fscy100.35\frz-90\pos(1710.97,889.1)}流個不停
-Dialogue: 0,0:00:27.71,0:00:27.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.32\fscy100.32\frz-90\pos(1711.07,889.18)}流個不停
-Dialogue: 0,0:00:27.75,0:00:27.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.28\fscy100.28\frz-90\pos(1711.13,889.26)}流個不停
-Dialogue: 0,0:00:27.79,0:00:27.84,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.26\fscy100.26\frz-90\pos(1711.23,889.33)}流個不停
-Dialogue: 0,0:00:27.84,0:00:27.88,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.23\fscy100.23\frz-90\pos(1711.3,889.38)}流個不停
-Dialogue: 0,0:00:27.88,0:00:27.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.19\fscy100.19\frz-90\pos(1711.33,889.45)}流個不停
-Dialogue: 0,0:00:27.92,0:00:27.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.17\fscy100.17\frz-90\pos(1711.44,889.52)}流個不停
-Dialogue: 0,0:00:27.96,0:00:28.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.14\fscy100.14\frz-90\pos(1711.47,889.58)}流個不停
-Dialogue: 0,0:00:28.00,0:00:28.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.12\fscy100.12\frz-90\pos(1711.55,889.62)}流個不停
-Dialogue: 0,0:00:28.04,0:00:28.09,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.09\fscy100.09\frz-90\pos(1711.59,889.67)}流個不停
-Dialogue: 0,0:00:28.09,0:00:28.13,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.09\fscy100.09\frz-90\pos(1711.7,889.74)}流個不停
-Dialogue: 0,0:00:28.13,0:00:28.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.06\fscy100.06\frz-90\pos(1711.7,889.78)}流個不停
-Dialogue: 0,0:00:28.17,0:00:28.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.05\fscy100.05\frz-90\pos(1711.77,889.83)}流個不停
-Dialogue: 0,0:00:28.21,0:00:28.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.03\fscy100.03\frz-90\pos(1711.77,889.85)}流個不停
-Dialogue: 0,0:00:28.25,0:00:28.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.02\fscy100.02\frz-90\pos(1711.87,889.89)}流個不停
-Dialogue: 0,0:00:28.29,0:00:33.26,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100\fscy100\frz-90\pos(1711.82,889.91)}流個不停
+Dialogue: 0,0:00:22.75,0:00:22.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx110.14\fscy110.14\frz-90\pos(1689.39,868.76)}流个不停
+Dialogue: 0,0:00:22.83,0:00:22.87,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx110.06\fscy110.06\frz-90\pos(1689.61,868.98)}流个不停
+Dialogue: 0,0:00:22.87,0:00:22.91,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.98\fscy109.98\frz-90\pos(1689.84,869.18)}流个不停
+Dialogue: 0,0:00:22.91,0:00:22.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.89\fscy109.89\frz-90\pos(1690.06,869.38)}流个不停
+Dialogue: 0,0:00:22.96,0:00:23.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.79\fscy109.79\frz-90\pos(1690.27,869.57)}流个不停
+Dialogue: 0,0:00:23.00,0:00:23.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.69\fscy109.69\frz-90\pos(1690.47,869.79)}流个不停
+Dialogue: 0,0:00:23.04,0:00:23.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.6\fscy109.6\frz-90\pos(1690.7,870)}流个不停
+Dialogue: 0,0:00:23.08,0:00:23.12,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.5\fscy109.5\frz-90\pos(1690.93,870.21)}流个不停
+Dialogue: 0,0:00:23.12,0:00:23.16,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.39\fscy109.39\frz-90\pos(1691.14,870.4)}流个不停
+Dialogue: 0,0:00:23.16,0:00:23.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.29\fscy109.29\frz-90\pos(1691.37,870.62)}流个不停
+Dialogue: 0,0:00:23.21,0:00:23.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.19\fscy109.19\frz-90\pos(1691.6,870.83)}流个不停
+Dialogue: 0,0:00:23.25,0:00:23.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx109.08\fscy109.08\frz-90\pos(1691.82,871.05)}流个不停
+Dialogue: 0,0:00:23.29,0:00:23.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.98\fscy108.98\frz-90\pos(1692.07,871.27)}流个不停
+Dialogue: 0,0:00:23.33,0:00:23.37,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.87\fscy108.87\frz-90\pos(1692.29,871.48)}流个不停
+Dialogue: 0,0:00:23.37,0:00:23.41,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.76\fscy108.76\frz-90\pos(1692.51,871.7)}流个不停
+Dialogue: 0,0:00:23.41,0:00:23.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.66\fscy108.66\frz-90\pos(1692.73,871.92)}流个不停
+Dialogue: 0,0:00:23.46,0:00:23.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.55\fscy108.55\frz-90\pos(1692.98,872.14)}流个不停
+Dialogue: 0,0:00:23.50,0:00:23.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.45\fscy108.45\frz-90\pos(1693.21,872.35)}流个不停
+Dialogue: 0,0:00:23.54,0:00:23.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.34\fscy108.34\frz-90\pos(1693.43,872.58)}流个不停
+Dialogue: 0,0:00:23.58,0:00:23.62,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.23\fscy108.23\frz-90\pos(1693.67,872.8)}流个不停
+Dialogue: 0,0:00:23.62,0:00:23.66,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.13\fscy108.13\frz-90\pos(1693.91,873)}流个不停
+Dialogue: 0,0:00:23.66,0:00:23.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx108.02\fscy108.02\frz-90\pos(1694.13,873.23)}流个不停
+Dialogue: 0,0:00:23.71,0:00:23.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.91\fscy107.91\frz-90\pos(1694.36,873.45)}流个不停
+Dialogue: 0,0:00:23.75,0:00:23.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.81\fscy107.81\frz-90\pos(1694.6,873.67)}流个不停
+Dialogue: 0,0:00:23.79,0:00:23.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.69\fscy107.69\frz-90\pos(1694.82,873.88)}流个不停
+Dialogue: 0,0:00:23.83,0:00:23.87,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.59\fscy107.59\frz-90\pos(1695.05,874.11)}流个不停
+Dialogue: 0,0:00:23.87,0:00:23.91,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.49\fscy107.49\frz-90\pos(1695.28,874.32)}流个不停
+Dialogue: 0,0:00:23.91,0:00:23.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.38\fscy107.38\frz-90\pos(1695.53,874.55)}流个不停
+Dialogue: 0,0:00:23.96,0:00:24.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.27\fscy107.27\frz-90\pos(1695.73,874.76)}流个不停
+Dialogue: 0,0:00:24.00,0:00:24.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.17\fscy107.17\frz-90\pos(1695.97,874.98)}流个不停
+Dialogue: 0,0:00:24.04,0:00:24.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx107.06\fscy107.06\frz-90\pos(1696.19,875.19)}流个不停
+Dialogue: 0,0:00:24.08,0:00:24.12,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.96\fscy106.96\frz-90\pos(1696.42,875.41)}流个不停
+Dialogue: 0,0:00:24.12,0:00:24.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.85\fscy106.85\frz-90\pos(1696.64,875.61)}流个不停
+Dialogue: 0,0:00:24.17,0:00:24.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.75\fscy106.75\frz-90\pos(1696.86,875.83)}流个不停
+Dialogue: 0,0:00:24.21,0:00:24.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.65\fscy106.65\frz-90\pos(1697.1,876.05)}流个不停
+Dialogue: 0,0:00:24.25,0:00:24.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.55\fscy106.55\frz-90\pos(1697.33,876.27)}流个不停
+Dialogue: 0,0:00:24.29,0:00:24.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.44\fscy106.44\frz-90\pos(1697.55,876.47)}流个不停
+Dialogue: 0,0:00:24.33,0:00:24.37,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.34\fscy106.34\frz-90\pos(1697.77,876.68)}流个不停
+Dialogue: 0,0:00:24.37,0:00:24.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.24\fscy106.24\frz-90\pos(1697.99,876.89)}流个不停
+Dialogue: 0,0:00:24.42,0:00:24.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.14\fscy106.14\frz-90\pos(1698.21,877.09)}流个不停
+Dialogue: 0,0:00:24.46,0:00:24.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx106.04\fscy106.04\frz-90\pos(1698.43,877.3)}流个不停
+Dialogue: 0,0:00:24.50,0:00:24.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.93\fscy105.93\frz-90\pos(1698.64,877.5)}流个不停
+Dialogue: 0,0:00:24.54,0:00:24.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.84\fscy105.84\frz-90\pos(1698.89,877.72)}流个不停
+Dialogue: 0,0:00:24.58,0:00:24.62,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.73\fscy105.73\frz-90\pos(1699.08,877.92)}流个不停
+Dialogue: 0,0:00:24.62,0:00:24.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.63\fscy105.63\frz-90\pos(1699.28,878.11)}流个不停
+Dialogue: 0,0:00:24.67,0:00:24.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.54\fscy105.54\frz-90\pos(1699.51,878.33)}流个不停
+Dialogue: 0,0:00:24.71,0:00:24.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.44\fscy105.44\frz-90\pos(1699.72,878.54)}流个不停
+Dialogue: 0,0:00:24.75,0:00:24.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.34\fscy105.34\frz-90\pos(1699.92,878.73)}流个不停
+Dialogue: 0,0:00:24.79,0:00:24.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.24\fscy105.24\frz-90\pos(1700.14,878.92)}流个不停
+Dialogue: 0,0:00:24.83,0:00:24.87,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.14\fscy105.14\frz-90\pos(1700.34,879.13)}流个不停
+Dialogue: 0,0:00:24.87,0:00:24.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx105.05\fscy105.05\frz-90\pos(1700.56,879.33)}流个不停
+Dialogue: 0,0:00:24.92,0:00:24.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.95\fscy104.95\frz-90\pos(1700.76,879.52)}流个不停
+Dialogue: 0,0:00:24.96,0:00:25.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.86\fscy104.86\frz-90\pos(1700.98,879.72)}流个不停
+Dialogue: 0,0:00:25.00,0:00:25.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.77\fscy104.77\frz-90\pos(1701.19,879.91)}流个不停
+Dialogue: 0,0:00:25.04,0:00:25.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.67\fscy104.67\frz-90\pos(1701.38,880.1)}流个不停
+Dialogue: 0,0:00:25.08,0:00:25.12,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.58\fscy104.58\frz-90\pos(1701.57,880.3)}流个不停
+Dialogue: 0,0:00:25.12,0:00:25.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.48\fscy104.48\frz-90\pos(1701.77,880.47)}流个不停
+Dialogue: 0,0:00:25.17,0:00:25.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.39\fscy104.39\frz-90\pos(1701.98,880.67)}流个不停
+Dialogue: 0,0:00:25.21,0:00:25.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.29\fscy104.29\frz-90\pos(1702.16,880.83)}流个不停
+Dialogue: 0,0:00:25.25,0:00:25.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.21\fscy104.21\frz-90\pos(1702.38,881.06)}流个不停
+Dialogue: 0,0:00:25.29,0:00:25.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.12\fscy104.12\frz-90\pos(1702.57,881.23)}流个不停
+Dialogue: 0,0:00:25.33,0:00:25.37,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx104.03\fscy104.03\frz-90\pos(1702.77,881.41)}流个不停
+Dialogue: 0,0:00:25.37,0:00:25.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.94\fscy103.94\frz-90\pos(1702.96,881.59)}流个不停
+Dialogue: 0,0:00:25.42,0:00:25.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.85\fscy103.85\frz-90\pos(1703.14,881.78)}流个不停
+Dialogue: 0,0:00:25.46,0:00:25.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.75\fscy103.75\frz-90\pos(1703.3,881.95)}流个不停
+Dialogue: 0,0:00:25.50,0:00:25.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.68\fscy103.68\frz-90\pos(1703.52,882.14)}流个不停
+Dialogue: 0,0:00:25.54,0:00:25.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.59\fscy103.59\frz-90\pos(1703.7,882.3)}流个不停
+Dialogue: 0,0:00:25.58,0:00:25.62,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.51\fscy103.51\frz-90\pos(1703.9,882.49)}流个不停
+Dialogue: 0,0:00:25.62,0:00:25.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.42\fscy103.42\frz-90\pos(1704.08,882.65)}流个不停
+Dialogue: 0,0:00:25.67,0:00:25.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.34\fscy103.34\frz-90\pos(1704.3,882.84)}流个不停
+Dialogue: 0,0:00:25.71,0:00:25.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.25\fscy103.25\frz-90\pos(1704.45,883.01)}流个不停
+Dialogue: 0,0:00:25.75,0:00:25.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.17\fscy103.17\frz-90\pos(1704.61,883.17)}流个不停
+Dialogue: 0,0:00:25.79,0:00:25.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.09\fscy103.09\frz-90\pos(1704.81,883.34)}流个不停
+Dialogue: 0,0:00:25.83,0:00:25.88,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx103.01\fscy103.01\frz-90\pos(1704.98,883.51)}流个不停
+Dialogue: 0,0:00:25.88,0:00:25.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.93\fscy102.93\frz-90\pos(1705.17,883.68)}流个不停
+Dialogue: 0,0:00:25.92,0:00:25.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.85\fscy102.85\frz-90\pos(1705.35,883.84)}流个不停
+Dialogue: 0,0:00:25.96,0:00:26.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.77\fscy102.77\frz-90\pos(1705.52,884.01)}流个不停
+Dialogue: 0,0:00:26.00,0:00:26.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.69\fscy102.69\frz-90\pos(1705.66,884.16)}流个不停
+Dialogue: 0,0:00:26.04,0:00:26.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.61\fscy102.61\frz-90\pos(1705.84,884.32)}流个不停
+Dialogue: 0,0:00:26.08,0:00:26.13,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.54\fscy102.54\frz-90\pos(1706.04,884.48)}流个不停
+Dialogue: 0,0:00:26.13,0:00:26.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.46\fscy102.46\frz-90\pos(1706.17,884.64)}流个不停
+Dialogue: 0,0:00:26.17,0:00:26.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.39\fscy102.39\frz-90\pos(1706.36,884.8)}流个不停
+Dialogue: 0,0:00:26.21,0:00:26.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.32\fscy102.32\frz-90\pos(1706.52,884.96)}流个不停
+Dialogue: 0,0:00:26.25,0:00:26.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.25\fscy102.25\frz-90\pos(1706.7,885.11)}流个不停
+Dialogue: 0,0:00:26.29,0:00:26.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.18\fscy102.18\frz-90\pos(1706.86,885.27)}流个不停
+Dialogue: 0,0:00:26.33,0:00:26.38,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.11\fscy102.11\frz-90\pos(1707.02,885.41)}流个不停
+Dialogue: 0,0:00:26.38,0:00:26.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx102.03\fscy102.03\frz-90\pos(1707.16,885.56)}流个不停
+Dialogue: 0,0:00:26.42,0:00:26.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.96\fscy101.96\frz-90\pos(1707.31,885.7)}流个不停
+Dialogue: 0,0:00:26.46,0:00:26.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.9\fscy101.9\frz-90\pos(1707.48,885.84)}流个不停
+Dialogue: 0,0:00:26.50,0:00:26.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.83\fscy101.83\frz-90\pos(1707.63,886)}流个不停
+Dialogue: 0,0:00:26.54,0:00:26.58,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.76\fscy101.76\frz-90\pos(1707.77,886.13)}流个不停
+Dialogue: 0,0:00:26.58,0:00:26.63,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.7\fscy101.7\frz-90\pos(1707.93,886.27)}流个不停
+Dialogue: 0,0:00:26.63,0:00:26.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.63\fscy101.63\frz-90\pos(1708.06,886.41)}流个不停
+Dialogue: 0,0:00:26.67,0:00:26.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.56\fscy101.56\frz-90\pos(1708.19,886.53)}流个不停
+Dialogue: 0,0:00:26.71,0:00:26.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.5\fscy101.5\frz-90\pos(1708.34,886.67)}流个不停
+Dialogue: 0,0:00:26.75,0:00:26.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.44\fscy101.44\frz-90\pos(1708.49,886.8)}流个不停
+Dialogue: 0,0:00:26.79,0:00:26.83,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.38\fscy101.38\frz-90\pos(1708.62,886.93)}流个不停
+Dialogue: 0,0:00:26.83,0:00:26.88,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.32\fscy101.32\frz-90\pos(1708.74,887.04)}流个不停
+Dialogue: 0,0:00:26.88,0:00:26.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.25\fscy101.25\frz-90\pos(1708.87,887.18)}流个不停
+Dialogue: 0,0:00:26.92,0:00:26.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.2\fscy101.2\frz-90\pos(1709.04,887.31)}流个不停
+Dialogue: 0,0:00:26.96,0:00:27.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.14\fscy101.14\frz-90\pos(1709.15,887.42)}流个不停
+Dialogue: 0,0:00:27.00,0:00:27.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.09\fscy101.09\frz-90\pos(1709.27,887.53)}流个不停
+Dialogue: 0,0:00:27.04,0:00:27.08,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx101.03\fscy101.03\frz-90\pos(1709.39,887.65)}流个不停
+Dialogue: 0,0:00:27.08,0:00:27.13,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.98\fscy100.98\frz-90\pos(1709.53,887.77)}流个不停
+Dialogue: 0,0:00:27.13,0:00:27.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.92\fscy100.92\frz-90\pos(1709.64,887.88)}流个不停
+Dialogue: 0,0:00:27.17,0:00:27.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.87\fscy100.87\frz-90\pos(1709.75,887.97)}流个不停
+Dialogue: 0,0:00:27.21,0:00:27.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.82\fscy100.82\frz-90\pos(1709.88,888.1)}流个不停
+Dialogue: 0,0:00:27.25,0:00:27.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.78\fscy100.78\frz-90\pos(1710.03,888.2)}流个不停
+Dialogue: 0,0:00:27.29,0:00:27.33,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.73\fscy100.73\frz-90\pos(1710.1,888.32)}流个不停
+Dialogue: 0,0:00:27.33,0:00:27.38,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.68\fscy100.68\frz-90\pos(1710.2,888.4)}流个不停
+Dialogue: 0,0:00:27.38,0:00:27.42,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.64\fscy100.64\frz-90\pos(1710.32,888.5)}流个不停
+Dialogue: 0,0:00:27.42,0:00:27.46,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.59\fscy100.59\frz-90\pos(1710.43,888.61)}流个不停
+Dialogue: 0,0:00:27.46,0:00:27.50,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.55\fscy100.55\frz-90\pos(1710.52,888.7)}流个不停
+Dialogue: 0,0:00:27.50,0:00:27.54,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.5\fscy100.5\frz-90\pos(1710.59,888.77)}流个不停
+Dialogue: 0,0:00:27.54,0:00:27.59,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.46\fscy100.46\frz-90\pos(1710.69,888.85)}流个不停
+Dialogue: 0,0:00:27.59,0:00:27.63,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.43\fscy100.43\frz-90\pos(1710.82,888.94)}流个不停
+Dialogue: 0,0:00:27.63,0:00:27.67,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.39\fscy100.39\frz-90\pos(1710.9,889.03)}流个不停
+Dialogue: 0,0:00:27.67,0:00:27.71,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.35\fscy100.35\frz-90\pos(1710.97,889.1)}流个不停
+Dialogue: 0,0:00:27.71,0:00:27.75,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.32\fscy100.32\frz-90\pos(1711.07,889.18)}流个不停
+Dialogue: 0,0:00:27.75,0:00:27.79,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.28\fscy100.28\frz-90\pos(1711.13,889.26)}流个不停
+Dialogue: 0,0:00:27.79,0:00:27.84,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.26\fscy100.26\frz-90\pos(1711.23,889.33)}流个不停
+Dialogue: 0,0:00:27.84,0:00:27.88,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.23\fscy100.23\frz-90\pos(1711.3,889.38)}流个不停
+Dialogue: 0,0:00:27.88,0:00:27.92,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.19\fscy100.19\frz-90\pos(1711.33,889.45)}流个不停
+Dialogue: 0,0:00:27.92,0:00:27.96,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.17\fscy100.17\frz-90\pos(1711.44,889.52)}流个不停
+Dialogue: 0,0:00:27.96,0:00:28.00,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.14\fscy100.14\frz-90\pos(1711.47,889.58)}流个不停
+Dialogue: 0,0:00:28.00,0:00:28.04,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.12\fscy100.12\frz-90\pos(1711.55,889.62)}流个不停
+Dialogue: 0,0:00:28.04,0:00:28.09,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.09\fscy100.09\frz-90\pos(1711.59,889.67)}流个不停
+Dialogue: 0,0:00:28.09,0:00:28.13,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.09\fscy100.09\frz-90\pos(1711.7,889.74)}流个不停
+Dialogue: 0,0:00:28.13,0:00:28.17,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.06\fscy100.06\frz-90\pos(1711.7,889.78)}流个不停
+Dialogue: 0,0:00:28.17,0:00:28.21,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.05\fscy100.05\frz-90\pos(1711.77,889.83)}流个不停
+Dialogue: 0,0:00:28.21,0:00:28.25,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.03\fscy100.03\frz-90\pos(1711.77,889.85)}流个不停
+Dialogue: 0,0:00:28.25,0:00:28.29,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100.02\fscy100.02\frz-90\pos(1711.87,889.89)}流个不停
+Dialogue: 0,0:00:28.29,0:00:33.26,Screen,,0,0,0,,{\fn@FZShaoEr-M11\bord2\c&H453FCF&\3c&HFFFFFF&\fscx100\fscy100\frz-90\pos(1711.82,889.91)}流个不停
 Dialogue: 0,0:01:20.27,0:01:20.77,Screen,,0,0,0,,{\bord1\c&HF0819E&\3c&HFFFFFF&\pos(1820,726)}偷笑
-Dialogue: 0,0:01:20.27,0:01:24.77,Screen,,0,0,0,,{\fs80\bord2\c&HF54A2C&\3c&HFFFFFF&\pos(606,68)}驚
+Dialogue: 0,0:01:20.27,0:01:24.77,Screen,,0,0,0,,{\fs80\bord2\c&HF54A2C&\3c&HFFFFFF&\pos(606,68)}惊
 Dialogue: 0,0:01:31.82,0:01:32.78,Screen,,0,0,0,,{\bord2\fad(450,0)\c&HF09C9A&\3c&HFFFFFF&\frz12.03\pos(174,126)}哈哈…
 Dialogue: 0,0:01:40.20,0:01:42.96,Screen,,0,0,0,,{\fs80\bord2\c&HFE95DA&\3c&HFFFFFF&\pos(852,52)}笑
-Dialogue: 0,0:01:42.67,0:01:42.96,Screen,,0,0,0,,{\fnFZZhengHei-EB-GBK\fs80\bord2\c&H020CB9&\3c&H97D4FB&\frz330.3\pos(378,760)}噴
+Dialogue: 0,0:01:42.67,0:01:42.96,Screen,,0,0,0,,{\fnFZZhengHei-EB-GBK\fs80\bord2\c&H020CB9&\3c&H97D4FB&\frz330.3\pos(378,760)}喷
 Dialogue: 0,0:01:47.55,0:01:48.59,Screen,,0,0,0,,{\an9\fnFZZhengHei-EB-GBK\fs80\bord4\c&H35E1F8&\pos(1891,18)}咬
-Dialogue: 0,0:01:53.30,0:01:55.93,Screen,,0,0,20,,{\an8\fnDFHanziPenW5-A\bord2\c&HA48CFE&\3c&HFFFFFF&}溫馨～
+Dialogue: 0,0:01:53.30,0:01:55.93,Screen,,0,0,20,,{\an8\bord2\c&HA48CFE&\3c&HFFFFFF&}温馨～
 Dialogue: 0,0:02:00.10,0:02:07.86,Screen_ED,,0,0,0,,{\fn@DFHanziPenW5-A\pos(1157.334,726.667)}碎碎念
-Dialogue: 0,0:02:00.10,0:02:07.86,Screen_ED,,0,0,0,,{\fn@FZZhengHei-EB-GBK\fs60\bord3\c&HA4ECE3&\3c&HC4D955&\frz287.6\pos(296.001,778.666)}嘆氣
+Dialogue: 0,0:02:00.10,0:02:07.86,Screen_ED,,0,0,0,,{\fn@FZZhengHei-EB-GBK\fs60\bord3\c&HA4ECE3&\3c&HC4D955&\frz287.6\pos(296.001,778.666)}叹气
 Dialogue: 0,0:02:00.85,0:02:07.86,Screen_ED,,0,0,0,,{\fn@DFHanziPenW5-A\pos(1178.666,397.333)}哎
-Dialogue: 0,0:02:02.60,0:02:07.86,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs28\c&H161E1F&\frz338.2\pos(968,418.667)}葉星前輩的手手\N看起來好好吃
-Dialogue: 0,0:02:05.23,0:02:07.86,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW3-A\fs32\c&H0F1516&\frz0\pos(309.334,437.333)}好羨慕 好羨慕\N只好吃自己的
+Dialogue: 0,0:02:02.60,0:02:07.86,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs28\c&H161E1F&\frz338.2\pos(968,418.667)}叶星前辈的手手\N看起来好好吃
+Dialogue: 0,0:02:05.23,0:02:07.86,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW3-A\fs32\c&H0F1516&\frz0\pos(309.334,437.333)}好羡慕 好羡慕\N只好吃自己的
 Dialogue: 0,0:02:07.86,0:02:15.11,Screen_ED,,0,0,0,,{\fn@DFHanziPenW5-A\frz259.3\pos(957.333,513.333)}沉醉
 Dialogue: 0,0:02:08.19,0:02:15.11,Screen_ED,,0,0,0,,{\fs32\c&H0F1516&\frz270.4\pos(1186.667,646.667)}吮吸   吮吸
-Dialogue: 0,0:02:08.65,0:02:15.11,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(520,365.714)}哎呀 那邊有\N個小寶寶
-Dialogue: 0,0:02:12.40,0:02:15.11,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(225.334,476)}真的 好可愛呀
-Dialogue: 0,0:02:15.11,0:02:22.37,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs42\c&H161E1F&\frz356.9\pos(592,187.999)}噴湧～!!
-Dialogue: 0,0:02:15.45,0:02:22.37,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(1040,94.667)}對了 要不要收養\N成我們的孩子？
-Dialogue: 0,0:02:16.95,0:02:22.37,Screen_ED,,0,0,0,,{\fs24\c&H000000&\pos(837.334,376)}兩個人一起養吧
+Dialogue: 0,0:02:08.65,0:02:15.11,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(520,365.714)}哎呀 那边有\N个小宝宝
+Dialogue: 0,0:02:12.40,0:02:15.11,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(225.334,476)}真的 好可爱呀
+Dialogue: 0,0:02:15.11,0:02:22.37,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs42\c&H161E1F&\frz356.9\pos(592,187.999)}喷涌～!!
+Dialogue: 0,0:02:15.45,0:02:22.37,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(1040,94.667)}对了 要不要收养\N成我们的孩子？
+Dialogue: 0,0:02:16.95,0:02:22.37,Screen_ED,,0,0,0,,{\fs24\c&H000000&\pos(837.334,376)}两个人一起养吧
 Dialogue: 0,0:02:18.66,0:02:22.37,Screen_ED,,0,0,0,,{\pos(1128,634.667)}嘻嘻
-Dialogue: 0,0:02:20.20,0:02:22.37,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(912,826.667)}想起了小時候的扮家家酒
-Dialogue: 0,0:02:22.37,0:02:30.13,Screen_ED,,0,0,0,,{\fs24\c&H000000&\frz285.5\pos(838.666,533.333)}這裡有重症患者
+Dialogue: 0,0:02:20.20,0:02:22.37,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs24\frz0\pos(912,826.667)}想起了小时候的过家家
+Dialogue: 0,0:02:22.37,0:02:30.13,Screen_ED,,0,0,0,,{\fs24\c&H000000&\frz285.5\pos(838.666,533.333)}这里有重症患者
 Dialogue: 0,0:02:22.37,0:02:30.13,Screen_ED,,0,0,0,,{\c&H000000&\frz271.2\pos(649.333,308)}倒～
 Dialogue: 0,0:02:22.37,0:02:30.13,Screen_ED,,0,0,0,,{\c&H000000&\pos(240,284)}偷笑
-Dialogue: 0,0:02:22.75,0:02:30.13,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs36\frz0\pos(854.667,106.667)}話說 {\1a&HFF&\t(1750,1750,\1a&H00&)}要玩就玩醫生扮家家酒吧
+Dialogue: 0,0:02:22.75,0:02:30.13,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs36\frz0\pos(854.667,106.667)}话说 {\1a&HFF&\t(1750,1750,\1a&H00&)}要玩就玩医生过家家吧
 Dialogue: 0,0:02:26.04,0:02:30.13,Screen_ED,,0,0,0,,{\c&H000000&\fscy90\pos(538.666,474.667)}呀 不好了
-Dialogue: 0,0:02:27.63,0:02:30.13,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs36\frz0\pos(204,105.333)}哎呀 那就久違地玩一下吧
+Dialogue: 0,0:02:27.63,0:02:30.13,Screen_ED,,0,0,0,,{\an7\fnDFHanziPenW5-A\fs36\frz0\pos(204,105.333)}哎呀 那就久违地玩一下吧
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
 Dialogue: 0,0:02:00.10,0:02:03.73,ED-JP,,0,0,0,,さんはいっ、わん、つー、はりきってこー！
 Dialogue: 0,0:02:03.92,0:02:07.10,ED-JP,,0,0,0,,召しませ！にぎやかカラフル ful ful
@@ -464,14 +464,14 @@ Dialogue: 0,0:02:17.62,0:02:18.97,ED-JP,,0,0,0,,きらりひかり惹かれた�
 Dialogue: 0,0:02:18.97,0:02:21.53,ED-JP,,0,0,0,,迷わないで選んでおねがい
 Dialogue: 0,0:02:21.53,0:02:25.12,ED-JP,,0,0,0,,ひと口だけ、ひと口だけ、あぁ！
 Dialogue: 0,0:02:25.12,0:02:27.59,ED-JP,,0,0,0,,ふるーてぃーがとまらないっ
-Dialogue: 0,0:02:00.10,0:02:03.73,ED-CH,,0,0,0,,預備 一 二 幹勁十足上吧！
-Dialogue: 0,0:02:03.92,0:02:07.10,ED-CH,,0,0,0,,敬請品嘗！熱熱鬧鬧 五彩繽紛
-Dialogue: 0,0:02:07.10,0:02:09.76,ED-CH,,0,0,0,,我們都是獨一無二
+Dialogue: 0,0:02:00.10,0:02:03.73,ED-CH,,0,0,0,,预备 一 二 干劲十足上吧！
+Dialogue: 0,0:02:03.92,0:02:07.10,ED-CH,,0,0,0,,敬请品尝！热热闹闹 五彩缤纷
+Dialogue: 0,0:02:07.10,0:02:09.76,ED-CH,,0,0,0,,我们都是独一无二
 Dialogue: 1,0:02:08.52,0:02:10.17,ED-CH,,0,0,70,,唔～ Only one！
-Dialogue: 0,0:02:09.81,0:02:13.14,ED-CH,,0,0,0,,彼此都是不可思議 珍視對方
-Dialogue: 0,0:02:13.14,0:02:15.65,ED-CH,,0,0,0,,目光相對就會心跳怦怦
-Dialogue: 0,0:02:15.85,0:02:17.62,ED-CH,,0,0,0,,洋溢著水靈靈的光芒
-Dialogue: 0,0:02:17.62,0:02:18.97,ED-CH,,0,0,0,,水珠閃亮如此誘人
-Dialogue: 0,0:02:18.97,0:02:21.53,ED-CH,,0,0,0,,不要猶豫 快做出選擇吧
+Dialogue: 0,0:02:09.81,0:02:13.14,ED-CH,,0,0,0,,彼此都是不可思议 珍视对方
+Dialogue: 0,0:02:13.14,0:02:15.65,ED-CH,,0,0,0,,目光相对就会心跳怦怦
+Dialogue: 0,0:02:15.85,0:02:17.62,ED-CH,,0,0,0,,洋溢着水灵灵的光芒
+Dialogue: 0,0:02:17.62,0:02:18.97,ED-CH,,0,0,0,,水珠闪亮如此诱人
+Dialogue: 0,0:02:18.97,0:02:21.53,ED-CH,,0,0,0,,不要犹豫 快做出选择吧
 Dialogue: 0,0:02:21.53,0:02:25.12,ED-CH,,0,0,0,,只需要一口 只需要一口 啊！
-Dialogue: 0,0:02:25.12,0:02:27.59,ED-CH,,0,0,0,,水果香氣停不下來
+Dialogue: 0,0:02:25.12,0:02:27.59,ED-CH,,0,0,0,,水果香气停不下来
