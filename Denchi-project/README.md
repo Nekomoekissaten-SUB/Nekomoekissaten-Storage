@@ -1,7 +1,7 @@
 # Gyakuten Sekai no Denchi Shoujo
 
 内含 01-12 简繁日 BDRip 字幕
-[简繁日 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Denchi-project_BD_JPCH.7z)
+[简繁日 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Denchi-project_BD_JPCH_46fca84.7z)
 
 使用字体：
 ```
