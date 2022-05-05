@@ -3,7 +3,7 @@
 ## 中文字幕
 
 01-12  
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Slime300/Slime300_BD_zho.7z)  
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Slime300_BD_zho.7z)  
 
 所需字体：
 ```
