@@ -2,8 +2,8 @@
 
 ## 中文字幕
 
-内含 01-20 简繁 WebRip 字幕  
-[简繁中文 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Jahy-sama_Web_zho.7z)
+内含 01-20 简繁 BDRip 字幕  
+[简繁中文 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Jahy-sama_BD_zho.7z)
 
 使用字体：
 ```
