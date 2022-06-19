@@ -1,0 +1,19 @@
+python_bin:
+  'F:/Software/VapourSynth/python.exe'
+
+namef:
+  - '[Nekomoe kissaten] Dance Dance Danseur [{ep}][WebRip].{lang}'
+  - 'Danseur_OP_Effect_02_Web.{lang}'
+
+# OP 「お喋りして　手招きする」前一帧 I = 1686
+shift_fr:
+  '01': [1677] #3363
+  '02': [0]
+  '03': [454] #2140
+  '04': [-216] # 1470
+  '05': [1462] # 3148
+  '06': [1869] # 3555
+  '07': [1581] # 3267
+  '08': [-168] # 1518
+  '09': [-336] # 1350
+  '10': [-264] # 1422
