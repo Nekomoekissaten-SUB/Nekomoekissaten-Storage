@@ -1,0 +1,708 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Hataraku Saibou S2 [03][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正兰亭圆_GBK_中,47,&H000019FF,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,15,1
+Style: Default_Top,方正兰亭圆_GBK_中,40,&H000019FF,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,15,15,15,1
+Style: Screen1,方正兰亭圆_GBK_中,30,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,10,1
+Style: Screen2,方正兰亭黑_GBK,40,&H00000001,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
+Style: STAFF,方正黑体_GBK,35,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Title,方正综艺_GBK,50,&H000016FA,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: OP-JP,FOT-PopHappiness Std EB,42,&H000019FF,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,15,15,12,1
+Style: OP-CHS,华康POP2体W9,32,&H000019FF,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,8,15,15,15,1
+Style: OP-CHT,華康POP2體W9,32,&H000019FF,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,8,15,15,15,1
+Style: ED-JP,FOT-Skip ProN B,51,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,10,1
+Style: ED-CH,方正正中黑_GBK,44,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------staff----------
+Dialogue: 0,0:00:21.33,0:00:25.08,STAFF,,0,0,15,,{\an8\fs40\blur4\fad(500,500)}本字幕由喵萌奶茶屋制作 作品仅供交流学习使用 请勿用于商业用途\N字幕组招新QQ群：421320480
+Dialogue: 0,0:00:25.08,0:00:29.25,STAFF,,0,0,15,,{\an8\fs36\blur4\fad(500,500)}翻译：致翔永恒 丸丸 Oscuro  校对：Dysonsphere\N时轴：魔玉  后期：MIR  繁化：错党  海报：邪灵
+Comment: 0,0:00:00.00,0:00:00.00,comment,,0,0,0,,-----------title----------
+Dialogue: 0,0:02:45.01,0:02:49.98,Title,,0,0,0,,{\fad(0,700)\fs80\c&H0019FF&\bord3\3c&HFFFFFF&\shad0\pos(240,494)}第3话\N登革热
+Dialogue: 0,0:11:56.98,0:12:00.95,Title,,0,0,0,,{\fad(0,900)\fs80\c&H0019FF&\bord3\3c&HFFFFFF&\shad0\pos(234,564)}痤疮
+Comment: 0,0:00:00.00,0:00:00.00,comment,,0,0,0,,-----------comment----------
+Dialogue: 0,0:00:00.48,0:00:00.52,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,752)}距离表皮
+Dialogue: 0,0:00:00.52,0:00:00.56,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,742)}距离表皮
+Dialogue: 0,0:00:00.56,0:00:00.60,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,732)}距离表皮
+Dialogue: 0,0:00:00.60,0:00:00.64,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,722)}距离表皮
+Dialogue: 0,0:00:00.64,0:00:00.68,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,712)}距离表皮
+Dialogue: 0,0:00:00.68,0:00:00.73,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,702)}距离表皮
+Dialogue: 0,0:00:00.73,0:00:00.77,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,693)}距离表皮
+Dialogue: 0,0:00:00.77,0:00:00.81,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,684)}距离表皮
+Dialogue: 0,0:00:00.81,0:00:00.85,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,675)}距离表皮
+Dialogue: 0,0:00:00.85,0:00:00.89,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,666)}距离表皮
+Dialogue: 0,0:00:00.89,0:00:00.93,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,657)}距离表皮
+Dialogue: 0,0:00:00.93,0:00:00.98,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,648)}距离表皮
+Dialogue: 0,0:00:00.98,0:00:01.02,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,639)}距离表皮
+Dialogue: 0,0:00:01.02,0:00:01.06,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,630)}距离表皮
+Dialogue: 0,0:00:01.06,0:00:01.10,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,622)}距离表皮
+Dialogue: 0,0:00:01.10,0:00:01.14,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,614)}距离表皮
+Dialogue: 0,0:00:01.14,0:00:01.18,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,604)}距离表皮
+Dialogue: 0,0:00:01.18,0:00:01.23,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,596)}距离表皮
+Dialogue: 0,0:00:01.23,0:00:01.27,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,589)}距离表皮
+Dialogue: 0,0:00:01.27,0:00:01.31,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,580)}距离表皮
+Dialogue: 0,0:00:01.31,0:00:01.35,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,574)}距离表皮
+Dialogue: 0,0:00:01.35,0:00:01.39,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,565)}距离表皮
+Dialogue: 0,0:00:01.39,0:00:01.43,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,557)}距离表皮
+Dialogue: 0,0:00:01.43,0:00:01.48,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,549)}距离表皮
+Dialogue: 0,0:00:01.48,0:00:01.52,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,541)}距离表皮
+Dialogue: 0,0:00:01.52,0:00:01.56,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,534)}距离表皮
+Dialogue: 0,0:00:01.56,0:00:01.60,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,527)}距离表皮
+Dialogue: 0,0:00:01.60,0:00:01.64,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,521)}距离表皮
+Dialogue: 0,0:00:01.64,0:00:01.68,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,514)}距离表皮
+Dialogue: 0,0:00:01.68,0:00:01.73,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,507)}距离表皮
+Dialogue: 0,0:00:01.73,0:00:01.77,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,500)}距离表皮
+Dialogue: 0,0:00:01.77,0:00:01.81,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,494)}距离表皮
+Dialogue: 0,0:00:01.81,0:00:01.85,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,488)}距离表皮
+Dialogue: 0,0:00:01.85,0:00:01.89,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,482)}距离表皮
+Dialogue: 0,0:00:01.89,0:00:01.94,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,477)}距离表皮
+Dialogue: 0,0:00:01.94,0:00:01.98,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,471)}距离表皮
+Dialogue: 0,0:00:01.98,0:00:02.02,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,467)}距离表皮
+Dialogue: 0,0:00:02.02,0:00:02.06,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,461)}距离表皮
+Dialogue: 0,0:00:02.06,0:00:02.10,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,458)}距离表皮
+Dialogue: 0,0:00:02.10,0:00:02.14,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,454)}距离表皮
+Dialogue: 0,0:00:02.14,0:00:02.19,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,450)}距离表皮
+Dialogue: 0,0:00:02.19,0:00:02.23,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,447)}距离表皮
+Dialogue: 0,0:00:02.23,0:00:02.27,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,443)}距离表皮
+Dialogue: 0,0:00:02.27,0:00:02.31,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,440)}距离表皮
+Dialogue: 0,0:00:02.35,0:00:02.39,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,437)}距离表皮
+Dialogue: 0,0:00:02.39,0:00:02.44,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,436)}距离表皮
+Dialogue: 0,0:00:02.44,0:00:02.48,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,435)}距离表皮
+Dialogue: 0,0:00:02.48,0:00:03.48,Screen2,,0,0,0,,{\fs18\b1\c&H0B7748&\pos(1081,434)}距离表皮
+Dialogue: 0,0:00:22.79,0:00:22.83,Screen1,,0,0,0,,{\frz-5\fs64\pos(186,516)\bord0}金属异物反应
+Dialogue: 0,0:00:22.83,0:00:22.87,Screen1,,0,0,0,,{\frz-5\fs54\pos(356,478)\bord0}金属异物反应
+Dialogue: 0,0:00:22.87,0:00:22.91,Screen1,,0,0,0,,{\frz-5\fs42\pos(388,456)\bord0}金属异物反应
+Dialogue: 0,0:00:22.91,0:00:24.42,Screen1,,0,0,0,,{\fscy100\t(29,1489,\fscy94.38)\fscx100\t(29,1489,\fscx94.38)\frz-5\fs42\bord0\move(398,449,410.05,445.81,29,1489)}金属异物反应
+Dialogue: 0,0:00:28.46,0:00:28.59,Screen2,,0,0,0,,{\pos(812,680)\frz-4\fs27\fax-0.1}组胺操作手册
+Dialogue: 0,0:00:28.59,0:00:29.84,Screen2,,0,0,0,,{\frz-2\fs27\pos(734,638)\fax-0.1}组胺操作手册
+Dialogue: 0,0:07:00.10,0:07:00.14,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(581,419)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.14,0:07:00.19,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(585.26,413.52)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.19,0:07:00.23,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(589.81,415.1)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.23,0:07:00.27,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(595.66,411.23)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.27,0:07:00.31,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(601.67,412.73)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.31,0:07:00.35,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(606.78,410.25)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.35,0:07:00.39,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(613.6,412.69)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.39,0:07:00.44,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(620.03,411.1)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.44,0:07:00.48,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(622.26,415.72)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.48,0:07:00.52,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(623.15,415.44)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.52,0:07:00.56,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(624.75,419.71)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.56,0:07:00.60,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(626.55,418.85)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.60,0:07:00.64,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(628.79,424.53)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.64,0:07:00.69,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(630.45,421.98)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.69,0:07:00.73,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(631.28,425.09)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.73,0:07:00.77,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(632.34,422.21)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.77,0:07:00.81,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(634.1,424.77)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.81,0:07:00.85,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(637.88,422.59)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.85,0:07:00.89,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(642.45,425.39)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.89,0:07:00.94,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(647.1,422.51)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.94,0:07:00.98,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(651.2,424.43)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.98,0:07:01.02,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(655.73,421.54)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.02,0:07:01.06,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(659.18,424.73)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.06,0:07:01.10,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(662.61,421.46)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.10,0:07:01.15,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(666.87,424.49)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.15,0:07:01.19,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(671.2,420.52)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.19,0:07:01.23,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(670.54,421.07)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.23,0:07:01.27,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(669.54,414.82)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.27,0:07:01.31,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(669.91,415.33)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.31,0:07:01.35,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(670.44,413.59)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.35,0:07:01.40,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(672.49,416.85)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.40,0:07:01.44,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(674.81,416.37)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.44,0:07:01.48,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(677.62,419.92)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.48,0:07:01.52,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(680.6,419.02)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.52,0:07:01.56,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(683.17,423.8)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.56,0:07:01.60,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(686.68,421.04)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.60,0:07:01.65,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(692.38,420.66)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.65,0:07:01.69,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(699.73,414.28)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.69,0:07:01.73,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(704,412.89)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.73,0:07:01.77,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(707.78,406.62)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.77,0:07:01.81,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(709.53,406.85)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.81,0:07:01.85,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(711.16,404.56)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.85,0:07:01.90,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(712.86,407.39)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.90,0:07:01.94,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(714.64,406.21)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.94,0:07:01.98,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(716.27,410.04)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:01.98,0:07:02.02,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(718.17,406.83)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:02.02,0:07:02.06,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(721.62,409.66)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:02.06,0:07:02.10,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(719.54,404.89)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:02.10,0:07:02.15,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(722.72,408.67)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:02.15,0:07:02.19,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(726.03,407.33)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:02.19,0:07:02.23,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(729.81,409.27)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:02.23,0:07:02.27,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(733.61,407.78)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:02.27,0:07:02.31,Screen1,,0,0,0,,{\c&H6BAF4F&\3c&HE1FCFC&\fs38\pos(737.91,410.78)\frz334.7\fax0.4}2k房地产
+Dialogue: 0,0:07:00.10,0:07:00.14,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(941,437)\fax0.4}有空屋
+Dialogue: 0,0:07:00.14,0:07:00.19,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(945.26,431.52)\fax0.4}有空屋
+Dialogue: 0,0:07:00.19,0:07:00.23,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(949.81,433.1)\fax0.4}有空屋
+Dialogue: 0,0:07:00.23,0:07:00.27,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(955.66,429.23)\fax0.4}有空屋
+Dialogue: 0,0:07:00.27,0:07:00.31,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(961.67,430.73)\fax0.4}有空屋
+Dialogue: 0,0:07:00.31,0:07:00.35,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(966.78,428.25)\fax0.4}有空屋
+Dialogue: 0,0:07:00.35,0:07:00.39,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(973.6,430.69)\fax0.4}有空屋
+Dialogue: 0,0:07:00.39,0:07:00.44,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(980.03,429.1)\fax0.4}有空屋
+Dialogue: 0,0:07:00.44,0:07:00.48,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(982.26,433.72)\fax0.4}有空屋
+Dialogue: 0,0:07:00.48,0:07:00.52,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(983.15,433.44)\fax0.4}有空屋
+Dialogue: 0,0:07:00.52,0:07:00.56,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(984.75,437.71)\fax0.4}有空屋
+Dialogue: 0,0:07:00.56,0:07:00.60,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(986.55,436.85)\fax0.4}有空屋
+Dialogue: 0,0:07:00.60,0:07:00.64,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(988.79,442.53)\fax0.4}有空屋
+Dialogue: 0,0:07:00.64,0:07:00.69,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(990.45,439.98)\fax0.4}有空屋
+Dialogue: 0,0:07:00.69,0:07:00.73,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(991.28,443.09)\fax0.4}有空屋
+Dialogue: 0,0:07:00.73,0:07:00.77,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(992.34,440.21)\fax0.4}有空屋
+Dialogue: 0,0:07:00.77,0:07:00.81,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(994.1,442.77)\fax0.4}有空屋
+Dialogue: 0,0:07:00.81,0:07:00.85,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(997.88,440.59)\fax0.4}有空屋
+Dialogue: 0,0:07:00.85,0:07:00.89,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1002.45,443.39)\fax0.4}有空屋
+Dialogue: 0,0:07:00.89,0:07:00.94,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1007.1,440.51)\fax0.4}有空屋
+Dialogue: 0,0:07:00.94,0:07:00.98,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1011.2,442.43)\fax0.4}有空屋
+Dialogue: 0,0:07:00.98,0:07:01.02,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1015.73,439.54)\fax0.4}有空屋
+Dialogue: 0,0:07:01.02,0:07:01.06,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1019.18,442.73)\fax0.4}有空屋
+Dialogue: 0,0:07:01.06,0:07:01.10,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1022.61,439.46)\fax0.4}有空屋
+Dialogue: 0,0:07:01.10,0:07:01.15,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1026.87,442.49)\fax0.4}有空屋
+Dialogue: 0,0:07:01.15,0:07:01.19,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1031.2,438.52)\fax0.4}有空屋
+Dialogue: 0,0:07:01.19,0:07:01.23,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1030.54,439.07)\fax0.4}有空屋
+Dialogue: 0,0:07:01.23,0:07:01.27,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1029.54,432.82)\fax0.4}有空屋
+Dialogue: 0,0:07:01.27,0:07:01.31,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1029.91,433.33)\fax0.4}有空屋
+Dialogue: 0,0:07:01.31,0:07:01.35,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1030.44,431.59)\fax0.4}有空屋
+Dialogue: 0,0:07:01.35,0:07:01.40,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1032.49,434.85)\fax0.4}有空屋
+Dialogue: 0,0:07:01.40,0:07:01.44,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1034.81,434.37)\fax0.4}有空屋
+Dialogue: 0,0:07:01.44,0:07:01.48,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1037.62,437.92)\fax0.4}有空屋
+Dialogue: 0,0:07:01.48,0:07:01.52,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1040.6,437.02)\fax0.4}有空屋
+Dialogue: 0,0:07:01.52,0:07:01.56,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1043.17,441.8)\fax0.4}有空屋
+Dialogue: 0,0:07:01.56,0:07:01.60,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1046.68,439.04)\fax0.4}有空屋
+Dialogue: 0,0:07:01.60,0:07:01.65,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1052.38,438.66)\fax0.4}有空屋
+Dialogue: 0,0:07:01.65,0:07:01.69,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1059.73,432.28)\fax0.4}有空屋
+Dialogue: 0,0:07:01.69,0:07:01.73,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1064,430.89)\fax0.4}有空屋
+Dialogue: 0,0:07:01.73,0:07:01.77,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1067.78,424.62)\fax0.4}有空屋
+Dialogue: 0,0:07:01.77,0:07:01.81,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1069.53,424.85)\fax0.4}有空屋
+Dialogue: 0,0:07:01.81,0:07:01.85,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1071.16,422.56)\fax0.4}有空屋
+Dialogue: 0,0:07:01.85,0:07:01.90,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1072.86,425.39)\fax0.4}有空屋
+Dialogue: 0,0:07:01.90,0:07:01.94,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1074.64,424.21)\fax0.4}有空屋
+Dialogue: 0,0:07:01.94,0:07:01.98,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1076.27,428.04)\fax0.4}有空屋
+Dialogue: 0,0:07:01.98,0:07:02.02,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1078.17,424.83)\fax0.4}有空屋
+Dialogue: 0,0:07:02.02,0:07:02.06,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1081.62,427.66)\fax0.4}有空屋
+Dialogue: 0,0:07:02.06,0:07:02.10,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1079.54,422.89)\fax0.4}有空屋
+Dialogue: 0,0:07:02.10,0:07:02.15,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1082.72,426.67)\fax0.4}有空屋
+Dialogue: 0,0:07:02.15,0:07:02.19,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1086.03,425.33)\fax0.4}有空屋
+Dialogue: 0,0:07:02.19,0:07:02.23,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1089.81,427.27)\fax0.4}有空屋
+Dialogue: 0,0:07:02.23,0:07:02.27,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1093.61,425.78)\fax0.4}有空屋
+Dialogue: 0,0:07:02.27,0:07:02.31,Screen1,,0,0,0,,{\frz-22.5\c&HEEF7EB&\3c&H0301F7&\fs38\pos(1097.91,428.78)\fax0.4}有空屋
+Dialogue: 0,0:07:00.10,0:07:00.14,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(767,511)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.14,0:07:00.19,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(771.26,505.52)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.19,0:07:00.23,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(775.81,507.1)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.23,0:07:00.27,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(781.66,503.23)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.27,0:07:00.31,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(787.67,504.73)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.31,0:07:00.35,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(792.78,502.25)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.35,0:07:00.39,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(799.6,504.69)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.39,0:07:00.44,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(806.03,503.1)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.44,0:07:00.48,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(808.26,507.72)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.48,0:07:00.52,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(809.15,507.44)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.52,0:07:00.56,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(810.75,511.71)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.56,0:07:00.60,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(812.55,510.85)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.60,0:07:00.64,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(814.79,516.53)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.64,0:07:00.69,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(816.45,513.98)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.69,0:07:00.73,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(817.28,517.09)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.73,0:07:00.77,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(818.34,514.21)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.77,0:07:00.81,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(820.1,516.77)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.81,0:07:00.85,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(823.88,514.59)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.85,0:07:00.89,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(828.45,517.39)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.89,0:07:00.94,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(833.1,514.51)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.94,0:07:00.98,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(837.2,516.43)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.98,0:07:01.02,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(841.73,513.54)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.02,0:07:01.06,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(845.18,516.73)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.06,0:07:01.10,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(848.61,513.46)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.10,0:07:01.15,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(852.87,516.49)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.15,0:07:01.19,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(857.2,512.52)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.19,0:07:01.23,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(856.54,513.06)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.23,0:07:01.27,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(855.54,506.82)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.27,0:07:01.31,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(855.91,507.33)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.31,0:07:01.35,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(856.44,505.59)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.35,0:07:01.40,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(858.49,508.85)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.40,0:07:01.44,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(860.81,508.37)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.44,0:07:01.48,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(863.62,511.92)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.48,0:07:01.52,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(866.6,511.02)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.52,0:07:01.56,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(869.17,515.8)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.56,0:07:01.60,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(872.68,513.04)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.60,0:07:01.65,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(878.38,512.66)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.65,0:07:01.69,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(885.73,506.28)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.69,0:07:01.73,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(890,504.89)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.73,0:07:01.77,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(893.78,498.62)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.77,0:07:01.81,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(895.53,498.85)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.81,0:07:01.85,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(897.16,496.56)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.85,0:07:01.90,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(898.86,499.39)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.90,0:07:01.94,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(900.64,498.21)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.94,0:07:01.98,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(902.27,502.04)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:01.98,0:07:02.02,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(904.17,498.83)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:02.02,0:07:02.06,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(907.62,501.66)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:02.06,0:07:02.10,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(905.54,496.89)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:02.10,0:07:02.15,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(908.72,500.67)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:02.15,0:07:02.19,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(912.03,499.33)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:02.19,0:07:02.23,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(915.81,501.27)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:02.23,0:07:02.27,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(919.61,499.78)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:02.27,0:07:02.31,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\pos(923.91,502.78)\fax0.5}从末期开始的细胞分裂
+Dialogue: 0,0:07:00.10,0:07:00.14,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(760,547)}开始新的生活吧
+Dialogue: 0,0:07:00.14,0:07:00.19,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(764.26,541.52)}开始新的生活吧
+Dialogue: 0,0:07:00.19,0:07:00.23,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(768.81,543.1)}开始新的生活吧
+Dialogue: 0,0:07:00.23,0:07:00.27,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(774.66,539.23)}开始新的生活吧
+Dialogue: 0,0:07:00.27,0:07:00.31,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(780.67,540.73)}开始新的生活吧
+Dialogue: 0,0:07:00.31,0:07:00.35,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(785.78,538.25)}开始新的生活吧
+Dialogue: 0,0:07:00.35,0:07:00.39,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(792.6,540.69)}开始新的生活吧
+Dialogue: 0,0:07:00.39,0:07:00.44,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(799.03,539.1)}开始新的生活吧
+Dialogue: 0,0:07:00.44,0:07:00.48,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(801.26,543.72)}开始新的生活吧
+Dialogue: 0,0:07:00.48,0:07:00.52,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(802.15,543.44)}开始新的生活吧
+Dialogue: 0,0:07:00.52,0:07:00.56,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(803.75,547.71)}开始新的生活吧
+Dialogue: 0,0:07:00.56,0:07:00.60,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(805.55,546.85)}开始新的生活吧
+Dialogue: 0,0:07:00.60,0:07:00.64,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(807.79,552.53)}开始新的生活吧
+Dialogue: 0,0:07:00.64,0:07:00.69,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(809.45,549.98)}开始新的生活吧
+Dialogue: 0,0:07:00.69,0:07:00.73,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(810.28,553.09)}开始新的生活吧
+Dialogue: 0,0:07:00.73,0:07:00.77,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(811.34,550.21)}开始新的生活吧
+Dialogue: 0,0:07:00.77,0:07:00.81,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(813.1,552.77)}开始新的生活吧
+Dialogue: 0,0:07:00.81,0:07:00.85,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(816.88,550.59)}开始新的生活吧
+Dialogue: 0,0:07:00.85,0:07:00.89,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(821.45,553.39)}开始新的生活吧
+Dialogue: 0,0:07:00.89,0:07:00.94,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(826.1,550.51)}开始新的生活吧
+Dialogue: 0,0:07:00.94,0:07:00.98,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(830.2,552.43)}开始新的生活吧
+Dialogue: 0,0:07:00.98,0:07:01.02,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(834.73,549.54)}开始新的生活吧
+Dialogue: 0,0:07:01.02,0:07:01.06,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(838.18,552.73)}开始新的生活吧
+Dialogue: 0,0:07:01.06,0:07:01.10,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(841.61,549.46)}开始新的生活吧
+Dialogue: 0,0:07:01.10,0:07:01.15,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(845.87,552.49)}开始新的生活吧
+Dialogue: 0,0:07:01.15,0:07:01.19,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(850.2,548.52)}开始新的生活吧
+Dialogue: 0,0:07:01.19,0:07:01.23,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(849.54,549.07)}开始新的生活吧
+Dialogue: 0,0:07:01.23,0:07:01.27,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(848.54,542.82)}开始新的生活吧
+Dialogue: 0,0:07:01.27,0:07:01.31,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(848.91,543.33)}开始新的生活吧
+Dialogue: 0,0:07:01.31,0:07:01.35,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(849.44,541.59)}开始新的生活吧
+Dialogue: 0,0:07:01.35,0:07:01.40,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(851.49,544.85)}开始新的生活吧
+Dialogue: 0,0:07:01.40,0:07:01.44,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(853.81,544.37)}开始新的生活吧
+Dialogue: 0,0:07:01.44,0:07:01.48,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(856.62,547.92)}开始新的生活吧
+Dialogue: 0,0:07:01.48,0:07:01.52,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(859.6,547.02)}开始新的生活吧
+Dialogue: 0,0:07:01.52,0:07:01.56,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(862.17,551.8)}开始新的生活吧
+Dialogue: 0,0:07:01.56,0:07:01.60,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(865.68,549.04)}开始新的生活吧
+Dialogue: 0,0:07:01.60,0:07:01.65,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(871.38,548.66)}开始新的生活吧
+Dialogue: 0,0:07:01.65,0:07:01.69,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(878.73,542.28)}开始新的生活吧
+Dialogue: 0,0:07:01.69,0:07:01.73,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(883,540.89)}开始新的生活吧
+Dialogue: 0,0:07:01.73,0:07:01.77,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(886.78,534.62)}开始新的生活吧
+Dialogue: 0,0:07:01.77,0:07:01.81,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(888.53,534.85)}开始新的生活吧
+Dialogue: 0,0:07:01.81,0:07:01.85,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(890.16,532.56)}开始新的生活吧
+Dialogue: 0,0:07:01.85,0:07:01.90,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(891.86,535.39)}开始新的生活吧
+Dialogue: 0,0:07:01.90,0:07:01.94,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(893.64,534.21)}开始新的生活吧
+Dialogue: 0,0:07:01.94,0:07:01.98,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(895.27,538.04)}开始新的生活吧
+Dialogue: 0,0:07:01.98,0:07:02.02,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(897.17,534.83)}开始新的生活吧
+Dialogue: 0,0:07:02.02,0:07:02.06,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(900.62,537.66)}开始新的生活吧
+Dialogue: 0,0:07:02.06,0:07:02.10,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(898.54,532.89)}开始新的生活吧
+Dialogue: 0,0:07:02.10,0:07:02.15,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(901.72,536.67)}开始新的生活吧
+Dialogue: 0,0:07:02.15,0:07:02.19,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(905.03,535.33)}开始新的生活吧
+Dialogue: 0,0:07:02.19,0:07:02.23,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(908.81,537.27)}开始新的生活吧
+Dialogue: 0,0:07:02.23,0:07:02.27,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(912.61,535.78)}开始新的生活吧
+Dialogue: 0,0:07:02.27,0:07:02.31,Screen1,,0,0,0,,{\frz-27\fry-5\frx\c&H3C110D&\3c&HDAF5F2&\fs38\fax0.5\pos(916.91,538.78)}开始新的生活吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------text----------
+Dialogue: 0,0:00:02.11,0:00:03.44,Default,,0,0,0,,你好
+Dialogue: 0,0:00:04.00,0:00:06.94,Default,,0,0,0,,我来给您送养分和氧气了
+Dialogue: 0,0:00:07.37,0:00:09.56,Default,,0,0,0,,终于送来了呀
+Dialogue: 0,0:00:09.69,0:00:12.21,Default,,0,0,0,,从刚刚开始肚子就饿得咕咕叫了
+Dialogue: 0,0:00:12.28,0:00:14.54,Default,,0,0,0,,久等了 请享用
+Dialogue: 0,0:00:14.99,0:00:15.92,Default,,0,0,0,,谢谢
+Dialogue: 0,0:00:16.10,0:00:16.80,Default,,0,0,0,,不客气
+Dialogue: 0,0:00:17.38,0:00:18.61,Default,,0,0,0,,今天天气不错
+Dialogue: 0,0:00:18.69,0:00:21.37,Default,,0,0,0,,就在阳台慢慢吃吧
+Dialogue: 0,0:00:23.36,0:00:24.73,Default,,0,0,0,,啊 不好了
+Dialogue: 0,0:00:24.84,0:00:27.76,Default,,0,0,0,,表皮附近出现了有害物质反应
+Dialogue: 0,0:00:30.11,0:00:31.99,Default,,0,0,0,,这个… 嗯嗯
+Dialogue: 0,0:00:32.04,0:00:34.52,Default,,0,0,0,,这个分量的话 刻度在…
+Dialogue: 0,0:00:35.17,0:00:36.20,Default,,0,0,0,,应该是这里
+Dialogue: 0,0:00:36.36,0:00:38.13,Default,,0,0,0,,我开动了
+Dialogue: 0,0:00:38.73,0:00:40.70,Default,,0,0,0,,附近出现有害物质反应
+Dialogue: 0,0:00:41.43,0:00:43.00,Default,,0,0,0,,将释放组胺
+Dialogue: 0,0:00:43.45,0:00:45.20,Default,,0,0,0,,啊 不会吧 这么突然
+Dialogue: 0,0:00:50.81,0:00:52.51,Default,,0,0,0,,组胺反应确认
+Dialogue: 0,0:00:52.94,0:00:54.46,Default,,0,0,0,,开始扩张血管
+Dialogue: 0,0:00:54.79,0:00:56.68,Default,,0,0,0,,全部短路了啊
+Dialogue: 0,0:00:58.68,0:01:00.98,Default,,0,0,0,,瘙痒神经全部短路了
+Dialogue: 0,0:01:03.02,0:01:04.02,Default,,0,0,0,,发生什么事了
+Dialogue: 0,0:01:04.06,0:01:05.50,Default,,0,0,0,,抗原在哪里
+Dialogue: 0,0:01:07.32,0:01:09.42,Default,,0,0,0,,白血球你没…没事吧
+Dialogue: 0,0:02:48.29,0:02:50.60,Default,,0,0,0,,我才小睡了一会儿 就给我来这一出
+Dialogue: 0,0:02:50.66,0:02:54.69,Default,,0,0,0,,要对有害物质挨个反应也不轻松呢
+Dialogue: 0,0:02:55.10,0:02:57.71,Default,,0,0,0,,这毕竟是我的工作
+Dialogue: 0,0:02:59.91,0:03:01.96,Default,,0,0,0,,肥大细胞 抗原在哪里
+Dialogue: 0,0:03:02.14,0:03:03.64,Default,,0,0,0,,诶 你在说什么
+Dialogue: 0,0:03:04.27,0:03:06.70,Default,,0,0,0,,看起来没有哟 白血球
+Dialogue: 0,0:03:07.26,0:03:09.80,Default,,0,0,0,,你这家伙不要没事乱放组胺啊
+Dialogue: 0,0:03:09.86,0:03:12.03,Default,,0,0,0,,我们每次都被整的可惨了
+Dialogue: 0,0:03:12.03,0:03:13.26,Default,,0,0,0,,什么
+Dialogue: 0,0:03:13.56,0:03:16.98,Default,,0,0,0,,体内出现了有害物质 我做出反应而已
+Dialogue: 0,0:03:17.01,0:03:18.60,Default,,0,0,0,,这是必要的啊
+Dialogue: 0,0:03:18.60,0:03:20.48,Default,,0,0,0,,你这有害物质是什么意思
+Dialogue: 0,0:03:20.48,0:03:22.99,Default,,0,0,0,,肯定是又对鸡毛蒜皮的事起了过激反应
+Dialogue: 0,0:03:22.99,0:03:26.09,Default,,0,0,0,,喂 等等 组胺是有重要的功能的
+Dialogue: 0,0:03:26.09,0:03:27.55,Default,,0,0,0,,大家冷静下来
+Dialogue: 0,0:03:27.67,0:03:28.54,Default,,0,0,0,,但是
+Dialogue: 0,0:03:29.36,0:03:31.68,Default,,0,0,0,,毕竟这是我的工作
+Dialogue: 0,0:03:31.92,0:03:35.95,Default,,0,0,0,,工作什么的 到头来还不是给别人添麻烦
+Dialogue: 0,0:03:35.98,0:03:39.26,Default,,0,0,0,,你这个只会做多余工作的歇斯底里细胞
+Dialogue: 0,0:03:41.92,0:03:44.36,Default,,0,0,0,,歇斯底里细胞是…
+Dialogue: 0,0:03:45.53,0:03:47.88,Default,,0,0,0,,什么玩意啊
+Dialogue: 0,0:03:47.88,0:03:50.40,Default,,0,0,0,,肥大细胞 请冷静一下
+Dialogue: 0,0:03:50.40,0:03:55.40,Default,,0,0,0,,好呀 反正我就只会干多余的工作罢了
+Dialogue: 0,0:03:55.73,0:03:57.57,Default,,0,0,0,,那以后我什么都不干就是了
+Dialogue: 0,0:03:57.82,0:04:01.89,Default,,0,0,0,,你们快滚 从我眼前消失
+Dialogue: 0,0:04:05.82,0:04:07.80,Default,,0,0,0,,吵得真激烈啊
+Dialogue: 0,0:04:08.27,0:04:10.29,Default,,0,0,0,,虽然每个人都有自己的任务
+Dialogue: 0,0:04:10.29,0:04:13.26,Default,,0,0,0,,要尽善尽美也是很难的
+Dialogue: 0,0:04:14.84,0:04:19.29,Default,,0,0,0,,对不起 走路的时候想着别的事情没看路
+Dialogue: 0,0:04:19.29,0:04:21.71,Default,,0,0,0,,哦 我这边才应该向你道歉
+Dialogue: 0,0:04:23.38,0:04:28.57,Default,,0,0,0,,朗格汉斯细胞 存在于表皮的一种树突状细胞
+Dialogue: 0,0:04:29.25,0:04:33.60,Default,,0,0,0,,主要负责细菌和病毒等异物侵入的识别
+Dialogue: 0,0:04:33.80,0:04:35.74,Default,,0,0,0,,并将信号传达至大脑
+Dialogue: 0,0:04:35.90,0:04:42.16,Default,,0,0,0,,也有防御紫外线和干燥的自我保护能力
+Dialogue: 0,0:04:42.95,0:04:46.51,Default,,0,0,0,,但是请小心 红血球
+Dialogue: 0,0:04:46.89,0:04:48.42,Default,,0,0,0,,因为这里是表皮附近
+Dialogue: 0,0:04:48.52,0:04:51.52,Default,,0,0,0,,随时可能会有外敌入侵哦
+Dialogue: 0,0:04:52.00,0:04:52.76,Default,,0,0,0,,是
+Dialogue: 0,0:04:53.62,0:04:56.95,Default,,0,0,0,,是啊 我要把注意力放在工作上
+Dialogue: 0,0:04:58.49,0:04:58.86,Default,,0,0,0,,诶
+Dialogue: 0,0:05:00.19,0:05:01.40,Default,,0,0,0,,什么
+Dialogue: 0,0:05:02.28,0:05:03.36,Default,,0,0,0,,这个声音
+Dialogue: 0,0:05:06.49,0:05:07.83,Default,,0,0,0,,什么鬼 锯子？
+Dialogue: 0,0:05:08.59,0:05:09.07,Default,,0,0,0,,蚊
+Dialogue: 0,0:05:09.76,0:05:11.48,Default,,0,0,0,,从人类等动物身上吸取血液
+Dialogue: 0,0:05:11.57,0:05:14.93,Default,,0,0,0,,也是病毒或者疟原虫等的传播媒介
+Dialogue: 0,0:05:15.07,0:05:16.51,Default,,0,0,0,,是一种害虫
+Dialogue: 0,0:05:21.98,0:05:23.10,Default,,0,0,0,,好像有什么喷出来了
+Dialogue: 0,0:05:23.26,0:05:25.47,Default,,0,0,0,,大家 这边很危险不要靠近
+Dialogue: 0,0:05:26.64,0:05:27.37,Default,,0,0,0,,奇怪
+Dialogue: 0,0:05:27.80,0:05:29.93,Default,,0,0,0,,不知怎的好困
+Dialogue: 0,0:05:34.59,0:05:38.44,Default,,0,0,0,,血球们被吸走了
+Dialogue: 0,0:05:38.53,0:05:40.78,Default,,0,0,0,,我也要被…被吸走了
+Dialogue: 0,0:05:41.24,0:05:43.19,Default,,0,0,0,,请振作起来
+Dialogue: 0,0:05:45.11,0:05:47.00,Default,,0,0,0,,来 抓住我的手
+Dialogue: 0,0:05:59.72,0:06:00.91,Default,,0,0,0,,消失了
+Dialogue: 0,0:06:01.23,0:06:02.88,Default,,0,0,0,,刚刚那个是怎么回事
+Dialogue: 0,0:06:05.24,0:06:07.28,Default,,0,0,0,,这是什么
+Dialogue: 0,0:06:07.91,0:06:08.82,Default,,0,0,0,,面具？
+Dialogue: 0,0:06:11.66,0:06:14.15,Default,,0,0,0,,虽然不知道是从什么地方掉下来的
+Dialogue: 0,0:06:14.18,0:06:17.72,Default,,0,0,0,,总感觉这个面具有一种独特的魅力
+Dialogue: 0,0:06:26.95,0:06:28.87,Default,,0,0,0,,你没事吧
+Dialogue: 0,0:06:41.40,0:06:43.38,Default,,0,0,0,,啊 这风
+Dialogue: 0,0:06:48.25,0:06:52.11,Default,,0,0,0,,怎么回事 朗格汉斯细胞们突然变得奇怪起来了
+Dialogue: 0,0:06:52.61,0:06:55.56,Default,,0,0,0,,不要告诉我这些细胞被感染了…
+Dialogue: 0,0:07:00.26,0:07:02.23,Default,,0,0,0,,救救我
+Dialogue: 0,0:07:04.80,0:07:07.38,Default,,0,0,0,,这么强烈的反应是怎么回事
+Dialogue: 0,0:07:07.68,0:07:08.82,Default,,0,0,0,,要快点把组胺…
+Dialogue: 0,0:07:09.13,0:07:11.21,Default,,0,0,0,,不要没事乱放组胺啊
+Dialogue: 0,0:07:11.29,0:07:12.98,Default,,0,0,0,,你这个歇斯底里细胞
+Dialogue: 0,0:07:14.44,0:07:15.88,Default,,0,0,0,,没关系的
+Dialogue: 0,0:07:16.46,0:07:18.31,Default,,0,0,0,,我只是在进行自己的工作…
+Dialogue: 0,0:07:23.24,0:07:24.22,Default,,0,0,0,,反正
+Dialogue: 0,0:07:25.10,0:07:26.45,Default,,0,0,0,,只是给你们添麻烦罢了
+Dialogue: 0,0:07:28.01,0:07:28.94,Default,,0,0,0,,是啊
+Dialogue: 0,0:07:29.45,0:07:31.60,Default,,0,0,0,,反正就算我不放出组胺
+Dialogue: 0,0:07:31.60,0:07:32.93,Default,,0,0,0,,也会有其他人处理
+Dialogue: 0,0:07:40.38,0:07:42.06,Default,,0,0,0,,那些细胞是刚才的
+Dialogue: 0,0:07:43.05,0:07:46.58,Default,,0,0,0,,看起来 你被人们的话语所诱引
+Dialogue: 0,0:07:46.58,0:07:48.94,Default,,0,0,0,,成为了一只牵线木偶
+Dialogue: 0,0:07:50.27,0:07:53.83,Default,,0,0,0,,在万物不断交融 变化和毁灭的世界
+Dialogue: 0,0:07:54.11,0:07:56.62,Default,,0,0,0,,不熄的火焰 正是混沌本身
+Dialogue: 0,0:07:57.44,0:07:59.82,Default_Top,,0,0,0,,灾厄的一鳞半爪
+Dialogue: 0,0:07:57.98,0:08:00.12,Default,,0,0,0,,为什么显示这个
+Dialogue: 0,0:08:00.44,0:08:02.08,Default,,0,0,0,,身在这个不确定的世界
+Dialogue: 0,0:08:02.20,0:08:05.50,Default,,0,0,0,,每一个生命都是确定的
+Dialogue: 0,0:08:05.70,0:08:07.89,Default,,0,0,0,,这就是自己 也就是自我
+Dialogue: 0,0:08:08.35,0:08:11.37,Default,,0,0,0,,嗜碱性粒细胞 你在对谁说话呢
+Dialogue: 0,0:08:11.70,0:08:14.72,Default,,0,0,0,,而只是一个弱小生命的我们
+Dialogue: 0,0:08:14.88,0:08:18.31,Default,,0,0,0,,需要通过主体行动来确认存在的意义
+Dialogue: 0,0:08:18.35,0:08:21.90,Default,,0,0,0,,以达成使命来充实生命
+Dialogue: 0,0:08:23.69,0:08:27.35,Default,,0,0,0,,也就是要朝着自己相信的道路前进吗
+Dialogue: 0,0:08:27.62,0:08:29.09,Default,,0,0,0,,切不可忘记
+Dialogue: 0,0:08:29.14,0:08:32.97,Default,,0,0,0,,我们之所以存在 就是为了证明存在本身
+Dialogue: 0,0:08:29.23,0:08:30.76,Default_Top,,0,0,0,,这家伙怎么回事
+Dialogue: 0,0:08:40.86,0:08:43.16,Default,,0,0,0,,妈的 免疫细胞怎么还没来啊
+Dialogue: 0,0:08:43.47,0:08:46.56,Default,,0,0,0,,他们一定快要到了 大家冷静点
+Dialogue: 0,0:08:47.55,0:08:50.68,Default,,0,0,0,,这样下去 我们会没命的
+Dialogue: 0,0:08:52.17,0:08:53.67,Default,,0,0,0,,有没有人
+Dialogue: 0,0:08:53.90,0:08:56.44,Default,,0,0,0,,来救救我
+Dialogue: 0,0:09:04.91,0:09:06.69,Default,,0,0,0,,这是 组胺
+Dialogue: 0,0:09:06.91,0:09:08.75,Default,,0,0,0,,又是肥大细胞吗
+Dialogue: 0,0:09:09.32,0:09:11.50,Default,,0,0,0,,别慌 嘴巴闭上好好看
+Dialogue: 0,0:09:12.00,0:09:13.47,Default,,0,0,0,,这就是我的工作
+Dialogue: 0,0:09:14.11,0:09:17.69,Default,,0,0,0,,检测到组胺反应 血管开始扩张
+Dialogue: 0,0:09:19.67,0:09:23.10,Default,,0,0,0,,请附近的免疫细胞尽快前往现场
+Dialogue: 0,0:09:22.43,0:09:23.20,Default_Top,,0,0,0,,看啊
+Dialogue: 0,0:09:27.67,0:09:29.52,Default,,0,0,0,,杀敌 杀敌
+Dialogue: 0,0:09:29.82,0:09:31.29,Default,,0,0,0,,发现抗原
+Dialogue: 0,0:09:32.42,0:09:36.79,Default,,0,0,0,,感染细胞 给我全都去死
+Dialogue: 0,0:09:39.51,0:09:41.04,Default,,0,0,0,,得救了
+Dialogue: 0,0:09:44.07,0:09:44.98,Default,,0,0,0,,再见病菌
+Dialogue: 0,0:09:46.15,0:09:48.40,Default,,0,0,0,,谢谢你
+Dialogue: 0,0:09:50.78,0:09:53.45,Default,,0,0,0,,在千钧一发之际 危机被解决了
+Dialogue: 0,0:09:53.93,0:09:56.28,Default,,0,0,0,,在赶来的免疫细胞的努力下
+Dialogue: 0,0:09:56.52,0:09:59.61,Default,,0,0,0,,病毒还没开始增殖就已经消失得一干二净
+Dialogue: 0,0:10:00.84,0:10:03.68,Default,,0,0,0,,外敌的真身是 登革热病毒
+Dialogue: 0,0:10:04.57,0:10:07.58,Default,,0,0,0,,这次是在蚊子吸血时
+Dialogue: 0,0:10:07.76,0:10:11.60,Default,,0,0,0,,登革热病毒入侵而引发的事件
+Dialogue: 0,0:10:13.40,0:10:15.75,Default,,0,0,0,,好像是因为蚊子 好可怕呀
+Dialogue: 0,0:10:16.27,0:10:17.61,Default,,0,0,0,,该我们开工了
+Dialogue: 0,0:10:18.14,0:10:21.90,Default,,0,0,0,,这次混乱是由于被蚊子咬了
+Dialogue: 0,0:10:22.17,0:10:25.79,Default,,0,0,0,,是啊 消失的血细胞们也不会回来了
+Dialogue: 0,0:10:26.57,0:10:30.26,Default,,0,0,0,,但总算还是把损伤控制在了最小范围内
+Dialogue: 0,0:10:30.62,0:10:32.42,Default,,0,0,0,,这都是肥大细胞的功劳
+Dialogue: 0,0:10:33.79,0:10:36.47,Default,,0,0,0,,多亏了当时你释放了组胺
+Dialogue: 0,0:10:36.64,0:10:38.60,Default,,0,0,0,,我们才能及时赶到
+Dialogue: 0,0:10:43.13,0:10:44.21,Default,,0,0,0,,肥大细胞
+Dialogue: 0,0:10:44.27,0:10:45.82,Default,,0,0,0,,怎么了
+Dialogue: 0,0:10:47.50,0:10:48.70,Default,,0,0,0,,抱歉
+Dialogue: 0,0:10:49.00,0:10:53.09,Default,,0,0,0,,我不知道组胺能召唤免疫细胞
+Dialogue: 0,0:10:53.58,0:10:57.00,Default,,0,0,0,,多亏了你 我们才能活下来
+Dialogue: 0,0:10:57.37,0:11:00.44,Default,,0,0,0,,怎么每次出事都有你
+Dialogue: 0,0:11:00.44,0:11:02.97,Default,,0,0,0,,对不起
+Dialogue: 0,0:11:03.21,0:11:05.00,Default,,0,0,0,,谢谢你 肥大细胞
+Dialogue: 0,0:11:06.14,0:11:09.14,Default,,0,0,0,,我不该说你歇斯底里的
+Dialogue: 0,0:11:11.80,0:11:14.94,Default,,0,0,0,,我也有错 释放组胺的时候反应慢了
+Dialogue: 0,0:11:16.25,0:11:17.91,Default,,0,0,0,,让你们遭遇危险了
+Dialogue: 0,0:11:21.64,0:11:22.46,Default,,0,0,0,,对不起
+Dialogue: 0,0:11:24.02,0:11:28.71,Default,,0,0,0,,不是 我一开始不就说了我没做错吗
+Dialogue: 0,0:11:29.81,0:11:32.23,Default,,0,0,0,,为啥我要给你们道歉啊
+Dialogue: 0,0:11:32.23,0:11:33.62,Default,,0,0,0,,这不合理
+Dialogue: 0,0:11:33.68,0:11:35.74,Default,,0,0,0,,差点被你们套进去了
+Dialogue: 0,0:11:35.74,0:11:38.85,Default,,0,0,0,,不都说了组胺会搞得我们浑身发麻吗
+Dialogue: 0,0:11:38.85,0:11:40.06,Default,,0,0,0,,关我屁事
+Dialogue: 0,0:11:41.37,0:11:44.72,Default,,0,0,0,,不仁的生命会刮起一阵强风
+Dialogue: 0,0:11:44.72,0:11:46.22,Default,,0,0,0,,改变万物
+Dialogue: 0,0:11:46.74,0:11:49.05,Default,,0,0,0,,伞是被风吹断的吗
+Dialogue: 0,0:11:51.19,0:11:55.28,Default,,0,0,0,,你这个公害细胞
+Dialogue: 0,0:12:07.98,0:12:09.74,Default,,0,0,0,,这个炎症反应是
+Dialogue: 0,0:12:10.86,0:12:11.72,Default,,0,0,0,,毛根
+Dialogue: 0,0:12:12.22,0:12:14.22,Default,,0,0,0,,是毛发位于皮肤内的部分
+Dialogue: 0,0:12:14.57,0:12:16.22,Default,,0,0,0,,是毛发的根部组织
+Dialogue: 0,0:12:20.54,0:12:22.88,Default,,0,0,0,,动起来 别想偷懒
+Dialogue: 0,0:12:24.38,0:12:26.53,Default,,0,0,0,,快给我抽皮脂
+Dialogue: 0,0:12:26.65,0:12:30.12,Default,,0,0,0,,谁要是敢偷懒 准备挨我100鞭吧
+Dialogue: 0,0:12:29.44,0:12:30.95,Default_Top,,0,0,0,,我已经不行了
+Dialogue: 0,0:12:31.66,0:12:33.87,Default,,0,0,0,,长老 长老
+Dialogue: 0,0:12:34.52,0:12:38.30,Default,,0,0,0,,抓到一个偷懒的
+Dialogue: 0,0:12:39.28,0:12:41.13,Default,,0,0,0,,100鞭开始
+Dialogue: 0,0:12:43.26,0:12:45.55,Default,,0,0,0,,小伙子 不必
+Dialogue: 0,0:12:46.46,0:12:47.82,Default,,0,0,0,,毛母细胞
+Dialogue: 0,0:12:47.95,0:12:50.71,Default,,0,0,0,,能通过细胞分裂产生毛发
+Dialogue: 0,0:12:51.20,0:12:53.42,Default,,0,0,0,,不许对长老动粗
+Dialogue: 0,0:12:55.66,0:12:59.53,Default,,0,0,0,,那要不你来替那个老头挨打吧
+Dialogue: 0,0:13:00.91,0:13:03.28,Default,,0,0,0,,看得我都心疼了
+Dialogue: 0,0:13:05.40,0:13:10.13,Default,,0,0,0,,但还是要 抽你100鞭
+Dialogue: 0,0:13:13.31,0:13:16.16,Default,,0,0,0,,杂菌 给爷去死
+Dialogue: 0,0:13:20.79,0:13:23.71,Default,,0,0,0,,我是白血球 隶属于中性粒细胞部门
+Dialogue: 0,0:13:24.01,0:13:24.95,Default,,0,0,0,,你们是
+Dialogue: 0,0:13:26.31,0:13:30.56,Default,,0,0,0,,我们是工作于这个毛孔的细胞
+Dialogue: 0,0:13:30.91,0:13:32.43,Default,,0,0,0,,出什么事了
+Dialogue: 0,0:13:32.98,0:13:37.38,Default,,0,0,0,,我们以前负责制造皮脂 染色等
+Dialogue: 0,0:13:37.45,0:13:39.46,Default,,0,0,0,,好端端地做着自己各自的工作
+Dialogue: 0,0:13:39.87,0:13:41.92,Default,,0,0,0,,直到有一天痤疮杆菌来了
+Dialogue: 0,0:13:41.92,0:13:43.67,Default,,0,0,0,,我们都被他掌控了
+Dialogue: 0,0:13:44.41,0:13:47.64,Default,,0,0,0,,这里已经不再是毛孔
+Dialogue: 0,0:13:48.01,0:13:49.17,Default,,0,0,0,,而是痤疮了
+Dialogue: 0,0:13:50.28,0:13:51.05,Default,,0,0,0,,痤疮
+Dialogue: 0,0:13:51.46,0:13:53.44,Default,,0,0,0,,是一种炎症性皮肤病
+Dialogue: 0,0:13:53.98,0:13:58.41,Default,,0,0,0,,因为毛孔堵塞 皮脂积累过多而导致的炎症
+Dialogue: 0,0:13:59.02,0:14:01.96,Default,,0,0,0,,皮脂分泌过多时容易引发
+Dialogue: 0,0:14:02.54,0:14:05.34,Default,,0,0,0,,多数会伴随脓液和疼痛
+Dialogue: 0,0:14:05.94,0:14:07.34,Default,,0,0,0,,怎么回事
+Dialogue: 0,0:14:07.34,0:14:08.78,Default,,0,0,0,,谁在闹
+Dialogue: 0,0:14:09.42,0:14:11.15,Default,,0,0,0,,痤疮杆菌来了
+Dialogue: 0,0:14:11.78,0:14:12.80,Default,,0,0,0,,痤疮杆菌
+Dialogue: 0,0:14:13.24,0:14:15.74,Default,,0,0,0,,是引发痤疮的一种常见细菌
+Dialogue: 0,0:14:16.36,0:14:19.96,Default,,0,0,0,,学名为Propionibacterium acnes
+Dialogue: 0,0:14:20.62,0:14:23.43,Default,,0,0,0,,特性是厌氧 喜好皮脂
+Dialogue: 0,0:14:24.90,0:14:28.19,Default,,0,0,0,,该死的白血球 你都干了些什么
+Dialogue: 0,0:14:28.19,0:14:29.02,Default,,0,0,0,,痤疮杆菌
+Dialogue: 0,0:14:29.24,0:14:30.08,Default,,0,0,0,,怎么这么多
+Dialogue: 0,0:14:34.17,0:14:35.53,Default,,0,0,0,,白血球大哥哥
+Dialogue: 0,0:14:35.56,0:14:37.04,Default,,0,0,0,,我也来帮忙
+Dialogue: 0,0:14:38.12,0:14:39.56,Default,,0,0,0,,小伙子 别这样
+Dialogue: 0,0:14:42.86,0:14:43.67,Default,,0,0,0,,大哥哥
+Dialogue: 0,0:14:48.33,0:14:49.18,Default,,0,0,0,,白血球
+Dialogue: 0,0:14:49.18,0:14:50.61,Default,,0,0,0,,小伙子
+Dialogue: 0,0:14:52.19,0:14:54.22,Default,,0,0,0,,你可不是什么救世主
+Dialogue: 0,0:14:54.69,0:14:57.79,Default,,0,0,0,,都给我滚回去工作
+Dialogue: 0,0:15:04.66,0:15:05.29,Default,,0,0,0,,这里是
+Dialogue: 0,0:15:05.47,0:15:06.38,Default,,0,0,0,,你醒了
+Dialogue: 0,0:15:06.71,0:15:08.18,Default,,0,0,0,,刚刚对不起
+Dialogue: 0,0:15:08.32,0:15:09.38,Default,,0,0,0,,都怪我
+Dialogue: 0,0:15:10.08,0:15:13.15,Default,,0,0,0,,不 你并没有做错
+Dialogue: 0,0:15:13.50,0:15:15.27,Default,,0,0,0,,说起来 刚刚那些家伙是
+Dialogue: 0,0:15:17.78,0:15:21.15,Default,,0,0,0,,一开始只是个小问题
+Dialogue: 0,0:15:22.49,0:15:26.19,Default,,0,0,0,,运送皮脂到表皮的管道太脏堵塞住了
+Dialogue: 0,0:15:26.44,0:15:28.96,Default,,0,0,0,,毛孔里的皮脂都溢出来了
+Dialogue: 0,0:15:29.44,0:15:32.46,Default,,0,0,0,,然后就被喜欢皮脂的痤疮杆菌给盯上了
+Dialogue: 0,0:15:32.72,0:15:34.74,Default,,0,0,0,,然后他们越来越强
+Dialogue: 0,0:15:35.00,0:15:37.55,Default,,0,0,0,,回过神来时这里已经被他们占据了
+Dialogue: 0,0:15:38.13,0:15:40.82,Default,,0,0,0,,我们完全沦为了奴隶
+Dialogue: 0,0:15:41.93,0:15:44.54,Default,,0,0,0,,为什么他们增殖了这么多仍然坐视不管
+Dialogue: 0,0:15:45.08,0:15:47.28,Default,,0,0,0,,我的同伴们没来帮助你们吗
+Dialogue: 0,0:15:48.00,0:15:49.18,Default,,0,0,0,,他们来了
+Dialogue: 0,0:15:49.63,0:15:50.10,Default,,0,0,0,,但是
+Dialogue: 0,0:15:50.64,0:15:54.46,Default,,0,0,0,,我们还是只能选择放弃
+Dialogue: 0,0:15:57.42,0:15:58.36,Default,,0,0,0,,看那个
+Dialogue: 0,0:16:00.42,0:16:02.18,Default,,0,0,0,,那是脓液？
+Dialogue: 0,0:16:02.83,0:16:04.71,Default,,0,0,0,,是同胞们的尸体
+Dialogue: 0,0:16:07.33,0:16:10.71,Default,,0,0,0,,他们都和大哥哥一样 是勇敢的战士
+Dialogue: 0,0:16:11.15,0:16:11.90,Default,,0,0,0,,但是
+Dialogue: 0,0:16:13.98,0:16:15.53,Default,,0,0,0,,他们却变成了这样
+Dialogue: 0,0:16:16.38,0:16:21.42,Default,,0,0,0,,这个毛根是我们的家乡 也是重要的职场
+Dialogue: 0,0:16:21.88,0:16:26.46,Default,,0,0,0,,但是从整个身体的角度来看只不过是一个小小的毛孔
+Dialogue: 0,0:16:26.89,0:16:30.64,Default,,0,0,0,,我们还是老老实实认命吧
+Dialogue: 0,0:16:31.12,0:16:33.70,Default,,0,0,0,,孩子 希望你能理解啊
+Dialogue: 0,0:16:34.94,0:16:35.92,Default,,0,0,0,,原来是这样
+Dialogue: 0,0:16:37.17,0:16:41.07,Default,,0,0,0,,我没有白血球那样的勇气
+Dialogue: 0,0:16:48.50,0:16:49.78,Default,,0,0,0,,这里是1146号
+Dialogue: 0,0:16:50.25,0:16:53.05,Default,,0,0,0,,我在报告中的毛孔中发现了痤疮杆菌的巢穴
+Dialogue: 0,0:16:53.66,0:16:55.53,Default,,0,0,0,,请求附近的白血球进行支援
+Dialogue: 0,0:16:55.75,0:16:57.82,Default,,0,0,0,,明白 我们随后就到
+Dialogue: 0,0:16:58.51,0:16:59.44,Default,,0,0,0,,但是
+Dialogue: 0,0:17:00.00,0:17:01.87,Default,,0,0,0,,无论造成的影响有多小
+Dialogue: 0,0:17:02.56,0:17:06.36,Default,,0,0,0,,只要有杂菌在这体内肆虐 我就不能放任不管
+Dialogue: 0,0:17:07.08,0:17:08.11,Default,,0,0,0,,这就是我的…
+Dialogue: 0,0:17:08.99,0:17:10.50,Default,,0,0,0,,我们的工作
+Dialogue: 0,0:17:12.62,0:17:13.83,Default,,0,0,0,,大哥哥
+Dialogue: 0,0:17:16.51,0:17:18.19,Default,,0,0,0,,抽你100鞭
+Dialogue: 0,0:17:19.52,0:17:20.90,Default,,0,0,0,,去死吧
+Dialogue: 0,0:17:24.28,0:17:27.77,Default,,0,0,0,,这不是之前被干掉的白血球吗
+Dialogue: 0,0:17:28.15,0:17:29.77,Default,,0,0,0,,原来你还活着啊
+Dialogue: 0,0:17:29.91,0:17:31.03,Default,,0,0,0,,有意思
+Dialogue: 0,0:17:31.29,0:17:37.58,Default,,0,0,0,,你可以加入本痤疮杆菌王的白血球尸体收藏
+Dialogue: 0,0:17:37.62,0:17:40.53,Default,,0,0,0,,你也给我化成脓液吧
+Dialogue: 0,0:17:40.98,0:17:42.38,Default,,0,0,0,,在那之前我会干掉你
+Dialogue: 0,0:17:52.65,0:17:53.74,Default,,0,0,0,,当心啊
+Dialogue: 0,0:17:54.31,0:17:55.84,Default,,0,0,0,,千万别掉下来啊
+Dialogue: 0,0:17:56.64,0:17:57.97,Default,,0,0,0,,加油 大哥哥
+Dialogue: 0,0:17:59.62,0:18:01.39,Default,,0,0,0,,去死吧
+Dialogue: 0,0:18:05.83,0:18:07.94,Default,,0,0,0,,看我把你压扁
+Dialogue: 0,0:18:10.72,0:18:12.67,Default,,0,0,0,,快看啊 白血球好像能打赢
+Dialogue: 0,0:18:13.33,0:18:14.32,Default,,0,0,0,,奇怪了
+Dialogue: 0,0:18:14.75,0:18:19.85,Default,,0,0,0,,就凭你这肥大的身躯和迟钝的动作怎么能杀死那么多白血球
+Dialogue: 0,0:18:20.63,0:18:22.46,Default,,0,0,0,,你到底用了什么卑鄙的手段
+Dialogue: 0,0:18:22.73,0:18:24.46,Default,,0,0,0,,你这自称痤疮杆菌王的家伙
+Dialogue: 0,0:18:26.81,0:18:30.12,Default,,0,0,0,,接下来你就能领教本王的可怕之处了
+Dialogue: 0,0:18:30.21,0:18:34.46,Default,,0,0,0,,你将会陷入无尽的痛苦之中
+Dialogue: 0,0:18:34.65,0:18:37.38,Default,,0,0,0,,就像你的同伴们一样
+Dialogue: 0,0:18:37.38,0:18:38.01,Default,,0,0,0,,什么
+Dialogue: 0,0:18:45.51,0:18:46.83,Default,,0,0,0,,怎么样
+Dialogue: 0,0:18:46.83,0:18:49.42,Default,,0,0,0,,这就叫地利
+Dialogue: 0,0:18:49.53,0:18:54.17,Default,,0,0,0,,这里的皮脂食粮对于本王来说可是取之无尽
+Dialogue: 0,0:18:54.17,0:18:58.14,Default,,0,0,0,,所以无论是什么程度的损伤都能够恢复
+Dialogue: 0,0:18:58.33,0:18:59.04,Default,,0,0,0,,糟了
+Dialogue: 0,0:18:59.58,0:19:01.86,Default,,0,0,0,,果然还是太勉强了
+Dialogue: 0,0:19:02.12,0:19:06.06,Default,,0,0,0,,他也逃不过化为脓液的命运啊
+Dialogue: 0,0:19:06.62,0:19:07.85,Default,,0,0,0,,放弃吧
+Dialogue: 0,0:19:08.49,0:19:11.32,Default,,0,0,0,,不过是为了一根毛发而已啊
+Dialogue: 0,0:19:16.58,0:19:18.51,Default,,0,0,0,,无论造成的影响有多小
+Dialogue: 0,0:19:19.04,0:19:22.95,Default,,0,0,0,,只要有杂菌在这体内肆虐 我就不能放任不管
+Dialogue: 0,0:19:24.07,0:19:25.59,Default,,0,0,0,,长老
+Dialogue: 0,0:19:27.05,0:19:28.90,Default,,0,0,0,,长老…
+Dialogue: 0,0:19:29.52,0:19:32.10,Default,,0,0,0,,你这笨蛋
+Dialogue: 0,0:19:32.72,0:19:35.15,Default,,0,0,0,,你这孩子 怎么能对长老这样
+Dialogue: 0,0:19:35.70,0:19:37.28,Default,,0,0,0,,大哥哥说过
+Dialogue: 0,0:19:37.68,0:19:40.32,Default,,0,0,0,,无论造成的影响有多小 他都会战斗下去
+Dialogue: 0,0:19:40.75,0:19:43.02,Default,,0,0,0,,因为这是他的工作
+Dialogue: 0,0:19:43.63,0:19:48.33,Default,,0,0,0,,就算只是一根毛发 但是这里也是我们的家园啊
+Dialogue: 0,0:19:49.44,0:19:52.84,Default,,0,0,0,,大哥哥他 还有牺牲了的白血球们
+Dialogue: 0,0:19:53.04,0:19:56.12,Default,,0,0,0,,都一直在为这一根毛发战斗着
+Dialogue: 0,0:19:56.70,0:19:59.72,Default,,0,0,0,,我们有什么理由放弃啊
+Dialogue: 0,0:20:00.03,0:20:01.60,Default,,0,0,0,,孩子
+Dialogue: 0,0:20:03.08,0:20:05.57,Default,,0,0,0,,长老 对不起 但是我…
+Dialogue: 0,0:20:05.57,0:20:06.48,Default,,0,0,0,,长老
+Dialogue: 0,0:20:07.50,0:20:10.38,Default,,0,0,0,,长老 我们的想法和这个孩子是一样的
+Dialogue: 0,0:20:10.87,0:20:14.25,Default,,0,0,0,,现在正是我们奋起反抗的时刻
+Dialogue: 0,0:20:15.24,0:20:16.61,Default,,0,0,0,,你们
+Dialogue: 0,0:20:18.25,0:20:21.37,Default,,0,0,0,,可以啊 居然坚持了这么久
+Dialogue: 0,0:20:21.55,0:20:24.15,Default,,0,0,0,,不过你也差不多到极限了
+Dialogue: 0,0:20:24.15,0:20:25.24,Default,,0,0,0,,去死吧
+Dialogue: 0,0:20:29.90,0:20:32.71,Default,,0,0,0,,是本王完全胜利了
+Dialogue: 0,0:20:32.73,0:20:35.23,Default,,0,0,0,,赶快把他装进我的尸体收藏里
+Dialogue: 0,0:20:37.19,0:20:38.54,Default,,0,0,0,,什么声音
+Dialogue: 0,0:20:47.21,0:20:49.26,Default,,0,0,0,,都给我拼尽全力
+Dialogue: 0,0:20:49.71,0:20:51.78,Default,,0,0,0,,使劲地旋转
+Dialogue: 0,0:20:53.26,0:20:54.60,Default,,0,0,0,,我们的职场
+Dialogue: 0,0:20:54.88,0:20:56.35,Default,,0,0,0,,由我们来守护
+Dialogue: 0,0:20:59.16,0:21:00.29,Default,,0,0,0,,水？
+Dialogue: 0,0:21:00.57,0:21:03.32,Default,,0,0,0,,不 这是…皮脂
+Dialogue: 0,0:21:03.39,0:21:06.64,Default,,0,0,0,,拼尽全力 给我使劲转
+Dialogue: 0,0:21:06.64,0:21:08.28,Default,,0,0,0,,这么喜欢皮脂那干脆全给你
+Dialogue: 0,0:21:09.15,0:21:10.04,Default,,0,0,0,,大哥哥
+Dialogue: 0,0:21:12.30,0:21:13.99,Default,,0,0,0,,我肚子好重啊
+Dialogue: 0,0:21:14.04,0:21:15.98,Default,,0,0,0,,完了 这下要淹死了
+Dialogue: 0,0:21:15.99,0:21:18.38,Default,,0,0,0,,先躲一下吧
+Dialogue: 0,0:21:20.43,0:21:22.92,Default,,0,0,0,,皮脂吃太多了 蠢货
+Dialogue: 0,0:21:31.64,0:21:33.92,Default,,0,0,0,,去死吧 杂菌
+Dialogue: 0,0:21:42.75,0:21:45.56,Default,,0,0,0,,白血球阁下 请原谅我
+Dialogue: 0,0:21:45.65,0:21:46.65,Default,,0,0,0,,大哥哥
+Dialogue: 0,0:21:53.82,0:21:57.63,Default,,0,0,0,,在那之后 我们未能找到白血球的下落
+Dialogue: 0,0:21:57.92,0:21:58.72,Default,,0,0,0,,这样啊
+Dialogue: 0,0:21:59.31,0:22:01.92,Default,,0,0,0,,他到底去了哪里啊
+Dialogue: 0,0:22:07.23,0:22:08.71,Default,,0,0,0,,去那边找找
+Dialogue: 0,0:22:20.77,0:22:22.89,Default,,0,0,0,,我掉进皮脂腺导管里了吗
+Dialogue: 0,0:22:23.44,0:22:25.08,Default,,0,0,0,,身体油光发亮的
+Dialogue: 0,0:22:25.60,0:22:26.63,Default,,0,0,0,,大哥哥
+Dialogue: 0,0:22:31.80,0:22:35.37,Default,,0,0,0,,大哥哥
+Dialogue: 0,0:22:37.62,0:22:41.32,Default,,0,0,0,,谢谢你 你所保护的这一根毛发
+Dialogue: 0,0:22:41.64,0:22:44.28,Default,,0,0,0,,我们会精心地养护好它
+Dialogue: 0,0:22:45.05,0:22:47.75,Default,,0,0,0,,直到它脱落的那一天
+Dialogue: 0,0:22:48.93,0:22:52.70,Default,,0,0,0,,我说啊 你能不能对自己好一点啊
+Dialogue: 0,0:22:53.24,0:22:56.74,Default,,0,0,0,,对自己都不好的人 怎么能对别人好呢
+Dialogue: 0,0:22:57.79,0:22:58.68,Default,,0,0,0,,我会注意的
+Dialogue: 0,0:22:58.99,0:22:59.85,Default,,0,0,0,,谢谢你们
+Dialogue: 0,0:23:03.13,0:23:05.32,Default,,0,0,0,,白血…球
+Dialogue: 0,0:23:08.39,0:23:10.81,Default,,0,0,0,,你换工作了？
+Dialogue: 0,0:23:11.69,0:23:13.64,Default,,0,0,0,,没…这是有原因的
+Dialogue: 0,0:23:15.69,0:23:17.47,Default,,0,0,0,,大哥哥 这个送给你
+Dialogue: 0,0:23:21.50,0:23:23.07,Default,,0,0,0,,这是我的一片心意
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------next----------
+Dialogue: 0,0:23:25.00,0:23:34.76,Default,,0,0,0,,{\pos(190,185)\fn方正综艺_GBK}下集预告
+Dialogue: 0,0:23:25.72,0:23:27.27,Default,,0,0,0,,幽门螺旋杆菌piro piro地叫
+Dialogue: 0,0:23:27.27,0:23:29.52,Default,,0,0,0,,那么nyu nyu地叫的是什么呢？
+Dialogue: 0,0:23:29.52,0:23:30.46,Default,,0,0,0,,新员工
+Dialogue: 0,0:23:30.54,0:23:31.73,Default,,0,0,0,,正确答案是
+Dialogue: 0,0:23:31.97,0:23:33.40,Default,,0,0,0,,请期待下一集
+Dialogue: 0,0:23:33.88,0:23:35.47,Default,,0,0,0,,下集「工作细胞」是
+Dialogue: 0,0:23:35.57,0:23:37.18,Default,,0,0,0,,幽门螺旋杆菌 抗原变异
+Dialogue: 0,0:23:37.83,0:23:39.91,Default,,0,0,0,,每天都要努力工作
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------op----------
+Dialogue: 0,0:01:16.02,0:01:19.02,OP-JP,,0,0,0,,Wow Wow Wow Wow
+Dialogue: 0,0:01:19.02,0:01:21.32,OP-JP,,0,0,0,,にゅ♪にゅ♪にゅ♪にゅ♪
+Dialogue: 0,0:01:21.32,0:01:24.05,OP-JP,,0,0,0,,Wow Wow Wow Wow
+Dialogue: 0,0:01:25.16,0:01:26.43,OP-JP,,0,0,0,,Fuーーー！
+Dialogue: 0,0:01:26.80,0:01:31.69,OP-JP,,0,0,0,,どんな毎日も　スタート切ったなら
+Dialogue: 0,0:01:31.69,0:01:34.63,OP-JP,,0,0,0,,てきぱきぱたぱた　ただ走るだけさ
+Dialogue: 0,0:01:37.00,0:01:42.03,OP-JP,,0,0,0,,災難から帰還　最高の成果は
+Dialogue: 0,0:01:42.03,0:01:45.77,OP-JP,,0,0,0,,ボロボロ汚れたまんま一息　ティータイム
+Dialogue: 0,0:01:46.22,0:01:51.52,OP-JP,,0,0,0,,お疲れさまを　繰り返して
+Dialogue: 0,0:01:51.69,0:01:57.58,OP-JP,,0,0,0,,また偶然君に　会いたい
+Dialogue: 0,0:01:57.58,0:01:59.74,OP-JP,,0,0,0,,「もっと強くなるから……」
+Dialogue: 0,0:02:00.81,0:02:07.70,OP-JP,,0,0,0,,きょうも！何があったって　はたらくんだって
+Dialogue: 0,0:02:07.70,0:02:10.35,OP-JP,,0,0,0,,みんなでそう！がんばれそう！
+Dialogue: 0,0:02:10.36,0:02:12.95,OP-JP,,0,0,0,,明日の平和　断固　厳守
+Dialogue: 0,0:02:13.00,0:02:17.99,OP-JP,,0,0,0,,信じた道　突き進んでいけ
+Dialogue: 0,0:02:18.15,0:02:20.68,OP-JP,,0,0,0,,ひとりじゃない！死なせはしない！
+Dialogue: 0,0:02:20.78,0:02:23.54,OP-JP,,0,0,0,,ミラクル集団　Cells at Work
+Dialogue: 0,0:02:23.54,0:02:26.28,OP-JP,,0,0,0,,みんな違って　ひとつの仕事
+Dialogue: 0,0:02:26.28,0:02:28.71,OP-JP,,0,0,0,,みんな集まって　ひとつの仕事
+Dialogue: 0,0:02:28.71,0:02:34.23,OP-JP,,0,0,0,,細胞フェスタ　はたらく細胞
+Dialogue: 0,0:02:34.23,0:02:36.82,OP-JP,,0,0,0,,GO GO GO　さぁいこう！
+Dialogue: 0,0:02:36.82,0:02:39.74,OP-JP,,0,0,0,,GO GO GO　さぁいこう！
+Dialogue: 0,0:01:26.80,0:01:31.69,OP-CHS,,0,0,0,,无论是什么日子  只要听到了开始的号角
+Dialogue: 0,0:01:31.69,0:01:34.63,OP-CHS,,0,0,0,,只管迈起双腿  不断奔跑
+Dialogue: 0,0:01:37.00,0:01:42.03,OP-CHS,,0,0,0,,从灾难中归来  最好的犒劳便是
+Dialogue: 0,0:01:42.03,0:01:45.77,OP-CHS,,0,0,0,,筋疲力尽后的一杯下午茶
+Dialogue: 0,0:01:46.22,0:01:51.52,OP-CHS,,0,0,0,,一遍又一遍  互道着「辛苦你了」
+Dialogue: 0,0:01:51.69,0:01:57.58,OP-CHS,,0,0,0,,希望能偶然与你再次相遇
+Dialogue: 0,0:01:57.58,0:01:59.74,OP-CHS,,0,0,0,,「我一定会更强的！」
+Dialogue: 0,0:02:00.81,0:02:07.70,OP-CHS,,0,0,0,,今天也要  无论发生什么  我们都坚持工作
+Dialogue: 0,0:02:07.70,0:02:10.35,OP-CHS,,0,0,0,,大家都是这样  一起加油工作
+Dialogue: 0,0:02:10.36,0:02:12.95,OP-CHS,,0,0,0,,为了守护明天的和平
+Dialogue: 0,0:02:13.00,0:02:17.99,OP-CHS,,0,0,0,,朝着心中的信念  勇往直前
+Dialogue: 0,0:02:18.15,0:02:20.68,OP-CHS,,0,0,0,,你不孤单  我们不会见死不救
+Dialogue: 0,0:02:20.78,0:02:23.54,OP-CHS,,0,0,0,,奇迹团队  工作细胞
+Dialogue: 0,0:02:23.54,0:02:26.28,OP-CHS,,0,0,0,,我们各有所别  但是工作一致
+Dialogue: 0,0:02:26.28,0:02:28.71,OP-CHS,,0,0,0,,我们齐心协力  一起完成工作
+Dialogue: 0,0:02:28.71,0:02:34.23,OP-CHS,,0,0,0,,细胞庆典  工作细胞
+Dialogue: 0,0:02:34.23,0:02:36.82,OP-CHS,,0,0,8,,{\fnFOT-PopHappiness Std EB\fs42}GO GO GO{\r}  超棒
+Dialogue: 0,0:02:36.82,0:02:39.74,OP-CHS,,0,0,8,,{\fnFOT-PopHappiness Std EB\fs42}GO GO GO{\r}  超棒
