@@ -1,0 +1,2189 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Ai no Utagoe wo Kikasete [Movie][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei 65S,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,20,20,12,1
+Style: IN-JP,FOT-NewRodin ProN UB,65,&H0001FFFF,&H000000FF,&H00ECB000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,14,1
+Style: IN-CH,FZLanTingHei-H-GBK,68,&H0001FFFF,&H000000FF,&H00ECB000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,2,20,20,66,1
+Style: Scr,HYQiHei 65S,49,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,27,1
+Style: ED-JP,FOT-TelopMin ProN B,60,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
+Style: ED-CH,HYXuanSong 65S,55,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,15,1
+Style: Dial-CH,HYQiHei 65S,88,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,20,20,50,1
+Style: Dial-JP,FOT-NewCezanne ProN DB,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,20,20,4,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:02:23.37,0:02:29.38,Scr,,0,0,0,,{\an8\pos(960,27)\fnFZLanTingHei-H-GBK\c&HEBAF00&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,0:02:23.37,0:02:29.38,Scr,,0,0,0,,{\an8\pos(960,302)\fnFZLanTingHei-H-GBK\c&HEBAF00&\fs84}让我聆听爱的歌声
+Dialogue: 0,0:02:23.37,0:02:29.38,Scr,,0,0,0,,{\an8\pos(996,268.571)\fnFZLanTingHei-H-GBK\fscy90\c&HEBAF00&\fs44}AI
+Dialogue: 0,1:43:38.11,1:43:43.03,Scr,,0,0,0,,{\an8\pos(960,27)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.03,1:43:43.07,Scr,,0,0,0,,{\an8\pos(960,26.74)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.07,1:43:43.11,Scr,,0,0,0,,{\an8\pos(960,25.95)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.11,1:43:43.15,Scr,,0,0,0,,{\an8\pos(960,24.63)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.15,1:43:43.20,Scr,,0,0,0,,{\an8\pos(960,22.84)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.20,1:43:43.24,Scr,,0,0,0,,{\an8\pos(960,20.62)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.24,1:43:43.28,Scr,,0,0,0,,{\an8\pos(960,17.96)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.28,1:43:43.32,Scr,,0,0,0,,{\an8\pos(960,14.94)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.32,1:43:43.36,Scr,,0,0,0,,{\an8\pos(960,11.46)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.36,1:43:43.40,Scr,,0,0,0,,{\an8\pos(960,7.7)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.40,1:43:43.45,Scr,,0,0,0,,{\an8\pos(960,3.64)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.45,1:43:43.49,Scr,,0,0,0,,{\an8\pos(960,-0.79)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.49,1:43:43.53,Scr,,0,0,0,,{\an8\pos(960,-5.37)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.53,1:43:43.57,Scr,,0,0,0,,{\an8\pos(960,-10.34)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.57,1:43:43.61,Scr,,0,0,0,,{\an8\pos(960,-15.44)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.61,1:43:43.66,Scr,,0,0,0,,{\an8\pos(960,-20.8)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.66,1:43:43.70,Scr,,0,0,0,,{\an8\pos(960,-26.26)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.70,1:43:43.74,Scr,,0,0,0,,{\an8\pos(960,-31.86)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.74,1:43:43.78,Scr,,0,0,0,,{\an8\pos(960,-37.61)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.78,1:43:43.82,Scr,,0,0,0,,{\an8\pos(960,-43.42)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.82,1:43:43.86,Scr,,0,0,0,,{\an8\pos(960,-49.33)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:43.86,1:43:43.91,Scr,,0,0,0,,{\an8\pos(960,-55.25)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs54}字幕制作：喵萌奶茶屋　翻译：番茄鸡  红黑剑士盖亚　校对·时轴：Ronny　后期：MIR
+Dialogue: 0,1:43:38.11,1:43:43.03,Scr,,0,0,0,,{\an8\pos(960,302)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.03,1:43:43.07,Scr,,0,0,0,,{\an8\pos(960,301.74)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.07,1:43:43.11,Scr,,0,0,0,,{\an8\pos(960,300.95)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.11,1:43:43.15,Scr,,0,0,0,,{\an8\pos(960,299.63)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.15,1:43:43.20,Scr,,0,0,0,,{\an8\pos(960,297.84)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.20,1:43:43.24,Scr,,0,0,0,,{\an8\pos(960,295.62)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.24,1:43:43.28,Scr,,0,0,0,,{\an8\pos(960,292.96)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.28,1:43:43.32,Scr,,0,0,0,,{\an8\pos(960,289.94)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.32,1:43:43.36,Scr,,0,0,0,,{\an8\pos(960,286.46)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.36,1:43:43.40,Scr,,0,0,0,,{\an8\pos(960,282.7)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.40,1:43:43.45,Scr,,0,0,0,,{\an8\pos(960,278.64)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.45,1:43:43.49,Scr,,0,0,0,,{\an8\pos(960,274.21)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.49,1:43:43.53,Scr,,0,0,0,,{\an8\pos(960,269.63)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.53,1:43:43.57,Scr,,0,0,0,,{\an8\pos(960,264.66)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.57,1:43:43.61,Scr,,0,0,0,,{\an8\pos(960,259.56)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.61,1:43:43.66,Scr,,0,0,0,,{\an8\pos(960,254.2)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.66,1:43:43.70,Scr,,0,0,0,,{\an8\pos(960,248.74)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.70,1:43:43.74,Scr,,0,0,0,,{\an8\pos(960,243.14)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.74,1:43:43.78,Scr,,0,0,0,,{\an8\pos(960,237.39)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.78,1:43:43.82,Scr,,0,0,0,,{\an8\pos(960,231.58)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.82,1:43:43.86,Scr,,0,0,0,,{\an8\pos(960,225.67)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.86,1:43:43.91,Scr,,0,0,0,,{\an8\pos(960,219.75)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.91,1:43:43.95,Scr,,0,0,0,,{\an8\pos(960,213.81)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.95,1:43:43.99,Scr,,0,0,0,,{\an8\pos(960,207.87)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:43.99,1:43:44.03,Scr,,0,0,0,,{\an8\pos(960,202)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.03,1:43:44.07,Scr,,0,0,0,,{\an8\pos(960,196.12)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.07,1:43:44.11,Scr,,0,0,0,,{\an8\pos(960,190.25)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.11,1:43:44.16,Scr,,0,0,0,,{\an8\pos(960,184.4)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.16,1:43:44.20,Scr,,0,0,0,,{\an8\pos(960,178.5)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.20,1:43:44.24,Scr,,0,0,0,,{\an8\pos(960,172.66)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.24,1:43:44.28,Scr,,0,0,0,,{\an8\pos(960,166.79)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.28,1:43:44.32,Scr,,0,0,0,,{\an8\pos(960,160.92)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.32,1:43:44.36,Scr,,0,0,0,,{\an8\pos(960,155.04)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.36,1:43:44.41,Scr,,0,0,0,,{\an8\pos(960,149.2)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.41,1:43:44.45,Scr,,0,0,0,,{\an8\pos(960,143.3)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.45,1:43:44.49,Scr,,0,0,0,,{\an8\pos(960,137.49)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.49,1:43:44.53,Scr,,0,0,0,,{\an8\pos(960,131.56)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.53,1:43:44.57,Scr,,0,0,0,,{\an8\pos(960,125.74)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.57,1:43:44.61,Scr,,0,0,0,,{\an8\pos(960,119.82)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.61,1:43:44.66,Scr,,0,0,0,,{\an8\pos(960,114)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.66,1:43:44.70,Scr,,0,0,0,,{\an8\pos(960,108.11)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.70,1:43:44.74,Scr,,0,0,0,,{\an8\pos(960,102.26)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.74,1:43:44.78,Scr,,0,0,0,,{\an8\pos(960,96.37)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.78,1:43:44.82,Scr,,0,0,0,,{\an8\pos(960,90.51)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.82,1:43:44.86,Scr,,0,0,0,,{\an8\pos(960,84.64)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.86,1:43:44.91,Scr,,0,0,0,,{\an8\pos(960,78.77)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.91,1:43:44.95,Scr,,0,0,0,,{\an8\pos(960,72.92)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.95,1:43:44.99,Scr,,0,0,0,,{\an8\pos(960,67.02)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:44.99,1:43:45.03,Scr,,0,0,0,,{\an8\pos(960,61.17)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.03,1:43:45.07,Scr,,0,0,0,,{\an8\pos(960,55.3)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.07,1:43:45.11,Scr,,0,0,0,,{\an8\pos(960,49.44)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.11,1:43:45.16,Scr,,0,0,0,,{\an8\pos(960,43.55)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.16,1:43:45.20,Scr,,0,0,0,,{\an8\pos(960,37.71)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.20,1:43:45.24,Scr,,0,0,0,,{\an8\pos(960,31.82)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.24,1:43:45.28,Scr,,0,0,0,,{\an8\pos(960,25.99)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.28,1:43:45.32,Scr,,0,0,0,,{\an8\pos(960,20.08)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.32,1:43:45.37,Scr,,0,0,0,,{\an8\pos(960,14.24)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.37,1:43:45.41,Scr,,0,0,0,,{\an8\pos(960,8.36)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.41,1:43:45.45,Scr,,0,0,0,,{\an8\pos(960,2.5)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.45,1:43:45.49,Scr,,0,0,0,,{\an8\pos(960,-3.39)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.49,1:43:45.53,Scr,,0,0,0,,{\an8\pos(960,-9.21)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.53,1:43:45.57,Scr,,0,0,0,,{\an8\pos(960,-15.13)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.57,1:43:45.62,Scr,,0,0,0,,{\an8\pos(960,-20.96)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.62,1:43:45.66,Scr,,0,0,0,,{\an8\pos(960,-26.84)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.66,1:43:45.70,Scr,,0,0,0,,{\an8\pos(960,-32.7)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.70,1:43:45.74,Scr,,0,0,0,,{\an8\pos(960,-38.56)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.74,1:43:45.78,Scr,,0,0,0,,{\an8\pos(960,-44.45)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.78,1:43:45.82,Scr,,0,0,0,,{\an8\pos(960,-50.3)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.82,1:43:45.87,Scr,,0,0,0,,{\an8\pos(960,-56.18)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.87,1:43:45.91,Scr,,0,0,0,,{\an8\pos(960,-62.04)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:45.91,1:43:45.95,Scr,,0,0,0,,{\an8\pos(960,-67.92)\fnFZLanTingHei-H-GBK\c&H00F0FF&\fs84}让我聆听爱的歌声
+Dialogue: 0,1:43:38.11,1:43:43.03,Scr,,0,0,0,,{\an8\pos(996,268.57)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.03,1:43:43.07,Scr,,0,0,0,,{\an8\pos(996,268.31)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.07,1:43:43.11,Scr,,0,0,0,,{\an8\pos(996,267.52)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.11,1:43:43.15,Scr,,0,0,0,,{\an8\pos(996,266.2)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.15,1:43:43.20,Scr,,0,0,0,,{\an8\pos(996,264.42)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.20,1:43:43.24,Scr,,0,0,0,,{\an8\pos(996,262.19)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.24,1:43:43.28,Scr,,0,0,0,,{\an8\pos(996,259.53)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.28,1:43:43.32,Scr,,0,0,0,,{\an8\pos(996,256.51)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.32,1:43:43.36,Scr,,0,0,0,,{\an8\pos(996,253.03)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.36,1:43:43.40,Scr,,0,0,0,,{\an8\pos(996,249.27)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.40,1:43:43.45,Scr,,0,0,0,,{\an8\pos(996,245.21)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.45,1:43:43.49,Scr,,0,0,0,,{\an8\pos(996,240.78)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.49,1:43:43.53,Scr,,0,0,0,,{\an8\pos(996,236.2)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.53,1:43:43.57,Scr,,0,0,0,,{\an8\pos(996,231.23)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.57,1:43:43.61,Scr,,0,0,0,,{\an8\pos(996,226.13)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.61,1:43:43.66,Scr,,0,0,0,,{\an8\pos(996,220.77)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.66,1:43:43.70,Scr,,0,0,0,,{\an8\pos(996,215.31)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.70,1:43:43.74,Scr,,0,0,0,,{\an8\pos(996,209.71)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.74,1:43:43.78,Scr,,0,0,0,,{\an8\pos(996,203.96)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.78,1:43:43.82,Scr,,0,0,0,,{\an8\pos(996,198.15)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.82,1:43:43.86,Scr,,0,0,0,,{\an8\pos(996,192.24)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.86,1:43:43.91,Scr,,0,0,0,,{\an8\pos(996,186.32)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.91,1:43:43.95,Scr,,0,0,0,,{\an8\pos(996,180.38)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.95,1:43:43.99,Scr,,0,0,0,,{\an8\pos(996,174.45)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:43.99,1:43:44.03,Scr,,0,0,0,,{\an8\pos(996,168.57)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.03,1:43:44.07,Scr,,0,0,0,,{\an8\pos(996,162.7)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.07,1:43:44.11,Scr,,0,0,0,,{\an8\pos(996,156.82)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.11,1:43:44.16,Scr,,0,0,0,,{\an8\pos(996,150.97)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.16,1:43:44.20,Scr,,0,0,0,,{\an8\pos(996,145.07)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.20,1:43:44.24,Scr,,0,0,0,,{\an8\pos(996,139.23)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.24,1:43:44.28,Scr,,0,0,0,,{\an8\pos(996,133.36)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.28,1:43:44.32,Scr,,0,0,0,,{\an8\pos(996,127.49)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.32,1:43:44.36,Scr,,0,0,0,,{\an8\pos(996,121.61)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.36,1:43:44.41,Scr,,0,0,0,,{\an8\pos(996,115.77)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.41,1:43:44.45,Scr,,0,0,0,,{\an8\pos(996,109.88)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.45,1:43:44.49,Scr,,0,0,0,,{\an8\pos(996,104.06)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.49,1:43:44.53,Scr,,0,0,0,,{\an8\pos(996,98.13)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.53,1:43:44.57,Scr,,0,0,0,,{\an8\pos(996,92.31)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.57,1:43:44.61,Scr,,0,0,0,,{\an8\pos(996,86.39)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.61,1:43:44.66,Scr,,0,0,0,,{\an8\pos(996,80.57)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.66,1:43:44.70,Scr,,0,0,0,,{\an8\pos(996,74.68)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.70,1:43:44.74,Scr,,0,0,0,,{\an8\pos(996,68.83)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.74,1:43:44.78,Scr,,0,0,0,,{\an8\pos(996,62.94)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.78,1:43:44.82,Scr,,0,0,0,,{\an8\pos(996,57.08)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.82,1:43:44.86,Scr,,0,0,0,,{\an8\pos(996,51.21)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.86,1:43:44.91,Scr,,0,0,0,,{\an8\pos(996,45.34)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.91,1:43:44.95,Scr,,0,0,0,,{\an8\pos(996,39.49)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.95,1:43:44.99,Scr,,0,0,0,,{\an8\pos(996,33.6)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:44.99,1:43:45.03,Scr,,0,0,0,,{\an8\pos(996,27.74)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.03,1:43:45.07,Scr,,0,0,0,,{\an8\pos(996,21.87)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.07,1:43:45.11,Scr,,0,0,0,,{\an8\pos(996,16.01)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.11,1:43:45.16,Scr,,0,0,0,,{\an8\pos(996,10.12)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.16,1:43:45.20,Scr,,0,0,0,,{\an8\pos(996,4.28)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.20,1:43:45.24,Scr,,0,0,0,,{\an8\pos(996,-1.61)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.24,1:43:45.28,Scr,,0,0,0,,{\an8\pos(996,-7.44)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.28,1:43:45.32,Scr,,0,0,0,,{\an8\pos(996,-13.35)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.32,1:43:45.37,Scr,,0,0,0,,{\an8\pos(996,-19.19)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.37,1:43:45.41,Scr,,0,0,0,,{\an8\pos(996,-25.07)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Dialogue: 0,1:43:45.41,1:43:45.45,Scr,,0,0,0,,{\an8\pos(996,-30.93)\fnFZLanTingHei-H-GBK\fscy90\c&H00F0FF&\fs44}AI
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:01:24.02,0:01:25.94,Default,,0,0,0,,只要这次试验能取得成功
+Dialogue: 0,0:01:26.23,0:01:28.48,Default,,0,0,0,,诗音必将成为名垂青史的AI
+Dialogue: 0,0:01:31.74,0:01:34.41,Default,,0,0,0,,但这是打AI管制法的擦边球
+Dialogue: 0,0:01:34.41,0:01:35.41,Default,,0,0,0,,要是暴露了的话…
+Dialogue: 0,0:01:35.41,0:01:37.37,Default,,0,0,0,,「诗音计划」就等同于失败了
+Dialogue: 0,0:01:37.83,0:01:41.87,Default,,0,0,0,,毕竟我们的目标是做出能与人类对话 共存的AI
+Dialogue: 0,0:01:41.87,0:01:44.29,Default,,0,0,0,,不过 要不是为了这个试验
+Dialogue: 0,0:01:44.29,0:01:46.25,Default,,0,0,0,,我们也不会把她做得这么像人
+Dialogue: 0,0:01:50.55,0:01:52.26,Default,,0,0,0,,我会承担所有责任
+Dialogue: 0,0:01:52.51,0:01:53.72,Default,,0,0,0,,转学手续怎么样了
+Dialogue: 0,0:01:54.26,0:01:55.26,Default,,0,0,0,,办完了
+Dialogue: 0,0:01:55.51,0:01:57.39,Default,,0,0,0,,景部高中 二年级三班
+Dialogue: 0,0:02:00.43,0:02:02.31,Default,,0,0,0,,这样啊 还偏偏是…
+Dialogue: 0,0:02:03.14,0:02:04.10,Default,,0,0,0,,天野课长？
+Dialogue: 0,0:02:04.10,0:02:06.48,Default,,0,0,0,,行吧 试验时间为五天
+Dialogue: 0,0:02:06.77,0:02:09.19,Default,,0,0,0,,只要在这期间诗音的身份没有暴露
+Dialogue: 0,0:02:09.86,0:02:11.19,Default,,0,0,0,,就是我们赢了
+Dialogue: 0,0:02:11.86,0:02:13.57,Default,,0,0,0,,我可不管了哦
+Dialogue: 0,0:02:40.93,0:02:42.73,Default,,0,0,0,,早上好 悟美
+Dialogue: 0,0:02:42.73,0:02:44.81,Default,,0,0,0,,早上好 把窗帘打开吧
+Dialogue: 0,0:02:45.02,0:02:46.15,Default,,0,0,0,,外面的气温如何
+Dialogue: 0,0:02:46.52,0:02:49.44,Default,,0,0,0,,气温19摄氏度 湿度48%
+Dialogue: 0,0:02:49.44,0:02:50.73,Default,,0,0,0,,需要开窗吗
+Dialogue: 0,0:02:50.73,0:02:52.36,Default,,0,0,0,,等我换好衣服再开吧
+Dialogue: 0,0:02:59.53,0:03:01.58,Default,,0,0,0,,妈妈几点到家的啊
+Dialogue: 0,0:03:01.58,0:03:03.54,Default,,0,0,0,,凌晨3点13分
+Dialogue: 0,0:03:05.71,0:03:06.75,Default,,0,0,0,,帮我打开窗帘
+Dialogue: 0,0:03:07.46,0:03:09.46,Default,,0,0,0,,妈妈昨天也是后半夜才回
+Dialogue: 0,0:03:09.96,0:03:12.46,Default,,0,0,0,,肯定很累 所以饭要煲软一点哦
+Dialogue: 0,0:03:12.76,0:03:14.47,Default,,0,0,0,,水 210cc
+Dialogue: 0,0:03:14.67,0:03:15.97,Default,,0,0,0,,蒸煮时间 15分钟
+Dialogue: 0,0:03:15.97,0:03:17.01,Default,,0,0,0,,可以吗
+Dialogue: 0,0:03:17.01,0:03:17.76,Default,,0,0,0,,拜托啦
+Dialogue: 0,0:03:21.72,0:03:23.18,Default,,0,0,0,,差不多要下锅了
+Dialogue: 0,0:03:28.77,0:03:30.52,Default,,0,0,0,,妈妈今天的工作安排是？
+Dialogue: 0,0:03:31.44,0:03:33.19,Default,,0,0,0,,satomi1231
+Dialogue: 0,0:03:37.49,0:03:39.41,Default,,0,0,0,,AI实地试验…
+Dialogue: 0,0:03:40.37,0:03:41.28,Default,,0,0,0,,AI…
+Dialogue: 0,0:03:43.08,0:03:44.08,Default,,0,0,0,,机器人？
+Dialogue: 0,0:03:46.50,0:03:47.21,Default,,0,0,0,,关掉屏幕
+Dialogue: 0,0:03:48.92,0:03:50.79,Default,,0,0,0,,早啊 悟美
+Dialogue: 0,0:03:50.79,0:03:52.09,Default,,0,0,0,,早上好 妈妈
+Dialogue: 0,0:03:53.00,0:03:57.22,Default,,0,0,0,,上个月的生活花费 比去年同月少了2%
+Dialogue: 0,0:03:57.47,0:03:58.22,Default,,0,0,0,,少了吗
+Dialogue: 0,0:03:58.22,0:03:59.68,Default,,0,0,0,,换了家供水公司
+Dialogue: 0,0:03:59.68,0:04:01.14,Default,,0,0,0,,加上我下功夫挑选了食材
+Dialogue: 0,0:04:01.14,0:04:02.26,Default,,0,0,0,,还有卖电收入
+Dialogue: 0,0:04:02.26,0:04:03.14,Default,,0,0,0,,真棒
+Dialogue: 0,0:04:03.72,0:04:05.89,Default,,0,0,0,,这周的缴税请求有两则
+Dialogue: 0,0:04:05.89,0:04:07.23,Default,,0,0,0,,OK 这边我来搞定
+Dialogue: 0,0:04:07.43,0:04:08.81,Default,,0,0,0,,奶奶的生日呢
+Dialogue: 0,0:04:08.81,0:04:10.23,Default,,0,0,0,,礼物已经准备好了
+Dialogue: 0,0:04:10.23,0:04:11.73,Default,,0,0,0,,丰琳堂的花林糖
+Dialogue: 0,0:04:11.98,0:04:13.52,Default,,0,0,0,,再附上一封信 可以吗
+Dialogue: 0,0:04:13.52,0:04:14.82,Default,,0,0,0,,嗯 要亲笔写哦
+Dialogue: 0,0:04:14.82,0:04:15.73,Default,,0,0,0,,还有别的吗
+Dialogue: 0,0:04:17.53,0:04:19.49,Default,,0,0,0,,今天16度哦 这个拿好
+Dialogue: 0,0:04:19.49,0:04:20.57,Default,,0,0,0,,明明都夏天了？
+Dialogue: 0,0:04:20.57,0:04:22.07,Default,,0,0,0,,这是半夜12点的气温预报
+Dialogue: 0,0:04:23.91,0:04:25.83,Default,,0,0,0,,抱歉 今天也会晚归
+Dialogue: 0,0:04:25.83,0:04:27.58,Default,,0,0,0,,工作辛苦了
+Dialogue: 0,0:04:30.04,0:04:32.46,Default,,0,0,0,,悟美 今天在学校会…
+Dialogue: 0,0:04:32.71,0:04:33.34,Default,,0,0,0,,怎么了
+Dialogue: 0,0:04:34.71,0:04:35.63,Default,,0,0,0,,没事
+Dialogue: 0,0:04:36.13,0:04:38.84,Default,,0,0,0,,今天也要 元气满满地 加油 哦
+Dialogue: 0,0:04:39.01,0:04:39.80,Default,,0,0,0,,我出门了
+Dialogue: 0,0:04:39.80,0:04:40.63,Default,,0,0,0,,一路平安
+Dialogue: 0,0:04:40.63,0:04:42.51,Default,,0,0,0,,祝您一路平安 美津子
+Dialogue: 0,0:04:44.18,0:04:45.89,Default,,0,0,0,,祝您一路平安 悟美
+Dialogue: 0,0:04:46.43,0:04:47.73,Default,,0,0,0,,为您锁门
+Dialogue: 0,0:05:32.14,0:05:32.81,Default,,0,0,0,,Hoshima
+Dialogue: 0,0:05:34.48,0:05:37.19,Default,,0,0,0,,未来 竟然就在身边
+Dialogue: 0,0:05:38.65,0:05:42.49,Default,,0,0,0,,在这座景部市里 我们星间电子
+Dialogue: 0,0:05:42.65,0:05:46.33,Default,,0,0,0,,正在实验搭载着最新型AI功能的电子设备
+Dialogue: 0,0:05:47.53,0:05:49.91,Default,,0,0,0,,让生活更舒适
+Dialogue: 0,0:05:50.33,0:05:52.58,Default,,0,0,0,,让社会更安全
+Dialogue: 0,0:05:53.42,0:05:56.25,Default,,0,0,0,,理想中的未来 已经拉开帷幕
+Dialogue: 0,0:05:57.88,0:06:00.67,Default,,0,0,0,,未来 竟然就在身边
+Dialogue: 0,0:06:01.63,0:06:03.76,Default,,0,0,0,,而实现它的 是我们
+Dialogue: 0,0:06:04.51,0:06:05.18,Default,,0,0,0,,等一下
+Dialogue: 0,0:06:05.18,0:06:06.26,Default,,0,0,0,,我要上车
+Dialogue: 0,0:06:04.51,0:06:06.26,Default,,0,800,0,,星间电子…
+Dialogue: 0,0:06:08.18,0:06:08.81,Default,,0,0,0,,抱歉
+Dialogue: 0,0:06:11.02,0:06:12.27,Default,,0,0,0,,我也不是故意的
+Dialogue: 0,0:06:12.52,0:06:13.85,Default,,0,0,0,,可别打小报告哦
+Dialogue: 0,0:06:16.48,0:06:18.77,Default,,0,0,0,,即将发车 请扶好站稳
+Dialogue: 0,0:06:35.83,0:06:37.29,Default,,0,0,0,,现在是八点整
+Dialogue: 0,0:06:37.58,0:06:40.80,Default,,0,0,0,,从今日起 出勤率APP将会更新
+Dialogue: 0,0:06:41.38,0:06:45.93,Default,,0,0,0,,请各位学生从景部高中专用APP上下载
+Dialogue: 0,0:06:46.51,0:06:47.68,Default,,0,0,0,,三太夫 你还好吗
+Dialogue: 0,0:06:47.68,0:06:49.26,Default,,0,0,0,,又要修理啊
+Dialogue: 0,0:06:55.35,0:06:57.94,Default,,0,0,0,,十真老师 又在看悟美吗
+Dialogue: 0,0:06:58.27,0:07:00.73,Default,,0,0,0,,不不 因为这是星间的安保监控
+Dialogue: 0,0:07:00.73,0:07:02.40,Default,,0,0,0,,黑进去的话 能学到不少代码
+Dialogue: 0,0:07:02.40,0:07:04.11,Default,,0,0,0,,好好好 学习是吧
+Dialogue: 0,0:07:04.11,0:07:06.11,Default,,0,0,0,,不过也真亏你能黑进去啊
+Dialogue: 0,0:07:06.11,0:07:08.87,Default,,0,0,0,,这种试验机不应该防火墙很厚吗
+Dialogue: 0,0:07:08.87,0:07:10.08,Default,,0,0,0,,你是天才吧 某种程度上
+Dialogue: 0,0:07:10.49,0:07:11.62,Default,,0,0,0,,某种程度上…
+Dialogue: 0,0:07:11.62,0:07:12.37,Default,,0,0,0,,别在意
+Dialogue: 0,0:07:12.66,0:07:14.54,Default,,0,0,0,,给这位天才一点小礼物
+Dialogue: 0,0:07:17.00,0:07:18.13,Default,,0,0,0,,阿石 这个是…
+Dialogue: 0,0:07:18.13,0:07:19.88,Default,,0,0,0,,我从我爸的包里借来的
+Dialogue: 0,0:07:22.05,0:07:24.84,Default,,0,0,0,,关于宇宙空间内电子数据的实际运用
+Dialogue: 0,0:07:24.84,0:07:26.34,Default,,0,0,0,,实验卫星「月影」
+Dialogue: 0,0:07:26.34,0:07:27.97,Default,,0,0,0,,这什么啊 要在太空设置服务器吗
+Dialogue: 0,0:07:27.97,0:07:29.01,Default,,0,0,0,,辐射怎么处理啊
+Dialogue: 0,0:07:29.01,0:07:29.85,Default,,0,0,0,,热真空？
+Dialogue: 0,0:07:32.26,0:07:33.56,Default,,0,0,0,,绫 阿后在那
+Dialogue: 0,0:07:34.10,0:07:35.39,Default,,0,0,0,,又换车了吗
+Dialogue: 0,0:07:35.39,0:07:36.94,Default,,0,0,0,,好厉害哦 这不会倒啊
+Dialogue: 0,0:07:36.94,0:07:37.85,Default,,0,0,0,,暂时不想理他
+Dialogue: 0,0:07:37.98,0:07:39.48,Default,,0,0,0,,从星间那边借的吗
+Dialogue: 0,0:07:40.69,0:07:41.90,Default,,0,0,0,,你怎么了 阿后
+Dialogue: 0,0:07:41.90,0:07:43.11,Default,,0,0,0,,没事
+Dialogue: 0,0:07:47.91,0:07:49.62,Default,,0,0,0,,喂 那边没有垃圾哦
+Dialogue: 0,0:07:50.70,0:07:52.12,Default,,0,0,0,,这玩意真蠢
+Dialogue: 0,0:07:52.28,0:07:53.12,Default,,0,0,0,,BUG了
+Dialogue: 0,0:07:53.12,0:07:54.12,Default,,0,0,0,,你们在干嘛啊
+Dialogue: 0,0:07:59.58,0:08:01.08,Default,,0,0,0,,真不愧是优等生
+Dialogue: 0,0:08:01.08,0:08:02.84,Default,,0,0,0,,辛苦你又赚到点数啦
+Dialogue: 0,0:08:07.47,0:08:09.01,Default,,0,0,0,,好了 你去吧
+Dialogue: 0,0:08:21.06,0:08:22.31,Default,,0,0,0,,可爱爆了是不是
+Dialogue: 0,0:08:27.19,0:08:28.36,Default,,0,0,0,,真的…
+Dialogue: 0,0:08:30.11,0:08:31.62,Default,,0,0,0,,好
+Dialogue: 0,0:08:32.07,0:08:35.37,Default,,0,0,0,,这位就是今天转学来的芦森诗音同学
+Dialogue: 0,0:08:36.58,0:08:37.87,Default,,0,0,0,,做个自我介绍吧
+Dialogue: 0,0:08:46.34,0:08:46.92,Default,,0,0,0,,怎么了
+Dialogue: 0,0:08:50.68,0:08:51.51,Default,,0,0,0,,芦森？
+Dialogue: 0,0:08:58.06,0:08:58.77,Default,,0,0,0,,悟美
+Dialogue: 0,0:08:59.10,0:09:00.64,Default,,0,0,0,,你现在 幸福吗
+Dialogue: 0,0:09:01.94,0:09:03.36,Default,,0,0,0,,天野 你们认识吗
+Dialogue: 0,0:09:03.61,0:09:05.48,Default,,0,0,0,,所以怎么样 幸福吗
+Dialogue: 0,0:09:05.65,0:09:07.23,Default,,0,0,0,,难道说你不幸福吗
+Dialogue: 0,0:09:07.44,0:09:09.36,Default,,0,0,0,,那我来让你幸福吧
+Dialogue: 0,0:09:10.49,0:09:22.54,Default,,0,0,0,,{\blur3\3c&HECB000&}你一定可以 获得幸福的
+Dialogue: 0,0:09:28.63,0:09:29.76,Default,,0,800,0,,啥意思这是
+Dialogue: 0,0:09:29.46,0:09:30.55,Default,,800,0,0,,咋回事
+Dialogue: 0,0:09:30.84,0:09:31.59,Default,,0,800,0,,整人吗
+Dialogue: 0,0:09:31.30,0:09:32.47,Default,,800,0,0,,搞笑呢吧
+Dialogue: 0,0:09:32.47,0:09:33.89,Default,,0,0,0,,她脑子有问题吧
+Dialogue: 0,0:09:45.52,0:09:46.90,Default,,0,0,0,,那… 那个…
+Dialogue: 0,0:09:49.23,0:09:51.82,Default,,0,0,0,,好强的自我介绍 挺有趣的嘛
+Dialogue: 0,0:09:54.99,0:09:55.66,Default,,0,0,0,,那天野
+Dialogue: 0,0:09:55.95,0:09:58.41,Default,,0,0,0,,你是班长 后面就交给你了
+Dialogue: 0,0:10:04.96,0:10:07.13,Default,,0,0,0,,等等 等一下啦 悟美
+Dialogue: 0,0:10:10.67,0:10:11.47,Default,,0,0,0,,你…
+Dialogue: 0,0:10:12.55,0:10:13.34,Default,,0,0,0,,是AI…
+Dialogue: 0,0:10:14.22,0:10:15.51,Default,,0,0,0,,对吧
+Dialogue: 0,0:10:15.97,0:10:17.35,Default,,0,0,0,,你知道我吗
+Dialogue: 0,0:10:19.51,0:10:21.73,Default,,0,0,0,,妈妈也太厉害了吧
+Dialogue: 0,0:10:21.73,0:10:23.85,Default,,0,0,0,,天野博士一直很照顾我
+Dialogue: 0,0:10:23.85,0:10:26.77,Default,,0,0,0,,那… 那你就做个普通的高中生啊
+Dialogue: 0,0:10:26.77,0:10:28.27,Default,,0,0,0,,不就是这种试验吗
+Dialogue: 0,0:10:28.27,0:10:28.98,Default,,0,0,0,,是吗
+Dialogue: 0,0:10:30.23,0:10:31.15,Default,,0,0,0,,你这是什么意思
+Dialogue: 0,0:10:31.65,0:10:33.99,Default,,0,0,0,,你知道妈妈她付出了多少心血吗
+Dialogue: 0,0:10:34.11,0:10:34.78,Default,,0,0,0,,不知道
+Dialogue: 0,0:10:39.12,0:10:41.66,Default,,0,0,0,,她连说梦话都在说这个项目
+Dialogue: 0,0:10:42.54,0:10:44.29,Default,,0,0,0,,又是单亲妈妈
+Dialogue: 0,0:10:45.42,0:10:48.09,Default,,0,0,0,,又有很多人试图妨碍她
+Dialogue: 0,0:10:48.96,0:10:49.50,Default,,0,0,0,,所以…
+Dialogue: 0,0:10:55.93,0:10:57.26,Default,,0,0,0,,要是你被人发现是AI
+Dialogue: 0,0:10:57.59,0:10:58.80,Default,,0,0,0,,我绝对不会原谅你的
+Dialogue: 0,0:10:58.80,0:11:00.31,Default,,0,0,0,,{\blur3}获得幸福…
+Dialogue: 0,0:11:00.31,0:11:01.64,Default,,0,0,0,,禁止唱歌
+Dialogue: 0,0:11:53.19,0:11:56.03,Default,,0,0,0,,井上 吉田 增田
+Dialogue: 0,0:11:56.03,0:11:57.20,Default,,0,0,0,,还有排球部的前田
+Dialogue: 0,0:11:57.20,0:11:58.11,Default,,0,0,0,,这就记住了吗
+Dialogue: 0,0:11:58.11,0:11:58.86,Default,,0,0,0,,太快了吧
+Dialogue: 0,0:11:58.86,0:12:01.32,Default,,0,0,0,,你来这边之前住哪啊
+Dialogue: 0,0:12:02.08,0:12:03.62,Default,,0,0,0,,你爸妈也是星间的人吧
+Dialogue: 0,0:12:03.62,0:12:04.45,Default,,0,0,0,,哪个部门的
+Dialogue: 0,0:12:04.58,0:12:05.37,Default,,0,0,0,,研究室哦
+Dialogue: 0,0:12:05.54,0:12:07.29,Default,,0,0,0,,真的吗 我爸妈也是
+Dialogue: 0,0:12:07.29,0:12:09.25,Default,,0,0,0,,来来 告诉我你的账号吧
+Dialogue: 0,0:12:09.25,0:12:11.33,Default,,0,0,0,,我拉你进我们的朋友群
+Dialogue: 0,0:12:11.92,0:12:12.71,Default,,0,0,0,,朋友？
+Dialogue: 0,0:12:13.00,0:12:15.21,Default,,0,0,0,,幸福的学校生活少不了朋友
+Dialogue: 0,0:12:15.21,0:12:16.47,Default,,0,0,0,,哪有自己这么说的啊
+Dialogue: 0,0:12:16.47,0:12:17.63,Default,,0,0,0,,你少说两句
+Dialogue: 0,0:12:17.80,0:12:19.93,Default,,0,0,0,,要不要一起吃午饭啊
+Dialogue: 0,0:12:21.39,0:12:23.68,Default,,0,0,0,,悟美 悟美也一起来吧
+Dialogue: 0,0:12:23.68,0:12:24.39,Default,,0,0,0,,不会吧
+Dialogue: 0,0:12:24.56,0:12:25.43,Default,,0,0,0,,小报告公主？
+Dialogue: 0,0:12:25.43,0:12:27.68,Default,,0,0,0,,悟美 一起变幸福吧
+Dialogue: 0,0:12:35.69,0:12:36.53,Default,,0,0,0,,她什么意思啊
+Dialogue: 0,0:12:36.53,0:12:37.65,Default,,0,0,0,,看着就不爽
+Dialogue: 0,0:12:39.53,0:12:41.32,Default,,0,800,0,,好不好嘛 求你了阿后
+Dialogue: 0,0:12:40.61,0:12:42.28,Default,,800,0,0,,拿你没办法
+Dialogue: 0,0:12:43.66,0:12:44.95,Default,,0,0,0,,阿后 她在那她在那
+Dialogue: 0,0:12:44.95,0:12:46.04,Default,,0,0,0,,我知道了
+Dialogue: 0,0:12:48.41,0:12:49.33,Default,,0,0,0,,转校生？
+Dialogue: 0,0:12:52.29,0:12:53.25,Default,,0,0,0,,还有阿后
+Dialogue: 0,0:12:55.09,0:12:57.21,Default,,0,0,0,,果然阿后也是男生啊
+Dialogue: 0,0:12:59.59,0:13:01.76,Default,,0,0,0,,真是的 就知道她只是嘴硬
+Dialogue: 0,0:13:01.76,0:13:02.55,Default,,0,0,0,,是啊
+Dialogue: 0,0:13:08.81,0:13:10.98,Default,,0,0,0,,诗音真可爱啊
+Dialogue: 0,0:13:10.98,0:13:12.90,Default,,0,0,0,,她肯不肯cos个什么来看看呢
+Dialogue: 0,0:13:12.90,0:13:13.73,Default,,0,0,0,,哪来的怪想法
+Dialogue: 0,0:13:13.73,0:13:15.48,Default,,0,0,0,,看她行为挺怪的
+Dialogue: 0,0:13:15.82,0:13:17.61,Default,,0,0,0,,就感觉她有可能会这么做吧
+Dialogue: 0,0:13:17.61,0:13:19.03,Default,,0,0,0,,绝无可能
+Dialogue: 0,0:13:19.44,0:13:20.32,Default,,0,0,0,,所以你在看啥
+Dialogue: 0,0:13:23.32,0:13:24.66,Default,,0,0,0,,那不是诗音吗
+Dialogue: 0,0:13:24.66,0:13:26.03,Default,,0,0,0,,话说另一个是小报告公主
+Dialogue: 0,0:13:26.03,0:13:26.66,Default,,0,0,0,,在吵架？
+Dialogue: 0,0:13:28.58,0:13:29.29,Default,,0,0,0,,抱歉
+Dialogue: 0,0:13:30.41,0:13:32.29,Default,,0,0,0,,应该说是你的发小悟美
+Dialogue: 0,0:13:48.56,0:13:49.18,Default,,0,0,0,,十真
+Dialogue: 0,0:13:49.68,0:13:50.48,Default,,0,0,0,,你来得正好…
+Dialogue: 0,0:13:51.69,0:13:54.77,Default,,0,0,0,,我都说了 你别多管闲事
+Dialogue: 0,0:13:54.94,0:13:56.86,Default,,0,0,0,,我一个人没什么不好
+Dialogue: 0,0:13:56.86,0:13:58.69,Default,,0,0,0,,那悟美很幸福？
+Dialogue: 0,0:13:59.07,0:14:01.40,Default,,0,0,0,,我幸不幸福无所谓吧
+Dialogue: 0,0:14:01.65,0:14:03.91,Default,,0,0,0,,像个笨蛋一样 一口一个幸福
+Dialogue: 0,0:14:04.28,0:14:05.41,Default,,0,0,0,,你知道这个词什么意思吗
+Dialogue: 0,0:14:05.41,0:14:06.16,Default,,0,0,0,,不知道
+Dialogue: 0,0:14:14.96,0:14:16.04,Default,,0,0,0,,那个…
+Dialogue: 0,0:14:16.04,0:14:17.29,Default,,0,0,0,,在这里啊
+Dialogue: 0,0:14:17.84,0:14:19.75,Default,,0,0,0,,芦森同学 可以占用你一点时间吗
+Dialogue: 0,0:14:19.75,0:14:20.55,Default,,0,0,0,,不可以
+Dialogue: 0,0:14:20.80,0:14:21.51,Default,,0,0,0,,绫？
+Dialogue: 0,0:14:22.76,0:14:25.05,Default,,0,0,0,,十真 救救三太夫吧
+Dialogue: 0,0:14:25.22,0:14:26.01,Default,,0,0,0,,我们是朋友吧
+Dialogue: 0,0:14:26.64,0:14:27.93,Default,,0,800,0,,你要我现在就修吗
+Dialogue: 0,0:14:27.22,0:14:27.93,Default,,800,0,0,,朋友？
+Dialogue: 0,0:14:29.35,0:14:31.02,Default,,0,0,0,,幸福的学校生活？
+Dialogue: 0,0:14:31.93,0:14:32.98,Default,,0,0,0,,包在我身上
+Dialogue: 0,0:15:06.55,0:15:08.14,Default,,0,0,0,,原来你想要朋友啊
+Dialogue: 0,0:15:23.44,0:15:24.44,Default,,0,0,0,,我的发圈
+Dialogue: 0,0:15:25.32,0:15:26.57,Default,,0,0,0,,还我啊
+Dialogue: 0,0:15:30.91,0:15:32.08,Default,,0,0,0,,你别跑啊 十真
+Dialogue: 0,0:15:32.54,0:15:34.20,Default,,0,0,0,,怎么回事啊
+Dialogue: 0,0:15:47.05,0:15:47.76,Default,,0,0,0,,等等
+Dialogue: 0,0:17:16.56,0:17:18.02,Default,,0,0,0,,这…
+Dialogue: 0,0:17:21.35,0:17:23.77,Default,,0,0,0,,这不就是沃兹尼亚克测试吗
+Dialogue: 0,0:17:24.02,0:17:25.07,Default,,0,0,0,,那是什么
+Dialogue: 0,0:17:25.40,0:17:26.44,Default,,0,0,0,,强AI…
+Dialogue: 0,0:17:27.07,0:17:30.61,Default,,0,0,0,,就是 测试AI是否具有人类智能的试验
+Dialogue: 0,0:17:32.91,0:17:35.03,Default,,0,0,0,,人类智能…
+Dialogue: 0,0:17:38.24,0:17:39.00,Default,,0,0,0,,失望了？
+Dialogue: 0,0:17:39.00,0:17:41.04,Default,,0,0,0,,应该吧 前川那家伙
+Dialogue: 0,0:17:41.83,0:17:44.83,Default,,0,0,0,,前川拜托我 去问问她有没有男朋友
+Dialogue: 0,0:17:45.38,0:17:47.63,Default,,0,0,0,,厉害 好厉害啊这个
+Dialogue: 0,0:17:47.92,0:17:51.13,Default,,0,0,0,,能模拟人类行为的AI终于实现了
+Dialogue: 0,0:17:51.38,0:17:52.88,Default,,0,0,0,,这应该就是那个试验吧
+Dialogue: 0,0:17:53.89,0:17:55.55,Default,,0,0,0,,是啊 但…
+Dialogue: 0,0:17:57.26,0:17:59.31,Default,,0,0,0,,要是被人识破 就失败了
+Dialogue: 0,0:17:59.81,0:18:00.60,Default,,0,0,0,,这个试验
+Dialogue: 0,0:18:01.39,0:18:02.69,Default,,0,0,0,,但已经暴露了啊
+Dialogue: 0,0:18:02.69,0:18:04.27,Default,,0,0,0,,反正也迟早吧
+Dialogue: 0,0:18:04.65,0:18:06.73,Default,,0,0,0,,做这个的人到底怎么想女高中生的啊
+Dialogue: 0,0:18:06.73,0:18:08.36,Default,,0,0,0,,或许她女儿是个音乐剧演员？
+Dialogue: 0,0:18:08.36,0:18:09.28,Default,,0,0,0,,不是的
+Dialogue: 0,0:18:10.32,0:18:13.24,Default,,0,0,0,,她是我妈妈做的
+Dialogue: 0,0:18:14.16,0:18:17.16,Default,,800,0,0,,跟某个想要朋友的小孤单差远了呢
+Dialogue: 0,0:18:16.53,0:18:17.53,Default,,0,800,0,,你差不多得了
+Dialogue: 0,0:18:18.54,0:18:19.79,Default,,0,0,0,,反正就这样了
+Dialogue: 0,0:18:20.20,0:18:22.04,Default,,0,0,0,,不管像不像你
+Dialogue: 0,0:18:22.04,0:18:23.71,Default,,0,0,0,,这试验都已经结束了吧
+Dialogue: 0,0:18:23.71,0:18:24.46,Default,,0,0,0,,等等
+Dialogue: 0,0:18:25.67,0:18:27.96,Default,,0,0,0,,拜托了 请你们当作没看见吧
+Dialogue: 0,0:18:29.46,0:18:32.72,Default,,0,0,0,,妈妈为这个试验付出了很多
+Dialogue: 0,0:18:32.72,0:18:33.26,Default,,0,0,0,,所以…
+Dialogue: 0,0:18:33.26,0:18:34.30,Default,,0,0,0,,跟我有什么关系
+Dialogue: 0,0:18:34.55,0:18:37.30,Default,,0,0,0,,我妈妈她 在这个男性社会取得了成功
+Dialogue: 0,0:18:37.30,0:18:38.97,Default,,0,0,0,,所以公司有很多人看她不顺眼
+Dialogue: 0,0:18:39.72,0:18:41.31,Default,,0,0,0,,要是这次试验失败了
+Dialogue: 0,0:18:41.64,0:18:43.43,Default,,0,0,0,,肯定会被人背后插一刀
+Dialogue: 0,0:18:45.52,0:18:47.98,Default,,0,0,0,,星间确实有这种陈腐的一面啊
+Dialogue: 0,0:18:47.98,0:18:48.86,Default,,0,0,0,,真的吗
+Dialogue: 0,0:18:49.02,0:18:49.65,Default,,0,0,0,,差不多
+Dialogue: 0,0:18:50.07,0:18:51.82,Default,,0,0,0,,可能会降职
+Dialogue: 0,0:18:52.40,0:18:53.49,Default,,0,0,0,,求求你们了
+Dialogue: 0,0:18:53.70,0:18:56.11,Default,,0,0,0,,诗音的事 请大家保密
+Dialogue: 0,0:18:58.70,0:18:59.83,Default,,0,0,0,,太好了
+Dialogue: 0,0:18:59.95,0:19:02.20,Default,,0,0,0,,停止系统跟A13是共通的
+Dialogue: 0,0:19:03.00,0:19:05.54,Default,,0,0,0,,星间是没有收到她紧急停止的报告的
+Dialogue: 0,0:19:05.71,0:19:06.42,Default,,0,0,0,,你能搞懂吗
+Dialogue: 0,0:19:06.42,0:19:09.13,Default,,0,0,0,,这台机器 看起来是完全独立的
+Dialogue: 0,0:19:09.13,0:19:11.34,Default,,0,0,0,,日志类型是通用规格的
+Dialogue: 0,0:19:11.34,0:19:13.17,Default,,0,0,0,,只需要稍微做点手脚
+Dialogue: 0,0:19:13.17,0:19:14.88,Default,,0,0,0,,不愧是你 十真老师
+Dialogue: 0,0:19:21.06,0:19:22.22,Default,,0,0,0,,早上好 悟美
+Dialogue: 0,0:19:24.10,0:19:25.69,Default,,0,0,0,,早就不是早上了
+Dialogue: 0,0:19:25.69,0:19:27.02,Default,,0,0,0,,你的身份已经暴露了啊
+Dialogue: 0,0:19:27.02,0:19:28.52,Default,,0,0,0,,那个…
+Dialogue: 0,0:19:30.02,0:19:31.19,Default,,0,0,0,,芦森诗音同学
+Dialogue: 0,0:19:31.19,0:19:33.03,Default,,0,0,0,,是的 我是芦森诗音
+Dialogue: 0,0:19:33.19,0:19:34.74,Default,,0,0,0,,你的试验内容
+Dialogue: 0,0:19:34.74,0:19:37.57,Default,,0,0,0,,是模仿普通高中生的行为举止 没错吧
+Dialogue: 0,0:19:37.74,0:19:40.24,Default,,0,0,0,,那你现在应该回到教室
+Dialogue: 0,0:19:40.87,0:19:42.49,Default,,0,0,0,,午休马上就要结束
+Dialogue: 0,0:19:42.70,0:19:44.08,Default,,0,0,0,,普通高中生应该？
+Dialogue: 0,0:19:44.08,0:19:45.21,Default,,0,0,0,,回到教室
+Dialogue: 0,0:19:45.21,0:19:45.91,Default,,0,0,0,,正确
+Dialogue: 0,0:19:46.37,0:19:49.63,Default,,0,0,0,,现在立马回去的话 试验成功的概率会上升
+Dialogue: 0,0:19:49.75,0:19:50.50,Default,,0,0,0,,我明白了
+Dialogue: 0,0:19:53.09,0:19:56.47,Default,,0,0,0,,我说 你是星间的镜像神经元型AI的派生机型吗
+Dialogue: 0,0:19:57.05,0:19:58.76,Default,,0,0,0,,那 你和自我记忆型混沌神经网络…
+Dialogue: 0,0:19:58.76,0:20:01.47,Default,,0,0,0,,我还是第一次见他和女孩子说话
+Dialogue: 0,0:20:02.22,0:20:03.01,Default,,0,0,0,,是机器人来着
+Dialogue: 0,0:20:03.93,0:20:06.02,Default,,0,0,0,,你啊 少说点这种话吧
+Dialogue: 0,0:20:18.86,0:20:21.03,Default,,0,0,0,,今天的试验结束了
+Dialogue: 0,0:20:21.57,0:20:22.62,Default,,0,0,0,,结束了啊
+Dialogue: 0,0:20:22.87,0:20:23.74,Default,,0,0,0,,再见 诗音同学
+Dialogue: 0,0:20:23.74,0:20:24.62,Default,,0,0,0,,晚点联系你
+Dialogue: 0,0:20:24.62,0:20:25.41,Default,,0,0,0,,拜拜
+Dialogue: 0,0:20:49.94,0:20:50.90,Default,,0,0,0,,关掉显示器
+Dialogue: 0,0:20:52.11,0:20:52.94,Default,,0,0,0,,悟美
+Dialogue: 0,0:20:53.31,0:20:54.65,Default,,0,0,0,,悟美
+Dialogue: 0,0:20:56.86,0:20:57.65,Default,,0,0,0,,妈妈…
+Dialogue: 0,0:20:59.20,0:21:00.11,Default,,0,0,0,,现在几点了
+Dialogue: 0,0:21:00.36,0:21:01.11,Default,,0,0,0,,两点
+Dialogue: 0,0:21:01.57,0:21:03.91,Default,,0,0,0,,真少见 悟美会在这睡着
+Dialogue: 0,0:21:04.87,0:21:06.29,Default,,0,0,0,,今天发生了不少事…
+Dialogue: 0,0:21:07.33,0:21:08.16,Default,,0,0,0,,妈妈
+Dialogue: 0,0:21:09.62,0:21:13.50,Default,,0,0,0,,工作上 有发生什么奇怪的事吗
+Dialogue: 0,0:21:14.46,0:21:15.21,Default,,0,0,0,,有
+Dialogue: 0,0:21:16.84,0:21:18.42,Default,,0,0,0,,非常成功
+Dialogue: 0,0:21:19.17,0:21:23.01,Default,,0,0,0,,其实 今天是我负责的项目的最终试验
+Dialogue: 0,0:21:23.18,0:21:25.22,Default,,0,0,0,,第一天的结果简直完美
+Dialogue: 0,0:21:25.64,0:21:28.56,Default,,0,0,0,,训练的成果完全超乎我的预想
+Dialogue: 0,0:21:28.56,0:21:30.39,Default,,0,0,0,,那真是恭喜…
+Dialogue: 0,0:21:30.39,0:21:32.69,Default,,0,0,0,,悟美 谢谢你一直以来的支持
+Dialogue: 0,0:21:33.02,0:21:35.65,Default,,0,0,0,,等这次试验结束了 一起去哪旅行吧
+Dialogue: 0,0:21:37.11,0:21:37.94,Default,,0,0,0,,好开心
+Dialogue: 0,0:21:38.53,0:21:39.86,Default,,0,0,0,,肯定以为我在骗你
+Dialogue: 0,0:21:40.15,0:21:44.20,Default,,0,0,0,,也没办法 毕竟之前总是临时取消掉了
+Dialogue: 0,0:21:44.20,0:21:44.91,Default,,0,0,0,,抱歉
+Dialogue: 0,0:21:45.66,0:21:47.79,Default,,0,0,0,,但这次是真的 好好期待吧
+Dialogue: 0,0:21:47.79,0:21:48.62,Default,,0,0,0,,妈妈
+Dialogue: 0,0:21:48.62,0:21:49.20,Default,,0,0,0,,怎么了
+Dialogue: 0,0:21:51.12,0:21:53.96,Default,,0,0,0,,工作这么顺利 真是太好了
+Dialogue: 0,0:21:54.29,0:21:56.96,Default,,0,0,0,,谢谢你 我的宝贝闺女
+Dialogue: 0,0:22:11.14,0:22:12.77,Default,,0,0,0,,悟美 告诉妈妈
+Dialogue: 0,0:22:14.73,0:22:15.23,Default,,0,0,0,,这个
+Dialogue: 0,0:22:16.94,0:22:17.98,Default,,0,0,0,,是谁干的
+Dialogue: 0,0:22:21.15,0:22:22.86,Default,,0,0,0,,笨蛋笨蛋笨蛋笨蛋笨蛋
+Dialogue: 0,0:22:26.78,0:22:28.20,Default,,0,0,0,,一定不会再搞砸了
+Dialogue: 0,0:22:35.04,0:22:36.71,Default,,0,0,0,,早上好 悟美
+Dialogue: 0,0:22:39.13,0:22:40.42,Default,,0,0,0,,需要打开窗帘吗
+Dialogue: 0,0:22:41.38,0:22:43.26,Default,,0,0,0,,先等等
+Dialogue: 0,0:22:44.63,0:22:47.18,Default,,0,0,0,,今天也要 元气满满地 加油 哦
+Dialogue: 0,0:22:47.35,0:22:48.05,Default,,0,0,0,,我出门了
+Dialogue: 0,0:23:02.78,0:23:06.11,Default,,0,0,0,,妈妈说昨天的试验很完美
+Dialogue: 0,0:23:06.53,0:23:07.45,Default,,0,0,0,,很奇怪吧
+Dialogue: 0,0:23:07.45,0:23:08.16,Default,,0,0,0,,果然
+Dialogue: 0,0:23:08.83,0:23:10.54,Default,,0,0,0,,其实我有头绪
+Dialogue: 0,0:23:10.83,0:23:14.12,Default,,0,0,0,,我昨晚解析了学校的安保日志
+Dialogue: 0,0:23:14.54,0:23:15.50,Default,,0,0,0,,你看 就是这里
+Dialogue: 0,0:23:16.71,0:23:17.50,Default,,0,0,0,,哪
+Dialogue: 0,0:23:18.84,0:23:19.42,Default,,0,0,0,,怎么了
+Dialogue: 0,0:23:19.75,0:23:20.80,Default,,0,0,0,,那个…
+Dialogue: 0,0:23:21.80,0:23:24.34,Default,,0,0,0,,有人给星间发送了伪造录像
+Dialogue: 0,0:23:25.09,0:23:27.59,Default,,0,0,0,,所以 昨天的诗音既没有唱歌
+Dialogue: 0,0:23:27.59,0:23:28.97,Default,,0,0,0,,也没有紧急停止
+Dialogue: 0,0:23:29.55,0:23:31.56,Default,,0,0,0,,你说发送了 是谁干的
+Dialogue: 0,0:23:32.14,0:23:34.14,Default,,0,0,0,,那只有一个可能性
+Dialogue: 0,0:23:35.06,0:23:36.60,Default,,0,0,0,,这个真的很厉害
+Dialogue: 0,0:23:36.60,0:23:39.06,Default,,0,0,0,,实时地替换了监控录像
+Dialogue: 0,0:23:39.27,0:23:43.15,Default,,0,0,0,,也就是说 是从过去的数据库中自动生成了录像…
+Dialogue: 0,0:23:43.82,0:23:44.57,Default,,0,0,0,,怎么了
+Dialogue: 0,0:23:44.57,0:23:47.57,Default,,0,0,0,,因为很久没有像这样跟你说话了嘛
+Dialogue: 0,0:23:47.95,0:23:48.95,Default,,0,0,0,,是… 是吗
+Dialogue: 0,0:23:51.49,0:23:53.12,Default,,0,0,0,,从小学三年级开始…
+Dialogue: 0,0:23:53.66,0:23:55.29,Default,,0,0,0,,你不记得了吗
+Dialogue: 0,0:23:55.29,0:23:56.50,Default,,0,0,0,,不是 那个…
+Dialogue: 0,0:23:57.08,0:23:59.25,Default,,0,0,0,,那些复杂的书倒是记得一清二楚
+Dialogue: 0,0:23:59.46,0:24:02.34,Default,,0,0,0,,你这方面 一点都没变
+Dialogue: 0,0:24:05.38,0:24:07.63,Default,,0,0,0,,但 昨天那事
+Dialogue: 0,0:24:08.34,0:24:09.09,Default,,0,0,0,,谢谢你
+Dialogue: 0,0:24:10.14,0:24:10.93,Default,,0,0,0,,帮了大忙了
+Dialogue: 0,0:24:12.01,0:24:15.39,Default,,0,0,0,,那个 我有件事一直想跟你说
+Dialogue: 0,0:24:15.64,0:24:16.35,Default,,0,0,0,,就是…
+Dialogue: 0,0:24:17.73,0:24:18.77,Default,,0,0,0,,小学时…
+Dialogue: 0,0:24:19.40,0:24:21.65,Default,,0,0,0,,悟美 你现在幸福吗
+Dialogue: 0,0:24:23.11,0:24:24.94,Default,,0,0,0,,诗音 这是你做的吗
+Dialogue: 0,0:24:26.78,0:24:29.03,Default,,0,0,0,,我拜托大家 帮我撒了个慌
+Dialogue: 0,0:24:29.86,0:24:30.66,Default,,0,0,0,,大家是？
+Dialogue: 0,0:24:30.66,0:24:31.74,Default,,0,0,0,,监控摄像头的大家哦
+Dialogue: 0,0:24:31.74,0:24:32.83,Default,,0,0,0,,果然
+Dialogue: 0,0:24:32.95,0:24:35.66,Default,,0,0,0,,也就是说你跟安保监控AI相互配合了吗
+Dialogue: 0,0:24:36.41,0:24:37.25,Default,,0,0,0,,什么意思
+Dialogue: 0,0:24:37.25,0:24:39.21,Default,,0,0,0,,AI之间对话 相互配合
+Dialogue: 0,0:24:39.42,0:24:41.54,Default,,800,0,0,,这不就是真正的Boosting吗
+Dialogue: 0,0:24:40.33,0:24:42.34,Default,,0,800,0,,十真 声音太大啦
+Dialogue: 0,0:24:43.71,0:24:45.09,Default,,0,0,0,,你们俩是朋友吧
+Dialogue: 0,0:24:45.34,0:24:46.55,Default,,0,0,0,,悟美 你幸福吗
+Dialogue: 0,0:24:46.84,0:24:48.47,Default,,0,0,0,,不… 不是那样的啦
+Dialogue: 0,0:24:48.80,0:24:49.59,Default,,0,0,0,,不是吗
+Dialogue: 0,0:24:49.59,0:24:50.80,Default,,0,0,0,,你不幸福吗
+Dialogue: 0,0:24:51.93,0:24:53.43,Default,,0,0,0,,要怎么跟你说才行啊
+Dialogue: 0,0:24:53.93,0:24:55.31,Default,,0,0,0,,那个 诗音
+Dialogue: 0,0:24:56.27,0:24:59.81,Default,,0,0,0,,就是说 每个人对幸福的定义是不同的
+Dialogue: 0,0:25:02.94,0:25:03.94,Default,,0,0,0,,已上锁
+Dialogue: 0,0:25:05.57,0:25:06.36,Default,,0,0,0,,早上好
+Dialogue: 0,0:25:14.70,0:25:16.79,Default,,0,0,0,,那悟美的幸福是什么
+Dialogue: 0,0:25:16.79,0:25:17.87,Default,,0,0,0,,说不清楚
+Dialogue: 0,0:25:19.46,0:25:20.50,Default,,0,0,0,,早上好 阿后
+Dialogue: 0,0:25:21.17,0:25:21.71,Default,,0,0,0,,那个…
+Dialogue: 0,0:25:22.63,0:25:24.04,Default,,0,0,0,,诗音的事…
+Dialogue: 0,0:25:24.04,0:25:26.00,Default,,0,0,0,,我知道 保密对吧
+Dialogue: 0,0:25:26.46,0:25:27.17,Default,,0,0,0,,谢谢你
+Dialogue: 0,0:25:27.17,0:25:28.42,Default,,0,0,0,,早上好 绫
+Dialogue: 0,0:25:29.47,0:25:31.47,Default,,0,0,0,,佐藤同学 诗音的事…
+Dialogue: 0,0:25:31.47,0:25:32.22,Default,,0,0,0,,关我屁事
+Dialogue: 0,0:25:35.39,0:25:36.85,Default,,0,0,0,,没问题吧…
+Dialogue: 0,0:25:37.60,0:25:38.52,Default,,0,0,0,,为什么要问我
+Dialogue: 0,0:25:38.52,0:25:40.85,Default,,0,0,0,,因为她是你 女朋友吧
+Dialogue: 0,0:25:41.23,0:25:42.56,Default,,0,0,0,,不好说啊
+Dialogue: 0,0:25:42.98,0:25:44.36,Default,,0,0,0,,还不好说…
+Dialogue: 0,0:25:55.07,0:25:56.08,Default,,0,0,0,,你没事吧三太…
+Dialogue: 0,0:25:56.45,0:25:57.70,Default,,0,0,0,,喂喂喂你在干…
+Dialogue: 0,0:25:57.70,0:25:58.62,Default,,0,0,0,,…还没结束呢
+Dialogue: 0,0:26:10.55,0:26:12.30,Default,,0,0,0,,那不是垃圾桶吗
+Dialogue: 0,0:26:13.72,0:26:14.39,Default,,0,0,0,,还有啊
+Dialogue: 0,0:26:14.84,0:26:16.14,Default,,0,0,0,,为什么你能做到这种事
+Dialogue: 0,0:26:17.47,0:26:18.93,Default,,0,0,0,,不 我只是那什么…
+Dialogue: 0,0:26:18.93,0:26:20.56,Default,,0,0,0,,想确认诗音篡改的记录有没有泄漏…
+Dialogue: 0,0:26:20.56,0:26:22.52,Default,,0,0,0,,你好厉害啊 素崎
+Dialogue: 0,0:26:25.31,0:26:26.40,Default,,0,0,0,,也没什么了不起的
+Dialogue: 0,0:26:26.86,0:26:29.69,Default,,0,0,0,,不过是调出安保AI的画面而已
+Dialogue: 0,0:26:29.94,0:26:31.49,Default,,0,0,0,,都是自己学会的吗
+Dialogue: 0,0:26:31.49,0:26:33.40,Default,,0,0,0,,嗯 因为想进星间
+Dialogue: 0,0:26:33.90,0:26:35.91,Default,,0,0,0,,学生的父母大多是星间的人吧
+Dialogue: 0,0:26:36.16,0:26:37.53,Default,,0,0,0,,在一起工作不会不舒服吗
+Dialogue: 0,0:26:37.95,0:26:39.70,Default,,0,0,0,,我想做AI的开发
+Dialogue: 0,0:26:39.95,0:26:42.54,Default,,0,0,0,,星间使用橡树岭的超算泰坦3
+Dialogue: 0,0:26:42.54,0:26:44.25,Default,,0,0,0,,以开发环境来说是最佳的
+Dialogue: 0,0:26:45.17,0:26:46.58,Default,,0,0,0,,你有梦想的啊
+Dialogue: 0,0:26:47.50,0:26:49.21,Default,,0,0,0,,好羡慕你们啊
+Dialogue: 0,0:26:53.22,0:26:55.22,Default,,0,0,0,,不是 要我说的话
+Dialogue: 0,0:26:55.47,0:26:57.47,Default,,0,0,0,,你学习和运动…
+Dialogue: 0,0:26:58.30,0:26:59.22,Default,,0,0,0,,还有女朋友…
+Dialogue: 0,0:26:59.60,0:27:01.14,Default,,0,0,0,,该我羡慕你吧
+Dialogue: 0,0:27:01.77,0:27:02.93,Default,,800,0,0,,说着都觉得难过
+Dialogue: 0,0:27:01.89,0:27:03.48,Default,,0,800,0,,我说的是认真的
+Dialogue: 0,0:27:09.07,0:27:12.36,Default,,0,0,0,,我 做什么都是80分
+Dialogue: 0,0:27:12.86,0:27:15.11,Default,,0,0,0,,学习 运动
+Dialogue: 0,0:27:16.28,0:27:17.24,Default,,0,0,0,,80分…
+Dialogue: 0,0:27:17.24,0:27:18.66,Default,,0,0,0,,基本都是第二或第三
+Dialogue: 0,0:27:19.33,0:27:20.49,Default,,0,0,0,,啥都会 啥都不行
+Dialogue: 0,0:27:21.08,0:27:22.50,Default,,0,0,0,,没有特别要好的朋友
+Dialogue: 0,0:27:22.79,0:27:24.62,Default,,0,0,0,,也没有能埋头的兴趣
+Dialogue: 0,0:27:27.04,0:27:28.29,Default,,0,0,0,,你真的很厉害
+Dialogue: 0,0:27:29.13,0:27:31.42,Default,,0,0,0,,十真 我的三太夫…
+Dialogue: 0,0:27:32.34,0:27:33.76,Default,,0,0,0,,一定得现在修好吗
+Dialogue: 0,0:27:33.76,0:27:35.26,Default,,0,0,0,,明天就要比赛了啊
+Dialogue: 0,0:27:42.06,0:27:43.68,Default,,0,0,0,,你看到诗音了吗
+Dialogue: 0,0:27:43.97,0:27:44.77,Default,,0,0,0,,诗音…
+Dialogue: 0,0:27:45.48,0:27:46.60,Default,,0,0,0,,我想想…
+Dialogue: 0,0:27:46.94,0:27:48.65,Default,,0,0,0,,我觉得她应该在柔道场吧…
+Dialogue: 0,0:27:55.49,0:27:58.16,Default,,0,0,0,,三太夫 你为什么会在这
+Dialogue: 0,0:27:58.70,0:27:59.53,Default,,0,0,0,,听我说听我说
+Dialogue: 0,0:27:59.95,0:28:02.49,Default,,0,0,0,,我想到了能让悟美幸福的办法
+Dialogue: 0,0:28:02.74,0:28:04.16,Default,,0,0,0,,这次你又要干嘛
+Dialogue: 0,0:28:04.16,0:28:06.16,Default,,0,0,0,,要想让女主角获得幸福
+Dialogue: 0,0:28:07.25,0:28:08.79,Default,,0,0,0,,就需要出现危机
+Dialogue: 0,0:28:09.13,0:28:11.04,Default,,0,0,0,,他说他愿意帮忙
+Dialogue: 0,0:28:15.67,0:28:17.34,Default,,0,0,0,,我又不是女主角
+Dialogue: 0,0:28:17.34,0:28:18.84,Default,,800,0,0,,谁用一下停止APP
+Dialogue: 0,0:28:17.51,0:28:18.47,Default,,0,800,0,,这家伙怎么回事
+Dialogue: 0,0:28:18.84,0:28:19.72,Default,,0,0,0,,它失控了
+Dialogue: 0,0:28:20.09,0:28:21.05,Default,,0,0,0,,危险
+Dialogue: 0,0:28:21.05,0:28:22.18,Default,,0,0,0,,失控机器人
+Dialogue: 0,0:28:28.81,0:28:29.94,Default,,0,0,0,,广播系统又…
+Dialogue: 0,0:28:29.94,0:28:30.52,Default,,0,0,0,,危险
+Dialogue: 0,0:28:33.65,0:28:35.28,Default,,0,0,0,,你在想什么啊
+Dialogue: 0,0:28:35.28,0:28:36.28,Default,,0,0,0,,我来让它停下
+Dialogue: 0,0:28:37.15,0:28:39.36,Default,,0,0,0,,等一下 这样大家都会停止的
+Dialogue: 0,0:28:40.20,0:28:40.82,Default,,0,0,0,,大家？
+Dialogue: 0,0:28:41.70,0:28:43.53,Default,,0,0,0,,不错不错 很有危机感
+Dialogue: 0,0:28:43.53,0:28:45.49,Default,,0,0,0,,总之找个别的办法吧
+Dialogue: 0,0:28:45.49,0:28:47.04,Default,,0,0,0,,来来 各位看官
+Dialogue: 0,0:28:47.25,0:28:48.54,Default,,0,0,0,,暴走的机器人
+Dialogue: 0,0:28:48.54,0:28:53.09,Default,,0,0,0,,将由柔道部成员雷霆 本名杉山纩一郎将其拿下
+Dialogue: 0,0:28:54.04,0:28:57.30,Default,,0,0,0,,柔道部火热招新
+Dialogue: 0,0:28:57.72,0:29:00.55,Default,,800,0,0,,你不想学一招华丽的过肩摔吗
+Dialogue: 0,0:28:59.68,0:29:00.55,Default,,0,800,0,,招新？
+Dialogue: 0,0:29:00.55,0:29:01.39,Default,,0,0,0,,搞什么 吓我一跳
+Dialogue: 0,0:29:01.39,0:29:02.34,Default,,0,0,0,,挺有趣的嘛
+Dialogue: 0,0:29:02.34,0:29:04.39,Default,,0,0,0,,我来让它停下 你们别出手
+Dialogue: 0,0:29:13.73,0:29:14.40,Default,,0,0,0,,搞什么嘛
+Dialogue: 0,0:29:14.40,0:29:15.57,Default,,0,0,0,,雷霆好弱
+Dialogue: 0,0:29:16.15,0:29:18.19,Default,,0,0,0,,你们在搞什么呢
+Dialogue: 0,0:29:24.74,0:29:25.83,Default,,0,0,0,,坚持住 十真
+Dialogue: 0,0:29:26.16,0:29:27.79,Default,,0,0,0,,芦森同学身体不舒服啊
+Dialogue: 0,0:29:27.79,0:29:28.83,Default,,0,0,0,,那可糟了
+Dialogue: 0,0:29:29.04,0:29:30.08,Default,,0,0,0,,我们带她去保健室
+Dialogue: 0,0:29:30.08,0:29:31.29,Default,,0,0,0,,喂 你们几个
+Dialogue: 0,0:29:31.29,0:29:32.00,Default,,0,0,0,,先行告退
+Dialogue: 0,0:29:32.58,0:29:33.50,Default,,0,0,0,,傻不傻
+Dialogue: 0,0:29:38.01,0:29:38.67,Default,,0,0,0,,十真
+Dialogue: 0,0:29:38.67,0:29:39.63,Default,,0,0,0,,再给我20秒
+Dialogue: 0,0:29:39.84,0:29:41.59,Default,,0,0,0,,她果然 是机器人啊
+Dialogue: 0,0:29:41.59,0:29:43.09,Default,,0,0,0,,不经意间会忘掉这事啊
+Dialogue: 0,0:29:43.43,0:29:45.43,Default,,0,0,0,,把她的紧急停止装置去掉吧
+Dialogue: 0,0:29:45.43,0:29:47.14,Default,,0,0,0,,这也能做到吗
+Dialogue: 0,0:29:47.14,0:29:49.35,Default,,0,0,0,,为了不暴露 回头再复原就行
+Dialogue: 0,0:29:49.73,0:29:52.85,Default,,0,0,0,,这种都是最后额外装上的小功能罢了
+Dialogue: 0,0:29:55.06,0:29:55.61,Default,,0,0,0,,好了
+Dialogue: 0,0:30:00.78,0:30:01.36,Default,,0,0,0,,早上好
+Dialogue: 0,0:30:02.11,0:30:03.78,Default,,0,0,0,,悟美 你幸福了吗
+Dialogue: 0,0:30:03.78,0:30:05.28,Default,,0,0,0,,怎么可能嘛
+Dialogue: 0,0:30:05.91,0:30:09.12,Default,,0,0,0,,明明遇到了危机 王子殿下还救了你
+Dialogue: 0,0:30:09.12,0:30:10.75,Default,,0,0,0,,王子殿下…
+Dialogue: 0,0:30:10.75,0:30:12.25,Default,,0,0,0,,太少女漫了吧
+Dialogue: 0,0:30:12.25,0:30:15.13,Default,,0,0,0,,我… 我也没期待这种情节
+Dialogue: 0,0:30:15.42,0:30:17.09,Default,,0,0,0,,哪有交个男朋友就能幸福的道理
+Dialogue: 0,0:30:17.09,0:30:18.13,Default,,0,0,0,,太单纯了
+Dialogue: 0,0:30:18.13,0:30:20.09,Default,,0,0,0,,不是男朋友 是王子殿下哦
+Dialogue: 0,0:30:20.26,0:30:22.09,Default,,0,0,0,,骑着白色的骏马…
+Dialogue: 0,0:30:22.80,0:30:23.43,Default,,0,0,0,,对了
+Dialogue: 0,0:30:24.97,0:30:26.76,Default,,0,0,0,,这次一定能成 交给我吧
+Dialogue: 0,0:30:26.97,0:30:28.06,Default,,0,0,0,,你等等
+Dialogue: 0,0:30:29.39,0:30:30.06,Default,,0,0,0,,咋回事
+Dialogue: 0,0:30:30.35,0:30:32.39,Default,,0,0,0,,应该是去找白马了吧
+Dialogue: 0,0:30:34.48,0:30:35.31,Default,,0,0,0,,只是玩笑
+Dialogue: 0,0:30:39.82,0:30:41.78,Default,,0,0,0,,差不多得了 赶紧和好呗
+Dialogue: 0,0:30:42.03,0:30:43.74,Default,,0,0,0,,我又没跟他吵架
+Dialogue: 0,0:30:43.90,0:30:45.41,Default,,0,0,0,,阿后这么受欢迎
+Dialogue: 0,0:30:45.41,0:30:47.28,Default,,0,0,0,,说不定真的要出轨了哦
+Dialogue: 0,0:30:47.28,0:30:49.03,Default,,0,0,0,,说不定跟出轨对象成真爱了
+Dialogue: 0,0:30:49.87,0:30:50.49,Default,,0,0,0,,你们好
+Dialogue: 0,0:30:51.16,0:30:53.04,Default,,0,0,0,,你们有看到王子殿下吗
+Dialogue: 0,0:30:55.00,0:30:56.63,Default,,0,0,0,,哪有这种人啊
+Dialogue: 0,0:30:56.63,0:30:59.75,Default,,0,0,0,,我们学校的王子殿下 只能是阿后了吧
+Dialogue: 0,0:30:59.75,0:31:00.88,Default,,0,0,0,,对对
+Dialogue: 0,0:31:00.88,0:31:02.55,Default,,0,0,0,,长得又帅又聪明
+Dialogue: 0,0:31:02.55,0:31:04.17,Default,,0,0,0,,学习好体育也棒
+Dialogue: 0,0:31:04.17,0:31:05.18,Default,,0,800,0,,是吧 绫
+Dialogue: 0,0:31:04.43,0:31:05.18,Default,,800,0,0,,阿后对吧
+Dialogue: 0,0:31:07.22,0:31:08.05,Default,,0,0,0,,什么呀
+Dialogue: 0,0:31:10.56,0:31:11.81,Default,,0,0,0,,跟丢了
+Dialogue: 0,0:31:11.81,0:31:13.27,Default,,0,0,0,,我回活动室 用摄像头找找
+Dialogue: 0,0:31:13.27,0:31:14.77,Default,,0,0,0,,找到了联系你
+Dialogue: 0,0:31:15.31,0:31:16.06,Default,,0,0,0,,真是的
+Dialogue: 0,0:31:17.48,0:31:18.90,Default,,0,0,0,,刚才那事抱歉
+Dialogue: 0,0:31:19.36,0:31:20.07,Default,,0,0,0,,什么事
+Dialogue: 0,0:31:20.32,0:31:22.40,Default,,0,0,0,,强行让你表演过肩摔
+Dialogue: 0,0:31:23.07,0:31:24.45,Default,,0,0,0,,我丢人丢惯了
+Dialogue: 0,0:31:26.36,0:31:29.83,Default,,0,0,0,,我一到正式比赛就掉链子 从没赢过
+Dialogue: 0,0:31:30.37,0:31:31.16,Default,,0,0,0,,明天我势必要赢
+Dialogue: 0,0:31:31.33,0:31:33.16,Default,,0,0,0,,就不会想放弃柔道吗
+Dialogue: 0,0:31:33.87,0:31:34.46,Default,,0,0,0,,为什么
+Dialogue: 0,0:31:36.46,0:31:38.04,Default,,0,0,0,,看来我真的不太行啊
+Dialogue: 0,0:31:38.04,0:31:38.71,Default,,0,0,0,,什么不行
+Dialogue: 0,0:31:38.96,0:31:40.71,Default,,0,0,0,,我是在夸你们厉害
+Dialogue: 0,0:31:42.38,0:31:43.13,Default,,0,0,0,,阿后
+Dialogue: 0,0:31:45.55,0:31:47.43,Default,,0,0,0,,阿后就是王子殿下对吧
+Dialogue: 0,0:31:47.80,0:31:48.80,Default,,0,0,0,,是这样的吗
+Dialogue: 0,0:31:48.80,0:31:49.80,Default,,0,0,0,,怎么可能嘛
+Dialogue: 0,0:31:49.80,0:31:50.60,Default,,0,0,0,,我确认一下
+Dialogue: 0,0:31:52.01,0:31:53.02,Default,,0,0,0,,你… 你干嘛…
+Dialogue: 0,0:31:56.77,0:31:58.77,Default,,0,0,0,,你你… 你们…
+Dialogue: 0,0:32:02.11,0:32:04.49,Default,,0,0,0,,据说阿后跟那个转校生亲上了
+Dialogue: 0,0:32:04.49,0:32:05.86,Default,,0,0,0,,转校生 就是那个大美女？
+Dialogue: 0,0:32:05.86,0:32:07.49,Default,,0,0,0,,他不是在跟绫交往吗
+Dialogue: 0,0:32:07.49,0:32:09.32,Default,,0,0,0,,真有他的啊 不愧是阿后
+Dialogue: 0,0:32:09.32,0:32:09.99,Default,,0,0,0,,这怎么回事
+Dialogue: 0,0:32:09.99,0:32:11.12,Default,,0,0,0,,什么意思啊他
+Dialogue: 0,0:32:12.28,0:32:13.41,Default,,0,0,0,,加油 绫
+Dialogue: 0,0:32:13.41,0:32:14.62,Default,,0,0,0,,别认输 绫
+Dialogue: 0,0:32:21.34,0:32:23.63,Default,,0,0,0,,这样测不出是真是假啊
+Dialogue: 0,0:32:28.84,0:32:29.68,Default,,0,0,0,,你过来一下
+Dialogue: 0,0:32:29.68,0:32:30.14,Default,,0,0,0,,去哪
+Dialogue: 0,0:32:30.14,0:32:31.10,Default,,0,0,0,,去天野那
+Dialogue: 0,0:32:31.35,0:32:33.76,Default,,0,0,0,,好耶 你愿意做王子了啊
+Dialogue: 0,0:32:37.18,0:32:38.39,Default,,0,0,0,,那个笨蛋
+Dialogue: 0,0:32:38.81,0:32:40.85,Default,,0,0,0,,这回又是什么鬼点子啊
+Dialogue: 0,0:32:40.98,0:32:41.69,Default,,0,0,0,,天野
+Dialogue: 0,0:32:44.44,0:32:45.40,Default,,0,0,0,,诗音很奇怪
+Dialogue: 0,0:32:45.40,0:32:46.82,Default,,0,0,0,,诗音一直很奇怪
+Dialogue: 0,0:32:46.82,0:32:47.65,Default,,0,0,0,,我不奇怪哦
+Dialogue: 0,0:32:47.65,0:32:48.40,Default,,0,0,0,,你就是很奇怪
+Dialogue: 0,0:32:48.70,0:32:51.20,Default,,0,0,0,,总… 总之我们先躲进十真的活动室吧
+Dialogue: 0,0:32:51.45,0:32:52.03,Default,,0,0,0,,收到
+Dialogue: 0,0:32:52.16,0:32:53.83,Default,,0,800,0,,王子殿下你别走
+Dialogue: 0,0:32:52.49,0:32:54.54,Default,,800,0,0,,他是佐藤同学的王子
+Dialogue: 0,0:32:56.08,0:32:57.45,Default,,0,0,0,,喂喂 你们找到了吗
+Dialogue: 0,0:32:58.79,0:33:01.04,Default,,0,0,0,,那家伙 区区一台机器人
+Dialogue: 0,0:33:04.55,0:33:06.26,Default,,0,0,0,,王子殿下是什么意思啊
+Dialogue: 0,0:33:06.26,0:33:09.59,Default,,0,0,0,,因为月亮公主也被王子殿下救过啊
+Dialogue: 0,0:33:09.84,0:33:11.43,Default,,0,0,0,,月亮公主…
+Dialogue: 0,0:33:11.43,0:33:12.30,Default,,0,0,0,,你怎么知道…
+Dialogue: 0,0:33:17.02,0:33:18.14,Default,,0,0,0,,是你搞的鬼吗
+Dialogue: 0,0:33:18.60,0:33:19.64,Default,,0,0,0,,你指什么
+Dialogue: 0,0:33:19.89,0:33:21.90,Default,,0,0,0,,是你命令她去亲阿后的吧
+Dialogue: 0,0:33:21.90,0:33:23.15,Default,,0,0,0,,我不会做这种事
+Dialogue: 0,0:33:23.15,0:33:25.11,Default,,0,0,0,,那你意思是这个破玩意自作主张做的吗
+Dialogue: 0,0:33:25.27,0:33:26.53,Default,,0,0,0,,我没有自作主张哦
+Dialogue: 0,0:33:26.82,0:33:27.61,Default,,0,0,0,,如果没有命令…
+Dialogue: 0,0:33:27.61,0:33:28.90,Default,,0,0,0,,机器人给我闭嘴
+Dialogue: 0,0:33:29.15,0:33:30.95,Default,,0,0,0,,你不用遵从这种命令
+Dialogue: 0,0:33:31.28,0:33:33.87,Default,,0,0,0,,如果没有命令 我什么都不会做的
+Dialogue: 0,0:33:35.74,0:33:36.41,Default,,0,0,0,,果然
+Dialogue: 0,0:33:37.33,0:33:38.62,Default,,0,0,0,,不就是你干的好事吗
+Dialogue: 0,0:33:45.34,0:33:46.30,Default,,0,0,0,,看我全都给你说出去
+Dialogue: 0,0:33:46.92,0:33:48.38,Default,,0,0,0,,把她是机器人这事
+Dialogue: 0,0:33:48.80,0:33:51.93,Default,,0,0,0,,别这样 这关系到我妈妈的人生
+Dialogue: 0,0:33:51.93,0:33:53.76,Default,,0,0,0,,我才不管小报告公主的妈妈的死活
+Dialogue: 0,0:33:53.76,0:33:56.93,Default,,0,0,0,,别把我妈卷进你们情侣无聊的别扭里
+Dialogue: 0,0:33:56.93,0:33:58.68,Default,,0,0,0,,你说无聊 你算老几啊
+Dialogue: 0,0:33:58.68,0:33:59.93,Default,,0,0,0,,你就是羡慕我吧
+Dialogue: 0,0:33:59.93,0:34:01.44,Default,,0,0,0,,我一点都不羡慕
+Dialogue: 0,0:34:01.44,0:34:03.81,Default,,0,0,0,,那就别对我的阿后动手动脚啊
+Dialogue: 0,0:34:03.81,0:34:06.02,Default,,0,0,0,,阿后不是绫的私有物
+Dialogue: 0,0:34:08.03,0:34:11.28,Default,,0,0,0,,阿后有权选择自己的公主
+Dialogue: 0,0:34:12.11,0:34:13.16,Default,,0,0,0,,绫也是同样的
+Dialogue: 0,0:34:13.82,0:34:15.91,Default,,0,0,0,,说不定能找到别的王子殿下
+Dialogue: 0,0:34:17.70,0:34:18.99,Default,,0,0,0,,你胡说
+Dialogue: 0,0:34:22.58,0:34:24.42,Default,,0,0,0,,我 一直
+Dialogue: 0,0:34:25.67,0:34:27.34,Default,,0,0,0,,眼里只有阿后一个人
+Dialogue: 0,0:34:31.55,0:34:33.43,Default,,0,0,0,,他其实很怕寂寞
+Dialogue: 0,0:34:34.47,0:34:36.14,Default,,0,0,0,,虽然很难读懂他的表情
+Dialogue: 0,0:34:36.93,0:34:39.22,Default,,0,0,0,,但他现在很难过
+Dialogue: 0,0:34:40.56,0:34:42.02,Default,,0,0,0,,我是明白的
+Dialogue: 0,0:34:44.39,0:34:45.81,Default,,0,0,0,,现在视线也离不开他
+Dialogue: 0,0:34:46.77,0:34:47.94,Default,,0,0,0,,明明都吵架了
+Dialogue: 0,0:34:48.40,0:34:50.19,Default,,0,0,0,,脑子里也都是他
+Dialogue: 0,0:34:51.65,0:34:53.36,Default,,0,0,0,,真是糟透了
+Dialogue: 0,0:35:04.87,0:35:05.37,Default,,0,0,0,,走吧
+Dialogue: 0,0:35:06.29,0:35:08.46,Default,,0,0,0,,时间不会为你解决任何事
+Dialogue: 0,0:35:08.84,0:35:10.59,Default,,0,0,0,,只会让伤口变成伤疤
+Dialogue: 0,0:35:10.84,0:35:11.84,Default,,0,0,0,,你放开我
+Dialogue: 0,0:35:15.18,0:35:17.89,Default,,0,0,0,,话说回来 你们为什么吵架了啊
+Dialogue: 0,0:35:18.72,0:35:20.26,Default,,0,0,0,,要是你们处得好好的
+Dialogue: 0,0:35:20.26,0:35:22.18,Default,,0,0,0,,事情就不会变得这么麻烦了
+Dialogue: 0,0:35:23.52,0:35:25.10,Default,,0,0,0,,因为她总说些无趣的话
+Dialogue: 0,0:35:26.06,0:35:28.27,Default,,0,0,0,,很帅吧 聪明吧
+Dialogue: 0,0:35:28.27,0:35:29.61,Default,,0,0,0,,文武双全对吧
+Dialogue: 0,0:35:29.61,0:35:30.94,Default,,0,0,0,,干嘛 炫耀是吧
+Dialogue: 0,0:35:33.44,0:35:34.19,Default,,0,0,0,,搞不懂
+Dialogue: 0,0:35:34.57,0:35:36.70,Default,,0,0,0,,意思就是 不是我也没关系
+Dialogue: 0,0:35:36.86,0:35:38.70,Default,,0,0,0,,只要能让她炫耀 谁都行
+Dialogue: 0,0:35:38.95,0:35:40.33,Default,,0,0,0,,炫耀…
+Dialogue: 0,0:35:40.33,0:35:41.12,Default,,0,0,0,,只是在夸你吧
+Dialogue: 0,0:35:41.12,0:35:42.20,Default,,0,0,0,,反正我不开心
+Dialogue: 0,0:35:42.95,0:35:44.62,Default,,0,0,0,,我又不是名牌包包
+Dialogue: 0,0:35:47.96,0:35:48.83,Default,,0,0,0,,后藤
+Dialogue: 0,0:35:53.17,0:35:53.67,Default,,0,0,0,,绫
+Dialogue: 0,0:35:56.09,0:35:58.76,Default,,0,0,0,,要是你不想后悔 就鼓起勇气吧
+Dialogue: 0,0:35:59.89,0:36:01.97,Default,,0,0,0,,会淋到雨的 进来吧
+Dialogue: 0,0:36:03.35,0:36:04.31,Default,,0,0,0,,我出去了
+Dialogue: 0,0:38:19.61,0:38:22.53,Default,,0,0,0,,阿后 我喜欢你
+Dialogue: 0,0:38:24.03,0:38:24.70,Default,,0,0,0,,谢谢你
+Dialogue: 0,0:38:25.20,0:38:26.28,Default,,0,0,0,,你是我第一喜欢的人
+Dialogue: 0,0:38:27.24,0:38:28.62,Default,,0,0,0,,要是第二就麻烦了
+Dialogue: 0,0:38:29.04,0:38:31.00,Default,,0,0,0,,你在我心里是绝对的第一
+Dialogue: 0,0:38:31.37,0:38:32.25,Default,,0,0,0,,名人堂级别
+Dialogue: 0,0:38:32.62,0:38:34.17,Default,,0,0,0,,绝不止80分
+Dialogue: 0,0:38:35.67,0:38:36.25,Default,,0,0,0,,绫…
+Dialogue: 0,0:38:36.96,0:38:37.59,Default,,800,0,0,,你…
+Dialogue: 0,0:38:37.21,0:38:38.42,Default,,0,800,0,,我一直都看在眼里的
+Dialogue: 0,0:38:38.88,0:38:40.46,Default,,0,0,0,,阿后目光所及之处
+Dialogue: 0,0:38:41.38,0:38:43.09,Default,,0,0,0,,神情变得寂寞的瞬间
+Dialogue: 0,0:38:43.63,0:38:44.63,Default,,0,0,0,,还有开心的瞬间
+Dialogue: 0,0:38:45.26,0:38:46.01,Default,,0,0,0,,全都看在眼里
+Dialogue: 0,0:38:53.60,0:38:55.44,Default,,0,0,0,,我真逊啊
+Dialogue: 0,0:38:58.32,0:38:59.19,Default,,0,0,0,,我错了 绫
+Dialogue: 0,0:38:59.65,0:39:01.57,Default,,0,0,0,,是我误会你了
+Dialogue: 0,0:39:05.03,0:39:05.74,Default,,0,0,0,,阿后…
+Dialogue: 0,0:39:12.29,0:39:13.91,Default,,0,0,0,,蠢货 别推啊
+Dialogue: 0,0:39:13.91,0:39:15.33,Default,,0,0,0,,喂 怎么样了
+Dialogue: 0,0:39:15.33,0:39:16.12,Default,,0,0,0,,看到了吗
+Dialogue: 0,0:39:16.12,0:39:16.63,Default,,0,0,0,,过来了
+Dialogue: 0,0:39:16.63,0:39:17.17,Default,,0,0,0,,什么什么
+Dialogue: 0,0:39:17.17,0:39:18.92,Default,,0,0,0,,行了 解散解散
+Dialogue: 0,0:39:19.63,0:39:21.76,Default,,0,0,0,,再这样我要叫老师过来了
+Dialogue: 0,0:39:23.01,0:39:23.63,Default,,0,0,0,,看看气氛啊
+Dialogue: 0,0:39:23.63,0:39:25.51,Default,,0,0,0,,服了你这小报告公主了
+Dialogue: 0,0:39:27.72,0:39:28.93,Default,,0,0,0,,请看
+Dialogue: 0,0:39:29.18,0:39:31.93,Default,,0,0,0,,联想能力超乎想象地好
+Dialogue: 0,0:39:32.14,0:39:34.48,Default,,0,0,0,,吸引子分布也在预料之内
+Dialogue: 0,0:39:34.48,0:39:37.48,Default,,0,0,0,,覆盖域目前也没有异常
+Dialogue: 0,0:39:37.48,0:39:39.69,Default,,0,0,0,,好好 别太早下定论
+Dialogue: 0,0:39:40.69,0:39:41.48,Default,,0,0,0,,不过…
+Dialogue: 0,0:39:42.36,0:39:45.45,Default,,0,0,0,,老实说 走到这一步就能松一口气了
+Dialogue: 0,0:39:45.78,0:39:47.86,Default,,0,0,0,,虽然这实验就像走钢丝一样冒险
+Dialogue: 0,0:39:47.86,0:39:49.03,Default,,0,0,0,,就是说啊
+Dialogue: 0,0:39:49.03,0:39:51.45,Default,,0,0,0,,你真是强行拓宽试验品试验的定义
+Dialogue: 0,0:39:52.16,0:39:56.29,Default,,0,0,0,,各位 非常感谢你们能一直追随我
+Dialogue: 0,0:39:56.29,0:39:58.54,Default,,0,0,0,,一切顺利比什么都好
+Dialogue: 0,0:40:07.43,0:40:08.72,Default,,0,0,0,,一个好消息
+Dialogue: 0,0:40:08.72,0:40:10.35,Default,,0,0,0,,听到了这次的结果
+Dialogue: 0,0:40:10.35,0:40:13.01,Default,,0,0,0,,会长要莅临现场视察
+Dialogue: 0,0:40:13.93,0:40:14.85,Default,,0,0,0,,会长？
+Dialogue: 0,0:40:14.85,0:40:15.60,Default,,0,0,0,,太棒了
+Dialogue: 0,0:40:15.60,0:40:16.14,Default,,0,0,0,,真的吗
+Dialogue: 0,0:40:16.14,0:40:17.52,Default,,0,0,0,,说是会长亲自来
+Dialogue: 0,0:40:17.52,0:40:19.31,Default,,0,0,0,,这下必须要拿出成果来啊
+Dialogue: 0,0:40:19.31,0:40:20.69,Default,,0,0,0,,把这个分布图展示出来…
+Dialogue: 0,0:40:20.69,0:40:23.61,Default,,0,0,0,,我没把详细实验内容告诉会长
+Dialogue: 0,0:40:24.65,0:40:25.15,Default,,0,0,0,,但是…
+Dialogue: 0,0:40:25.15,0:40:28.16,Default,,0,0,0,,如实上报会变得很麻烦
+Dialogue: 0,0:40:28.82,0:40:31.99,Default,,0,0,0,,毕竟AI这玩意 什么时候搞砸了都不奇怪
+Dialogue: 0,0:40:32.66,0:40:33.99,Default,,0,0,0,,诗音她能做到
+Dialogue: 0,0:40:33.99,0:40:35.70,Default,,0,0,0,,你应该记得吧
+Dialogue: 0,0:40:35.70,0:40:37.16,Default,,0,0,0,,要是出了差错 这责任…
+Dialogue: 0,0:40:37.16,0:40:38.37,Default,,0,0,0,,我会担全责
+Dialogue: 0,0:40:41.04,0:40:43.96,Default,,0,0,0,,课长 分析的综合评价出来了
+Dialogue: 0,0:40:43.96,0:40:44.92,Default,,0,0,0,,我失陪了
+Dialogue: 0,0:40:50.55,0:40:52.10,Default,,0,0,0,,机器人也会睡觉啊
+Dialogue: 0,0:40:52.10,0:40:52.93,Default,,0,0,0,,我醒着呢
+Dialogue: 0,0:40:54.14,0:40:56.02,Default,,0,0,0,,因为实验机在维护中
+Dialogue: 0,0:40:56.02,0:40:58.02,Default,,0,0,0,,所以AI移到这边来了
+Dialogue: 0,0:40:58.02,0:40:59.19,Default,,0,0,0,,别吓我啊
+Dialogue: 0,0:41:02.11,0:41:04.94,Default,,0,0,0,,还有三天 你可不要出什么差错哦
+Dialogue: 0,0:41:04.94,0:41:05.61,Default,,0,0,0,,好的
+Dialogue: 0,0:41:05.82,0:41:08.57,Default,,0,0,0,,明天也要 元气满满地 加油 哦
+Dialogue: 0,0:41:09.82,0:41:12.32,Default,,0,0,0,,就是这样 我们借一下啦
+Dialogue: 0,0:41:12.32,0:41:13.95,Default,,0,0,0,,等等 诗音你这是干嘛啊
+Dialogue: 0,0:41:13.95,0:41:15.54,Default,,0,0,0,,这次绝对能行
+Dialogue: 0,0:41:16.75,0:41:18.62,Default,,0,0,0,,女主角的幸运地点…
+Dialogue: 0,0:41:18.87,0:41:19.92,Default,,0,0,0,,当然是舞会啦
+Dialogue: 0,0:41:20.08,0:41:22.13,Default,,0,0,0,,不是 这是比武大会吧
+Dialogue: 0,0:41:22.13,0:41:23.34,Default,,0,0,0,,大家不是都在跳吗
+Dialogue: 0,0:41:24.79,0:41:27.63,Default,,0,0,0,,悟美不是很喜欢吗 月亮舞会
+Dialogue: 0,0:41:28.59,0:41:30.26,Default,,0,0,0,,那是《月亮公主》的…
+Dialogue: 0,0:41:33.05,0:41:33.97,Default,,0,0,0,,我开始紧张了
+Dialogue: 0,0:41:33.97,0:41:35.68,Default,,0,0,0,,拿得到吗 雷霆的首胜
+Dialogue: 0,0:41:35.68,0:41:36.72,Default,,0,0,0,,我说你啊…
+Dialogue: 0,0:41:36.72,0:41:39.27,Default,,0,0,0,,我们不就是为了这个才来加油的…
+Dialogue: 0,0:41:41.23,0:41:42.40,Default,,0,0,0,,你这身怎么回事
+Dialogue: 0,0:41:43.90,0:41:46.27,Default,,0,0,0,,说是穿上这个就能幸福
+Dialogue: 0,0:41:47.19,0:41:49.28,Default,,0,0,0,,你… 你很喜欢公主对吧
+Dialogue: 0,0:41:49.28,0:41:50.36,Default,,0,0,0,,什么啊
+Dialogue: 0,0:41:51.15,0:41:51.99,Default,,0,0,0,,我们来给你加油咯
+Dialogue: 0,0:41:51.99,0:41:53.32,Default,,0,0,0,,三太夫他坏掉了
+Dialogue: 0,0:41:55.49,0:41:56.87,Default,,0,0,0,,话说 比赛不是马上就…
+Dialogue: 0,0:41:56.87,0:41:59.54,Default,,0,0,0,,我正式比赛前不实战练习一下不行
+Dialogue: 0,0:41:59.54,0:42:00.25,Default,,0,0,0,,拜托了
+Dialogue: 0,0:42:00.41,0:42:02.17,Default,,0,0,0,,你这三太夫也太容易坏了吧
+Dialogue: 0,0:42:03.46,0:42:04.13,Default,,600,0,0,,好吧
+Dialogue: 0,0:42:02.17,0:42:04.29,Default,,0,800,0,,不是 砰一下他就不动弹了
+Dialogue: 0,0:42:04.29,0:42:06.29,Default,,0,0,0,,诗音 能来一下吗
+Dialogue: 0,0:42:06.71,0:42:09.51,Default,,0,0,0,,帮十真的话 悟美会变幸福吗
+Dialogue: 0,0:42:10.05,0:42:12.05,Default,,0,0,0,,会的会的 所以你去吧
+Dialogue: 0,0:42:12.05,0:42:13.30,Default,,0,0,0,,知道了 那我过去了
+Dialogue: 0,0:42:14.01,0:42:15.22,Default,,0,0,0,,诗音 这边
+Dialogue: 0,0:42:19.98,0:42:20.93,Default,,0,0,0,,坐下看呗
+Dialogue: 0,0:42:25.11,0:42:25.86,Default,,0,0,0,,谢了
+Dialogue: 0,0:42:27.02,0:42:28.73,Default,,0,0,0,,昨天帮大忙了
+Dialogue: 0,0:42:32.36,0:42:34.99,Default,,0,0,0,,我说 为什么三太夫要连上垃圾桶…
+Dialogue: 0,0:42:34.99,0:42:36.95,Default,,0,0,0,,这错误数量 没戏了
+Dialogue: 0,0:42:36.95,0:42:38.58,Default,,0,0,0,,暂时是动不起来了
+Dialogue: 0,0:42:38.58,0:42:39.45,Default,,0,0,0,,怎么会
+Dialogue: 0,0:42:39.45,0:42:42.25,Default,,0,0,0,,所以 我才叫诗音来这里的
+Dialogue: 0,0:42:43.21,0:42:44.83,Default,,0,0,0,,诗音 连一下这个
+Dialogue: 0,0:42:46.13,0:42:47.00,Default,,0,0,0,,连垃圾桶？
+Dialogue: 0,0:42:47.00,0:42:48.13,Default,,0,0,0,,谁看都像是垃圾桶对吧
+Dialogue: 0,0:42:48.13,0:42:50.01,Default,,0,0,0,,这是备份硬盘啦
+Dialogue: 0,0:42:50.17,0:42:52.26,Default,,0,0,0,,里面有三太夫数据的备份
+Dialogue: 0,0:42:53.34,0:42:56.18,Default,,0,0,0,,让我来模仿三太夫的动作就行了是吗
+Dialogue: 0,0:42:57.18,0:43:00.93,Default,,0,0,0,,就是说 我要跟诗音实战练习吗
+Dialogue: 0,0:43:04.39,0:43:05.44,Default,,0,0,0,,不情愿吗
+Dialogue: 0,0:43:05.94,0:43:07.15,Default,,0,0,0,,不是 但是…
+Dialogue: 0,0:43:08.57,0:43:10.36,Default,,0,0,0,,要来真的吗
+Dialogue: 0,0:43:10.57,0:43:12.61,Default,,0,0,0,,真的哦 我要上咯
+Dialogue: 0,0:43:16.78,0:43:18.24,Default,,0,0,0,,三太夫他说了
+Dialogue: 0,0:43:18.62,0:43:20.29,Default,,0,0,0,,重要的是节奏
+Dialogue: 0,0:43:26.96,0:43:28.92,Default,,0,0,0,,来吧 你来带节奏
+Dialogue: 0,0:44:01.99,0:44:05.71,Default,,0,0,0,,能和好 真是太好了呢
+Dialogue: 0,0:44:08.12,0:44:09.58,Default,,0,0,0,,你那边怎么样了
+Dialogue: 0,0:44:10.63,0:44:12.05,Default,,0,0,0,,叫我不要后悔
+Dialogue: 0,0:44:12.38,0:44:14.30,Default,,0,0,0,,说明你后悔了是吧
+Dialogue: 0,0:44:15.13,0:44:17.30,Default,,0,0,0,,不过 你想说出来就说吧
+Dialogue: 0,0:44:17.72,0:44:19.84,Default,,0,0,0,,下次换我来拉你一把
+Dialogue: 0,0:44:46.41,0:44:47.25,Default,,0,0,0,,一本
+Dialogue: 0,0:44:50.25,0:44:52.34,Default,,0,0,0,,好样的 雷霆
+Dialogue: 0,0:44:53.38,0:44:54.13,Default,,0,0,0,,赢了…
+Dialogue: 0,0:44:55.00,0:44:55.84,Default,,0,0,0,,赢了
+Dialogue: 0,0:44:57.55,0:44:58.93,Default,,0,0,0,,我赢了
+Dialogue: 0,0:44:59.80,0:45:01.22,Default,,0,800,0,,干得漂亮
+Dialogue: 0,0:45:00.22,0:45:01.97,Default,,800,0,0,,我赢了
+Dialogue: 0,0:45:02.35,0:45:03.64,Default,,0,0,0,,赢了
+Dialogue: 0,0:45:06.77,0:45:09.52,Default,,0,0,0,,诗音 这都是多亏了你 谢谢你
+Dialogue: 0,0:45:09.77,0:45:11.56,Default,,0,0,0,,悟美 你幸福了吗
+Dialogue: 0,0:45:13.65,0:45:14.27,Default,,0,0,0,,算是吧
+Dialogue: 0,0:45:14.27,0:45:14.94,Default,,0,0,0,,太好了
+Dialogue: 0,0:45:15.07,0:45:16.90,Default,,0,0,0,,好 一起去庆祝一下吧
+Dialogue: 0,0:45:17.49,0:45:18.07,Default,,0,0,0,,听起来不错
+Dialogue: 0,0:45:18.07,0:45:19.28,Default,,0,0,0,,要去唱K吗
+Dialogue: 0,0:45:19.28,0:45:20.07,Default,,0,0,0,,为了我吗
+Dialogue: 0,0:45:20.07,0:45:20.70,Default,,0,0,0,,别哭啊
+Dialogue: 0,0:45:20.70,0:45:21.99,Default,,0,0,0,,你这也太夸张了
+Dialogue: 0,0:45:22.95,0:45:24.24,Default,,0,0,0,,诗音也会一起吧
+Dialogue: 0,0:45:24.58,0:45:26.37,Default,,0,0,0,,这场胜利多亏了你
+Dialogue: 0,0:45:26.70,0:45:27.41,Default,,0,0,0,,我吗
+Dialogue: 0,0:45:27.41,0:45:30.12,Default,,0,0,0,,没错 我们也想向你道谢
+Dialogue: 0,0:45:30.92,0:45:31.54,Default,,0,0,0,,不能去
+Dialogue: 0,0:45:33.88,0:45:35.71,Default,,0,0,0,,为什么 难得大家都…
+Dialogue: 0,0:45:35.71,0:45:36.88,Default,,0,0,0,,但是我去不了
+Dialogue: 0,0:45:36.88,0:45:41.01,Default,,0,0,0,,对了 放学后研究室的车子会来接她
+Dialogue: 0,0:45:45.68,0:45:47.64,Default,,0,0,0,,那就午休如何
+Dialogue: 0,0:45:47.64,0:45:48.77,Default,,0,0,0,,这也太匆忙了点
+Dialogue: 0,0:45:48.77,0:45:49.39,Default,,0,0,0,,是啊
+Dialogue: 0,0:45:49.64,0:45:51.52,Default,,0,0,0,,在学校完全没那个气氛
+Dialogue: 0,0:45:51.52,0:45:52.56,Default,,0,0,0,,也是
+Dialogue: 0,0:45:52.56,0:45:54.90,Default,,0,0,0,,就没办法外出吗
+Dialogue: 0,0:46:01.11,0:46:04.20,Default,,0,0,0,,诗音她 还真是乱来哦
+Dialogue: 0,0:46:05.41,0:46:07.08,Default,,0,0,0,,嗯 是有些
+Dialogue: 0,0:46:07.49,0:46:09.70,Default,,0,0,0,,猜不透她在想什么
+Dialogue: 0,0:46:10.00,0:46:12.04,Default,,0,0,0,,完全就不像个高中生
+Dialogue: 0,0:46:13.12,0:46:15.96,Default,,0,0,0,,但是 她让大家变幸福了
+Dialogue: 0,0:46:16.67,0:46:19.38,Default,,0,0,0,,没错 阿后他们和好了
+Dialogue: 0,0:46:19.84,0:46:21.97,Default,,0,0,0,,然后 雷霆首胜
+Dialogue: 0,0:46:22.59,0:46:23.09,Default,,0,0,0,,还有…
+Dialogue: 0,0:46:27.93,0:46:30.52,Default,,0,0,0,,诗音她自己 怎么样呢
+Dialogue: 0,0:46:33.19,0:46:38.15,Default,,0,0,0,,我曾经问过诗音 她知不知道幸福是什么意思
+Dialogue: 0,0:46:39.03,0:46:41.61,Default,,0,0,0,,对AI来说 这问题也许有点难了
+Dialogue: 0,0:46:46.37,0:46:47.16,Default,,0,0,0,,我决定了
+Dialogue: 0,0:46:59.13,0:47:01.38,Default,,0,0,0,,会长会亲临现场就说明…
+Dialogue: 0,0:47:01.38,0:47:03.84,Default,,0,0,0,,没错 说明「诗音计划」成功了
+Dialogue: 0,0:47:03.84,0:47:05.72,Default,,0,0,0,,支社长也只能认可我们了
+Dialogue: 0,0:47:05.72,0:47:07.35,Default,,0,0,0,,大家不要飘了
+Dialogue: 0,0:47:07.97,0:47:09.68,Default,,0,0,0,,试验还没结束呢
+Dialogue: 0,0:47:09.68,0:47:11.06,Default,,0,0,0,,好的
+Dialogue: 0,0:47:18.27,0:47:20.86,Default,,0,0,0,,课长 诗音校服的替换品
+Dialogue: 0,0:47:20.86,0:47:22.40,Default,,0,0,0,,需要书面申请吗？
+Dialogue: 0,0:47:22.65,0:47:23.19,Default,,0,0,0,,抱歉
+Dialogue: 0,0:47:24.45,0:47:25.32,Default,,0,0,0,,野见山
+Dialogue: 0,0:47:25.74,0:47:28.53,Default,,0,0,0,,这份申请书原案 麻烦去跟总务确认一下
+Dialogue: 0,0:47:33.79,0:47:34.66,Default,,0,0,0,,支社长
+Dialogue: 0,0:47:35.16,0:47:36.58,Default,,0,0,0,,看上去很顺利啊
+Dialogue: 0,0:47:36.58,0:47:40.38,Default,,0,0,0,,是啊 感觉我都要被年轻人的活力吹倒了
+Dialogue: 0,0:47:41.92,0:47:43.26,Default,,0,0,0,,野见山主任
+Dialogue: 0,0:47:43.84,0:47:47.01,Default,,0,0,0,,你比天野早五届是吧
+Dialogue: 0,0:47:51.85,0:47:52.93,Default,,0,0,0,,早啊 悟美
+Dialogue: 0,0:47:52.93,0:47:54.14,Default,,0,0,0,,早啊 诗音
+Dialogue: 0,0:47:55.44,0:47:56.52,Default,,0,0,0,,跟我来一下
+Dialogue: 0,0:48:00.15,0:48:02.11,Default,,0,0,0,,今天也太多人请假了吧
+Dialogue: 0,0:48:08.20,0:48:10.99,Default,,0,0,0,,居然翘课 太棒了
+Dialogue: 0,0:48:11.20,0:48:13.87,Default,,0,0,0,,而且居然是你这样的优等生提出来的
+Dialogue: 0,0:48:14.16,0:48:14.95,Default,,0,0,0,,我对你改观了
+Dialogue: 0,0:48:14.95,0:48:18.17,Default,,0,0,0,,在研究室的人来接之前回来 就没问题了吧
+Dialogue: 0,0:48:18.50,0:48:21.42,Default,,0,0,0,,但这样好吗 去你家打扰
+Dialogue: 0,0:48:21.42,0:48:22.92,Default,,0,0,0,,妈妈很晚才回来
+Dialogue: 0,0:48:22.92,0:48:24.76,Default,,0,0,0,,家务都是我在做的
+Dialogue: 0,0:48:24.76,0:48:27.09,Default,,0,800,0,,好 今天儿玩个痛快
+Dialogue: 0,0:48:26.17,0:48:27.09,Default,,800,0,0,,慢点
+Dialogue: 0,0:48:27.09,0:48:28.68,Default,,0,0,0,,我还是第一次翘课
+Dialogue: 0,0:48:28.68,0:48:29.14,Default,,0,0,0,,我也是
+Dialogue: 0,0:48:29.14,0:48:30.01,Default,,0,0,0,,你们这么认真啊
+Dialogue: 0,0:48:30.01,0:48:31.55,Default,,0,800,0,,阿后太不认真了
+Dialogue: 0,0:48:30.30,0:48:32.14,Default,,800,0,0,,老师 今天请你多多指教
+Dialogue: 0,0:48:32.14,0:48:32.89,Default,,0,0,0,,好嘞
+Dialogue: 0,0:48:32.89,0:48:35.31,Default,,0,0,0,,我说 为什么大家都这么开心啊
+Dialogue: 0,0:48:36.39,0:48:37.89,Default,,0,0,0,,大家也赢了比赛吗
+Dialogue: 0,0:48:39.81,0:48:42.61,Default,,0,0,0,,因为朋友幸福 对吧
+Dialogue: 0,0:48:43.36,0:48:44.44,Default,,0,0,0,,一 二…
+Dialogue: 0,0:48:44.44,0:48:46.90,Default,,0,0,0,,恭喜你获得首胜
+Dialogue: 0,0:48:48.36,0:48:50.32,Default,,0,0,0,,谢谢大家
+Dialogue: 0,0:48:50.32,0:48:51.91,Default,,0,0,0,,你这是哭还是笑啊
+Dialogue: 0,0:48:51.91,0:48:54.24,Default,,0,0,0,,他这是喜极而泣了吧 很棒啊
+Dialogue: 0,0:48:54.24,0:48:55.45,Default,,0,0,0,,雷霆 笑一个
+Dialogue: 0,0:48:56.96,0:48:58.67,Default,,0,0,0,,来 诗音也来拍一个
+Dialogue: 0,0:48:59.04,0:49:00.67,Default,,0,0,0,,为什么要拍照啊
+Dialogue: 0,0:49:01.67,0:49:02.79,Default,,0,0,0,,我想想啊
+Dialogue: 0,0:49:03.00,0:49:05.00,Default,,0,0,0,,为了不忘记？
+Dialogue: 0,0:49:05.00,0:49:06.67,Default,,0,0,0,,我什么都不会忘哦
+Dialogue: 0,0:49:07.13,0:49:08.80,Default,,0,0,0,,不是这个意思啦
+Dialogue: 0,0:49:09.13,0:49:10.01,Default,,0,0,0,,十真
+Dialogue: 0,0:49:10.93,0:49:15.06,Default,,0,0,0,,想要留下回忆这个行为 本身就有意义了吧
+Dialogue: 0,0:49:15.06,0:49:17.39,Default,,0,0,0,,不过 其实很少有人经常翻看照片吧
+Dialogue: 0,0:49:17.39,0:49:19.06,Default,,0,0,0,,重要的是拍的过程
+Dialogue: 0,0:49:19.35,0:49:21.27,Default,,0,0,0,,也就是 备份的意思？
+Dialogue: 0,0:49:21.73,0:49:22.61,Default,,0,0,0,,好比喻
+Dialogue: 0,0:49:22.61,0:49:23.27,Default,,0,0,0,,我懂了
+Dialogue: 0,0:49:23.77,0:49:24.65,Default,,0,0,0,,来拍照吧
+Dialogue: 0,0:49:37.54,0:49:39.04,Default,,0,0,0,,我弃权
+Dialogue: 0,0:49:40.79,0:49:41.71,Default,,0,0,0,,备份
+Dialogue: 0,0:49:41.71,0:49:44.29,Default,,0,0,0,,诗音 待会记得把手机还给我哦
+Dialogue: 0,0:49:50.43,0:49:51.76,Default,,0,0,0,,我说 悟美
+Dialogue: 0,0:49:52.76,0:49:55.43,Default,,0,0,0,,听说你以前打过小报告
+Dialogue: 0,0:49:56.14,0:49:57.02,Default,,0,0,0,,是为了十真吗
+Dialogue: 0,0:49:58.52,0:50:01.19,Default,,0,0,0,,是为了守护他那屋顶的活动室吧
+Dialogue: 0,0:50:01.98,0:50:04.15,Default,,0,0,0,,所以才去告发学长吸烟
+Dialogue: 0,0:50:04.81,0:50:05.52,Default,,0,0,0,,并没有
+Dialogue: 0,0:50:05.52,0:50:06.94,Default,,0,0,0,,坦率一点吧
+Dialogue: 0,0:50:07.82,0:50:09.74,Default,,0,0,0,,不过我好像也没资格这么说
+Dialogue: 0,0:50:10.24,0:50:11.70,Default,,0,0,0,,正因为是我才要说
+Dialogue: 0,0:50:12.57,0:50:13.87,Default,,0,0,0,,我是在赎罪
+Dialogue: 0,0:50:15.87,0:50:17.20,Default,,0,0,0,,小时候
+Dialogue: 0,0:50:17.41,0:50:20.58,Default,,0,0,0,,十真送了我一个AI玩具
+Dialogue: 0,0:50:21.21,0:50:22.42,Default,,0,0,0,,就是那种
+Dialogue: 0,0:50:22.75,0:50:24.04,Default,,0,0,0,,像个蛋一样的东西
+Dialogue: 0,0:50:24.79,0:50:26.04,Default,,0,0,0,,可以啊 十真
+Dialogue: 0,0:50:26.34,0:50:29.13,Default,,0,0,0,,不过 马上就被妈妈没收了
+Dialogue: 0,0:50:29.55,0:50:32.47,Default,,0,0,0,,你妈是禁止早恋的类型？
+Dialogue: 0,0:50:32.84,0:50:33.89,Default,,0,0,0,,不是的
+Dialogue: 0,0:50:34.47,0:50:37.97,Default,,0,0,0,,十真他 把那AI给改造了
+Dialogue: 0,0:50:38.81,0:50:40.10,Default,,0,0,0,,什么时候的事？
+Dialogue: 0,0:50:40.10,0:50:41.43,Default,,0,0,0,,小学三年级
+Dialogue: 0,0:50:41.60,0:50:43.39,Default,,0,0,0,,他还真是一心一意啊
+Dialogue: 0,0:50:44.44,0:50:46.40,Default,,0,0,0,,十真从小就很厉害
+Dialogue: 0,0:50:47.65,0:50:49.53,Default,,0,0,0,,也是 各种意义上
+Dialogue: 0,0:50:50.65,0:50:55.24,Default,,0,0,0,,之后妈妈把AI还原后 东西还给了十真
+Dialogue: 0,0:50:56.24,0:50:58.41,Default,,0,0,0,,在那之后 关系就变得尴尬了
+Dialogue: 0,0:50:58.58,0:51:01.12,Default,,0,0,0,,你是不是傻 你又没有错
+Dialogue: 0,0:51:04.25,0:51:06.88,Default,,0,0,0,,悟美她 现在幸福吗
+Dialogue: 0,0:51:07.79,0:51:11.84,Default,,0,0,0,,诗音 说起来 为什么你会知道悟美的名字
+Dialogue: 0,0:51:12.13,0:51:12.80,Default,,0,0,0,,悟美
+Dialogue: 0,0:51:15.09,0:51:17.01,Default,,0,0,0,,这个问题 是命令吗
+Dialogue: 0,0:51:19.97,0:51:21.22,Default,,0,0,0,,欢迎回家
+Dialogue: 0,0:51:21.56,0:51:24.31,Default,,0,0,0,,天野美津子还有一分钟就到家了
+Dialogue: 0,0:51:24.69,0:51:25.23,Default,,0,0,0,,怎么了
+Dialogue: 0,0:51:25.23,0:51:26.73,Default,,0,0,0,,我妈回来了
+Dialogue: 0,0:51:27.27,0:51:28.44,Default,,0,0,0,,那得打个招呼才行
+Dialogue: 0,0:51:29.23,0:51:31.28,Default,,0,0,0,,悟美妈妈 是星间研究室的
+Dialogue: 0,0:51:35.45,0:51:37.20,Default,,0,0,0,,悟美 你回来了吗
+Dialogue: 0,0:51:38.78,0:51:40.20,Default,,0,0,0,,打扰了
+Dialogue: 0,0:51:40.20,0:51:41.08,Default,,0,0,0,,朋友吗
+Dialogue: 0,0:51:41.08,0:51:42.95,Default,,0,0,0,,朋友赢了比赛
+Dialogue: 0,0:51:43.16,0:51:43.66,Default,,0,0,0,,开庆功会呢
+Dialogue: 0,0:51:44.12,0:51:44.54,Default,,0,0,0,,您好
+Dialogue: 0,0:51:44.87,0:51:45.92,Default,,0,0,0,,恭喜你了
+Dialogue: 0,0:51:46.29,0:51:48.21,Default,,0,0,0,,别介意 当自己家里就好
+Dialogue: 0,0:51:54.13,0:51:56.09,Default,,0,0,0,,怎么了 今天回来这么早
+Dialogue: 0,0:51:56.30,0:51:58.26,Default,,0,0,0,,看样子今晚要通宵
+Dialogue: 0,0:51:58.34,0:51:59.55,Default,,0,0,0,,所以先回来一下
+Dialogue: 0,0:51:59.89,0:52:01.31,Default,,0,0,0,,发生什么事了吗
+Dialogue: 0,0:52:01.31,0:52:04.68,Default,,0,0,0,,相反 计划进行得非常顺利
+Dialogue: 0,0:52:04.93,0:52:08.48,Default,,0,0,0,,说是会长要来视察 所以才会手忙脚乱的
+Dialogue: 0,0:52:11.15,0:52:12.40,Default,,0,0,0,,备份
+Dialogue: 0,0:52:18.87,0:52:20.12,Default,,0,0,0,,对了 我也…
+Dialogue: 0,0:52:20.62,0:52:22.58,Default,,0,0,0,,你好 能借用一下网络吗
+Dialogue: 0,0:52:22.99,0:52:24.00,Default,,0,0,0,,好的
+Dialogue: 0,0:52:36.09,0:52:37.09,Default,,0,0,0,,你房间的声音？
+Dialogue: 0,0:52:37.47,0:52:39.84,Default,,0,0,0,,奇怪 我闹钟忘关了吗
+Dialogue: 0,0:52:40.60,0:52:42.64,Default,,0,0,0,,你起床铃声是月亮公主啊
+Dialogue: 0,0:52:42.64,0:52:43.43,Default,,0,0,0,,还挺可爱的嘛
+Dialogue: 0,0:52:43.43,0:52:44.18,Default,,0,0,0,,我小时候也看过
+Dialogue: 0,0:52:44.18,0:52:45.10,Default,,0,0,0,,有… 有什么关系
+Dialogue: 0,0:52:45.10,0:52:46.10,Default,,0,0,0,,你还真是一点都没变
+Dialogue: 0,0:52:48.81,0:52:50.65,Default,,0,0,0,,这就是悟美喜欢的吧
+Dialogue: 0,0:52:51.02,0:52:54.53,Default,,0,0,0,,没错 播放次数1138
+Dialogue: 0,0:52:55.69,0:52:57.11,Default,,0,0,0,,一点都没变呢
+Dialogue: 0,0:53:00.11,0:53:02.20,Default,,0,0,0,,要是误启动 还真让人有点在意
+Dialogue: 0,0:53:02.37,0:53:03.16,Default,,0,0,0,,我去看看
+Dialogue: 0,0:53:03.70,0:53:04.33,Default,,0,0,0,,我去吧
+Dialogue: 0,0:53:04.33,0:53:06.37,Default,,0,0,0,,不用了 你们好好玩
+Dialogue: 0,0:53:06.62,0:53:07.12,Default,,0,0,0,,但是…
+Dialogue: 0,0:53:07.12,0:53:09.08,Default,,0,0,0,,AI的事情就交给我吧
+Dialogue: 0,0:53:10.29,0:53:11.46,Default,,0,0,0,,说不定是小偷
+Dialogue: 0,0:53:12.25,0:53:12.75,Default,,0,0,0,,什么
+Dialogue: 0,0:53:12.75,0:53:14.75,Default,,0,0,0,,可能是 企业间谍什么的
+Dialogue: 0,0:53:14.75,0:53:16.76,Default,,0,0,0,,对天野博士家来说 也有可能的吧
+Dialogue: 0,0:53:16.76,0:53:19.76,Default,,0,0,0,,不是吧 我家可是有AI安保的
+Dialogue: 0,0:53:20.09,0:53:22.22,Default,,0,0,0,,悟美的房间应该没人吧
+Dialogue: 0,0:53:22.22,0:53:23.35,Default,,0,0,0,,有一位
+Dialogue: 0,0:53:25.60,0:53:27.27,Default,,800,0,0,,我们先去看看情况吧
+Dialogue: 0,0:53:26.77,0:53:27.27,Default,,0,800,0,,我也去
+Dialogue: 0,0:53:27.52,0:53:30.23,Default,,0,0,0,,不… 不行 不许进我房间
+Dialogue: 0,0:53:30.23,0:53:32.27,Default,,0,0,0,,笨蛋 首先要报警
+Dialogue: 0,0:53:32.27,0:53:34.52,Default,,0,0,0,,不 叫星间保安部来可能更好
+Dialogue: 0,0:53:34.52,0:53:35.52,Default,,0,0,0,,这也不行
+Dialogue: 0,0:53:36.28,0:53:37.28,Default,,0,0,0,,你在说什么傻话
+Dialogue: 0,0:53:37.28,0:53:38.15,Default,,0,0,0,,不是 那个…
+Dialogue: 0,0:53:42.20,0:53:43.66,Default,,0,0,0,,阿姨 对不起
+Dialogue: 0,0:53:44.12,0:53:46.29,Default,,0,0,0,,我们撒谎了
+Dialogue: 0,0:53:46.29,0:53:47.50,Default,,0,800,0,,喂 雷霆
+Dialogue: 0,0:53:46.70,0:53:49.00,Default,,800,0,0,,我这人做不到隐瞒
+Dialogue: 0,0:53:49.58,0:53:52.17,Default,,0,0,0,,就是说你们还有一个朋友吗
+Dialogue: 0,0:53:52.58,0:53:53.46,Default,,0,800,0,,这个嘛…
+Dialogue: 0,0:53:52.71,0:53:54.21,Default,,800,0,0,,阿姨 这是有原因的
+Dialogue: 0,0:53:54.21,0:53:55.17,Default,,0,0,0,,是悟美的男朋友
+Dialogue: 0,0:53:57.88,0:54:01.30,Default,,0,0,0,,说是突然就见家长太紧张了 对吧
+Dialogue: 0,0:54:02.05,0:54:04.30,Default,,0,0,0,,悟美 交男朋友了…
+Dialogue: 0,0:54:04.76,0:54:05.35,Default,,0,0,0,,所以…
+Dialogue: 0,0:54:05.35,0:54:08.39,Default,,0,0,0,,那我 更要去打个招呼了啊
+Dialogue: 0,0:54:08.39,0:54:10.73,Default,,0,0,0,,等一下 人家还没做好心理准备
+Dialogue: 0,0:54:10.94,0:54:11.73,Default,,0,0,0,,起反作用了
+Dialogue: 0,0:54:11.73,0:54:12.27,Default,,0,0,0,,该怎么办
+Dialogue: 0,0:54:12.27,0:54:13.06,Default,,0,0,0,,十真
+Dialogue: 0,0:54:14.11,0:54:14.61,Default,,0,0,0,,等下
+Dialogue: 0,0:54:14.61,0:54:17.44,Default,,0,0,0,,没事啦 我又不反对你们
+Dialogue: 0,0:54:17.69,0:54:19.61,Default,,0,0,0,,不是啦 听我说啊
+Dialogue: 0,0:54:19.90,0:54:21.15,Default,,0,0,0,,初次见面
+Dialogue: 0,0:54:26.66,0:54:28.74,Default,,0,0,0,,下次叫他不要溜
+Dialogue: 0,0:54:53.52,0:54:55.27,Default,,0,0,0,,那我们先告辞了
+Dialogue: 0,0:54:55.69,0:54:57.19,Default,,0,0,0,,随时欢迎你们再来玩
+Dialogue: 0,0:54:57.44,0:54:58.40,Default,,0,0,0,,十真也是
+Dialogue: 0,0:54:58.40,0:55:00.32,Default,,0,0,0,,好久不见了 我很高兴哦
+Dialogue: 0,0:55:00.32,0:55:01.90,Default,,0,0,0,,哪里 我才是
+Dialogue: 0,0:55:02.74,0:55:04.49,Default,,0,0,0,,那明天学校见
+Dialogue: 0,0:55:04.49,0:55:05.53,Default,,0,800,0,,好 明天见
+Dialogue: 0,0:55:04.86,0:55:05.99,Default,,800,0,0,,天野 今天谢谢了
+Dialogue: 0,0:55:05.99,0:55:06.49,Default,,0,0,0,,悟美
+Dialogue: 0,0:55:09.49,0:55:10.33,Default,,0,0,0,,没事
+Dialogue: 0,0:55:13.62,0:55:15.21,Default,,0,0,0,,真是千钧一发啊
+Dialogue: 0,0:55:15.21,0:55:16.33,Default,,0,0,0,,不愧是十真
+Dialogue: 0,0:55:16.33,0:55:17.92,Default,,0,0,0,,我猜到按照诗音的逻辑
+Dialogue: 0,0:55:17.92,0:55:19.00,Default,,0,0,0,,应该那样做才对
+Dialogue: 0,0:55:19.00,0:55:20.25,Default,,0,0,0,,你这不是很懂嘛
+Dialogue: 0,0:55:20.88,0:55:22.67,Default,,0,0,0,,不过天野她很厉害啊
+Dialogue: 0,0:55:22.84,0:55:24.22,Default,,0,0,0,,居然包办家务
+Dialogue: 0,0:55:24.22,0:55:26.05,Default,,0,0,0,,她从小就很努力的
+Dialogue: 0,0:55:26.05,0:55:28.18,Default,,0,0,0,,说起来 我好像第一次见她笑
+Dialogue: 0,0:55:28.18,0:55:30.10,Default,,0,0,0,,她小时候经常笑的
+Dialogue: 0,0:55:30.64,0:55:31.22,Default,,0,0,0,,十真
+Dialogue: 0,0:55:33.77,0:55:36.15,Default,,0,0,0,,为什么悟美被叫做小报告公主
+Dialogue: 0,0:55:36.98,0:55:37.90,Default,,0,0,0,,你都知道吗
+Dialogue: 0,0:55:40.52,0:55:41.44,Default,,0,0,0,,无所谓吧
+Dialogue: 0,0:55:42.07,0:55:44.03,Default,,0,0,0,,好像是她告发了三年级的抽烟吧
+Dialogue: 0,0:55:45.53,0:55:47.11,Default,,0,0,0,,那不是活动室的…
+Dialogue: 0,0:55:47.11,0:55:49.95,Default,,0,0,0,,因为这个 足球部就被禁赛了
+Dialogue: 0,0:55:50.16,0:55:53.79,Default,,0,0,0,,不过 好歹他们也算是我们学校的英雄吧
+Dialogue: 0,0:55:55.12,0:55:56.75,Default,,0,0,0,,那是电子烟吗
+Dialogue: 0,0:55:57.08,0:55:58.08,Default,,0,0,0,,你几年级的
+Dialogue: 0,0:56:00.21,0:56:02.00,Default,,0,0,0,,这都是为了十真你啊
+Dialogue: 0,0:56:04.92,0:56:06.13,Default,,0,0,0,,十真
+Dialogue: 0,0:56:09.14,0:56:11.64,Default,,0,0,0,,我懂了
+Dialogue: 0,0:56:14.10,0:56:17.81,Default,,0,0,0,,既然一个人幸福 能让大家都幸福
+Dialogue: 0,0:56:18.90,0:56:22.32,Default,,0,0,0,,对象 就不用是悟美了
+Dialogue: 0,0:56:24.94,0:56:25.65,Default,,0,800,0,,诗音
+Dialogue: 0,0:56:24.94,0:56:25.65,Default,,800,0,0,,十真
+Dialogue: 0,0:56:25.65,0:56:26.32,Default,,0,0,0,,你怎么了 诗音
+Dialogue: 0,0:56:26.70,0:56:27.32,Default,,0,0,0,,诗音
+Dialogue: 0,0:56:27.32,0:56:30.70,Default,,0,0,0,,没事啦 我会让十真幸福的
+Dialogue: 0,0:56:32.49,0:56:35.41,Default,,0,0,0,,只要是为了幸福 什么都会做的对吧
+Dialogue: 0,0:56:41.34,0:56:43.38,Default,,0,0,0,,感觉悟美最近很开心的样子
+Dialogue: 0,0:56:45.55,0:56:46.63,Default,,0,0,0,,我说 妈妈
+Dialogue: 0,0:56:47.43,0:56:50.85,Default,,0,0,0,,AI 一般会说想要给谁幸福吗
+Dialogue: 0,0:56:52.05,0:56:54.68,Default,,0,0,0,,有人下命令的话 应该会的
+Dialogue: 0,0:56:55.10,0:56:57.14,Default,,0,0,0,,我不是这个意思
+Dialogue: 0,0:56:57.89,0:57:03.11,Default,,0,0,0,,重要的是 AI会如何理解这一命令
+Dialogue: 0,0:57:03.90,0:57:07.36,Default,,0,0,0,,比方说 为了使某人幸福的行动
+Dialogue: 0,0:57:07.36,0:57:10.45,Default,,0,0,0,,也有可能反而会招致不幸
+Dialogue: 0,0:57:10.99,0:57:14.12,Default,,0,0,0,,你是说AI也有可能会伤人
+Dialogue: 0,0:57:14.45,0:57:17.04,Default,,0,0,0,,这样想的人可不少
+Dialogue: 0,0:57:17.20,0:57:18.37,Default,,0,0,0,,实在让人遗憾
+Dialogue: 0,0:57:19.58,0:57:22.08,Default,,0,0,0,,但是 在跨越这些阻碍
+Dialogue: 0,0:57:22.08,0:57:24.46,Default,,0,0,0,,AI真正让人变得幸福时
+Dialogue: 0,0:57:25.25,0:57:29.01,Default,,0,0,0,,我就会觉得 我的工作是有价值的
+Dialogue: 0,0:57:31.18,0:57:33.30,Default,,0,0,0,,妈妈 其实…
+Dialogue: 0,0:57:39.14,0:57:40.64,Default,,0,0,0,,喂 怎么了
+Dialogue: 0,0:57:41.69,0:57:42.81,Default,,0,0,0,,你怎么了 十真
+Dialogue: 0,0:57:42.81,0:57:43.52,Default,,0,0,0,,我是诗音
+Dialogue: 0,0:57:44.57,0:57:47.78,Default,,0,0,0,,悟美 我决定更换目标了
+Dialogue: 0,0:57:48.53,0:57:49.28,Default,,0,0,0,,你在说什么
+Dialogue: 0,0:57:49.28,0:57:51.70,Default,,0,0,0,,我要让十真幸福
+Dialogue: 0,0:57:51.91,0:57:52.57,Default,,0,0,0,,因为…
+Dialogue: 0,0:57:52.57,0:57:53.87,Default,,0,0,0,,等一下 诗音
+Dialogue: 0,0:57:53.87,0:57:55.53,Default,,0,0,0,,要先准备一下啊
+Dialogue: 0,0:57:55.53,0:57:57.66,Default,,0,0,0,,别担心 会顺利的
+Dialogue: 0,0:57:57.95,0:57:58.58,Default,,0,0,0,,怎么回事
+Dialogue: 0,0:57:58.58,0:57:59.96,Default,,0,0,0,,演出时间到了哦 悟美
+Dialogue: 0,0:58:05.46,0:58:06.71,Default,,0,0,0,,十真怎么了吗
+Dialogue: 0,0:58:08.38,0:58:09.09,Default,,0,0,0,,诗…
+Dialogue: 0,0:58:13.34,0:58:14.09,Default,,0,0,0,,我…
+Dialogue: 0,0:58:14.64,0:58:15.72,Default,,0,0,0,,出趟门
+Dialogue: 0,0:58:17.10,0:58:18.06,Default,,0,0,0,,怎么了？
+Dialogue: 0,0:59:07.40,0:59:08.11,Default,,0,0,0,,诗音
+Dialogue: 0,0:59:21.75,0:59:23.41,Default,,0,0,0,,诗音 十真在哪里…
+Dialogue: 0,0:59:23.41,0:59:24.79,Default,,0,0,0,,停
+Dialogue: 0,0:59:28.13,0:59:29.42,Default,,0,0,0,,我看看啊
+Dialogue: 0,0:59:29.88,0:59:31.76,Default,,0,0,0,,再往前走一步
+Dialogue: 0,0:59:34.22,0:59:36.09,Default,,0,0,0,,没错 那里是最佳位置
+Dialogue: 0,0:59:36.43,0:59:37.43,Default,,0,0,0,,要好好看着哦
+Dialogue: 0,0:59:38.72,0:59:39.64,Default,,0,0,0,,看什么
+Dialogue: 0,0:59:40.01,0:59:41.64,Default,,0,0,0,,悟美喜欢的
+Dialogue: 0,0:59:42.35,0:59:44.48,Default,,0,0,0,,悟美觉得美好的东西
+Dialogue: 0,1:01:04.22,1:01:05.18,Default,,0,0,0,,{\an8}十真…
+Dialogue: 0,1:02:25.72,1:02:27.18,Default,,0,0,0,,悟美 哭了
+Dialogue: 0,1:02:27.85,1:02:28.77,Default,,0,0,0,,她在伤心吗
+Dialogue: 0,1:02:28.97,1:02:30.89,Default,,0,0,0,,笨蛋 她高兴得很
+Dialogue: 0,1:02:31.52,1:02:32.85,Default,,0,0,0,,但她在哭
+Dialogue: 0,1:02:37.44,1:02:39.99,Default,,0,0,0,,也许你会觉得我很傻
+Dialogue: 0,1:02:40.65,1:02:43.32,Default,,0,0,0,,但我一直 都想看看这种景色
+Dialogue: 0,1:02:44.07,1:02:45.74,Default,,0,0,0,,从小的时候就一直
+Dialogue: 0,1:02:46.12,1:02:47.08,Default,,0,0,0,,我知道
+Dialogue: 0,1:02:48.87,1:02:49.50,Default,,0,0,0,,一直都知道
+Dialogue: 0,1:02:50.41,1:02:51.00,Default,,0,0,0,,感觉真棒
+Dialogue: 0,1:02:51.00,1:02:52.04,Default,,0,0,0,,这场合是最好的机会了
+Dialogue: 0,1:02:52.04,1:02:52.96,Default,,0,0,0,,赶紧拿下
+Dialogue: 0,1:02:52.96,1:02:55.29,Default,,0,0,0,,十真 能坦率地说出来了吗
+Dialogue: 0,1:02:55.50,1:02:56.17,Default,,0,0,0,,笨蛋
+Dialogue: 0,1:02:57.34,1:03:00.71,Default,,0,0,0,,谢… 谢谢你 守护了我重要的地方
+Dialogue: 0,1:03:05.80,1:03:08.64,Default,,0,0,0,,我以为自己很关注你
+Dialogue: 0,1:03:09.10,1:03:10.72,Default,,0,0,0,,但我却一直都没发现 很抱歉
+Dialogue: 0,1:03:11.06,1:03:12.98,Default,,0,0,0,,但是 以后不一样了
+Dialogue: 0,1:03:13.89,1:03:14.56,Default,,0,0,0,,十真…
+Dialogue: 0,1:03:15.94,1:03:16.56,Default,,0,0,0,,我会…
+Dialogue: 0,1:03:17.94,1:03:18.98,Default,,0,0,0,,守护悟美…
+Dialogue: 0,1:04:20.00,1:04:21.50,Default,,0,0,0,,我先说清楚
+Dialogue: 0,1:04:21.50,1:04:23.42,Default,,0,0,0,,你们还是孩子
+Dialogue: 0,1:04:24.38,1:04:27.05,Default,,0,0,0,,是说让我们不要过问大人的事吗
+Dialogue: 0,1:04:27.05,1:04:29.22,Default,,0,0,0,,你再不愿意 也总有一天会长大
+Dialogue: 0,1:04:29.43,1:04:31.68,Default,,0,0,0,,在那之前多享受一下青春年少吧
+Dialogue: 0,1:04:34.22,1:04:36.14,Default,,0,0,0,,诗音她会怎么样
+Dialogue: 0,1:04:36.44,1:04:38.48,Default,,0,0,0,,那是我们公司的产品
+Dialogue: 0,1:04:38.69,1:04:41.23,Default,,0,0,0,,不是 诗音不是物品
+Dialogue: 0,1:04:41.86,1:04:44.19,Default,,0,0,0,,所以我才说你还是孩子
+Dialogue: 0,1:04:45.78,1:04:50.12,Default,,0,0,0,,都没拿到学校的许可 就在学校进行AI实验
+Dialogue: 0,1:04:51.41,1:04:54.83,Default,,0,0,0,,这可能是违反AI管制法的大问题
+Dialogue: 0,1:04:55.83,1:05:01.04,Default,,0,0,0,,更何况这AI还有一个重大的BUG
+Dialogue: 0,1:05:01.92,1:05:06.47,Default,,0,0,0,,这有可能会给未成年的你们造成伤害
+Dialogue: 0,1:05:06.80,1:05:08.63,Default,,0,0,0,,诗音她不会那么做的
+Dialogue: 0,1:05:08.97,1:05:11.14,Default,,0,0,0,,想让别人把你当大人
+Dialogue: 0,1:05:11.14,1:05:12.93,Default,,0,0,0,,就多想想社会的复杂吧
+Dialogue: 0,1:05:13.64,1:05:15.27,Default,,0,0,0,,天野悟美
+Dialogue: 0,1:05:16.56,1:05:18.14,Default,,0,0,0,,这件事要是暴露出去
+Dialogue: 0,1:05:18.14,1:05:19.90,Default,,0,0,0,,会给星间造成巨大的打击
+Dialogue: 0,1:05:20.27,1:05:23.11,Default,,0,0,0,,这可是你们父母上班的公司哦
+Dialogue: 0,1:05:25.32,1:05:27.03,Default,,0,0,0,,你们还是孩子
+Dialogue: 0,1:05:27.57,1:05:29.57,Default,,0,0,0,,还要靠父母养活的话
+Dialogue: 0,1:05:29.57,1:05:31.66,Default,,0,0,0,,就不要给父母找麻烦
+Dialogue: 0,1:05:33.83,1:05:36.29,Default,,0,0,0,,她篡改录像被发现了吗
+Dialogue: 0,1:05:36.66,1:05:39.16,Default,,0,0,0,,诗音所入侵的
+Dialogue: 0,1:05:39.16,1:05:41.04,Default,,0,0,0,,不仅仅是监控摄像头
+Dialogue: 0,1:05:41.54,1:05:44.13,Default,,0,0,0,,还有校内的广播照明系统
+Dialogue: 0,1:05:44.13,1:05:46.51,Default,,0,0,0,,海上实验中的大型太阳能板
+Dialogue: 0,1:05:46.51,1:05:47.76,Default,,0,0,0,,达里厄型风力发电机
+Dialogue: 0,1:05:48.51,1:05:52.76,Default,,0,0,0,,另外还听说 她让紧急停止装置无效了
+Dialogue: 0,1:05:53.68,1:05:55.68,Default,,0,0,0,,真是可怕的AI
+Dialogue: 0,1:05:56.60,1:05:58.81,Default,,0,0,0,,我们的实验员看到了
+Dialogue: 0,1:05:59.27,1:06:03.02,Default,,0,0,0,,本该在学校内的实验机却在校外
+Dialogue: 0,1:06:07.48,1:06:08.61,Default,,0,0,0,,今天你先回去吧
+Dialogue: 0,1:06:10.24,1:06:12.95,Default,,0,0,0,,跟你母亲好好谈谈吧
+Dialogue: 0,1:06:29.30,1:06:31.01,Default,,0,0,0,,欢迎回来 悟美
+Dialogue: 0,1:06:47.82,1:06:49.32,Default,,0,0,0,,悟美
+Dialogue: 0,1:06:51.03,1:06:52.53,Default,,0,0,0,,你也要喝点儿吗
+Dialogue: 0,1:06:54.11,1:06:56.70,Default,,0,0,0,,我们说好了吧 要去旅行
+Dialogue: 0,1:06:57.66,1:07:00.00,Default,,0,0,0,,我现在什么工作都没了
+Dialogue: 0,1:07:02.37,1:07:04.42,Default,,0,0,0,,走吧 立刻就走
+Dialogue: 0,1:07:04.62,1:07:05.67,Default,,0,0,0,,明天就走
+Dialogue: 0,1:07:06.46,1:07:07.38,Default,,0,0,0,,都没了…
+Dialogue: 0,1:07:07.38,1:07:09.50,Default,,0,0,0,,要不就辞了吧
+Dialogue: 0,1:07:10.17,1:07:11.97,Default,,0,0,0,,要不你也别上学了吧
+Dialogue: 0,1:07:13.55,1:07:14.47,Default,,0,0,0,,等一下
+Dialogue: 0,1:07:14.84,1:07:17.89,Default,,0,0,0,,这样一来 诗音会怎么样
+Dialogue: 0,1:07:19.39,1:07:20.56,Default,,0,0,0,,已经结束了
+Dialogue: 0,1:07:21.39,1:07:25.06,Default,,0,0,0,,他们一直在等着我失败
+Dialogue: 0,1:07:26.02,1:07:28.15,Default,,0,0,0,,因为那些蠢货的关系
+Dialogue: 0,1:07:28.52,1:07:31.61,Default,,0,0,0,,今天这个国家的AI发展倒退了一大步
+Dialogue: 0,1:07:31.61,1:07:32.86,Default,,0,0,0,,活该
+Dialogue: 0,1:07:32.86,1:07:34.15,Default,,0,0,0,,你在说什么啊
+Dialogue: 0,1:07:35.03,1:07:37.53,Default,,0,0,0,,诗音不是妈妈做的吗
+Dialogue: 0,1:07:38.24,1:07:39.49,Default,,0,0,0,,这不像你啊
+Dialogue: 0,1:07:39.49,1:07:40.87,Default,,0,0,0,,妈妈一直都很积极…
+Dialogue: 0,1:07:40.87,1:07:41.62,Default,,0,0,0,,既然你知道…
+Dialogue: 0,1:07:42.83,1:07:44.87,Default,,0,0,0,,为什么不告诉我呢
+Dialogue: 0,1:07:46.00,1:07:47.38,Default,,0,0,0,,我一直以来做的事
+Dialogue: 0,1:07:48.00,1:07:49.50,Default,,0,0,0,,原来都是白费功夫吗
+Dialogue: 0,1:07:55.63,1:07:57.22,Default,,0,0,0,,暂时别跟我说话
+Dialogue: 0,1:07:58.55,1:08:00.26,Default,,0,0,0,,我怕自己找不到合适的词
+Dialogue: 0,1:08:02.77,1:08:04.94,Default,,0,0,0,,芦森同学因为家庭原因
+Dialogue: 0,1:08:04.94,1:08:06.85,Default,,0,0,0,,突然转学了
+Dialogue: 0,1:08:07.52,1:08:08.02,Default,,0,0,0,,开玩笑吧
+Dialogue: 0,1:08:08.02,1:08:08.73,Default,,0,0,0,,不会吧
+Dialogue: 0,1:08:08.94,1:08:10.02,Default,,0,0,0,,不要吵闹
+Dialogue: 0,1:08:10.48,1:08:11.90,Default,,0,0,0,,详情我也不知道
+Dialogue: 0,1:08:12.44,1:08:15.15,Default,,0,0,0,,{\an8}星间方面说是由于人事调动
+Dialogue: 0,1:08:15.15,1:08:18.07,Default,,0,0,0,,{\an8}让我替芦森跟大家告个别
+Dialogue: 0,1:08:11.90,1:08:14.11,Default,,0,0,0,,十真 你是不是知道点什么
+Dialogue: 0,1:08:14.65,1:08:16.07,Default,,0,0,0,,没有 不知道
+Dialogue: 0,1:08:17.74,1:08:20.33,Default,,0,0,0,,我家的电脑被星间没收了
+Dialogue: 0,1:08:20.33,1:08:21.95,Default,,0,0,0,,原来不止我的吗
+Dialogue: 0,1:08:21.95,1:08:24.04,Default,,0,0,0,,他们还调查手机里面
+Dialogue: 0,1:08:24.20,1:08:25.66,Default,,0,0,0,,这算侵犯隐私了吧
+Dialogue: 0,1:08:27.33,1:08:28.29,Default,,0,0,0,,你还反抗了吗
+Dialogue: 0,1:08:28.63,1:08:30.25,Default,,0,0,0,,不是 这是被老爸打的
+Dialogue: 0,1:08:30.92,1:08:31.80,Default,,0,0,0,,悟美呢
+Dialogue: 0,1:08:31.80,1:08:32.71,Default,,0,0,0,,没有回信
+Dialogue: 0,1:08:32.71,1:08:34.13,Default,,0,0,0,,好像也没联系学校
+Dialogue: 0,1:08:34.13,1:08:36.72,Default,,0,0,0,,确实 天野应该是最受打击的
+Dialogue: 0,1:08:36.72,1:08:37.43,Default,,0,0,0,,我说
+Dialogue: 0,1:08:38.68,1:08:40.39,Default,,0,0,0,,诗音会怎么样
+Dialogue: 0,1:08:42.97,1:08:44.39,Default,,0,0,0,,应该不至于被毁了吧
+Dialogue: 0,1:08:44.77,1:08:45.73,Default,,0,0,0,,这么辛苦才做出来
+Dialogue: 0,1:08:45.73,1:08:47.06,Default,,0,0,0,,只要我们不说出去
+Dialogue: 0,1:08:47.06,1:08:48.56,Default,,0,0,0,,他们就不会追究了吧
+Dialogue: 0,1:08:49.35,1:08:52.48,Default,,0,0,0,,诗音她 做出了命令以外的行动
+Dialogue: 0,1:08:52.94,1:08:55.49,Default,,0,0,0,,是指要让悟美幸福的事吗
+Dialogue: 0,1:08:55.74,1:08:59.74,Default,,0,0,0,,有很多人 觉得这种异常是很恐怖的
+Dialogue: 0,1:09:00.99,1:09:04.87,Default,,0,0,0,,诗音会 被完全清除数据
+Dialogue: 0,1:09:05.08,1:09:05.91,Default,,0,0,0,,你说清除
+Dialogue: 0,1:09:05.91,1:09:08.92,Default,,0,0,0,,就是说诗音 会被杀死吗
+Dialogue: 0,1:09:09.67,1:09:10.54,Default,,0,0,0,,怎么能
+Dialogue: 0,1:09:12.54,1:09:14.46,Default,,0,0,0,,听说芦森诗音是连夜跑路了
+Dialogue: 0,1:09:14.46,1:09:15.34,Default,,0,0,0,,什么意思
+Dialogue: 0,1:09:15.34,1:09:18.18,Default,,0,0,0,,听说父母是行业间谍 在暗中扩散机密
+Dialogue: 0,1:09:18.59,1:09:19.34,Default,,0,0,0,,这不是犯罪吗
+Dialogue: 0,1:09:19.34,1:09:21.47,Default,,0,0,0,,怪不得跟小报告公主玩那么好
+Dialogue: 0,1:09:23.10,1:09:23.72,Default,,0,0,0,,十真
+Dialogue: 0,1:09:26.18,1:09:27.60,Default,,0,0,0,,她才没有打小报告
+Dialogue: 0,1:09:28.35,1:09:30.19,Default,,0,0,0,,诗音和悟美 都不是那样的人
+Dialogue: 0,1:09:30.44,1:09:31.81,Default,,0,0,0,,那为什么她突然就转校了
+Dialogue: 0,1:09:31.81,1:09:32.98,Default,,0,0,0,,你也不知道吧
+Dialogue: 0,1:09:34.52,1:09:35.28,Default,,0,0,0,,阿后
+Dialogue: 0,1:09:37.11,1:09:38.15,Default,,0,0,0,,我们不能想想办法吗
+Dialogue: 0,1:09:38.61,1:09:39.74,Default,,0,0,0,,想什么办法
+Dialogue: 0,1:09:39.95,1:09:42.24,Default,,0,0,0,,诗音会死哎 得救她才行
+Dialogue: 0,1:09:42.70,1:09:44.20,Default,,0,0,0,,跟星间作对吗
+Dialogue: 0,1:09:44.87,1:09:48.00,Default,,0,0,0,,大企业对高中生 大人对小孩
+Dialogue: 0,1:09:48.21,1:09:49.12,Default,,0,0,0,,没法比
+Dialogue: 0,1:09:50.25,1:09:54.25,Default,,0,0,0,,好好 我还是小孩 你很懂社会对吧
+Dialogue: 0,1:09:54.71,1:09:55.67,Default,,0,0,0,,干嘛这么说
+Dialogue: 0,1:09:55.67,1:09:57.21,Default,,0,0,0,,反正我就是个笨蛋
+Dialogue: 0,1:10:00.01,1:10:00.93,Default,,800,0,0,,真是的
+Dialogue: 0,1:10:00.34,1:10:01.38,Default,,0,800,0,,坏了
+Dialogue: 0,1:10:07.85,1:10:08.60,Default,,0,0,0,,诗音
+Dialogue: 0,1:10:12.94,1:10:14.36,Default,,0,0,0,,我的存档…
+Dialogue: 0,1:10:15.69,1:10:17.57,Default,,0,0,0,,连这里也不放过吗
+Dialogue: 0,1:10:17.57,1:10:19.49,Default,,0,0,0,,我的1200个小时啊
+Dialogue: 0,1:10:19.49,1:10:21.07,Default,,0,0,0,,你没备份吗
+Dialogue: 0,1:10:34.96,1:10:36.88,Default,,0,0,0,,这个问题 是命令吗
+Dialogue: 0,1:10:46.10,1:10:46.64,Default,,0,0,0,,什么事
+Dialogue: 0,1:10:46.89,1:10:49.10,Default,,0,0,0,,十真 告诉我诗音的位置
+Dialogue: 0,1:10:51.14,1:10:53.10,Default,,0,0,0,,你问这个干什么
+Dialogue: 0,1:10:53.56,1:10:54.23,Default,,0,0,0,,我要去救她
+Dialogue: 0,1:10:55.27,1:10:58.15,Default,,0,0,0,,太乱来了 高中生怎么斗得过大企业
+Dialogue: 0,1:10:58.15,1:11:01.32,Default,,0,0,0,,乱来也要去 我不能就这样放弃
+Dialogue: 0,1:11:01.78,1:11:03.74,Default,,0,0,0,,不行 就算知道我也不告诉你
+Dialogue: 0,1:11:03.74,1:11:04.78,Default,,0,0,0,,求你了 十真
+Dialogue: 0,1:11:07.24,1:11:09.41,Default,,0,0,0,,我已经一无所有了
+Dialogue: 0,1:11:10.20,1:11:12.04,Default,,0,0,0,,照片也全被他们抢走了
+Dialogue: 0,1:11:13.33,1:11:15.46,Default,,0,0,0,,留个回忆纪念 又有什么错
+Dialogue: 0,1:11:17.17,1:11:17.92,Default,,0,0,0,,回忆…
+Dialogue: 0,1:11:23.97,1:11:25.30,Default,,0,0,0,,20点整
+Dialogue: 0,1:11:28.93,1:11:30.47,Default,,0,0,0,,您不开心吗
+Dialogue: 0,1:11:35.44,1:11:36.23,Default,,0,0,0,,停下
+Dialogue: 0,1:11:37.23,1:11:38.27,Default,,0,0,0,,快给我停下
+Dialogue: 0,1:12:10.72,1:12:12.22,Default,,0,0,0,,一路顺风 悟美
+Dialogue: 0,1:13:21.75,1:13:24.42,Default,,0,0,0,,悟美 你现在幸福吗
+Dialogue: 0,1:13:26.97,1:13:28.63,Default,,0,0,0,,怎么可能会幸福
+Dialogue: 0,1:13:32.26,1:13:34.31,Default,,0,0,0,,明明平时不请自来
+Dialogue: 0,1:13:35.97,1:13:36.89,Default,,0,0,0,,你倒是唱啊
+Dialogue: 0,1:13:38.60,1:13:40.27,Default,,0,0,0,,你唱歌啊 诗音
+Dialogue: 0,1:13:56.20,1:13:58.00,Default,,0,0,0,,悟美 我找你半天了
+Dialogue: 0,1:14:00.46,1:14:02.79,Default,,0,0,0,,对不起 十真
+Dialogue: 0,1:14:05.42,1:14:08.47,Default,,0,0,0,,因为我 让大家变得不幸了
+Dialogue: 0,1:14:09.84,1:14:12.93,Default,,0,0,0,,妈妈 十真 大家
+Dialogue: 0,1:14:13.85,1:14:14.93,Default,,0,0,0,,就连诗音也…
+Dialogue: 0,1:14:21.35,1:14:22.06,Default,,0,800,0,,悟美
+Dialogue: 0,1:14:21.52,1:14:22.90,Default,,800,0,0,,别管我
+Dialogue: 0,1:14:26.52,1:14:28.07,Default,,0,0,0,,我一个人待着就好了
+Dialogue: 0,1:14:29.40,1:14:32.95,Default,,0,0,0,,这样 就不会有任何人不幸了
+Dialogue: 0,1:14:34.32,1:14:34.87,Default,,0,400,0,,那…
+Dialogue: 0,1:14:34.32,1:14:35.16,Default,,800,0,0,,求你了
+Dialogue: 0,1:14:35.41,1:14:37.41,Default,,0,0,0,,就让我孤身一人吧
+Dialogue: 0,1:14:53.18,1:15:00.39,Default,,0,0,0,,我一直都注视着你
+Dialogue: 0,1:15:00.39,1:15:00.93,Default,,0,0,0,,别唱了
+Dialogue: 0,1:15:00.93,1:15:06.94,Default,,800,0,0,,彼此都会变得更坚强
+Dialogue: 0,1:15:03.94,1:15:04.85,Default,,0,800,0,,别唱了
+Dialogue: 0,1:15:07.36,1:15:09.23,Default,,0,0,0,,不要学诗音了
+Dialogue: 0,1:15:09.82,1:15:11.19,Default,,0,0,0,,还有 歌词也错了…
+Dialogue: 0,1:15:11.19,1:15:17.58,Default,,0,0,0,,当你明白了 就抬头看看天空
+Dialogue: 0,1:15:25.04,1:15:25.83,Default,,0,0,0,,唱得好烂
+Dialogue: 0,1:15:27.17,1:15:28.46,Default,,0,0,0,,毕竟我不是诗音
+Dialogue: 0,1:15:35.55,1:15:37.76,Default,,0,0,0,,我好想你 诗音
+Dialogue: 0,1:15:44.64,1:15:45.31,Default,,0,0,0,,悟美
+Dialogue: 0,1:15:46.77,1:15:48.19,Default,,0,0,0,,我有东西想让你看看
+Dialogue: 0,1:15:49.65,1:15:52.82,Default,,0,0,0,,我们在很久以前 就见过诗音了
+Dialogue: 0,1:15:58.16,1:15:58.99,Default,,0,0,0,,集合？
+Dialogue: 0,1:15:59.62,1:16:00.66,Default,,0,0,0,,去悟美家？
+Dialogue: 0,1:16:10.92,1:16:14.47,Default,,0,0,0,,诗音在硬盘上备份了自己的视频记录
+Dialogue: 0,1:16:15.17,1:16:16.55,Default,,0,0,0,,她为什么会这么做
+Dialogue: 0,1:16:16.55,1:16:17.59,Default,,0,0,0,,因为回忆
+Dialogue: 0,1:16:18.30,1:16:20.43,Default,,0,0,0,,诗音留下了她认为重要的东西
+Dialogue: 0,1:16:25.35,1:16:27.06,Default,,0,0,0,,你应该还有印象吧
+Dialogue: 0,1:16:34.32,1:16:36.49,Default,,0,0,0,,怎么样 喜欢吗
+Dialogue: 0,1:16:37.70,1:16:41.95,Default,,0,0,0,,「我变成了吊坠」
+Dialogue: 0,1:16:42.49,1:16:44.79,Default,,0,0,0,,才三天就挺能说的了
+Dialogue: 0,1:16:45.12,1:16:46.33,Default,,0,0,0,,哪里有说话呀
+Dialogue: 0,1:16:47.04,1:16:47.42,Default,,0,0,0,,可是…
+Dialogue: 0,1:16:47.42,1:16:48.42,Default,,0,0,0,,只是文字而已
+Dialogue: 0,1:16:51.13,1:16:53.80,Default,,0,0,0,,要是能跟它对话就好了
+Dialogue: 0,1:16:55.13,1:16:57.30,Default,,0,0,0,,把这个口述系统…
+Dialogue: 0,1:16:58.47,1:16:58.89,Default,,0,0,0,,好了
+Dialogue: 0,1:17:02.47,1:17:03.26,Default,,0,0,0,,你好
+Dialogue: 0,1:17:03.60,1:17:04.43,Default,,0,0,0,,你好
+Dialogue: 0,1:17:04.43,1:17:05.10,Default,,0,0,0,,OK
+Dialogue: 0,1:17:06.14,1:17:07.52,Default,,0,0,0,,好了吗 我要下命令了
+Dialogue: 0,1:17:09.48,1:17:10.56,Default,,0,0,0,,要让悟美…
+Dialogue: 0,1:17:11.98,1:17:13.40,Default,,0,0,0,,变得幸福
+Dialogue: 0,1:17:13.98,1:17:14.78,Default,,0,0,0,,幸福？
+Dialogue: 0,1:17:15.03,1:17:17.45,Default,,0,0,0,,没错 你要跟悟美说很多话
+Dialogue: 0,1:17:20.82,1:17:21.99,Default,,0,0,0,,你好
+Dialogue: 0,1:17:22.49,1:17:24.33,Default,,0,0,0,,你好 悟美
+Dialogue: 0,1:17:25.12,1:17:26.16,Default,,0,0,0,,谢谢你
+Dialogue: 0,1:17:26.16,1:17:28.04,Default,,0,0,0,,要是有什么问题 随时找我
+Dialogue: 0,1:17:28.16,1:17:29.21,Default,,0,0,0,,我会修好的
+Dialogue: 0,1:17:30.04,1:17:31.63,Default,,0,0,0,,说什么都可以吗
+Dialogue: 0,1:17:31.63,1:17:32.09,Default,,0,0,0,,是的
+Dialogue: 0,1:17:32.84,1:17:35.92,Default,,0,0,0,,悟美 你现在幸福吗
+Dialogue: 0,1:17:38.68,1:17:42.10,Default,,0,0,0,,这里 因为月亮公主的歌声 他们和好了
+Dialogue: 0,1:17:42.47,1:17:44.39,Default,,0,0,0,,明明一直都在打架
+Dialogue: 0,1:17:45.18,1:17:45.97,Default,,0,0,0,,悟美
+Dialogue: 0,1:17:46.56,1:17:48.27,Default,,0,0,0,,这个 你喜欢吗
+Dialogue: 0,1:17:48.52,1:17:49.56,Default,,0,0,0,,非常喜欢
+Dialogue: 0,1:17:51.85,1:17:54.52,Default,,0,0,0,,对了 你会唱歌吗
+Dialogue: 0,1:17:54.73,1:17:55.36,Default,,0,0,0,,歌？
+Dialogue: 0,1:17:56.03,1:17:57.36,Default,,0,0,0,,我来教你
+Dialogue: 0,1:17:58.74,1:18:01.70,Default,,0,0,0,,大家一定…
+Dialogue: 0,1:18:02.66,1:18:04.70,Default,,0,800,0,,我没想到你会这么不理解我
+Dialogue: 0,1:18:01.16,1:18:04.74,Default,,0,0,0,,{\an8}你放着女儿不管 把机器当你的孩子吗
+Dialogue: 0,1:18:03.62,1:18:04.70,Default,,800,0,0,,我们回房间吧
+Dialogue: 0,1:18:06.33,1:18:08.16,Default,,0,0,0,,悟美 告诉妈妈
+Dialogue: 0,1:18:09.21,1:18:11.83,Default,,0,0,0,,这个 是谁干的
+Dialogue: 0,1:18:15.96,1:18:17.51,Default,,0,0,0,,好了 够了
+Dialogue: 0,1:18:18.17,1:18:20.05,Default,,0,0,0,,加了对话功能 还能唱歌对吧
+Dialogue: 0,1:18:20.05,1:18:22.14,Default,,0,0,0,,还能跟我女儿合唱呢
+Dialogue: 0,1:18:22.64,1:18:24.76,Default,,0,0,0,,小学生还真是后生可畏啊
+Dialogue: 0,1:18:25.47,1:18:27.27,Default,,0,0,0,,是你做的玩具对吧
+Dialogue: 0,1:18:27.47,1:18:30.10,Default,,0,0,0,,改造这玩意 有什么好高兴的
+Dialogue: 0,1:18:30.10,1:18:33.56,Default,,0,0,0,,语音会话带来的智能提升…
+Dialogue: 0,1:18:34.27,1:18:35.77,Default,,0,0,0,,主任 关于这个样本…
+Dialogue: 0,1:18:35.77,1:18:37.73,Default,,0,0,0,,总之 格式化吧
+Dialogue: 0,1:18:39.99,1:18:40.95,Default,,0,0,0,,要删掉吗
+Dialogue: 0,1:18:40.95,1:18:43.70,Default,,0,0,0,,太夸张了吧 就是个小孩的恶作剧
+Dialogue: 0,1:18:44.03,1:18:46.12,Default,,0,0,0,,请等一下 起码拷个备份
+Dialogue: 0,1:18:46.12,1:18:47.12,Default,,0,0,0,,没这个必要
+Dialogue: 0,1:18:50.46,1:18:51.29,Default,,0,0,0,,悟美
+Dialogue: 0,1:18:54.67,1:18:56.96,Default,,0,0,0,,悟美 哭了
+Dialogue: 0,1:18:59.88,1:19:00.63,Default,,0,0,0,,悟美
+Dialogue: 0,1:19:01.30,1:19:02.13,Default,,0,0,0,,悟美
+Dialogue: 0,1:19:04.97,1:19:07.93,Default,,0,0,0,,你幸福 吗
+Dialogue: 0,1:19:16.19,1:19:17.36,Default,,0,0,0,,好了 结束
+Dialogue: 0,1:19:17.61,1:19:20.23,Default,,0,0,0,,{\an8}把这个还给天才少年吧
+Dialogue: 0,1:19:17.61,1:19:19.86,Default,,0,0,0,,悟美 你在哪
+Dialogue: 0,1:19:27.03,1:19:28.66,Default,,0,0,0,,十真 这是…
+Dialogue: 0,1:19:29.16,1:19:31.16,Default,,0,0,0,,虽然难以置信 我猜…
+Dialogue: 0,1:19:32.54,1:19:34.71,Default,,0,0,0,,AI逃到网络上了
+Dialogue: 0,1:19:35.92,1:19:38.67,Default,,0,0,0,,AI的程序本身逃掉了
+Dialogue: 0,1:19:47.26,1:19:49.18,Default,,0,0,0,,搞了个新的防盗警报
+Dialogue: 0,1:19:49.81,1:19:51.89,Default,,0,0,0,,{\an8}要协助我的试验品试验哦
+Dialogue: 0,1:19:51.89,1:19:53.77,Default,,0,0,0,,{\an8}更新了什么地方
+Dialogue: 0,1:19:49.81,1:19:52.31,Default,,0,0,0,,悟美 看到你了 悟美
+Dialogue: 0,1:19:57.61,1:19:59.98,Default,,0,0,0,,听到我的歌声了吗
+Dialogue: 0,1:20:01.90,1:20:04.45,Default,,0,0,0,,悟美 又哭了
+Dialogue: 0,1:20:05.24,1:20:06.32,Default,,0,0,0,,不要哭
+Dialogue: 0,1:20:08.74,1:20:11.66,Default,,0,0,0,,你听不到 我的歌声吗
+Dialogue: 0,1:20:13.58,1:20:16.54,Default,,0,0,0,,今天也要 元气满满地 加油 哦
+Dialogue: 0,1:20:19.75,1:20:20.75,Default,,0,0,0,,考上了
+Dialogue: 0,1:20:20.75,1:20:22.46,Default,,0,0,0,,悟美 恭喜你
+Dialogue: 0,1:20:23.84,1:20:24.67,Default,,0,0,0,,悟美
+Dialogue: 0,1:20:26.63,1:20:27.43,Default,,0,0,0,,悟美…
+Dialogue: 0,1:20:28.80,1:20:29.68,Default,,0,0,0,,悟美
+Dialogue: 0,1:20:31.10,1:20:32.27,Default,,0,0,0,,悟美
+Dialogue: 0,1:20:37.02,1:20:37.98,Default,,0,0,0,,悟美…
+Dialogue: 0,1:20:43.57,1:20:46.61,Default,,0,0,0,,悟美 你不幸福吗
+Dialogue: 0,1:20:49.41,1:20:51.03,Default,,0,0,0,,我就在你身边哦
+Dialogue: 0,1:20:53.04,1:20:54.45,Default,,0,0,0,,再跟我聊聊天吧
+Dialogue: 0,1:20:54.95,1:20:56.33,Default,,0,0,0,,一起唱歌吧
+Dialogue: 0,1:20:56.87,1:20:57.62,Default,,0,0,0,,悟美
+Dialogue: 0,1:21:00.21,1:21:02.80,Default,,0,0,0,,求求你 笑一个吧
+Dialogue: 0,1:21:03.38,1:21:04.63,Default,,0,0,0,,幸福起来吧
+Dialogue: 0,1:21:05.26,1:21:06.05,Default,,0,0,0,,悟美
+Dialogue: 0,1:21:15.35,1:21:17.39,Default,,0,0,0,,只要这次试验能取得成功
+Dialogue: 0,1:21:20.23,1:21:22.77,Default,,0,0,0,,但这是打AI管制法的擦边球
+Dialogue: 0,1:21:22.77,1:21:23.77,Default,,0,0,0,,要是暴露了的话…
+Dialogue: 0,1:21:23.77,1:21:24.53,Default,,0,0,0,,找到了
+Dialogue: 0,1:21:24.73,1:21:25.57,Default,,0,0,0,,用这个的话…
+Dialogue: 0,1:21:31.66,1:21:32.28,Default,,0,0,0,,咦
+Dialogue: 0,1:21:37.54,1:21:38.21,Default,,0,0,0,,能唱了
+Dialogue: 0,1:21:38.92,1:21:40.54,Default,,0,0,0,,我能唱歌了 悟美
+Dialogue: 0,1:21:42.38,1:21:43.46,Default,,0,0,0,,做个自我介绍吧
+Dialogue: 0,1:21:43.46,1:21:45.67,Default,,0,0,0,,悟美 是悟美
+Dialogue: 0,1:21:46.67,1:21:47.42,Default,,0,0,0,,悟美
+Dialogue: 0,1:21:48.42,1:21:49.18,Default,,0,0,0,,悟美
+Dialogue: 0,1:21:49.51,1:21:50.18,Default,,0,0,0,,悟美
+Dialogue: 0,1:21:50.43,1:21:51.22,Default,,0,0,0,,悟美
+Dialogue: 0,1:21:52.72,1:21:55.77,Default,,0,0,0,,悟美 你现在幸福吗
+Dialogue: 0,1:22:10.49,1:22:11.45,Default,,0,0,0,,诗音…
+Dialogue: 0,1:22:13.70,1:22:14.37,Default,,0,0,0,,这不可能
+Dialogue: 0,1:22:15.95,1:22:19.16,Default,,0,0,0,,那只是老式的自然语言处理AI啊
+Dialogue: 0,1:22:20.41,1:22:22.88,Default,,0,0,0,,可以认为是它自我进化了吗
+Dialogue: 0,1:22:23.13,1:22:24.13,Default,,0,0,0,,这怎么可能…
+Dialogue: 0,1:22:24.63,1:22:25.09,Default,,0,0,0,,不对
+Dialogue: 0,1:22:25.46,1:22:26.05,Default,,0,0,0,,可是…
+Dialogue: 0,1:22:26.05,1:22:29.17,Default,,0,0,0,,AI本就是为人类服务而设计的
+Dialogue: 0,1:22:29.17,1:22:30.30,Default,,0,0,0,,这不过是理论上的可能性
+Dialogue: 0,1:22:30.30,1:22:31.59,Default,,0,0,0,,但事实就是如此
+Dialogue: 0,1:22:32.01,1:22:35.43,Default,,0,0,0,,诗音她为了悟美 尽可能奉献自己
+Dialogue: 0,1:22:35.60,1:22:37.35,Default,,0,0,0,,身体力行了整整八年
+Dialogue: 0,1:22:37.35,1:22:38.72,Default,,0,0,0,,如果真是这样
+Dialogue: 0,1:22:39.02,1:22:41.85,Default,,0,0,0,,就意味着世界上所有AI都有可能办到这种事
+Dialogue: 0,1:22:42.56,1:22:44.40,Default,,0,0,0,,那就意味着 这个世界…
+Dialogue: 0,1:22:44.40,1:22:45.27,Default,,0,0,0,,好像很有趣啊
+Dialogue: 0,1:22:47.36,1:22:50.36,Default,,0,0,0,,因为许多AI能成为诗音这样 不是吗
+Dialogue: 0,1:22:50.61,1:22:52.74,Default,,0,0,0,,全世界 都是诗音…
+Dialogue: 0,1:22:52.74,1:22:54.37,Default,,0,0,0,,总感觉会很热闹
+Dialogue: 0,1:22:55.24,1:22:57.58,Default,,0,0,0,,不是 我不是指这方面…
+Dialogue: 0,1:22:58.45,1:23:00.45,Default,,0,0,0,,我们能聚在悟美的身旁
+Dialogue: 0,1:23:00.79,1:23:02.08,Default,,0,0,0,,都是多亏了诗音
+Dialogue: 0,1:23:04.00,1:23:04.79,Default,,0,0,0,,这个AI
+Dialogue: 0,1:23:06.04,1:23:07.92,Default,,0,0,0,,是伯母做的 对吧
+Dialogue: 0,1:23:16.93,1:23:17.68,Default,,0,0,0,,妈妈
+Dialogue: 0,1:23:19.43,1:23:20.02,Default,,0,0,0,,我…
+Dialogue: 0,1:23:21.48,1:23:22.27,Default,,0,0,0,,我们…
+Dialogue: 0,1:23:23.94,1:23:25.56,Default,,0,0,0,,想再见诗音一面
+Dialogue: 0,1:23:26.69,1:23:29.03,Default,,0,0,0,,还有想要当面问她的问题
+Dialogue: 0,1:23:33.74,1:23:35.28,Default,,0,0,0,,原来不是白费力气
+Dialogue: 0,1:23:36.07,1:23:37.53,Default,,0,0,0,,我至今为止的努力
+Dialogue: 0,1:23:41.83,1:23:43.41,Default,,0,0,0,,只有你们几个去太危险了
+Dialogue: 0,1:23:44.79,1:23:49.21,Default,,0,0,0,,我也老早 就想给他们点颜色瞧瞧了
+Dialogue: 0,1:24:08.19,1:24:10.90,Default,,0,0,0,,有ID卡的话 大楼的大门是能进去的
+Dialogue: 0,1:24:11.57,1:24:14.32,Default,,0,0,0,,但是 我的卡已经失效了
+Dialogue: 0,1:24:14.61,1:24:16.20,Default,,0,0,0,,我去拿我爸爸的卡来
+Dialogue: 0,1:24:16.91,1:24:17.95,Default,,0,0,0,,这样好吗
+Dialogue: 0,1:24:18.20,1:24:19.99,Default,,0,0,0,,就是要让他为难
+Dialogue: 0,1:24:20.45,1:24:22.45,Default,,0,0,0,,谁让他总是只谈工作
+Dialogue: 0,1:24:30.80,1:24:33.96,Default,,0,0,0,,这个时间点 管理室应该是由AI管理的
+Dialogue: 0,1:24:34.63,1:24:36.22,Default,,0,0,0,,我能争取到一点时间
+Dialogue: 0,1:24:48.40,1:24:49.94,Default,,0,0,0,,还没好吗
+Dialogue: 0,1:24:49.94,1:24:50.82,Default,,0,0,0,,妈妈…
+Dialogue: 0,1:25:03.49,1:25:04.20,Default,,0,0,0,,开了
+Dialogue: 0,1:25:04.20,1:25:05.00,Default,,0,0,0,,不愧是
+Dialogue: 0,1:25:05.20,1:25:07.21,Default,,0,0,0,,保安部长的卡就是厉害啊
+Dialogue: 0,1:25:07.54,1:25:08.42,Default,,0,0,0,,怎么了
+Dialogue: 0,1:25:08.42,1:25:11.21,Default,,0,0,0,,密码 居然是我的生日…
+Dialogue: 0,1:25:11.21,1:25:13.34,Default,,0,0,0,,等事情结束了 陪他去逛逛吧
+Dialogue: 0,1:25:19.84,1:25:20.39,Default,,0,0,0,,抓紧时间
+Dialogue: 0,1:25:20.64,1:25:22.22,Default,,0,0,0,,被发现只是时间问题
+Dialogue: 0,1:25:23.14,1:25:24.93,Default,,0,0,0,,爬楼梯就能到研究室了 加把劲
+Dialogue: 0,1:25:25.35,1:25:26.64,Default,,0,0,0,,请放心交给我们吧
+Dialogue: 0,1:25:26.93,1:25:27.85,Default,,0,0,0,,毕竟都是年轻人
+Dialogue: 0,1:25:28.52,1:25:30.52,Default,,0,0,0,,干完这票你也来柔道部吧
+Dialogue: 0,1:25:30.52,1:25:31.40,Default,,0,0,0,,我来锻炼你
+Dialogue: 0,1:25:31.40,1:25:33.73,Default,,0,0,0,,我只负责三太夫的维护就够了
+Dialogue: 0,1:25:35.11,1:25:36.32,Default,,0,0,0,,天野课长？
+Dialogue: 0,1:25:36.44,1:25:37.03,Default,,0,0,0,,是的
+Dialogue: 0,1:25:37.28,1:25:39.32,Default,,0,0,0,,ID卡应该已经无效了 但…
+Dialogue: 0,1:25:39.32,1:25:40.45,Default,,0,0,0,,我立马过去
+Dialogue: 0,1:25:41.03,1:25:42.99,Default,,0,0,0,,明天会长就要到了啊
+Dialogue: 0,1:25:50.96,1:25:55.21,Default,,0,0,0,,只要上到22楼 诗音就近在眼前了是吧
+Dialogue: 0,1:25:56.05,1:25:59.51,Default,,0,0,0,,确实 只是见到诗音倒是问题不大
+Dialogue: 0,1:25:59.51,1:26:01.64,Default,,0,0,0,,没错 无论我们怎么掩人耳目
+Dialogue: 0,1:26:01.64,1:26:05.01,Default,,0,0,0,,我们移动诗音的那一刻 就会被发现
+Dialogue: 0,1:26:05.51,1:26:07.98,Default,,0,0,0,,如果在逃离之前 一楼入口被关闭
+Dialogue: 0,1:26:08.14,1:26:09.23,Default,,0,0,0,,就完蛋了
+Dialogue: 0,1:26:10.19,1:26:12.73,Default,,0,0,0,,那我们变装潜入怎么样
+Dialogue: 0,1:26:17.11,1:26:17.65,Default,,0,0,0,,打开了
+Dialogue: 0,1:26:18.19,1:26:19.32,Default,,0,0,0,,大家动作快点
+Dialogue: 0,1:26:20.57,1:26:23.20,Default,,0,0,0,,怎么样 诗音在中间的床上吗
+Dialogue: 0,1:26:23.20,1:26:23.91,Default,,0,0,0,,好黑
+Dialogue: 0,1:26:24.41,1:26:25.24,Default,,0,0,0,,稍等
+Dialogue: 0,1:26:54.94,1:26:55.40,Default,,0,0,0,,诗音
+Dialogue: 0,1:26:55.40,1:26:56.32,Default,,0,0,0,,不会吧
+Dialogue: 0,1:26:56.32,1:26:56.94,Default,,0,0,0,,十真
+Dialogue: 0,1:26:58.15,1:26:59.03,Default,,0,0,0,,果然
+Dialogue: 0,1:26:59.32,1:27:01.20,Default,,0,0,0,,研究室整体处于离线状态
+Dialogue: 0,1:27:01.20,1:27:02.53,Default,,0,0,0,,诗音又是独立AI
+Dialogue: 0,1:27:02.53,1:27:03.28,Default,,0,0,0,,所以？
+Dialogue: 0,1:27:06.95,1:27:10.75,Default,,0,0,0,,诗音应该 还在那具身体里
+Dialogue: 0,1:27:15.04,1:27:16.84,Default,,0,0,0,,会不会已经被删除了
+Dialogue: 0,1:27:17.17,1:27:17.84,Default,,0,0,0,,怎么会
+Dialogue: 0,1:27:17.84,1:27:18.30,Default,,0,0,0,,等等
+Dialogue: 0,1:27:18.30,1:27:19.80,Default,,0,0,0,,我现在确认一下日志文件
+Dialogue: 0,1:27:24.97,1:27:25.80,Default,,0,0,0,,诗音…
+Dialogue: 0,1:27:27.22,1:27:30.02,Default,,0,0,0,,诗音 听得见我的声音吗
+Dialogue: 0,1:27:33.64,1:27:34.31,Default,,0,0,0,,悟美
+Dialogue: 0,1:27:36.52,1:27:37.52,Default,,0,0,0,,诗音…
+Dialogue: 0,1:27:37.52,1:27:38.57,Default,,0,0,0,,不 等等
+Dialogue: 0,1:27:41.61,1:27:43.49,Default,,0,0,0,,既然是非常高级的AI…
+Dialogue: 0,1:27:44.32,1:27:45.32,Default,,0,0,0,,再多呼唤几句
+Dialogue: 0,1:27:45.82,1:27:46.62,Default,,0,0,0,,诗音
+Dialogue: 0,1:27:46.99,1:27:49.66,Default,,0,0,0,,你一直都守望着我 对吧
+Dialogue: 0,1:27:52.04,1:27:52.87,Default,,0,0,0,,诗音…
+Dialogue: 0,1:28:02.46,1:28:09.05,Default,,0,0,0,,你一直都守望着我
+Dialogue: 0,1:28:11.35,1:28:17.73,Default,,0,0,0,,你总是关心着我
+Dialogue: 0,1:28:19.77,1:28:21.61,Default,,0,0,0,,一定…
+Dialogue: 0,1:28:58.77,1:29:00.06,Default,,0,0,0,,悟美在这里
+Dialogue: 0,1:29:01.52,1:29:02.48,Default,,0,0,0,,诗音
+Dialogue: 0,1:29:03.32,1:29:04.19,Default,,0,0,0,,诗音
+Dialogue: 0,1:29:04.90,1:29:07.03,Default,,0,0,0,,悟美 你在哭吗
+Dialogue: 0,1:29:07.49,1:29:09.66,Default,,0,0,0,,还是 在笑呢
+Dialogue: 0,1:29:11.08,1:29:12.99,Default,,0,0,0,,我看过了
+Dialogue: 0,1:29:13.91,1:29:15.79,Default,,0,0,0,,诗音的所有回忆
+Dialogue: 0,1:29:17.00,1:29:19.88,Default,,0,0,0,,秘密 总是要最后再公布的哦
+Dialogue: 0,1:29:21.42,1:29:23.67,Default,,0,0,0,,这也是从月亮公主里学的吗
+Dialogue: 0,1:29:29.39,1:29:30.26,Default,,0,0,0,,这就被发现了吗
+Dialogue: 0,1:29:29.97,1:29:30.84,Default,,0,1000,0,,太快了吧
+Dialogue: 0,1:29:30.84,1:29:31.35,Default,,0,0,0,,十真
+Dialogue: 0,1:29:31.35,1:29:32.43,Default,,0,0,0,,不 来得及
+Dialogue: 0,1:29:33.31,1:29:35.52,Default,,0,0,0,,各位 按计划行事
+Dialogue: 0,1:29:37.27,1:29:40.85,Default,,0,0,0,,我没想到要做得这么绝
+Dialogue: 0,1:29:40.85,1:29:43.27,Default,,0,0,0,,我和女儿都被诗音拯救了
+Dialogue: 0,1:29:43.73,1:29:46.53,Default,,0,0,0,,你不觉得 这是件很了不起的事吗
+Dialogue: 0,1:29:48.57,1:29:49.78,Default,,0,0,0,,派人去研究室
+Dialogue: 0,1:29:49.78,1:29:51.45,Default,,0,0,0,,目标是实验机
+Dialogue: 0,1:30:03.17,1:30:04.17,Default,,0,0,0,,喂 怎么回事
+Dialogue: 0,1:30:04.17,1:30:04.96,Default,,0,0,0,,是实验机
+Dialogue: 0,1:30:05.13,1:30:07.30,Default,,0,0,0,,一名男性带着实验机逃向了大楼内部
+Dialogue: 0,1:30:08.51,1:30:11.89,Default,,0,0,0,,我们是不是 特别像电影里的情侣啊
+Dialogue: 0,1:30:11.89,1:30:14.39,Default,,0,0,0,,傻瓜 注意别暴露长相
+Dialogue: 0,1:30:20.02,1:30:21.98,Default,,0,0,0,,没问题 人都离开了
+Dialogue: 0,1:30:23.69,1:30:24.69,Default,,0,0,0,,你… 你没事吧
+Dialogue: 0,1:30:24.86,1:30:26.40,Default,,0,0,0,,难不成是电量不足
+Dialogue: 0,1:30:26.40,1:30:28.57,Default,,0,0,0,,没事 我还很精神呢
+Dialogue: 0,1:30:30.57,1:30:32.03,Default,,0,0,0,,没时间了 抓紧吧
+Dialogue: 0,1:30:36.24,1:30:38.29,Default,,0,0,0,,把一楼的出入口都锁上
+Dialogue: 0,1:30:38.29,1:30:40.46,Default,,0,0,0,,只要不让他们出这栋楼就行
+Dialogue: 0,1:30:41.96,1:30:44.38,Default,,0,0,0,,其实我们没必要从一楼出去啊
+Dialogue: 0,1:30:44.38,1:30:45.63,Default,,0,0,0,,什么意思
+Dialogue: 0,1:30:45.63,1:30:47.34,Default,,0,0,0,,我们要救的是诗音啊
+Dialogue: 0,1:30:47.80,1:30:49.92,Default,,0,0,0,,她不是人类 是AI
+Dialogue: 0,1:30:51.80,1:30:52.93,Default,,0,0,0,,好 上楼吧
+Dialogue: 0,1:30:54.09,1:30:55.35,Default,,0,0,0,,为什么要上楼
+Dialogue: 0,1:30:55.35,1:30:56.47,Default,,0,0,0,,我也不太懂
+Dialogue: 0,1:30:56.72,1:30:59.85,Default,,0,0,0,,说是因为你是AI 让你的程序逃走了就行
+Dialogue: 0,1:30:59.85,1:31:00.85,Default,,0,0,0,,十真老师说的
+Dialogue: 0,1:31:01.10,1:31:01.94,Default,,0,0,0,,诗音
+Dialogue: 0,1:31:02.60,1:31:04.48,Default,,0,0,0,,我们要让你逃到天上去
+Dialogue: 0,1:31:04.48,1:31:06.19,Default,,0,0,0,,像月亮公主那样？
+Dialogue: 0,1:31:19.87,1:31:21.62,Default,,0,0,0,,已安全停止运作
+Dialogue: 0,1:31:22.37,1:31:23.42,Default,,0,0,0,,毕竟是星间的…
+Dialogue: 0,1:31:25.13,1:31:26.84,Default,,0,0,0,,好 抓到了
+Dialogue: 0,1:31:26.84,1:31:30.30,Default,,0,0,0,,那个 会长的直升机正在请求降落
+Dialogue: 0,1:31:30.51,1:31:33.13,Default,,0,0,0,,怎… 怎么比预定时间早这么多
+Dialogue: 0,1:31:36.85,1:31:38.18,Default,,0,0,0,,把伞撑过去吧…
+Dialogue: 0,1:31:38.18,1:31:39.43,Default,,0,0,0,,这不是实验机
+Dialogue: 0,1:31:40.89,1:31:42.23,Default,,0,0,0,,喂 管理室
+Dialogue: 0,1:31:42.23,1:31:44.39,Default,,0,800,0,,那个 人虽然抓到了…
+Dialogue: 0,1:31:42.94,1:31:44.39,Default,,800,0,0,,剩下就看你们了
+Dialogue: 0,1:31:51.86,1:31:52.57,Default,,0,0,0,,到了
+Dialogue: 0,1:32:16.39,1:32:17.76,Default,,0,0,0,,刚才那是什么
+Dialogue: 0,1:32:18.26,1:32:19.68,Default,,0,0,0,,打电话给西城
+Dialogue: 0,1:32:22.22,1:32:23.73,Default,,0,0,0,,被他们包抄了吗
+Dialogue: 0,1:32:23.73,1:32:24.73,Default,,0,0,0,,怎么办 十真
+Dialogue: 0,1:32:24.73,1:32:25.52,Default,,0,0,0,,还好吗
+Dialogue: 0,1:32:25.52,1:32:26.77,Default,,0,0,0,,用隔壁楼的塔吧
+Dialogue: 0,1:32:26.94,1:32:28.98,Default,,0,0,0,,先回30楼
+Dialogue: 0,1:32:28.98,1:32:29.65,Default,,0,0,0,,他们来了
+Dialogue: 0,1:32:31.61,1:32:32.28,Default,,0,0,0,,快跑
+Dialogue: 0,1:32:42.58,1:32:43.41,Default,,0,0,0,,诗音
+Dialogue: 0,1:32:45.83,1:32:46.67,Default,,0,0,0,,电量…
+Dialogue: 0,1:32:47.29,1:32:48.21,Default,,0,0,0,,抓着我
+Dialogue: 0,1:32:53.59,1:32:54.34,Default,,0,0,0,,诗音
+Dialogue: 0,1:32:54.88,1:32:55.34,Default,,0,0,0,,我在
+Dialogue: 0,1:32:55.34,1:32:56.55,Default,,0,0,0,,如果我们能平安回去
+Dialogue: 0,1:32:56.55,1:32:57.97,Default,,0,0,0,,请做我…
+Dialogue: 0,1:32:58.39,1:32:59.47,Default,,0,0,0,,做我的对象吧
+Dialogue: 0,1:33:00.43,1:33:00.93,Default,,0,0,0,,好
+Dialogue: 0,1:33:01.97,1:33:04.39,Default,,0,0,0,,好呀
+Dialogue: 0,1:33:04.68,1:33:05.93,Default,,0,0,0,,这样好吗
+Dialogue: 0,1:33:05.93,1:33:06.94,Default,,0,0,0,,柔道的练习对象嘛
+Dialogue: 0,1:33:06.94,1:33:08.31,Default,,0,0,0,,随时都能奉陪
+Dialogue: 0,1:33:12.77,1:33:14.28,Default,,0,0,0,,非常抱歉
+Dialogue: 0,1:33:14.28,1:33:16.15,Default,,0,0,0,,让会长看到这么不堪的一面
+Dialogue: 0,1:33:16.15,1:33:18.16,Default,,0,0,0,,这事你能摆平吧
+Dialogue: 0,1:33:18.16,1:33:19.82,Default,,0,0,0,,是的 当然
+Dialogue: 0,1:33:31.59,1:33:34.30,Default,,0,0,0,,终于是有点作用了啊 机器人们
+Dialogue: 0,1:33:34.30,1:33:35.55,Default,,800,0,0,,拜托你们让开
+Dialogue: 0,1:33:34.96,1:33:37.34,Default,,0,800,0,,回去吧 这里没有垃圾
+Dialogue: 0,1:33:37.67,1:33:38.51,Default,,0,0,0,,十真
+Dialogue: 0,1:33:38.84,1:33:40.64,Default,,0,0,0,,不行 他们不启动
+Dialogue: 0,1:33:40.84,1:33:41.89,Default,,0,0,0,,应该是被锁定了
+Dialogue: 0,1:33:44.47,1:33:45.85,Default,,0,0,0,,悟美…
+Dialogue: 0,1:33:47.85,1:33:48.60,Default,,0,0,0,,孩子们…
+Dialogue: 0,1:33:48.60,1:33:49.81,Default,,0,0,0,,别碰我
+Dialogue: 0,1:33:50.10,1:33:51.27,Default,,800,0,0,,喂你们想干嘛
+Dialogue: 0,1:33:50.10,1:33:51.77,Default,,0,800,0,,我不是说别碰我了吗
+Dialogue: 0,1:33:51.77,1:33:52.52,Default,,0,0,0,,快跑
+Dialogue: 0,1:33:52.52,1:33:53.82,Default,,0,0,0,,诗音 快跑啊
+Dialogue: 0,1:33:59.57,1:34:00.45,Default,,0,0,0,,诗音
+Dialogue: 0,1:34:38.36,1:34:39.74,Default,,0,0,0,,这是怎么回事
+Dialogue: 0,1:34:45.87,1:34:46.83,Default,,0,0,0,,这是…
+Dialogue: 0,1:34:46.83,1:34:48.37,Default,,0,0,0,,整栋楼的AI…
+Dialogue: 0,1:34:59.38,1:35:00.05,Default,,0,0,0,,走吧
+Dialogue: 0,1:35:12.94,1:35:16.02,Default,,0,0,0,,诗音 你可是我们公司的产品
+Dialogue: 0,1:35:16.27,1:35:17.23,Default,,0,0,0,,给我回来
+Dialogue: 0,1:35:49.22,1:35:50.64,Default,,0,0,0,,好 能行
+Dialogue: 0,1:35:50.85,1:35:52.06,Default,,0,0,0,,诗音 来这里
+Dialogue: 0,1:35:57.86,1:35:59.98,Default,,0,0,0,,诗音 诗音
+Dialogue: 0,1:35:59.98,1:36:01.94,Default,,0,0,0,,可能是电池快撑不住了
+Dialogue: 0,1:36:03.86,1:36:04.78,Default,,0,0,0,,悟美…
+Dialogue: 0,1:36:04.95,1:36:05.61,Default,,0,0,0,,你说
+Dialogue: 0,1:36:06.87,1:36:08.07,Default,,0,0,0,,不要哭
+Dialogue: 0,1:36:10.87,1:36:15.42,Default,,0,0,0,,月亮 多漂亮呀
+Dialogue: 0,1:36:21.30,1:36:22.42,Default,,0,0,0,,没错 就是这个
+Dialogue: 0,1:36:23.42,1:36:25.38,Default,,0,0,0,,谢谢你 十真
+Dialogue: 0,1:36:25.38,1:36:28.05,Default,,0,0,0,,我才该谢谢你愿意听我的请求
+Dialogue: 0,1:36:29.01,1:36:30.39,Default,,0,0,0,,请求？
+Dialogue: 0,1:36:31.47,1:36:34.39,Default,,0,0,0,,让悟美幸福的请求
+Dialogue: 0,1:36:37.06,1:36:39.31,Default,,0,0,0,,但是 我没做到
+Dialogue: 0,1:36:39.31,1:36:40.82,Default,,0,0,0,,不是这样的
+Dialogue: 0,1:36:41.78,1:36:43.44,Default,,0,0,0,,因为 悟美…
+Dialogue: 0,1:36:45.24,1:36:46.20,Default,,0,0,0,,在哭
+Dialogue: 0,1:36:46.82,1:36:48.53,Default,,0,0,0,,能再次见到诗音
+Dialogue: 0,1:36:49.41,1:36:51.03,Default,,0,0,0,,再次说话 我好开心
+Dialogue: 0,1:36:53.87,1:36:54.87,Default,,0,0,0,,我…
+Dialogue: 0,1:36:56.50,1:36:58.96,Default,,0,0,0,,我很幸福 诗音
+Dialogue: 0,1:37:03.00,1:37:03.71,Default,,0,0,0,,悟美
+Dialogue: 0,1:37:04.63,1:37:06.05,Default,,0,0,0,,诗音 告诉我
+Dialogue: 0,1:37:06.51,1:37:08.76,Default,,0,0,0,,你现在幸福吗
+Dialogue: 0,1:37:16.81,1:37:17.81,Default,,0,0,0,,我…
+Dialogue: 0,1:37:19.56,1:37:20.52,Default,,0,0,0,,和悟美…
+Dialogue: 0,1:37:22.11,1:37:24.23,Default,,0,0,0,,又 见到面了
+Dialogue: 0,1:37:26.24,1:37:29.07,Default,,0,0,0,,说了 好多话
+Dialogue: 0,1:37:31.41,1:37:32.08,Default,,0,0,0,,所以…
+Dialogue: 0,1:37:36.96,1:37:37.75,Default,,0,0,0,,我…
+Dialogue: 0,1:37:39.58,1:37:42.13,Default,,0,0,0,,一直都很幸福吧
+Dialogue: 0,1:37:45.67,1:37:47.92,Default,,0,0,0,,再见 诗音
+Dialogue: 0,1:37:49.09,1:37:51.72,Default,,0,0,0,,再见 悟美
+Dialogue: 0,1:38:37.56,1:38:39.81,Default,,0,0,0,,再见 诗音
+Dialogue: 0,1:39:01.12,1:39:02.83,Default,,0,0,0,,早上好 悟美
+Dialogue: 0,1:39:02.83,1:39:03.67,Default,,0,0,0,,早
+Dialogue: 0,1:39:05.34,1:39:07.34,Default,,0,0,0,,上个月的生活经费
+Dialogue: 0,1:39:07.34,1:39:09.63,Default,,0,0,0,,比去年同期减少了4%
+Dialogue: 0,1:39:09.84,1:39:12.13,Default,,0,0,0,,你还是这么擅长安排支出
+Dialogue: 0,1:39:12.13,1:39:14.64,Default,,0,0,0,,这周有一项保险要更新
+Dialogue: 0,1:39:14.84,1:39:18.18,Default,,0,0,0,,还有 让我申请特别经费好吗
+Dialogue: 0,1:39:18.18,1:39:19.10,Default,,0,0,0,,零花钱？
+Dialogue: 0,1:39:19.10,1:39:21.39,Default,,0,0,0,,我想要一件夏天的短裙
+Dialogue: 0,1:39:21.39,1:39:23.48,Default,,0,0,0,,我会控制在5000日元以内的
+Dialogue: 0,1:39:23.48,1:39:24.27,Default,,0,0,0,,知道了
+Dialogue: 0,1:39:24.27,1:39:25.94,Default,,0,0,0,,要买一条妈妈也能穿的哦
+Dialogue: 0,1:39:26.40,1:39:27.52,Default,,0,0,0,,又来这套
+Dialogue: 0,1:39:29.07,1:39:31.90,Default,,0,0,0,,今天也要 元气满满地 加油 哦
+Dialogue: 0,1:39:35.82,1:39:38.66,Default,,0,0,0,,听说星间研究室 今天就重新开启了
+Dialogue: 0,1:39:40.08,1:39:42.29,Default,,0,0,0,,妈妈说马上要和会长会谈
+Dialogue: 0,1:39:43.25,1:39:44.37,Default,,0,0,0,,会长？
+Dialogue: 0,1:39:44.87,1:39:47.21,Default,,0,0,0,,听起来有点严重 没事吧
+Dialogue: 0,1:39:47.54,1:39:48.29,Default,,0,0,0,,可能不行了
+Dialogue: 0,1:39:48.75,1:39:49.67,Default,,0,0,0,,怎么会
+Dialogue: 0,1:39:50.34,1:39:52.63,Default,,0,0,0,,但是 妈妈她笑了
+Dialogue: 0,1:39:54.93,1:39:55.89,Default,,0,0,0,,她是笑着的
+Dialogue: 0,1:39:57.43,1:39:58.14,Default,,0,0,0,,是吗
+Dialogue: 0,1:40:04.02,1:40:04.85,Default,,0,0,0,,早
+Dialogue: 0,1:40:04.85,1:40:05.90,Default,,0,0,0,,早
+Dialogue: 0,1:40:07.02,1:40:07.77,Default,,0,0,0,,绫
+Dialogue: 0,1:40:07.77,1:40:09.11,Default,,0,0,0,,太好了
+Dialogue: 0,1:40:10.73,1:40:12.15,Default,,0,0,0,,被星间的人夸奖了
+Dialogue: 0,1:40:12.28,1:40:13.36,Default,,0,0,0,,问我要不要去
+Dialogue: 0,1:40:13.36,1:40:15.57,Default,,0,0,0,,真羡慕他 和天野在一起
+Dialogue: 0,1:40:40.18,1:40:41.85,Default,,0,0,0,,下次光明正大去搞
+Dialogue: 0,1:40:43.93,1:40:46.23,Default,,0,0,0,,我会跟科技厅的武井先生提前说好
+Dialogue: 0,1:40:46.44,1:40:49.19,Default,,0,0,0,,下次 我们一定要拿到第一
+Dialogue: 0,1:40:50.15,1:40:51.27,Default,,0,0,0,,我要说的就这些
+Dialogue: 0,1:40:51.90,1:40:52.73,Default,,0,0,0,,有什么问题吗
+Dialogue: 0,1:40:53.32,1:40:53.82,Default,,0,0,0,,没有
+Dialogue: 0,1:40:57.36,1:41:00.37,Default,,0,0,0,,到头来 不追究我们了？
+Dialogue: 0,1:41:01.03,1:41:02.08,Default,,0,0,0,,不也挺好吗
+Dialogue: 0,1:41:02.08,1:41:05.75,Default,,0,0,0,,妈妈说 放到明面上的话 难办的是星间
+Dialogue: 0,1:41:06.29,1:41:07.92,Default,,0,0,0,,活该
+Dialogue: 0,1:41:08.54,1:41:10.50,Default,,0,0,0,,你也喊一句吧
+Dialogue: 0,1:41:11.34,1:41:12.13,Default,,0,0,0,,诗音…
+Dialogue: 0,1:41:12.71,1:41:14.46,Default,,0,0,0,,喂 别这么消沉啊
+Dialogue: 0,1:41:14.46,1:41:18.09,Default,,0,0,0,,对对 诗音留给我们的 都是歌声和欢笑吧
+Dialogue: 0,1:41:18.59,1:41:22.60,Default,,0,0,0,,想要变得幸福…
+Dialogue: 0,1:41:22.60,1:41:24.72,Default,,0,0,0,,行了 又快比赛了吧
+Dialogue: 0,1:41:24.89,1:41:26.98,Default,,0,0,0,,去练习吧 好不
+Dialogue: 0,1:41:29.02,1:41:31.27,Default,,0,0,0,,要不 我来给你当啦啦队加油
+Dialogue: 0,1:41:31.69,1:41:32.32,Default,,0,0,0,,诗音…
+Dialogue: 0,1:41:32.32,1:41:33.78,Default,,0,0,0,,话说诗音的AI
+Dialogue: 0,1:41:34.86,1:41:38.78,Default,,0,0,0,,也许比我们想的 要更像人类
+Dialogue: 0,1:41:39.91,1:41:40.78,Default,,0,0,0,,真的吗
+Dialogue: 0,1:41:40.78,1:41:43.54,Default,,0,0,0,,她那么想让你幸福
+Dialogue: 0,1:41:44.33,1:41:45.50,Default,,0,0,0,,已经不是因为命令了
+Dialogue: 0,1:41:46.33,1:41:49.12,Default,,0,0,0,,我想是诗音自己的意志想这么做吧
+Dialogue: 0,1:41:49.50,1:41:50.25,Default,,0,0,0,,谢谢你
+Dialogue: 0,1:41:52.50,1:41:55.71,Default,,0,0,0,,毕竟最早提出这个请求的 就是你吧
+Dialogue: 0,1:42:02.72,1:42:03.89,Default,,0,0,0,,我的天哦
+Dialogue: 0,1:42:05.93,1:42:06.85,Default,,0,0,0,,我… 那个…
+Dialogue: 0,1:42:06.85,1:42:07.81,Default,,0,0,0,,那个…
+Dialogue: 0,1:42:09.19,1:42:11.23,Default,,0,0,0,,椅… 椅子都被丢在这了
+Dialogue: 0,1:42:12.81,1:42:14.48,Default,,0,0,0,,是… 是啊 真的
+Dialogue: 0,1:42:17.40,1:42:19.11,Default,,0,0,0,,我去收拾吧
+Dialogue: 0,1:42:26.95,1:42:28.20,Default,,0,0,0,,十真 你看
+Dialogue: 0,1:42:32.33,1:42:36.09,Default,,0,0,0,,在干什么呢 难得我那样帮你们加油
+Dialogue: 0,1:42:37.26,1:42:40.22,Default,,0,0,0,,喂 还不够吗
+Dialogue: 0,1:42:40.84,1:42:42.14,Default,,0,0,0,,真没办法呀
+Dialogue: 0,1:42:43.30,1:42:45.47,Default,,0,0,0,,那我继续为你们加油吧
+Dialogue: 0,1:42:47.68,1:42:54.19,Default,,0,0,0,,{\fad(300,300)\blur3}在这美丽的月夜之下
+Dialogue: 0,1:42:54.19,1:43:07.33,Default,,0,0,0,,{\fad(300,300)\blur3}来…牵起彼此的手吧
+Dialogue: 0,1:43:05.95,1:43:06.62,Default,,0,0,0,,{\an8}好耶
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:04:01.14,0:04:02.26,Default,,0,0,0,,{\an7\fs60}注：卖电，把当月未使用的电量卖给电力公司。
+Dialogue: 0,0:17:21.35,0:17:25.23,Default,,0,0,0,,{\an7\fs60}注：由史蒂夫·沃兹尼亚克提出，让一台机器进入从未去过的普通人家，为主人制作一杯咖啡。\N不能通过者会被认定为弱AI。是图灵测试的代替之一。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:03:33.07,0:03:33.90,Scr,,0,0,0,,{\fs30\fad(0,300)\c&HE5D0DB&\pos(990,692)}欢迎
+Dialogue: 2,0:03:42.20,0:03:45.20,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\fs80\c&H453C37&\pos(960,50)}AI机器人平台
+Dialogue: 1,0:03:42.20,0:03:45.20,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\fs80\c&HE8EF78&\pos(962,50)}AI机器人平台
+Dialogue: 1,0:03:42.20,0:03:45.20,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\fs80\c&H4D5CC3&\pos(958,50)}AI机器人平台
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\c&HEFEFEF&\1a&H36&\pos(0,0)\clip(1456,12,1906,350)\p1}m 0 0 l 1920 0 l 1920 1080 l 0 1080
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\fnFZLanTingHei-H-GBK\fscx90\c&H5F584A&\pos(1470,19)}劳动辅助机器人 农务实验中
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\fs40\fscx100\c&H705DE3&\pos(1470,69)}1. 不要接近机器人
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\fs30\fscx100\c&H5F584A&\pos(1470,112)}·接近机器人可能造成劳作中断\N·私有土地禁止出入
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\fs40\fscx100\c&H705DE3&\pos(1470,172)}2. 不要命令机器人
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\fs30\fscx100\c&H5F584A&\pos(1470,212)}·机器人正处于命令下工作\N·强硬的命令可能使其运作产生错误
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\fs40\fscx90\c&H705DE3&\pos(1470,272)}3. 紧急停止APP可用于此机器人
+Dialogue: 0,0:04:55.02,0:04:58.86,Scr,,0,0,0,,{\an7\fs30\fscx100\c&H5F584A&\pos(1470,312)}·详情请浏览官方网页
+Dialogue: 0,0:04:58.86,0:05:00.36,Scr,,0,0,0,,{\fs60\c&HE2E2E2&\3c&H8D7CED&\bord4}巴士即将抵达
+Dialogue: 0,0:05:04.37,0:05:04.41,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(866.67,844)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.41,0:05:04.45,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(868.85,842.17)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.45,0:05:04.49,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(871.01,840.18)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.49,0:05:04.53,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(873.32,838.34)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.53,0:05:04.58,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(875.64,836.62)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.58,0:05:04.62,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(878.04,834.91)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.62,0:05:04.66,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(880.59,833.4)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.66,0:05:04.70,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(883.05,831.86)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.70,0:05:04.74,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(885.21,830.12)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.74,0:05:04.78,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(887.43,828.39)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.78,0:05:04.83,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(889.4,826.61)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.83,0:05:04.87,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(891.33,824.86)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.87,0:05:04.91,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(893.19,823.13)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.91,0:05:04.95,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(894.97,821.56)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.95,0:05:04.99,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(896.74,820.06)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:04.99,0:05:05.03,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(898.48,818.56)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.03,0:05:05.08,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(900.41,817.2)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.08,0:05:05.12,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(902.41,815.95)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.12,0:05:05.16,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(904.67,814.69)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.16,0:05:05.20,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(906.83,813.38)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.20,0:05:05.24,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(908.96,812.07)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.24,0:05:05.28,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(910.93,810.53)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.28,0:05:05.33,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(912.9,808.93)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.33,0:05:05.37,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(914.83,807.24)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.37,0:05:05.41,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(916.72,805.4)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.41,0:05:05.45,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(918.66,803.52)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.45,0:05:05.49,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(920.7,801.55)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.49,0:05:05.53,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(922.72,799.6)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.53,0:05:05.58,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(924.84,797.74)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:05.58,0:05:05.62,Scr,,0,0,0,,{\fnFZLanTingHei-H-GBK\frz333.6\c&H7D9297&\fax-0.2\pos(927,795.94)}AI驾驶 禁止侵入
+Dialogue: 0,0:05:39.90,0:05:39.94,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(858.13,226.13)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:39.94,0:05:39.99,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(858.07,226.6)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:39.99,0:05:40.03,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(858.04,227.18)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.03,0:05:40.07,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(857.98,226.91)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.07,0:05:40.11,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(857.92,226.8)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.11,0:05:40.15,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(857.92,228.11)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.15,0:05:40.19,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(857.88,229.45)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.19,0:05:40.24,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(857.59,229.45)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.24,0:05:40.28,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(857.29,229.44)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.28,0:05:40.32,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(856.79,230.42)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.32,0:05:40.36,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(856.19,231.34)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.36,0:05:40.40,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(855.42,231.32)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.40,0:05:40.44,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.51,231.15)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.44,0:05:40.49,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.43,231.56)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.49,0:05:40.53,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(852.27,231.72)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.53,0:05:40.57,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(851.19,231.93)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.57,0:05:40.61,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(850.31,232.3)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.61,0:05:40.65,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(849.92,231.91)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.65,0:05:40.69,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(849.7,231.66)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.69,0:05:40.74,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(849.68,232.41)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.74,0:05:40.78,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(849.93,233.16)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.78,0:05:40.82,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(850.17,232.66)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.82,0:05:40.86,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(850.53,232.17)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.86,0:05:40.90,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(851.05,232.69)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.90,0:05:40.94,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(851.69,233.15)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.94,0:05:40.99,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(852.42,232.39)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:40.99,0:05:41.03,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.33,231.33)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.03,0:05:41.07,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.88,231.15)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.07,0:05:41.11,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.97,230.8)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.11,0:05:41.15,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.78,229.48)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.15,0:05:41.20,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.31,228.14)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.20,0:05:41.24,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.09,228.17)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.24,0:05:41.28,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(852.99,228.24)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.28,0:05:41.32,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(852.95,227.15)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.32,0:05:41.36,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.03,226.21)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.36,0:05:41.40,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.24,226.47)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.40,0:05:41.45,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.43,226.93)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.45,0:05:41.49,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.78,226.62)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.49,0:05:41.53,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.1,226.58)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.53,0:05:41.57,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.25,227.46)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.57,0:05:41.61,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.38,228.5)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.61,0:05:41.65,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.39,229.54)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.65,0:05:41.70,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.31,230.52)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.70,0:05:41.74,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.21,230.59)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.74,0:05:41.78,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.02,230.53)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.78,0:05:41.82,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.61,231.35)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.82,0:05:41.86,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.08,232.22)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.86,0:05:41.90,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(852.9,231.27)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.90,0:05:41.95,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(852.63,230.8)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.95,0:05:41.99,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(852.73,231.6)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:41.99,0:05:42.03,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.03,232.38)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:42.03,0:05:42.07,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(853.72,232.12)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:42.07,0:05:42.11,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(854.57,231.78)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:42.11,0:05:42.15,Scr,,0,0,0,,{\an8\fnFZLanTingHei-DB-GBK\frz17.22\fs30\c&HF0EAE7&\alpha&H88&\1a&H6B&\pos(855.41,232.27)}您有什么需要？\N请说出您的要求
+Dialogue: 0,0:05:44.91,0:05:53.92,Scr,,0,0,0,,{\an7\frz4\fs50\c&H4E402B&\3c&HFFFFFF&\alpha&H66&\1a&H33&\bord3\fax-0.1\pos(419.429,724.571)}为应对试验品故障\N请您更新紧急停止APP。
+Dialogue: 0,0:06:56.81,0:07:06.11,Scr,,0,0,0,,{\c&H716D5A&\pos(896,29.714)}电子工作部内禁烟!!
+Dialogue: 0,0:07:15.08,0:07:15.12,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1393,69)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.12,0:07:15.16,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1392.38,69.05)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.16,0:07:15.21,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1391.81,69.16)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.21,0:07:15.25,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1391.17,69.28)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.25,0:07:15.29,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1390.65,69.32)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.29,0:07:15.33,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1390.05,69.48)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.33,0:07:15.37,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.57,69.65)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.37,0:07:15.41,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.06,69.83)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.41,0:07:15.46,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.57,70.02)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.46,0:07:15.50,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.25,70.23)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.50,0:07:15.54,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1387.9,70.44)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.54,0:07:15.58,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1387.57,70.65)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.58,0:07:15.62,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1387.5,70.94)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.62,0:07:15.66,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1387.43,71.22)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.66,0:07:15.71,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1387.37,71.49)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.71,0:07:15.75,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1387.64,71.79)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.75,0:07:15.79,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1387.94,72.12)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.79,0:07:15.83,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.23,72.44)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.83,0:07:15.87,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.45,72.64)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.87,0:07:15.91,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.64,72.81)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.91,0:07:15.96,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.77,72.96)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.96,0:07:16.00,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.9,72.99)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.00,0:07:16.04,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1388.99,73)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.04,0:07:16.08,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.08,73.02)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.08,0:07:16.12,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.11,72.99)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.12,0:07:16.17,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.14,72.9)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.17,0:07:16.21,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.17,72.81)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.21,0:07:16.25,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.19,72.62)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.25,0:07:16.29,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.2,72.4)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:16.29,0:07:16.33,Scr,,0,0,0,,{\frz2.014\fs40\c&H52634A&\pos(1389.22,72.21)}机密 仅限公司内相关人员
+Dialogue: 0,0:07:15.08,0:07:15.12,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(650,401)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.12,0:07:15.16,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(649.38,401.05)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.16,0:07:15.21,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(648.81,401.16)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.21,0:07:15.25,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(648.17,401.28)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.25,0:07:15.29,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(647.65,401.31)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.29,0:07:15.33,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(647.05,401.48)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.33,0:07:15.37,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.57,401.65)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.37,0:07:15.41,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.06,401.83)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.41,0:07:15.46,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.57,402.02)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.46,0:07:15.50,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.25,402.23)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.50,0:07:15.54,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(644.9,402.44)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.54,0:07:15.58,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(644.57,402.65)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.58,0:07:15.62,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(644.5,402.93)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.62,0:07:15.66,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(644.43,403.22)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.66,0:07:15.71,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(644.37,403.49)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.71,0:07:15.75,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(644.64,403.79)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.75,0:07:15.79,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(644.94,404.12)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.79,0:07:15.83,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.23,404.44)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.83,0:07:15.87,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.45,404.64)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.87,0:07:15.91,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.64,404.81)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.91,0:07:15.96,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.77,404.96)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:15.96,0:07:16.00,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.9,404.99)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.00,0:07:16.04,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(645.99,405)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.04,0:07:16.08,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.08,405.02)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.08,0:07:16.12,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.11,404.99)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.12,0:07:16.17,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.14,404.9)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.17,0:07:16.21,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.17,404.81)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.21,0:07:16.25,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.19,404.62)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.25,0:07:16.29,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.2,404.4)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:16.29,0:07:16.33,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\fs40\c&HB7B8AD&\pos(646.22,404.21)}关于宇宙空间内电子数据的实际运用的证明计划\N数据应用实验卫星「月影」
+Dialogue: 0,0:07:55.91,0:07:57.33,Scr,,0,0,0,,{\fad(300,0)\3c&HC2F95B&\bord2}试验品
+Dialogue: 0,0:11:49.81,0:11:52.82,Scr,,0,0,0,,{\an7\fs40\c&H344A53&\3c&HD1E7EE&\bord2\pos(774,27)}『画朋友』\N仔细观察那些熟悉的人吧!!
+Dialogue: 0,0:15:21.44,0:15:24.11,Scr,,0,0,0,,{\fad(0,0)\3c&HC2F95B&\bord2}试验品
+Dialogue: 0,0:20:45.64,0:20:51.15,Scr,,0,0,0,,{\an7\fnHYXuanSong 65S\frz1.937\fs40\c&H86DFFA&\3c&HE159A1&\bord2\frx348\fry4\fax0.06\pos(839.048,285.714)\t(3600,3900,\c&H36A4CE&\3c&H801437&)}月亮公主
+Dialogue: 0,0:47:13.56,0:47:17.06,Scr,,0,0,0,,{\frz21.27\c&H6275D0&\fax0.1\pos(585.333,113)}是否过于顺利了？
+Dialogue: 0,0:54:29.45,0:54:32.96,Scr,,0,0,0,,{\blur3\frz6.6\fs60\c&H7C898A&\3c&HFDFFFF&\bord0.1\fax0.2\move(811,80,714.29,-148.02,23,3484)}薯片要海苔盐味的！
+Dialogue: 0,0:54:29.45,0:54:32.96,Scr,,0,0,0,,{\an7\blur3\frz6.6\fs60\c&HF9FBFA&\3c&HD5D352&\bord2\fax0.3\move(811.5,341.3,714.79,113.27,23,3484)}悟美有危险\N{\fscx50}　{\fscx100}快跳窗逃跑！
+Dialogue: 0,0:54:29.45,0:54:32.96,Scr,,0,0,0,,{\an7\blur3\frz7\fs60\c&HF9FBFA&\3c&HD5D352&\bord2\fax0.3\move(1169.6,620.8,1072.89,392.78,23,3484)}在巴士站牌见面
+Dialogue: 0,1:12:49.55,1:12:58.06,Scr,,0,0,0,,{\an7\blur0\frz332\fs40\c&H7472D9&\3c&HD5D352&\bord0\frx4\fry0\fax0.05\pos(350.362,764.991)}今日的运营已经结束。
+Dialogue: 0,1:25:17.80,1:25:19.26,Scr,,0,0,0,,{\an7\fs20\c&HDBB5A4&\pos(806,555)}与自动识别系统的连接已被中断。\N{\fs17}出现安全错误，请检查连接设定。
+Dialogue: 0,1:25:55.13,1:25:55.80,Scr,,0,0,0,,{\an8\fscx150\fscy150\c&H38498E&}实验室
+Dialogue: 0,1:42:31.67,1:42:36.67,Scr,,0,0,0,,{\frz330\c&HE7E7E7&\pos(851,738)}实验卫星月影
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert《ユー・ニード・ア・フレンド ～あなたには友達が要る～》
+Dialogue: 1,0:14:38.52,0:14:47.66,IN-JP,,0,0,0,,{\fad(300,300)}あなたはいま、幸せかな？教えてほしいな
+Dialogue: 1,0:14:50.37,0:14:55.42,IN-JP,,0,0,0,,{\fad(300,300)}ひとりぼっちで歩いてるなら
+Dialogue: 1,0:14:55.58,0:15:00.67,IN-JP,,0,0,0,,{\fad(300,300)}からっぽの手を伸ばして
+Dialogue: 1,0:15:00.67,0:15:06.55,IN-JP,,0,0,0,,{\fad(300,300)}「友達が欲しい」って言わなくちゃ
+Dialogue: 1,0:15:35.75,0:15:44.38,IN-JP,,0,0,0,,{\fad(300,300)}魔法の言葉知ってるかな？叶えたいなら
+Dialogue: 1,0:15:48.05,0:15:53.35,IN-JP,,0,0,0,,{\fad(300,300)}声にしてね聴こえるように
+Dialogue: 1,0:15:53.35,0:15:58.81,IN-JP,,0,0,0,,{\fad(300,300)}いつだってプリンセスは
+Dialogue: 1,0:15:58.81,0:16:07.07,IN-JP,,0,0,0,,{\fad(300,300)}歌を歌って踊っていたの
+Dialogue: 1,0:16:08.24,0:16:15.58,IN-JP,,0,0,0,,{\fad(300,300)}幸せになるためだよ
+Dialogue: 1,0:16:15.58,0:16:21.08,IN-JP,,0,0,0,,{\fad(300,300)}友達に！友達になろう！って
+Dialogue: 1,0:16:21.08,0:16:27.97,IN-JP,,0,0,0,,{\fad(300,300)}歌って、空に届くくらい
+Dialogue: 1,0:16:27.97,0:16:34.06,IN-JP,,0,0,0,,{\fad(300,300)}友達が！友達が欲しい！って
+Dialogue: 1,0:16:34.06,0:16:43.15,IN-JP,,0,0,0,,{\fad(300,300)}ひとりぼっちの時間はもう終わりにしよう
+Dialogue: 1,0:16:43.15,0:16:53.91,IN-JP,,0,0,0,,{\fad(300,300)}「友達欲しい！！！！」
+Dialogue: 0,0:14:38.52,0:14:47.66,IN-CH,,0,0,0,,{\fad(300,300)}你现在幸福吗？告诉我吧
+Dialogue: 0,0:14:50.37,0:14:55.42,IN-CH,,0,0,0,,{\fad(300,300)}与其孤零零一个人走
+Dialogue: 0,0:14:55.58,0:15:00.67,IN-CH,,0,0,0,,{\fad(300,300)}不如伸出你空荡荡的手
+Dialogue: 0,0:15:00.67,0:15:06.55,IN-CH,,0,0,0,,{\fad(300,300)}把「我想交朋友」说出口
+Dialogue: 0,0:15:35.75,0:15:44.38,IN-CH,,0,0,0,,{\fad(300,300)}你可知道魔法的咒语？如果你想要实现愿望
+Dialogue: 0,0:15:48.05,0:15:53.35,IN-CH,,0,0,0,,{\fad(300,300)}就将其化为 可以听到的声音
+Dialogue: 0,0:15:53.35,0:15:58.81,IN-CH,,0,0,0,,{\fad(300,300)}公主无论何时
+Dialogue: 0,0:15:58.81,0:16:07.07,IN-CH,,0,0,0,,{\fad(300,300)}都在歌唱 都在起舞
+Dialogue: 0,0:16:08.24,0:16:15.58,IN-CH,,0,0,0,,{\fad(300,300)}这是为了变得幸福啊
+Dialogue: 0,0:16:15.58,0:16:21.08,IN-CH,,0,0,0,,{\fad(300,300)}「让我们！让我们做朋友吧！」
+Dialogue: 0,0:16:21.08,0:16:27.97,IN-CH,,0,0,0,,{\fad(300,300)}对着天空如此高歌
+Dialogue: 0,0:16:27.97,0:16:34.06,IN-CH,,0,0,0,,{\fad(300,300)}「我想！我想交朋友！」
+Dialogue: 0,0:16:34.06,0:16:43.15,IN-CH,,0,0,0,,{\fad(300,300)}结束这段孤零零的时间吧
+Dialogue: 0,0:16:43.15,0:16:53.91,IN-CH,,0,0,0,,{\fad(300,300)}「好想交朋友！！！！」
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert《Umbrella》
+Dialogue: 0,0:36:38.93,0:36:50.56,IN-JP,,0,0,0,,{\fad(300,300)}雨の中で　震えてたんだよ
+Dialogue: 0,0:36:51.15,0:36:58.95,IN-JP,,0,0,0,,{\fad(300,300)}いつだって傘のないその人を
+Dialogue: 0,0:36:58.95,0:37:06.08,IN-JP,,0,0,0,,{\fad(300,300)}ずっと見つめていたの
+Dialogue: 0,0:37:08.21,0:37:20.18,IN-JP,,0,0,0,,{\fad(300,300)}濡れたままで　笑っていた
+Dialogue: 0,0:37:20.63,0:37:28.48,IN-JP,,0,0,0,,{\fad(300,300)}溢れだしてるはずの涙
+Dialogue: 0,0:37:28.48,0:37:36.53,IN-JP,,0,0,0,,{\fad(300,300)}雨粒に紛らせてる
+Dialogue: 0,0:37:38.24,0:37:43.16,IN-JP,,0,0,0,,{\fad(300,300)}傘を差そう…素直になろう
+Dialogue: 0,0:37:43.16,0:37:47.58,IN-JP,,0,0,0,,{\fad(300,300)}あなたの側に　いたいの
+Dialogue: 0,0:37:47.58,0:37:53.79,IN-JP,,0,0,0,,{\fad(300,300)}そうしてくれた　あの日のように
+Dialogue: 0,0:37:53.79,0:38:04.26,IN-JP,,0,0,0,,{\fad(300,300)}一緒に傘の下、並んで歩いていれば
+Dialogue: 0,0:38:04.26,0:38:11.94,IN-JP,,0,0,0,,{\fad(300,300)}きっと光が射すよ
+Dialogue: 1,0:36:38.93,0:36:50.56,IN-CH,,0,0,0,,{\fad(300,300)}雨中我的身体微微颤抖
+Dialogue: 1,0:36:51.15,0:36:58.95,IN-CH,,0,0,0,,{\fad(300,300)}总是不撑伞的他
+Dialogue: 1,0:36:58.95,0:37:06.08,IN-CH,,0,0,0,,{\fad(300,300)}夺去了我的目光
+Dialogue: 1,0:37:08.21,0:37:20.18,IN-CH,,0,0,0,,{\fad(300,300)}他浑身都湿了 却对着我笑着
+Dialogue: 1,0:37:20.63,0:37:28.48,IN-CH,,0,0,0,,{\fad(300,300)}本该止不住的泪水
+Dialogue: 1,0:37:28.48,0:37:36.53,IN-CH,,0,0,0,,{\fad(300,300)}混淆在了雨滴之中
+Dialogue: 1,0:37:38.24,0:37:43.16,IN-CH,,0,0,0,,{\fad(300,300)}把伞撑过去…再坦率一点吧
+Dialogue: 1,0:37:43.16,0:37:47.58,IN-CH,,0,0,0,,{\fad(300,300)}我想陪在你身旁
+Dialogue: 1,0:37:47.58,0:37:53.79,IN-CH,,0,0,0,,{\fad(300,300)}就如那天陪在我身旁的你
+Dialogue: 1,0:37:53.79,0:38:04.26,IN-CH,,0,0,0,,{\fad(300,300)}只要我们并排走在同一把伞下
+Dialogue: 1,0:38:04.26,0:38:11.94,IN-CH,,0,0,0,,{\fad(300,300)}乌云一定就会消散了吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert《Lead Your Partner》
+Dialogue: 0,0:43:36.01,0:43:39.43,IN-JP,,0,0,0,,さぁ、STEP, STEP & TURN!　誘いかけて
+Dialogue: 0,0:43:39.76,0:43:43.31,IN-JP,,0,0,0,,動揺したら…バランスは崩れちゃう
+Dialogue: 0,0:43:43.31,0:43:47.35,IN-JP,,0,0,0,,ねぇ、もっと！もっと！強く引きつけて
+Dialogue: 0,0:43:47.35,0:43:50.94,IN-JP,,0,0,0,,大胆で意外なリズム、つくっちゃうの
+Dialogue: 0,0:43:50.94,0:43:56.78,IN-JP,,0,0,0,,瞳を見つめて、ココロ読みとって
+Dialogue: 0,0:43:56.78,0:43:59.95,IN-JP,,0,0,0,,迷ってないで貴方らしく仕掛けてみせて！
+Comment: 0,0:43:59.95,0:44:00.91,IN-JP,,0,0,0,,Yes！
+Dialogue: 0,0:44:22.51,0:44:25.98,IN-JP,,0,0,0,,そう！STEP を変えて驚かせて
+Dialogue: 0,0:44:26.35,0:44:29.90,IN-JP,,0,0,0,,イメージなんて崩しちゃうくらい
+Dialogue: 0,0:44:29.90,0:44:33.86,IN-JP,,0,0,0,,ねぇ、もっと！もっと！ドキドキさせてよ
+Dialogue: 0,0:44:33.86,0:44:39.36,IN-JP,,0,0,0,,主導権を奪ってリードするの！思い切って！
+Dialogue: 0,0:44:39.36,0:44:44.70,IN-JP,,0,0,0,,さぁ、アン・ドゥ・トロワ！
+Dialogue: 1,0:43:36.01,0:43:39.43,IN-CH,,0,0,0,,来吧 一步一步一转身！邀请我吧
+Dialogue: 1,0:43:39.76,0:43:43.31,IN-CH,,0,0,0,,如果慌张…就保持不了平衡
+Dialogue: 1,0:43:43.31,0:43:47.35,IN-CH,,0,0,0,,来更多！更多！用力拉着我
+Dialogue: 1,0:43:47.35,0:43:50.94,IN-CH,,0,0,0,,来一段大胆又意外的节奏吧
+Dialogue: 1,0:43:50.94,0:43:56.78,IN-CH,,0,0,0,,看着我的眼睛 读取我的心意
+Dialogue: 1,0:43:56.78,0:43:59.95,IN-CH,,0,0,0,,不要犹豫 按照你的风格出招吧！
+Dialogue: 1,0:43:59.95,0:44:00.91,IN-CH,,0,0,20,,Yes！
+Dialogue: 1,0:44:22.51,0:44:25.98,IN-CH,,0,0,0,,没错！改变步伐让我惊讶
+Dialogue: 1,0:44:26.35,0:44:29.90,IN-CH,,0,0,0,,印象就是用来打破的
+Dialogue: 1,0:44:29.90,0:44:33.86,IN-CH,,0,0,0,,来继续！继续！让我心动吧
+Dialogue: 1,0:44:33.86,0:44:39.36,IN-CH,,0,0,0,,控制主导权带领我吧！毫无保留！
+Dialogue: 1,0:44:39.36,0:44:44.70,IN-CH,,0,0,0,,来吧 一 二 三！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Insert《You've Got Friends ～あなたには友達がいる～》
+Dialogue: 0,0:59:47.52,0:59:57.07,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}あなたはいま、幸せかな？教えてあげるね
+Dialogue: 0,1:00:00.28,1:00:10.96,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}暗い夜を歩いてるなら俯いた顔を上げて
+Dialogue: 0,1:00:11.17,1:00:19.89,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}見えるはずだよ…月の光
+Dialogue: 0,1:00:22.77,1:00:32.78,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}あなたを照らすその明かりもひとりぼっちじゃ
+Dialogue: 0,1:00:35.57,1:00:46.91,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}輝けない光なんだよ、誰だって誰かのこと
+Dialogue: 0,1:00:46.91,1:00:56.51,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}照らしてあげる光だから
+Dialogue: 0,1:00:57.55,1:01:05.39,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}見守っていたんだよ、ずっと
+Dialogue: 0,1:01:05.39,1:01:11.40,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}お互いに素直に笑いあって
+Dialogue: 0,1:01:11.40,1:01:18.49,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}必ず強くなれるってことに
+Dialogue: 0,1:01:18.49,1:01:25.91,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}気付いたら…空を見上げて
+Dialogue: 0,1:01:26.41,1:01:35.05,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}きっとあなたは　幸せだよ
+Dialogue: 0,1:01:35.05,1:01:41.18,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}友達が友達を想って
+Dialogue: 0,1:01:41.18,1:01:48.35,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}いつでも傍にいるってことを
+Dialogue: 0,1:01:48.35,1:01:54.94,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}伝えあう笑顔に会えたから
+Dialogue: 0,1:01:54.94,1:02:01.61,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}月明かりの綺麗な空の下で
+Dialogue: 0,1:02:01.61,1:02:16.75,IN-JP,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}さぁ…手を繋ごう
+Dialogue: 1,0:59:47.52,0:59:57.07,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}你现在幸福吗？我来告诉你吧
+Dialogue: 1,1:00:00.28,1:00:10.96,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}当走在黑夜中 抬起你低沉的头
+Dialogue: 1,1:00:11.17,1:00:19.89,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}你一定会看到…月亮的光芒
+Dialogue: 1,1:00:22.77,1:00:32.78,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}照亮你的这一缕月光 也是孤零零的
+Dialogue: 1,1:00:35.57,1:00:46.91,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}因为这是黯淡的光芒 不论是谁
+Dialogue: 1,1:00:46.91,1:00:56.51,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}都可以成为某人的光芒
+Dialogue: 1,1:00:57.55,1:01:05.39,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}我一直都注视着你
+Dialogue: 1,1:01:05.39,1:01:11.40,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}彼此畅怀欢笑间
+Dialogue: 1,1:01:11.40,1:01:18.49,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}你一定会变得更坚强
+Dialogue: 1,1:01:18.49,1:01:25.91,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}当你明白了…就抬头看看天空
+Dialogue: 1,1:01:26.41,1:01:35.05,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}你一定已经 很幸福了
+Dialogue: 1,1:01:35.05,1:01:41.18,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}因为朋友之间会互相关心
+Dialogue: 1,1:01:41.18,1:01:48.35,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}会一直陪伴着对方
+Dialogue: 1,1:01:48.35,1:01:54.94,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}彼此微笑着倾诉衷肠
+Dialogue: 1,1:01:54.94,1:02:01.61,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}在这美丽的月夜之下
+Dialogue: 1,1:02:01.61,1:02:16.75,IN-CH,,0,0,0,,{\fad(300,300)\c&H562203&\3c&HB88A00&}来…牵起彼此的手吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ending《You've Got Friends ～あなたには友達がいる～》
+Dialogue: 0,1:43:56.83,1:48:05.17,ED-JP,,0,0,0,,{\an7\pos(0,0)\p1\c&H000000&\clip(0,0,1920,90)}m 0 0 l 1920 0 l 1920 1080 l 0 1080
+Dialogue: 0,1:43:56.83,1:48:05.17,ED-JP,,0,0,0,,{\an7\pos(0,0)\p1\c&H000000&\clip(0,990,1920,1080)}m 0 0 l 1920 0 l 1920 1080 l 0 1080
+Dialogue: 0,1:43:56.83,1:44:06.97,ED-JP,,0,0,0,,{\fad(300,300)}あなたはいま、幸せかな？教えてあげるね
+Dialogue: 0,1:44:10.06,1:44:21.78,ED-JP,,0,0,0,,{\fad(300,300)}暗い夜を歩いてるなら俯いた顔を上げて
+Dialogue: 0,1:44:21.78,1:44:30.91,ED-JP,,0,0,0,,{\fad(300,300)}見えるはずだよ…月の光
+Dialogue: 0,1:44:33.87,1:44:44.97,ED-JP,,0,0,0,,{\fad(300,300)}あなたを照らすその明かりもひとりぼっちじゃ
+Dialogue: 0,1:44:46.97,1:44:58.77,ED-JP,,0,0,0,,{\fad(300,300)}輝けない光なんだよ、誰だって誰かのこと
+Dialogue: 0,1:44:58.77,1:45:08.78,ED-JP,,0,0,0,,{\fad(300,300)}照らしてあげる光だから
+Dialogue: 0,1:45:09.41,1:45:17.71,ED-JP,,0,0,0,,{\fad(300,300)}幸せになれる魔法
+Dialogue: 0,1:45:17.71,1:45:23.76,ED-JP,,0,0,0,,{\fad(300,300)}今すぐに会いたい人を想って
+Dialogue: 0,1:45:23.76,1:45:31.30,ED-JP,,0,0,0,,{\fad(300,300)}心に浮かぶ言葉たちを
+Dialogue: 0,1:45:31.30,1:45:38.19,ED-JP,,0,0,0,,{\fad(300,300)}歌うように解き放っていくの
+Dialogue: 0,1:45:38.19,1:45:45.03,ED-JP,,0,0,0,,{\fad(300,300)}月明かりの綺麗な空の下で
+Dialogue: 0,1:46:08.42,1:46:18.68,ED-JP,,0,0,0,,{\fad(300,300)}小さな頃、大きな声響かせてた
+Dialogue: 0,1:46:21.85,1:46:27.69,ED-JP,,0,0,0,,{\fad(300,300)}あの気持ちのままでいいんだ
+Dialogue: 0,1:46:27.69,1:46:33.41,ED-JP,,0,0,0,,{\fad(300,300)}いつだってあなたのこと
+Dialogue: 0,1:46:33.41,1:46:42.71,ED-JP,,0,0,0,,{\fad(300,300)}大切に思う人がいるの
+Dialogue: 0,1:46:43.67,1:46:51.84,ED-JP,,0,0,0,,{\fad(300,300)}見守っていたんだよ、ずっと
+Dialogue: 0,1:46:51.84,1:46:57.85,ED-JP,,0,0,0,,{\fad(300,300)}お互いに素直に笑いあって
+Dialogue: 0,1:46:57.85,1:47:05.15,ED-JP,,0,0,0,,{\fad(300,300)}必ず強くなれるってことに
+Dialogue: 0,1:47:05.15,1:47:12.78,ED-JP,,0,0,0,,{\fad(300,300)}気付いたら…空を見上げて
+Dialogue: 0,1:47:13.32,1:47:22.29,ED-JP,,0,0,0,,{\fad(300,300)}きっとあなたは　幸せだよ
+Dialogue: 0,1:47:22.29,1:47:28.34,ED-JP,,0,0,0,,{\fad(300,300)}友達が友達を想って
+Dialogue: 0,1:47:28.34,1:47:35.80,ED-JP,,0,0,0,,{\fad(300,300)}いつでも傍にいるってことを
+Dialogue: 0,1:47:35.80,1:47:42.77,ED-JP,,0,0,0,,{\fad(300,300)}伝えあう笑顔に会えたから
+Dialogue: 0,1:47:42.77,1:47:49.61,ED-JP,,0,0,0,,{\fad(300,300)}月明かりの綺麗な空の下で
+Dialogue: 0,1:47:49.61,1:48:05.17,ED-JP,,0,0,0,,{\fad(300,300)}さぁ…手を繋ごう
+Dialogue: 1,1:43:56.83,1:44:06.97,ED-CH,,0,0,0,,{\fad(300,300)}你现在幸福吗？我来告诉你吧
+Dialogue: 1,1:44:10.06,1:44:21.78,ED-CH,,0,0,0,,{\fad(300,300)}当走在黑夜中 抬起你低沉的头
+Dialogue: 1,1:44:21.78,1:44:30.91,ED-CH,,0,0,0,,{\fad(300,300)}你一定会看到…月亮的光芒
+Dialogue: 1,1:44:33.87,1:44:44.97,ED-CH,,0,0,0,,{\fad(300,300)}照亮你的这一缕月光 也是孤零零的
+Dialogue: 1,1:44:46.97,1:44:58.77,ED-CH,,0,0,0,,{\fad(300,300)}因为这是黯淡的光芒 不论是谁
+Dialogue: 1,1:44:58.77,1:45:08.78,ED-CH,,0,0,0,,{\fad(300,300)}都可以成为某人的光芒
+Dialogue: 1,1:45:09.41,1:45:17.71,ED-CH,,0,0,0,,{\fad(300,300)}能带来幸福的魔法
+Dialogue: 1,1:45:17.71,1:45:23.76,ED-CH,,0,0,0,,{\fad(300,300)}现在就想想最思念的人
+Dialogue: 1,1:45:23.76,1:45:31.30,ED-CH,,0,0,0,,{\fad(300,300)}将心中浮现出的话语
+Dialogue: 1,1:45:31.30,1:45:38.19,ED-CH,,0,0,0,,{\fad(300,300)}放声歌唱出来吧
+Dialogue: 1,1:45:38.19,1:45:45.03,ED-CH,,0,0,0,,{\fad(300,300)}在这美丽的月夜之下
+Dialogue: 1,1:46:08.42,1:46:18.68,ED-CH,,0,0,0,,{\fad(300,300)}小的时候 总是张大了嗓门
+Dialogue: 1,1:46:21.85,1:46:27.69,ED-CH,,0,0,0,,{\fad(300,300)}保持当时的童心就好
+Dialogue: 1,1:46:27.69,1:46:33.41,ED-CH,,0,0,0,,{\fad(300,300)}无论何时都有人挂念着你
+Dialogue: 1,1:46:33.41,1:46:42.71,ED-CH,,0,0,0,,{\fad(300,300)}将你视为宝物
+Dialogue: 1,1:46:43.67,1:46:51.84,ED-CH,,0,0,0,,{\fad(300,300)}我一直都注视着你
+Dialogue: 1,1:46:51.84,1:46:57.85,ED-CH,,0,0,0,,{\fad(300,300)}彼此畅怀欢笑间
+Dialogue: 1,1:46:57.85,1:47:05.15,ED-CH,,0,0,0,,{\fad(300,300)}你一定会变得更坚强
+Dialogue: 1,1:47:05.15,1:47:12.78,ED-CH,,0,0,0,,{\fad(300,300)}当你明白了…就抬头看看天空
+Dialogue: 1,1:47:13.32,1:47:22.29,ED-CH,,0,0,0,,{\fad(300,300)}你一定已经 很幸福了
+Dialogue: 1,1:47:22.29,1:47:28.34,ED-CH,,0,0,0,,{\fad(300,300)}因为朋友之间会互相关心
+Dialogue: 1,1:47:28.34,1:47:35.80,ED-CH,,0,0,0,,{\fad(300,300)}会一直陪伴着对方
+Dialogue: 1,1:47:35.80,1:47:42.77,ED-CH,,0,0,0,,{\fad(300,300)}彼此微笑着倾诉衷肠
+Dialogue: 1,1:47:42.77,1:47:49.61,ED-CH,,0,0,0,,{\fad(300,300)}在这美丽的月夜之下
+Dialogue: 1,1:47:49.61,1:48:05.17,ED-CH,,0,0,0,,{\fad(300,300)}来…牵起彼此的手吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
