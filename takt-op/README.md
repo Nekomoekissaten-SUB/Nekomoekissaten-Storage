@@ -1,7 +1,7 @@
 # takt op.Destiny
 
-内含 01-12 简繁日字幕
-[简繁日BD集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/takt-op/takt-op_BD_JPCH.7z)
+内含 01-12 简繁日字幕  
+[简繁日BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/takt-op_BD_JPCH.7z)
 
 使用字体：
 ```
