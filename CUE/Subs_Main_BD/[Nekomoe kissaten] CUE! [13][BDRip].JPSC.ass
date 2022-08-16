@@ -1,0 +1,1204 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] CUE! [13][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,32,&H00FFFFFF,&H000000FF,&H00BE7E27,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Dial-CH,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,15,15,36,1
+Style: Dial-JP,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,5,1
+Style: Dial-CH2,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,38,1
+Style: Dial-JP2,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,5,1
+Style: OP-CH,HYQiHei 95S,60,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,15,15,2,1
+Style: OP-JP,FOT-RodinNTLG Pro EB,48,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,15,15,10,1
+Style: ED1-CH,FZZhengHei-R-GBK,33,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,8,16,16,10,1
+Style: ED1-JP,FOT-Budo Std L,38,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,20,15,5,1
+Style: Scr,FZDengXian-H-GBK,48,&H003F3635,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,36,1
+Style: Title,FZLanTingYuan-B-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00BE7E27,0,0,0,0,100,100,4,0,1,0,4,3,15,15,36,1
+Style: ED2-JP,FOT-Budo Std L,42,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,15,10,1
+Style: ED2-CH,FZZhengHei-R-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,16,16,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:01:55.51,0:01:58.97,Default,,0,0,0,,{\fad(300,0)\blur2}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:03:35.03,0:03:39.03,Title,,0,0,0,,{\fad(480,480)\pos(1179.844,598.489)}2期制作决定?!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:52.41,0:00:52.45,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,595.31)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.45,0:00:52.49,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,599.18)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.49,0:00:52.53,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,603.07)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.53,0:00:52.57,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,606.97)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.57,0:00:52.62,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,610.84)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.62,0:00:52.66,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,614.74)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.66,0:00:52.70,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,618.63)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.70,0:00:52.74,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,622.49)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.74,0:00:52.78,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,626.37)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.78,0:00:52.82,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,630.3)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.82,0:00:52.87,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,634.13)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.87,0:00:52.91,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,638.04)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.91,0:00:52.95,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,641.96)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.95,0:00:52.99,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,645.79)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:52.99,0:00:53.03,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,649.69)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.03,0:00:53.07,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,653.59)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.07,0:00:53.12,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,657.45)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.12,0:00:53.16,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,661.35)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.16,0:00:53.20,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,665.21)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.20,0:00:53.24,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,669.1)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.24,0:00:53.28,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,672.98)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.28,0:00:53.32,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,676.84)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.32,0:00:53.37,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,680.72)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.37,0:00:53.41,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,684.61)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.41,0:00:53.45,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,688.44)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.45,0:00:53.49,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,692.31)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.49,0:00:53.53,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,696.17)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.53,0:00:53.57,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,700.02)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.57,0:00:53.62,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,703.88)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.62,0:00:53.66,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,707.7)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.66,0:00:53.70,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,711.54)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.70,0:00:53.74,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,715.38)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.74,0:00:53.78,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,719.2)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.78,0:00:53.82,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,723.03)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.82,0:00:53.87,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,726.86)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.87,0:00:53.91,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,730.65)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.91,0:00:53.95,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,734.4)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.95,0:00:53.99,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,738.19)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:53.99,0:00:54.03,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,742)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.03,0:00:54.08,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,745.74)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.08,0:00:54.12,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,749.47)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.12,0:00:54.16,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,753.19)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.16,0:00:54.20,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,756.91)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.20,0:00:54.24,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,760.6)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.24,0:00:54.28,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,764.28)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.28,0:00:54.33,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,767.98)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.33,0:00:54.37,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,771.59)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.37,0:00:54.41,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,775.21)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.41,0:00:54.45,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,778.79)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.45,0:00:54.49,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,782.38)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.49,0:00:54.53,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,785.89)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.53,0:00:54.58,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,789.39)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.58,0:00:54.62,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,792.87)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.62,0:00:54.66,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,796.35)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.66,0:00:54.70,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,799.72)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.70,0:00:54.74,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,803.08)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.74,0:00:54.78,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,806.4)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.78,0:00:54.83,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,809.71)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.83,0:00:54.87,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,812.93)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.87,0:00:54.91,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,816.13)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.91,0:00:54.95,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,819.26)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.95,0:00:54.99,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,822.35)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:54.99,0:00:55.03,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,825.35)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.03,0:00:55.08,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,828.35)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.08,0:00:55.12,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,831.18)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.12,0:00:55.16,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,834.01)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.16,0:00:55.20,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,836.69)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.20,0:00:55.24,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,839.36)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.24,0:00:55.28,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,841.99)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.28,0:00:55.33,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,844.49)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.33,0:00:55.37,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,846.86)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.37,0:00:55.41,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,849.15)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.41,0:00:55.45,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,851.36)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.45,0:00:55.49,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,853.49)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.49,0:00:55.53,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,855.48)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.53,0:00:55.58,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,857.37)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.58,0:00:55.62,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,859.19)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.62,0:00:55.66,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.67,860.84)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.66,0:00:55.70,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,862.44)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.70,0:00:55.74,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,863.92)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.74,0:00:55.79,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,865.24)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.79,0:00:55.83,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,866.54)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.83,0:00:55.87,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,867.67)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.87,0:00:55.91,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,868.69)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.91,0:00:55.95,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,869.63)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.95,0:00:55.99,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,870.51)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:55.99,0:00:56.04,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,871.26)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.04,0:00:56.08,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,871.95)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.08,0:00:56.12,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,872.48)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.12,0:00:56.16,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,872.99)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.16,0:00:56.20,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,873.34)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.20,0:00:56.24,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.65,873.73)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.24,0:00:56.29,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.65,874)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.29,0:00:56.33,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.65,874.14)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.33,0:00:56.37,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,874.29)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:00:56.37,0:00:57.87,Scr,,0,0,0,,{\an9\fn@HYXuanSong 65S\frz272.7\c&HF6D05E&\3c&HFFFFFF&\bord2\fax0.1\pos(437.66,874.36)}转生{\c&H2F373A&}成为{\c&HDEA5DD&}杂鱼勇者，{\c&H36B36C&}但是{\c&H222222&}加入了{\c&H3979F6&}最强无双小队
+Dialogue: 0,0:12:10.88,0:12:14.09,Scr,,0,0,0,,{\an8\blur2\fnFZYaSong-H-GBK\fad(500,0)\c&H3016FA&\3c&H474747&\bord1.5\pos(640,7.885)}花烂漫！花球\N{\fnFZLanTingHei-M-GBK\fs32\c&HD5E7EA&}行星大战篇\N{\blur0\fs40\c&H342F32&\bord0}试音会场
+Dialogue: 0,0:17:29.82,0:17:32.28,Default,,0,0,0,,{\an7\blur2\fnFZLanTingHei-M-GBK\c&H3B4651&\3c&HE5EBEE&}木星学园\N{\fscx70\fscy70}本能寺铃鹿    严岛莉莉艾\N六波罗奇迹    坛之浦宫子\N\N在重视个性的校风之下，\N队员们也都是顶级个性的人物。\N虽然由于个性的区别过于突出，\N她们有时会意见冲突，\N但结果会让她们更团结，\N展示出更完美的强大。\N\N{\fscx100\fscy100}学园的特征
+Dialogue: 0,0:22:12.39,0:22:14.44,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,116.44)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.44,0:22:14.48,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,113.9)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.48,0:22:14.52,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,108.27)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.52,0:22:14.56,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,100.82)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.56,0:22:14.60,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,92.09)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.60,0:22:14.65,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,82.43)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.65,0:22:14.69,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,72.07)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.69,0:22:14.73,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,61.18)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.73,0:22:14.77,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,49.85)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.77,0:22:14.81,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,38.19)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.81,0:22:14.85,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,26.2)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.85,0:22:14.90,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,14.04)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.90,0:22:14.94,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,1.71)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.94,0:22:14.98,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-10.79)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:14.98,0:22:15.02,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-23.39)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:15.02,0:22:15.06,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-36.05)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:15.06,0:22:15.10,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-48.76)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:15.10,0:22:15.15,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-61.51)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:15.15,0:22:15.19,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-74.26)}承蒙关照。\N日前的试音辛苦了。
+Dialogue: 0,0:22:12.39,0:22:14.44,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,359.01)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.44,0:22:14.48,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,356.47)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.48,0:22:14.52,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,350.84)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.52,0:22:14.56,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,343.39)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.56,0:22:14.60,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,334.65)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.60,0:22:14.65,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,325)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.65,0:22:14.69,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,314.64)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.69,0:22:14.73,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,303.75)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.73,0:22:14.77,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,292.42)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.77,0:22:14.81,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,280.76)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.81,0:22:14.85,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,268.77)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.85,0:22:14.90,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,256.61)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.90,0:22:14.94,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,244.28)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.94,0:22:14.98,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,231.78)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:14.98,0:22:15.02,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,219.18)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.02,0:22:15.06,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,206.51)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.06,0:22:15.10,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,193.81)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.10,0:22:15.15,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,181.05)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.15,0:22:15.19,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,168.31)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.19,0:22:15.23,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,155.57)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.23,0:22:15.27,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,142.88)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.27,0:22:15.31,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,130.21)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.31,0:22:15.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,117.63)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.36,0:22:15.40,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,105.11)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.40,0:22:15.44,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,92.72)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.44,0:22:15.48,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,80.43)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.48,0:22:15.52,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,68.27)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.52,0:22:15.56,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,56.3)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.56,0:22:15.61,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,44.5)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.61,0:22:15.65,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,32.84)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.65,0:22:15.69,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,21.42)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.69,0:22:15.73,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,10.23)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.73,0:22:15.77,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-0.67)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.77,0:22:15.81,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-11.35)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.81,0:22:15.86,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-21.7)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:15.86,0:22:15.90,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,-31.66)}为您通知《花烂漫！花球 行星大战篇》的试音结果。
+Dialogue: 0,0:22:12.39,0:22:14.44,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,515.14)}合格者如下。
+Dialogue: 0,0:22:14.44,0:22:14.48,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,512.6)}合格者如下。
+Dialogue: 0,0:22:14.48,0:22:14.52,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,506.97)}合格者如下。
+Dialogue: 0,0:22:14.52,0:22:14.56,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,499.52)}合格者如下。
+Dialogue: 0,0:22:14.56,0:22:14.60,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,490.78)}合格者如下。
+Dialogue: 0,0:22:14.60,0:22:14.65,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,481.13)}合格者如下。
+Dialogue: 0,0:22:14.65,0:22:14.69,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,470.77)}合格者如下。
+Dialogue: 0,0:22:14.69,0:22:14.73,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,459.88)}合格者如下。
+Dialogue: 0,0:22:14.73,0:22:14.77,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,448.55)}合格者如下。
+Dialogue: 0,0:22:14.77,0:22:14.81,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,436.89)}合格者如下。
+Dialogue: 0,0:22:14.81,0:22:14.85,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,424.9)}合格者如下。
+Dialogue: 0,0:22:14.85,0:22:14.90,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,412.74)}合格者如下。
+Dialogue: 0,0:22:14.90,0:22:14.94,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,400.41)}合格者如下。
+Dialogue: 0,0:22:14.94,0:22:14.98,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,387.91)}合格者如下。
+Dialogue: 0,0:22:14.98,0:22:15.02,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,375.31)}合格者如下。
+Dialogue: 0,0:22:15.02,0:22:15.06,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,362.64)}合格者如下。
+Dialogue: 0,0:22:15.06,0:22:15.10,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,349.94)}合格者如下。
+Dialogue: 0,0:22:15.10,0:22:15.15,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,337.18)}合格者如下。
+Dialogue: 0,0:22:15.15,0:22:15.19,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,324.44)}合格者如下。
+Dialogue: 0,0:22:15.19,0:22:15.23,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,311.7)}合格者如下。
+Dialogue: 0,0:22:15.23,0:22:15.27,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,299.01)}合格者如下。
+Dialogue: 0,0:22:15.27,0:22:15.31,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,286.34)}合格者如下。
+Dialogue: 0,0:22:15.31,0:22:15.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,273.76)}合格者如下。
+Dialogue: 0,0:22:15.36,0:22:15.40,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,261.24)}合格者如下。
+Dialogue: 0,0:22:15.40,0:22:15.44,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,248.85)}合格者如下。
+Dialogue: 0,0:22:15.44,0:22:15.48,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,236.56)}合格者如下。
+Dialogue: 0,0:22:15.48,0:22:15.52,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,224.4)}合格者如下。
+Dialogue: 0,0:22:15.52,0:22:15.56,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,212.43)}合格者如下。
+Dialogue: 0,0:22:15.56,0:22:15.61,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,200.63)}合格者如下。
+Dialogue: 0,0:22:15.61,0:22:15.65,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,188.97)}合格者如下。
+Dialogue: 0,0:22:15.65,0:22:15.69,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,177.55)}合格者如下。
+Dialogue: 0,0:22:15.69,0:22:15.73,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,166.36)}合格者如下。
+Dialogue: 0,0:22:15.73,0:22:15.77,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,155.46)}合格者如下。
+Dialogue: 0,0:22:15.77,0:22:15.81,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,144.78)}合格者如下。
+Dialogue: 0,0:22:15.81,0:22:15.86,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,134.43)}合格者如下。
+Dialogue: 0,0:22:15.86,0:22:15.90,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,124.47)}合格者如下。
+Dialogue: 0,0:22:15.90,0:22:15.94,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,114.82)}合格者如下。
+Dialogue: 0,0:22:15.94,0:22:15.98,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,105.65)}合格者如下。
+Dialogue: 0,0:22:15.98,0:22:16.02,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,96.88)}合格者如下。
+Dialogue: 0,0:22:16.02,0:22:16.06,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,88.65)}合格者如下。
+Dialogue: 0,0:22:16.06,0:22:16.11,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,80.96)}合格者如下。
+Dialogue: 0,0:22:16.11,0:22:16.15,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,73.93)}合格者如下。
+Dialogue: 0,0:22:16.15,0:22:16.19,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,67.62)}合格者如下。
+Dialogue: 0,0:22:16.19,0:22:16.23,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,62.1)}合格者如下。
+Dialogue: 0,0:22:16.23,0:22:16.27,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,57.55)}合格者如下。
+Dialogue: 0,0:22:16.27,0:22:16.31,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,54.05)}合格者如下。
+Dialogue: 0,0:22:16.31,0:22:16.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,51.84)}合格者如下。
+Dialogue: 0,0:22:16.36,0:22:17.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(50.21,51.16)}合格者如下。
+Dialogue: 0,0:22:12.39,0:22:14.44,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,665.3)}木星学园
+Dialogue: 0,0:22:14.44,0:22:14.48,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,662.76)}木星学园
+Dialogue: 0,0:22:14.48,0:22:14.52,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,657.14)}木星学园
+Dialogue: 0,0:22:14.52,0:22:14.56,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,649.68)}木星学园
+Dialogue: 0,0:22:14.56,0:22:14.60,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,640.95)}木星学园
+Dialogue: 0,0:22:14.60,0:22:14.65,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,631.3)}木星学园
+Dialogue: 0,0:22:14.65,0:22:14.69,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,620.94)}木星学园
+Dialogue: 0,0:22:14.69,0:22:14.73,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,610.04)}木星学园
+Dialogue: 0,0:22:14.73,0:22:14.77,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,598.72)}木星学园
+Dialogue: 0,0:22:14.77,0:22:14.81,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,587.06)}木星学园
+Dialogue: 0,0:22:14.81,0:22:14.85,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,575.06)}木星学园
+Dialogue: 0,0:22:14.85,0:22:14.90,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,562.9)}木星学园
+Dialogue: 0,0:22:14.90,0:22:14.94,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,550.58)}木星学园
+Dialogue: 0,0:22:14.94,0:22:14.98,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,538.08)}木星学园
+Dialogue: 0,0:22:14.98,0:22:15.02,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,525.48)}木星学园
+Dialogue: 0,0:22:15.02,0:22:15.06,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,512.81)}木星学园
+Dialogue: 0,0:22:15.06,0:22:15.10,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,500.1)}木星学园
+Dialogue: 0,0:22:15.10,0:22:15.15,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,487.35)}木星学园
+Dialogue: 0,0:22:15.15,0:22:15.19,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,474.6)}木星学园
+Dialogue: 0,0:22:15.19,0:22:15.23,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,461.86)}木星学园
+Dialogue: 0,0:22:15.23,0:22:15.27,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,449.18)}木星学园
+Dialogue: 0,0:22:15.27,0:22:15.31,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,436.51)}木星学园
+Dialogue: 0,0:22:15.31,0:22:15.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,423.92)}木星学园
+Dialogue: 0,0:22:15.36,0:22:15.40,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,411.41)}木星学园
+Dialogue: 0,0:22:15.40,0:22:15.44,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,399.02)}木星学园
+Dialogue: 0,0:22:15.44,0:22:15.48,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,386.73)}木星学园
+Dialogue: 0,0:22:15.48,0:22:15.52,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,374.57)}木星学园
+Dialogue: 0,0:22:15.52,0:22:15.56,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,362.6)}木星学园
+Dialogue: 0,0:22:15.56,0:22:15.61,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,350.8)}木星学园
+Dialogue: 0,0:22:15.61,0:22:15.65,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,339.14)}木星学园
+Dialogue: 0,0:22:15.65,0:22:15.69,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,327.72)}木星学园
+Dialogue: 0,0:22:15.69,0:22:15.73,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,316.53)}木星学园
+Dialogue: 0,0:22:15.73,0:22:15.77,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,305.62)}木星学园
+Dialogue: 0,0:22:15.77,0:22:15.81,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,294.95)}木星学园
+Dialogue: 0,0:22:15.81,0:22:15.86,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,284.6)}木星学园
+Dialogue: 0,0:22:15.86,0:22:15.90,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,274.64)}木星学园
+Dialogue: 0,0:22:15.90,0:22:15.94,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,264.98)}木星学园
+Dialogue: 0,0:22:15.94,0:22:15.98,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,255.82)}木星学园
+Dialogue: 0,0:22:15.98,0:22:16.02,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,247.05)}木星学园
+Dialogue: 0,0:22:16.02,0:22:16.06,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,238.82)}木星学园
+Dialogue: 0,0:22:16.06,0:22:16.11,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,231.12)}木星学园
+Dialogue: 0,0:22:16.11,0:22:16.15,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,224.1)}木星学园
+Dialogue: 0,0:22:16.15,0:22:16.19,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,217.79)}木星学园
+Dialogue: 0,0:22:16.19,0:22:16.23,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,212.26)}木星学园
+Dialogue: 0,0:22:16.23,0:22:16.27,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,207.72)}木星学园
+Dialogue: 0,0:22:16.27,0:22:16.31,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,204.22)}木星学园
+Dialogue: 0,0:22:16.31,0:22:16.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,202.01)}木星学园
+Dialogue: 0,0:22:16.36,0:22:17.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,201.33)}木星学园
+Dialogue: 0,0:22:15.98,0:22:16.02,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,718.99)}海王学园
+Dialogue: 0,0:22:16.02,0:22:16.06,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,710.75)}海王学园
+Dialogue: 0,0:22:16.06,0:22:16.11,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,703.06)}海王学园
+Dialogue: 0,0:22:16.11,0:22:16.15,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,696.03)}海王学园
+Dialogue: 0,0:22:16.15,0:22:16.19,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,689.72)}海王学园
+Dialogue: 0,0:22:16.19,0:22:16.23,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,684.19)}海王学园
+Dialogue: 0,0:22:16.23,0:22:16.27,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,679.65)}海王学园
+Dialogue: 0,0:22:16.27,0:22:16.31,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,676.15)}海王学园
+Dialogue: 0,0:22:16.31,0:22:16.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,673.94)}海王学园
+Dialogue: 0,0:22:16.36,0:22:17.36,Scr,,0,0,0,,{\an7\fnFZLanTingHei-M-GBK\fs40\c&H2E2C31&\pos(210.85,673.26)}海王学园
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue Japanese
+Dialogue: 0,0:00:13.12,0:00:13.91,Dial-JP,,0,0,0,,危ない
+Dialogue: 0,0:00:18.83,0:00:19.54,Dial-JP,,0,0,0,,アイラ
+Dialogue: 0,0:00:19.71,0:00:21.29,Dial-JP,,0,0,0,,逃げて　逃げるのよ
+Dialogue: 0,0:00:21.88,0:00:22.84,Dial-JP,,0,0,0,,大丈夫か
+Dialogue: 0,0:00:25.50,0:00:26.71,Dial-JP,,0,0,0,,助けてくらしゃい
+Dialogue: 0,0:00:28.22,0:00:29.30,Dial-JP,,0,0,0,,はい　ストップします
+Dialogue: 0,0:00:30.22,0:00:32.39,Dial-JP,,0,0,0,,す…　すみません　すみません
+Dialogue: 0,0:00:32.39,0:00:34.76,Dial-JP,,0,0,0,,カット168からやり直します
+Dialogue: 0,0:00:35.77,0:00:37.35,Dial-JP,,0,0,0,,申し訳ありません
+Dialogue: 0,0:00:39.77,0:00:40.81,Dial-JP,,0,0,0,,助けてください
+Dialogue: 0,0:00:41.15,0:00:42.52,Dial-JP,,0,0,0,,息が切れてないよ
+Dialogue: 0,0:00:45.61,0:00:47.11,Dial-JP,,0,0,0,,助けって…　ください
+Dialogue: 0,0:00:47.11,0:00:48.32,Dial-JP,,0,0,0,,任せておけ
+Dialogue: 0,0:00:49.45,0:00:51.99,Dial-JP,,0,0,0,,す…　すみません　すみません
+Dialogue: 0,0:00:53.28,0:00:55.16,Dial-JP,,0,0,0,,お疲れさまでした
+Dialogue: 0,0:00:55.45,0:00:57.12,Dial-JP,,0,0,0,,お疲れさまでした
+Dialogue: 0,0:00:59.83,0:01:02.25,Dial-JP,,0,0,0,,我が輩は悪魔…
+Dialogue: 0,0:01:02.25,0:01:03.63,Dial-JP,,0,0,0,,どうしたの　利恵ちゃん
+Dialogue: 0,0:01:04.29,0:01:06.42,Dial-JP,,0,0,0,,我が輩は悪魔エリス
+Dialogue: 0,0:01:07.09,0:01:10.13,Dial-JP,,0,0,0,,魔界より出でて　世界を闇に
+Dialogue: 0,0:01:11.05,0:01:13.30,Dial-JP,,0,0,0,,世界は終焉を告げ
+Dialogue: 0,0:01:13.30,0:01:17.31,Dial-JP,,0,0,0,,我が輩は永久に明けることのない闇の中を
+Dialogue: 0,0:01:18.27,0:01:20.60,Dial-JP,,0,0,0,,とぼとぼと歩く運命
+Dialogue: 0,0:01:21.19,0:01:23.31,Dial-JP,,0,0,0,,よ…　よく分からないけど
+Dialogue: 0,0:01:23.85,0:01:26.61,Dial-JP,,0,0,0,,そんなに落ち込まなくていいと思うよ
+Dialogue: 0,0:01:27.65,0:01:31.15,Dial-JP,,0,0,0,,せっかくテレビアニメのアフレコに参加できたのに
+Dialogue: 0,0:01:31.78,0:01:32.70,Dial-JP,,0,0,0,,なのに…
+Dialogue: 0,0:01:33.24,0:01:36.87,Dial-JP,,0,0,0,,「助けてください」だけを7回も録り直すなんて
+Dialogue: 0,0:01:37.66,0:01:38.99,Dial-JP,,0,0,0,,大丈夫だって
+Dialogue: 0,0:01:39.37,0:01:42.67,Dial-JP,,0,0,0,,私なんて　もっとたくさん録り直ししたことあるから
+Dialogue: 0,0:01:42.96,0:01:44.63,Dial-JP,,0,0,0,,ほんとに　いつ
+Dialogue: 0,0:01:45.42,0:01:47.00,Dial-JP,,0,0,0,,いつっていうか…
+Dialogue: 0,0:01:47.25,0:01:50.34,Dial-JP,,0,0,0,,そんな失敗　今まで何回もあるかも
+Dialogue: 0,0:01:50.84,0:01:51.97,Dial-JP,,0,0,0,,何回も？
+Dialogue: 0,0:01:54.43,0:01:55.51,Dial-JP,,0,0,0,,電車が来たよ
+Dialogue: 0,0:02:00.81,0:02:03.48,Dial-JP,,0,0,0,,声優への道は遠いな
+Dialogue: 0,0:03:37.15,0:03:38.03,Dial-JP,,0,400,0,,間に合いそう？
+Dialogue: 0,0:03:38.49,0:03:40.70,Dial-JP,,0,400,0,,集合時間まであと5分
+Dialogue: 0,0:03:40.70,0:03:42.28,Dial-JP,,0,0,0,,ギリギリセーフだね
+Dialogue: 0,0:03:43.91,0:03:44.58,Dial-JP,,0,0,0,,急ごう
+Dialogue: 0,0:03:45.54,0:03:46.46,Dial-JP,,0,0,0,,ちょっと待って
+Dialogue: 0,0:03:47.04,0:03:49.79,Dial-JP,,0,0,0,,ほら　今日は全員集合って言われたから
+Dialogue: 0,0:03:52.67,0:03:53.42,Dial-JP,,0,0,0,,陽菜
+Dialogue: 0,0:03:54.09,0:03:55.13,Dial-JP,,0,0,0,,どうしたの
+Dialogue: 0,0:03:56.92,0:03:58.05,Dial-JP,,0,0,0,,助けてください
+Dialogue: 0,0:04:00.68,0:04:01.47,Dial-JP,,0,0,0,,利恵ちゃん？
+Dialogue: 0,0:04:01.72,0:04:04.06,Dial-JP,,0,0,0,,いえ　その　なんでも
+Dialogue: 0,0:04:04.89,0:04:06.93,Dial-JP,,0,0,0,,陽菜ちゃん　大丈夫？
+Dialogue: 0,0:04:06.93,0:04:08.56,Dial-JP,,0,0,0,,だ…　大丈夫です
+Dialogue: 0,0:04:08.98,0:04:10.10,Dial-JP,,0,0,0,,よかった
+Dialogue: 0,0:04:10.44,0:04:13.07,Dial-JP,,0,0,0,,もうみんなレッスン室にそろってるからね
+Dialogue: 0,0:04:14.48,0:04:15.86,Dial-JP,,0,0,0,,遅くなりました
+Dialogue: 0,0:04:17.61,0:04:18.78,Dial-JP,,0,0,0,,なりました
+Dialogue: 0,0:04:19.07,0:04:20.45,Dial-JP,,0,0,0,,これでそろったわね
+Dialogue: 0,0:04:21.16,0:04:23.41,Dial-JP,,0,0,0,,真咲からみんなにお話があります
+Dialogue: 0,0:04:24.03,0:04:25.29,Dial-JP,,0,0,0,,もう少し待ってて
+Dialogue: 0,0:04:25.87,0:04:26.83,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:04:27.58,0:04:32.25,Dial-JP,,0,0,0,,ここは　まだ立ち上がったばかりの声優事務所　「AiRBLUE」
+Dialogue: 0,0:04:32.96,0:04:37.17,Dial-JP,,0,0,0,,そして私たちは　そこに所属している声優の卵です
+Dialogue: 0,0:04:37.76,0:04:41.64,Dial-JP,,0,0,0,,ここに来てから　今までいろんな出来事がありました
+Dialogue: 0,0:04:42.26,0:04:43.76,Dial-JP,,0,0,0,,おかえり　陽菜
+Dialogue: 0,0:04:43.76,0:04:45.26,Dial-JP,,0,0,0,,アフレコどうだった
+Dialogue: 0,0:04:45.51,0:04:48.56,Dial-JP,,0,0,0,,さすが売れっ子　重役出勤だな
+Dialogue: 0,0:04:49.14,0:04:52.48,Dial-JP,,0,0,0,,村娘役だけど　なんとかできたかな
+Dialogue: 0,0:04:53.15,0:04:57.15,Dial-JP,,0,0,0,,ねえねえ　今度のファン感謝イベントの話　聞いた
+Dialogue: 0,0:04:58.03,0:05:00.03,Dial-JP,,0,0,0,,自分らが出るイベントでしょ
+Dialogue: 0,0:05:00.28,0:05:01.70,Dial-JP,,0,0,0,,それだけではない
+Dialogue: 0,0:05:02.24,0:05:05.24,Dial-JP,,0,0,0,,実は重大発表があるって噂が
+Dialogue: 0,0:05:06.66,0:05:07.70,Dial-JP,,0,0,0,,マジで？
+Dialogue: 0,0:05:09.08,0:05:12.04,Dial-JP,,0,0,0,,私たち4人は今放送中の
+Dialogue: 0,0:05:12.04,0:05:16.42,Dial-JP,,0,0,0,,『花爛漫！ブルームボール』というアニメに出演することができました
+Dialogue: 0,0:05:17.30,0:05:20.05,Dial-JP,,0,0,0,,ねえねえ　千紗は新曲のデモ聴いた
+Dialogue: 0,0:05:20.30,0:05:21.38,Dial-JP,,0,0,0,,もちろんよ
+Dialogue: 0,0:05:21.68,0:05:22.68,Dial-JP,,0,0,0,,あいりはどう
+Dialogue: 0,0:05:22.97,0:05:25.80,Dial-JP,,0,0,0,,昨日からずっとリピートしてるよ
+Dialogue: 0,0:05:26.06,0:05:27.51,Dial-JP,,0,0,0,,ノリいいよね
+Dialogue: 0,0:05:27.51,0:05:29.68,Dial-JP,,0,0,0,,ステージで歌うの楽しみ
+Dialogue: 0,0:05:30.02,0:05:31.31,Dial-JP,,0,0,0,,ねえねえ　悠希
+Dialogue: 0,0:05:31.31,0:05:35.36,Dial-JP,,0,0,0,,サビの前のとこ　4人でターンしたら気持ちよさそうじゃない
+Dialogue: 0,0:05:35.56,0:05:36.69,Dial-JP,,0,0,0,,いいかも
+Dialogue: 0,0:05:36.94,0:05:37.82,Dial-JP,,0,0,0,,こうかな
+Dialogue: 0,0:05:38.57,0:05:40.57,Dial-JP,,0,0,0,,こんなとこで踊りださないで
+Dialogue: 0,0:05:40.90,0:05:42.53,Dial-JP,,0,0,0,,でもすてきかも
+Dialogue: 0,0:05:43.66,0:05:45.78,Dial-JP,,0,0,0,,声優ユニットでデビューして
+Dialogue: 0,0:05:45.78,0:05:48.29,Dial-JP,,0,0,0,,ライブ活動も始まっている子たちもいます
+Dialogue: 0,0:05:50.29,0:05:51.58,Dial-JP,,0,0,0,,ねえ　見て
+Dialogue: 0,0:05:51.79,0:05:55.63,Dial-JP,,0,0,0,,昨日のラジオの感想メールがこんなに来てるわよ
+Dialogue: 0,0:05:55.96,0:05:57.96,Dial-JP,,0,0,0,,まだ1日しかたってないのに
+Dialogue: 0,0:05:58.71,0:06:01.34,Dial-JP,,0,0,0,,まほろのフォロワー数もまた増えたし
+Dialogue: 0,0:06:01.80,0:06:02.84,Dial-JP,,0,0,0,,いいね
+Dialogue: 0,0:06:02.84,0:06:04.34,Dial-JP,,0,0,0,,いい波　来てんじゃない
+Dialogue: 0,0:06:05.72,0:06:08.10,Dial-JP,,0,0,0,,やっぱり続けることが大事ね
+Dialogue: 0,0:06:09.56,0:06:11.64,Dial-JP,,0,0,0,,自分たちでラジオを配信して
+Dialogue: 0,0:06:11.89,0:06:14.19,Dial-JP,,0,0,0,,リスナーを増やしてきている子たちもいます
+Dialogue: 0,0:06:15.27,0:06:20.73,Dial-JP,,0,0,0,,それと　今はまだ自分たちの道が見えていない子たちも
+Dialogue: 0,0:06:21.57,0:06:22.61,Dial-JP,,0,0,0,,ただいま
+Dialogue: 0,0:06:23.07,0:06:24.15,Dial-JP,,0,0,0,,利恵　おかえり
+Dialogue: 0,0:06:24.41,0:06:26.78,Dial-JP,,0,0,0,,リエンヌ　アフレコどうだった
+Dialogue: 0,0:06:27.62,0:06:28.74,Dial-JP,,0,0,0,,アフレコ…
+Dialogue: 0,0:06:31.16,0:06:32.58,Dial-JP,,0,0,0,,ちょっと　何よ
+Dialogue: 0,0:06:32.58,0:06:33.71,Dial-JP,,0,0,0,,なんかあったの
+Dialogue: 0,0:06:34.16,0:06:37.08,Dial-JP,,0,0,0,,せっかく仕事のチャンスだったのに
+Dialogue: 0,0:06:39.13,0:06:41.80,Dial-JP,,0,0,0,,次の我が輩たちの仕事の予定は
+Dialogue: 0,0:06:42.71,0:06:46.39,Dial-JP,,0,0,0,,来月末の区民祭りのボランティアまでないわね
+Dialogue: 0,0:06:46.72,0:06:49.39,Dial-JP,,0,0,0,,来月末　遠すぎる
+Dialogue: 0,0:06:50.26,0:06:54.56,Dial-JP,,0,0,0,,それよりも今日　私たち3人遅刻しそうになったのよ
+Dialogue: 0,0:06:54.98,0:06:56.06,Dial-JP,,0,0,0,,どうかしたの
+Dialogue: 0,0:06:56.56,0:06:59.65,Dial-JP,,0,0,0,,朝食のいつものチーズトーストが作れなくて
+Dialogue: 0,0:06:59.94,0:07:01.69,Dial-JP,,0,0,0,,それで時間かかっちゃって
+Dialogue: 0,0:07:01.98,0:07:04.74,Dial-JP,,0,0,0,,別に普通のトーストでいいのにね
+Dialogue: 0,0:07:05.03,0:07:08.03,Dial-JP,,0,0,0,,毎日の習慣が崩れるのが嫌なの
+Dialogue: 0,0:07:08.24,0:07:10.62,Dial-JP,,0,0,0,,だからわざわざ買いに行ってきたのよ
+Dialogue: 0,0:07:11.03,0:07:13.62,Dial-JP,,0,0,0,,おかげでいろいろ　ドタバタしちゃって
+Dialogue: 0,0:07:14.37,0:07:15.75,Dial-JP,,0,0,0,,ルーティンってやつだね
+Dialogue: 0,0:07:16.12,0:07:18.21,Dial-JP,,0,0,0,,さとちん　大騒ぎだったね
+Dialogue: 0,0:07:18.67,0:07:24.05,Dial-JP,,0,0,0,,だいたいね　冷蔵庫の私のチーズを凛音が勝手に食べちゃったからでしょ
+Dialogue: 0,0:07:25.13,0:07:26.18,Dial-JP,,0,0,0,,ごめんね
+Dialogue: 0,0:07:28.01,0:07:29.09,Dial-JP,,0,0,0,,真咲さん
+Dialogue: 0,0:07:29.64,0:07:30.80,Dial-JP,,0,0,0,,みんなそろってる？
+Dialogue: 0,0:07:31.22,0:07:32.56,Dial-JP,,0,0,0,,はい　全員います
+Dialogue: 0,0:07:35.77,0:07:39.02,Dial-JP,,0,0,0,,あなたたちがAiRBLUEに所属してからこれまで
+Dialogue: 0,0:07:39.56,0:07:43.98,Dial-JP,,0,0,0,,みんなが成長しているのを　私自身がはっきりと感じています
+Dialogue: 0,0:07:44.69,0:07:48.66,Dial-JP,,0,0,0,,成果を感じている子も　まだ感じていない子もいるでしょう
+Dialogue: 0,0:07:49.32,0:07:51.24,Dial-JP,,0,0,0,,でも　実際の差は僅かよ
+Dialogue: 0,0:07:51.70,0:07:56.08,Dial-JP,,0,0,0,,今は成長の足を止めずに　チャンスをつかんでいくしかありません
+Dialogue: 0,0:07:56.87,0:08:01.88,Dial-JP,,0,0,0,,早速だけど　今日集まってもらったのには　二つ理由があります
+Dialogue: 0,0:08:02.38,0:08:04.63,Dial-JP,,0,0,0,,一つはとても大きなニュースよ
+Dialogue: 0,0:08:06.09,0:08:09.26,Dial-JP,,0,0,0,,「ブルームボール」の2期制作が決定しました
+Dialogue: 0,0:08:14.31,0:08:15.10,Dial-JP,,0,0,0,,もう一つ
+Dialogue: 0,0:08:15.56,0:08:19.31,Dial-JP,,0,0,0,,あなたたちには　新しいオーディションに挑戦してもらいます
+Dialogue: 0,0:08:22.90,0:08:26.69,Dial-JP,,0,0,0,,『花爛漫！ブルームボール　プラネットウォーズ編』は
+Dialogue: 0,0:08:26.69,0:08:30.53,Dial-JP,,0,0,0,,前回の惑星予選を抜けたヒバナたちのチームと
+Dialogue: 0,0:08:30.53,0:08:34.95,Dial-JP,,0,0,0,,リッカたちのチームが惑星大会でより強大な敵に出会い
+Dialogue: 0,0:08:34.95,0:08:36.87,Dial-JP,,0,0,0,,戦う物語になってるの
+Dialogue: 0,0:08:38.87,0:08:42.79,Dial-JP,,0,0,0,,今回は新たに登場する学園ごとの声優を
+Dialogue: 0,0:08:42.79,0:08:45.00,Dial-JP,,0,0,0,,チーム単位のオーディションで決めます
+Dialogue: 0,0:08:45.88,0:08:47.01,Dial-JP,,0,0,0,,チーム単位？
+Dialogue: 0,0:08:47.38,0:08:53.10,Dial-JP,,0,0,0,,そう　学園の4人の声優を　4人ごとのグループオーディションで選ぶのよ
+Dialogue: 0,0:08:53.47,0:08:54.85,Dial-JP,,0,0,0,,どういうこと
+Dialogue: 0,0:08:55.14,0:08:58.89,Dial-JP,,0,0,0,,4人が同時に同じチームの演技をするってことですか
+Dialogue: 0,0:08:59.31,0:09:00.35,Dial-JP,,0,0,0,,そのとおり
+Dialogue: 0,0:09:00.35,0:09:01.44,Dial-JP,,0,0,0,,ほら　見て
+Dialogue: 0,0:09:01.65,0:09:06.48,Dial-JP,,0,0,0,,例えば　この学園の4人の役を実際に4人で演じて
+Dialogue: 0,0:09:06.48,0:09:09.24,Dial-JP,,0,0,0,,それで採用かどうかを判断するわけね
+Dialogue: 0,0:09:09.65,0:09:11.20,Dial-JP,,0,0,0,,珍しいパターン
+Dialogue: 0,0:09:11.66,0:09:13.12,Dial-JP,,0,0,0,,めったにないけど
+Dialogue: 0,0:09:13.12,0:09:17.41,Dial-JP,,0,0,0,,チームのバランスを考えての採用は　ふだんから行われているわ
+Dialogue: 0,0:09:18.54,0:09:20.79,Dial-JP,,0,0,0,,今回の「プラネットウォーズ編」は
+Dialogue: 0,0:09:20.79,0:09:24.46,Dial-JP,,0,0,0,,対戦する個性的な学園のカラーが売りらしいわ
+Dialogue: 0,0:09:25.17,0:09:30.22,Dial-JP,,0,0,0,,だから　原作サイドから　学園のカラーを明確に感じられるようにと
+Dialogue: 0,0:09:30.22,0:09:32.51,Dial-JP,,0,0,0,,このオーディションが提案されたようね
+Dialogue: 0,0:09:33.47,0:09:35.35,Dial-JP,,0,0,0,,キャラクターソングも含めて
+Dialogue: 0,0:09:35.35,0:09:38.35,Dial-JP,,0,0,0,,学園ごとのプロモーションを考えてるって
+Dialogue: 0,0:09:38.68,0:09:42.52,Dial-JP,,0,0,0,,幸い　うちは4人単位で活動してる子が多いから
+Dialogue: 0,0:09:42.52,0:09:44.81,Dial-JP,,0,0,0,,そのチームごとに受ける予定だよ
+Dialogue: 0,0:09:48.53,0:09:52.49,Dial-JP,,0,0,0,,今回受けられるのは　チームごと1つの学園だけ
+Dialogue: 0,0:09:53.16,0:09:54.95,Dial-JP,,0,0,0,,4人で相談し合って
+Dialogue: 0,0:09:54.95,0:09:57.66,Dial-JP,,0,0,0,,どの学園でオーディションを受けるか決めなさい
+Dialogue: 0,0:09:58.87,0:10:02.66,Dial-JP,,0,0,0,,それで　私たちはどの学園を受ければいいと思う
+Dialogue: 0,0:10:03.96,0:10:05.63,Dial-JP,,0,0,0,,ビーナス学園かな
+Dialogue: 0,0:10:05.96,0:10:07.38,Dial-JP,,0,0,0,,どんな学園なの
+Dialogue: 0,0:10:07.59,0:10:10.09,Dial-JP,,0,0,0,,おっとりとした雰囲気の4人組
+Dialogue: 0,0:10:10.38,0:10:13.01,Dial-JP,,0,0,0,,いつも仲よく息の合った関係
+Dialogue: 0,0:10:13.47,0:10:17.47,Dial-JP,,0,0,0,,絶妙なコンビネーションプレーが得意　だって
+Dialogue: 0,0:10:17.47,0:10:19.60,Dial-JP,,0,0,0,,息の合った4人ねえ
+Dialogue: 0,0:10:20.97,0:10:23.56,Dial-JP,,0,0,0,,私たちに合ってる気がするわね
+Dialogue: 0,0:10:24.69,0:10:26.44,Dial-JP,,0,0,0,,今日のレッスンはここまでです
+Dialogue: 0,0:10:27.06,0:10:28.86,Dial-JP,,0,0,0,,ありがとうございました
+Dialogue: 0,0:10:29.90,0:10:31.74,Dial-JP,,0,0,0,,ねえねえ　今度のオーディション
+Dialogue: 0,0:10:32.07,0:10:33.70,Dial-JP,,0,0,0,,どの学園で受けよっか
+Dialogue: 0,0:10:34.03,0:10:36.91,Dial-JP,,0,0,0,,ねえ　このオーディションのフリートークって何
+Dialogue: 0,0:10:37.32,0:10:38.66,Dial-JP,,0,0,0,,そんなのあったっけ
+Dialogue: 0,0:10:38.91,0:10:40.37,Dial-JP,,0,0,0,,りおさんが言ってたでしょ
+Dialogue: 0,0:10:40.83,0:10:43.16,Dial-JP,,0,0,0,,台本にあるセリフとは別に
+Dialogue: 0,0:10:43.16,0:10:46.83,Dial-JP,,0,0,0,,チームごとにアドリブで会話する　だって
+Dialogue: 0,0:10:47.08,0:10:49.04,Dial-JP,,0,0,0,,アドリブ　面白そう
+Dialogue: 0,0:10:49.46,0:10:52.01,Dial-JP,,0,0,0,,好き勝手にしゃべるって話じゃないのよ
+Dialogue: 0,0:10:52.51,0:10:56.47,Dial-JP,,0,0,0,,そのトークで　学園の色が出せてるか見られるわけでしょ
+Dialogue: 0,0:10:56.84,0:10:59.47,Dial-JP,,0,0,0,,うん　きっとそういうことだよね
+Dialogue: 0,0:10:59.72,0:11:02.77,Dial-JP,,0,0,0,,ねえねえ　このカイオウ学園ってどう
+Dialogue: 0,0:11:02.77,0:11:06.69,Dial-JP,,0,0,0,,歌って踊れるアイドルたちが集まった4人のチーム
+Dialogue: 0,0:11:07.06,0:11:11.40,Dial-JP,,0,0,0,,ダンスのような動きで敵を混乱させる　だって
+Dialogue: 0,0:11:12.61,0:11:14.53,Dial-JP,,0,0,0,,私たちにぴったりじゃない
+Dialogue: 0,0:11:14.90,0:11:17.36,Dial-JP,,0,0,0,,あいりもこの学園好きかも
+Dialogue: 0,0:11:17.57,0:11:20.41,Dial-JP,,0,0,0,,アイドル…　フリートーク…
+Dialogue: 0,0:11:21.87,0:11:22.79,Dial-JP,,0,0,0,,そうだ
+Dialogue: 0,0:11:24.25,0:11:26.54,Dial-JP,,0,0,0,,今日という今日は言わせてもらうわ
+Dialogue: 0,0:11:26.79,0:11:31.50,Dial-JP,,0,0,0,,あんたってさ　毎日毎日同じ時間に同じもの食べて　バカみたい
+Dialogue: 0,0:11:31.71,0:11:34.21,Dial-JP,,0,0,0,,バカな子のあなたにバカって言われたくない
+Dialogue: 0,0:11:34.51,0:11:35.55,Dial-JP,,0,0,0,,バカ　バカ　バカ
+Dialogue: 0,0:11:35.55,0:11:36.59,Dial-JP,,0,0,0,,ルーティンバカ
+Dialogue: 0,0:11:36.59,0:11:39.68,Dial-JP,,0,0,0,,バカって言った方がバカだって言わなかったっけ
+Dialogue: 0,0:11:40.10,0:11:41.39,Dial-JP,,0,0,0,,哲学的だね
+Dialogue: 0,0:11:41.68,0:11:44.10,Dial-JP,,0,0,0,,何　ルーティンバカの味方する気
+Dialogue: 0,0:11:44.39,0:11:47.10,Dial-JP,,0,0,0,,いや　どっちの味方っていうか…
+Dialogue: 0,0:11:47.44,0:11:50.44,Dial-JP,,0,0,0,,敵の味方は私の味方　敵
+Dialogue: 0,0:11:50.44,0:11:51.82,Dial-JP,,0,0,0,,3秒で答えて
+Dialogue: 0,0:11:51.82,0:11:53.02,Dial-JP,,0,0,0,,3　2　1
+Dialogue: 0,0:11:53.28,0:11:55.49,Dial-JP,,0,0,0,,いや　無理でしょ　3秒って
+Dialogue: 0,0:11:55.49,0:11:57.15,Dial-JP,,0,0,0,,じゃあ　私は5秒
+Dialogue: 0,0:11:57.15,0:11:59.49,Dial-JP,,0,0,0,,5　4　3　2　1
+Dialogue: 0,0:11:59.66,0:12:00.95,Dial-JP,,0,0,0,,ああ　もう
+Dialogue: 0,0:12:00.95,0:12:03.49,Dial-JP,,0,0,0,,いいかげんにしろ
+Dialogue: 0,0:12:06.96,0:12:09.46,Dial-JP,,0,0,0,,生まれた時と場所は違っても
+Dialogue: 0,0:12:09.46,0:12:11.54,Dial-JP,,0,0,0,,私たちはずっと一つよ
+Dialogue: 0,0:12:11.54,0:12:13.67,Dial-JP,,0,0,0,,私らのコンビネーションは完璧
+Dialogue: 0,0:12:13.88,0:12:17.01,Dial-JP,,0,0,0,,誰にも破れない　もちろんあなたたちにもね
+Dialogue: 0,0:12:17.42,0:12:19.97,Dial-JP,,0,0,0,,ビーナス学園に勝利あれ
+Dialogue: 0,0:12:20.22,0:12:24.18,Dial-JP,,0,0,0,,今のグループが終わったら　次はAiRBLUEさんです
+Dialogue: 0,0:12:24.18,0:12:25.93,Dial-JP,,0,0,0,,はい　ありがとうございます
+Dialogue: 0,0:12:26.77,0:12:28.89,Dial-JP,,0,0,0,,いちばん最初はどのチームかしら
+Dialogue: 0,0:12:29.06,0:12:30.35,Dial-JP,,0,0,0,,はいはいはいはーい
+Dialogue: 0,0:12:30.73,0:12:33.40,Dial-JP,,0,0,0,,あなたたちがやるのはカイオウ学園ね
+Dialogue: 0,0:12:33.40,0:12:35.32,Dial-JP,,0,0,0,,フリートークも考えてきた
+Dialogue: 0,0:12:35.53,0:12:37.57,Dial-JP,,0,0,0,,Perfect　任せて
+Dialogue: 0,0:12:37.57,0:12:39.57,Dial-JP,,0,0,0,,全然完璧じゃないけど
+Dialogue: 0,0:12:40.36,0:12:42.28,Dial-JP,,0,0,0,,今更ビビってもしかたないわ
+Dialogue: 0,0:12:43.03,0:12:45.79,Dial-JP,,0,0,0,,オーディションってなんだかドキドキしてくるよね
+Dialogue: 0,0:12:46.20,0:12:48.58,Dial-JP,,0,0,0,,自分が受けるわけでもないのにね
+Dialogue: 0,0:12:48.79,0:12:51.00,Dial-JP,,0,0,0,,実は私もドキドキしてる
+Dialogue: 0,0:12:51.33,0:12:52.92,Dial-JP,,0,0,0,,なんだ　不整脈か
+Dialogue: 0,0:12:53.25,0:12:54.54,Dial-JP,,0,0,0,,いい薬あるぞ
+Dialogue: 0,0:12:59.80,0:13:01.51,Dial-JP,,0,0,0,,ありがとうございました
+Dialogue: 0,0:13:02.22,0:13:04.39,Dial-JP,,0,0,0,,次のグループ　お願いします
+Dialogue: 0,0:13:04.64,0:13:05.14,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:13:05.76,0:13:08.35,Dial-JP,,0,0,0,,覚えてる　マイクの前に立ったら
+Dialogue: 0,0:13:08.60,0:13:09.85,Dial-JP,,0,0,0,,まず挨拶
+Dialogue: 0,0:13:10.14,0:13:11.73,Dial-JP,,0,0,0,,録音が始まったら
+Dialogue: 0,0:13:11.73,0:13:16.11,Dial-JP,,0,0,0,,所属事務所と自分たちの名前　演じる学園の名前を言って
+Dialogue: 0,0:13:16.11,0:13:17.44,Dial-JP,,0,0,0,,演技を始める
+Dialogue: 0,0:13:17.86,0:13:18.90,Dial-JP,,0,0,0,,ですよね
+Dialogue: 0,0:13:19.32,0:13:20.78,Dial-JP,,0,0,0,,そう　お願いね
+Dialogue: 0,0:13:21.53,0:13:24.57,Dial-JP,,0,0,0,,次から3組　AiRBLUEの子たちです
+Dialogue: 0,0:13:24.70,0:13:26.95,Dial-JP,,0,0,0,,AiRBLUEって　確か…
+Dialogue: 0,0:13:27.54,0:13:29.04,Dial-JP,,0,0,0,,鷹取のいるとこですよ
+Dialogue: 0,0:13:30.04,0:13:30.91,Dial-JP,,0,0,0,,ツバキのね
+Dialogue: 0,0:13:34.21,0:13:35.79,Dial-JP,,0,0,0,,よろしくお願いします
+Dialogue: 0,0:13:36.29,0:13:37.25,Dial-JP,,0,0,0,,はい　よろしく
+Dialogue: 0,0:13:37.88,0:13:38.59,Dial-JP,,0,0,0,,回します
+Dialogue: 0,0:13:40.63,0:13:43.34,Dial-JP,,0,0,0,,AiRBLUE所属　天童悠希
+Dialogue: 0,0:13:43.47,0:13:46.10,Dial-JP,,0,0,0,,カイオウ学園の天草ライリをやります
+Dialogue: 0,0:13:46.39,0:13:49.68,Dial-JP,,0,0,0,,赤川千紗　柊テスコをします
+Dialogue: 0,0:13:49.93,0:13:53.44,Dial-JP,,0,0,0,,恵庭あいり　弟切ナイルです
+Dialogue: 0,0:13:53.81,0:13:57.15,Dial-JP,,0,0,0,,九条柚葉　蓬ハーシスやりまーす
+Dialogue: 0,0:14:02.36,0:14:03.99,Dial-JP,,0,0,0,,私たちの歌は
+Dialogue: 0,0:14:03.99,0:14:06.07,Dial-JP,,0,0,0,,宇宙中に響き渡る
+Dialogue: 0,0:14:06.53,0:14:08.33,Dial-JP,,0,0,0,,私たちのダンスは
+Dialogue: 0,0:14:08.91,0:14:11.00,Dial-JP,,0,0,0,,星々の闇をも揺らす
+Dialogue: 0,0:14:11.58,0:14:13.75,Dial-JP,,0,0,0,,ツゥービィー　シャイニングスター
+Dialogue: 0,0:14:14.33,0:14:15.71,Dial-JP,,0,0,0,,カイオウ学園
+Dialogue: 0,0:14:18.88,0:14:20.13,Dial-JP,,0,0,0,,フリートークやります
+Dialogue: 0,0:14:25.93,0:14:31.43,Dial-JP,,0,0,0,,{\blur3}私たちの歌は
+Dialogue: 0,0:14:31.64,0:14:37.11,Dial-JP,,0,0,0,,{\blur3}宇宙中に響き渡る
+Dialogue: 0,0:14:37.56,0:14:42.61,Dial-JP,,0,0,0,,{\blur3}私たちのダンスは
+Dialogue: 0,0:14:42.61,0:14:48.78,Dial-JP,,0,0,0,,{\blur3}星々の闇をも揺らす
+Dialogue: 0,0:14:48.95,0:14:51.20,Dial-JP,,0,0,0,,{\blur3}ツゥービィー　シャイニングスター
+Dialogue: 0,0:14:51.87,0:14:55.17,Dial-JP,,0,0,0,,{\blur3}カイオウ学園
+Dialogue: 0,0:14:57.83,0:14:59.88,Dial-JP,,0,0,0,,こういうアピールもあるのか
+Dialogue: 0,0:15:00.59,0:15:04.42,Dial-JP,,0,0,0,,この子たちは　4人でユニット活動してるみたいよ
+Dialogue: 0,0:15:04.72,0:15:05.30,Dial-JP,,0,0,0,,そう
+Dialogue: 0,0:15:05.93,0:15:08.51,Dial-JP,,0,0,0,,お疲れさま　うまく歌えてたわよ
+Dialogue: 0,0:15:10.89,0:15:11.93,Dial-JP,,0,0,0,,次は…
+Dialogue: 0,0:15:11.93,0:15:12.64,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:15:13.60,0:15:15.06,Dial-JP,,0,0,0,,私たちが行きます
+Dialogue: 0,0:15:15.69,0:15:17.23,Dial-JP,,0,0,0,,了解　頑張って
+Dialogue: 0,0:15:19.77,0:15:22.53,Dial-JP,,0,0,0,,AiRBLUE所属　夜峰美晴
+Dialogue: 0,0:15:23.11,0:15:26.53,Dial-JP,,0,0,0,,ビーナス学園の不忍ナディを演じます
+Dialogue: 0,0:15:26.91,0:15:29.74,Dial-JP,,0,0,0,,神室絢　多々良レイムをやります
+Dialogue: 0,0:15:30.08,0:15:33.20,Dial-JP,,0,0,0,,宮路まほろ　東雲テアラやります
+Dialogue: 0,0:15:33.45,0:15:36.67,Dial-JP,,0,0,0,,日名倉莉子　不動オーロラやりまーす
+Dialogue: 0,0:15:40.71,0:15:43.05,Dial-JP,,0,0,0,,生まれた時と場所は違っても
+Dialogue: 0,0:15:43.38,0:15:45.26,Dial-JP,,0,0,0,,私たちはずっと一つよ
+Dialogue: 0,0:15:45.55,0:15:48.26,Dial-JP,,0,0,0,,私らのコンビネーションは完璧
+Dialogue: 0,0:15:48.26,0:15:51.64,Dial-JP,,0,0,0,,誰にも破れない　もちろんあなたたちにもね
+Dialogue: 0,0:15:52.35,0:15:54.93,Dial-JP,,0,0,0,,ビーナス学園に勝利あれ
+Dialogue: 0,0:15:59.19,0:16:00.86,Dial-JP,,0,0,0,,フリートークを始めます
+Dialogue: 0,0:16:01.69,0:16:03.53,Dial-JP,,0,0,0,,はーい　ナディです
+Dialogue: 0,0:16:03.53,0:16:05.32,Dial-JP,,0,0,0,,皆さん聞こえてますか
+Dialogue: 0,0:16:05.57,0:16:08.20,Dial-JP,,0,0,0,,聞こえてなかったら大変すぎでしょ
+Dialogue: 0,0:16:08.20,0:16:11.03,Dial-JP,,0,0,0,,またテアラはそうやって水をさす
+Dialogue: 0,0:16:11.03,0:16:12.83,Dial-JP,,0,0,0,,だってさ…
+Dialogue: 0,0:16:12.83,0:16:15.25,Dial-JP,,0,0,0,,ほらほら　最初のコーナー始めるよ
+Dialogue: 0,0:16:15.95,0:16:16.91,Dial-JP,,0,0,0,,コーナー？
+Dialogue: 0,0:16:17.62,0:16:18.92,Dial-JP,,0,0,0,,ラジオ的なやつ？
+Dialogue: 0,0:16:19.62,0:16:21.25,Dial-JP,,0,0,0,,あれ　こんなのありました
+Dialogue: 0,0:16:21.25,0:16:23.13,Dial-JP,,0,0,0,,いえ　ないと思います
+Dialogue: 0,0:16:23.59,0:16:25.13,Dial-JP,,0,0,0,,ないけど　でも…
+Dialogue: 0,0:16:27.05,0:16:29.88,Dial-JP,,0,0,0,,ビーナス学園のオフの雰囲気はあるね
+Dialogue: 0,0:16:32.18,0:16:33.26,Dial-JP,,0,0,0,,なるほど
+Dialogue: 0,0:16:33.85,0:16:37.02,Dial-JP,,0,0,0,,ということで　メールありがとうございました
+Dialogue: 0,0:16:37.39,0:16:39.35,Dial-JP,,0,0,0,,あれ　テアラ宛のは？
+Dialogue: 0,0:16:39.35,0:16:39.94,Dial-JP,,0,0,0,,ない
+Dialogue: 0,0:16:40.27,0:16:41.65,Dial-JP,,0,0,0,,ひと言で言う？
+Dialogue: 0,0:16:41.65,0:16:42.48,Dial-JP,,0,0,0,,言う
+Dialogue: 0,0:16:44.44,0:16:46.99,Dial-JP,,0,0,0,,さて　そろそろ終わりのお時間です
+Dialogue: 0,0:16:47.44,0:16:48.70,Dial-JP,,0,0,0,,はい　そこまで
+Dialogue: 0,0:16:49.36,0:16:50.91,Dial-JP,,0,0,0,,ありがとうございました
+Dialogue: 0,0:16:53.16,0:16:55.70,Dial-JP,,0,0,0,,4人の特徴がうまく出てる
+Dialogue: 0,0:16:56.12,0:16:58.25,Dial-JP,,0,0,0,,さあ　次はあなたたちよ
+Dialogue: 0,0:16:58.58,0:16:59.54,Dial-JP,,0,0,0,,は…　はい
+Dialogue: 0,0:16:59.83,0:17:02.04,Dial-JP,,0,0,0,,大丈夫　リラックスしてね
+Dialogue: 0,0:17:02.54,0:17:04.75,Dial-JP,,0,0,0,,あなたたちはユピテル学園ね
+Dialogue: 0,0:17:05.21,0:17:06.96,Dial-JP,,0,0,0,,思う存分やってきなさい
+Dialogue: 0,0:17:07.30,0:17:08.01,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:17:09.26,0:17:10.68,Dial-JP,,0,0,0,,それじゃあ　録っていきます
+Dialogue: 0,0:17:11.80,0:17:14.22,Dial-JP,,0,0,0,,AiRBLUE所属　丸山利恵
+Dialogue: 0,0:17:14.47,0:17:17.39,Dial-JP,,0,0,0,,ユピテル学園の本能寺スズカをやります
+Dialogue: 0,0:17:18.02,0:17:21.60,Dial-JP,,0,0,0,,宇津木聡里　厳島リリエ役をやります
+Dialogue: 0,0:17:22.19,0:17:25.65,Dial-JP,,0,0,0,,明神凛音　壇ノ浦ミヤコをやりまーす
+Dialogue: 0,0:17:26.65,0:17:29.49,Dial-JP,,0,0,0,,遠見鳴　六波羅キセキをやります
+Dialogue: 0,0:17:34.53,0:17:38.95,Dial-JP,,0,0,0,,おやおや　私たちを知らないなんて　どこの田舎者かな
+Dialogue: 0,0:17:39.25,0:17:42.33,Dial-JP,,0,0,0,,はっきり言ってしょぼいわ　見た目もダサい
+Dialogue: 0,0:17:42.54,0:17:44.92,Dial-JP,,0,0,0,,匂いが違う　よそ者ね
+Dialogue: 0,0:17:45.38,0:17:49.13,Dial-JP,,0,0,0,,ザコチームはザコチームらしく　隅っこに隠れてて
+Dialogue: 0,0:17:49.51,0:17:50.63,Dial-JP,,0,0,0,,どうして
+Dialogue: 0,0:17:50.63,0:17:52.34,Dial-JP,,0,0,0,,どうしてうまくいかないの
+Dialogue: 0,0:17:52.68,0:17:55.18,Dial-JP,,0,0,0,,あんたがいつも同じ動きだからよ
+Dialogue: 0,0:17:55.47,0:17:56.93,Dial-JP,,0,0,0,,みんなケンカするな
+Dialogue: 0,0:17:56.93,0:17:58.35,Dial-JP,,0,0,0,,集中しろ　試合に
+Dialogue: 0,0:17:58.72,0:18:01.52,Dial-JP,,0,0,0,,ギャギャ騒ぐな　恥を知りなさい
+Dialogue: 0,0:18:01.85,0:18:04.48,Dial-JP,,0,0,0,,そう　私たちは絶対無敵
+Dialogue: 0,0:18:04.98,0:18:06.82,Dial-JP,,0,0,0,,誰にも屈したことがない
+Dialogue: 0,0:18:07.19,0:18:10.03,Dial-JP,,0,0,0,,さあ　あんたたちに敗北をあげる
+Dialogue: 0,0:18:10.44,0:18:13.24,Dial-JP,,0,0,0,,勝負は戦う前から決まっているのよ
+Dialogue: 0,0:18:13.45,0:18:16.12,Dial-JP,,0,0,0,,ユピテル学園の必殺奥義
+Dialogue: 0,0:18:16.12,0:18:18.16,Dial-JP,,0,0,0,,あなたたちに見せてあげりゅ…
+Dialogue: 0,0:18:20.08,0:18:21.12,Dial-JP,,0,0,0,,すみません
+Dialogue: 0,0:18:21.58,0:18:22.87,Dial-JP,,0,0,0,,そのまま続けて
+Dialogue: 0,0:18:23.41,0:18:24.21,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:18:26.84,0:18:29.17,Dial-JP,,0,0,0,,ユピテル学園の必殺奥義
+Dialogue: 0,0:18:29.38,0:18:31.30,Dial-JP,,0,0,0,,あなたたちに見せてあげる
+Dialogue: 0,0:18:31.71,0:18:36.18,Dial-JP,,0,0,0,,我らユピテル学園こそ　宇宙一のブルームボーラーだ
+Dialogue: 0,0:18:42.89,0:18:43.81,Dial-JP,,0,0,0,,最悪
+Dialogue: 0,0:18:44.77,0:18:45.77,Dial-JP,,0,0,0,,何がよ
+Dialogue: 0,0:18:45.77,0:18:47.44,Dial-JP,,0,0,0,,最悪って言ってんの
+Dialogue: 0,0:18:48.90,0:18:50.15,Dial-JP,,0,0,0,,来るんじゃなかった
+Dialogue: 0,0:18:51.44,0:18:52.74,Dial-JP,,0,0,0,,ちょっと　それ言い過ぎ
+Dialogue: 0,0:18:53.61,0:18:55.91,Dial-JP,,0,0,0,,何が言い過ぎよ　ほんとでしょ
+Dialogue: 0,0:18:55.91,0:18:56.91,Dial-JP,,0,0,0,,ちょっと止めてきます
+Dialogue: 0,0:18:56.91,0:18:57.74,Dial-JP,,0,0,0,,そのまま
+Dialogue: 0,0:18:58.28,0:19:00.45,Dial-JP,,0,0,0,,待ってよ　どうしたのよ
+Dialogue: 0,0:19:00.45,0:19:01.83,Dial-JP,,0,0,0,,いいじゃん　ほっとけば
+Dialogue: 0,0:19:02.08,0:19:03.41,Dial-JP,,0,0,0,,ほっとけるわけないでしょ
+Dialogue: 0,0:19:04.58,0:19:06.67,Dial-JP,,0,0,0,,また始まったよ　うるさいのが
+Dialogue: 0,0:19:06.67,0:19:07.63,Dial-JP,,0,0,0,,何がまたよ
+Dialogue: 0,0:19:07.88,0:19:11.13,Dial-JP,,0,0,0,,あのさ　今日という今日は言わせてもらうわ
+Dialogue: 0,0:19:11.13,0:19:16.34,Dial-JP,,0,0,0,,あんたってさ　毎日毎日同じ時間に同じもの食べて　バカみたい
+Dialogue: 0,0:19:16.34,0:19:19.14,Dial-JP,,0,0,0,,バカな子のあなたにバカって言われたくない
+Dialogue: 0,0:19:19.14,0:19:20.31,Dial-JP,,0,0,0,,バカ　バカ　バカ
+Dialogue: 0,0:19:20.31,0:19:21.35,Dial-JP,,0,0,0,,ルーティンバカ
+Dialogue: 0,0:19:21.93,0:19:24.81,Dial-JP,,0,0,0,,バカって言った方がバカだって言わなかったっけ
+Dialogue: 0,0:19:25.27,0:19:26.69,Dial-JP,,0,0,0,,哲学的だね
+Dialogue: 0,0:19:26.94,0:19:29.65,Dial-JP,,0,0,0,,なに　ルーティンバカの味方する気
+Dialogue: 0,0:19:29.65,0:19:31.65,Dial-JP,,0,0,0,,いや　どっちの味方っていうか…
+Dialogue: 0,0:19:31.98,0:19:34.69,Dial-JP,,0,0,0,,敵の味方は私の味方　敵
+Dialogue: 0,0:19:34.69,0:19:36.24,Dial-JP,,0,0,0,,3秒で答えて
+Dialogue: 0,0:19:36.32,0:19:37.82,Dial-JP,,0,0,0,,3　2　1
+Dialogue: 0,0:19:37.82,0:19:39.95,Dial-JP,,0,0,0,,いや　無理でしょ　3秒って
+Dialogue: 0,0:19:39.95,0:19:41.58,Dial-JP,,0,0,0,,じゃあ　私は5秒
+Dialogue: 0,0:19:41.58,0:19:43.62,Dial-JP,,0,0,0,,5　4　3　2　1
+Dialogue: 0,0:19:43.62,0:19:45.21,Dial-JP,,0,0,0,,ああ　もう
+Dialogue: 0,0:19:45.21,0:19:50.25,Dial-JP,,0,0,0,,いいかげんにしろ
+Dialogue: 0,0:19:54.63,0:19:57.59,Dial-JP,,0,0,0,,以上　フリートーク終わります
+Dialogue: 0,0:19:58.01,0:19:58.64,Dial-JP,,0,0,0,,あれ？
+Dialogue: 0,0:19:59.68,0:20:00.89,Dial-JP,,0,0,0,,今のフリートーク？
+Dialogue: 0,0:20:01.43,0:20:02.81,Dial-JP,,0,0,0,,ケンカしてましたよ
+Dialogue: 0,0:20:03.39,0:20:07.27,Dial-JP,,0,0,0,,ユピテル学園って完璧な最強チームじゃなかったっけ
+Dialogue: 0,0:20:07.60,0:20:08.85,Dial-JP,,0,0,0,,こんなの描いた？
+Dialogue: 0,0:20:09.73,0:20:10.65,Dial-JP,,0,0,0,,描いてない
+Dialogue: 0,0:20:12.73,0:20:13.44,Dial-JP,,0,0,0,,まだ…
+Dialogue: 0,0:20:14.28,0:20:15.61,Dial-JP,,0,0,0,,まだって　それ…
+Dialogue: 0,0:20:19.45,0:20:21.20,Dial-JP,,0,0,0,,ユピテル学園
+Dialogue: 0,0:20:21.49,0:20:23.87,Dial-JP,,0,0,0,,意見がぶつかり合うこともあるが
+Dialogue: 0,0:20:23.87,0:20:26.79,Dial-JP,,0,0,0,,結果的により結束を強めて
+Dialogue: 0,0:20:27.62,0:20:29.92,Dial-JP,,0,0,0,,「意見がぶつかり合うことも」
+Dialogue: 0,0:20:30.50,0:20:32.13,Dial-JP,,0,0,0,,そろそろ戻してもいい
+Dialogue: 0,0:20:32.63,0:20:33.29,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:20:33.29,0:20:34.38,Dial-JP,,0,0,0,,大丈夫ですか
+Dialogue: 0,0:20:34.80,0:20:35.67,Dial-JP,,0,0,0,,大丈夫です
+Dialogue: 0,0:20:36.63,0:20:37.67,Dial-JP,,0,0,0,,はい　そこまで
+Dialogue: 0,0:20:37.67,0:20:38.63,Dial-JP,,0,0,0,,お疲れさま
+Dialogue: 0,0:20:39.22,0:20:40.84,Dial-JP,,0,0,0,,ありがとうございました
+Dialogue: 0,0:20:44.31,0:20:46.93,Dial-JP,,0,0,0,,まさか全部演技だったなんて
+Dialogue: 0,0:20:47.39,0:20:49.64,Dial-JP,,0,0,0,,完全に本気だと思っちゃった
+Dialogue: 0,0:20:49.89,0:20:51.81,Dial-JP,,0,0,0,,この発想はなかった
+Dialogue: 0,0:20:51.81,0:20:54.98,Dial-JP,,0,0,0,,なんか　早くアフレコやりたくなってきた
+Dialogue: 0,0:20:56.65,0:20:57.78,Dial-JP,,0,0,0,,お疲れさま
+Dialogue: 0,0:20:58.49,0:20:59.99,Dial-JP,,0,0,0,,びっくりしたよ
+Dialogue: 0,0:20:59.99,0:21:02.66,Dial-JP,,0,0,0,,ほんとにケンカ始めたのかと思っちゃった
+Dialogue: 0,0:21:03.16,0:21:05.62,Dial-JP,,0,0,0,,そう思ってもらったら成功かも
+Dialogue: 0,0:21:06.70,0:21:09.50,Dial-JP,,0,0,0,,初めて人にバカなんて言ったよ
+Dialogue: 0,0:21:09.50,0:21:12.67,Dial-JP,,0,0,0,,なんだか　ちょっと具合悪くなってきたかも
+Dialogue: 0,0:21:12.67,0:21:14.29,Dial-JP,,0,0,0,,ちょっと大丈夫
+Dialogue: 0,0:21:14.71,0:21:18.97,Dial-JP,,0,0,0,,実は我が輩も　慣れないことするもんじゃないね
+Dialogue: 0,0:21:20.47,0:21:22.59,Dial-JP,,0,0,0,,どうしてケンカしようと思ったの
+Dialogue: 0,0:21:22.97,0:21:23.93,Dial-JP,,0,0,0,,それは…
+Dialogue: 0,0:21:24.39,0:21:25.72,Dial-JP,,0,0,0,,リエンヌが　ね
+Dialogue: 0,0:21:25.72,0:21:27.68,Dial-JP,,0,0,0,,いや　我が輩はその…
+Dialogue: 0,0:21:28.35,0:21:33.90,Dial-JP,,0,0,0,,まだ我が輩たち4人は　ほかのみんなと比べてカラーが決まってないというか
+Dialogue: 0,0:21:34.23,0:21:36.86,Dial-JP,,0,0,0,,その　まとまってないというか
+Dialogue: 0,0:21:37.07,0:21:39.65,Dial-JP,,0,0,0,,そういう4人なりのその…
+Dialogue: 0,0:21:40.19,0:21:42.36,Dial-JP,,0,0,0,,今の自分たちを出そうとした？
+Dialogue: 0,0:21:44.12,0:21:44.78,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:21:47.08,0:21:49.25,Dial-JP,,0,0,0,,皆さん　お疲れさまでした
+Dialogue: 0,0:21:49.25,0:21:51.50,Dial-JP,,0,0,0,,本日のオーディションは終了です
+Dialogue: 0,0:21:51.87,0:21:53.83,Dial-JP,,0,0,0,,ありがとうございました
+Dialogue: 0,0:22:00.01,0:22:00.72,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:22:01.97,0:22:02.80,Dial-JP,,0,0,0,,りおさん
+Dialogue: 0,0:22:03.55,0:22:05.05,Dial-JP,,0,0,0,,はい　はい
+Dialogue: 0,0:24:08.18,0:24:10.43,Dial-JP,,0,0,0,,次回　「運命の仕事」
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue Chinese
+Dialogue: 1,0:00:13.12,0:00:13.91,Dial-CH,,0,0,0,,危险
+Dialogue: 1,0:00:18.83,0:00:19.54,Dial-CH,,0,0,0,,艾拉
+Dialogue: 1,0:00:19.71,0:00:21.29,Dial-CH,,0,0,0,,快逃 抓紧时间
+Dialogue: 1,0:00:21.88,0:00:22.84,Dial-CH,,0,0,0,,你没事吧
+Dialogue: 1,0:00:25.50,0:00:26.71,Dial-CH,,0,0,0,,揍命
+Dialogue: 1,0:00:28.22,0:00:29.30,Dial-CH,,0,0,0,,先暂停一下
+Dialogue: 1,0:00:30.22,0:00:32.39,Dial-CH,,0,0,0,,对… 对不起 对不起
+Dialogue: 1,0:00:32.39,0:00:34.76,Dial-CH,,0,0,0,,从168卡开始重录
+Dialogue: 1,0:00:35.77,0:00:37.35,Dial-CH,,0,0,0,,非常抱歉
+Dialogue: 1,0:00:39.77,0:00:40.81,Dial-CH,,0,0,0,,救命
+Dialogue: 1,0:00:41.15,0:00:42.52,Dial-CH,,0,0,0,,气息太平稳了
+Dialogue: 1,0:00:45.61,0:00:47.11,Dial-CH,,0,0,0,,救… 命
+Dialogue: 1,0:00:47.11,0:00:48.32,Dial-CH,,0,0,0,,交给我吧
+Dialogue: 1,0:00:49.45,0:00:51.99,Dial-CH,,0,0,0,,对… 对不起 对不起
+Dialogue: 1,0:00:53.28,0:00:55.16,Dial-CH,,0,0,0,,辛苦了
+Dialogue: 1,0:00:55.45,0:00:57.12,Dial-CH,,0,0,0,,辛苦了
+Dialogue: 1,0:00:59.83,0:01:02.25,Dial-CH,,0,0,0,,我乃恶魔…
+Dialogue: 1,0:01:02.25,0:01:03.63,Dial-CH,,0,0,0,,怎么了 利惠
+Dialogue: 1,0:01:04.29,0:01:06.42,Dial-CH,,0,0,0,,我乃恶魔厄里斯
+Dialogue: 1,0:01:07.09,0:01:10.13,Dial-CH,,0,0,0,,出身魔界 让世界堕入黑暗
+Dialogue: 1,0:01:11.05,0:01:13.30,Dial-CH,,0,0,0,,世界宣告终结
+Dialogue: 1,0:01:13.30,0:01:17.31,Dial-CH,,0,0,0,,我于永恒无尽的黑暗之中
+Dialogue: 1,0:01:18.27,0:01:20.60,Dial-CH,,0,0,0,,注定蹒跚前行
+Dialogue: 1,0:01:21.19,0:01:23.31,Dial-CH,,0,0,0,,虽… 虽然没听明白
+Dialogue: 1,0:01:23.85,0:01:26.61,Dial-CH,,0,0,0,,但不用这么消沉的
+Dialogue: 1,0:01:27.65,0:01:31.15,Dial-CH,,0,0,0,,好不容易有机会参加TV动画的录音
+Dialogue: 1,0:01:31.78,0:01:32.70,Dial-CH,,0,0,0,,可我却…
+Dialogue: 1,0:01:33.24,0:01:36.87,Dial-CH,,0,0,0,,一句「救命」就重录了七次
+Dialogue: 1,0:01:37.66,0:01:38.99,Dial-CH,,0,0,0,,没事啦
+Dialogue: 1,0:01:39.37,0:01:42.67,Dial-CH,,0,0,0,,我还有过重录次数更多的经历呢
+Dialogue: 1,0:01:42.96,0:01:44.63,Dial-CH,,0,0,0,,真的吗 什么时候
+Dialogue: 1,0:01:45.42,0:01:47.00,Dial-CH,,0,0,0,,什么时候…
+Dialogue: 1,0:01:47.25,0:01:50.34,Dial-CH,,0,0,0,,这种失败已经有好多次了
+Dialogue: 1,0:01:50.84,0:01:51.97,Dial-CH,,0,0,0,,好多次？
+Dialogue: 1,0:01:54.43,0:01:55.51,Dial-CH,,0,0,0,,电车来了
+Dialogue: 1,0:02:00.81,0:02:03.48,Dial-CH,,0,0,0,,声优之路还很漫长啊
+Dialogue: 1,0:03:37.15,0:03:38.03,Dial-CH,,0,400,0,,来得及吗？
+Dialogue: 1,0:03:38.49,0:03:40.70,Dial-CH,,0,400,0,,还有五分钟集合
+Dialogue: 1,0:03:40.70,0:03:42.28,Dial-CH,,0,0,0,,勉强赶上啊
+Dialogue: 1,0:03:43.91,0:03:44.58,Dial-CH,,0,0,0,,快点
+Dialogue: 1,0:03:45.54,0:03:46.46,Dial-CH,,0,0,0,,等一下
+Dialogue: 1,0:03:47.04,0:03:49.79,Dial-CH,,0,0,0,,都通知我们今天全员集合了
+Dialogue: 1,0:03:52.67,0:03:53.42,Dial-CH,,0,0,0,,阳菜
+Dialogue: 1,0:03:54.09,0:03:55.13,Dial-CH,,0,0,0,,怎么了
+Dialogue: 1,0:03:56.92,0:03:58.05,Dial-CH,,0,0,0,,救命
+Dialogue: 1,0:04:00.68,0:04:01.47,Dial-CH,,0,0,0,,利惠？
+Dialogue: 1,0:04:01.72,0:04:04.06,Dial-CH,,0,0,0,,没事 没什么
+Dialogue: 1,0:04:04.89,0:04:06.93,Dial-CH,,0,0,0,,阳菜 你没事吧？
+Dialogue: 1,0:04:06.93,0:04:08.56,Dial-CH,,0,0,0,,我… 我没事
+Dialogue: 1,0:04:08.98,0:04:10.10,Dial-CH,,0,0,0,,太好了
+Dialogue: 1,0:04:10.44,0:04:13.07,Dial-CH,,0,0,0,,大家都在训练室了
+Dialogue: 1,0:04:14.48,0:04:15.86,Dial-CH,,0,0,0,,我们来晚了
+Dialogue: 1,0:04:17.61,0:04:18.78,Dial-CH,,0,0,0,,来晚了
+Dialogue: 1,0:04:19.07,0:04:20.45,Dial-CH,,0,0,0,,这下就到齐了吧
+Dialogue: 1,0:04:21.16,0:04:23.41,Dial-CH,,0,0,0,,真咲有话跟大家说
+Dialogue: 1,0:04:24.03,0:04:25.29,Dial-CH,,0,0,0,,请稍等一下
+Dialogue: 1,0:04:25.87,0:04:26.83,Dial-CH,,0,0,0,,是
+Dialogue: 1,0:04:27.58,0:04:32.25,Dial-CH,,0,0,0,,这里是刚成立的声优事务所 「AiRBLUE」
+Dialogue: 1,0:04:32.96,0:04:37.17,Dial-CH,,0,0,0,,而我们都是下属的新人声优
+Dialogue: 1,0:04:37.76,0:04:41.64,Dial-CH,,0,0,0,,来到这里之后 已经经历了许多
+Dialogue: 1,0:04:42.26,0:04:43.76,Dial-CH,,0,0,0,,你回来了 阳菜
+Dialogue: 1,0:04:43.76,0:04:45.26,Dial-CH,,0,0,0,,录音怎么样
+Dialogue: 1,0:04:45.51,0:04:48.56,Dial-CH,,0,0,0,,不愧是当红声优 最后才出场
+Dialogue: 1,0:04:49.14,0:04:52.48,Dial-CH,,0,0,0,,角色是村姑 不过算是完成了
+Dialogue: 1,0:04:53.15,0:04:57.15,Dial-CH,,0,0,0,,话说 你们听说下次的粉丝感谢活动了吗
+Dialogue: 1,0:04:58.03,0:05:00.03,Dial-CH,,0,0,0,,就是我们要出场的活动吧
+Dialogue: 1,0:05:00.28,0:05:01.70,Dial-CH,,0,0,0,,不仅如此
+Dialogue: 1,0:05:02.24,0:05:05.24,Dial-CH,,0,0,0,,传说会有重大消息发布
+Dialogue: 1,0:05:06.66,0:05:07.70,Dial-CH,,0,0,0,,真的吗？
+Dialogue: 1,0:05:09.08,0:05:12.04,Dial-CH,,0,0,0,,我们四个人 在当前播送的动画
+Dialogue: 1,0:05:12.04,0:05:16.42,Dial-CH,,0,0,0,,《花烂漫！花球》中都出演了角色
+Dialogue: 1,0:05:17.30,0:05:20.05,Dial-CH,,0,0,0,,千纱千纱 你听新歌的小样了吗
+Dialogue: 1,0:05:20.30,0:05:21.38,Dial-CH,,0,0,0,,当然听了
+Dialogue: 1,0:05:21.68,0:05:22.68,Dial-CH,,0,0,0,,爱里呢
+Dialogue: 1,0:05:22.97,0:05:25.80,Dial-CH,,0,0,0,,昨天开始就一直循环了
+Dialogue: 1,0:05:26.06,0:05:27.51,Dial-CH,,0,0,0,,这么来劲呀
+Dialogue: 1,0:05:27.51,0:05:29.68,Dial-CH,,0,0,0,,好期待在台上唱
+Dialogue: 1,0:05:30.02,0:05:31.31,Dial-CH,,0,0,0,,对了对了 悠希
+Dialogue: 1,0:05:31.31,0:05:35.36,Dial-CH,,0,0,0,,副歌之前的地方 我们四个一起转身怎么样
+Dialogue: 1,0:05:35.56,0:05:36.69,Dial-CH,,0,0,0,,好像不错
+Dialogue: 1,0:05:36.94,0:05:37.82,Dial-CH,,0,0,0,,这样吗
+Dialogue: 1,0:05:38.57,0:05:40.57,Dial-CH,,0,0,0,,不要在这里跳舞啦
+Dialogue: 1,0:05:40.90,0:05:42.53,Dial-CH,,0,0,0,,但是好像不错
+Dialogue: 1,0:05:43.66,0:05:45.78,Dial-CH,,0,0,0,,也有人组成声优组合出道
+Dialogue: 1,0:05:45.78,0:05:48.29,Dial-CH,,0,0,0,,已经开始了演出活动
+Dialogue: 1,0:05:50.29,0:05:51.58,Dial-CH,,0,0,0,,你们看
+Dialogue: 1,0:05:51.79,0:05:55.63,Dial-CH,,0,0,0,,收到了这么多邮件 写着昨天广播的感想
+Dialogue: 1,0:05:55.96,0:05:57.96,Dial-CH,,0,0,0,,明明才刚发布一天
+Dialogue: 1,0:05:58.71,0:06:01.34,Dial-CH,,0,0,0,,我的关注者又变多了
+Dialogue: 1,0:06:01.80,0:06:02.84,Dial-CH,,0,0,0,,好耶
+Dialogue: 1,0:06:02.84,0:06:04.34,Dial-CH,,0,0,0,,这个走势不错嘛
+Dialogue: 1,0:06:05.72,0:06:08.10,Dial-CH,,0,0,0,,果然坚持是最重要的
+Dialogue: 1,0:06:09.56,0:06:11.64,Dial-CH,,0,0,0,,也有人自己创作广播上传
+Dialogue: 1,0:06:11.89,0:06:14.19,Dial-CH,,0,0,0,,她们的听众变得越来越多
+Dialogue: 1,0:06:15.27,0:06:20.73,Dial-CH,,0,0,0,,还有人 现在没有找到属于自己的路
+Dialogue: 1,0:06:21.57,0:06:22.61,Dial-CH,,0,0,0,,我回来了
+Dialogue: 1,0:06:23.07,0:06:24.15,Dial-CH,,0,0,0,,利惠 你回来了
+Dialogue: 1,0:06:24.41,0:06:26.78,Dial-CH,,0,0,0,,利惠娜 录音怎么样
+Dialogue: 1,0:06:27.62,0:06:28.74,Dial-CH,,0,0,0,,录音…
+Dialogue: 1,0:06:31.16,0:06:32.58,Dial-CH,,0,0,0,,等等 你怎么了
+Dialogue: 1,0:06:32.58,0:06:33.71,Dial-CH,,0,0,0,,发生什么事了吗
+Dialogue: 1,0:06:34.16,0:06:37.08,Dial-CH,,0,0,0,,好不容易有了工作机会
+Dialogue: 1,0:06:39.13,0:06:41.80,Dial-CH,,0,0,0,,我们下次的工作是什么时候
+Dialogue: 1,0:06:42.71,0:06:46.39,Dial-CH,,0,0,0,,下个月底居民庆典的志愿活动
+Dialogue: 1,0:06:46.72,0:06:49.39,Dial-CH,,0,0,0,,下个月底 好遥远
+Dialogue: 1,0:06:50.26,0:06:54.56,Dial-CH,,0,0,0,,话说回来今天 我们三个差点迟到了
+Dialogue: 1,0:06:54.98,0:06:56.06,Dial-CH,,0,0,0,,怎么回事
+Dialogue: 1,0:06:56.56,0:06:59.65,Dial-CH,,0,0,0,,平常早餐吃的芝士吐司没法做
+Dialogue: 1,0:06:59.94,0:07:01.69,Dial-CH,,0,0,0,,结果费了好多时间
+Dialogue: 1,0:07:01.98,0:07:04.74,Dial-CH,,0,0,0,,吃普通的吐司不也挺好
+Dialogue: 1,0:07:05.03,0:07:08.03,Dial-CH,,0,0,0,,我可不愿意打破每天的习惯
+Dialogue: 1,0:07:08.24,0:07:10.62,Dial-CH,,0,0,0,,所以我专门出去买了
+Dialogue: 1,0:07:11.03,0:07:13.62,Dial-CH,,0,0,0,,结果就搞得慌慌张张的
+Dialogue: 1,0:07:14.37,0:07:15.75,Dial-CH,,0,0,0,,就是所谓的「常规」吧
+Dialogue: 1,0:07:16.12,0:07:18.21,Dial-CH,,0,0,0,,聪亲可是大闹了一场
+Dialogue: 1,0:07:18.67,0:07:24.05,Dial-CH,,0,0,0,,说到底 都怪你擅自吃掉冰箱里我的芝士吧
+Dialogue: 1,0:07:25.13,0:07:26.18,Dial-CH,,0,0,0,,抱歉啦
+Dialogue: 1,0:07:28.01,0:07:29.09,Dial-CH,,0,0,0,,真咲姐
+Dialogue: 1,0:07:29.64,0:07:30.80,Dial-CH,,0,0,0,,大家到齐了吗？
+Dialogue: 1,0:07:31.22,0:07:32.56,Dial-CH,,0,0,0,,是的 都在了
+Dialogue: 1,0:07:35.77,0:07:39.02,Dial-CH,,0,0,0,,从你们进入AiRBLUE以来
+Dialogue: 1,0:07:39.56,0:07:43.98,Dial-CH,,0,0,0,,我清晰地感受到了你们的成长
+Dialogue: 1,0:07:44.69,0:07:48.66,Dial-CH,,0,0,0,,你们之中有人体验到了成果 也有人还没有
+Dialogue: 1,0:07:49.32,0:07:51.24,Dial-CH,,0,0,0,,但实际上并没有多大差距
+Dialogue: 1,0:07:51.70,0:07:56.08,Dial-CH,,0,0,0,,你们必须要保持现在成长的势头 不断把握机会
+Dialogue: 1,0:07:56.87,0:08:01.88,Dial-CH,,0,0,0,,我就直说了 今天叫大家过来有两个原因
+Dialogue: 1,0:08:02.38,0:08:04.63,Dial-CH,,0,0,0,,第一条是个大新闻
+Dialogue: 1,0:08:06.09,0:08:09.26,Dial-CH,,0,0,0,,「花烂漫」的二期确定制作了
+Dialogue: 1,0:08:14.31,0:08:15.10,Dial-CH,,0,0,0,,另一条
+Dialogue: 1,0:08:15.56,0:08:19.31,Dial-CH,,0,0,0,,是你们将会挑战新的试音
+Dialogue: 1,0:08:22.90,0:08:26.69,Dial-CH,,0,0,0,,《花烂漫！花球 行星大战篇》
+Dialogue: 1,0:08:26.69,0:08:30.53,Dial-CH,,0,0,0,,火花的队伍突破了此前的行星预选赛
+Dialogue: 1,0:08:30.53,0:08:34.95,Dial-CH,,0,0,0,,她们和六花的队伍 将会在行星大赛遇到更强的敌人
+Dialogue: 1,0:08:34.95,0:08:36.87,Dial-CH,,0,0,0,,故事便讲述了这些激战
+Dialogue: 1,0:08:38.87,0:08:42.79,Dial-CH,,0,0,0,,这次全新登场的各校队伍的声优
+Dialogue: 1,0:08:42.79,0:08:45.00,Dial-CH,,0,0,0,,将会以小队为单位进行选拔
+Dialogue: 1,0:08:45.88,0:08:47.01,Dial-CH,,0,0,0,,小队？
+Dialogue: 1,0:08:47.38,0:08:53.10,Dial-CH,,0,0,0,,没错 一所学校的四个人 声优也是四人一组参加选拔
+Dialogue: 1,0:08:53.47,0:08:54.85,Dial-CH,,0,0,0,,什么意思
+Dialogue: 1,0:08:55.14,0:08:58.89,Dial-CH,,0,0,0,,也就是要四个人同时扮演一支队伍吗
+Dialogue: 1,0:08:59.31,0:09:00.35,Dial-CH,,0,0,0,,没错
+Dialogue: 1,0:09:00.35,0:09:01.44,Dial-CH,,0,0,0,,你们看
+Dialogue: 1,0:09:01.65,0:09:06.48,Dial-CH,,0,0,0,,比方说 四个人一起饰演这所学校的四个角色
+Dialogue: 1,0:09:06.48,0:09:09.24,Dial-CH,,0,0,0,,然后以表现来判断是否采用
+Dialogue: 1,0:09:09.65,0:09:11.20,Dial-CH,,0,0,0,,好少见的规则
+Dialogue: 1,0:09:11.66,0:09:13.12,Dial-CH,,0,0,0,,虽然少见
+Dialogue: 1,0:09:13.12,0:09:17.41,Dial-CH,,0,0,0,,考虑到队内平衡的选人 其实是很普遍的
+Dialogue: 1,0:09:18.54,0:09:20.79,Dial-CH,,0,0,0,,这次的「行星大战篇」
+Dialogue: 1,0:09:20.79,0:09:24.46,Dial-CH,,0,0,0,,卖点就在于比赛队伍间的不同个性
+Dialogue: 1,0:09:25.17,0:09:30.22,Dial-CH,,0,0,0,,所以原作方要求 要能明确感受到学校的特色
+Dialogue: 1,0:09:30.22,0:09:32.51,Dial-CH,,0,0,0,,因此提出要办这样的选拔
+Dialogue: 1,0:09:33.47,0:09:35.35,Dial-CH,,0,0,0,,包含角色歌在内
+Dialogue: 1,0:09:35.35,0:09:38.35,Dial-CH,,0,0,0,,计划并行各个学校的宣传
+Dialogue: 1,0:09:38.68,0:09:42.52,Dial-CH,,0,0,0,,幸运的是 我们事务所刚好以四人为单位活动
+Dialogue: 1,0:09:42.52,0:09:44.81,Dial-CH,,0,0,0,,所以打算让你们去分组试音
+Dialogue: 1,0:09:48.53,0:09:52.49,Dial-CH,,0,0,0,,这次每个小队只能应征一所学校
+Dialogue: 1,0:09:53.16,0:09:54.95,Dial-CH,,0,0,0,,四个人一起商量
+Dialogue: 1,0:09:54.95,0:09:57.66,Dial-CH,,0,0,0,,决定好你们要试音哪一所学校吧
+Dialogue: 1,0:09:58.87,0:10:02.66,Dial-CH,,0,0,0,,所以我们选哪个学校好呢
+Dialogue: 1,0:10:03.96,0:10:05.63,Dial-CH,,0,0,0,,金星学园怎么样
+Dialogue: 1,0:10:05.96,0:10:07.38,Dial-CH,,0,0,0,,是什么样的队伍
+Dialogue: 1,0:10:07.59,0:10:10.09,Dial-CH,,0,0,0,,气氛稳重的四人组
+Dialogue: 1,0:10:10.38,0:10:13.01,Dial-CH,,0,0,0,,关系良好 配合默契
+Dialogue: 1,0:10:13.47,0:10:17.47,Dial-CH,,0,0,0,,最擅长绝妙的配合战术 这么写的
+Dialogue: 1,0:10:17.47,0:10:19.60,Dial-CH,,0,0,0,,默契的四个人啊
+Dialogue: 1,0:10:20.97,0:10:23.56,Dial-CH,,0,0,0,,感觉很适合我们
+Dialogue: 1,0:10:24.69,0:10:26.44,Dial-CH,,0,0,0,,今天的训练就到这里
+Dialogue: 1,0:10:27.06,0:10:28.86,Dial-CH,,0,0,0,,谢谢
+Dialogue: 1,0:10:29.90,0:10:31.74,Dial-CH,,0,0,0,,你们说 下次的试音
+Dialogue: 1,0:10:32.07,0:10:33.70,Dial-CH,,0,0,0,,我们选哪个学校
+Dialogue: 1,0:10:34.03,0:10:36.91,Dial-CH,,0,0,0,,对了 这个试音的自由对话是怎么回事
+Dialogue: 1,0:10:37.32,0:10:38.66,Dial-CH,,0,0,0,,还有这东西吗
+Dialogue: 1,0:10:38.91,0:10:40.37,Dial-CH,,0,0,0,,莉央说过了吧
+Dialogue: 1,0:10:40.83,0:10:43.16,Dial-CH,,0,0,0,,除了有台本的台词之外
+Dialogue: 1,0:10:43.16,0:10:46.83,Dial-CH,,0,0,0,,每支小队还需要完成即兴对话
+Dialogue: 1,0:10:47.08,0:10:49.04,Dial-CH,,0,0,0,,即兴吗 好好玩
+Dialogue: 1,0:10:49.46,0:10:52.01,Dial-CH,,0,0,0,,可不是让你随便聊天的意思
+Dialogue: 1,0:10:52.51,0:10:56.47,Dial-CH,,0,0,0,,而是根据对话 来看声优能否演绎出学校的特色吧
+Dialogue: 1,0:10:56.84,0:10:59.47,Dial-CH,,0,0,0,,嗯 肯定就是这样
+Dialogue: 1,0:10:59.72,0:11:02.77,Dial-CH,,0,0,0,,话说 这个海王学园怎么样
+Dialogue: 1,0:11:02.77,0:11:06.69,Dial-CH,,0,0,0,,唱歌跳舞的偶像们组成的四人队伍
+Dialogue: 1,0:11:07.06,0:11:11.40,Dial-CH,,0,0,0,,使用舞蹈一般的身法迷惑对方
+Dialogue: 1,0:11:12.61,0:11:14.53,Dial-CH,,0,0,0,,太适合我们了
+Dialogue: 1,0:11:14.90,0:11:17.36,Dial-CH,,0,0,0,,我也有点喜欢这个队
+Dialogue: 1,0:11:17.57,0:11:20.41,Dial-CH,,0,0,0,,偶像… 即兴对话…
+Dialogue: 1,0:11:21.87,0:11:22.79,Dial-CH,,0,0,0,,对了
+Dialogue: 1,0:11:24.25,0:11:26.54,Dial-CH,,0,0,0,,我今天必须把话说清楚
+Dialogue: 1,0:11:26.79,0:11:31.50,Dial-CH,,0,0,0,,你这个人 在每天同一时间吃同一样东西 像个笨蛋
+Dialogue: 1,0:11:31.71,0:11:34.21,Dial-CH,,0,0,0,,还轮不到你这个笨蛋说我是笨蛋
+Dialogue: 1,0:11:34.51,0:11:35.55,Dial-CH,,0,0,0,,笨蛋笨蛋笨蛋
+Dialogue: 1,0:11:35.55,0:11:36.59,Dial-CH,,0,0,0,,常规笨蛋
+Dialogue: 1,0:11:36.59,0:11:39.68,Dial-CH,,0,0,0,,是不是有个说法 说别人笨蛋的才是笨蛋
+Dialogue: 1,0:11:40.10,0:11:41.39,Dial-CH,,0,0,0,,好哲学
+Dialogue: 1,0:11:41.68,0:11:44.10,Dial-CH,,0,0,0,,怎么 你们打算帮常规笨蛋吗
+Dialogue: 1,0:11:44.39,0:11:47.10,Dial-CH,,0,0,0,,不是 也不是要帮哪边…
+Dialogue: 1,0:11:47.44,0:11:50.44,Dial-CH,,0,0,0,,敌人的盟友是我的盟友 还是敌人
+Dialogue: 1,0:11:50.44,0:11:51.82,Dial-CH,,0,0,0,,三秒之内回答
+Dialogue: 1,0:11:51.82,0:11:53.02,Dial-CH,,0,0,0,,三 二 一
+Dialogue: 1,0:11:53.28,0:11:55.49,Dial-CH,,0,0,0,,不是 三秒也太短了
+Dialogue: 1,0:11:55.49,0:11:57.15,Dial-CH,,0,0,0,,那我给五秒
+Dialogue: 1,0:11:57.15,0:11:59.49,Dial-CH,,0,0,0,,五 四 三 二 一
+Dialogue: 1,0:11:59.66,0:12:00.95,Dial-CH,,0,0,0,,受不了了
+Dialogue: 1,0:12:00.95,0:12:03.49,Dial-CH,,0,0,0,,你们给我停下
+Dialogue: 1,0:12:06.96,0:12:09.46,Dial-CH,,0,0,0,,就算出生在不同时间与地点
+Dialogue: 1,0:12:09.46,0:12:11.54,Dial-CH,,0,0,0,,我们也永远是一个整体
+Dialogue: 1,0:12:11.54,0:12:13.67,Dial-CH,,0,0,0,,我们的配合完美无缺
+Dialogue: 1,0:12:13.88,0:12:17.01,Dial-CH,,0,0,0,,谁也无法击破 当然也包括你们
+Dialogue: 1,0:12:17.42,0:12:19.97,Dial-CH,,0,0,0,,胜利属于金星学园
+Dialogue: 1,0:12:20.22,0:12:24.18,Dial-CH,,0,0,0,,现在这组结束之后 就轮到AiRBLUE了
+Dialogue: 1,0:12:24.18,0:12:25.93,Dial-CH,,0,0,0,,好的 谢谢
+Dialogue: 1,0:12:26.77,0:12:28.89,Dial-CH,,0,0,0,,哪一队第一个上
+Dialogue: 1,0:12:29.06,0:12:30.35,Dial-CH,,0,0,0,,我们我们我们
+Dialogue: 1,0:12:30.73,0:12:33.40,Dial-CH,,0,0,0,,你们要扮演的是海王学园吧
+Dialogue: 1,0:12:33.40,0:12:35.32,Dial-CH,,0,0,0,,自由对话想好了吗
+Dialogue: 1,0:12:35.53,0:12:37.57,Dial-CH,,0,0,0,,完美 交给我们吧
+Dialogue: 1,0:12:37.57,0:12:39.57,Dial-CH,,0,0,0,,其实一点也不完美
+Dialogue: 1,0:12:40.36,0:12:42.28,Dial-CH,,0,0,0,,现在就算害怕也没用
+Dialogue: 1,0:12:43.03,0:12:45.79,Dial-CH,,0,0,0,,试音就是会让人心跳加速呀
+Dialogue: 1,0:12:46.20,0:12:48.58,Dial-CH,,0,0,0,,明明不是我去参加
+Dialogue: 1,0:12:48.79,0:12:51.00,Dial-CH,,0,0,0,,其实我也心跳加速了
+Dialogue: 1,0:12:51.33,0:12:52.92,Dial-CH,,0,0,0,,怎么了 心律不整吗
+Dialogue: 1,0:12:53.25,0:12:54.54,Dial-CH,,0,0,0,,有管用的药
+Dialogue: 1,0:12:59.80,0:13:01.51,Dial-CH,,0,0,0,,谢谢
+Dialogue: 1,0:13:02.22,0:13:04.39,Dial-CH,,0,0,0,,有请下一组
+Dialogue: 1,0:13:04.64,0:13:05.14,Dial-CH,,0,0,0,,来了
+Dialogue: 1,0:13:05.76,0:13:08.35,Dial-CH,,0,0,0,,还记得吗 站在麦克风前
+Dialogue: 1,0:13:08.60,0:13:09.85,Dial-CH,,0,0,0,,首先打招呼
+Dialogue: 1,0:13:10.14,0:13:11.73,Dial-CH,,0,0,0,,一旦录音开始
+Dialogue: 1,0:13:11.73,0:13:16.11,Dial-CH,,0,0,0,,首先说出所属事务所 自己的名字 饰演学校的名字
+Dialogue: 1,0:13:16.11,0:13:17.44,Dial-CH,,0,0,0,,然后开始表演
+Dialogue: 1,0:13:17.86,0:13:18.90,Dial-CH,,0,0,0,,没错吧
+Dialogue: 1,0:13:19.32,0:13:20.78,Dial-CH,,0,0,0,,嗯 就这样
+Dialogue: 1,0:13:21.53,0:13:24.57,Dial-CH,,0,0,0,,接下来三组 是AiRBLUE的
+Dialogue: 1,0:13:24.70,0:13:26.95,Dial-CH,,0,0,0,,AiRBLUE我记得是…
+Dialogue: 1,0:13:27.54,0:13:29.04,Dial-CH,,0,0,0,,就是鹰取的事务所
+Dialogue: 1,0:13:30.04,0:13:30.91,Dial-CH,,0,0,0,,椿的呀
+Dialogue: 1,0:13:34.21,0:13:35.79,Dial-CH,,0,0,0,,请多关照
+Dialogue: 1,0:13:36.29,0:13:37.25,Dial-CH,,0,0,0,,嗯 好的
+Dialogue: 1,0:13:37.88,0:13:38.59,Dial-CH,,0,0,0,,开始播放
+Dialogue: 1,0:13:40.63,0:13:43.34,Dial-CH,,0,0,0,,AiRBLUE所属 天童悠希
+Dialogue: 1,0:13:43.47,0:13:46.10,Dial-CH,,0,0,0,,饰演海王学园的天草莱利
+Dialogue: 1,0:13:46.39,0:13:49.68,Dial-CH,,0,0,0,,赤川千纱 饰演柊特斯科
+Dialogue: 1,0:13:49.93,0:13:53.44,Dial-CH,,0,0,0,,惠庭爱里 饰演弟切奈尔
+Dialogue: 1,0:13:53.81,0:13:57.15,Dial-CH,,0,0,0,,九条柚叶 饰演蓬赫西斯
+Dialogue: 1,0:14:02.36,0:14:03.99,Dial-CH,,0,0,0,,我们的歌声
+Dialogue: 1,0:14:03.99,0:14:06.07,Dial-CH,,0,0,0,,响彻整个宇宙
+Dialogue: 1,0:14:06.53,0:14:08.33,Dial-CH,,0,0,0,,我们的舞蹈
+Dialogue: 1,0:14:08.91,0:14:11.00,Dial-CH,,0,0,0,,震撼星间黑暗
+Dialogue: 1,0:14:11.58,0:14:13.75,Dial-CH,,0,0,0,,To be shining star
+Dialogue: 1,0:14:14.33,0:14:15.71,Dial-CH,,0,0,0,,海王学园
+Dialogue: 1,0:14:18.88,0:14:20.13,Dial-CH,,0,0,0,,接下来是自由对话
+Dialogue: 1,0:14:25.93,0:14:31.43,Dial-CH,,0,0,0,,{\blur3}我们的歌声
+Dialogue: 1,0:14:31.64,0:14:37.11,Dial-CH,,0,0,0,,{\blur3}响彻整个宇宙
+Dialogue: 1,0:14:37.56,0:14:42.61,Dial-CH,,0,0,0,,{\blur3}我们的舞蹈
+Dialogue: 1,0:14:42.61,0:14:48.78,Dial-CH,,0,0,0,,{\blur3}震撼星间黑暗
+Dialogue: 1,0:14:48.95,0:14:51.20,Dial-CH,,0,0,0,,{\blur3}To be shining star
+Dialogue: 1,0:14:51.87,0:14:55.17,Dial-CH,,0,0,0,,{\blur3}海王学园
+Dialogue: 1,0:14:57.83,0:14:59.88,Dial-CH,,0,0,0,,还有这种展示方式啊
+Dialogue: 1,0:15:00.59,0:15:04.42,Dial-CH,,0,0,0,,听说她们四个是团体活动的
+Dialogue: 1,0:15:04.72,0:15:05.30,Dial-CH,,0,0,0,,这样
+Dialogue: 1,0:15:05.93,0:15:08.51,Dial-CH,,0,0,0,,辛苦了 唱得不错
+Dialogue: 1,0:15:10.89,0:15:11.93,Dial-CH,,0,0,0,,接下来是…
+Dialogue: 1,0:15:11.93,0:15:12.64,Dial-CH,,0,0,0,,来了
+Dialogue: 1,0:15:13.60,0:15:15.06,Dial-CH,,0,0,0,,该我们了
+Dialogue: 1,0:15:15.69,0:15:17.23,Dial-CH,,0,0,0,,好的 加油
+Dialogue: 1,0:15:19.77,0:15:22.53,Dial-CH,,0,0,0,,AiRBLUE所属 夜峰美晴
+Dialogue: 1,0:15:23.11,0:15:26.53,Dial-CH,,0,0,0,,饰演金星学园的不忍娜迪
+Dialogue: 1,0:15:26.91,0:15:29.74,Dial-CH,,0,0,0,,神室绚 饰演多多良蕾姆
+Dialogue: 1,0:15:30.08,0:15:33.20,Dial-CH,,0,0,0,,宫路真幌 饰演东云提亚拉
+Dialogue: 1,0:15:33.45,0:15:36.67,Dial-CH,,0,0,0,,日名仓莉子 饰演不动奥罗拉
+Dialogue: 1,0:15:40.71,0:15:43.05,Dial-CH,,0,0,0,,就算出生在不同时间与地点
+Dialogue: 1,0:15:43.38,0:15:45.26,Dial-CH,,0,0,0,,我们也永远是一个整体
+Dialogue: 1,0:15:45.55,0:15:48.26,Dial-CH,,0,0,0,,我们的配合完美无缺
+Dialogue: 1,0:15:48.26,0:15:51.64,Dial-CH,,0,0,0,,谁也无法击破 当然也包括你们
+Dialogue: 1,0:15:52.35,0:15:54.93,Dial-CH,,0,0,0,,胜利属于金星学园
+Dialogue: 1,0:15:59.19,0:16:00.86,Dial-CH,,0,0,0,,开始自由对话
+Dialogue: 1,0:16:01.69,0:16:03.53,Dial-CH,,0,0,0,,大家好 我是娜迪
+Dialogue: 1,0:16:03.53,0:16:05.32,Dial-CH,,0,0,0,,大家听得到吗
+Dialogue: 1,0:16:05.57,0:16:08.20,Dial-CH,,0,0,0,,要是听不到就糟了吧
+Dialogue: 1,0:16:08.20,0:16:11.03,Dial-CH,,0,0,0,,提亚拉又开始这样泼凉水啦
+Dialogue: 1,0:16:11.03,0:16:12.83,Dial-CH,,0,0,0,,可是…
+Dialogue: 1,0:16:12.83,0:16:15.25,Dial-CH,,0,0,0,,好了好了 开始第一个环节
+Dialogue: 1,0:16:15.95,0:16:16.91,Dial-CH,,0,0,0,,环节？
+Dialogue: 1,0:16:17.62,0:16:18.92,Dial-CH,,0,0,0,,是广播类型的啊？
+Dialogue: 1,0:16:19.62,0:16:21.25,Dial-CH,,0,0,0,,奇怪 原作里有这个吗
+Dialogue: 1,0:16:21.25,0:16:23.13,Dial-CH,,0,0,0,,不 应该没有
+Dialogue: 1,0:16:23.59,0:16:25.13,Dial-CH,,0,0,0,,虽然没有 但是…
+Dialogue: 1,0:16:27.05,0:16:29.88,Dial-CH,,0,0,0,,金星学园确实有这种休闲的氛围吧
+Dialogue: 1,0:16:32.18,0:16:33.26,Dial-CH,,0,0,0,,原来如此
+Dialogue: 1,0:16:33.85,0:16:37.02,Dial-CH,,0,0,0,,就是这样 感谢大家的来信
+Dialogue: 1,0:16:37.39,0:16:39.35,Dial-CH,,0,0,0,,咦 没有写给我的吗？
+Dialogue: 1,0:16:39.35,0:16:39.94,Dial-CH,,0,0,0,,没有
+Dialogue: 1,0:16:40.27,0:16:41.65,Dial-CH,,0,0,0,,就这么确定？
+Dialogue: 1,0:16:41.65,0:16:42.48,Dial-CH,,0,0,0,,对
+Dialogue: 1,0:16:44.44,0:16:46.99,Dial-CH,,0,0,0,,好了 差不多该结束了
+Dialogue: 1,0:16:47.44,0:16:48.70,Dial-CH,,0,0,0,,好的 到此为止
+Dialogue: 1,0:16:49.36,0:16:50.91,Dial-CH,,0,0,0,,谢谢
+Dialogue: 1,0:16:53.16,0:16:55.70,Dial-CH,,0,0,0,,四个人的特点展示得很好
+Dialogue: 1,0:16:56.12,0:16:58.25,Dial-CH,,0,0,0,,好了 接下来是你们了
+Dialogue: 1,0:16:58.58,0:16:59.54,Dial-CH,,0,0,0,,好… 好的
+Dialogue: 1,0:16:59.83,0:17:02.04,Dial-CH,,0,0,0,,没事的 放松些
+Dialogue: 1,0:17:02.54,0:17:04.75,Dial-CH,,0,0,0,,你们的是木星学园吧
+Dialogue: 1,0:17:05.21,0:17:06.96,Dial-CH,,0,0,0,,尽情去表演吧
+Dialogue: 1,0:17:07.30,0:17:08.01,Dial-CH,,0,0,0,,是
+Dialogue: 1,0:17:09.26,0:17:10.68,Dial-CH,,0,0,0,,接下来开始录音
+Dialogue: 1,0:17:11.80,0:17:14.22,Dial-CH,,0,0,0,,AiRBLUE所属 丸山利惠
+Dialogue: 1,0:17:14.47,0:17:17.39,Dial-CH,,0,0,0,,饰演木星学园的本能寺铃鹿
+Dialogue: 1,0:17:18.02,0:17:21.60,Dial-CH,,0,0,0,,宇津木聪里 饰演严岛莉莉艾
+Dialogue: 1,0:17:22.19,0:17:25.65,Dial-CH,,0,0,0,,明神凛音 饰演坛之浦宫子
+Dialogue: 1,0:17:26.65,0:17:29.49,Dial-CH,,0,0,0,,远见鸣 饰演六波罗奇迹
+Dialogue: 1,0:17:34.53,0:17:38.95,Dial-CH,,0,0,0,,哎哟哟 居然不认识我们 哪来的乡巴佬
+Dialogue: 1,0:17:39.25,0:17:42.33,Dial-CH,,0,0,0,,说实话真扫兴 看着就感觉土
+Dialogue: 1,0:17:42.54,0:17:44.92,Dial-CH,,0,0,0,,气味不一样 是外来者
+Dialogue: 1,0:17:45.38,0:17:49.13,Dial-CH,,0,0,0,,杂鱼队就要有杂鱼的样子 去角落里藏着吧
+Dialogue: 1,0:17:49.51,0:17:50.63,Dial-CH,,0,0,0,,为什么
+Dialogue: 1,0:17:50.63,0:17:52.34,Dial-CH,,0,0,0,,为什么这么艰难
+Dialogue: 1,0:17:52.68,0:17:55.18,Dial-CH,,0,0,0,,因为你们的移动方式总是不变
+Dialogue: 1,0:17:55.47,0:17:56.93,Dial-CH,,0,0,0,,大家不要吵架
+Dialogue: 1,0:17:56.93,0:17:58.35,Dial-CH,,0,0,0,,集中注意力比赛
+Dialogue: 1,0:17:58.72,0:18:01.52,Dial-CH,,0,0,0,,别大喊大叫 不觉得羞耻吗
+Dialogue: 1,0:18:01.85,0:18:04.48,Dial-CH,,0,0,0,,没错 我们是绝对无敌的
+Dialogue: 1,0:18:04.98,0:18:06.82,Dial-CH,,0,0,0,,不会屈服于任何人
+Dialogue: 1,0:18:07.19,0:18:10.03,Dial-CH,,0,0,0,,来吧 迎接你们的败北
+Dialogue: 1,0:18:10.44,0:18:13.24,Dial-CH,,0,0,0,,胜负在赛前就已经注定
+Dialogue: 1,0:18:13.45,0:18:16.12,Dial-CH,,0,0,0,,木星学园必杀奥义
+Dialogue: 1,0:18:16.12,0:18:18.16,Dial-CH,,0,0,0,,就让你们见识一萨…
+Dialogue: 1,0:18:20.08,0:18:21.12,Dial-CH,,0,0,0,,对不起
+Dialogue: 1,0:18:21.58,0:18:22.87,Dial-CH,,0,0,0,,就这样继续
+Dialogue: 1,0:18:23.41,0:18:24.21,Dial-CH,,0,0,0,,是
+Dialogue: 1,0:18:26.84,0:18:29.17,Dial-CH,,0,0,0,,木星学园必杀奥义
+Dialogue: 1,0:18:29.38,0:18:31.30,Dial-CH,,0,0,0,,就让你们见识一下
+Dialogue: 1,0:18:31.71,0:18:36.18,Dial-CH,,0,0,0,,我们木星学园 才是宇宙第一花球队
+Dialogue: 1,0:18:42.89,0:18:43.81,Dial-CH,,0,0,0,,真差劲
+Dialogue: 1,0:18:44.77,0:18:45.77,Dial-CH,,0,0,0,,说什么呢
+Dialogue: 1,0:18:45.77,0:18:47.44,Dial-CH,,0,0,0,,我说你真差劲
+Dialogue: 1,0:18:48.90,0:18:50.15,Dial-CH,,0,0,0,,早知道就不来了
+Dialogue: 1,0:18:51.44,0:18:52.74,Dial-CH,,0,0,0,,喂 说得太过分了
+Dialogue: 1,0:18:53.61,0:18:55.91,Dial-CH,,0,0,0,,哪里过分了 都是实话
+Dialogue: 1,0:18:55.91,0:18:56.91,Dial-CH,,0,0,0,,我去阻止她们
+Dialogue: 1,0:18:56.91,0:18:57.74,Dial-CH,,0,0,0,,让她们继续
+Dialogue: 1,0:18:58.28,0:19:00.45,Dial-CH,,0,0,0,,等一下 怎么了啊
+Dialogue: 1,0:19:00.45,0:19:01.83,Dial-CH,,0,0,0,,算了吧 别管她
+Dialogue: 1,0:19:02.08,0:19:03.41,Dial-CH,,0,0,0,,我怎么可能不管
+Dialogue: 1,0:19:04.58,0:19:06.67,Dial-CH,,0,0,0,,又开始吵吵闹闹了
+Dialogue: 1,0:19:06.67,0:19:07.63,Dial-CH,,0,0,0,,什么叫又
+Dialogue: 1,0:19:07.88,0:19:11.13,Dial-CH,,0,0,0,,今天我就要把话说清楚
+Dialogue: 1,0:19:11.13,0:19:16.34,Dial-CH,,0,0,0,,你这个人 在每天同一时间吃同一样东西 像个笨蛋
+Dialogue: 1,0:19:16.34,0:19:19.14,Dial-CH,,0,0,0,,还轮不到你这个笨蛋说我是笨蛋
+Dialogue: 1,0:19:19.14,0:19:20.31,Dial-CH,,0,0,0,,笨蛋笨蛋笨蛋
+Dialogue: 1,0:19:20.31,0:19:21.35,Dial-CH,,0,0,0,,常规笨蛋
+Dialogue: 1,0:19:21.93,0:19:24.81,Dial-CH,,0,0,0,,是不是有个说法 说别人笨蛋的才是笨蛋
+Dialogue: 1,0:19:25.27,0:19:26.69,Dial-CH,,0,0,0,,好哲学
+Dialogue: 1,0:19:26.94,0:19:29.65,Dial-CH,,0,0,0,,怎么 你们打算帮常规笨蛋吗
+Dialogue: 1,0:19:29.65,0:19:31.65,Dial-CH,,0,0,0,,不是 也不是要帮哪边…
+Dialogue: 1,0:19:31.98,0:19:34.69,Dial-CH,,0,0,0,,敌人的盟友是我的盟友 还是敌人
+Dialogue: 1,0:19:34.69,0:19:36.24,Dial-CH,,0,0,0,,三秒之内回答
+Dialogue: 1,0:19:36.32,0:19:37.82,Dial-CH,,0,0,0,,三 二 一
+Dialogue: 1,0:19:37.82,0:19:39.95,Dial-CH,,0,0,0,,不是 三秒也太短了
+Dialogue: 1,0:19:39.95,0:19:41.58,Dial-CH,,0,0,0,,那我给五秒
+Dialogue: 1,0:19:41.58,0:19:43.62,Dial-CH,,0,0,0,,五 四 三 二 一
+Dialogue: 1,0:19:43.62,0:19:45.21,Dial-CH,,0,0,0,,受不了了
+Dialogue: 1,0:19:45.21,0:19:50.25,Dial-CH,,0,0,0,,你们给我停下
+Dialogue: 1,0:19:54.63,0:19:57.59,Dial-CH,,0,0,0,,我们的自由对话到此结束
+Dialogue: 1,0:19:58.01,0:19:58.64,Dial-CH,,0,0,0,,咦？
+Dialogue: 1,0:19:59.68,0:20:00.89,Dial-CH,,0,0,0,,刚才是自由对话？
+Dialogue: 1,0:20:01.43,0:20:02.81,Dial-CH,,0,0,0,,是在吵架吧
+Dialogue: 1,0:20:03.39,0:20:07.27,Dial-CH,,0,0,0,,木星学园不是完美的最强团队吗
+Dialogue: 1,0:20:07.60,0:20:08.85,Dial-CH,,0,0,0,,有画过这种剧情吗？
+Dialogue: 1,0:20:09.73,0:20:10.65,Dial-CH,,0,0,0,,没画过
+Dialogue: 1,0:20:12.73,0:20:13.44,Dial-CH,,0,0,0,,暂时…
+Dialogue: 1,0:20:14.28,0:20:15.61,Dial-CH,,0,0,0,,你说暂时…
+Dialogue: 1,0:20:19.45,0:20:21.20,Dial-CH,,0,0,0,,木星学园
+Dialogue: 1,0:20:21.49,0:20:23.87,Dial-CH,,0,0,0,,虽然有时会意见冲突
+Dialogue: 1,0:20:23.87,0:20:26.79,Dial-CH,,0,0,0,,但结果会让她们更团结
+Dialogue: 1,0:20:27.62,0:20:29.92,Dial-CH,,0,0,0,,「有时会意见冲突」
+Dialogue: 1,0:20:30.50,0:20:32.13,Dial-CH,,0,0,0,,可以让她们回去了吗
+Dialogue: 1,0:20:32.63,0:20:33.29,Dial-CH,,0,0,0,,哦
+Dialogue: 1,0:20:33.29,0:20:34.38,Dial-CH,,0,0,0,,可以了吗
+Dialogue: 1,0:20:34.80,0:20:35.67,Dial-CH,,0,0,0,,可以了
+Dialogue: 1,0:20:36.63,0:20:37.67,Dial-CH,,0,0,0,,好的 到此为止
+Dialogue: 1,0:20:37.67,0:20:38.63,Dial-CH,,0,0,0,,辛苦了
+Dialogue: 1,0:20:39.22,0:20:40.84,Dial-CH,,0,0,0,,谢谢
+Dialogue: 1,0:20:44.31,0:20:46.93,Dial-CH,,0,0,0,,没想到全是演出来的
+Dialogue: 1,0:20:47.39,0:20:49.64,Dial-CH,,0,0,0,,我还以为她们真的吵架了
+Dialogue: 1,0:20:49.89,0:20:51.81,Dial-CH,,0,0,0,,没想到还能这样
+Dialogue: 1,0:20:51.81,0:20:54.98,Dial-CH,,0,0,0,,我都等不及正式录音了
+Dialogue: 1,0:20:56.65,0:20:57.78,Dial-CH,,0,0,0,,辛苦了
+Dialogue: 1,0:20:58.49,0:20:59.99,Dial-CH,,0,0,0,,吓了我一跳
+Dialogue: 1,0:20:59.99,0:21:02.66,Dial-CH,,0,0,0,,我还以为你们真的开始吵架了
+Dialogue: 1,0:21:03.16,0:21:05.62,Dial-CH,,0,0,0,,能让你们这样想 说明成功了
+Dialogue: 1,0:21:06.70,0:21:09.50,Dial-CH,,0,0,0,,我还是第一次骂别人笨蛋
+Dialogue: 1,0:21:09.50,0:21:12.67,Dial-CH,,0,0,0,,感觉身体都有点不舒服了
+Dialogue: 1,0:21:12.67,0:21:14.29,Dial-CH,,0,0,0,,你没事吧
+Dialogue: 1,0:21:14.71,0:21:18.97,Dial-CH,,0,0,0,,其实我也不擅长做不习惯的事
+Dialogue: 1,0:21:20.47,0:21:22.59,Dial-CH,,0,0,0,,你们为什么会想到吵架
+Dialogue: 1,0:21:22.97,0:21:23.93,Dial-CH,,0,0,0,,这是因为…
+Dialogue: 1,0:21:24.39,0:21:25.72,Dial-CH,,0,0,0,,是利惠娜 对吧
+Dialogue: 1,0:21:25.72,0:21:27.68,Dial-CH,,0,0,0,,不是 我其实…
+Dialogue: 1,0:21:28.35,0:21:33.90,Dial-CH,,0,0,0,,我们四个人和其他人相比 还没有自己的特色
+Dialogue: 1,0:21:34.23,0:21:36.86,Dial-CH,,0,0,0,,那个 还没有整体感
+Dialogue: 1,0:21:37.07,0:21:39.65,Dial-CH,,0,0,0,,符合我们四个的…
+Dialogue: 1,0:21:40.19,0:21:42.36,Dial-CH,,0,0,0,,想要展示现在的自己？
+Dialogue: 1,0:21:44.12,0:21:44.78,Dial-CH,,0,0,0,,是的
+Dialogue: 1,0:21:47.08,0:21:49.25,Dial-CH,,0,0,0,,各位辛苦了
+Dialogue: 1,0:21:49.25,0:21:51.50,Dial-CH,,0,0,0,,今天的试音全部结束了
+Dialogue: 1,0:21:51.87,0:21:53.83,Dial-CH,,0,0,0,,谢谢
+Dialogue: 1,0:22:00.01,0:22:00.72,Dial-CH,,0,0,0,,你好
+Dialogue: 1,0:22:01.97,0:22:02.80,Dial-CH,,0,0,0,,莉央
+Dialogue: 1,0:22:03.55,0:22:05.05,Dial-CH,,0,0,0,,嗯 嗯
+Dialogue: 1,0:24:08.18,0:24:10.43,Dial-CH,,0,0,0,,下集 「命中注定的工作」
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP “Tomorrow's Diary”
+Dialogue: 0,0:02:05.40,0:02:08.98,OP-JP,,0,0,0,,{\fad(300,0)}聴こえてる　聴こえてる
+Dialogue: 0,0:02:08.98,0:02:12.44,OP-JP,,0,0,0,,あの日誓った言葉
+Dialogue: 0,0:02:12.44,0:02:20.16,OP-JP,,0,0,0,,{\fad(0,500)}その声が　その夢が　輝くように
+Dialogue: 0,0:02:20.16,0:02:23.87,OP-JP,,0,0,0,,{\fad(30,0)}We are one
+Dialogue: 0,0:02:23.87,0:02:27.33,OP-JP,,0,0,0,,All of those words
+Dialogue: 0,0:02:27.33,0:02:31.05,OP-JP,,0,0,0,,We{\fsp-20}’{\r}re chasing
+Dialogue: 0,0:02:31.05,0:02:34.47,OP-JP,,0,0,0,,All of these dreams
+Dialogue: 0,0:02:34.47,0:02:37.89,OP-JP,,0,0,0,,長い髪が揺れる
+Dialogue: 0,0:02:37.89,0:02:41.43,OP-JP,,0,0,0,,風がまた追い越してゆく
+Dialogue: 0,0:02:41.43,0:02:44.89,OP-JP,,0,0,0,,まだ真っ白なままの
+Dialogue: 0,0:02:44.89,0:02:48.61,OP-JP,,0,0,0,,明日のページ
+Dialogue: 0,0:02:49.23,0:02:52.53,OP-JP,,0,0,0,,迷いながら月明かりに
+Dialogue: 0,0:02:52.53,0:02:55.78,OP-JP,,0,0,0,,書き綴ったその言葉
+Dialogue: 0,0:02:55.78,0:02:59.37,OP-JP,,0,0,0,,毎日が　手探りでも
+Dialogue: 0,0:02:59.37,0:03:02.20,OP-JP,,0,0,0,,つかむと決めたから
+Dialogue: 0,0:03:02.20,0:03:05.75,OP-JP,,0,0,0,,駆けぬけて　駆けぬけて
+Dialogue: 0,0:03:05.75,0:03:09.25,OP-JP,,0,0,0,,明日をつかみに行こう
+Dialogue: 0,0:03:09.25,0:03:16.34,OP-JP,,0,0,0,,今日の私をそう越えてゆく　その一歩を
+Dialogue: 0,0:03:16.34,0:03:20.10,OP-JP,,0,0,0,,それぞれに刻んでる
+Dialogue: 0,0:03:20.10,0:03:24.02,OP-JP,,0,0,0,,言葉を　ねえ信じて
+Dialogue: 0,0:03:24.02,0:03:27.77,OP-JP,,0,0,0,,繋がる未来　描く勇気
+Dialogue: 0,0:03:27.77,0:03:33.82,OP-JP,,0,0,0,,{\fad(0,500)}約束だよ　Tomorrow{\fsp-20}’{\r}s Diary
+Dialogue: 1,0:02:05.40,0:02:08.98,OP-CH,,0,0,0,,{\fad(300,0)}依然听得到 依然听得到
+Dialogue: 1,0:02:08.98,0:02:12.44,OP-CH,,0,0,0,,那天我们许下的誓言
+Dialogue: 1,0:02:12.44,0:02:20.16,OP-CH,,0,0,0,,{\fad(0,500)}愿那话语 愿那梦想 会闪耀光芒
+Comment: 1,0:02:20.16,0:02:23.87,OP-CH,,0,0,0,,We are one
+Comment: 1,0:02:23.87,0:02:27.33,OP-CH,,0,0,0,,All of those words
+Comment: 1,0:02:27.33,0:02:31.05,OP-CH,,0,0,0,,We{\fsp-20}’{\r}re chasing
+Comment: 1,0:02:31.05,0:02:34.47,OP-CH,,0,0,0,,All of these dreams
+Dialogue: 1,0:02:34.47,0:02:37.89,OP-CH,,0,0,0,,长发飘飘摇曳
+Dialogue: 1,0:02:37.89,0:02:41.43,OP-CH,,0,0,0,,风再次吹过我们的身边
+Dialogue: 1,0:02:41.43,0:02:44.89,OP-CH,,0,0,0,,眼前依然是纯白一片
+Dialogue: 1,0:02:44.89,0:02:48.61,OP-CH,,0,0,0,,明天的篇章
+Dialogue: 1,0:02:49.23,0:02:52.53,OP-CH,,0,0,0,,迷茫之中在月光下
+Dialogue: 1,0:02:52.53,0:02:55.78,OP-CH,,0,0,0,,仔细写下了那句话
+Dialogue: 1,0:02:55.78,0:02:59.37,OP-CH,,0,0,0,,尽管每天都在摸索
+Dialogue: 1,0:02:59.37,0:03:02.20,OP-CH,,0,0,0,,但已下定决心去追求
+Dialogue: 1,0:03:02.20,0:03:05.75,OP-CH,,0,0,0,,全力奔跑吧 全力奔跑吧
+Dialogue: 1,0:03:05.75,0:03:09.25,OP-CH,,0,0,0,,一起去追逐明天
+Dialogue: 1,0:03:09.25,0:03:16.34,OP-CH,,0,0,0,,踏出那一步 将今天的自己甩在身后
+Dialogue: 1,0:03:16.34,0:03:20.10,OP-CH,,0,0,0,,刻下了一句句台词
+Dialogue: 1,0:03:20.10,0:03:24.02,OP-CH,,0,0,0,,一定要相信这些话语
+Dialogue: 1,0:03:24.02,0:03:27.77,OP-CH,,0,0,0,,要在同一片未来 描绘我们的勇气
+Dialogue: 1,0:03:27.77,0:03:33.82,OP-CH,,0,0,0,,{\fad(0,500)}说好了哦　Tomorrow’s Diary
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED “ゆめだより”
+Dialogue: 2,0:22:48.18,0:22:53.48,ED2-JP,,0,0,0,,{\fad(360,480)}手を結び　目を合わせ
+Dialogue: 2,0:22:53.48,0:22:58.69,ED2-JP,,0,0,0,,{\fad(360,480)}道を照らす月のように
+Dialogue: 2,0:22:58.69,0:23:09.28,ED2-JP,,0,0,0,,{\fad(360,480)}限りある時の中でいざ未来へと
+Dialogue: 2,0:23:11.04,0:23:21.63,ED2-JP,,0,0,0,,{\fad(360,480)}花の色　僕の色は　どんなのだろう
+Dialogue: 2,0:23:21.63,0:23:30.18,ED2-JP,,0,0,0,,{\fad(360,480)}砂ぼこり立てて進む先は
+Dialogue: 2,0:23:30.18,0:23:37.02,ED2-JP,,0,0,0,,{\fad(360,480)}声で彩れるでしょう
+Dialogue: 2,0:23:37.52,0:23:41.69,ED2-JP,,0,0,0,,{\fad(360,480)}共に悩み水をあげて
+Dialogue: 2,0:23:41.69,0:23:47.91,ED2-JP,,0,0,0,,{\fad(360,480)}光あげて僕ら美しく咲こう
+Dialogue: 2,0:23:47.91,0:23:52.33,ED2-JP,,0,0,0,,{\fad(360,480)}教えられた鳥のように
+Dialogue: 2,0:23:52.33,0:23:59.83,ED2-JP,,0,0,0,,{\fad(360,480)}風のように空へ贈るゆめだより
+Dialogue: 2,0:23:59.83,0:24:06.47,ED2-JP,,0,0,0,,{\fad(360,480)}いつか　思い出になっても
+Dialogue: 2,0:22:48.18,0:22:53.48,ED2-CH,,0,0,0,,{\fad(360,480)}牵起手来 目光相对
+Dialogue: 2,0:22:53.48,0:22:58.69,ED2-CH,,0,0,0,,{\fad(360,480)}如同月亮照亮彼此前路
+Dialogue: 2,0:22:58.69,0:23:09.28,ED2-CH,,0,0,0,,{\fad(360,480)}有限的时间里 一起前往未来吧
+Dialogue: 2,0:23:11.04,0:23:21.63,ED2-CH,,0,0,0,,{\fad(360,480)}花的颜色 我的颜色 会是什么样呢
+Dialogue: 2,0:23:21.63,0:23:30.18,ED2-CH,,0,0,0,,{\fad(360,480)}聚沙成塔 在那前方
+Dialogue: 2,0:23:30.18,0:23:37.02,ED2-CH,,0,0,0,,{\fad(360,480)}会有我们的声音装点
+Dialogue: 2,0:23:37.52,0:23:41.69,ED2-CH,,0,0,0,,{\fad(360,480)}一同烦恼 为彼此浇水
+Dialogue: 2,0:23:41.69,0:23:47.91,ED2-CH,,0,0,0,,{\fad(360,480)}给彼此阳光 让我们美丽绽放
+Dialogue: 2,0:23:47.91,0:23:52.33,ED2-CH,,0,0,0,,{\fad(360,480)}像刚学会飞的小鸟
+Dialogue: 2,0:23:52.33,0:23:59.83,ED2-CH,,0,0,0,,{\fad(360,480)}像风一般 梦想之信寄去天空
+Dialogue: 2,0:23:59.83,0:24:06.47,ED2-CH,,0,0,0,,{\fad(360,480)}就算有一天成为回忆 也没关系
+Dialogue: 1,0:22:48.18,0:22:53.48,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}手を結び　目を合わせ
+Dialogue: 1,0:22:53.48,0:22:58.69,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}道を照らす月のように
+Dialogue: 1,0:22:58.69,0:23:09.28,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}限りある時の中でいざ未来へと
+Dialogue: 1,0:23:11.04,0:23:21.63,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}花の色　僕の色は　どんなのだろう
+Dialogue: 1,0:23:21.63,0:23:30.18,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}砂ぼこり立てて進む先は
+Dialogue: 1,0:23:30.18,0:23:37.02,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}声で彩れるでしょう
+Dialogue: 1,0:23:37.52,0:23:41.69,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}共に悩み水をあげて
+Dialogue: 1,0:23:41.69,0:23:47.91,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}光あげて僕ら美しく咲こう
+Dialogue: 1,0:23:47.91,0:23:52.33,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}教えられた鳥のように
+Dialogue: 1,0:23:52.33,0:23:59.83,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}風のように空へ贈るゆめだより
+Dialogue: 1,0:23:59.83,0:24:06.47,ED2-JP,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}いつか　思い出になっても
+Dialogue: 1,0:22:48.18,0:22:53.48,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}牵起手来 目光相对
+Dialogue: 1,0:22:53.48,0:22:58.69,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}如同月亮照亮彼此前路
+Dialogue: 1,0:22:58.69,0:23:09.28,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}有限的时间里 一起前往未来吧
+Dialogue: 1,0:23:11.04,0:23:21.63,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}花的颜色 我的颜色 会是什么样呢
+Dialogue: 1,0:23:21.63,0:23:30.18,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}聚沙成塔 在那前方
+Dialogue: 1,0:23:30.18,0:23:37.02,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}会有我们的声音装点
+Dialogue: 1,0:23:37.52,0:23:41.69,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}一同烦恼 为彼此浇水
+Dialogue: 1,0:23:41.69,0:23:47.91,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}给彼此阳光 让我们美丽绽放
+Dialogue: 1,0:23:47.91,0:23:52.33,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}像刚学会飞的小鸟
+Dialogue: 1,0:23:52.33,0:23:59.83,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}像风一般 梦想之信寄去天空
+Dialogue: 1,0:23:59.83,0:24:06.47,ED2-CH,,0,0,0,,{\fad(360,480)\blur5\bord0\c&H000000&}就算有一天成为回忆 也没关系
