@@ -1,0 +1,114 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] CUE! Short Anime [01][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,32,&H00FFFFFF,&H000000FF,&H00BE7E27,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Dial-CH,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,15,15,36,1
+Style: Dial-JP,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,5,1
+Style: Dial-CH2,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,38,1
+Style: Dial-JP2,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,5,1
+Style: OP-CH,HYQiHei 95S,60,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,15,15,2,1
+Style: OP-JP,FOT-RodinNTLG Pro EB,48,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,15,15,10,1
+Style: ED1-CH,FZZhengHei-R-GBK,30,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,9,16,16,45,1
+Style: ED1-JP,FOT-Budo Std L,38,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,9,20,15,5,1
+Style: Scr,FZDengXian-H-GBK,48,&H003F3635,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,36,1
+Style: Title,FZLanTingYuan-B-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00BE7E27,0,0,0,0,100,100,4,0,1,0,4,3,15,15,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Staff
+Dialogue: 0,0:03:14.95,0:03:17.55,Default,,0,0,0,,{\fad(300,0)\blur2}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Title
+Dialogue: 0,0:00:00.00,0:00:04.98,Title,,0,0,0,,{\fad(0,0)\an8\pos(640,149)\shad0\c&HA0A2A4&}魔法少女协会\N{\c&HA486EE&}M{\c&HDEB38A&}a{\c&H6FD0A9&}g{\c&H3EC0F9&}i{\c&H9EA0A4&}c {\c&HA786EE&}W{\c&HDEB38A&}o{\c&H6FD0A9&}r{\c&H3EC0F9&}k{\c&H9EA0A4&}s
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Japanese
+Dialogue: 0,0:00:07.58,0:00:09.36,Dial-JP,,0,0,0,,魔法に力はいらない
+Dialogue: 0,0:00:10.63,0:00:13.08,Dial-JP,,0,0,0,,才能も血筋も関係ない
+Dialogue: 0,0:00:14.30,0:00:15.36,Dial-JP,,0,0,0,,大切なのは
+Dialogue: 0,0:00:15.73,0:00:17.80,Dial-JP,,0,0,0,,あなたに気持ちがあるかどうかだけ
+Dialogue: 0,0:00:22.81,0:00:26.34,Dial-JP,,0,0,0,,オープン・ザ・ゲート
+Dialogue: 0,0:00:28.49,0:00:30.26,Dial-JP,,0,0,0,,夢への魔法
+Dialogue: 0,0:00:30.42,0:00:33.67,Dial-JP,,0,0,0,,描け　マジックワークス
+Dialogue: 0,0:00:52.85,0:00:54.39,Dial-JP,,0,0,0,,これじゃ埒があかない
+Dialogue: 0,0:00:56.83,0:00:57.91,Dial-JP,,0,0,0,,みずなちゃん
+Dialogue: 0,0:01:01.04,0:01:04.60,Dial-JP,,0,0,0,,マジックハンマー…
+Dialogue: 0,0:01:04.96,0:01:08.51,Dial-JP,,0,0,0,,インパクト
+Dialogue: 0,0:01:19.39,0:01:20.53,Dial-JP,,0,0,0,,みずなちゃん
+Dialogue: 0,0:01:21.30,0:01:23.19,Dial-JP,,0,0,0,,一つだけ　お願いが
+Dialogue: 0,0:01:23.76,0:01:26.13,Dial-JP,,0,0,0,,宿題は自分でやるものよ
+Dialogue: 0,0:01:27.28,0:01:29.66,Dial-JP,,0,0,0,,お願いします　みずな様
+Dialogue: 0,0:01:29.66,0:01:30.45,Dial-JP,,0,0,0,,ダーメ
+Dialogue: 0,0:01:31.25,0:01:32.37,Dial-JP,,0,0,0,,何　ちょっと
+Dialogue: 0,0:01:33.88,0:01:35.58,Dial-JP,,0,0,0,,ふうか　どうしたの
+Dialogue: 0,0:01:47.14,0:01:49.15,Dial-JP,,0,0,0,,なんか変わっちゃいました
+Dialogue: 0,0:01:52.56,0:01:54.93,Dial-JP,,0,0,0,,弱らせるまでは好きにしていいわ
+Dialogue: 0,0:01:55.45,0:01:57.25,Dial-JP,,0,0,0,,けど　止めとったら
+Dialogue: 0,0:01:59.29,0:02:01.63,Dial-JP,,0,0,0,,あんた　壊すよ
+Dialogue: 0,0:02:04.65,0:02:05.65,Dial-JP,,0,0,0,,飛び散れ
+Dialogue: 0,0:02:07.61,0:02:09.69,Dial-JP,,0,0,0,,あっちへ逃げてください
+Dialogue: 0,0:02:12.16,0:02:13.24,Dial-JP,,0,0,0,,刺され
+Dialogue: 0,0:02:22.85,0:02:23.75,Dial-JP,,0,0,0,,ことりちゃん
+Dialogue: 0,0:02:26.11,0:02:27.25,Dial-JP,,0,0,0,,あたしはね
+Dialogue: 0,0:02:27.87,0:02:30.51,Dial-JP,,0,0,0,,毎日家に帰ってご飯を食べる
+Dialogue: 0,0:02:31.06,0:02:33.28,Dial-JP,,0,0,0,,それだけのために稼がなきゃいけないの
+Dialogue: 0,0:02:33.97,0:02:34.53,Dial-JP,,0,0,0,,わかる？
+Dialogue: 0,0:02:35.79,0:02:36.99,Dial-JP,,0,0,0,,お仕事だもん
+Dialogue: 0,0:02:37.19,0:02:39.94,Dial-JP,,0,0,0,,簡単なことや　優しいことばっかりじゃない
+Dialogue: 0,0:02:40.25,0:02:41.52,Dial-JP,,0,0,0,,でも　だから
+Dialogue: 0,0:02:41.90,0:02:43.60,Dial-JP,,0,0,0,,成功させたいんだ
+Dialogue: 0,0:02:43.83,0:02:46.88,Dial-JP,,0,0,0,,描け　マジックワークス
+Dialogue: 0,0:02:57.34,0:03:00.54,Dial-JP,,0,0,0,,それが　あたしたちの仕事でしょ
+Dialogue: 0,0:03:05.90,0:03:07.09,Dial-JP,,0,0,0,,変わらないよ
+Dialogue: 0,0:03:07.96,0:03:10.04,Dial-JP,,0,0,0,,魔法少女はいつだって
+Dialogue: 0,0:03:10.87,0:03:12.23,Dial-JP,,0,0,0,,夢と希望で
+Dialogue: 0,0:03:13.43,0:03:14.95,Dial-JP,,0,0,0,,明日へ向かうの
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Chinese
+Dialogue: 1,0:00:07.58,0:00:09.36,Dial-CH,,0,0,0,,魔法不需要力量
+Dialogue: 1,0:00:10.63,0:00:13.08,Dial-CH,,0,0,0,,也不需要才能和血统
+Dialogue: 1,0:00:14.30,0:00:15.36,Dial-CH,,0,0,0,,重要的是
+Dialogue: 1,0:00:15.73,0:00:17.80,Dial-CH,,0,0,0,,你想不想当
+Dialogue: 1,0:00:22.81,0:00:26.34,Dial-CH,,0,0,0,,Open the gate
+Dialogue: 1,0:00:28.49,0:00:30.26,Dial-CH,,0,0,0,,通往梦的魔法
+Dialogue: 1,0:00:30.42,0:00:33.67,Dial-CH,,0,0,0,,描绘吧 Magic Works
+Dialogue: 1,0:00:52.85,0:00:54.39,Dial-CH,,0,0,0,,没完没了了
+Dialogue: 1,0:00:56.83,0:00:57.91,Dial-CH,,0,0,0,,瑞奈
+Dialogue: 1,0:01:01.04,0:01:04.60,Dial-CH,,0,0,0,,魔法之锤…
+Dialogue: 1,0:01:04.96,0:01:08.51,Dial-CH,,0,0,0,,冲击波
+Dialogue: 1,0:01:19.39,0:01:20.53,Dial-CH,,0,0,0,,瑞奈
+Dialogue: 1,0:01:21.30,0:01:23.19,Dial-CH,,0,0,0,,就一件事 求求你了
+Dialogue: 1,0:01:23.76,0:01:26.13,Dial-CH,,0,0,0,,自己的作业自己做
+Dialogue: 1,0:01:27.28,0:01:29.66,Dial-CH,,0,0,0,,求求了 瑞奈大人
+Dialogue: 1,0:01:29.66,0:01:30.45,Dial-CH,,0,0,0,,不行
+Dialogue: 1,0:01:31.25,0:01:32.37,Dial-CH,,0,0,0,,什么情况
+Dialogue: 1,0:01:33.88,0:01:35.58,Dial-CH,,0,0,0,,风香 怎么了
+Dialogue: 1,0:01:47.14,0:01:49.15,Dial-CH,,0,0,0,,好像变身了
+Dialogue: 1,0:01:52.56,0:01:54.93,Dial-CH,,0,0,0,,你可以尽情地消耗它们的血量
+Dialogue: 1,0:01:55.45,0:01:57.25,Dial-CH,,0,0,0,,但是 你要敢K我的头
+Dialogue: 1,0:01:59.29,0:02:01.63,Dial-CH,,0,0,0,,我就弄死你
+Dialogue: 1,0:02:04.65,0:02:05.65,Dial-CH,,0,0,0,,打飞你们
+Dialogue: 1,0:02:07.61,0:02:09.69,Dial-CH,,0,0,0,,请往那边跑
+Dialogue: 1,0:02:12.16,0:02:13.24,Dial-CH,,0,0,0,,刺穿你们
+Dialogue: 1,0:02:22.85,0:02:23.75,Dial-CH,,0,0,0,,小鸟
+Dialogue: 1,0:02:26.11,0:02:27.25,Dial-CH,,0,0,0,,我啊
+Dialogue: 1,0:02:27.87,0:02:30.51,Dial-CH,,0,0,0,,只是想要每天回家吃饭
+Dialogue: 1,0:02:31.06,0:02:33.28,Dial-CH,,0,0,0,,都必须要拼命赚钱
+Dialogue: 1,0:02:33.97,0:02:34.53,Dial-CH,,0,0,0,,懂？
+Dialogue: 1,0:02:35.79,0:02:36.99,Dial-CH,,0,0,0,,毕竟是工作
+Dialogue: 1,0:02:37.19,0:02:39.94,Dial-CH,,0,0,0,,肯定会有艰难险阻
+Dialogue: 1,0:02:40.25,0:02:41.52,Dial-CH,,0,0,0,,但正因如此
+Dialogue: 1,0:02:41.90,0:02:43.60,Dial-CH,,0,0,0,,才想取得成功
+Dialogue: 1,0:02:43.83,0:02:46.88,Dial-CH,,0,0,0,,描绘吧 Magic Works
+Dialogue: 1,0:02:57.34,0:03:00.54,Dial-CH,,0,0,0,,这就是我们的工作吧
+Dialogue: 1,0:03:05.90,0:03:07.09,Dial-CH,,0,0,0,,不会变的
+Dialogue: 1,0:03:07.96,0:03:10.04,Dial-CH,,0,0,0,,魔法少女总是
+Dialogue: 1,0:03:10.87,0:03:12.23,Dial-CH,,0,0,0,,带着梦和希望
+Dialogue: 1,0:03:13.43,0:03:14.95,Dial-CH,,0,0,0,,向着明天前行
+Dialogue: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,

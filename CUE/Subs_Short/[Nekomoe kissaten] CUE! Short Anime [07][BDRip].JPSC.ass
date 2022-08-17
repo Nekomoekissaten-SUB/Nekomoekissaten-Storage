@@ -1,0 +1,115 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] CUE! Short Anime [07][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,32,&H00FFFFFF,&H000000FF,&H00BE7E27,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Dial-CH,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,15,15,36,1
+Style: Dial-JP,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,5,1
+Style: Dial-CH2,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,38,1
+Style: Dial-JP2,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,5,1
+Style: OP-CH,HYQiHei 95S,60,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,15,15,2,1
+Style: OP-JP,FOT-RodinNTLG Pro EB,48,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,15,15,10,1
+Style: ED1-CH,FZZhengHei-R-GBK,30,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,9,16,16,45,1
+Style: ED1-JP,FOT-Budo Std L,38,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,9,20,15,5,1
+Style: Scr,FZDengXian-H-GBK,48,&H003F3635,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,36,1
+Style: Title,FZLanTingYuan-B-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00BE7E27,0,0,0,0,100,100,4,0,1,0,4,3,15,15,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Staff
+Dialogue: 0,0:03:08.88,0:03:16.80,Default,,0,0,0,,{\fad(300,0)\blur2}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Title
+Dialogue: 0,0:00:00.00,0:00:04.98,Default,,0,0,0,,{\fs90\shad0\bord0\c&H141924&\pos(640,130)}魔王国
+Dialogue: 0,0:00:00.00,0:00:04.98,Default,,0,0,0,,{\fs45\shad0\bord0\c&H141924&\pos(640,210)}-魔王，富民强国-
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Japanese
+Dialogue: 0,0:00:13.05,0:00:14.66,Dial-JP,,0,0,0,,この荒れ様
+Dialogue: 0,0:00:15.34,0:00:17.73,Dial-JP,,0,0,0,,耳にした噂は本当だった
+Dialogue: 0,0:00:19.14,0:00:20.30,Dial-JP,,0,0,0,,魔王め
+Dialogue: 0,0:00:24.42,0:00:27.05,Dial-JP,,0,0,0,,姉上　ただいま戻って参りました
+Dialogue: 0,0:00:27.48,0:00:28.37,Dial-JP,,0,0,0,,勇者
+Dialogue: 0,0:00:29.61,0:00:30.77,Dial-JP,,0,0,0,,お帰りなさい
+Dialogue: 0,0:00:31.47,0:00:36.73,Dial-JP,,0,0,0,,魔王のせいで土地は荒れ　民が苦しんでいると聞き及びました
+Dialogue: 0,0:00:36.73,0:00:37.76,Dial-JP,,0,0,0,,それは…
+Dialogue: 0,0:00:39.66,0:00:41.97,Dial-JP,,0,0,0,,真実の全てではありません
+Dialogue: 0,0:00:42.25,0:00:45.06,Dial-JP,,0,0,0,,さあ　今こそ力を見せろ
+Dialogue: 0,0:00:45.71,0:00:49.32,Dial-JP,,0,0,0,,我が腕から生まれし　荒ぶるマシンよ
+Dialogue: 0,0:00:56.87,0:00:59.79,Dial-JP,,0,0,0,,さっすが私だ　天才だ
+Dialogue: 0,0:01:00.54,0:01:03.57,Dial-JP,,0,0,0,,これさえあれば　きっと世界を…
+Dialogue: 0,0:01:06.23,0:01:07.90,Dial-JP,,0,0,0,,またなんかやってるし
+Dialogue: 0,0:01:08.95,0:01:11.62,Dial-JP,,0,0,0,,厄介なことにならないといいけど
+Dialogue: 0,0:01:19.83,0:01:21.31,Dial-JP,,0,0,0,,なんてことを…
+Dialogue: 0,0:01:21.31,0:01:23.26,Dial-JP,,0,0,0,,諸悪の根源め
+Dialogue: 0,0:01:23.26,0:01:24.08,Dial-JP,,0,0,0,,ここでお前を…
+Dialogue: 0,0:01:24.08,0:01:25.11,Dial-JP,,0,0,0,,待って　勇者
+Dialogue: 0,0:01:25.84,0:01:27.49,Dial-JP,,0,0,0,,違うの　誤解なの
+Dialogue: 0,0:01:28.17,0:01:30.75,Dial-JP,,0,0,0,,魔王ちゃんは　何も悪くないの
+Dialogue: 0,0:01:32.12,0:01:36.33,Dial-JP,,0,0,0,,浄化したクリスタルは　毒水を真水に変えるのだ
+Dialogue: 0,0:01:36.59,0:01:37.72,Dial-JP,,0,0,0,,しかと見よ
+Dialogue: 0,0:01:41.17,0:01:43.14,Dial-JP,,0,0,0,,ほら　この通り
+Dialogue: 0,0:01:44.27,0:01:47.47,Dial-JP,,0,0,0,,まやかしなどではないことを証明してみせよう
+Dialogue: 0,0:01:50.36,0:01:54.57,Dial-JP,,0,0,0,,知らずとはいえ　私はなんということを
+Dialogue: 0,0:01:55.32,0:01:58.13,Dial-JP,,0,0,0,,あれで今の生活が変わるのかな
+Dialogue: 0,0:02:06.52,0:02:08.19,Dial-JP,,0,0,0,,マジか
+Dialogue: 0,0:02:09.26,0:02:11.12,Dial-JP,,0,0,0,,こいつは大物だ
+Dialogue: 0,0:02:11.12,0:02:12.96,Dial-JP,,0,0,0,,ワクワクしちゃうね
+Dialogue: 0,0:02:13.70,0:02:16.28,Dial-JP,,0,0,0,,皆さん　城へ逃げてください
+Dialogue: 0,0:02:16.65,0:02:17.48,Dial-JP,,0,0,0,,くそ
+Dialogue: 0,0:02:17.87,0:02:18.52,Dial-JP,,0,0,0,,勇者
+Dialogue: 0,0:02:20.30,0:02:22.45,Dial-JP,,0,0,0,,借りを返してもらうぞ
+Dialogue: 0,0:02:24.16,0:02:25.71,Dial-JP,,0,0,0,,望むところだ
+Dialogue: 0,0:02:27.13,0:02:29.09,Dial-JP,,0,0,0,,あなたたちならきっとできるわ
+Dialogue: 0,0:02:29.37,0:02:31.84,Dial-JP,,0,0,0,,私の足を引っ張るなよ　勇者
+Dialogue: 0,0:02:32.29,0:02:34.69,Dial-JP,,0,0,0,,魔王　一撃で決めるぞ
+Dialogue: 0,0:02:59.32,0:03:03.14,Dial-JP,,0,0,0,,あれから村は　以前にもまして豊かになりました
+Dialogue: 0,0:03:04.81,0:03:07.79,Dial-JP,,0,0,0,,魔王　国を成す　か
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Chinese
+Dialogue: 1,0:00:13.05,0:00:14.66,Dial-CH,,0,0,0,,这惨状
+Dialogue: 1,0:00:15.34,0:00:17.73,Dial-CH,,0,0,0,,原来传闻是真的
+Dialogue: 1,0:00:19.14,0:00:20.30,Dial-CH,,0,0,0,,可恶的魔王
+Dialogue: 1,0:00:24.42,0:00:27.05,Dial-CH,,0,0,0,,姐姐 我回来了
+Dialogue: 1,0:00:27.48,0:00:28.37,Dial-CH,,0,0,0,,勇者
+Dialogue: 1,0:00:29.61,0:00:30.77,Dial-CH,,0,0,0,,欢迎回来
+Dialogue: 1,0:00:31.47,0:00:36.73,Dial-CH,,0,0,0,,我听说魔王搞得环境恶劣 百姓民不聊生
+Dialogue: 1,0:00:36.73,0:00:37.76,Dial-CH,,0,0,0,,你说的…
+Dialogue: 1,0:00:39.66,0:00:41.97,Dial-CH,,0,0,0,,并不是全部真相
+Dialogue: 1,0:00:42.25,0:00:45.06,Dial-CH,,0,0,0,,展现你的实力吧
+Dialogue: 1,0:00:45.71,0:00:49.32,Dial-CH,,0,0,0,,我亲手制作的残暴机器
+Dialogue: 1,0:00:56.87,0:00:59.79,Dial-CH,,0,0,0,,我真是个天才
+Dialogue: 1,0:01:00.54,0:01:03.57,Dial-CH,,0,0,0,,有了这个 一定能将这个世界…
+Dialogue: 1,0:01:06.23,0:01:07.90,Dial-CH,,0,0,0,,又在搞什么
+Dialogue: 1,0:01:08.95,0:01:11.62,Dial-CH,,0,0,0,,希望别惹出什么麻烦事
+Dialogue: 1,0:01:19.83,0:01:21.31,Dial-CH,,0,0,0,,你居然…
+Dialogue: 1,0:01:21.31,0:01:23.26,Dial-CH,,0,0,0,,万恶之源
+Dialogue: 1,0:01:23.26,0:01:24.08,Dial-CH,,0,0,0,,今天就是你的死期…
+Dialogue: 1,0:01:24.08,0:01:25.11,Dial-CH,,0,0,0,,慢着 勇者
+Dialogue: 1,0:01:25.84,0:01:27.49,Dial-CH,,0,0,0,,听我说 这都是场误会
+Dialogue: 1,0:01:28.17,0:01:30.75,Dial-CH,,0,0,0,,魔王酱不是坏人
+Dialogue: 1,0:01:32.12,0:01:36.33,Dial-CH,,0,0,0,,水晶经过提纯之后 可以化毒液为净水
+Dialogue: 1,0:01:36.59,0:01:37.72,Dial-CH,,0,0,0,,看好咯
+Dialogue: 1,0:01:41.17,0:01:43.14,Dial-CH,,0,0,0,,对吧
+Dialogue: 1,0:01:44.27,0:01:47.47,Dial-CH,,0,0,0,,我来证明一下 这并不是什么戏法
+Dialogue: 1,0:01:50.36,0:01:54.57,Dial-CH,,0,0,0,,虽然不知情 但我也太莽撞了
+Dialogue: 1,0:01:55.32,0:01:58.13,Dial-CH,,0,0,0,,靠那玩意真能改变生活吗
+Dialogue: 1,0:02:06.52,0:02:08.19,Dial-CH,,0,0,0,,天哪
+Dialogue: 1,0:02:09.26,0:02:11.12,Dial-CH,,0,0,0,,大家伙登场了啊
+Dialogue: 1,0:02:11.12,0:02:12.96,Dial-CH,,0,0,0,,燃起来了
+Dialogue: 1,0:02:13.70,0:02:16.28,Dial-CH,,0,0,0,,大家快逃到城堡里
+Dialogue: 1,0:02:16.65,0:02:17.48,Dial-CH,,0,0,0,,可恶
+Dialogue: 1,0:02:17.87,0:02:18.52,Dial-CH,,0,0,0,,勇者
+Dialogue: 1,0:02:20.30,0:02:22.45,Dial-CH,,0,0,0,,将功补过的机会来了
+Dialogue: 1,0:02:24.16,0:02:25.71,Dial-CH,,0,0,0,,求之不得
+Dialogue: 1,0:02:27.13,0:02:29.09,Dial-CH,,0,0,0,,你们合力 定能胜利
+Dialogue: 1,0:02:29.37,0:02:31.84,Dial-CH,,0,0,0,,可别拖我后腿 勇者
+Dialogue: 1,0:02:32.29,0:02:34.69,Dial-CH,,0,0,0,,魔王 一招定胜负吧
+Dialogue: 1,0:02:59.32,0:03:03.14,Dial-CH,,0,0,0,,在那之后 村子比以前更加富裕了
+Dialogue: 1,0:03:04.81,0:03:07.79,Dial-CH,,0,0,0,,魔王富国 是吗
+Dialogue: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,

@@ -1,8 +1,10 @@
 # CUE!
 
-## TV 正片
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/CUE_BD_JPCH.7z)
 
-[01-24 简繁日双语 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/CUE_Web_JPCH.7z)
+内含 TV 正片 01-24 集，BD 特典短篇动画 01-12 集
+
+## TV 正片
 
 使用字体：
 ```
@@ -23,3 +25,16 @@ FOT-ロダンNTLG Pro EB <FOT-RodinNTLG Pro EB>
 ```
 
 ## BD 特典短篇动画
+
+BD 每卷附赠的特典短篇动画，由剧中主角配音。其中 EP.12 有两个配音版本，但台词和除 Credit 表外的画面相同。
+
+使用字体：
+```
+FOT-スーラ ProN B <FOT-Seurat ProN B>
+方正粗等线_GBK <FZDengXian-H-GBK>
+方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+汉仪旗黑 75S <HYQiHei 75S>
+汉仪旗黑 95S <HYQiHei 95S>
+汉仪玄宋 65S <HYXuanSong 65S>
+```

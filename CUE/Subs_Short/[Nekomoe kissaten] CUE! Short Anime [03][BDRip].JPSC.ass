@@ -1,0 +1,95 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] CUE! Short Anime [03][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,32,&H00FFFFFF,&H000000FF,&H00BE7E27,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Dial-CH,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,15,15,36,1
+Style: Dial-JP,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,5,1
+Style: Dial-CH2,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,38,1
+Style: Dial-JP2,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,5,1
+Style: OP-CH,HYQiHei 95S,60,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,15,15,2,1
+Style: OP-JP,FOT-RodinNTLG Pro EB,48,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,15,15,10,1
+Style: ED1-CH,FZZhengHei-R-GBK,30,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,9,16,16,45,1
+Style: ED1-JP,FOT-Budo Std L,38,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,9,20,15,5,1
+Style: Scr,FZDengXian-H-GBK,48,&H003F3635,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,36,1
+Style: Title,FZLanTingYuan-B-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00BE7E27,0,0,0,0,100,100,4,0,1,0,4,3,15,15,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Staff
+Dialogue: 0,0:02:46.75,0:02:50.58,Default,,0,0,0,,{\fad(300,300)\blur2}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Title
+Dialogue: 0,0:00:00.00,0:00:04.98,Title,,0,0,0,,{\fnHYXuanSong 65S\fad(0,0)\an7\shad0\c&H1A2448&\pos(536,146.333)}大家好，\N吃饭吧。
+Dialogue: 1,0:00:00.00,0:00:04.98,Title,,0,0,0,,{\fnHYXuanSong 65S\fad(0,0)\an7\shad0\c&H060098&\pos(536,146.333)\clip(m 610 147 l 612 190 570 189 572 151 629 147 652 145 648 199 631 191 631 174 629 169 632 161 626 156 628 153 613 153 612 174 614 188 616 198 632 204 635 207 635 210 633 216 633 222 630 230 621 237 614 235 609 240 531 239 530 204 569 198 574 214 573 235 607 237 611 225)}大家好，\N吃饭吧。
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Japanese
+Dialogue: 0,0:00:06.53,0:00:09.14,Dial-JP,,0,0,0,,私はホールの環境課に属する公務員
+Dialogue: 0,0:00:09.51,0:00:13.49,Dial-JP,,0,0,0,,仕事は主にホール外の監視・巡回　変化を調査
+Dialogue: 0,0:00:13.86,0:00:19.58,Dial-JP,,0,0,0,,そしてこれは私がホールの外で出会った　奇妙な三姉妹の調査報告書である
+Dialogue: 0,0:00:34.04,0:00:37.87,Dial-JP,,0,0,0,,よかったら　晩ご飯　一緒にいかがです
+Dialogue: 0,0:00:40.68,0:00:42.40,Dial-JP,,0,0,0,,姉貴　お帰り
+Dialogue: 0,0:00:48.17,0:00:49.45,Dial-JP,,0,0,0,,いただきます
+Dialogue: 0,0:00:49.89,0:00:52.09,Dial-JP,,0,0,0,,いっしょ　いただきます
+Dialogue: 0,0:00:54.66,0:00:56.12,Dial-JP,,0,0,0,,私は管理員だ
+Dialogue: 0,0:00:56.74,0:00:59.62,Dial-JP,,0,0,0,,お前たちをホールへ連れて行く義務がある
+Dialogue: 0,0:01:00.71,0:01:02.59,Dial-JP,,0,0,0,,どんなに荒れた大地でも
+Dialogue: 0,0:01:02.59,0:01:04.63,Dial-JP,,0,0,0,,どんなに枯れた水辺でも
+Dialogue: 0,0:01:05.26,0:01:08.28,Dial-JP,,0,0,0,,ここが私たちの世界ですから
+Dialogue: 0,0:01:14.31,0:01:15.61,Dial-JP,,0,0,0,,あると　ダメ
+Dialogue: 0,0:01:19.02,0:01:21.97,Dial-JP,,0,0,0,,雨が…　雨が上がったらね
+Dialogue: 0,0:01:28.48,0:01:29.55,Dial-JP,,0,0,0,,あると
+Dialogue: 0,0:01:29.83,0:01:30.72,Dial-JP,,0,0,0,,どこ
+Dialogue: 0,0:01:33.55,0:01:34.13,Dial-JP,,0,0,0,,伏せろ
+Dialogue: 0,0:01:34.41,0:01:35.82,Dial-JP,,0,0,0,,そのまま　動くな
+Dialogue: 0,0:01:43.68,0:01:44.51,Dial-JP,,0,0,0,,仕掛けます
+Dialogue: 0,0:01:44.51,0:01:45.50,Dial-JP,,0,0,0,,先にあるとを
+Dialogue: 0,0:01:45.50,0:01:46.50,Dial-JP,,0,0,0,,あると
+Dialogue: 0,0:01:52.87,0:01:55.26,Dial-JP,,0,0,0,,食べられる草　採ってきた
+Dialogue: 0,0:01:56.15,0:01:58.47,Dial-JP,,0,0,0,,私が…　私のせい
+Dialogue: 0,0:01:58.84,0:02:01.23,Dial-JP,,0,0,0,,目を離しちゃダメだったのに
+Dialogue: 0,0:02:15.79,0:02:18.99,Dial-JP,,0,0,0,,いっぱい食べて元気になったら　家に行こう
+Dialogue: 0,0:02:20.32,0:02:20.91,Dial-JP,,0,0,0,,家
+Dialogue: 0,0:02:21.70,0:02:24.05,Dial-JP,,0,0,0,,あるとたち　里帰り
+Dialogue: 0,0:02:36.86,0:02:39.01,Dial-JP,,0,0,0,,以上が今回の報告書であるが
+Dialogue: 0,0:02:39.33,0:02:42.47,Dial-JP,,0,0,0,,私はこれらを管理局に提出することはなかった
+Dialogue: 0,0:02:50.58,0:02:51.57,Dial-JP,,0,0,0,,こんにちは
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Chinese
+Dialogue: 1,0:00:06.53,0:00:09.14,Dial-CH,,0,0,0,,我是隶属于洞穴环境课的公务员
+Dialogue: 1,0:00:09.51,0:00:13.49,Dial-CH,,0,0,0,,基本工作内容是巡视洞穴外围 调查发生的变化
+Dialogue: 1,0:00:13.86,0:00:19.58,Dial-CH,,0,0,0,,我在洞穴外遇到了奇妙的三姐妹 这是关于她们的报告
+Dialogue: 1,0:00:34.04,0:00:37.87,Dial-CH,,0,0,0,,要不要一起吃个晚饭
+Dialogue: 1,0:00:40.68,0:00:42.40,Dial-CH,,0,0,0,,大姐 你回来了
+Dialogue: 1,0:00:48.17,0:00:49.45,Dial-CH,,0,0,0,,吃吧
+Dialogue: 1,0:00:49.89,0:00:52.09,Dial-CH,,0,0,0,,一起 吃饭
+Dialogue: 1,0:00:54.66,0:00:56.12,Dial-CH,,0,0,0,,我是管理员
+Dialogue: 1,0:00:56.74,0:00:59.62,Dial-CH,,0,0,0,,我的职责是把你们带进洞穴
+Dialogue: 1,0:01:00.71,0:01:02.59,Dial-CH,,0,0,0,,不管大地多么荒芜
+Dialogue: 1,0:01:02.59,0:01:04.63,Dial-CH,,0,0,0,,不管河道多么干涸
+Dialogue: 1,0:01:05.26,0:01:08.28,Dial-CH,,0,0,0,,这里也是我们的世界啊
+Dialogue: 1,0:01:14.31,0:01:15.61,Dial-CH,,0,0,0,,阿鲁托 不行
+Dialogue: 1,0:01:19.02,0:01:21.97,Dial-CH,,0,0,0,,等雨停了…
+Dialogue: 1,0:01:28.48,0:01:29.55,Dial-CH,,0,0,0,,阿鲁托
+Dialogue: 1,0:01:29.83,0:01:30.72,Dial-CH,,0,0,0,,你在哪啊
+Dialogue: 1,0:01:33.55,0:01:34.13,Dial-CH,,0,0,0,,趴下
+Dialogue: 1,0:01:34.41,0:01:35.82,Dial-CH,,0,0,0,,待那别动
+Dialogue: 1,0:01:43.68,0:01:44.51,Dial-CH,,0,0,0,,我要发射了
+Dialogue: 1,0:01:44.51,0:01:45.50,Dial-CH,,0,0,0,,先救走阿鲁托
+Dialogue: 1,0:01:45.50,0:01:46.50,Dial-CH,,0,0,0,,阿鲁托
+Dialogue: 1,0:01:52.87,0:01:55.26,Dial-CH,,0,0,0,,我摘了些能吃的草
+Dialogue: 1,0:01:56.15,0:01:58.47,Dial-CH,,0,0,0,,是我… 都怪我
+Dialogue: 1,0:01:58.84,0:02:01.23,Dial-CH,,0,0,0,,怪我没照看好你
+Dialogue: 1,0:02:15.79,0:02:18.99,Dial-CH,,0,0,0,,多吃点 伤好了就去家里吧
+Dialogue: 1,0:02:20.32,0:02:20.91,Dial-CH,,0,0,0,,家
+Dialogue: 1,0:02:21.70,0:02:24.05,Dial-CH,,0,0,0,,大家一起回老家
+Dialogue: 1,0:02:36.86,0:02:39.01,Dial-CH,,0,0,0,,以上就是报告的所有内容
+Dialogue: 1,0:02:39.33,0:02:42.47,Dial-CH,,0,0,0,,我并没有上报给管理局
+Dialogue: 1,0:02:50.58,0:02:51.57,Dial-CH,,0,0,0,,大家好
+Dialogue: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,

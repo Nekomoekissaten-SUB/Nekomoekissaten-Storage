@@ -1,0 +1,122 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] CUE! Short Anime [08][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,32,&H00FFFFFF,&H000000FF,&H00BE7E27,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Dial-CH,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,15,15,36,1
+Style: Dial-JP,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,5,1
+Style: Dial-CH2,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,38,1
+Style: Dial-JP2,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,5,1
+Style: OP-CH,HYQiHei 95S,60,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,15,15,2,1
+Style: OP-JP,FOT-RodinNTLG Pro EB,48,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,15,15,10,1
+Style: ED1-CH,FZZhengHei-R-GBK,30,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,9,16,16,45,1
+Style: ED1-JP,FOT-Budo Std L,38,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,9,20,15,5,1
+Style: Scr,FZDengXian-H-GBK,48,&H003F3635,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,36,1
+Style: Title,FZLanTingYuan-B-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00BE7E27,0,0,0,0,100,100,4,0,1,0,4,3,15,15,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Staff
+Dialogue: 0,0:04:00.16,0:04:04.52,Default,,0,0,0,,{\fad(300,0)\blur2}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Title
+Comment: 0,0:00:00.00,0:00:04.98,Default,,0,0,0,,{\fs90\shad0\bord0\c&H141924&\pos(640,130)}OL
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Japanese
+Dialogue: 0,0:00:24.81,0:00:27.36,Dial-JP,,0,0,0,,はい　こちら異能対策室
+Dialogue: 0,0:00:28.73,0:00:30.19,Dial-JP,,0,0,0,,ええ　了解です
+Dialogue: 0,0:00:30.19,0:00:31.16,Dial-JP,,0,0,0,,はい
+Dialogue: 0,0:00:32.46,0:00:33.90,Dial-JP,,0,0,0,,仕事だってさ
+Dialogue: 0,0:00:34.06,0:00:36.57,Dial-JP,,0,0,0,,来たー
+Dialogue: 0,0:00:53.44,0:00:55.51,Dial-JP,,0,0,0,,サクラ　もうちょい合わせて
+Dialogue: 0,0:00:55.51,0:00:56.83,Dial-JP,,0,0,0,,当てらんない
+Dialogue: 0,0:00:58.03,0:01:00.38,Dial-JP,,0,0,0,,異能者は第3区方面に移動
+Dialogue: 0,0:01:00.38,0:01:02.56,Dial-JP,,0,0,0,,2人ともぐずぐずしないで
+Dialogue: 0,0:01:02.88,0:01:03.94,Dial-JP,,0,0,0,,オッケー　エマ
+Dialogue: 0,0:01:04.15,0:01:06.84,Dial-JP,,0,0,0,,ルーシー　捕まってて
+Dialogue: 0,0:01:06.84,0:01:11.38,Dial-JP,,0,0,0,,ちょっと　サクラー
+Dialogue: 0,0:01:13.47,0:01:15.55,Dial-JP,,0,0,0,,なるほど　いただき
+Dialogue: 0,0:01:24.97,0:01:27.99,Dial-JP,,0,0,0,,この世界は彩りが足りないんだ
+Dialogue: 0,0:01:29.06,0:01:31.49,Dial-JP,,0,0,0,,もっと美しくしないと
+Dialogue: 0,0:01:34.22,0:01:36.56,Dial-JP,,0,0,0,,可憐に花を咲かせましょう
+Dialogue: 0,0:01:36.56,0:01:39.93,Dial-JP,,0,0,0,,人類が次なるステージへ開花できるのに
+Dialogue: 0,0:01:40.38,0:01:43.33,Dial-JP,,0,0,0,,どうして君たちは分かってくれないんだい
+Dialogue: 0,0:01:44.08,0:01:45.62,Dial-JP,,0,0,0,,その人たちを放せ
+Dialogue: 0,0:01:45.62,0:01:48.01,Dial-JP,,0,0,0,,でないと　今ここで撃っちゃうよ
+Dialogue: 0,0:01:48.01,0:01:50.88,Dial-JP,,0,0,0,,あなたのしていることは　絶対間違ってる
+Dialogue: 0,0:01:52.05,0:01:55.24,Dial-JP,,0,0,0,,やはりどこまで行っても分かり合えないものだね
+Dialogue: 0,0:01:55.68,0:01:57.64,Dial-JP,,0,0,0,,時が来たらまた会おう
+Dialogue: 0,0:02:01.05,0:02:03.06,Dial-JP,,0,0,0,,カレン
+Dialogue: 0,0:02:11.23,0:02:12.31,Dial-JP,,0,0,0,,除能弾を
+Dialogue: 0,0:02:13.26,0:02:14.52,Dial-JP,,0,0,0,,サクラ　ルーシー
+Dialogue: 0,0:02:14.81,0:02:17.21,Dial-JP,,0,0,0,,巨大な異能反応が近づいてる
+Dialogue: 0,0:02:17.21,0:02:18.59,Dial-JP,,0,0,0,,恐らくカレンよ
+Dialogue: 0,0:02:27.66,0:02:29.74,Dial-JP,,0,0,0,,ゲームオーバーだよ　カレン
+Dialogue: 0,0:02:29.74,0:02:31.09,Dial-JP,,0,0,0,,大人しくしな
+Dialogue: 0,0:02:31.67,0:02:34.20,Dial-JP,,0,0,0,,一緒に共生する道があるはずだよ
+Dialogue: 0,0:02:34.20,0:02:35.02,Dial-JP,,0,0,0,,だから…
+Dialogue: 0,0:02:36.49,0:02:40.79,Dial-JP,,0,0,0,,君たちに本当の異能力というものを見せてあげるよ
+Dialogue: 0,0:02:59.03,0:03:00.46,Dial-JP,,0,0,0,,もう　ない
+Dialogue: 0,0:03:03.96,0:03:05.99,Dial-JP,,0,0,0,,おせえよ　エマ
+Dialogue: 0,0:03:08.29,0:03:10.46,Dial-JP,,0,0,0,,2人とも　援護するわ
+Dialogue: 0,0:03:10.72,0:03:12.05,Dial-JP,,0,0,0,,これで片付けて
+Dialogue: 0,0:03:19.98,0:03:21.72,Dial-JP,,0,0,0,,サクラ　やっちまいな
+Dialogue: 0,0:03:26.36,0:03:28.48,Dial-JP,,0,0,0,,こんなところで終わるものか
+Dialogue: 0,0:03:28.48,0:03:31.89,Dial-JP,,0,0,0,,異能者が作り上げる真のユートピアのために…
+Dialogue: 0,0:03:32.79,0:03:35.35,Dial-JP,,0,0,0,,あなたが懲りてくれないと
+Dialogue: 0,0:03:37.07,0:03:39.31,Dial-JP,,0,0,0,,いつまで経っても
+Dialogue: 0,0:03:39.68,0:03:45.25,Dial-JP,,0,0,0,,定時に帰れないでしょうが
+Dialogue: 0,0:04:00.98,0:04:03.80,Dial-JP,,0,0,0,,はい　こちら異能対策室です
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Chinese
+Dialogue: 1,0:00:24.81,0:00:27.36,Dial-CH,,0,0,0,,您好 这里是异能对策室
+Dialogue: 1,0:00:28.73,0:00:30.19,Dial-CH,,0,0,0,,嗯 知道了
+Dialogue: 1,0:00:30.19,0:00:31.16,Dial-CH,,0,0,0,,好的
+Dialogue: 1,0:00:32.46,0:00:33.90,Dial-CH,,0,0,0,,来活了
+Dialogue: 1,0:00:34.06,0:00:36.57,Dial-CH,,0,0,0,,总算来了
+Dialogue: 1,0:00:53.44,0:00:55.51,Dial-CH,,0,0,0,,樱 配合一下
+Dialogue: 1,0:00:55.51,0:00:56.83,Dial-CH,,0,0,0,,打不中
+Dialogue: 1,0:00:58.03,0:01:00.38,Dial-CH,,0,0,0,,异能者往第3区跑了
+Dialogue: 1,0:01:00.38,0:01:02.56,Dial-CH,,0,0,0,,你们别磨蹭了
+Dialogue: 1,0:01:02.88,0:01:03.94,Dial-CH,,0,0,0,,好的 艾玛
+Dialogue: 1,0:01:04.15,0:01:06.84,Dial-CH,,0,0,0,,露西 抓好了
+Dialogue: 1,0:01:06.84,0:01:11.38,Dial-CH,,0,0,0,,悠着点 樱
+Dialogue: 1,0:01:13.47,0:01:15.55,Dial-CH,,0,0,0,,原来如此 拿下
+Dialogue: 1,0:01:24.97,0:01:27.99,Dial-CH,,0,0,0,,这个世界太单调了
+Dialogue: 1,0:01:29.06,0:01:31.49,Dial-CH,,0,0,0,,美化工作就交给我了
+Dialogue: 1,0:01:34.22,0:01:36.56,Dial-CH,,0,0,0,,绽放吧 可爱的花朵
+Dialogue: 1,0:01:36.56,0:01:39.93,Dial-CH,,0,0,0,,我这是在让人类进化
+Dialogue: 1,0:01:40.38,0:01:43.33,Dial-CH,,0,0,0,,为什么你们就是不理解
+Dialogue: 1,0:01:44.08,0:01:45.62,Dial-CH,,0,0,0,,放开他们
+Dialogue: 1,0:01:45.62,0:01:48.01,Dial-CH,,0,0,0,,否则我要开枪了
+Dialogue: 1,0:01:48.01,0:01:50.88,Dial-CH,,0,0,0,,你的所作所为 绝对是错的
+Dialogue: 1,0:01:52.05,0:01:55.24,Dial-CH,,0,0,0,,看来是无论如何也无法相互理解了
+Dialogue: 1,0:01:55.68,0:01:57.64,Dial-CH,,0,0,0,,后会有期
+Dialogue: 1,0:02:01.05,0:02:03.06,Dial-CH,,0,0,0,,花莲
+Dialogue: 1,0:02:11.23,0:02:12.31,Dial-CH,,0,0,0,,准备除能弹
+Dialogue: 1,0:02:13.26,0:02:14.52,Dial-CH,,0,0,0,,樱 露西
+Dialogue: 1,0:02:14.81,0:02:17.21,Dial-CH,,0,0,0,,周围有强烈的异能反应
+Dialogue: 1,0:02:17.21,0:02:18.59,Dial-CH,,0,0,0,,大概率是花莲
+Dialogue: 1,0:02:27.66,0:02:29.74,Dial-CH,,0,0,0,,游戏结束 花莲
+Dialogue: 1,0:02:29.74,0:02:31.09,Dial-CH,,0,0,0,,老实投降吧
+Dialogue: 1,0:02:31.67,0:02:34.20,Dial-CH,,0,0,0,,一定有能共存的办法
+Dialogue: 1,0:02:34.20,0:02:35.02,Dial-CH,,0,0,0,,所以…
+Dialogue: 1,0:02:36.49,0:02:40.79,Dial-CH,,0,0,0,,让你们见识下真正的异能力吧
+Dialogue: 1,0:02:59.03,0:03:00.46,Dial-CH,,0,0,0,,没子弹了
+Dialogue: 1,0:03:03.96,0:03:05.99,Dial-CH,,0,0,0,,太慢了 艾玛
+Dialogue: 1,0:03:08.29,0:03:10.46,Dial-CH,,0,0,0,,我来支援你们
+Dialogue: 1,0:03:10.72,0:03:12.05,Dial-CH,,0,0,0,,就这样搞定她
+Dialogue: 1,0:03:19.98,0:03:21.72,Dial-CH,,0,0,0,,樱 干掉她
+Dialogue: 1,0:03:26.36,0:03:28.48,Dial-CH,,0,0,0,,我还不能死
+Dialogue: 1,0:03:28.48,0:03:31.89,Dial-CH,,0,0,0,,异能者建立的真正乌托邦还没…
+Dialogue: 1,0:03:32.79,0:03:35.35,Dial-CH,,0,0,0,,你不悔改
+Dialogue: 1,0:03:37.07,0:03:39.31,Dial-CH,,0,0,0,,我就天天
+Dialogue: 1,0:03:39.68,0:03:45.25,Dial-CH,,0,0,0,,没法准点下班
+Dialogue: 1,0:04:00.98,0:04:03.80,Dial-CH,,0,0,0,,您好 这里是异能对策室
+Dialogue: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,

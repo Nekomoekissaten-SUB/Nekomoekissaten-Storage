@@ -1,0 +1,93 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] CUE! Short Anime [04][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,32,&H00FFFFFF,&H000000FF,&H00BE7E27,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Dial-CH,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,15,15,36,1
+Style: Dial-JP,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,5,1
+Style: Dial-CH2,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,38,1
+Style: Dial-JP2,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,5,1
+Style: OP-CH,HYQiHei 95S,60,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,15,15,2,1
+Style: OP-JP,FOT-RodinNTLG Pro EB,48,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,15,15,10,1
+Style: ED1-CH,FZZhengHei-R-GBK,30,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,9,16,16,45,1
+Style: ED1-JP,FOT-Budo Std L,38,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,9,20,15,5,1
+Style: Scr,FZDengXian-H-GBK,48,&H003F3635,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,36,1
+Style: Title,FZLanTingYuan-B-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00BE7E27,0,0,0,0,100,100,4,0,1,0,4,3,15,15,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Staff
+Dialogue: 0,0:03:10.38,0:03:13.42,Default,,0,0,0,,{\fad(300,0)\blur2}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Dialogue: 1,0:03:13.42,0:03:15.13,Default,,0,0,0,,{\fad(0,800)\blur2\clip(m 261 4 l 757 16 1061 102 1074 9 663 7 663 7 554 91 248 98)}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Dialogue: 0,0:03:13.42,0:03:15.13,Default,,0,0,0,,{\fad(0,800)\blur2\iclip(m 261 4 l 757 16 1061 102 1074 9 663 7 663 7 554 91 248 98)\pos(691.03,19.575)}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Title
+Dialogue: 1,0:00:00.00,0:00:04.98,Title,,0,0,0,,{\fnHYXuanSong 65S\fad(0,0)\an8\shad0\c&H0E0E0E&\pos(640,230)}黑{\c&HFFFFFF&}白{\c&H0E0E0E&}的桂妮薇儿
+Dialogue: 0,0:00:00.00,0:00:04.98,Title,,0,0,0,,{\fnHYXuanSong 65S\fs70\fad(0,0)\an8\shad0\c&H0E0E0E&\pos(561,219)}■
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Screen
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Japanese
+Dialogue: 0,0:00:07.42,0:00:09.99,Dial-JP,,0,0,0,,鏡に本当の自分が映るなんて
+Dialogue: 0,0:00:10.72,0:00:13.09,Dial-JP,,0,0,0,,そんなこと　あるわけないよ
+Dialogue: 0,0:00:49.47,0:00:51.74,Dial-JP,,0,0,0,,あら　やりすぎたかしら
+Dialogue: 0,0:00:55.35,0:00:56.80,Dial-JP,,0,0,0,,あんた誰なの
+Dialogue: 0,0:00:57.40,0:01:00.62,Dial-JP,,0,0,0,,ワタシはアナタ　アナタはワタシ
+Dialogue: 0,0:01:01.57,0:01:05.82,Dial-JP,,0,0,0,,境界に映る同士　そう　ワタシたちは
+Dialogue: 0,0:01:08.62,0:01:11.12,Dial-JP,,0,0,0,,すっごい　噂はほんとだったんだ
+Dialogue: 0,0:01:11.12,0:01:13.08,Dial-JP,,0,0,0,,或耶のミラーのグィネヴィアです
+Dialogue: 0,0:01:13.32,0:01:13.99,Dial-JP,,0,0,0,,よろしく
+Dialogue: 0,0:01:14.31,0:01:15.38,Dial-JP,,0,0,0,,こちらこそ
+Dialogue: 0,0:01:17.23,0:01:20.37,Dial-JP,,0,0,0,,かがみよかがみ　かがみさま
+Dialogue: 0,0:01:22.36,0:01:23.06,Dial-JP,,0,0,0,,芽瑠
+Dialogue: 0,0:01:25.15,0:01:25.85,Dial-JP,,0,0,0,,或耶
+Dialogue: 0,0:01:29.10,0:01:33.07,Dial-JP,,0,0,0,,関係ある2点を引き寄せ　繋げ
+Dialogue: 0,0:01:34.58,0:01:35.51,Dial-JP,,0,0,0,,結ぶ
+Dialogue: 0,0:01:41.38,0:01:42.13,Dial-JP,,0,0,0,,やった
+Dialogue: 0,0:01:56.55,0:01:59.49,Dial-JP,,0,0,0,,もともとあんたを狙って近づいたのよ
+Dialogue: 0,0:02:01.28,0:02:02.10,Dial-JP,,0,0,0,,どうして
+Dialogue: 0,0:02:03.71,0:02:05.62,Dial-JP,,0,0,0,,あたしは芽瑠のミラー
+Dialogue: 0,0:02:06.04,0:02:08.41,Dial-JP,,0,0,0,,でも　今はあたししかいない
+Dialogue: 0,0:02:08.79,0:02:10.78,Dial-JP,,0,0,0,,芽瑠を映して取り込んで
+Dialogue: 0,0:02:11.09,0:02:13.13,Dial-JP,,0,0,0,,あたしこそが本物の芽瑠
+Dialogue: 0,0:02:16.49,0:02:21.45,Dial-JP,,0,0,0,,そう　あんたが欲しくて　今までの日々を過ごしてきたのよ
+Dialogue: 0,0:02:21.76,0:02:24.34,Dial-JP,,0,0,0,,朝霧　或耶
+Dialogue: 0,0:02:30.68,0:02:34.20,Dial-JP,,0,0,0,,もとの芽瑠かどうだったかなんて　関係ない
+Dialogue: 0,0:02:35.03,0:02:40.67,Dial-JP,,0,0,0,,あたしは　或耶ちゃんが　好きだったよ
+Dialogue: 0,0:02:55.49,0:02:56.38,Dial-JP,,0,0,0,,こんにちは
+Dialogue: 0,0:03:01.31,0:03:04.04,Dial-JP,,0,0,0,,やっと気づいた　或耶
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Chinese
+Dialogue: 1,0:00:07.42,0:00:09.99,Dial-CH,,0,0,0,,镜子能照出真正的自己吗
+Dialogue: 1,0:00:10.72,0:00:13.09,Dial-CH,,0,0,0,,不可能的
+Dialogue: 1,0:00:49.47,0:00:51.74,Dial-CH,,0,0,0,,哎呀 用力过猛了吗
+Dialogue: 1,0:00:55.35,0:00:56.80,Dial-CH,,0,0,0,,你是谁
+Dialogue: 1,0:00:57.40,0:01:00.62,Dial-CH,,0,0,0,,我就是你 你就是我
+Dialogue: 1,0:01:01.57,0:01:05.82,Dial-CH,,0,0,0,,没错 我们就是界面映照出的彼此
+Dialogue: 1,0:01:08.62,0:01:11.12,Dial-CH,,0,0,0,,好厉害 传言居然是真的
+Dialogue: 1,0:01:11.12,0:01:13.08,Dial-CH,,0,0,0,,我是或耶的镜像 桂妮薇儿
+Dialogue: 1,0:01:13.32,0:01:13.99,Dial-CH,,0,0,0,,请多指教
+Dialogue: 1,0:01:14.31,0:01:15.38,Dial-CH,,0,0,0,,请多指教
+Dialogue: 1,0:01:17.23,0:01:20.37,Dial-CH,,0,0,0,,镜子啊镜子 镜神大人
+Dialogue: 1,0:01:22.36,0:01:23.06,Dial-CH,,0,0,0,,芽瑠
+Dialogue: 1,0:01:25.15,0:01:25.85,Dial-CH,,0,0,0,,或耶
+Dialogue: 1,0:01:29.10,0:01:33.07,Dial-CH,,0,0,0,,将相关的两点拉近 连接
+Dialogue: 1,0:01:34.58,0:01:35.51,Dial-CH,,0,0,0,,结合
+Dialogue: 1,0:01:41.38,0:01:42.13,Dial-CH,,0,0,0,,成功了
+Dialogue: 1,0:01:56.55,0:01:59.49,Dial-CH,,0,0,0,,我本来就是为了得到你 才接近你的
+Dialogue: 1,0:02:01.28,0:02:02.10,Dial-CH,,0,0,0,,为什么
+Dialogue: 1,0:02:03.71,0:02:05.62,Dial-CH,,0,0,0,,我是芽瑠的镜像
+Dialogue: 1,0:02:06.04,0:02:08.41,Dial-CH,,0,0,0,,但是现在只有我一人
+Dialogue: 1,0:02:08.79,0:02:10.78,Dial-CH,,0,0,0,,我把芽瑠关到了另一面
+Dialogue: 1,0:02:11.09,0:02:13.13,Dial-CH,,0,0,0,,现在我才是真正的芽瑠
+Dialogue: 1,0:02:16.49,0:02:21.45,Dial-CH,,0,0,0,,没错 我迄今为止的人生 就是为了得到你
+Dialogue: 1,0:02:21.76,0:02:24.34,Dial-CH,,0,0,0,,朝雾或耶
+Dialogue: 1,0:02:30.68,0:02:34.20,Dial-CH,,0,0,0,,是不是原先的芽瑠 这都不重要
+Dialogue: 1,0:02:35.03,0:02:40.67,Dial-CH,,0,0,0,,我一直喜欢着你
+Dialogue: 1,0:02:55.49,0:02:56.38,Dial-CH,,0,0,0,,你好
+Dialogue: 1,0:03:01.31,0:03:04.04,Dial-CH,,0,0,0,,你终于注意到我了 或耶
+Dialogue: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,

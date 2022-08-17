@@ -1,0 +1,88 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] CUE! Short Anime [05][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 65S,32,&H00FFFFFF,&H000000FF,&H00BE7E27,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Dial-CH,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,15,15,36,1
+Style: Dial-JP,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,5,1
+Style: Dial-CH2,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,8,15,15,38,1
+Style: Dial-JP2,FOT-Seurat ProN B,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,5,1
+Style: OP-CH,HYQiHei 95S,60,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,8,15,15,2,1
+Style: OP-JP,FOT-RodinNTLG Pro EB,48,&H00FFFFFF,&H00FFFFFF,&H00C38217,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,15,15,10,1
+Style: ED1-CH,FZZhengHei-R-GBK,30,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,9,16,16,45,1
+Style: ED1-JP,FOT-Budo Std L,38,&H00FFFFFF,&H00FFFFFF,&H00414141,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,9,20,15,5,1
+Style: Scr,FZDengXian-H-GBK,48,&H003F3635,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,36,1
+Style: Title,FZLanTingYuan-B-GBK,48,&H00FFFFFF,&H000000FF,&H00000000,&H00BE7E27,0,0,0,0,100,100,4,0,1,0,4,3,15,15,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Staff
+Dialogue: 0,0:02:47.19,0:02:50.69,Default,,0,0,0,,{\fad(300,0)\blur2}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：雨后飘雪　校对·时轴：Ronny　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Title
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Screen
+Dialogue: 1,0:02:42.97,0:02:44.28,Dial-CH,,0,0,0,,{\an5\fs33\pos(640,619)}Clover Quartz
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Japanese
+Dialogue: 0,0:00:11.96,0:00:12.68,Dial-JP,,0,0,0,,弾切れ
+Dialogue: 0,0:00:26.38,0:00:28.01,Dial-JP,,0,0,0,,春大付属3年
+Dialogue: 0,0:00:28.45,0:00:31.42,Dial-JP,,0,0,0,,生徒会長　櫻乃ハクア
+Dialogue: 0,0:00:32.28,0:00:35.34,Dial-JP,,0,0,0,,桜の海で泳ぎます
+Dialogue: 0,0:00:36.47,0:00:39.92,Dial-JP,,0,0,0,,迷える子羊に　手を差し伸べましょう
+Dialogue: 0,0:00:40.68,0:00:43.52,Dial-JP,,0,0,0,,選ばれし魔王の眷属
+Dialogue: 0,0:00:44.42,0:00:45.77,Dial-JP,,0,0,0,,氷堂ワタリが
+Dialogue: 0,0:01:04.55,0:01:07.76,Dial-JP,,0,0,0,,秋は枯れゆき　地に根付く時
+Dialogue: 0,0:01:09.42,0:01:10.93,Dial-JP,,0,0,0,,今は耐えて生き抜け
+Dialogue: 0,0:01:11.37,0:01:13.33,Dial-JP,,0,0,0,,そして　春に舞え
+Dialogue: 0,0:01:13.43,0:01:14.11,Dial-JP,,0,0,0,,ハクア
+Dialogue: 0,0:01:15.46,0:01:19.48,Dial-JP,,0,0,0,,この石が　この力があれば…
+Dialogue: 0,0:01:37.49,0:01:38.99,Dial-JP,,0,0,0,,夏は地を溶かし
+Dialogue: 0,0:01:39.75,0:01:42.19,Dial-JP,,0,0,0,,冬はまた氷作る
+Dialogue: 0,0:01:43.21,0:01:45.96,Dial-JP,,0,0,0,,魔法と科学はここに融合し
+Dialogue: 0,0:01:48.56,0:01:50.29,Dial-JP,,0,0,0,,革命を起こす
+Dialogue: 0,0:01:57.49,0:01:59.39,Dial-JP,,0,0,0,,私が作ったの
+Dialogue: 0,0:02:08.69,0:02:10.23,Dial-JP,,0,0,0,,すごいでしょ
+Dialogue: 0,0:02:10.79,0:02:12.18,Dial-JP,,0,0,0,,電量は永遠
+Dialogue: 0,0:02:12.18,0:02:14.19,Dial-JP,,0,0,0,,フルパワーなんだから
+Dialogue: 0,0:02:22.86,0:02:25.29,Dial-JP,,0,0,0,,季節は巡り　幾星霜
+Dialogue: 0,0:02:26.05,0:02:28.23,Dial-JP,,0,0,0,,四季が欠けるわけにはいかない
+Dialogue: 0,0:02:29.78,0:02:31.96,Dial-JP,,0,0,0,,ここに来い　日芽川ライム
+Dialogue: 0,0:02:39.89,0:02:40.99,Dial-JP,,0,0,0,,行きますわ
+Dialogue: 0,0:02:42.97,0:02:44.28,Dial-JP,,0,0,0,,クローバークオーツ
+Dialogue: 0,0:02:44.99,0:02:46.60,Dial-JP,,0,0,0,,四季は欠けずに
+Dialogue: 0,0:02:47.82,0:02:49.06,Dial-JP,,0,0,0,,ずっと一緒に
+Comment: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,Dialogue Chinese
+Dialogue: 1,0:00:11.96,0:00:12.68,Dial-CH,,0,0,0,,没子弹了
+Dialogue: 1,0:00:26.38,0:00:28.01,Dial-CH,,0,0,0,,春大附中高三
+Dialogue: 1,0:00:28.45,0:00:31.42,Dial-CH,,0,0,0,,学生会长 樱乃白亚
+Dialogue: 1,0:00:32.28,0:00:35.34,Dial-CH,,0,0,0,,畅游于樱花之海
+Dialogue: 1,0:00:36.47,0:00:39.92,Dial-CH,,0,0,0,,救赎迷途的羔羊
+Dialogue: 1,0:00:40.68,0:00:43.52,Dial-CH,,0,0,0,,我乃被选中的魔王眷属
+Dialogue: 1,0:00:44.42,0:00:45.77,Dial-CH,,0,0,0,,冰堂渡
+Dialogue: 1,0:01:04.55,0:01:07.76,Dial-CH,,0,0,0,,秋天是凋零 扎根地下之时
+Dialogue: 1,0:01:09.42,0:01:10.93,Dial-CH,,0,0,0,,现在先卧薪尝胆
+Dialogue: 1,0:01:11.37,0:01:13.33,Dial-CH,,0,0,0,,等到春天厚积薄发吧
+Dialogue: 1,0:01:13.43,0:01:14.11,Dial-CH,,0,0,0,,白亚
+Dialogue: 1,0:01:15.46,0:01:19.48,Dial-CH,,0,0,0,,这个石头 只要用这份力量…
+Dialogue: 1,0:01:37.49,0:01:38.99,Dial-CH,,0,0,0,,夏天融化了大地
+Dialogue: 1,0:01:39.75,0:01:42.19,Dial-CH,,0,0,0,,冬天再次将其冻结
+Dialogue: 1,0:01:43.21,0:01:45.96,Dial-CH,,0,0,0,,魔法和科学在此融合
+Dialogue: 1,0:01:48.56,0:01:50.29,Dial-CH,,0,0,0,,开启革命
+Dialogue: 1,0:01:57.49,0:01:59.39,Dial-CH,,0,0,0,,我制作的
+Dialogue: 1,0:02:08.69,0:02:10.23,Dial-CH,,0,0,0,,很厉害吧
+Dialogue: 1,0:02:10.79,0:02:12.18,Dial-CH,,0,0,0,,电量无限
+Dialogue: 1,0:02:12.18,0:02:14.19,Dial-CH,,0,0,0,,火力全开
+Dialogue: 1,0:02:22.86,0:02:25.29,Dial-CH,,0,0,0,,四季更替 几经风霜
+Dialogue: 1,0:02:26.05,0:02:28.23,Dial-CH,,0,0,0,,四季缺一不可
+Dialogue: 1,0:02:29.78,0:02:31.96,Dial-CH,,0,0,0,,来这里 日芽川来梦
+Dialogue: 1,0:02:39.89,0:02:40.99,Dial-CH,,0,0,0,,出发
+Dialogue: 1,0:02:42.97,0:02:44.28,Dial-CH,,0,0,0,,四叶石英
+Dialogue: 1,0:02:44.99,0:02:46.60,Dial-CH,,0,0,0,,四季齐聚一堂
+Dialogue: 1,0:02:47.82,0:02:49.06,Dial-CH,,0,0,0,,永远在一起
+Dialogue: 0,0:00:00.10,0:00:00.10,Default,,0,0,0,,
