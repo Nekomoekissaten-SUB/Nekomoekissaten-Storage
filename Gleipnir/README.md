@@ -1,4 +1,10 @@
-# 字幕
+# Gleipnir
+
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Gleipnir_BD_zho.7z)
+
+内含正片 01-13
+
+注：经测试，MPC-BE 的内置字幕滤镜无法正确识别 OP 特效，可以使用 libass、xy-VSFilter 等字幕滤镜或使用其他播放器
 
 所需字体：
 ```
@@ -29,20 +35,10 @@ Sitka Text Bold Italic
 汉仪旗黑-95S <HYQiHei-95S>
 ```
 
-注：经测试，MPC-BE 的内置字幕滤镜无法正确识别 OP 特效，可以使用 xy-VSFilter 作为字幕滤镜或使用其他播放器
-
-## 简体中文
-
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Gleipnir/Gleipnir_Web_CHS.7z)
-
-## 繁体中文
-
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Gleipnir/Gleipnir_Web_CHT.7z)
-
 ## 日文
 
 来源于Netflix，未调轴
 
-[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Gleipnir/Gleipnir_JPN.7z)
+[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Gleipnir_jpn_NFLX.7z)
 
 ![](https://nekomoe.pages.dev/images/2020-04/Gleipnir.png)
