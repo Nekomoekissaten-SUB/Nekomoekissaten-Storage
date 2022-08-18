@@ -2,7 +2,7 @@
 
 [简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Gleipnir_BD_zho.7z)
 
-内含正片 01-13
+内含正片 01-13，轴匹配法版（FRA）BD
 
 注：经测试，MPC-BE 的内置字幕滤镜无法正确识别 OP 特效，可以使用 libass、xy-VSFilter 等字幕滤镜或使用其他播放器
 
