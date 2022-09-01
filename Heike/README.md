@@ -1,7 +1,7 @@
 # Heike Monogatari
 
-内含 01-11 简繁日 WebRip 字幕
-[简繁日 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Heike_Web_JPCH.7z)
+内含 01-11 简繁日 BDRip 字幕
+[简繁日 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Heike_BD_JPCH.7z)
 
 使用字体：
 
