@@ -1,7 +1,7 @@
 # Sono Bisque Doll wa Koi wo Suru
 
-内含 01-12 简繁 WebRip OPED 特效字幕  
-[简繁 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Bisque-Doll_Web_zho.7z)
+内含 01-12 + PV 1-2 简繁 BDRip OPED 特效字幕  
+[简繁 BDRip 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Bisque-Doll_BD_zho.7z)
 
 使用字体：
 ```
