@@ -1,15 +1,15 @@
-# 圣女魔力无所不能字幕
+# 圣女魔力无所不能
 
 ## 修改记录
 
 1. 2021-07-12  WebRip 字幕打包，WebRip 发布
+2. 2022-09-04  BDRip 字幕打包（无时间轴变动）
 
 ## 中文字幕
 
-内含正片 01-12 WebRip 字幕，SubsPlease Web源 切割 240 帧。
+内含正片 01-12 BDRip 字幕
 
-[简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Seijyonomaryoku/Seijo_Web_CHS.7z)  
-[繁體中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Seijyonomaryoku/Seijo_Web_CHT.7z)
+[简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Seijo_BD_zho.7z)  
 
 所需字体：
 ```
