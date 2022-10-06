@@ -1,6 +1,6 @@
 # Lycoris Recoil
 
-[01-12 Web 简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Lycoris_Recoil_Web_zho.7z)
+[01-13 Web 简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Lycoris_Recoil_Web_zho.7z)
 
 所需字体：
 ```
