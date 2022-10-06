@@ -1,0 +1,912 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Summer Time Rendering [20][WebRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,MO UDShinGo SC Gb4 DB,72,&H00FDFDFD,&H000000FF,&H0070350D,&H00000000,0,0,0,0,100,100,1.5,0,1,4,0,2,15,15,15,1
+Style: Cmt,MO UDShinGo SC Gb4 DB,56,&H00FDFDFD,&H000000FF,&H0070350D,&H00000000,0,0,0,0,100,100,1.5,0,1,3.6,0,7,24,24,20,1
+Style: Staff,HYXuanSong 65S,50,&H00FDFDFD,&H000000FF,&H00BB980C,&H00000000,0,0,0,0,100,100,1.5,0,1,3,0,8,15,15,15,1
+Style: Title,汉仪玄宋 65S,72,&H0041FFFE,&H000000FF,&H00B79531,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,10,1
+Style: OP-JP,FOT-UDKakugo_Large Pr6N UL,80,&H694E6056,&H000000FF,&H29DDF1E6,&HD75D7263,0,0,0,0,95,100,5,0,1,2.5,5,2,15,15,10,1
+Style: OP-CH,FZLanTingHei-EL-GBK,56,&H694E6056,&H000000FF,&H29DDF1E6,&HD75D7263,0,0,0,0,95,100,1,0,1,2.5,5,8,15,15,20,1
+Style: ED-JP,A-OTF UD Shin Go Pr6N DB,65,&H00FDFDFD,&H000000FF,&H0070350D,&H004E4FFF,0,0,0,0,100,100,1.5,0,1,0,0,2,15,15,30,1
+Style: ED-CH,MO UDShinGo SC Gb4 DB,56,&H00FDFDFD,&H000000FF,&H0070350D,&H004E4FFF,0,0,0,0,100,100,1.5,0,1,0,0,8,15,15,35,1
+Style: ED-JP2,FOT-TsukuARdGothic Std M,65,&H80000000,&H000000FF,&H00FFFFFF,&H004E4FFF,0,0,0,0,100,100,1.5,0,1,2,0,2,15,15,30,1
+Style: ED-CH2,方正兰亭圆_GBK,48,&H80000000,&H000000FF,&H00FFFFFF,&H004E4FFF,0,0,0,0,100,100,6,0,1,2,0,8,15,15,30,1
+Style: Dial-CH,MO UDShinGo SC Gb4 DB,72,&H00FDFDFD,&H000000FF,&H0070350D,&H00000000,0,0,0,0,100,100,1.5,0,1,4,0,2,15,15,60,1
+Style: Dial-CH2,MO UDShinGo SC Gb4 DB,72,&H00FDFDFD,&H000000FF,&H0070350D,&H00000000,0,0,0,0,100,100,1.5,0,1,4,0,8,15,15,15,1
+Style: Dial-JP,A-OTF UD Shin Go Pr6N DB,64,&H00FDFDFD,&H000000FF,&H0070350D,&H00000000,0,0,0,0,100,100,1.5,0,1,3.6,0,2,15,15,5,1
+Style: Dial-JP2,A-OTF UD Shin Go Pr6N DB,58,&H00FDFDFD,&H000000FF,&H0070350D,&H00000000,0,0,0,0,100,100,1.5,0,1,3.6,0,8,15,15,80,1
+Style: Screen,MO UDShinGo SC Gb4 DB,72,&H00FDFDFD,&H000000FF,&H0070350D,&H00000000,0,0,0,0,100,100,1.5,0,1,0,0,2,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:08.24,0:00:09.99,Staff,,0,0,0,,{\blur5\fad(360,0)}本字幕由喵萌奶茶屋制作  作品仅供交流学习使用  请勿用于商业用途\N翻译：Nemeton　时轴·特效：Ronny　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:13:36.00,0:13:37.21,Screen,,0,0,0,,{\blur0.5\fs55\pos(1077,406.5)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.21,0:13:37.25,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,406.5)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.25,0:13:37.29,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,405.36)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.29,0:13:37.33,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,401.96)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.33,0:13:37.37,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,396.42)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.37,0:13:37.42,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,389.23)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.42,0:13:37.46,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,380.24)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.46,0:13:37.50,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,369.76)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.50,0:13:37.54,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,357.85)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.54,0:13:37.58,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,344.65)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.58,0:13:37.62,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,330.27)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.62,0:13:37.67,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,314.87)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.67,0:13:37.71,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,298.39)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.71,0:13:37.75,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,280.95)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.75,0:13:37.79,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,262.75)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.79,0:13:37.83,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,243.76)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.83,0:13:37.87,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,224.16)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.87,0:13:37.92,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,203.87)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.92,0:13:37.96,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,182.96)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:37.96,0:13:38.00,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,161.6)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.00,0:13:38.04,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,139.81)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.04,0:13:38.08,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,117.63)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.08,0:13:38.12,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,95.04)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.12,0:13:38.17,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,72.11)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.17,0:13:38.21,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,48.88)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.21,0:13:38.25,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,25.53)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.25,0:13:38.29,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,1.9)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.29,0:13:38.33,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,-21.78)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:13:38.33,0:13:38.38,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fs55\pos(1077,-45.69)\c&HF9F9F9&}9周目开始28分钟后
+Dialogue: 0,0:15:09.76,0:15:09.97,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(985.34,1005)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:09.97,0:15:10.05,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(985.33,1005)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.05,0:15:10.09,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(983.88,1005.63)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.09,0:15:10.13,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(979.73,1007.37)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.13,0:15:10.18,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(972.94,1010.27)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.18,0:15:10.22,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(963.61,1014.25)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.22,0:15:10.26,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(951.8,1019.25)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.26,0:15:10.30,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(937.57,1025.25)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.30,0:15:10.34,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(921.19,1032.25)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.34,0:15:10.38,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(902.71,1040.12)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.38,0:15:10.43,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(882.07,1048.94)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.43,0:15:10.47,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(859.35,1058.65)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.47,0:15:10.51,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(834.8,1069.23)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.51,0:15:10.55,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(808.26,1080.66)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.55,0:15:10.59,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(779.93,1092.8)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.59,0:15:10.63,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(749.96,1105.83)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.63,0:15:10.68,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(718.36,1119.49)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.68,0:15:10.72,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(685,1134.05)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.72,0:15:10.76,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(650.17,1149.22)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.76,0:15:10.80,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(613.86,1165.16)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.80,0:15:10.84,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(576.15,1181.7)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.84,0:15:10.88,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(537.11,1198.95)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.88,0:15:10.93,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(496.62,1216.92)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:10.93,0:15:10.97,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\pos(454.96,1235.34)\c&HF8F8F8&}9周目开始
+Dialogue: 0,0:15:08.76,0:15:10.01,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(656.47,34.83)}艾伦的田地
+Dialogue: 0,0:15:10.01,0:15:10.05,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(656.47,34.84)}艾伦的田地
+Dialogue: 0,0:15:10.05,0:15:10.09,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(655,35.46)}艾伦的田地
+Dialogue: 0,0:15:10.09,0:15:10.13,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(650.88,37.21)}艾伦的田地
+Dialogue: 0,0:15:10.13,0:15:10.18,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(644.1,40.09)}艾伦的田地
+Dialogue: 0,0:15:10.18,0:15:10.22,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(634.75,44.08)}艾伦的田地
+Dialogue: 0,0:15:10.22,0:15:10.26,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(622.95,49.08)}艾伦的田地
+Dialogue: 0,0:15:10.26,0:15:10.30,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(608.7,55.08)}艾伦的田地
+Dialogue: 0,0:15:10.30,0:15:10.34,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(592.29,62.08)}艾伦的田地
+Dialogue: 0,0:15:10.34,0:15:10.38,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(573.78,69.98)}艾伦的田地
+Dialogue: 0,0:15:10.38,0:15:10.43,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(553.22,78.79)}艾伦的田地
+Dialogue: 0,0:15:10.43,0:15:10.47,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(530.49,88.48)}艾伦的田地
+Dialogue: 0,0:15:10.47,0:15:10.51,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(505.94,99.06)}艾伦的田地
+Dialogue: 0,0:15:10.51,0:15:10.55,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(479.44,110.48)}艾伦的田地
+Dialogue: 0,0:15:10.55,0:15:10.59,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(451.09,122.64)}艾伦的田地
+Dialogue: 0,0:15:10.59,0:15:10.63,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(421.12,135.68)}艾伦的田地
+Dialogue: 0,0:15:10.63,0:15:10.68,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(389.45,149.34)}艾伦的田地
+Dialogue: 0,0:15:10.68,0:15:10.72,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(356.14,163.89)}艾伦的田地
+Dialogue: 0,0:15:10.72,0:15:10.76,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(321.27,179.07)}艾伦的田地
+Dialogue: 0,0:15:10.76,0:15:10.80,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(285,195)}艾伦的田地
+Dialogue: 0,0:15:10.80,0:15:10.84,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(247.32,211.53)}艾伦的田地
+Dialogue: 0,0:15:10.84,0:15:10.88,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(208.14,228.79)}艾伦的田地
+Dialogue: 0,0:15:10.88,0:15:10.93,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(167.78,246.76)}艾伦的田地
+Dialogue: 0,0:15:10.93,0:15:10.97,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(126.1,265.23)}艾伦的田地
+Dialogue: 0,0:15:10.97,0:15:11.01,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(83.31,284.38)}艾伦的田地
+Dialogue: 0,0:15:11.01,0:15:11.05,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(39.35,304.13)}艾伦的田地
+Dialogue: 0,0:15:11.05,0:15:11.09,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(-5.66,324.4)}艾伦的田地
+Dialogue: 0,0:15:11.09,0:15:11.13,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(-51.62,345.32)}艾伦的田地
+Dialogue: 0,0:15:11.13,0:15:11.18,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(-98.45,366.72)}艾伦的田地
+Dialogue: 0,0:15:11.18,0:15:11.22,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(-146.14,388.67)}艾伦的田地
+Dialogue: 0,0:15:11.22,0:15:11.26,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(-194.5,411.16)}艾伦的田地
+Dialogue: 0,0:15:11.26,0:15:11.30,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(-243.58,434.17)}艾伦的田地
+Dialogue: 0,0:15:11.22,0:15:11.26,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1245.67,-9.69)}小舟西餐
+Dialogue: 0,0:15:11.26,0:15:11.30,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1196.59,13.32)}小舟西餐
+Dialogue: 0,0:15:11.30,0:15:11.34,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1147.01,36.75)}小舟西餐
+Dialogue: 0,0:15:11.34,0:15:11.38,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1097.02,60.7)}小舟西餐
+Dialogue: 0,0:15:11.38,0:15:11.43,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1046.77,85.06)}小舟西餐
+Dialogue: 0,0:15:11.43,0:15:11.47,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(996.42,109.85)}小舟西餐
+Dialogue: 0,0:15:11.47,0:15:11.51,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(946.16,135.02)}小舟西餐
+Dialogue: 0,0:15:11.51,0:15:11.55,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(896.26,160.57)}小舟西餐
+Dialogue: 0,0:15:11.55,0:15:11.59,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(847.07,186.51)}小舟西餐
+Dialogue: 0,0:15:11.59,0:15:11.64,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(799.01,212.73)}小舟西餐
+Dialogue: 0,0:15:11.64,0:15:11.68,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(752.76,239.24)}小舟西餐
+Dialogue: 0,0:15:11.68,0:15:11.72,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(709.01,265.9)}小舟西餐
+Dialogue: 0,0:15:11.72,0:15:11.76,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(669.57,292.88)}小舟西餐
+Dialogue: 0,0:15:11.76,0:15:11.80,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(637.53,320.59)}小舟西餐
+Dialogue: 0,0:15:11.80,0:15:11.84,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(629.14,331.29)}小舟西餐
+Dialogue: 0,0:15:11.84,0:15:11.89,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(622.9,343.41)}小舟西餐
+Dialogue: 0,0:15:11.89,0:15:11.93,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(620.45,356.68)}小舟西餐
+Dialogue: 0,0:15:11.93,0:15:11.97,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(623.06,369.96)}小舟西餐
+Dialogue: 0,0:15:11.97,0:15:12.01,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(629.97,381.66)}小舟西餐
+Dialogue: 0,0:15:12.01,0:15:12.05,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(639.47,391.38)}小舟西餐
+Dialogue: 0,0:15:12.05,0:15:12.09,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(650.26,399.66)}小舟西餐
+Dialogue: 0,0:15:12.09,0:15:12.14,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(661.88,406.77)}小舟西餐
+Dialogue: 0,0:15:12.14,0:15:12.18,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(673.99,413.05)}小舟西餐
+Dialogue: 0,0:15:12.18,0:15:12.22,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(686.4,418.63)}小舟西餐
+Dialogue: 0,0:15:12.22,0:15:12.26,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(699.07,423.7)}小舟西餐
+Dialogue: 0,0:15:12.26,0:15:12.30,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(711.87,428.34)}小舟西餐
+Dialogue: 0,0:15:12.30,0:15:12.34,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(724.76,432.63)}小舟西餐
+Dialogue: 0,0:15:12.34,0:15:12.39,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(737.79,436.65)}小舟西餐
+Dialogue: 0,0:15:12.39,0:15:12.43,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(750.9,440.4)}小舟西餐
+Dialogue: 0,0:15:12.43,0:15:12.47,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(764.08,443.85)}小舟西餐
+Dialogue: 0,0:15:12.47,0:15:12.51,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(777.25,447.18)}小舟西餐
+Dialogue: 0,0:15:12.51,0:15:12.55,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(790.54,450.25)}小舟西餐
+Dialogue: 0,0:15:12.55,0:15:12.59,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(803.83,453.22)}小舟西餐
+Dialogue: 0,0:15:12.59,0:15:12.64,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(817.16,456.07)}小舟西餐
+Dialogue: 0,0:15:12.64,0:15:12.68,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(830.51,458.76)}小舟西餐
+Dialogue: 0,0:15:12.68,0:15:12.72,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(843.88,461.34)}小舟西餐
+Dialogue: 0,0:15:12.72,0:15:12.76,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(857.31,463.8)}小舟西餐
+Dialogue: 0,0:15:12.76,0:15:12.80,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(870.7,466.2)}小舟西餐
+Dialogue: 0,0:15:12.80,0:15:12.84,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(884.15,468.45)}小舟西餐
+Dialogue: 0,0:15:12.84,0:15:12.89,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(897.57,470.67)}小舟西餐
+Dialogue: 0,0:15:12.89,0:15:12.93,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(911.04,472.8)}小舟西餐
+Dialogue: 0,0:15:12.93,0:15:12.97,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(924.52,474.81)}小舟西餐
+Dialogue: 0,0:15:12.97,0:15:13.01,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(937.98,476.83)}小舟西餐
+Dialogue: 0,0:15:13.01,0:15:13.05,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(951.48,478.72)}小舟西餐
+Dialogue: 0,0:15:13.05,0:15:13.09,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(964.98,480.6)}小舟西餐
+Dialogue: 0,0:15:13.09,0:15:13.14,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(978.47,482.38)}小舟西餐
+Dialogue: 0,0:15:13.14,0:15:13.18,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(992,484.12)}小舟西餐
+Dialogue: 0,0:15:13.18,0:15:13.22,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1005.47,485.83)}小舟西餐
+Dialogue: 0,0:15:13.22,0:15:13.26,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1019,487.51)}小舟西餐
+Dialogue: 0,0:15:13.26,0:15:13.30,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1032.52,489.09)}小舟西餐
+Dialogue: 0,0:15:13.30,0:15:13.35,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1046.02,490.68)}小舟西餐
+Dialogue: 0,0:15:13.35,0:15:13.39,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1059.57,492.18)}小舟西餐
+Dialogue: 0,0:15:13.39,0:15:13.43,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1073.11,493.68)}小舟西餐
+Dialogue: 0,0:15:13.43,0:15:13.47,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1086.65,495.18)}小舟西餐
+Dialogue: 0,0:15:13.47,0:15:13.51,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1100.18,496.63)}小舟西餐
+Dialogue: 0,0:15:13.51,0:15:13.55,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1113.73,498.04)}小舟西餐
+Dialogue: 0,0:15:13.55,0:15:13.60,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1127.28,499.42)}小舟西餐
+Dialogue: 0,0:15:13.60,0:15:13.64,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1140.84,500.82)}小舟西餐
+Dialogue: 0,0:15:13.64,0:15:13.68,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1154.38,502.17)}小舟西餐
+Dialogue: 0,0:15:13.68,0:15:13.72,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1167.93,503.5)}小舟西餐
+Dialogue: 0,0:15:13.72,0:15:13.76,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1181.49,504.9)}小舟西餐
+Dialogue: 0,0:15:13.76,0:15:13.80,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1195.06,506.23)}小舟西餐
+Dialogue: 0,0:15:13.80,0:15:13.85,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1208.59,507.63)}小舟西餐
+Dialogue: 0,0:15:13.85,0:15:13.89,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1222.15,509.07)}小舟西餐
+Dialogue: 0,0:15:13.89,0:15:13.93,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1235.68,510.54)}小舟西餐
+Dialogue: 0,0:15:13.93,0:15:13.97,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1249.18,512.1)}小舟西餐
+Dialogue: 0,0:15:13.97,0:15:14.01,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1262.58,513.94)}小舟西餐
+Dialogue: 0,0:15:14.01,0:15:14.05,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1275.87,516.61)}小舟西餐
+Dialogue: 0,0:15:14.05,0:15:14.10,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1290.06,546.84)}小舟西餐
+Dialogue: 0,0:15:14.10,0:15:14.14,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1305.54,586.75)}小舟西餐
+Dialogue: 0,0:15:14.14,0:15:14.18,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1319.32,631.59)}小舟西餐
+Dialogue: 0,0:15:14.18,0:15:14.22,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1330.13,679.87)}小舟西餐
+Dialogue: 0,0:15:14.22,0:15:14.26,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1337.74,730.7)}小舟西餐
+Dialogue: 0,0:15:14.26,0:15:14.30,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1341.77,783.69)}小舟西餐
+Dialogue: 0,0:15:14.30,0:15:14.35,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1342.46,838.32)}小舟西餐
+Dialogue: 0,0:15:14.35,0:15:14.39,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1339.66,894.19)}小舟西餐
+Dialogue: 0,0:15:14.39,0:15:14.43,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1333.58,951.14)}小舟西餐
+Dialogue: 0,0:15:14.43,0:15:14.47,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1324.24,1008.85)}小舟西餐
+Dialogue: 0,0:15:14.47,0:15:14.51,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1311.66,1067.21)}小舟西餐
+Dialogue: 0,0:15:14.51,0:15:14.55,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1295.96,1126.06)}小舟西餐
+Dialogue: 0,0:15:14.55,0:15:14.60,Screen,,0,0,0,,{\fscy100\fscx100\fn方正兰亭圆_GBK_准\c&HFAFAFA&\pos(1277.42,1185.29)}小舟西餐
+Dialogue: 0,0:15:11.76,0:15:11.80,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1685.14,338.14)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:11.80,0:15:11.84,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1676.71,348.82)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:11.84,0:15:11.89,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1670.47,360.91)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:11.89,0:15:11.93,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1668,374.22)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:11.93,0:15:11.97,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1670.61,387.52)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:11.97,0:15:12.01,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1677.51,399.19)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.01,0:15:12.05,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1686.95,408.97)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.05,0:15:12.09,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1697.8,417.2)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.09,0:15:12.14,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1709.44,424.32)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.14,0:15:12.18,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1721.54,430.6)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.18,0:15:12.22,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1733.95,436.18)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.22,0:15:12.26,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1746.61,441.24)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.26,0:15:12.30,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1759.41,445.88)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.30,0:15:12.34,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1772.32,450.18)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.34,0:15:12.39,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1785.33,454.18)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.39,0:15:12.43,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1798.44,457.92)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.43,0:15:12.47,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1811.62,461.4)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.47,0:15:12.51,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1824.8,464.72)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.51,0:15:12.55,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1838.06,467.81)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.55,0:15:12.59,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1851.36,470.78)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.59,0:15:12.64,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1864.67,473.63)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.64,0:15:12.68,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1878.04,476.32)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.68,0:15:12.72,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1891.38,478.9)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.72,0:15:12.76,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1904.82,481.35)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.76,0:15:12.80,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1918.21,483.76)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.80,0:15:12.84,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1931.65,486)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.84,0:15:12.89,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1945.08,488.21)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.89,0:15:12.93,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1958.53,490.35)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.93,0:15:12.97,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1972,492.37)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:12.97,0:15:13.01,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1985.46,494.39)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.01,0:15:13.05,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1998.96,496.27)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.05,0:15:13.09,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2012.46,498.14)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.09,0:15:13.14,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2025.94,499.93)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.14,0:15:13.18,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2039.49,501.69)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.18,0:15:13.22,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2052.96,503.37)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.22,0:15:13.26,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2066.47,505.05)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.26,0:15:13.30,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2080,506.65)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.30,0:15:13.35,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2093.5,508.23)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.35,0:15:13.39,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2107.06,509.74)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.39,0:15:13.43,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2120.58,511.24)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.43,0:15:13.47,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2134.12,512.73)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.47,0:15:13.51,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2147.65,514.2)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.51,0:15:13.55,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(2161.21,515.61)}救出{\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 0,0:15:13.76,0:15:13.80,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1098.86,1018.71)}留住澪和窗
+Dialogue: 0,0:15:13.80,0:15:13.85,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1112.38,1020.18)}留住澪和窗
+Dialogue: 0,0:15:13.85,0:15:13.89,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1125.92,1021.64)}留住澪和窗
+Dialogue: 0,0:15:13.89,0:15:13.93,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1139.44,1023.11)}留住澪和窗
+Dialogue: 0,0:15:13.93,0:15:13.97,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1152.95,1024.66)}留住澪和窗
+Dialogue: 0,0:15:13.97,0:15:14.01,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1166.43,1026.51)}留住澪和窗
+Dialogue: 0,0:15:14.01,0:15:14.05,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1179.84,1028.76)}留住澪和窗
+Dialogue: 0,0:15:14.05,0:15:14.10,Screen,,0,0,0,,{\fscy99.99\fscx99.99\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1194.03,1059.18)}留住澪和窗
+Dialogue: 0,0:15:14.10,0:15:14.14,Screen,,0,0,0,,{\fscy99.99\fscx99.99\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1209.59,1098.98)}留住澪和窗
+Dialogue: 0,0:15:14.14,0:15:14.18,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1223.29,1143.88)}留住澪和窗
+Dialogue: 0,0:15:14.18,0:15:14.22,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1234.13,1192.43)}留住澪和窗
+Dialogue: 0,0:15:14.22,0:15:14.26,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1241.65,1243.31)}留住澪和窗
+Dialogue: 0,0:15:14.26,0:15:14.30,Screen,,0,0,0,,{\fscy100\fscx100\blur0.5\fn方正兰亭圆_GBK_中粗\fs99\c&HF7F7F7&\pos(1245.77,1296.26)}留住澪和窗
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:04.72,0:00:05.97,Dial-JP,,0,0,0,,勝機？
+Dialogue: 0,0:00:06.69,0:00:07.59,Dial-JP,,0,0,0,,笑ける
+Dialogue: 0,0:00:11.25,0:00:11.95,Dial-JP,,0,0,0,,速い
+Dialogue: 0,0:00:19.19,0:00:21.99,Dial-JP,,0,0,0,,この動き　ウシオと同等
+Dialogue: 0,0:00:22.54,0:00:23.08,Dial-JP,,0,0,0,,いや…
+Dialogue: 0,0:00:24.40,0:00:25.45,Dial-JP,,0,0,0,,それ以上か
+Dialogue: 0,0:00:30.66,0:00:33.22,Dial-JP,,0,0,0,,決死の覚悟というわけか
+Dialogue: 0,0:00:34.39,0:00:35.05,Dial-JP,,0,0,0,,ひづる
+Dialogue: 0,0:02:14.52,0:02:15.99,Dial-JP,,0,0,0,,危ない危ない
+Dialogue: 0,0:02:16.47,0:02:19.25,Dial-JP,,0,0,0,,おい　シデ　いつまで寝とんねん
+Dialogue: 0,0:02:23.16,0:02:25.14,Dial-JP,,0,0,0,,よっこいしょ
+Dialogue: 0,0:02:25.69,0:02:27.22,Dial-JP,,0,0,0,,ちょっと　それ
+Dialogue: 0,0:02:27.22,0:02:32.75,Dial-JP,,0,0,0,,うちの大事な神宝天沼矛　めっちゃ使いこなしてますやん
+Dialogue: 0,0:02:33.05,0:02:35.20,Dial-JP,,0,0,0,,竜之介はあれでも影じゃ
+Dialogue: 0,0:02:35.20,0:02:37.20,Dial-JP,,0,0,0,,コピーこそできんようじゃが
+Dialogue: 0,0:02:37.20,0:02:39.68,Dial-JP,,0,0,0,,モノマネは得意のようじゃな
+Dialogue: 0,0:02:39.83,0:02:43.03,Dial-JP,,0,0,0,,一撃一撃の殺気がエグいですよ
+Dialogue: 0,0:02:43.03,0:02:47.24,Dial-JP,,0,0,0,,ショックやわ　君が赤ちゃんの頃から知ってんのに
+Dialogue: 0,0:02:47.24,0:02:49.89,Dial-JP,,0,0,0,,私のことそんなに嫌い？
+Dialogue: 0,0:02:50.06,0:02:52.40,Dial-JP,,0,0,0,,なぜそこまで頑張ります
+Dialogue: 0,0:02:52.40,0:02:55.45,Dial-JP,,0,0,0,,君が命を懸けて戦う意味は
+Dialogue: 0,0:02:56.41,0:02:58.74,Dial-JP,,0,0,0,,嫌いなのはお前の言葉だ
+Dialogue: 0,0:02:59.42,0:03:00.45,Dial-JP,,0,0,0,,言葉？
+Dialogue: 0,0:03:00.45,0:03:03.07,Dial-JP,,0,0,0,,人は言葉を持つ　語彙だ
+Dialogue: 0,0:03:03.59,0:03:06.43,Dial-JP,,0,0,0,,いかに言葉を使うかは人間性が決める
+Dialogue: 0,0:03:06.86,0:03:12.06,Dial-JP,,0,0,0,,意味など理解できまいよ　何百年生きようが　お前にはな
+Dialogue: 0,0:03:12.97,0:03:16.63,Dial-JP,,0,0,0,,いま一度問う　なぜ帰ってきた　ひづる
+Dialogue: 0,0:03:17.18,0:03:19.89,Dial-JP,,0,0,0,,死ぬと分かっていて帰ってくるなど
+Dialogue: 0,0:03:19.89,0:03:21.66,Dial-JP,,0,0,0,,愚か者のすることじゃ
+Dialogue: 0,0:03:21.80,0:03:23.16,Dial-JP,,0,0,0,,おまんらしくない
+Dialogue: 0,0:03:23.59,0:03:24.88,Dial-JP,,0,0,0,,知っているだろう
+Dialogue: 0,0:03:25.28,0:03:29.31,Dial-JP,,0,0,0,,前にその問いを発した時　私の頭をスキャンしたはず
+Dialogue: 0,0:03:29.86,0:03:34.18,Dial-JP,,0,0,0,,そうか　記憶は読めても　理解はできないのか
+Dialogue: 0,0:03:35.32,0:03:37.41,Dial-JP,,0,0,0,,もう一度私をスキャンしたらどうだ
+Dialogue: 0,0:03:37.87,0:03:41.12,Dial-JP,,0,0,0,,私の影を産み　そいつに答えてもらいたまえ
+Dialogue: 0,0:03:42.67,0:03:44.14,Dial-JP,,0,0,0,,その手には乗らん
+Dialogue: 0,0:03:44.84,0:03:47.72,Dial-JP,,0,0,0,,ひづる　免疫をつけたな
+Dialogue: 0,0:03:47.97,0:03:49.75,Dial-JP,,0,0,0,,ミオならそれができる
+Dialogue: 0,0:03:50.07,0:03:54.12,Dial-JP,,0,0,0,,わしが光った隙をついてこの体を壊す気じゃろう
+Dialogue: 0,0:03:54.12,0:03:55.28,Dial-JP,,0,0,0,,バレバレか
+Dialogue: 0,0:03:55.49,0:03:58.84,Dial-JP,,0,0,0,,わしの目さえなければ　シデを倒せると
+Dialogue: 0,0:03:58.84,0:04:02.57,Dial-JP,,0,0,0,,シデを倒せば　地下のわしの本体をたたくのはたやすいと
+Dialogue: 0,0:04:02.57,0:04:04.12,Dial-JP,,0,0,0,,そう考えておるな
+Dialogue: 0,0:04:04.12,0:04:04.78,Dial-JP,,0,0,0,,ハイネ
+Dialogue: 0,0:04:04.78,0:04:05.86,Dial-JP,,0,0,0,,まぁ　待て
+Dialogue: 0,0:04:05.86,0:04:08.75,Dial-JP,,0,0,0,,答えよ　何で帰ってきよった
+Dialogue: 0,0:04:08.75,0:04:10.76,Dial-JP,,0,0,0,,メッセージに呼ばれたからか
+Dialogue: 0,0:04:11.13,0:04:13.10,Dial-JP,,0,0,0,,網代慎平の人格だな
+Dialogue: 0,0:04:13.51,0:04:15.96,Dial-JP,,0,0,0,,物事を冷静にフカンする一方で
+Dialogue: 0,0:04:15.96,0:04:18.33,Dial-JP,,0,0,0,,理解できないことを脇に置けず
+Dialogue: 0,0:04:18.33,0:04:20.51,Dial-JP,,0,0,0,,答えに執着しイラついている
+Dialogue: 0,0:04:20.92,0:04:22.41,Dial-JP,,0,0,0,,おしゃべりに付き合うん？
+Dialogue: 0,0:04:22.41,0:04:26.08,Dial-JP,,0,0,0,,時間を稼げるなら好都合だ　私に任せろ
+Dialogue: 0,0:04:27.75,0:04:29.53,Dial-JP,,0,0,0,,初めは好奇心だった
+Dialogue: 0,0:04:30.52,0:04:35.06,Dial-JP,,0,0,0,,だが私はずっと探していたんだ　償う機会を
+Dialogue: 0,0:04:36.63,0:04:37.86,Dial-JP,,0,0,0,,償う？
+Dialogue: 0,0:04:38.54,0:04:42.51,Dial-JP,,0,0,0,,シデの言った通り　竜之介が死んだのは私のせいだ
+Dialogue: 0,0:04:44.28,0:04:46.80,Dial-JP,,0,0,0,,竜之介の死は事故として処理された
+Dialogue: 0,0:04:47.66,0:04:49.13,Dial-JP,,0,0,0,,誰も私を責めない
+Dialogue: 0,0:04:49.52,0:04:51.96,Dial-JP,,0,0,0,,友人も両親も私を慰めた
+Dialogue: 0,0:04:52.90,0:04:57.72,Dial-JP,,0,0,0,,私は双子の弟を事故で亡くした　かわいそうな子どもだった
+Dialogue: 0,0:04:58.95,0:05:02.38,Dial-JP,,0,0,0,,本当は私が殺したも同然なのに
+Dialogue: 0,0:05:03.86,0:05:07.93,Dial-JP,,0,0,0,,奇跡が起きて　竜之介の影に謝ることができた
+Dialogue: 0,0:05:08.62,0:05:10.94,Dial-JP,,0,0,0,,だがそれであいつが生き返るわけじゃない
+Dialogue: 0,0:05:11.55,0:05:13.94,Dial-JP,,0,0,0,,今の私にできることといえば
+Dialogue: 0,0:05:15.46,0:05:19.42,Dial-JP,,0,0,0,,せめてこれから失われる命を救うことだけだ
+Dialogue: 0,0:05:21.29,0:05:23.64,Dial-JP,,0,0,0,,だから助ける　必ず
+Dialogue: 0,0:05:24.99,0:05:27.89,Dial-JP,,0,0,0,,償い　それが理由？
+Dialogue: 0,0:05:27.89,0:05:30.04,Dial-JP,,0,0,0,,気持ち悪いですねぇ
+Dialogue: 0,0:05:30.28,0:05:33.40,Dial-JP,,0,0,0,,赤の他人のために命を懸けるんですか？
+Dialogue: 0,0:05:33.40,0:05:38.80,Dial-JP,,0,0,0,,一番迷惑なんですよね　自分が正義やと思い込んでる人が
+Dialogue: 0,0:05:40.24,0:05:41.04,Dial-JP,,0,0,0,,正義？
+Dialogue: 0,0:05:41.91,0:05:42.99,Dial-JP,,0,0,0,,正義って
+Dialogue: 0,0:05:44.43,0:05:45.48,Dial-JP,,0,0,0,,私がか
+Dialogue: 0,0:05:55.72,0:05:59.07,Dial-JP,,0,0,0,,おい　もっとフカンしたまえよ　ハイネ
+Dialogue: 0,0:05:59.77,0:06:04.03,Dial-JP,,0,0,0,,その男は本当にお前のために動いているのか
+Dialogue: 0,0:06:04.37,0:06:04.97,Dial-JP,,0,0,0,,なに
+Dialogue: 0,0:06:04.97,0:06:07.41,Dial-JP,,0,0,0,,ハイネの故郷に帰る目的と
+Dialogue: 0,0:06:07.41,0:06:11.31,Dial-JP,,0,0,0,,３周目の最後につぶやいたその男の言葉がかみ合わない
+Dialogue: 0,0:06:12.94,0:06:15.04,Dial-JP,,0,0,0,,「これが私のエンディング」
+Dialogue: 0,0:06:16.89,0:06:19.32,Dial-JP,,0,0,0,,あれはどういう意味だ　シデ
+Dialogue: 0,0:06:19.84,0:06:21.16,Dial-JP,,0,0,0,,エンディング？
+Dialogue: 0,0:06:21.32,0:06:24.41,Dial-JP,,0,0,0,,その男　どこまでいっても我
+Dialogue: 0,0:06:24.61,0:06:27.12,Dial-JP,,0,0,0,,一人称の視点しか持ち合わせていまい
+Dialogue: 0,0:06:27.81,0:06:31.76,Dial-JP,,0,0,0,,はて　エンディング　何のことやら
+Dialogue: 0,0:06:32.14,0:06:33.97,Dial-JP,,0,0,0,,たわ言です　ハイネ
+Dialogue: 0,0:06:33.97,0:06:37.04,Dial-JP,,0,0,0,,彼女はわれらを言葉で惑わせようとしている
+Dialogue: 0,0:06:38.77,0:06:43.15,Dial-JP,,0,0,0,,翻せばそれは彼女にもはや　打つ手はないということ
+Dialogue: 0,0:06:43.54,0:06:46.33,Dial-JP,,0,0,0,,楽しいおしゃべりはここまでです
+Dialogue: 0,0:06:46.97,0:06:49.69,Dial-JP,,0,0,0,,できればハイネに見られたくなかったが
+Dialogue: 0,0:06:49.69,0:06:51.35,Dial-JP,,0,0,0,,贅沢は言ってられないか
+Dialogue: 0,0:06:51.88,0:06:53.59,Dial-JP,,0,0,0,,後は頼んだぞ　朱鷺子
+Dialogue: 0,0:06:54.67,0:06:58.22,Dial-JP,,0,0,0,,シデの鎧は誰でもない　中身は空なんだ
+Dialogue: 0,0:07:00.13,0:07:00.76,Dial-JP,,0,0,0,,だから…
+Dialogue: 0,0:07:05.18,0:07:07.24,Dial-JP,,0,0,0,,お前なら入り込めるはずだ
+Dialogue: 0,0:07:07.63,0:07:11.00,Dial-JP,,0,0,0,,得意だろう　竜之介　人に憑依するのは
+Dialogue: 0,0:07:11.49,0:07:14.81,Dial-JP,,0,0,0,,ヤツの鎧に潜って　中から壊せ
+Dialogue: 0,0:07:16.46,0:07:17.21,Dial-JP,,0,0,0,,なんと
+Dialogue: 0,0:07:29.74,0:07:31.01,Dial-JP,,0,0,0,,き…　君は…
+Dialogue: 0,0:07:35.97,0:07:38.85,Dial-JP,,0,0,0,,ひづるめ　こんな奥の手を
+Dialogue: 0,0:07:39.08,0:07:42.88,Dial-JP,,0,0,0,,竜之介のデータをシデの泥に写し　それを素材に…
+Dialogue: 0,0:07:43.99,0:07:45.22,Dial-JP,,0,0,0,,生まれたやと
+Dialogue: 0,0:07:53.18,0:07:54.30,Dial-JP,,0,0,0,,で…　できた
+Dialogue: 0,0:07:54.84,0:07:55.41,Dial-JP,,0,0,0,,ほんまに
+Dialogue: 0,0:08:01.00,0:08:02.04,Dial-JP,,0,0,0,,お姉ちゃん
+Dialogue: 0,0:08:13.25,0:08:14.81,Dial-JP,,0,0,0,,下がって　慎ちゃん
+Dialogue: 0,0:08:15.23,0:08:16.02,Dial-JP,,0,0,0,,危ない
+Dialogue: 0,0:08:17.56,0:08:20.56,Dial-JP,,0,0,0,,やあ　待ちくたびれましたよ
+Dialogue: 0,0:08:20.80,0:08:22.49,Dial-JP,,0,0,0,,澪と窓はどうした
+Dialogue: 0,0:08:23.36,0:08:27.41,Dial-JP,,0,0,0,,やっぱり澪ちゃんの方に来ましたね　慎平君
+Dialogue: 0,0:08:28.35,0:08:30.23,Dial-JP,,0,0,0,,下がってってば　慎ちゃん
+Dialogue: 0,0:08:31.48,0:08:32.55,Dial-JP,,0,0,0,,私がやる
+Dialogue: 0,0:08:32.98,0:08:39.04,Dial-JP,,0,0,0,,私よりも　慎平君を殺してあげた方がええんとちゃいますか　ミオちゃん
+Dialogue: 0,0:08:39.99,0:08:43.19,Dial-JP,,0,0,0,,澪ちゃんと窓君はヒルコ洞へ送りました
+Dialogue: 0,0:08:43.63,0:08:46.34,Dial-JP,,0,0,0,,今頃母が食べている頃でしょう
+Dialogue: 0,0:08:47.16,0:08:50.43,Dial-JP,,0,0,0,,ちょおっと遅かったかな　慎平君
+Dialogue: 0,0:08:51.05,0:08:52.88,Dial-JP,,0,0,0,,ええ度胸やないか　シデ
+Dialogue: 0,0:08:53.06,0:08:55.72,Dial-JP,,0,0,0,,逃げやんと１人で待ってるなんてよ
+Dialogue: 0,0:08:55.72,0:08:57.94,Dial-JP,,0,0,0,,他の影には任せられません
+Dialogue: 0,0:08:57.94,0:09:00.88,Dial-JP,,0,0,0,,これ以上仲間を失いたくないんでね
+Dialogue: 0,0:09:00.88,0:09:03.69,Dial-JP,,0,0,0,,人間の私ならハッキングされませんから
+Dialogue: 0,0:09:03.96,0:09:06.65,Dial-JP,,0,0,0,,なに　ハッキングを恐れてる？
+Dialogue: 0,0:09:07.03,0:09:09.11,Dial-JP,,0,0,0,,こいつ　潮が生きてると
+Dialogue: 0,0:09:09.65,0:09:10.82,Dial-JP,,0,0,0,,おや
+Dialogue: 0,0:09:11.22,0:09:15.28,Dial-JP,,0,0,0,,待て　生きてると思ってるなら　そう思わせといた方がいい
+Dialogue: 0,0:09:16.69,0:09:17.78,Dial-JP,,0,0,0,,お見通しか
+Dialogue: 0,0:09:18.94,0:09:23.00,Dial-JP,,0,0,0,,ミオちゃん　早よ慎平君殺してループさせな
+Dialogue: 0,0:09:23.00,0:09:24.00,Dial-JP,,0,0,0,,でないと手遅れ…
+Dialogue: 0,0:09:25.83,0:09:26.98,Dial-JP,,0,0,0,,あっそう
+Dialogue: 0,0:09:27.32,0:09:30.45,Dial-JP,,0,0,0,,ループすればどうせ私は生き返る
+Dialogue: 0,0:09:33.10,0:09:34.35,Dial-JP,,0,0,0,,話が長い
+Dialogue: 0,0:09:40.77,0:09:43.52,Dial-JP,,0,0,0,,慎ちゃん　そいつが言うてたんほんまや
+Dialogue: 0,0:09:43.89,0:09:45.48,Dial-JP,,0,0,0,,今　澪が死んだ
+Dialogue: 0,0:09:45.90,0:09:46.69,Dial-JP,,0,0,0,,分かるんか
+Dialogue: 0,0:09:47.24,0:09:49.76,Dial-JP,,0,0,0,,感覚で分かる　オリジナルが死んだら
+Dialogue: 0,0:09:51.36,0:09:52.14,Dial-JP,,0,0,0,,戻す？
+Dialogue: 0,0:09:53.08,0:09:55.06,Dial-JP,,0,0,0,,いや　まだだ
+Dialogue: 0,0:09:56.26,0:09:59.66,Dial-JP,,0,0,0,,状況を把握する　こいつの記憶を調べてくれ
+Dialogue: 0,0:09:59.66,0:10:00.45,Dial-JP,,0,0,0,,分かった
+Dialogue: 0,0:10:06.30,0:10:07.38,Dial-JP,,0,0,0,,おかしい
+Dialogue: 0,0:10:07.91,0:10:10.13,Dial-JP,,0,0,0,,こいつ　記憶がない
+Dialogue: 0,0:10:11.01,0:10:12.05,Dial-JP,,0,0,0,,どういうことや
+Dialogue: 0,0:10:12.60,0:10:13.80,Dial-JP,,0,0,0,,空っぽなんよ
+Dialogue: 0,0:10:14.21,0:10:17.87,Dial-JP,,0,0,0,,ついさっきまでの　私らと会話した記憶すらない
+Dialogue: 0,0:10:18.18,0:10:19.21,Dial-JP,,0,0,0,,何や　これ
+Dialogue: 0,0:10:21.24,0:10:22.98,Dial-JP,,0,0,0,,どうやって動いてたんや
+Dialogue: 0,0:10:23.52,0:10:26.47,Dial-JP,,0,0,0,,シデは２人おる　影じゃない
+Dialogue: 0,0:10:26.47,0:10:29.20,Dial-JP,,0,0,0,,人間が２人　クローンみたいに
+Dialogue: 0,0:10:29.55,0:10:32.72,Dial-JP,,0,0,0,,確かにこいつ　手ぇにヤケドなかったな
+Dialogue: 0,0:10:32.72,0:10:33.90,Dial-JP,,0,0,0,,ほな　もう１人は
+Dialogue: 0,0:10:34.35,0:10:36.37,Dial-JP,,0,0,0,,南雲先生の方に違いない
+Dialogue: 0,0:10:36.99,0:10:38.84,Dial-JP,,0,0,0,,先生も無事とは思えない
+Dialogue: 0,0:10:39.06,0:10:41.33,Dial-JP,,0,0,0,,ハイネは先生の携帯から電話してきた
+Dialogue: 0,0:10:44.69,0:10:45.83,Dial-JP,,0,0,0,,慎ちゃん　こっち
+Dialogue: 0,0:10:55.86,0:10:56.59,Dial-JP,,0,0,0,,トキちゃん
+Dialogue: 0,0:10:57.51,0:10:58.82,Dial-JP,,0,0,0,,よかった
+Dialogue: 0,0:10:59.54,0:11:02.22,Dial-JP,,0,0,0,,生きてたんですね　慎平さん
+Dialogue: 0,0:11:03.92,0:11:07.86,Dial-JP,,0,0,0,,ミオの気配を捜して　ここまで来れた
+Dialogue: 0,0:11:08.64,0:11:10.52,Dial-JP,,0,0,0,,朱鷺子　何があった
+Dialogue: 0,0:11:11.32,0:11:17.10,Dial-JP,,0,0,0,,根津さんと凸村さんが　私を逃がしてくれた
+Dialogue: 0,0:11:17.72,0:11:20.20,Dial-JP,,0,0,0,,お願い　虎島へ…
+Dialogue: 0,0:11:20.93,0:11:22.75,Dial-JP,,0,0,0,,虎島へ向かって
+Dialogue: 0,0:11:23.63,0:11:26.74,Dial-JP,,0,0,0,,竜之介さんがシデと戦ってる
+Dialogue: 0,0:11:28.06,0:11:32.80,Dial-JP,,0,0,0,,竜之介さんを　助けてあげて…
+Dialogue: 0,0:11:45.48,0:11:46.38,Dial-JP,,0,0,0,,死んだ
+Dialogue: 0,0:11:48.12,0:11:49.71,Dial-JP,,0,0,0,,これが朱鷺子の記憶
+Dialogue: 0,0:11:57.03,0:11:58.62,Dial-JP,,0,0,0,,急ご　虎島へ
+Dialogue: 0,0:12:03.33,0:12:07.11,Dial-JP,,0,0,0,,菱形先生のデリンジャー　トキちゃんが持ってたのか
+Dialogue: 0,0:12:07.67,0:12:09.00,Dial-JP,,0,0,0,,まだ１発残ってる
+Dialogue: 0,0:12:10.40,0:12:11.40,Dial-JP,,0,0,0,,慎ちゃん
+Dialogue: 0,0:12:12.53,0:12:13.34,Dial-JP,,0,0,0,,よし
+Dialogue: 0,0:12:13.81,0:12:14.53,Dial-JP,,0,0,0,,行かない
+Dialogue: 0,0:12:16.17,0:12:19.48,Dial-JP,,0,0,0,,先生も竜之介さんも　恐らくもう殺されてる
+Dialogue: 0,0:12:19.96,0:12:23.01,Dial-JP,,0,0,0,,トキちゃんの記憶からは　確かな生死は分からんかった
+Dialogue: 0,0:12:23.64,0:12:25.91,Dial-JP,,0,0,0,,けどそれを確認しに行ってる時間がない
+Dialogue: 0,0:12:26.83,0:12:29.19,Dial-JP,,0,0,0,,確かなんは　澪が死んだってことやろ
+Dialogue: 0,0:12:29.96,0:12:31.75,Dial-JP,,0,0,0,,事象の地平線が迫ってる
+Dialogue: 0,0:12:32.58,0:12:34.97,Dial-JP,,0,0,0,,急がな澪の死が確定してまうんや
+Dialogue: 0,0:12:35.40,0:12:37.80,Dial-JP,,0,0,0,,今ならまだ両方救えるかもしれない
+Dialogue: 0,0:12:38.65,0:12:42.41,Dial-JP,,0,0,0,,今すぐループすれば　10時10分ごろに戻れると思う
+Dialogue: 0,0:12:44.72,0:12:47.70,Dial-JP,,0,0,0,,子どもらとタカノス山を下りてるところや
+Dialogue: 0,0:12:47.70,0:12:48.33,Dial-JP,,0,0,0,,見えるん？
+Dialogue: 0,0:12:48.76,0:12:50.79,Dial-JP,,0,0,0,,ああ　ぼんやりやけどな
+Dialogue: 0,0:12:51.47,0:12:54.76,Dial-JP,,0,0,0,,でも10時10分にハイネが電話するのはもう止められやん
+Dialogue: 0,0:12:55.45,0:12:57.52,Dial-JP,,0,0,0,,まずは爆速でコフネに戻って
+Dialogue: 0,0:12:59.34,0:13:00.47,Dial-JP,,0,0,0,,お前を助ける
+Dialogue: 0,0:13:01.05,0:13:03.82,Dial-JP,,0,0,0,,それから速攻で澪と窓に追い付いて止める
+Dialogue: 0,0:13:04.07,0:13:06.64,Dial-JP,,0,0,0,,戻ってから　細かい説明してる時間はない
+Dialogue: 0,0:13:07.11,0:13:08.35,Dial-JP,,0,0,0,,黙ってついてこい
+Dialogue: 0,0:13:08.89,0:13:12.76,Dial-JP,,0,0,0,,澪も南雲先生も　両方助けてみせる
+Dialogue: 0,0:13:13.49,0:13:16.28,Dial-JP,,0,0,0,,時間との勝負　てことね
+Dialogue: 0,0:13:22.73,0:13:24.60,Dial-JP,,0,0,0,,じゃ　行ってくる
+Dialogue: 0,0:13:43.71,0:13:45.19,Dial-JP,,0,0,0,,お…　お前ら…
+Dialogue: 0,0:13:45.71,0:13:46.64,Dial-JP,,0,0,0,,何でここに
+Dialogue: 0,0:13:46.94,0:13:47.91,Dial-JP,,0,0,0,,慎ちゃん？
+Dialogue: 0,0:13:47.91,0:13:49.39,Dial-JP,,0,0,0,,ま…　間に合った
+Dialogue: 0,0:13:49.71,0:13:52.60,Dial-JP,,0,0,0,,コフネから　ミオに下水道を飛ばしてもろたんや
+Dialogue: 0,0:13:52.86,0:13:55.11,Dial-JP,,0,0,0,,お前　そいつを助けたんか
+Dialogue: 0,0:13:55.11,0:13:56.32,Dial-JP,,0,0,0,,こいつは大丈夫や
+Dialogue: 0,0:13:56.59,0:13:59.16,Dial-JP,,0,0,0,,それより２人とも　携帯切ってんのか
+Dialogue: 0,0:13:59.69,0:14:00.29,Dial-JP,,0,0,0,,なに
+Dialogue: 0,0:14:00.53,0:14:03.47,Dial-JP,,0,0,0,,だって　慎ちゃんが携帯切っとけって
+Dialogue: 0,0:14:03.47,0:14:05.99,Dial-JP,,0,0,0,,影から電話があるかもしれやんからって
+Dialogue: 0,0:14:06.12,0:14:08.95,Dial-JP,,0,0,0,,アホ　その電話が影からやったんや
+Dialogue: 0,0:14:16.68,0:14:18.01,Dial-JP,,0,0,0,,すまん　慎平
+Dialogue: 0,0:14:18.84,0:14:20.30,Dial-JP,,0,0,0,,俺がついていながら…
+Dialogue: 0,0:14:20.59,0:14:21.20,Dial-JP,,0,0,0,,いや
+Dialogue: 0,0:14:22.30,0:14:25.26,Dial-JP,,0,0,0,,時間がない　俺は影澪と虎島に向かう
+Dialogue: 0,0:14:26.14,0:14:28.72,Dial-JP,,0,0,0,,ごめん　撃ってしもて
+Dialogue: 0,0:14:29.11,0:14:29.98,Dial-JP,,0,0,0,,その…
+Dialogue: 0,0:14:30.94,0:14:32.80,Dial-JP,,0,0,0,,痛かったけど　大丈夫
+Dialogue: 0,0:14:33.14,0:14:36.41,Dial-JP,,0,0,0,,今あんたをコピーして　傷治ったから平気よ
+Dialogue: 0,0:14:36.82,0:14:38.20,Dial-JP,,0,0,0,,めっちゃ痛かったけど
+Dialogue: 0,0:14:38.20,0:14:39.40,Dial-JP,,0,0,0,,ごめんなさい
+Dialogue: 0,0:14:40.12,0:14:43.53,Dial-JP,,0,0,0,,気にすんな　私があんたでも同じことしてた
+Dialogue: 0,0:14:45.03,0:14:48.05,Dial-JP,,0,0,0,,窓と澪は　コフネに戻って子どもらを頼む
+Dialogue: 0,0:14:48.05,0:14:48.92,Dial-JP,,0,0,0,,任しとけ
+Dialogue: 0,0:14:54.62,0:14:55.42,Dial-JP,,0,0,0,,慎ちゃん
+Dialogue: 0,0:14:57.94,0:15:00.39,Dial-JP,,0,0,0,,朱鷺子たちのこと　お願い
+Dialogue: 0,0:15:01.85,0:15:03.32,Dial-JP,,0,0,0,,うん　任せろ
+Dialogue: 0,0:15:05.55,0:15:06.34,Dial-JP,,0,0,0,,行くぞ　ミオ
+Dialogue: 0,0:15:07.02,0:15:07.76,Dial-JP,,0,0,0,,虎島へ
+Dialogue: 0,0:15:09.94,0:15:11.64,Dial-JP2,,0,0,0,,トキちゃんの記憶によれば
+Dialogue: 0,0:15:12.10,0:15:15.80,Dial-JP2,,0,0,0,,南雲先生から合図があったのが　10時45分
+Dialogue: 0,0:15:16.80,0:15:19.44,Dial-JP,,0,0,0,,間に合え　間に合ってくれ
+Dialogue: 0,0:15:24.79,0:15:26.92,Dial-JP,,0,0,0,,ミオ　戦ってる暇はない
+Dialogue: 0,0:15:27.19,0:15:29.48,Dial-JP,,0,0,0,,跳ぶ　舌かまんといてよ
+Dialogue: 0,0:15:45.13,0:15:45.80,Dial-JP,,0,0,0,,着いた
+Dialogue: 0,0:15:52.35,0:15:54.45,Dial-JP,,0,0,0,,あれは　シデの攻撃
+Dialogue: 0,0:15:54.90,0:15:56.75,Dial-JP,,0,0,0,,トキちゃんの記憶で見たのと同じ
+Dialogue: 0,0:15:57.63,0:16:00.68,Dial-JP,,0,0,0,,いったいヤツは何をやったんだ　ロズが一瞬で
+Dialogue: 0,0:16:04.17,0:16:05.28,Dial-JP,,0,0,0,,なるほど
+Dialogue: 0,0:16:05.56,0:16:08.78,Dial-JP,,0,0,0,,こんなふうに変わるんやねぇ　展開が
+Dialogue: 0,0:16:09.12,0:16:09.93,Dial-JP,,0,0,0,,ロズ
+Dialogue: 0,0:16:14.44,0:16:17.50,Dial-JP,,0,0,0,,来たか　思ったより早かったな
+Dialogue: 0,0:16:20.60,0:16:21.70,Dial-JP,,0,0,0,,慎平さん
+Dialogue: 0,0:16:21.70,0:16:23.22,Dial-JP,,0,0,0,,朱鷺子は手ぇ出すな
+Dialogue: 0,0:16:24.45,0:16:25.20,Dial-JP,,0,0,0,,死ぬよ
+Dialogue: 0,0:16:27.48,0:16:30.76,Dial-JP,,0,0,0,,ループしてこの戦いの顛末を知っておるのか
+Dialogue: 0,0:16:31.19,0:16:33.22,Dial-JP,,0,0,0,,逃げた朱鷺子から教わったな
+Dialogue: 0,0:16:35.08,0:16:39.14,Dial-JP,,0,0,0,,おやおや　何を驚いてるんですか　慎平君
+Dialogue: 0,0:16:40.78,0:16:43.07,Dial-JP,,0,0,0,,君がループしてくれたおかげで
+Dialogue: 0,0:16:43.82,0:16:46.84,Dial-JP,,0,0,0,,われわれももう一度戦えたんですよ
+Dialogue: 0,0:16:48.07,0:16:50.03,Dial-JP,,0,0,0,,そ…　そんな
+Dialogue: 0,0:16:50.62,0:16:51.99,Dial-JP,,0,0,0,,感謝します
+Dialogue: 0,0:16:52.38,0:16:54.20,Dial-JP,,0,0,0,,おかげで楽勝でした
+Dialogue: 0,0:16:54.63,0:16:56.94,Dial-JP,,0,0,0,,先生ぇ
+Dialogue: 0,0:16:58.04,0:16:59.80,Dial-JP,,0,0,0,,この距離では当たらん
+Dialogue: 0,0:16:59.80,0:17:01.73,Dial-JP,,0,0,0,,無駄弾撃つなよ　凸村
+Dialogue: 0,0:17:05.27,0:17:06.63,Dial-JP,,0,0,0,,あれがハイネか
+Dialogue: 0,0:17:07.07,0:17:09.24,Dial-JP,,0,0,0,,ヤツめ　この戦い２度目やと
+Dialogue: 0,0:17:09.79,0:17:13.33,Dial-JP,,0,0,0,,ループしてわしの狙撃位置を知っとったんや　クソ
+Dialogue: 0,0:17:13.80,0:17:16.17,Dial-JP,,0,0,0,,こっちの武器はわしの山刀と
+Dialogue: 0,0:17:16.68,0:17:18.26,Dial-JP,,0,0,0,,凸村のデリンジャー
+Dialogue: 0,0:17:18.64,0:17:19.18,Dial-JP,,0,0,0,,ギル
+Dialogue: 0,0:17:19.18,0:17:21.56,Dial-JP,,0,0,0,,そして　ミオしかない
+Dialogue: 0,0:17:21.96,0:17:25.20,Dial-JP,,0,0,0,,少々心もとないぞ　慎平
+Dialogue: 0,0:17:25.20,0:17:26.98,Dial-JP,,0,0,0,,今戦うたら…
+Dialogue: 0,0:17:27.85,0:17:29.09,Dial-JP,,0,0,0,,全滅
+Dialogue: 0,0:17:29.61,0:17:31.55,Dial-JP,,0,0,0,,慎平　ミオ　引くぞ
+Dialogue: 0,0:17:31.95,0:17:32.83,Dial-JP,,0,0,0,,ギルに乗れ
+Dialogue: 0,0:17:33.74,0:17:35.28,Dial-JP,,0,0,0,,聞こえんのか　慎平
+Dialogue: 0,0:17:35.28,0:17:36.23,Dial-JP,,0,0,0,,でも先生が…
+Dialogue: 0,0:17:36.71,0:17:38.66,Dial-JP,,0,0,0,,先生をこのまま放っていくんですか
+Dialogue: 0,0:17:38.85,0:17:41.62,Dial-JP,,0,0,0,,アホんだら　せやから引くんじゃ
+Dialogue: 0,0:17:41.93,0:17:44.64,Dial-JP,,0,0,0,,ひづるの命をドブに放す気か
+Dialogue: 0,0:17:48.48,0:17:49.16,Dial-JP,,0,0,0,,これは…
+Dialogue: 0,0:18:00.71,0:18:01.95,Dial-JP,,0,0,0,,去ぬぞ　シデ
+Dialogue: 0,0:18:02.78,0:18:05.90,Dial-JP,,0,0,0,,多勢に無勢じゃ　今はこれでええ
+Dialogue: 0,0:18:08.35,0:18:09.43,Dial-JP,,0,0,0,,分かりました
+Dialogue: 0,0:18:18.67,0:18:20.36,Dial-JP,,0,0,0,,た…　助かった
+Dialogue: 0,0:18:21.79,0:18:22.47,Dial-JP,,0,0,0,,先生
+Dialogue: 0,0:18:23.83,0:18:25.04,Dial-JP,,0,0,0,,南雲先生
+Dialogue: 0,0:18:28.90,0:18:31.24,Dial-JP,,0,0,0,,し…　慎平君か
+Dialogue: 0,0:18:31.87,0:18:32.51,Dial-JP,,0,0,0,,先生
+Dialogue: 0,0:18:33.73,0:18:35.47,Dial-JP,,0,0,0,,す…　すまない
+Dialogue: 0,0:18:37.11,0:18:42.59,Dial-JP,,0,0,0,,か…　必ず助けると言った　あの約束…
+Dialogue: 0,0:18:43.56,0:18:46.98,Dial-JP,,0,0,0,,私には果たせそうにない
+Dialogue: 0,0:18:47.22,0:18:49.75,Dial-JP,,0,0,0,,そんなことない　そんなことないです
+Dialogue: 0,0:18:50.75,0:18:52.59,Dial-JP,,0,0,0,,銃を　凸村さん
+Dialogue: 0,0:18:56.51,0:18:57.99,Dial-JP,,0,0,0,,今すぐ戻ります
+Dialogue: 0,0:18:58.20,0:18:58.77,Dial-JP,,0,0,0,,よせ
+Dialogue: 0,0:18:59.62,0:19:01.91,Dial-JP,,0,0,0,,次は…　次こそは助けます
+Dialogue: 0,0:19:02.20,0:19:04.19,Dial-JP,,0,0,0,,よせ　手遅れだ
+Dialogue: 0,0:19:09.97,0:19:12.81,Dial-JP,,0,0,0,,慎ちゃんが一番よう分かってるはずやろ
+Dialogue: 0,0:19:12.99,0:19:15.22,Dial-JP,,0,0,0,,ループ能力は限界ギリギリ
+Dialogue: 0,0:19:16.15,0:19:18.93,Dial-JP,,0,0,0,,両方はもう助けられやんて
+Dialogue: 0,0:19:24.36,0:19:25.69,Dial-JP,,0,0,0,,な…　なら　病院へ
+Dialogue: 0,0:19:26.42,0:19:27.51,Dial-JP,,0,0,0,,ミオならあっちゅう間に…
+Dialogue: 0,0:19:28.43,0:19:31.36,Dial-JP,,0,0,0,,いいか　よく聞け
+Dialogue: 0,0:19:32.78,0:19:36.14,Dial-JP,,0,0,0,,あいつは　子どもなんだ
+Dialogue: 0,0:19:36.83,0:19:40.44,Dial-JP,,0,0,0,,ハイネは　化け物かもしれないが
+Dialogue: 0,0:19:41.37,0:19:43.85,Dial-JP,,0,0,0,,元となる最初の人格は
+Dialogue: 0,0:19:44.13,0:19:47.08,Dial-JP,,0,0,0,,寂しがり屋で　甘えん坊な
+Dialogue: 0,0:19:47.42,0:19:50.49,Dial-JP,,0,0,0,,ただの一人の子どもだ
+Dialogue: 0,0:19:51.46,0:19:55.92,Dial-JP,,0,0,0,,シデの狙いは　ハイネとは違う
+Dialogue: 0,0:19:56.99,0:20:01.76,Dial-JP,,0,0,0,,ハイネは恐らくシデに利用されてるだけだ
+Dialogue: 0,0:20:02.55,0:20:05.49,Dial-JP,,0,0,0,,親玉は　シデの方なんだ
+Dialogue: 0,0:20:09.80,0:20:15.46,Dial-JP,,0,0,0,,慎平君　ハイネを解放してやってくれ
+Dialogue: 0,0:20:16.84,0:20:19.38,Dial-JP,,0,0,0,,はい　必ず
+Dialogue: 0,0:20:19.78,0:20:20.62,Dial-JP,,0,0,0,,もうええ
+Dialogue: 0,0:20:21.57,0:20:23.83,Dial-JP,,0,0,0,,もうしゃべるな　ひづる
+Dialogue: 0,0:20:26.55,0:20:29.71,Dial-JP,,0,0,0,,最期としては　悪くない
+Dialogue: 0,0:20:31.82,0:20:34.42,Dial-JP,,0,0,0,,辛気くさい顔を並べるな
+Dialogue: 0,0:20:35.56,0:20:39.41,Dial-JP,,0,0,0,,どれだけ長く生きたかじゃない
+Dialogue: 0,0:20:41.01,0:20:45.06,Dial-JP,,0,0,0,,いかに　命を使い切ったかだ
+Dialogue: 0,0:21:09.30,0:21:12.39,Dial-JP,,0,0,0,,弟は　君に託す
+Dialogue: 0,0:21:13.80,0:21:17.36,Dial-JP,,0,0,0,,最後にどんでん返しちゃれ
+Dialogue: 0,0:21:46.45,0:21:48.35,Dial-JP,,0,0,0,,おい　ひづる
+Dialogue: 0,0:21:50.52,0:21:53.00,Dial-JP,,0,0,0,,ひづるぅ
+Dialogue: 1,0:00:04.72,0:00:05.97,Dial-CH,,0,0,0,,胜算?
+Dialogue: 1,0:00:06.69,0:00:07.59,Dial-CH,,0,0,0,,搞笑
+Dialogue: 1,0:00:11.25,0:00:11.95,Dial-CH,,0,0,0,,好快
+Dialogue: 1,0:00:19.19,0:00:21.99,Dial-CH,,0,0,0,,这动作 赶上{\c&HD3D3D3&}潮{\c&HFDFDFD&}了
+Dialogue: 1,0:00:22.54,0:00:23.08,Dial-CH,,0,0,0,,不对…
+Dialogue: 1,0:00:24.40,0:00:25.45,Dial-CH,,0,0,0,,更胜一筹吗
+Dialogue: 1,0:00:30.66,0:00:33.22,Dial-CH,,0,0,0,,这是决定拼死一搏吗
+Dialogue: 1,0:00:34.39,0:00:35.05,Dial-CH,,0,0,0,,日鹤
+Dialogue: 1,0:02:14.52,0:02:15.99,Dial-CH,,0,0,0,,好险好险
+Dialogue: 1,0:02:16.47,0:02:19.25,Dial-CH,,0,0,0,,喂 四手 你打算躺到什么时候
+Dialogue: 1,0:02:23.16,0:02:25.14,Dial-CH,,0,0,0,,我起
+Dialogue: 1,0:02:25.69,0:02:27.22,Dial-CH,,0,0,0,,等下 那家伙
+Dialogue: 1,0:02:27.22,0:02:32.75,Dial-CH,,0,0,0,,是我神社供奉的重宝 天沼矛 你怎么用得这么熟练
+Dialogue: 1,0:02:33.05,0:02:35.20,Dial-CH,,0,0,0,,龙之介怎么说也是影子
+Dialogue: 1,0:02:35.20,0:02:37.20,Dial-CH,,0,0,0,,虽说复制不了外界事物
+Dialogue: 1,0:02:37.20,0:02:39.68,Dial-CH,,0,0,0,,但模仿能力看来不差啊
+Dialogue: 1,0:02:39.83,0:02:43.03,Dial-CH,,0,0,0,,这每次攻击的杀意有点凌厉
+Dialogue: 1,0:02:43.03,0:02:47.24,Dial-CH,,0,0,0,,令人难以接受啊 枉我从你小时候起就认识你
+Dialogue: 1,0:02:47.24,0:02:49.89,Dial-CH,,0,0,0,,你就这么讨厌我?
+Dialogue: 1,0:02:50.06,0:02:52.40,Dial-CH,,0,0,0,,有必要这么努力吗
+Dialogue: 1,0:02:52.40,0:02:55.45,Dial-CH,,0,0,0,,你拼命战斗又有什么意义
+Dialogue: 1,0:02:56.41,0:02:58.74,Dial-CH,,0,0,0,,我讨厌的是你说的话
+Dialogue: 1,0:02:59.42,0:03:00.45,Dial-CH,,0,0,0,,我说的话?
+Dialogue: 1,0:03:00.45,0:03:03.07,Dial-CH,,0,0,0,,人借助词汇表达自我
+Dialogue: 1,0:03:03.59,0:03:06.43,Dial-CH,,0,0,0,,一个人的说话方式与其人性密切相关
+Dialogue: 1,0:03:06.86,0:03:12.06,Dial-CH,,0,0,0,,哪怕度过了数百年的时光 你终究也不会理解
+Dialogue: 1,0:03:12.97,0:03:16.63,Dial-CH,,0,0,0,,我再问你一次 你为何归来 日鹤
+Dialogue: 1,0:03:17.18,0:03:19.89,Dial-CH,,0,0,0,,明知死亡在前 还决心回来赴死
+Dialogue: 1,0:03:19.89,0:03:21.66,Dial-CH,,0,0,0,,是蠢人的所作所为
+Dialogue: 1,0:03:21.80,0:03:23.16,Dial-CH,,0,0,0,,一点也不像你
+Dialogue: 1,0:03:23.59,0:03:24.88,Dial-CH,,0,0,0,,你该知道原因吧
+Dialogue: 1,0:03:25.28,0:03:29.31,Dial-CH,,0,0,0,,之前问这个问题的时候 你扫描过我的大脑吧
+Dialogue: 1,0:03:29.86,0:03:34.18,Dial-CH,,0,0,0,,这样吗 能够读取记忆并不意味着能够理解
+Dialogue: 1,0:03:35.32,0:03:37.41,Dial-CH,,0,0,0,,不如再扫描我一次试试
+Dialogue: 1,0:03:37.87,0:03:41.12,Dial-CH,,0,0,0,,创造我的影子 直接问影子不就好了
+Dialogue: 1,0:03:42.67,0:03:44.14,Dial-CH,,0,0,0,,我不会上当
+Dialogue: 1,0:03:44.84,0:03:47.72,Dial-CH,,0,0,0,,日鹤 你有免疫力吧
+Dialogue: 1,0:03:47.97,0:03:49.75,Dial-CH,,0,0,0,,{\c&HD3D3D3&}澪{\c&HFDFDFD&}能够帮忙实现
+Dialogue: 1,0:03:50.07,0:03:54.12,Dial-CH,,0,0,0,,你准备趁我发光摧毁我这身体吧
+Dialogue: 1,0:03:54.12,0:03:55.28,Dial-CH,,0,0,0,,被看穿了吗
+Dialogue: 1,0:03:55.49,0:03:58.84,Dial-CH,,0,0,0,,没有我的眼睛 你就能打败四手
+Dialogue: 1,0:03:58.84,0:04:02.57,Dial-CH,,0,0,0,,打败了四手 消灭我在地下的本体也就轻而易举
+Dialogue: 1,0:04:02.57,0:04:04.12,Dial-CH,,0,0,0,,这就是你的计划吧
+Dialogue: 1,0:04:04.12,0:04:04.78,Dial-CH,,0,0,0,,{\c&HD3D3D3&}波稻{\c&HFDFDFD&}
+Dialogue: 1,0:04:04.78,0:04:05.86,Dial-CH,,0,0,0,,先不要急
+Dialogue: 1,0:04:05.86,0:04:08.75,Dial-CH,,0,0,0,,回答我 你为什么回来
+Dialogue: 1,0:04:08.75,0:04:10.76,Dial-CH,,0,0,0,,因为收到了那条信息吗
+Dialogue: 1,0:04:11.13,0:04:13.10,Dial-CH,,0,0,0,,这是网代慎平的人格吧
+Dialogue: 1,0:04:13.51,0:04:15.96,Dial-CH,,0,0,0,,能够冷静地俯瞰事物的发展
+Dialogue: 1,0:04:15.96,0:04:18.33,Dial-CH,,0,0,0,,但同时也无法放过不理解的事
+Dialogue: 1,0:04:18.33,0:04:20.51,Dial-CH,,0,0,0,,会执着于寻找答案 会烦躁
+Dialogue: 1,0:04:20.92,0:04:22.41,Dial-CH,,0,0,0,,要和他们继续对话?
+Dialogue: 1,0:04:22.41,0:04:26.08,Dial-CH,,0,0,0,,能够争取到时间最好不过 交给我吧
+Dialogue: 1,0:04:27.75,0:04:29.53,Dial-CH,,0,0,0,,起初是一种好奇心
+Dialogue: 1,0:04:30.52,0:04:35.06,Dial-CH,,0,0,0,,但我也一直在寻找赎罪的机会
+Dialogue: 1,0:04:36.63,0:04:37.86,Dial-CH,,0,0,0,,赎罪?
+Dialogue: 1,0:04:38.54,0:04:42.51,Dial-CH,,0,0,0,,四手说的没错 龙之介的死是我的错
+Dialogue: 1,0:04:44.28,0:04:46.80,Dial-CH,,0,0,0,,龙之介的死被当做事故处理
+Dialogue: 1,0:04:47.66,0:04:49.13,Dial-CH,,0,0,0,,没有人责怪我
+Dialogue: 1,0:04:49.52,0:04:51.96,Dial-CH,,0,0,0,,朋友和父母也都安慰我
+Dialogue: 1,0:04:52.90,0:04:57.72,Dial-CH,,0,0,0,,我成了在事故中失去双胞胎弟弟的可怜孩子
+Dialogue: 1,0:04:58.95,0:05:02.38,Dial-CH,,0,0,0,,但其实 说他死在我手中也不为过
+Dialogue: 1,0:05:03.86,0:05:07.93,Dial-CH,,0,0,0,,奇迹出现 我向龙之介的影子道歉了
+Dialogue: 1,0:05:08.62,0:05:10.94,Dial-CH,,0,0,0,,可这并不意味着他能够死而复生
+Dialogue: 1,0:05:11.55,0:05:13.94,Dial-CH,,0,0,0,,而我现在能够做到的事情
+Dialogue: 1,0:05:15.46,0:05:19.42,Dial-CH,,0,0,0,,也只是阻止接下来更多的人失去生命
+Dialogue: 1,0:05:21.29,0:05:23.64,Dial-CH,,0,0,0,,我会阻止你们 一定会
+Dialogue: 1,0:05:24.99,0:05:27.89,Dial-CH,,0,0,0,,赎罪 这就是你的理由?
+Dialogue: 1,0:05:27.89,0:05:30.04,Dial-CH,,0,0,0,,令人作呕呢
+Dialogue: 1,0:05:30.28,0:05:33.40,Dial-CH,,0,0,0,,这就为了素不相识的人拼上性命?
+Dialogue: 1,0:05:33.40,0:05:38.80,Dial-CH,,0,0,0,,你这种人最讨厌了 总是自以为站在正义的一方
+Dialogue: 1,0:05:40.24,0:05:41.04,Dial-CH,,0,0,0,,正义?
+Dialogue: 1,0:05:41.91,0:05:42.99,Dial-CH,,0,0,0,,你说正义
+Dialogue: 1,0:05:44.43,0:05:45.48,Dial-CH,,0,0,0,,说我正义?
+Dialogue: 1,0:05:55.72,0:05:59.07,Dial-CH,,0,0,0,,喂 你能不能好好俯瞰一下 {\c&HD3D3D3&}波稻{\c&HFDFDFD&}
+Dialogue: 1,0:05:59.77,0:06:04.03,Dial-CH,,0,0,0,,那个男人的所作所为真的是为了你吗
+Dialogue: 1,0:06:04.37,0:06:04.97,Dial-CH,,0,0,0,,什么
+Dialogue: 1,0:06:04.97,0:06:07.41,Dial-CH,,0,0,0,,{\c&HD3D3D3&}波稻{\c&HFDFDFD&}回归故乡的目标
+Dialogue: 1,0:06:07.41,0:06:11.31,Dial-CH,,0,0,0,,与那男人在3周目最后所说的话存在矛盾
+Dialogue: 1,0:06:12.94,0:06:15.04,Dial-CH,,0,0,0,,「这就是我的终局」
+Dialogue: 1,0:06:16.89,0:06:19.32,Dial-CH,,0,0,0,,这句话什么意思 四手
+Dialogue: 1,0:06:19.84,0:06:21.16,Dial-CH,,0,0,0,,终局?
+Dialogue: 1,0:06:21.32,0:06:24.41,Dial-CH,,0,0,0,,那个男人自始至终只有自我
+Dialogue: 1,0:06:24.61,0:06:27.12,Dial-CH,,0,0,0,,所作所为全部是为了他自己
+Dialogue: 1,0:06:27.81,0:06:31.76,Dial-CH,,0,0,0,,终局? 我怎么不知道你在说什么
+Dialogue: 1,0:06:32.14,0:06:33.97,Dial-CH,,0,0,0,,她在胡言乱语 {\c&HD3D3D3&}波稻{\c&HFDFDFD&}
+Dialogue: 1,0:06:33.97,0:06:37.04,Dial-CH,,0,0,0,,这是想用语言来迷惑我们
+Dialogue: 1,0:06:38.77,0:06:43.15,Dial-CH,,0,0,0,,反过来想想 这也说明她已经束手无策了
+Dialogue: 1,0:06:43.54,0:06:46.33,Dial-CH,,0,0,0,,愉快的交谈到此为止
+Dialogue: 1,0:06:46.97,0:06:49.69,Dial-CH,,0,0,0,,原本是不想让{\c&HD3D3D3&}波稻{\c&HFDFDFD&}看见的
+Dialogue: 1,0:06:49.69,0:06:51.35,Dial-CH,,0,0,0,,看来我们别无选择
+Dialogue: 1,0:06:51.88,0:06:53.59,Dial-CH,,0,0,0,,之后交给你了 朱鹭子
+Dialogue: 1,0:06:54.67,0:06:58.22,Dial-CH,,0,0,0,,四手的铠甲没有自我意识 内部是空的
+Dialogue: 1,0:07:00.13,0:07:00.76,Dial-CH,,0,0,0,,也就是说…
+Dialogue: 1,0:07:05.18,0:07:07.24,Dial-CH,,0,0,0,,你应当能够进入其中
+Dialogue: 1,0:07:07.63,0:07:11.00,Dial-CH,,0,0,0,,龙之介 你应该很擅长附身他人吧
+Dialogue: 1,0:07:11.49,0:07:14.81,Dial-CH,,0,0,0,,潜入那家伙的铠甲 从内部破坏
+Dialogue: 1,0:07:16.46,0:07:17.21,Dial-CH,,0,0,0,,什么
+Dialogue: 1,0:07:29.74,0:07:31.01,Dial-CH,,0,0,0,,你… 你是…
+Dialogue: 1,0:07:35.97,0:07:38.85,Dial-CH,,0,0,0,,日鹤这家伙 还藏了这一招
+Dialogue: 1,0:07:39.08,0:07:42.88,Dial-CH,,0,0,0,,将龙之介的数据转移到四手的泥团 以此为材料…
+Dialogue: 1,0:07:43.99,0:07:45.22,Dial-CH,,0,0,0,,竟然诞生了
+Dialogue: 1,0:07:53.18,0:07:54.30,Dial-CH,,0,0,0,,成… 成功了
+Dialogue: 1,0:07:54.84,0:07:55.41,Dial-CH,,0,0,0,,没有错
+Dialogue: 1,0:08:01.00,0:08:02.04,Dial-CH,,0,0,0,,姐姐
+Dialogue: 1,0:08:13.25,0:08:14.81,Dial-CH,,0,0,0,,退后 小慎
+Dialogue: 1,0:08:15.23,0:08:16.02,Dial-CH,,0,0,0,,很危险
+Dialogue: 1,0:08:17.56,0:08:20.56,Dial-CH,,0,0,0,,我等你们好长时间了
+Dialogue: 1,0:08:20.80,0:08:22.49,Dial-CH,,0,0,0,,你把澪和窗怎么样了
+Dialogue: 1,0:08:23.36,0:08:27.41,Dial-CH,,0,0,0,,你果然来了小澪这一边 慎平
+Dialogue: 1,0:08:28.35,0:08:30.23,Dial-CH,,0,0,0,,我让你退后 小慎
+Dialogue: 1,0:08:31.48,0:08:32.55,Dial-CH,,0,0,0,,交给我
+Dialogue: 1,0:08:32.98,0:08:39.04,Dial-CH,,0,0,0,,比起杀我 杀了慎平是不是要更好一些 {\c&HD3D3D3&}小澪{\c&HFDFDFD&}
+Dialogue: 1,0:08:39.99,0:08:43.19,Dial-CH,,0,0,0,,我把小澪和窗送去蛭子洞了
+Dialogue: 1,0:08:43.63,0:08:46.34,Dial-CH,,0,0,0,,现在妈妈应该开饭了吧
+Dialogue: 1,0:08:47.16,0:08:50.43,Dial-CH,,0,0,0,,你这是晚了一步吧 慎平
+Dialogue: 1,0:08:51.05,0:08:52.88,Dial-CH,,0,0,0,,你挺有胆量的 四手
+Dialogue: 1,0:08:53.06,0:08:55.72,Dial-CH,,0,0,0,,也不逃走 敢一个人在这里等我们
+Dialogue: 1,0:08:55.72,0:08:57.94,Dial-CH,,0,0,0,,没办法交给其他的影子
+Dialogue: 1,0:08:57.94,0:09:00.88,Dial-CH,,0,0,0,,不能再失去更多的同伴了
+Dialogue: 1,0:09:00.88,0:09:03.69,Dial-CH,,0,0,0,,我一个人类 也没法被篡改
+Dialogue: 1,0:09:03.96,0:09:06.65,Dial-CH,,0,0,0,,什么 他们害怕篡改?
+Dialogue: 1,0:09:07.03,0:09:09.11,Dial-CH,,0,0,0,,这家伙以为潮还活着
+Dialogue: 1,0:09:09.65,0:09:10.82,Dial-CH,,0,0,0,,怎么
+Dialogue: 1,0:09:11.22,0:09:15.28,Dial-CH,,0,0,0,,等等 既然他以为潮还活着 我们可以利用这一点
+Dialogue: 1,0:09:16.69,0:09:17.78,Dial-CH,,0,0,0,,被看穿了吗
+Dialogue: 1,0:09:18.94,0:09:23.00,Dial-CH,,0,0,0,,{\c&HD3D3D3&}小澪{\c&HFDFDFD&} 赶快杀了慎平让他循环
+Dialogue: 1,0:09:23.00,0:09:24.00,Dial-CH,,0,0,0,,不然来不及…
+Dialogue: 1,0:09:25.83,0:09:26.98,Dial-CH,,0,0,0,,这样吗
+Dialogue: 1,0:09:27.32,0:09:30.45,Dial-CH,,0,0,0,,循环过后 我自然会复活
+Dialogue: 1,0:09:33.10,0:09:34.35,Dial-CH,,0,0,0,,话太多了
+Dialogue: 1,0:09:40.77,0:09:43.52,Dial-CH,,0,0,0,,小慎 这家伙没骗我们
+Dialogue: 1,0:09:43.89,0:09:45.48,Dial-CH,,0,0,0,,刚刚 澪死了
+Dialogue: 1,0:09:45.90,0:09:46.69,Dial-CH,,0,0,0,,你能感受到吗
+Dialogue: 1,0:09:47.24,0:09:49.76,Dial-CH,,0,0,0,,本体死后 我会产生一种感觉
+Dialogue: 1,0:09:51.36,0:09:52.14,Dial-CH,,0,0,0,,循环?
+Dialogue: 1,0:09:53.08,0:09:55.06,Dial-CH,,0,0,0,,不 再等等
+Dialogue: 1,0:09:56.26,0:09:59.66,Dial-CH,,0,0,0,,需要理解现状 调查一下这家伙的记忆
+Dialogue: 1,0:09:59.66,0:10:00.45,Dial-CH,,0,0,0,,我知道了
+Dialogue: 1,0:10:06.30,0:10:07.38,Dial-CH,,0,0,0,,好奇怪
+Dialogue: 1,0:10:07.91,0:10:10.13,Dial-CH,,0,0,0,,这家伙没有记忆
+Dialogue: 1,0:10:11.01,0:10:12.05,Dial-CH,,0,0,0,,这是怎么回事
+Dialogue: 1,0:10:12.60,0:10:13.80,Dial-CH,,0,0,0,,是个空壳
+Dialogue: 1,0:10:14.21,0:10:17.87,Dial-CH,,0,0,0,,连刚才和我们对话的记忆都没有
+Dialogue: 1,0:10:18.18,0:10:19.21,Dial-CH,,0,0,0,,这算什么
+Dialogue: 1,0:10:21.24,0:10:22.98,Dial-CH,,0,0,0,,他怎么能够活动
+Dialogue: 1,0:10:23.52,0:10:26.47,Dial-CH,,0,0,0,,有两个四手 并非影子
+Dialogue: 1,0:10:26.47,0:10:29.20,Dial-CH,,0,0,0,,存在两个人 就像克隆的一样
+Dialogue: 1,0:10:29.55,0:10:32.72,Dial-CH,,0,0,0,,这家伙的手上也确实没有烧伤
+Dialogue: 1,0:10:32.72,0:10:33.90,Dial-CH,,0,0,0,,这么说另一个四手
+Dialogue: 1,0:10:34.35,0:10:36.37,Dial-CH,,0,0,0,,一定在南云老师那边
+Dialogue: 1,0:10:36.99,0:10:38.84,Dial-CH,,0,0,0,,老师应当是出事了
+Dialogue: 1,0:10:39.06,0:10:41.33,Dial-CH,,0,0,0,,{\c&HD3D3D3&}波稻{\c&HFDFDFD&}用老师的手机打来的电话
+Dialogue: 1,0:10:44.69,0:10:45.83,Dial-CH,,0,0,0,,小慎 这边
+Dialogue: 1,0:10:55.86,0:10:56.59,Dial-CH,,0,0,0,,小朱鹭
+Dialogue: 1,0:10:57.51,0:10:58.82,Dial-CH,,0,0,0,,太好了
+Dialogue: 1,0:10:59.54,0:11:02.22,Dial-CH,,0,0,0,,你还活着吗 慎平
+Dialogue: 1,0:11:03.92,0:11:07.86,Dial-CH,,0,0,0,,我循着{\c&HD3D3D3&}澪{\c&HFDFDFD&}的气息 找来了这边
+Dialogue: 1,0:11:08.64,0:11:10.52,Dial-CH,,0,0,0,,朱鹭子 发生了什么
+Dialogue: 1,0:11:11.32,0:11:17.10,Dial-CH,,0,0,0,,根津先生和凸村先生帮我逃了出来
+Dialogue: 1,0:11:17.72,0:11:20.20,Dial-CH,,0,0,0,,拜托了 去虎岛…
+Dialogue: 1,0:11:20.93,0:11:22.75,Dial-CH,,0,0,0,,去虎岛吧
+Dialogue: 1,0:11:23.63,0:11:26.74,Dial-CH,,0,0,0,,龙之介先生在和四手战斗
+Dialogue: 1,0:11:28.06,0:11:32.80,Dial-CH,,0,0,0,,去帮帮龙之介先生…
+Dialogue: 1,0:11:45.48,0:11:46.38,Dial-CH,,0,0,0,,死了
+Dialogue: 1,0:11:48.12,0:11:49.71,Dial-CH,,0,0,0,,这是朱鹭子的记忆
+Dialogue: 1,0:11:57.03,0:11:58.62,Dial-CH,,0,0,0,,快 去虎岛
+Dialogue: 1,0:12:03.33,0:12:07.11,Dial-CH,,0,0,0,,菱形医生的德林加手枪 小朱鹭拿着吗
+Dialogue: 1,0:12:07.67,0:12:09.00,Dial-CH,,0,0,0,,还有一发子弹
+Dialogue: 1,0:12:10.40,0:12:11.40,Dial-CH,,0,0,0,,小慎
+Dialogue: 1,0:12:12.53,0:12:13.34,Dial-CH,,0,0,0,,好
+Dialogue: 1,0:12:13.81,0:12:14.53,Dial-CH,,0,0,0,,我们不去
+Dialogue: 1,0:12:16.17,0:12:19.48,Dial-CH,,0,0,0,,老师和龙之介恐怕已经被杀害了
+Dialogue: 1,0:12:19.96,0:12:23.01,Dial-CH,,0,0,0,,看过小朱鹭的记忆 并不能确定是生是死
+Dialogue: 1,0:12:23.64,0:12:25.91,Dial-CH,,0,0,0,,而我们没时间跑去亲自确认了
+Dialogue: 1,0:12:26.83,0:12:29.19,Dial-CH,,0,0,0,,我们能够确定的是澪死了
+Dialogue: 1,0:12:29.96,0:12:31.75,Dial-CH,,0,0,0,,事件视界还在不断靠近
+Dialogue: 1,0:12:32.58,0:12:34.97,Dial-CH,,0,0,0,,如果不抓紧时间 澪的死可能会无法改写
+Dialogue: 1,0:12:35.40,0:12:37.80,Dial-CH,,0,0,0,,现在还来得及同时救活两边
+Dialogue: 1,0:12:38.65,0:12:42.41,Dial-CH,,0,0,0,,现在立刻循环 应该能回到10点10分左右
+Dialogue: 1,0:12:44.72,0:12:47.70,Dial-CH,,0,0,0,,这时我正在和孩子们一起下山
+Dialogue: 1,0:12:47.70,0:12:48.33,Dial-CH,,0,0,0,,你能看到?
+Dialogue: 1,0:12:48.76,0:12:50.79,Dial-CH,,0,0,0,,嗯 能够模糊看到一点
+Dialogue: 1,0:12:51.47,0:12:54.76,Dial-CH,,0,0,0,,不过10点10分已经来不及阻止{\c&HD3D3D3&}波稻{\c&HFDFDFD&}的电话了
+Dialogue: 1,0:12:55.45,0:12:57.52,Dial-CH,,0,0,0,,得先火速赶往小舟家
+Dialogue: 1,0:12:59.34,0:13:00.47,Dial-CH,,0,0,0,,救下你
+Dialogue: 1,0:13:01.05,0:13:03.82,Dial-CH,,0,0,0,,接下来迅速追上澪和窗 留住他们
+Dialogue: 1,0:13:04.07,0:13:06.64,Dial-CH,,0,0,0,,回去以后 没有时间跟你仔细说明
+Dialogue: 1,0:13:07.11,0:13:08.35,Dial-CH,,0,0,0,,别说话跟着我就行
+Dialogue: 1,0:13:08.89,0:13:12.76,Dial-CH,,0,0,0,,我要同时救下澪和南云老师
+Dialogue: 1,0:13:13.49,0:13:16.28,Dial-CH,,0,0,0,,要与时间赛跑是吗
+Dialogue: 1,0:13:22.73,0:13:24.60,Dial-CH,,0,0,0,,我先走一步
+Dialogue: 1,0:13:43.71,0:13:45.19,Dial-CH,,0,0,0,,你… 你们…
+Dialogue: 1,0:13:45.71,0:13:46.64,Dial-CH,,0,0,0,,为什么在这里
+Dialogue: 1,0:13:46.94,0:13:47.91,Dial-CH,,0,0,0,,小慎？
+Dialogue: 1,0:13:47.91,0:13:49.39,Dial-CH,,0,0,0,,赶… 赶上了
+Dialogue: 1,0:13:49.71,0:13:52.60,Dial-CH,,0,0,0,,从小舟家出来 让{\c&HD3D3D3&}澪{\c&HFDFDFD&}通过下水道带我赶来的
+Dialogue: 1,0:13:52.86,0:13:55.11,Dial-CH,,0,0,0,,你把那家伙放出来了吗
+Dialogue: 1,0:13:55.11,0:13:56.32,Dial-CH,,0,0,0,,这家伙没问题
+Dialogue: 1,0:13:56.59,0:13:59.16,Dial-CH,,0,0,0,,你们两个是不是把手机关了
+Dialogue: 1,0:13:59.69,0:14:00.29,Dial-CH,,0,0,0,,怎么了
+Dialogue: 1,0:14:00.53,0:14:03.47,Dial-CH,,0,0,0,,是小慎让我们把手机关了
+Dialogue: 1,0:14:03.47,0:14:05.99,Dial-CH,,0,0,0,,说是怕有影子打来电话
+Dialogue: 1,0:14:06.12,0:14:08.95,Dial-CH,,0,0,0,,蠢货 那电话就是影子打来的
+Dialogue: 1,0:14:16.68,0:14:18.01,Dial-CH,,0,0,0,,抱歉 慎平
+Dialogue: 1,0:14:18.84,0:14:20.30,Dial-CH,,0,0,0,,我还说过要保护澪…
+Dialogue: 1,0:14:20.59,0:14:21.20,Dial-CH,,0,0,0,,没事
+Dialogue: 1,0:14:22.30,0:14:25.26,Dial-CH,,0,0,0,,没时间了 我和影澪准备去虎岛了
+Dialogue: 1,0:14:26.14,0:14:28.72,Dial-CH,,0,0,0,,抱歉 不该对你开枪
+Dialogue: 1,0:14:29.11,0:14:29.98,Dial-CH,,0,0,0,,那个…
+Dialogue: 1,0:14:30.94,0:14:32.80,Dial-CH,,0,0,0,,很痛 不过没事
+Dialogue: 1,0:14:33.14,0:14:36.41,Dial-CH,,0,0,0,,刚刚复制完你 我伤好了所以没事
+Dialogue: 1,0:14:36.82,0:14:38.20,Dial-CH,,0,0,0,,确实很痛就是了
+Dialogue: 1,0:14:38.20,0:14:39.40,Dial-CH,,0,0,0,,对不起
+Dialogue: 1,0:14:40.12,0:14:43.53,Dial-CH,,0,0,0,,不用在意 我如果是你也会做同样的事
+Dialogue: 1,0:14:45.03,0:14:48.05,Dial-CH,,0,0,0,,麻烦窗和澪回到小舟家照顾一下孩子们
+Dialogue: 1,0:14:48.05,0:14:48.92,Dial-CH,,0,0,0,,交给我们
+Dialogue: 1,0:14:54.62,0:14:55.42,Dial-CH,,0,0,0,,小慎
+Dialogue: 1,0:14:57.94,0:15:00.39,Dial-CH,,0,0,0,,一定要救下朱鹭子他们
+Dialogue: 1,0:15:01.85,0:15:03.32,Dial-CH,,0,0,0,,嗯 交给我吧
+Dialogue: 1,0:15:05.55,0:15:06.34,Dial-CH,,0,0,0,,出发吧 {\c&HD3D3D3&}澪{\c&HFDFDFD&}
+Dialogue: 1,0:15:07.02,0:15:07.76,Dial-CH,,0,0,0,,前往虎岛
+Dialogue: 1,0:15:09.94,0:15:11.64,Dial-CH2,,0,0,0,,根据小朱鹭的记忆
+Dialogue: 1,0:15:12.10,0:15:15.80,Dial-CH2,,0,0,0,,南云老师在10点45分发出了信号
+Dialogue: 1,0:15:16.80,0:15:19.44,Dial-CH,,0,0,0,,要赶上 一定要赶上
+Dialogue: 1,0:15:24.79,0:15:26.92,Dial-CH,,0,0,0,,{\c&HD3D3D3&}澪{\c&HFDFDFD&} 我们没时间战斗
+Dialogue: 1,0:15:27.19,0:15:29.48,Dial-CH,,0,0,0,,准备起跳 别咬到舌头
+Dialogue: 1,0:15:45.13,0:15:45.80,Dial-CH,,0,0,0,,到了
+Dialogue: 1,0:15:52.35,0:15:54.45,Dial-CH,,0,0,0,,那是 四手的攻击
+Dialogue: 1,0:15:54.90,0:15:56.75,Dial-CH,,0,0,0,,和在小朱鹭的记忆中见到的一样
+Dialogue: 1,0:15:57.63,0:16:00.68,Dial-CH,,0,0,0,,那家伙究竟做了什么 小罗一瞬间…
+Dialogue: 1,0:16:04.17,0:16:05.28,Dial-CH,,0,0,0,,原来如此
+Dialogue: 1,0:16:05.56,0:16:08.78,Dial-CH,,0,0,0,,事情的发展会如此改变吗
+Dialogue: 1,0:16:09.12,0:16:09.93,Dial-CH,,0,0,0,,小罗
+Dialogue: 1,0:16:14.44,0:16:17.50,Dial-CH,,0,0,0,,来了吗 比想象中早了一点
+Dialogue: 1,0:16:20.60,0:16:21.70,Dial-CH,,0,0,0,,慎平
+Dialogue: 1,0:16:21.70,0:16:23.22,Dial-CH,,0,0,0,,朱鹭子看着就好
+Dialogue: 1,0:16:24.45,0:16:25.20,Dial-CH,,0,0,0,,不然会死
+Dialogue: 1,0:16:27.48,0:16:30.76,Dial-CH,,0,0,0,,循环过后 你已经了解了这场战斗的经过吗
+Dialogue: 1,0:16:31.19,0:16:33.22,Dial-CH,,0,0,0,,逃走的朱鹭子带去的信息吗
+Dialogue: 1,0:16:35.08,0:16:39.14,Dial-CH,,0,0,0,,怎么了 有什么好惊讶的 慎平
+Dialogue: 1,0:16:40.78,0:16:43.07,Dial-CH,,0,0,0,,还要谢谢你进行了循环
+Dialogue: 1,0:16:43.82,0:16:46.84,Dial-CH,,0,0,0,,我们才能够重新战斗一次
+Dialogue: 1,0:16:48.07,0:16:50.03,Dial-CH,,0,0,0,,怎… 怎么会
+Dialogue: 1,0:16:50.62,0:16:51.99,Dial-CH,,0,0,0,,谢谢你
+Dialogue: 1,0:16:52.38,0:16:54.20,Dial-CH,,0,0,0,,赢得有点容易
+Dialogue: 1,0:16:54.63,0:16:56.94,Dial-CH,,0,0,0,,老师
+Dialogue: 1,0:16:58.04,0:16:59.80,Dial-CH,,0,0,0,,这个距离打不中
+Dialogue: 1,0:16:59.80,0:17:01.73,Dial-CH,,0,0,0,,别浪费子弹 凸村
+Dialogue: 1,0:17:05.27,0:17:06.63,Dial-CH,,0,0,0,,那就是{\c&HD3D3D3&}波稻{\c&HFDFDFD&}吗
+Dialogue: 1,0:17:07.07,0:17:09.24,Dial-CH,,0,0,0,,意思是经历了两次这场战斗吗
+Dialogue: 1,0:17:09.79,0:17:13.33,Dial-CH,,0,0,0,,循环过后知道了我狙击的位置 该死
+Dialogue: 1,0:17:13.80,0:17:16.17,Dial-CH,,0,0,0,,我们这边的武器 有我的山刀
+Dialogue: 1,0:17:16.68,0:17:18.26,Dial-CH,,0,0,0,,还有凸村的德林加手枪
+Dialogue: 1,0:17:18.64,0:17:19.18,Dial-CH,,0,0,0,,小盖
+Dialogue: 1,0:17:19.18,0:17:21.56,Dial-CH,,0,0,0,,然后只剩{\c&HD3D3D3&}澪{\c&HFDFDFD&}了
+Dialogue: 1,0:17:21.96,0:17:25.20,Dial-CH,,0,0,0,,稍微有些不安啊 慎平
+Dialogue: 1,0:17:25.20,0:17:26.98,Dial-CH,,0,0,0,,现在开战的话…
+Dialogue: 1,0:17:27.85,0:17:29.09,Dial-CH,,0,0,0,,会全灭
+Dialogue: 1,0:17:29.61,0:17:31.55,Dial-CH,,0,0,0,,慎平 {\c&HD3D3D3&}澪{\c&HFDFDFD&} 我们撤
+Dialogue: 1,0:17:31.95,0:17:32.83,Dial-CH,,0,0,0,,来小盖上面
+Dialogue: 1,0:17:33.74,0:17:35.28,Dial-CH,,0,0,0,,你听不见吗 慎平
+Dialogue: 1,0:17:35.28,0:17:36.23,Dial-CH,,0,0,0,,可是老师…
+Dialogue: 1,0:17:36.71,0:17:38.66,Dial-CH,,0,0,0,,就这样抛弃老师不管吗
+Dialogue: 1,0:17:38.85,0:17:41.62,Dial-CH,,0,0,0,,蠢货 所以我们才要撤离啊
+Dialogue: 1,0:17:41.93,0:17:44.64,Dial-CH,,0,0,0,,你想要日鹤白白丧命吗
+Dialogue: 1,0:17:48.48,0:17:49.16,Dial-CH,,0,0,0,,这是…
+Dialogue: 1,0:18:00.71,0:18:01.95,Dial-CH,,0,0,0,,我们走 四手
+Dialogue: 1,0:18:02.78,0:18:05.90,Dial-CH,,0,0,0,,寡不敌众 现在这样就好
+Dialogue: 1,0:18:08.35,0:18:09.43,Dial-CH,,0,0,0,,我知道了
+Dialogue: 1,0:18:18.67,0:18:20.36,Dial-CH,,0,0,0,,得… 得救了
+Dialogue: 1,0:18:21.79,0:18:22.47,Dial-CH,,0,0,0,,老师
+Dialogue: 1,0:18:23.83,0:18:25.04,Dial-CH,,0,0,0,,南云老师
+Dialogue: 1,0:18:28.90,0:18:31.24,Dial-CH,,0,0,0,,慎… 慎平吗
+Dialogue: 1,0:18:31.87,0:18:32.51,Dial-CH,,0,0,0,,老师
+Dialogue: 1,0:18:33.73,0:18:35.47,Dial-CH,,0,0,0,,抱… 抱歉
+Dialogue: 1,0:18:37.11,0:18:42.59,Dial-CH,,0,0,0,,我… 我说过一定会帮你的 那个约定…
+Dialogue: 1,0:18:43.56,0:18:46.98,Dial-CH,,0,0,0,,我恐怕无法履行了
+Dialogue: 1,0:18:47.22,0:18:49.75,Dial-CH,,0,0,0,,不会的 不会走到那个地步
+Dialogue: 1,0:18:50.75,0:18:52.59,Dial-CH,,0,0,0,,枪给我 凸村先生
+Dialogue: 1,0:18:56.51,0:18:57.99,Dial-CH,,0,0,0,,我立刻循环
+Dialogue: 1,0:18:58.20,0:18:58.77,Dial-CH,,0,0,0,,不要
+Dialogue: 1,0:18:59.62,0:19:01.91,Dial-CH,,0,0,0,,下次… 下次我一定能救你
+Dialogue: 1,0:19:02.20,0:19:04.19,Dial-CH,,0,0,0,,不要 已经晚了
+Dialogue: 1,0:19:09.97,0:19:12.81,Dial-CH,,0,0,0,,小慎自己应该最清楚吧
+Dialogue: 1,0:19:12.99,0:19:15.22,Dial-CH,,0,0,0,,循环能力马上就到极限
+Dialogue: 1,0:19:16.15,0:19:18.93,Dial-CH,,0,0,0,,已经无法同时挽救两边了
+Dialogue: 1,0:19:24.36,0:19:25.69,Dial-CH,,0,0,0,,那… 那就去医院
+Dialogue: 1,0:19:26.42,0:19:27.51,Dial-CH,,0,0,0,,{\c&HD3D3D3&}澪{\c&HFDFDFD&}来 很快就能…
+Dialogue: 1,0:19:28.43,0:19:31.36,Dial-CH,,0,0,0,,你给我听好了
+Dialogue: 1,0:19:32.78,0:19:36.14,Dial-CH,,0,0,0,,那家伙是个孩子
+Dialogue: 1,0:19:36.83,0:19:40.44,Dial-CH,,0,0,0,,{\c&HD3D3D3&}波稻{\c&HFDFDFD&}或许是个怪物
+Dialogue: 1,0:19:41.37,0:19:43.85,Dial-CH,,0,0,0,,但原本的最初的人格
+Dialogue: 1,0:19:44.13,0:19:47.08,Dial-CH,,0,0,0,,只是怕寂寞 爱撒娇的
+Dialogue: 1,0:19:47.42,0:19:50.49,Dial-CH,,0,0,0,,一个普通的孩子
+Dialogue: 1,0:19:51.46,0:19:55.92,Dial-CH,,0,0,0,,四手的目的和{\c&HD3D3D3&}波稻{\c&HFDFDFD&}不同
+Dialogue: 1,0:19:56.99,0:20:01.76,Dial-CH,,0,0,0,,{\c&HD3D3D3&}波稻{\c&HFDFDFD&}可能只是被四手利用了
+Dialogue: 1,0:20:02.55,0:20:05.49,Dial-CH,,0,0,0,,四手才是罪魁祸首
+Dialogue: 1,0:20:09.80,0:20:15.46,Dial-CH,,0,0,0,,慎平 希望你能让{\c&HD3D3D3&}波稻{\c&HFDFDFD&}获得自由
+Dialogue: 1,0:20:16.84,0:20:19.38,Dial-CH,,0,0,0,,嗯 我一定
+Dialogue: 1,0:20:19.78,0:20:20.62,Dial-CH,,0,0,0,,足够了
+Dialogue: 1,0:20:21.57,0:20:23.83,Dial-CH,,0,0,0,,不要说话了 日鹤
+Dialogue: 1,0:20:26.55,0:20:29.71,Dial-CH,,0,0,0,,这样的告别 也不坏
+Dialogue: 1,0:20:31.82,0:20:34.42,Dial-CH,,0,0,0,,你们别都这么沮丧
+Dialogue: 1,0:20:35.56,0:20:39.41,Dial-CH,,0,0,0,,生命的长短可以无关紧要
+Dialogue: 1,0:20:41.01,0:20:45.06,Dial-CH,,0,0,0,,关键在于要有所实现
+Dialogue: 1,0:21:09.30,0:21:12.39,Dial-CH,,0,0,0,,弟弟交付给你
+Dialogue: 1,0:21:13.80,0:21:17.36,Dial-CH,,0,0,0,,等你最终扭转乾坤
+Dialogue: 1,0:21:46.45,0:21:48.35,Dial-CH,,0,0,0,,喂 日鹤
+Dialogue: 1,0:21:50.52,0:21:53.00,Dial-CH,,0,0,0,,日鹤
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:21:56.71,0:22:07.43,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}潮風に溶けた面影は幻のままで今も
+Dialogue: 0,0:22:09.72,0:22:15.27,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}リアルで鮮明な思い出は
+Dialogue: 0,0:22:15.27,0:22:20.23,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}何度も何度も繰り返す
+Dialogue: 0,0:22:22.61,0:22:28.08,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}嘘でもいいからそばにいてよ
+Dialogue: 0,0:22:28.08,0:22:32.83,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}もっと近くで
+Dialogue: 0,0:22:35.29,0:22:38.50,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}すぐ好きになって
+Dialogue: 0,0:22:38.50,0:22:41.30,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}時間だけが過ぎて
+Dialogue: 0,0:22:41.30,0:22:46.93,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}あぁ…戻りたいな
+Dialogue: 0,0:22:51.02,0:22:56.02,ED-JP2,,0,0,0,,{\bord0\fad(300,300)}失恋ソング沢山聴いて
+Dialogue: 0,0:22:57.73,0:23:03.69,ED-JP2,,0,0,0,,{\bord0\fad(300,300)}泣いてばかりの私はもう
+Dialogue: 0,0:23:03.69,0:23:06.45,ED-JP2,,0,0,0,,{\bord0\fad(300,300)}捨てたいから
+Dialogue: 0,0:23:06.91,0:23:09.66,ED-JP2,,0,0,0,,{\bord0\fad(300,300)}強がらないで
+Dialogue: 0,0:23:09.66,0:23:14.54,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}素直になってよ
+Dialogue: 0,0:23:16.58,0:23:20.42,ED-JP2,,0,0,0,,{\blur3\fad(300,300)}なんて遅いよね
+Dialogue: 0,0:21:56.71,0:22:07.43,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}你的面容随海风飘散彷如幻影
+Dialogue: 0,0:22:09.72,0:22:15.27,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}可记忆却如此鲜明难以忘却
+Dialogue: 0,0:22:15.27,0:22:20.23,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}一次又一次反复
+Dialogue: 0,0:22:22.61,0:22:28.08,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}请待在我身边 谎言也无妨
+Dialogue: 0,0:22:28.08,0:22:32.83,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}再近一些
+Dialogue: 0,0:22:35.29,0:22:38.50,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}就这样陷入爱河
+Dialogue: 0,0:22:38.50,0:22:41.30,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}只剩时间流逝
+Dialogue: 0,0:22:41.30,0:22:46.93,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}想要回归
+Dialogue: 0,0:22:51.02,0:22:56.02,ED-CH2,,0,0,0,,{\bord0\fad(300,300)}听过太多失恋的歌
+Dialogue: 0,0:22:57.73,0:23:03.69,ED-CH2,,0,0,0,,{\bord0\fad(300,300)}总是哭泣的我
+Dialogue: 0,0:23:03.69,0:23:06.45,ED-CH2,,0,0,0,,{\bord0\fad(300,300)}也想要不管不顾
+Dialogue: 0,0:23:06.91,0:23:09.66,ED-CH2,,0,0,0,,{\bord0\fad(300,300)}不必逞强
+Dialogue: 0,0:23:09.66,0:23:14.54,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}坦率一些
+Dialogue: 0,0:23:16.58,0:23:20.42,ED-CH2,,0,0,0,,{\blur3\fad(300,300)}却为时已晚
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:23:34.52,0:23:35.27,Title,,0,0,0,,{\blur1\fs108\c&H0D202D&\bord0\pos(960,766)\t(0,430,\c&HE7FDFF&)}网代慎平最长的一天
+Dialogue: 0,0:23:35.27,0:23:35.44,Title,,0,0,0,,{\blur1\fs108\c&HE7FDFF&)\bord0\pos(960,766)}网代慎平最长的一天
+Dialogue: 0,0:23:35.52,0:23:36.90,Title,,0,0,0,,{\blur1\fs108\c&HE7FDFF&)\bord0\pos(960,766)}网代慎平最长的一天
+Dialogue: 0,0:23:37.02,0:23:37.44,Title,,0,0,0,,{\blur1\fs108\c&HE7FDFF&)\bord0\pos(960,766)}网代慎平最长的一天
+Dialogue: 0,0:23:37.56,0:23:39.44,Title,,0,0,0,,{\blur1\fs108\c&HE7FDFF&)\bord0\pos(960,766)}网代慎平最长的一天
+Dialogue: 0,0:23:39.52,0:23:40.98,Title,,0,0,0,,{\blur1\fs108\c&HE7FDFF&)\bord0\pos(960,766)}网代慎平最长的一天
