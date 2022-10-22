@@ -1,8 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Jaku-Chara Tomozaki-kun 04 [WebRip 1080p HEVC-10bit AAC].SC
-By: Nekomoekissaten
-Translate: 
-Time: 
+Title: [Nekomoe kissaten] Jaku-Chara Tomozaki-kun [04][BDRip].SC
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -30,7 +27,7 @@ Style: ED-CH,FZLanTingYuan-DB-GBK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Staff---------------
 Dialogue: 0,0:00:07.65,0:00:09.65,Staff,,0,0,0,,{\fad(300,300)\blur5\fs40}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
-Dialogue: 0,0:00:09.75,0:00:11.65,Staff,,0,0,0,,{\fad(300,300)\blur5}翻译：红黑剑士盖亚  流石  雪花  牛头　校对：橙橙\N时轴：卡布chino　后期：MIR　繁化：風風　WebRip：LoliHouse
+Dialogue: 0,0:00:09.75,0:00:11.65,Staff,,0,0,0,,{\fad(300,300)\blur5}翻译：红黑剑士盖亚  流石  雪花  牛头　校对：橙橙\N时轴：卡布chino　后期：MIR　繁化：風風
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Text------------
 Dialogue: 0,0:00:05.34,0:00:08.16,Default,,0,0,0,,我本来经常和修二一起回家的
 Dialogue: 0,0:00:08.65,0:00:11.93,Default,,0,0,0,,但是他最近总沉迷于练习AttaFami
