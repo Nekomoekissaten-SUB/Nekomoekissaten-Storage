@@ -1,5 +1,8 @@
 # Jaku-Chara Tomozaki-kun
 
+内含 01-12 简繁 BD 字幕和 OVA 1-2 简繁日双语 BD 字幕  
+[BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Tomozaki_S1_BD_zho.7z)
+
 使用字体：
 ```
 FOT-Comet Std B
