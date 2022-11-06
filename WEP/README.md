@@ -3,7 +3,7 @@
 ### 中文字幕
 
 内含 01-12 简繁日双语 BD 字幕  
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/WEP_BD_JPCH.7z)
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/WEP_BD_JPCH.7z)
 
 使用字体：
 ```
