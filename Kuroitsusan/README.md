@@ -15,3 +15,5 @@ FOT-ニューロダン ProN DB <FOT-NewRodin ProN DB>
 汉仪玄宋 85S <HYXuanSong 85S>
 华康翩翩体W5-A <DFHanziPenW5-A>
 ```
+
+![](https://nekomoe.pages.dev/images/2022-01/kuroitsusan.png)
