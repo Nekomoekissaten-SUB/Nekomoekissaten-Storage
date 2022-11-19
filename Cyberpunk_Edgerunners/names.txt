@@ -1,0 +1,37 @@
+﻿スカベンジャー  Scavenger
+インプラント  IMPLANT
+リパードク  Ripperdoc
+サンデヴィスタン  Sandevistan
+アニマルズ  Animals
+ウェストブルック  Westbrook
+シックス・ストリート  6th-street
+サイバーサイコシス  Cyberpsychosis
+サイバーサイコ  Cyberpsycho
+エッジランナーズ  Edgerunners
+サイバーパンク  Cyberpunk
+タイガークロウズ  Tiger Claws
+フィクサー  Fixer
+ワトソン  Watson
+ネットランナー  Netrunner
+ランナー  runner
+テッキー  techie
+クローム  CHROME
+ＢＤ  BD
+JK  jk
+デラマン  Delamain
+アロヨ  Arroyo
+サイコ  psycho
+ナイトシティ  Night City
+サントドミンゴ  Santo Domingo
+アフターライフ  afterlife
+コーポ  Corpo
+サイバースケルトン  Cyber Skeleton
+ミリテク  MILITECH
+ＡＶ  AV
+ランチャー  launcher
+
+
+
+MaxTac - 暴恐机动队
+
+回路ショート(Short Circuit) - 电磁短路
