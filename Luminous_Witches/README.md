@@ -1,6 +1,6 @@
 # Luminous Witches
 
-[01-12 Web 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Luminous_Witches_Web_JPCH.7z)
+[01-12 BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Luminous_Witches_BD_JPCH.7z)
 
 所需字体：
 ```
