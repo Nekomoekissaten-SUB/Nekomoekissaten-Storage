@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -240,8 +242,8 @@ Dialogue: 0,0:09:39.05,0:09:40.26,Default,,0,0,0,,我很困惑
 Dialogue: 0,0:09:40.26,0:09:41.82,Default,,0,0,0,,我很困惑
 Dialogue: 0,0:09:42.17,0:09:45.83,Default,,0,0,0,,都是校友 所以我會的語言她都會
 Dialogue: 0,0:09:46.50,0:09:47.03,Default,,0,0,0,,俄語呢
-Dialogue: 0,0:09:47.46,0:09:48.21,Default,,0,0,0,,會一點
-Dialogue: 0,0:09:47.46,0:09:48.21,Default,,0,0,0,,{\fnAvenir Next W1G\b1\fs60\pos(960,984)}немного
+Dialogue: 0,0:09:47.46,0:09:48.21,Default,,0,0,1,,{\blur2}會一點
+Dialogue: 0,0:09:47.46,0:09:48.21,Default,,0,0,0,,{\fnAvenir Next W1G\b1\fs60\pos(960,939)\blur2}немного
 Dialogue: 0,0:09:49.80,0:09:51.75,Default,,0,0,0,,這不是小孩玩的地方
 Dialogue: 0,0:09:52.02,0:09:53.57,Default,,0,0,0,,組長很忙
 Dialogue: 0,0:09:53.57,0:09:55.12,Default,,0,0,0,,不想受傷快滾
