@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,7 +80,7 @@ Dialogue: 0,0:04:12.57,0:04:14.82,Dial-JP,,0,0,0,,生半可な覚悟ならやめ
 Dialogue: 0,0:04:15.08,0:04:15.94,Dial-JP,,0,0,0,,なんの
 Dialogue: 0,0:04:16.14,0:04:17.85,Dial-JP,,0,0,0,,俺はなんだって受け入れます
 Dialogue: 0,0:04:19.45,0:04:22.54,Dial-JP,,0,0,0,,いいだろう　ならば聞かせよう
-Dialogue: 0,0:04:22.82,0:04:24.40,Dial-JP,,0,0,0,,「修羅の国」福岡に　
+Dialogue: 0,0:04:22.82,0:04:24.40,Dial-JP,,0,0,0,,「修羅の国」福岡に
 Dialogue: 0,0:04:24.80,0:04:27.45,Dial-JP,,0,0,0,,本物の修羅が降臨した日の話を
 Dialogue: 0,0:04:31.31,0:04:33.31,Dial-JP,,0,0,0,,これは今から10年前
 Dialogue: 0,0:04:33.77,0:04:36.08,Dial-JP,,0,0,0,,俺が中学生だった頃のことだ
@@ -182,7 +184,7 @@ Dialogue: 0,0:10:34.48,0:10:35.82,Dial-JP,,0,0,0,,俺ってヤツは
 Dialogue: 0,0:10:37.28,0:10:38.88,Dial-JP,,0,0,0,,じゃあな　デス坊
 Dialogue: 0,0:10:39.54,0:10:40.80,Dial-JP,,0,0,0,,大吾兄ちゃん
 Dialogue: 0,0:10:42.60,0:10:44.77,Dial-JP,,0,0,0,,また　会えるよね
-Dialogue: 0,0:10:44.77,0:10:45.68,Dial-JP,,0,0,0,,会えません　
+Dialogue: 0,0:10:44.77,0:10:45.68,Dial-JP,,0,0,0,,会えません
 Dialogue: 0,0:10:45.88,0:10:49.60,Dial-JP,,0,0,0,,再会したら　今日みたいに稽古つけてくれるよね
 Dialogue: 0,0:10:49.60,0:10:50.68,Dial-JP,,0,0,0,,ごめんこうむる
 Dialogue: 0,0:10:51.22,0:10:54.20,Dial-JP,,0,0,0,,そんときは　私も初めて本気出すけん

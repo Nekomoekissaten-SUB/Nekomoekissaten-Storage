@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,7 +156,7 @@ Dialogue: 0,0:08:13.59,0:08:17.15,Dial-JP,,0,0,0,,オイオイ　より自信な
 Dialogue: 0,0:08:17.51,0:08:18.58,Dial-JP,,0,0,0,,鋼鉄…
 Dialogue: 0,0:08:21.98,0:08:23.98,Dial-JP,,0,0,0,,今日こそ返り討ちにしてやる
 Dialogue: 0,0:08:24.41,0:08:25.49,Dial-JP,,0,0,0,,突撃
-Dialogue: 0,0:08:38.27,0:08:39.07,Dial-JP,,0,0,0,,なるほど　
+Dialogue: 0,0:08:38.27,0:08:39.07,Dial-JP,,0,0,0,,なるほど
 Dialogue: 0,0:08:39.86,0:08:42.65,Dial-JP,,0,0,0,,お友達のために頑張ったんだな　デス美さん
 Dialogue: 0,0:08:43.40,0:08:45.52,Dial-JP,,0,0,0,,鋼鉄は私と同じだったんだ
 Dialogue: 0,0:08:46.37,0:08:48.35,Dial-JP,,0,0,0,,自分に自信が持てずにいて
@@ -162,7 +164,7 @@ Dialogue: 0,0:08:49.24,0:08:51.47,Dial-JP,,0,0,0,,なのに私はから回って
 Dialogue: 0,0:08:51.47,0:08:53.06,Dial-JP,,0,0,0,,逆に傷つけてしまった
 Dialogue: 0,0:08:54.02,0:08:56.07,Dial-JP,,0,0,0,,告白して恋人になるって
 Dialogue: 0,0:08:56.44,0:08:58.29,Dial-JP,,0,0,0,,簡単なことではないんだな
-Dialogue: 0,0:09:01.19,0:09:02.04,Dial-JP,,0,0,0,,なぁ　不動　
+Dialogue: 0,0:09:01.19,0:09:02.04,Dial-JP,,0,0,0,,なぁ　不動
 Dialogue: 0,0:09:02.50,0:09:05.03,Dial-JP,,0,0,0,,お前が恋人に求めることってなんだ
 Dialogue: 0,0:09:05.45,0:09:06.49,Dial-JP,,0,0,0,,特にないな
 Dialogue: 0,0:09:06.86,0:09:07.45,Dial-JP,,0,0,0,,ない？
@@ -170,7 +172,7 @@ Dialogue: 0,0:09:08.03,0:09:09.76,Dial-JP,,0,0,0,,デス美さんがいてくれ
 Dialogue: 0,0:09:10.07,0:09:11.20,Dial-JP,,0,0,0,,望むことはないよ
 Dialogue: 0,0:09:12.95,0:09:15.62,Dial-JP,,0,0,0,,ば　バカ　何かあるだろ
 Dialogue: 0,0:09:15.62,0:09:17.63,Dial-JP,,0,0,0,,料理が上手になってほしいとか
-Dialogue: 0,0:09:17.80,0:09:18.32,Dial-JP,,0,0,0,,ないよ　
+Dialogue: 0,0:09:17.80,0:09:18.32,Dial-JP,,0,0,0,,ないよ
 Dialogue: 0,0:09:19.28,0:09:21.29,Dial-JP,,0,0,0,,俺はありのままの君が好きなんだ
 Dialogue: 0,0:09:25.20,0:09:26.98,Dial-JP,,0,0,0,,まったくもう
 Dialogue: 0,0:09:26.98,0:09:29.30,Dial-JP,,0,0,0,,しょうがないヤツだな　不動は
@@ -347,7 +349,7 @@ Dialogue: 0,0:20:01.69,0:20:03.43,Dial-JP,,0,0,0,,どどどうだ
 Dialogue: 0,0:20:03.51,0:20:06.38,Dial-JP,,0,0,0,,人類が生み出したどの食べ物より　うまい
 Dialogue: 0,0:20:13.90,0:20:14.83,Dial-JP,,0,0,0,,不動…
 Dialogue: 0,0:20:15.72,0:20:16.39,Dial-JP,,0,0,0,,デス美さん…
-Dialogue: 0,0:20:19.36,0:20:20.49,Dial-JP,,0,0,0,,そうだ不動　
+Dialogue: 0,0:20:19.36,0:20:20.49,Dial-JP,,0,0,0,,そうだ不動
 Dialogue: 0,0:20:20.49,0:20:23.07,Dial-JP,,0,0,0,,明日は父ちゃんが軽トラで迎えに来るからね
 Dialogue: 0,0:20:23.07,0:20:24.02,Dial-JP,,0,0,0,,余韻がっ
 Dialogue: 0,0:20:24.02,0:20:25.08,Dial-JP,,0,0,0,,あら　お友達？

@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -674,10 +676,10 @@ Dialogue: 1,0:23:33.97,0:23:35.42,Dial-CHS,,600,0,0,,下集 最后一集
 Dialogue: 1,0:23:35.75,0:23:37.12,Dial-CHS,,600,0,0,,永远的对手
 Dialogue: 1,0:23:37.77,0:23:38.82,Dial-CHS,,600,0,0,,敬请期待
 Comment: 0,0:23:39.35,0:23:41.35,Default,,0,0,0,,Screen
-Dialogue: 3,0:01:57.01,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\4a&H00&\xshad1\yshad1\pos(1196.569,571.155)}处好关系有什么意义？
-Dialogue: 2,0:01:57.01,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\1a&HFE&\3a&HFF&\4a&H00&\xshad2\yshad2\pos(1196.569,571.155)}处好关系有什么意义？
-Dialogue: 1,0:01:57.01,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\1a&HFE&\3a&HFF&\4a&H00&\xshad3\yshad3\pos(1196.569,571.155)}处好关系有什么意义？
-Dialogue: 0,0:01:57.01,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\1a&HFE&\3a&HFF&\4a&H00&\xshad4\yshad4\pos(1196.569,571.155)}处好关系有什么意义？
+Dialogue: 3,0:01:57.06,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\4a&H00&\xshad1\yshad1\pos(1196.569,571.155)}处好关系有什么意义？
+Dialogue: 2,0:01:57.06,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\1a&HFE&\3a&HFF&\4a&H00&\xshad2\yshad2\pos(1196.569,571.155)}处好关系有什么意义？
+Dialogue: 1,0:01:57.06,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\1a&HFE&\3a&HFF&\4a&H00&\xshad3\yshad3\pos(1196.569,571.155)}处好关系有什么意义？
+Dialogue: 0,0:01:57.06,0:02:00.50,Title,,0,0,0,,{\fad(500,0)\4c&H5AF4FF&\1a&HFE&\3a&HFF&\4a&H00&\xshad4\yshad4\pos(1196.569,571.155)}处好关系有什么意义？
 Dialogue: 0,0:02:15.87,0:02:22.71,Scr,,0,0,0,,{\fad(900,0)\pos(85.532,464.42)\c&HFFFFFF&\3c&H000000&\bord3}月光公主系列 断罪公主
 Dialogue: 0,0:03:50.54,0:03:55.05,Scr,,0,0,0,,{\an8\frz4.438\pos(575.353,26.906)}公主系列作战会议\N{\fs25}今日18时 于月光女子宿舍 死神公主的房间召开 需要携带睡衣
 Dialogue: 0,0:04:01.30,0:04:01.34,Scr,,0,0,0,,{\an8\pos(640,353)\clip(453,353,829,355)\c&HD48A5E&\bord1\blur2}公主系列 睡衣章鱼烧趴女生聚会

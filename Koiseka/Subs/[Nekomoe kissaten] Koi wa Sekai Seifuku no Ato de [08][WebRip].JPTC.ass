@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -490,7 +492,7 @@ Dialogue: 0,0:04:44.91,0:04:47.88,Dial-JP,,0,0,0,,レッドジェラート　相
 Dialogue: 0,0:04:48.68,0:04:50.94,Dial-JP,,0,0,0,,いったい何が目的でこんなことを？
 Dialogue: 0,0:04:51.37,0:04:53.37,Dial-JP,,0,0,0,,君は何者なのかな？
 Dialogue: 0,0:04:54.68,0:04:56.31,Dial-JP,,0,0,0,,名乗るわけないじゃん
-Dialogue: 0,0:04:56.80,0:04:58.45,Dial-JP,,0,0,0,,わかってると思うけど　
+Dialogue: 0,0:04:56.80,0:04:58.45,Dial-JP,,0,0,0,,わかってると思うけど
 Dialogue: 0,0:04:58.45,0:05:01.88,Dial-JP,,0,0,0,,ウチはいつでもその写真をバラまけるってわけ
 Dialogue: 0,0:05:02.51,0:05:05.51,Dial-JP,,0,0,0,,そうなったらアンタ　困るよね
 Dialogue: 0,0:05:06.17,0:05:07.62,Dial-JP,,0,0,0,,ああ　困る
@@ -560,7 +562,7 @@ Dialogue: 0,0:08:30.77,0:08:32.22,Dial-JP,,0,0,0,,今夜また会う予定だ
 Dialogue: 0,0:08:34.22,0:08:35.68,Dial-JP,,0,0,0,,口を封じるしかない
 Dialogue: 0,0:08:36.08,0:08:37.68,Dial-JP,,0,0,0,,すぐそのモードに入らないで
 Dialogue: 0,0:08:39.54,0:08:42.17,Dial-JP,,0,0,0,,それでその子はどんな脅しをしてきたんだ？
-Dialogue: 0,0:08:42.42,0:08:43.77,Dial-JP,,0,0,0,,ああ　それが…　
+Dialogue: 0,0:08:42.42,0:08:43.77,Dial-JP,,0,0,0,,ああ　それが…
 Dialogue: 0,0:08:44.45,0:08:45.85,Dial-JP,,0,0,0,,手にチューしろと…
 Dialogue: 0,0:08:47.54,0:08:48.57,Dial-JP,,0,0,0,,しなかったけどね
 Dialogue: 0,0:08:50.11,0:08:51.42,Dial-JP,,0,0,0,,本当にしてないのか？
@@ -620,7 +622,7 @@ Dialogue: 0,0:12:07.08,0:12:08.34,Dial-JP,,0,0,0,,うん　どうだ
 Dialogue: 0,0:12:12.57,0:12:13.74,Dial-JP,,0,0,0,,変なヤツ
 Dialogue: 0,0:12:15.51,0:12:18.57,Dial-JP,,0,0,0,,語り合うの楽しそうだけど　今はやめとく
 Dialogue: 0,0:12:19.34,0:12:21.60,Dial-JP,,0,0,0,,ウチらはある意味ライバルだし
-Dialogue: 0,0:12:24.28,0:12:26.08,Dial-JP,,0,0,0,,ねぇ　レッドジェラート　
+Dialogue: 0,0:12:24.28,0:12:26.08,Dial-JP,,0,0,0,,ねぇ　レッドジェラート
 Dialogue: 0,0:12:26.62,0:12:27.88,Dial-JP,,0,0,0,,いや　不動っち
 Dialogue: 0,0:12:28.57,0:12:29.51,Dial-JP,,0,0,0,,不動っち？
 Dialogue: 0,0:12:30.05,0:12:32.08,Dial-JP,,0,0,0,,今回は迷惑かけてごめんね
@@ -764,7 +766,7 @@ Dialogue: 0,0:20:18.65,0:20:20.62,Dial-JP2,,0,600,0,,だいたいムニョっと
 Dialogue: 0,0:20:09.20,0:20:10.77,Dial-JP2,,600,0,0,,僧方筋と三角筋…
 Dialogue: 0,0:20:14.25,0:20:17.40,Dial-JP2,,600,0,0,,つまり　筋肉への理解が数学への理解を深める
 Dialogue: 0,0:20:17.40,0:20:18.37,Dial-JP2,,600,0,0,,逆に言えば
-Dialogue: 0,0:20:18.37,0:20:20.00,Dial-JP2,,600,0,0,,筋肉を理解することは　
+Dialogue: 0,0:20:18.37,0:20:20.00,Dial-JP2,,600,0,0,,筋肉を理解することは
 Dialogue: 0,0:20:20.05,0:20:22.71,Dial-JP2,,600,0,0,,数学を理解するために他ならないんだ
 Dialogue: 0,0:20:10.34,0:20:12.68,Dial-JP,,0,0,0,,教わる人たち間違えた…
 Dialogue: 0,0:20:20.62,0:20:23.54,Dial-JP,,0,0,0,,あの…私もう帰ります

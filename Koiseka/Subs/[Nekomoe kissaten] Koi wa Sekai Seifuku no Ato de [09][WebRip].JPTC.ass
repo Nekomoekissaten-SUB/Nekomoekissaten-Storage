@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,7 +172,7 @@ Dialogue: 1,0:10:24.76,0:10:26.94,Dial-JP,,0,0,0,,ほらほら　言い返して
 Dialogue: 1,0:10:27.09,0:10:30.03,Dial-JP,,0,0,0,,ボソボソしゃべりの根暗女には無理やー
 Dialogue: 1,0:10:34.54,0:10:35.24,Dial-JP,,0,0,0,,デス美
 Dialogue: 1,0:10:35.40,0:10:37.12,Dial-JP,,0,0,0,,やば　みんな逃げろー
-Dialogue: 1,0:10:48.51,0:10:49.68,Dial-JP,,0,0,0,,泣くなウラ美　
+Dialogue: 1,0:10:48.51,0:10:49.68,Dial-JP,,0,0,0,,泣くなウラ美
 Dialogue: 1,0:10:50.03,0:10:51.64,Dial-JP,,0,0,0,,ほら　アイス食べるか？
 Dialogue: 1,0:10:59.55,0:11:01.33,Dial-JP,,0,0,0,,強くなれ　ウラ美
 Dialogue: 1,0:11:03.05,0:11:05.18,Dial-JP,,0,0,0,,生き抜くには力が必要だ
