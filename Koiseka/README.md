@@ -1,6 +1,6 @@
 # Koi wa Sekai Seifuku no Ato de
 
-[01-12 简繁日双语 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Koiseka_Web_JPCH.7z)
+[01-12 简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Koiseka_BD_JPCH.7z)
 
 使用字体：
 ```
