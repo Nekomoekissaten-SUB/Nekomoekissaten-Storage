@@ -1,0 +1,77 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [01][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.61,0:00:05.44,Staff,,0,0,0,,{\fad(360,360)\3c&H2E1D18&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻校轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.61,0:00:05.44,Screen,,0,0,0,,{\fad(360,360)\an8\pos(655.111,608.889)}杜鹃的小闹剧\N#1『转生异世界!』
+Dialogue: 0,0:00:09.03,0:00:11.99,Default,,0,0,0,,猪排饭…好吃好吃
+Dialogue: 0,0:00:14.45,0:00:15.70,Default,,0,0,0,,怎么回事
+Dialogue: 0,0:00:25.38,0:00:28.09,Default,,0,0,0,,这里是哪 凪君？
+Dialogue: 0,0:00:28.55,0:00:30.97,Default,,0,0,0,,你醒过来了吗 绘里香
+Dialogue: 0,0:00:31.14,0:00:32.97,Default,,0,0,0,,这里是死后的世界
+Dialogue: 0,0:00:32.97,0:00:34.93,Default,,0,0,0,,什么玩意 怎么回事啊
+Dialogue: 0,0:00:34.93,0:00:36.14,Default,,0,0,0,,我死了吗
+Dialogue: 0,0:00:36.14,0:00:37.10,Default,,0,0,0,,炒面氏？
+Dialogue: 0,0:00:36.14,0:00:37.10,Comment,,0,0,0,,注：漫画作者吉河美希的原创吉祥物角色之一
+Dialogue: 0,0:00:37.43,0:00:41.02,Default,,0,0,0,,真的很对不起 其实是我失误了
+Dialogue: 0,0:00:41.02,0:00:44.32,Default,,0,0,0,,不小心把你召唤到了死后的世界
+Dialogue: 0,0:00:47.99,0:00:49.53,Screen,,0,0,0,,{\an8\3c&H8784D9&\bord4\pos(640,489)}过了一会…
+Dialogue: 0,0:00:51.03,0:00:52.66,Default,,0,0,0,,就是这么回事
+Dialogue: 0,0:00:52.99,0:00:55.91,Default,,0,0,0,,抱歉 我也知道你很难接受…
+Dialogue: 0,0:00:57.29,0:00:58.79,Default,,0,0,0,,太过分了
+Dialogue: 0,0:00:58.79,0:01:00.79,Default,,0,0,0,,你失误却把我害死了…
+Dialogue: 0,0:01:00.79,0:01:02.96,Default,,0,0,0,,我让爸爸给你1亿日元
+Dialogue: 0,0:01:03.04,0:01:04.59,Default,,0,0,0,,你能不能想想办法啊
+Dialogue: 0,0:01:04.59,0:01:06.55,Default,,0,0,0,,我还是第一次听到这种话…
+Dialogue: 0,0:01:06.96,0:01:10.26,Default,,0,0,0,,今天本该是别的人寿终正寝
+Dialogue: 0,0:01:10.26,0:01:12.76,Default,,0,0,0,,但我把你跟他搞混了…
+Dialogue: 0,0:01:12.76,0:01:14.14,Default,,0,0,0,,什么意思嘛你
+Dialogue: 0,0:01:14.14,0:01:16.14,Default,,0,0,0,,又是搞混 我真受够了
+Dialogue: 0,0:01:16.14,0:01:17.31,Default,,0,0,0,,何来的又
+Dialogue: 0,0:01:17.60,0:01:19.52,Default,,0,0,0,,说到底 你是谁啊
+Dialogue: 0,0:01:19.52,0:01:23.48,Default,,0,0,0,,快想点办法啊 又为什么要戴着炒面氏的面具啊
+Dialogue: 0,0:01:23.48,0:01:25.77,Default,,0,0,0,,我叫做魔雅
+Dialogue: 0,0:01:25.77,0:01:27.40,Default,,0,0,0,,姑且是一位神明
+Dialogue: 0,0:01:27.61,0:01:30.32,Default,,0,0,0,,同僚们都叫我魔雅神
+Dialogue: 0,0:01:30.32,0:01:32.61,Default,,0,0,0,,魔雅君是神啊
+Dialogue: 0,0:01:32.61,0:01:35.37,Default,,0,0,0,,没错 虽然外表是个少年
+Dialogue: 0,0:01:35.37,0:01:39.41,Default,,0,0,0,,但我其实是负责各个世界的召唤的神哦
+Dialogue: 0,0:01:39.41,0:01:42.17,Default,,0,0,0,,同僚们称呼我为召唤魔雅神
+Dialogue: 0,0:01:39.41,0:01:42.17,Comment,,0,0,0,,日语里召唤(shoukan)谐音周刊(shuukan),魔雅神(magajin)谐音杂志(magazine)
+Dialogue: 0,0:01:42.17,0:01:44.63,Default,,0,0,0,,或者少年魔雅神
+Dialogue: 0,0:01:42.17,0:01:44.63,Comment,,0,0,0,,Neta了登载吉河美希各作品的《周刊少年Magazine》
+Dialogue: 0,0:01:45.00,0:01:46.92,Default,,0,0,0,,又是魔雅又是凪
+Dialogue: 0,0:01:46.92,0:01:48.88,Default,,0,0,0,,老是这种两个音的男生名啊
+Dialogue: 0,0:01:46.92,0:01:48.88,Comment,,0,0,0,,魔雅(maga) 凪(nagi),都是两个音节
+Dialogue: 0,0:01:49.21,0:01:51.30,Default,,0,0,0,,话说 我听说过异世界
+Dialogue: 0,0:01:51.30,0:01:52.55,Default,,0,0,0,,动画里看到过
+Dialogue: 0,0:01:52.55,0:01:55.64,Default,,0,0,0,,是这样啊 那话就好说了
+Dialogue: 0,0:01:55.64,0:01:58.39,Default,,0,0,0,,所以所以 我之后要做什么
+Dialogue: 0,0:01:58.39,0:02:02.69,Default,,0,0,0,,绘里香今后呢 要去异世界开始冒险
+Dialogue: 0,0:02:02.69,0:02:03.90,Default,,0,0,0,,耶
+Dialogue: 0,0:02:03.90,0:02:05.73,Default,,0,0,0,,哇 好棒棒
+Dialogue: 0,0:02:07.11,0:02:08.40,Default,,0,0,0,,好棒
+Dialogue: 0,0:02:09.53,0:02:12.20,Default,,0,0,0,,好歹跟别的作品联动了再让我去异世界啊
+Dialogue: 0,0:02:12.40,0:02:14.61,Screen,,0,0,0,,{\fad(600,360)\pos(106,535.533)}待续

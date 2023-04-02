@@ -1,0 +1,68 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [14][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.48,0:00:05.24,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#14『異世界清晨{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:06.11,0:00:07.28,Default,,0,0,0,,真的服了這幫女生
+Dialogue: 0,0:00:08.03,0:00:09.66,Default,,0,0,0,,在異世界也不讓人省心
+Dialogue: 0,0:00:10.41,0:00:12.24,Default,,0,0,0,,昨天真的累壞了
+Dialogue: 0,0:00:16.00,0:00:17.75,Default,,0,0,0,,但哪怕在這個世界
+Dialogue: 0,0:00:18.12,0:00:20.25,Default,,0,0,0,,我也能鳳凰涅磐
+Dialogue: 0,0:00:20.88,0:00:21.96,Default,,0,0,0,,展翅高飛
+Dialogue: 0,0:00:22.84,0:00:28.09,Default,,0,0,0,,而且仔細想想 現在正是和瀨川拉近距離的良機
+Dialogue: 0,0:00:28.38,0:00:29.59,Default,,0,0,0,,再冷靜一想
+Dialogue: 0,0:00:29.59,0:00:32.18,Default,,0,0,0,,這裡沒有礙事的同班同學
+Dialogue: 0,0:00:32.18,0:00:34.68,Default,,0,0,0,,可以和她一邊逛異世界一邊約會
+Dialogue: 0,0:00:36.60,0:00:40.56,Default,,0,0,0,,異世界啊 本大爺這就來
+Dialogue: 0,0:00:40.85,0:00:42.31,Default,,0,0,0,,早安呀 凪君
+Dialogue: 0,0:00:43.86,0:00:46.65,Default,,0,0,0,,你怎麼又不穿衣服擺奇怪的姿勢
+Dialogue: 0,0:00:46.94,0:00:48.82,Default,,0,0,0,,小彌小幸一會就來了
+Dialogue: 0,0:00:48.90,0:00:50.11,Default,,0,0,0,,快把衣服穿上
+Dialogue: 0,0:00:50.32,0:00:51.24,Default,,0,0,0,,對不起
+Dialogue: 0,0:00:54.70,0:00:55.99,Default,,0,0,0,,異世界第二天
+Dialogue: 0,0:00:56.37,0:00:58.12,Default,,0,0,0,,打起精神衝呀
+Dialogue: 0,0:01:00.21,0:01:01.50,Default,,0,0,0,,衝呀
+Dialogue: 0,0:01:01.75,0:01:03.08,Default,,0,0,0,,慢著
+Dialogue: 0,0:01:03.54,0:01:04.71,Default,,0,0,0,,怎麼了老哥
+Dialogue: 0,0:01:04.88,0:01:09.38,Default,,0,0,0,,像昨天那樣漫無目的地4個人一起行動太沒效率了
+Dialogue: 0,0:01:09.84,0:01:12.39,Default,,0,0,0,,為了能盡快回到原世界
+Dialogue: 0,0:01:12.55,0:01:14.80,Default,,0,0,0,,我們應該分兩路行動
+Dialogue: 0,0:01:15.10,0:01:16.76,Default,,0,0,0,,原 原來如此
+Dialogue: 0,0:01:16.89,0:01:18.18,Default,,0,0,0,,不愧是你
+Dialogue: 0,0:01:18.56,0:01:20.73,Default,,0,0,0,,的確有道理
+Dialogue: 0,0:01:21.52,0:01:23.02,Default,,0,0,0,,那我們怎麼分呢
+Dialogue: 0,0:01:23.40,0:01:24.98,Default,,0,0,0,,分組如下
+Dialogue: 0,0:01:25.69,0:01:28.82,Default,,0,0,0,,天野提早一步熟悉了異世界
+Dialogue: 0,0:01:28.99,0:01:31.61,Default,,0,0,0,,你就去公會接任務升級
+Dialogue: 0,0:01:31.78,0:01:33.36,Default,,0,0,0,,幸負責輔助她
+Dialogue: 0,0:01:33.87,0:01:34.78,Default,,0,0,0,,收到
+Dialogue: 0,0:01:35.07,0:01:36.45,Default,,0,0,0,,瀨川和我一起
+Dialogue: 0,0:01:36.99,0:01:40.33,Default,,0,0,0,,負責購買冒險所需的物品 以及解決住宿問題
+Dialogue: 0,0:01:41.08,0:01:42.17,Default,,0,0,0,,知道啦
+Dialogue: 0,0:01:42.62,0:01:43.37,Default,,0,0,0,,好
+Dialogue: 0,0:01:43.88,0:01:45.08,Default,,0,0,0,,確定好啦
+Dialogue: 0,0:01:45.42,0:01:47.63,Default,,0,0,0,,那就再來一次 衝呀

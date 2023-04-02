@@ -1,0 +1,78 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [08][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.52,0:00:03.65,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻校軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.52,0:00:03.65,Screen,,0,0,0,,{\fad(300,300)\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#7『異世界冒險公會{\i1}!{\i0}』
+Dialogue: 0,0:00:04.23,0:00:05.69,Default,,0,0,0,,打擾啦
+Dialogue: 0,0:00:05.99,0:00:07.78,Default,,0,0,0,,這裡就是公會呀
+Dialogue: 0,0:00:09.99,0:00:12.45,Default,,0,0,0,,有好多看起來就很強的人
+Dialogue: 0,0:00:13.53,0:00:14.66,Default,,0,0,0,,去問問那個人吧
+Dialogue: 0,0:00:15.37,0:00:19.29,Default,,0,0,0,,你好 我們是國王大人介紹過來的
+Dialogue: 0,0:00:21.38,0:00:23.75,Default,,0,0,0,,歡迎光臨 恭候各位多時了
+Dialogue: 0,0:00:24.59,0:00:29.51,Default,,0,0,0,,我接到了上面的要求 將悉心為凪大人們做好嚮導
+Dialogue: 0,0:00:30.93,0:00:34.39,Default,,0,0,0,,太感謝你了 我們必須得完成某個任務
+Dialogue: 0,0:00:34.81,0:00:37.85,Default,,0,0,0,,首先需要各位完成冒險者註冊
+Dialogue: 0,0:00:34.81,0:00:41.40,Screen,,0,0,0,,冒險者註冊\N註冊
+Dialogue: 0,0:00:38.56,0:00:41.15,Default,,0,0,0,,請在這裡寫下您的名字
+Dialogue: 0,0:00:43.40,0:00:47.40,Default,,0,0,0,,凪先生 繪里香小姐 彌小姐 幸小姐
+Dialogue: 0,0:00:47.61,0:00:50.57,Default,,0,0,0,,好的 感謝各位的配合
+Dialogue: 0,0:00:51.11,0:00:52.91,Default,,0,0,0,,根據我這邊的數據顯示
+Dialogue: 0,0:00:53.45,0:00:56.74,Default,,0,0,0,,凪先生的戰鬥力鋼彈Lv999
+Dialogue: 0,0:00:57.08,0:01:00.41,Default,,0,0,0,,彌小姐的智力鋼彈Lv999
+Dialogue: 0,0:01:00.71,0:01:06.00,Default,,0,0,0,,而幸小姐則是體力為Lv999 真是驚人
+Dialogue: 0,0:01:06.30,0:01:07.38,Default,,0,0,0,,爽
+Dialogue: 0,0:01:08.13,0:01:11.59,Default,,0,0,0,,魔雅神大人說他將各位強行召喚來時
+Dialogue: 0,0:01:11.68,0:01:13.55,Default,,0,0,0,,賦予了你們很高的面板
+Dialogue: 0,0:01:14.14,0:01:15.35,Default,,0,0,0,,我呢我呢
+Dialogue: 0,0:01:15.85,0:01:19.23,Default,,0,0,0,,繪里香大人的所有能力等級皆為1
+Dialogue: 0,0:01:19.85,0:01:23.02,Default,,0,0,0,,為什麼呀 我也從魔雅君那裡得到了技能啊
+Dialogue: 0,0:01:23.23,0:01:24.36,Default,,0,0,0,,您的技能分別為
+Dialogue: 0,0:01:24.65,0:01:27.94,Default,,0,0,0,,「智慧型手機」「Cosplay」「無限金錢」
+Dialogue: 0,0:01:28.36,0:01:31.78,Default,,0,0,0,,都是在任務中派不上用場的技能
+Dialogue: 0,0:01:34.16,0:01:37.28,Default,,0,0,0,,繪里香 為什麼要選這種技能啊
+Dialogue: 0,0:01:37.45,0:01:37.95,Default,,0,0,0,,欸嘿
+Dialogue: 0,0:01:39.41,0:01:43.79,Default,,0,0,0,,我們要怎麼做才能接到那個能讓我們回去的任務呢
+Dialogue: 0,0:01:44.08,0:01:47.67,Default,,0,0,0,,本公會提供的任務最低低至初級
+Dialogue: 0,0:01:48.13,0:01:51.84,Default,,0,0,0,,完成了約100個任務後 便能達到足夠的等級
+Dialogue: 0,0:01:52.43,0:01:54.97,Default,,0,0,0,,這個過程大約需要花費2年時間吧
+Dialogue: 0,0:02:00.60,0:02:01.56,Default,,0,0,0,,2年？
+Dialogue: 0,0:02:02.10,0:02:04.94,Default,,0,0,0,,恕我直言 以繪里香小姐的現等級而言
+Dialogue: 0,0:02:05.31,0:02:08.57,Default,,0,0,0,,本公會派出的任務您無法完成
+Dialogue: 0,0:02:10.48,0:02:12.24,Default,,0,0,0,,天野要想達到等級要求
+Dialogue: 0,0:02:12.32,0:02:16.95,Default,,0,0,0,,得花2倍…不 3倍的時間修行升級
+Dialogue: 0,0:02:17.20,0:02:19.45,Default,,0,0,0,,你就知道在那叭叭
+Dialogue: 0,0:02:19.62,0:02:21.75,Default,,0,0,0,,那你倒是說清楚我要怎麼做啊
+Dialogue: 0,0:02:21.87,0:02:26.54,Default,,0,0,0,,那不就只能在城市周邊來迴轉 不斷打倒弱雞怪物
+Dialogue: 0,0:02:26.96,0:02:28.88,Default,,0,0,0,,踏踏實實慢慢升級囉
+Dialogue: 0,0:02:29.38,0:02:32.01,Default,,0,0,0,,要是你一個人出去肯定會命喪異世界的
+Dialogue: 0,0:02:32.26,0:02:36.80,Default,,0,0,0,,我從沒打過怪物啊 也不想每天重複做同一件事
+Dialogue: 0,0:02:36.80,0:02:38.72,Default,,0,0,0,,那也要做到會為止
+Dialogue: 0,0:02:38.89,0:02:40.26,Default,,0,0,0,,別開口就是放棄
+Dialogue: 0,0:02:40.43,0:02:45.10,Default,,0,0,0,,不要嘛 人家就想輕輕鬆鬆做任務
+Dialogue: 0,0:02:45.60,0:02:50.36,Default,,0,0,0,,異世界名言其二 技能太廢物就該老實升級
+Dialogue: 0,0:02:50.90,0:02:52.78,Default,,0,0,0,,憑什麼是你在說我呀
+Dialogue: 0,0:02:54.57,0:02:56.86,Default,,0,0,0,,在異世界也這麼般配
+Dialogue: 0,0:02:57.91,0:03:01.12,Default,,0,0,0,,

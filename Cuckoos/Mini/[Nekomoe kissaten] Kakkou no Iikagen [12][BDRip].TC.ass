@@ -1,0 +1,77 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [12][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#12『續{\i1}! {\i0}異世界酒館{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:08.28,0:00:09.61,Default,,0,0,0,,這慘狀
+Dialogue: 0,0:00:10.07,0:00:11.24,Default,,0,0,0,,該怎麼辦啊
+Dialogue: 0,0:00:13.28,0:00:15.70,Default,,0,0,0,,這不是白天光顧我家店鋪的客人嗎
+Dialogue: 0,0:00:15.70,0:00:17.33,Default,,0,0,0,,喝得挺嗨嘛
+Dialogue: 0,0:00:18.00,0:00:18.87,Default,,0,0,0,,武器店老闆
+Dialogue: 0,0:00:19.04,0:00:21.63,Default,,0,0,0,,買了裝備後就去打怪了嗎
+Dialogue: 0,0:00:21.96,0:00:22.88,Default,,0,0,0,,收穫如何
+Dialogue: 0,0:00:23.34,0:00:24.71,Default,,0,0,0,,跟你說
+Dialogue: 0,0:00:24.84,0:00:27.88,Default,,0,0,0,,凪君他真是一點用沒有
+Dialogue: 0,0:00:28.09,0:00:30.05,Default,,0,0,0,,就是啊
+Dialogue: 0,0:00:30.47,0:00:33.68,Default,,0,0,0,,有一隻很大的蜥蜴怪物出現
+Dialogue: 0,0:00:34.01,0:00:35.60,Default,,0,0,0,,他丟下我們
+Dialogue: 0,0:00:35.60,0:00:38.39,Default,,0,0,0,,一溜煙就跑了
+Dialogue: 0,0:00:38.56,0:00:39.69,Default,,0,0,0,,你怎麼回事
+Dialogue: 0,0:00:39.89,0:00:41.60,Default,,0,0,0,,小老弟 你這可不行
+Dialogue: 0,0:00:41.81,0:00:43.56,Default,,0,0,0,,好不容易買到了武器
+Dialogue: 0,0:00:43.56,0:00:45.82,Default,,0,0,0,,身體強度得匹配上
+Dialogue: 0,0:00:48.69,0:00:50.61,Default,,0,0,0,,來比劃比劃？
+Dialogue: 0,0:00:52.24,0:00:53.74,Default,,0,0,0,,求之不得
+Dialogue: 0,0:00:53.99,0:00:58.62,Default,,0,0,0,,讓你見識見識我最高紀錄一口氣228個伏地挺身的實力
+Dialogue: 0,0:01:01.21,0:01:02.75,Default,,0,0,0,,各就位
+Dialogue: 0,0:01:02.75,0:01:03.83,Default,,0,0,0,,預備
+Dialogue: 0,0:01:03.92,0:01:04.63,Default,,0,0,0,,開始
+Dialogue: 0,0:01:07.46,0:01:09.84,Default,,0,0,0,,凪君 加油
+Dialogue: 0,0:01:10.26,0:01:12.93,Default,,0,0,0,,海野君 Fight
+Dialogue: 0,0:01:18.10,0:01:19.14,Default,,0,0,0,,拿下
+Dialogue: 0,0:01:19.85,0:01:21.23,Default,,0,0,0,,凪君別灰心
+Dialogue: 0,0:01:21.52,0:01:22.56,Default,,0,0,0,,好
+Dialogue: 0,0:01:23.15,0:01:25.90,Default,,0,0,0,,我來給你復仇
+Dialogue: 0,0:01:26.40,0:01:27.65,Default,,0,0,0,,店長
+Dialogue: 0,0:01:28.19,0:01:30.11,Default,,0,0,0,,你剛剛好棒棒喔
+Dialogue: 0,0:01:30.32,0:01:31.61,Default,,0,0,0,,我都看見了
+Dialogue: 0,0:01:31.78,0:01:33.45,Default,,0,0,0,,是嗎
+Dialogue: 0,0:01:34.16,0:01:35.99,Default,,0,0,0,,那就好
+Dialogue: 0,0:01:36.33,0:01:39.29,Default,,0,0,0,,人家喝多了 好累喔
+Dialogue: 0,0:01:39.45,0:01:42.00,Default,,0,0,0,,想找個地方休息一會嘛
+Dialogue: 0,0:01:42.54,0:01:43.92,Default,,0,0,0,,對對對
+Dialogue: 0,0:01:44.08,0:01:46.50,Default,,0,0,0,,是該去休息了
+Dialogue: 0,0:01:47.09,0:01:49.67,Default,,0,0,0,,你們今後要繼續加油
+Dialogue: 0,0:01:50.55,0:01:52.84,Default,,0,0,0,,都這麼晚了 他們不會是要…
+Dialogue: 0,0:01:54.05,0:01:55.59,Default,,0,0,0,,不要說下去了繪里香
+Dialogue: 0,0:01:56.43,0:01:57.81,Default,,0,0,0,,為什麼不能說呀
+Dialogue: 0,0:01:57.93,0:01:59.02,Default,,0,0,0,,做〇
+Dialogue: 0,0:02:11.94,0:02:13.32,Default,,0,0,0,,玩爽了
+Dialogue: 0,0:02:13.45,0:02:15.28,Default,,0,0,0,,以後還要來
+Dialogue: 0,0:02:15.49,0:02:17.62,Default,,0,0,0,,下一家店 咱們肘
+Dialogue: 0,0:02:17.62,0:02:19.58,Default,,0,0,0,,幸 還好嗎
+Dialogue: 0,0:02:20.87,0:02:22.62,Default,,0,0,0,,頭好痛

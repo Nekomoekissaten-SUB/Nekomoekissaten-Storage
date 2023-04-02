@@ -1,0 +1,78 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [17][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#17『異世界勇者{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------SCR---------------
+Dialogue: 0,0:01:51.38,0:01:58.18,Screen,,0,0,0,,{\fnZpix\bord1\shad1\c&H0ED8D3&\3c&H000000&\4c&H000000&\fscx55\fscy55\an1\pos(458.967,68.286)}繪里香        彌
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:05.53,0:00:10.28,Default,,0,0,0,,去洞窟找到迷路的勇者 並將其救出
+Dialogue: 0,0:00:10.87,0:00:12.33,Default,,0,0,0,,難度還是A呢
+Dialogue: 0,0:00:12.70,0:00:15.70,Default,,0,0,0,,至今難度最高的任務呀
+Dialogue: 0,0:00:16.16,0:00:19.25,Default,,0,0,0,,上面還寫了穿過森林就能到洞窟
+Dialogue: 0,0:00:19.58,0:00:22.04,Default,,0,0,0,,好 乾淨俐落地搞定吧
+Dialogue: 0,0:00:26.59,0:00:29.51,Default,,0,0,0,,我說你啊凪君 倒是走快點啊
+Dialogue: 0,0:00:29.51,0:00:32.55,Default,,0,0,0,,別催了 這裡伸手不見五指啊
+Dialogue: 0,0:00:32.55,0:00:34.31,Default,,0,0,0,,小彌 你要小心
+Dialogue: 0,0:00:34.47,0:00:36.68,Default,,0,0,0,,要是在黑暗中走到凪君前面
+Dialogue: 0,0:00:36.68,0:00:39.02,Default,,0,0,0,,他會照亮他想看的地方看個爽的
+Dialogue: 0,0:00:40.06,0:00:42.27,Default,,0,0,0,,真是這樣嗎 你好壞啊海野君
+Dialogue: 0,0:00:42.27,0:00:45.11,Default,,0,0,0,,停電那次純屬意外啊 小的冤枉
+Dialogue: 0,0:00:48.03,0:00:49.11,Default,,0,0,0,,就是他吧
+Dialogue: 0,0:00:54.37,0:00:57.29,Default,,0,0,0,,你還好嗎 受傷了沒
+Dialogue: 0,0:00:57.50,0:00:58.96,Default,,0,0,0,,我們來救你了喔
+Dialogue: 0,0:01:00.83,0:01:03.63,Default,,0,0,0,,太好了 真的謝謝你們
+Dialogue: 0,0:01:03.71,0:01:05.42,Default,,0,0,0,,迷路加上空腹
+Dialogue: 0,0:01:05.54,0:01:07.88,Default,,0,0,0,,這裡又黑又只有我一個人 一直戰戰兢兢的
+Dialogue: 0,0:01:08.05,0:01:09.80,Default,,0,0,0,,感謝感謝
+Dialogue: 0,0:01:10.05,0:01:11.30,Default,,0,0,0,,超3Q
+Dialogue: 0,0:01:12.47,0:01:13.55,Default,,0,0,0,,我 勇者
+Dialogue: 0,0:01:13.80,0:01:15.85,Default,,0,0,0,,多關照Skr
+Dialogue: 0,0:01:18.22,0:01:19.52,Default,,0,0,0,,有幸親眼見到女神
+Dialogue: 0,0:01:20.14,0:01:21.60,Default,,0,0,0,,懇請您收下這個吧
+Dialogue: 0,0:01:22.52,0:01:23.06,Default,,0,0,0,,變
+Dialogue: 0,0:01:23.73,0:01:24.73,Default,,0,0,0,,喔 是嗎
+Dialogue: 0,0:01:24.81,0:01:25.94,Default,,0,0,0,,那就行
+Dialogue: 0,0:01:26.02,0:01:27.36,Default,,0,0,0,,那我們該回城鎮了
+Dialogue: 0,0:01:27.44,0:01:28.36,Default,,0,0,0,,嗯
+Dialogue: 0,0:01:28.69,0:01:30.86,Default,,0,0,0,,難度A任務 完成
+Dialogue: 0,0:01:31.49,0:01:34.66,Default,,0,0,0,,等一下啦 不要對人家這麼冷淡嘛
+Dialogue: 0,0:01:34.99,0:01:36.20,Default,,0,0,0,,等等我
+Dialogue: 0,0:01:37.16,0:01:39.33,Default,,0,0,0,,哎呀 多虧你們來了
+Dialogue: 0,0:01:39.87,0:01:41.21,Default,,0,0,0,,話說
+Dialogue: 0,0:01:41.66,0:01:43.92,Default,,0,0,0,,你們這個隊伍的氛圍真不錯
+Dialogue: 0,0:01:44.21,0:01:45.75,Default,,0,0,0,,我也想加入
+Dialogue: 0,0:01:45.96,0:01:47.21,Default,,0,0,0,,喔 考慮一下
+Dialogue: 0,0:01:52.09,0:01:54.80,Default,,0,0,0,,嗚嗚 又是這個怪 老哥快收拾它
+Dialogue: 0,0:01:54.93,0:01:56.51,Default,,0,0,0,,放著我來
+Dialogue: 0,0:02:01.06,0:02:03.94,Default,,0,0,0,,爆 裂 龍 拳
+Dialogue: 0,0:02:06.23,0:02:07.36,Default,,0,0,0,,凪君 Nice
+Dialogue: 0,0:02:09.32,0:02:11.36,Default,,0,0,0,,慢著 慢著
+Dialogue: 0,0:02:11.99,0:02:14.16,Default,,0,0,0,,凪君太心急了啦
+Dialogue: 0,0:02:14.41,0:02:17.03,Default,,0,0,0,,我剛準備放大招呢
+Dialogue: 0,0:02:17.20,0:02:21.58,Default,,0,0,0,,我突然想問 要是念這種咒語時被打了該怎麼辦
+Dialogue: 0,0:02:21.75,0:02:24.42,Default,,0,0,0,,為什麼眼睛會發亮 身體周圍會發白光呢
+Dialogue: 0,0:02:24.58,0:02:27.08,Default,,0,0,0,,不是 通常會問這種問題嗎

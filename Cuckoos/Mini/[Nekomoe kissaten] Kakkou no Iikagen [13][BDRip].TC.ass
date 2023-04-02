@@ -1,0 +1,64 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [13][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#13『異世界旅店{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:04.82,0:00:06.90,Default,,0,0,0,,小幸 你還好嗎
+Dialogue: 0,0:00:09.57,0:00:11.95,Default,,0,0,0,,幸這孩子 怎麼又睡著了
+Dialogue: 0,0:00:12.58,0:00:15.20,Default,,0,0,0,,而且我們住宿問題還沒解決
+Dialogue: 0,0:00:15.50,0:00:16.66,Default,,0,0,0,,怎麼辦
+Dialogue: 0,0:00:16.75,0:00:19.71,Default,,0,0,0,,聽說公會的二樓是旅店
+Dialogue: 0,0:00:20.17,0:00:21.00,Default,,0,0,0,,去看看吧
+Dialogue: 0,0:00:27.01,0:00:28.80,Default,,0,0,0,,抱歉這麼晚前來叨擾
+Dialogue: 0,0:00:29.38,0:00:31.39,Default,,0,0,0,,有人嗎
+Dialogue: 0,0:00:31.80,0:00:33.05,Default,,0,0,0,,來了
+Dialogue: 0,0:00:33.64,0:00:35.22,Default,,0,0,0,,哎呀 又遇到你們了
+Dialogue: 0,0:00:35.52,0:00:36.98,Default,,0,0,0,,今天總能見到你們呢
+Dialogue: 0,0:00:37.52,0:00:38.52,Default,,0,0,0,,大姐姐
+Dialogue: 0,0:00:38.81,0:00:41.19,Default,,0,0,0,,穿著這麼性感的浴衣
+Dialogue: 0,0:00:41.48,0:00:42.65,Default,,0,0,0,,發生什麼事了
+Dialogue: 0,0:00:44.44,0:00:46.48,Default,,0,0,0,,你自行想像吧
+Dialogue: 0,0:00:46.48,0:00:48.28,Default,,0,0,0,,天啊 18禁出現了
+Dialogue: 0,0:00:51.95,0:00:54.08,Default,,0,0,0,,我們沒有能住的旅店
+Dialogue: 0,0:00:54.08,0:00:55.83,Default,,0,0,0,,請問還有空房間嗎
+Dialogue: 0,0:00:56.41,0:00:57.95,Default,,0,0,0,,我看看
+Dialogue: 0,0:00:58.41,0:01:02.54,Default,,0,0,0,,還有兩間大床房可以入住
+Dialogue: 0,0:01:02.88,0:01:05.42,Default,,0,0,0,,哎呀 這樣的話…
+Dialogue: 0,0:01:05.84,0:01:09.17,Default,,0,0,0,,得有一位女孩和男孩睡一張床了
+Dialogue: 0,0:01:13.09,0:01:14.60,Default,,0,0,0,,年輕真好
+Dialogue: 0,0:01:16.10,0:01:18.10,Default,,0,0,0,,事情又變成這樣了
+Dialogue: 0,0:01:18.93,0:01:19.93,Default,,0,0,0,,怎麼辦呢
+Dialogue: 0,0:01:20.10,0:01:21.02,Default,,0,0,0,,那
+Dialogue: 0,0:01:21.23,0:01:25.02,Default,,0,0,0,,猜拳贏的人當國王 由國王來決定 怎麼樣
+Dialogue: 0,0:01:25.44,0:01:27.86,Default,,0,0,0,,異世界就該用猜拳選國王呀
+Dialogue: 0,0:01:28.11,0:01:30.95,Default,,0,0,0,,嗯 凡事都講究一個享受
+Dialogue: 0,0:01:31.82,0:01:32.74,Default,,0,0,0,,好
+Dialogue: 0,0:01:33.28,0:01:36.99,Default,,0,0,0,,異世界剪刀石頭 布
+Dialogue: 0,0:01:38.33,0:01:39.75,Default,,0,0,0,,國王是我了
+Dialogue: 0,0:01:39.95,0:01:41.25,Default,,0,0,0,,凪君睡外面
+Dialogue: 0,0:01:41.41,0:01:43.29,Default,,0,0,0,,為什麼啊
+Dialogue: 0,0:01:58.85,0:02:01.68,Default,,0,0,0,,怎麼到了異世界還要受這種罪…

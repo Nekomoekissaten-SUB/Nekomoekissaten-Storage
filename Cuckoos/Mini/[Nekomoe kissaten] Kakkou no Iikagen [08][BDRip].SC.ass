@@ -1,0 +1,77 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [08][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.52,0:00:03.65,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻校轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.52,0:00:03.65,Screen,,0,0,0,,{\fad(300,300)\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#7『异世界冒险公会{\i1}!{\i0}』
+Dialogue: 0,0:00:04.23,0:00:05.69,Default,,0,0,0,,打扰啦
+Dialogue: 0,0:00:05.99,0:00:07.78,Default,,0,0,0,,这里就是公会呀
+Dialogue: 0,0:00:09.99,0:00:12.45,Default,,0,0,0,,有好多看起来就很强的人
+Dialogue: 0,0:00:13.53,0:00:14.66,Default,,0,0,0,,去问问那个人吧
+Dialogue: 0,0:00:15.37,0:00:19.29,Default,,0,0,0,,你好 我们是国王大人介绍过来的
+Dialogue: 0,0:00:21.38,0:00:23.75,Default,,0,0,0,,欢迎光临 恭候各位多时了
+Dialogue: 0,0:00:24.59,0:00:29.51,Default,,0,0,0,,我接到了上面的要求 将悉心为凪大人们做好向导
+Dialogue: 0,0:00:30.93,0:00:34.39,Default,,0,0,0,,太感谢你了 我们必须得完成某个任务
+Dialogue: 0,0:00:34.81,0:00:37.85,Default,,0,0,0,,首先需要各位完成冒险者注册
+Dialogue: 0,0:00:34.81,0:00:41.40,Screen,,0,0,0,,冒险者注册\N注册
+Dialogue: 0,0:00:38.56,0:00:41.15,Default,,0,0,0,,请在这里写下您的名字
+Dialogue: 0,0:00:43.40,0:00:47.40,Default,,0,0,0,,凪先生 绘里香小姐 弥小姐 幸小姐
+Dialogue: 0,0:00:47.61,0:00:50.57,Default,,0,0,0,,好的 感谢各位的配合
+Dialogue: 0,0:00:51.11,0:00:52.91,Default,,0,0,0,,根据我这边的数据显示
+Dialogue: 0,0:00:53.45,0:00:56.74,Default,,0,0,0,,凪先生的战斗力高达Lv999
+Dialogue: 0,0:00:57.08,0:01:00.41,Default,,0,0,0,,弥小姐的智力高达Lv999
+Dialogue: 0,0:01:00.71,0:01:06.00,Default,,0,0,0,,而幸小姐则是体力为Lv999 真是惊人
+Dialogue: 0,0:01:06.30,0:01:07.38,Default,,0,0,0,,爽
+Dialogue: 0,0:01:08.13,0:01:11.59,Default,,0,0,0,,魔雅神大人说他将各位强行召唤来时
+Dialogue: 0,0:01:11.68,0:01:13.55,Default,,0,0,0,,赋予了你们很高的面板
+Dialogue: 0,0:01:14.14,0:01:15.35,Default,,0,0,0,,我呢我呢
+Dialogue: 0,0:01:15.85,0:01:19.23,Default,,0,0,0,,绘里香大人的所有能力等级皆为1
+Dialogue: 0,0:01:19.85,0:01:23.02,Default,,0,0,0,,为什么呀 我也从魔雅君那里得到了技能啊
+Dialogue: 0,0:01:23.23,0:01:24.36,Default,,0,0,0,,您的技能分别为
+Dialogue: 0,0:01:24.65,0:01:27.94,Default,,0,0,0,,「智能手机」「Cosplay」「无限金钱」
+Dialogue: 0,0:01:28.36,0:01:31.78,Default,,0,0,0,,都是在任务中派不上用场的技能
+Dialogue: 0,0:01:34.16,0:01:37.28,Default,,0,0,0,,绘里香 为什么要选这种技能啊
+Dialogue: 0,0:01:37.45,0:01:37.95,Default,,0,0,0,,诶嘿
+Dialogue: 0,0:01:39.41,0:01:43.79,Default,,0,0,0,,我们要怎么做才能接到那个能让我们回去的任务呢
+Dialogue: 0,0:01:44.08,0:01:47.67,Default,,0,0,0,,本公会提供的任务最低低至初级
+Dialogue: 0,0:01:48.13,0:01:51.84,Default,,0,0,0,,完成了约100个任务后 便能达到足够的等级
+Dialogue: 0,0:01:52.43,0:01:54.97,Default,,0,0,0,,这个过程大约需要花费2年时间吧
+Dialogue: 0,0:02:00.60,0:02:01.56,Default,,0,0,0,,2年？
+Dialogue: 0,0:02:02.10,0:02:04.94,Default,,0,0,0,,恕我直言 以绘里香小姐的现等级而言
+Dialogue: 0,0:02:05.31,0:02:08.57,Default,,0,0,0,,本公会派出的任务您无法完成
+Dialogue: 0,0:02:10.48,0:02:12.24,Default,,0,0,0,,天野要想达到等级要求
+Dialogue: 0,0:02:12.32,0:02:16.95,Default,,0,0,0,,得花2倍…不 3倍的时间修行升级
+Dialogue: 0,0:02:17.20,0:02:19.45,Default,,0,0,0,,你就知道在那叭叭
+Dialogue: 0,0:02:19.62,0:02:21.75,Default,,0,0,0,,那你倒是说清楚我要怎么做啊
+Dialogue: 0,0:02:21.87,0:02:26.54,Default,,0,0,0,,那不就只能在城市周边来回转 不断打倒弱鸡怪物
+Dialogue: 0,0:02:26.96,0:02:28.88,Default,,0,0,0,,踏踏实实慢慢升级咯
+Dialogue: 0,0:02:29.38,0:02:32.01,Default,,0,0,0,,要是你一个人出去肯定会命丧异世界的
+Dialogue: 0,0:02:32.26,0:02:36.80,Default,,0,0,0,,我从没打过怪物啊 也不想每天重复做同一件事
+Dialogue: 0,0:02:36.80,0:02:38.72,Default,,0,0,0,,那也要做到会为止
+Dialogue: 0,0:02:38.89,0:02:40.26,Default,,0,0,0,,别开口就是放弃
+Dialogue: 0,0:02:40.43,0:02:45.10,Default,,0,0,0,,不要嘛 人家就想轻轻松松做任务
+Dialogue: 0,0:02:45.60,0:02:50.36,Default,,0,0,0,,异世界名言其二 技能太废物就该老实升级
+Dialogue: 0,0:02:50.90,0:02:52.78,Default,,0,0,0,,凭什么是你在说我呀
+Dialogue: 0,0:02:54.57,0:02:56.86,Default,,0,0,0,,在异世界也这么般配

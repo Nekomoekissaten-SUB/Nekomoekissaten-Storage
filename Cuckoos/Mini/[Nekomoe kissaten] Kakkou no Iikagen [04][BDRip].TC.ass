@@ -1,0 +1,71 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [04][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻校軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\an8\fn方正正粗黑_GBK\3c&HFFFFFF&\bord5\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#4『異世界人!』
+Dialogue: 0,0:00:08.20,0:00:09.61,Default,,0,0,0,,好棒
+Dialogue: 0,0:00:10.66,0:00:11.83,Default,,0,0,0,,這就是異世界
+Dialogue: 0,0:00:11.83,0:00:14.54,Default,,0,0,0,,大家穿著我都沒見過的衣服
+Dialogue: 0,0:00:14.83,0:00:16.58,Default,,0,0,0,,那邊還有馬車在跑呢
+Dialogue: 0,0:00:16.91,0:00:18.58,Default,,0,0,0,,也有好多商家
+Dialogue: 0,0:00:18.58,0:00:20.33,Default,,0,0,0,,豈不是想買什麼買什麼
+Dialogue: 0,0:00:20.50,0:00:23.09,Default,,0,0,0,,在這座城裡 有王所在的城堡
+Dialogue: 0,0:00:23.25,0:00:25.46,Default,,0,0,0,,有冒險者們雲集的公會
+Dialogue: 0,0:00:25.80,0:00:27.72,Default,,0,0,0,,能買到武器或道具的店家
+Dialogue: 0,0:00:27.84,0:00:29.05,Default,,0,0,0,,可謂是應有盡有
+Dialogue: 0,0:00:29.34,0:00:31.51,Default,,0,0,0,,就在這做好冒險的準備吧
+Dialogue: 0,0:00:32.39,0:00:34.01,Default,,0,0,0,,繪里香？你要去哪
+Dialogue: 0,0:00:36.22,0:00:37.64,Default,,0,0,0,,不見了…
+Dialogue: 0,0:00:38.02,0:00:40.52,Default,,0,0,0,,迷路了該怎麼辦啊…
+Dialogue: 0,0:00:41.56,0:00:45.69,Default,,0,0,0,,反正錢多到花不完 就把想要的都買了
+Dialogue: 0,0:00:45.69,0:00:47.40,Default,,0,0,0,,動作太快了吧
+Dialogue: 0,0:00:47.40,0:00:49.57,Default,,0,0,0,,到了異世界名媛氣場也拉滿了啊
+Dialogue: 0,0:00:49.57,0:00:51.53,Default,,0,0,0,,這樣提著回家也太不方便了
+Dialogue: 0,0:00:51.70,0:00:54.58,Default,,0,0,0,,就不能網購送貨到家嗎
+Dialogue: 0,0:00:54.58,0:00:58.91,Default,,0,0,0,,去拜託會用魔法的人使用傳送魔術就可以了
+Dialogue: 0,0:00:59.08,0:01:01.79,Default,,0,0,0,,老是拜託別人很麻煩的
+Dialogue: 0,0:01:01.79,0:01:04.25,Default,,0,0,0,,要是能用手機上網就好了
+Dialogue: 0,0:01:12.14,0:01:15.18,Default,,0,0,0,,魔雅君 我發現了
+Dialogue: 0,0:01:15.18,0:01:16.31,Default,,0,0,0,,怎麼了
+Dialogue: 0,0:01:18.68,0:01:20.39,Default,,0,0,0,,這裡的女人…
+Dialogue: 0,0:01:20.81,0:01:22.10,Default,,0,0,0,,胸都好大
+Dialogue: 0,0:01:23.73,0:01:24.86,Default,,0,0,0,,…是嗎
+Dialogue: 0,0:01:25.02,0:01:26.32,Default,,0,0,0,,為什麼呢
+Dialogue: 0,0:01:26.32,0:01:30.82,Default,,0,0,0,,感覺這個世界的女人的罩杯都至少有小彌那麼大
+Dialogue: 0,0:01:34.37,0:01:36.74,Default,,0,0,0,,有嗎…
+Dialogue: 0,0:01:36.74,0:01:38.50,Default,,0,0,0,,或許是…你的錯覺？
+Dialogue: 0,0:01:38.50,0:01:41.66,Default,,0,0,0,,遺傳的嗎…莫不是因為魔法？
+Dialogue: 0,0:01:41.66,0:01:43.67,Default,,0,0,0,,巧合吧 都是巧合
+Dialogue: 0,0:01:43.83,0:01:47.84,Default,,0,0,0,,還有 有人穿著大衣 有人披著斗篷
+Dialogue: 0,0:01:47.84,0:01:52.80,Default,,0,0,0,,還有人赤裸上半身 女人都穿得特別少
+Dialogue: 0,0:01:52.80,0:01:55.97,Default,,0,0,0,,太怪了 彷彿每個人身處不同的季節
+Dialogue: 0,0:01:56.89,0:01:59.64,Default,,0,0,0,,是因為異世界人特別講究時尚啦
+Dialogue: 0,0:01:59.64,0:02:03.10,Default,,0,0,0,,不是有句話叫「要風度不要溫度」嘛
+Dialogue: 0,0:02:03.31,0:02:05.15,Default,,0,0,0,,還有這種說法啊
+Dialogue: 0,0:02:05.15,0:02:06.69,Default,,0,0,0,,學到了學到了
+Dialogue: 0,0:02:06.69,0:02:08.48,Default,,0,0,0,,異世界名言其一
+Dialogue: 0,0:02:08.90,0:02:11.61,Default,,0,0,0,,異世界服裝 好看大於實用
+Dialogue: 0,0:02:11.61,0:02:13.20,Default,,0,0,0,,懂了懂了

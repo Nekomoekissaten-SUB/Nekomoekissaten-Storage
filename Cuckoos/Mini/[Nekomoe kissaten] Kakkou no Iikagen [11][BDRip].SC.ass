@@ -1,0 +1,88 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [11][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻校轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#11『异世界酒馆{\i1}!{\i0}』
+Dialogue: 0,0:00:04.86,0:00:06.07,Default,,0,0,0,,累了
+Dialogue: 0,0:00:06.45,0:00:08.07,Default,,0,0,0,,肚子好饿
+Dialogue: 0,0:00:08.49,0:00:09.61,Default,,0,0,0,,赶紧开吃吧
+Dialogue: 0,0:00:09.87,0:00:12.62,Default,,0,0,0,,都怪凪君 害我们弄到这么晚
+Dialogue: 0,0:00:15.70,0:00:19.04,Default,,0,0,0,,我服了 都在外面晃了3小时
+Dialogue: 0,0:00:19.21,0:00:21.71,Default,,0,0,0,,天野又老喊累非得休息
+Dialogue: 0,0:00:21.92,0:00:24.88,Default,,0,0,0,,幸又动不动喊饿非得去森林里找水果
+Dialogue: 0,0:00:25.34,0:00:27.30,Default,,0,0,0,,咱们根本就没怎么冒险啊
+Dialogue: 0,0:00:27.88,0:00:29.51,Default,,0,0,0,,算了算了海野君
+Dialogue: 0,0:00:30.14,0:00:32.05,Default,,0,0,0,,先喝点什么吧
+Dialogue: 0,0:00:32.76,0:00:34.26,Default,,0,0,0,,你好
+Dialogue: 0,0:00:34.93,0:00:38.60,Default,,0,0,0,,客人们都在开心地喝着的那个 麻烦来4杯
+Dialogue: 0,0:00:38.98,0:00:41.02,Default,,0,0,0,,没办法呀 我就只能看着
+Dialogue: 0,0:00:41.48,0:00:43.02,Default,,0,0,0,,我又是专门负责吃的
+Dialogue: 0,0:00:44.65,0:00:47.82,Default,,0,0,0,,再不能学习我就要死了
+Dialogue: 0,0:00:49.11,0:00:50.28,Default,,0,0,0,,来 久等
+Dialogue: 0,0:00:51.57,0:00:54.58,Default,,0,0,0,,朋友们 干杯
+Dialogue: 0,0:01:01.88,0:01:04.38,Default,,0,0,0,,这味道好奇怪啊
+Dialogue: 0,0:01:04.84,0:01:06.30,Default,,0,0,0,,再点些吃的吧
+Dialogue: 0,0:01:06.71,0:01:10.18,Default,,0,0,0,,我想吃炸的 还有香辣的
+Dialogue: 0,0:01:10.38,0:01:12.68,Default,,0,0,0,,是啊 今天多吃点吧
+Dialogue: 0,0:01:26.82,0:01:28.61,Default,,0,0,0,,感觉好嗨哟
+Dialogue: 0,0:01:28.94,0:01:31.74,Default,,0,0,0,,刚来到这个世界还挺提心吊胆的
+Dialogue: 0,0:01:31.95,0:01:34.07,Default,,0,0,0,,原来还有这么好玩的地方
+Dialogue: 0,0:01:34.49,0:01:35.95,Default,,0,0,0,,嗯 你嗦得对
+Dialogue: 0,0:01:36.54,0:01:37.74,Default,,0,0,0,,我感觉这饮料
+Dialogue: 0,0:01:37.99,0:01:39.50,Default,,0,0,0,,我能喝一辈子
+Dialogue: 0,0:01:40.29,0:01:43.50,Default,,0,0,0,,就这种 身体轻飘飘的感觉
+Dialogue: 0,0:01:44.33,0:01:46.63,Default,,0,0,0,,好像以前也体验过
+Dialogue: 0,0:01:48.38,0:01:49.21,Default,,0,0,0,,老哥
+Dialogue: 0,0:01:49.63,0:01:51.63,Default,,0,0,0,,我困了
+Dialogue: 0,0:01:52.13,0:01:53.80,Default,,0,0,0,,头晕乎乎的
+Dialogue: 0,0:01:56.93,0:01:59.10,Default,,0,0,0,,今天应该能睡个好觉
+Dialogue: 0,0:02:02.60,0:02:04.27,Default,,0,0,0,,不是 你这已经在睡了吧
+Dialogue: 0,0:02:04.48,0:02:05.56,Default,,0,0,0,,别睡了 幸
+Dialogue: 0,0:02:06.65,0:02:08.78,Default,,0,0,0,,哎呀 小幸呀
+Dialogue: 0,0:02:09.19,0:02:10.74,Default,,0,0,0,,喝这么点就撑不住啦
+Dialogue: 0,0:02:10.99,0:02:12.24,Default,,0,0,0,,真菜
+Dialogue: 0,0:02:15.07,0:02:15.82,Default,,0,0,0,,说得好
+Dialogue: 0,0:02:16.03,0:02:18.74,Default,,0,0,0,,让我们突破极限 今晚喝个痛快
+Dialogue: 0,0:02:19.87,0:02:24.42,Default,,0,0,0,,濑川 这不会是我们不能喝的东西吧
+Dialogue: 0,0:02:25.00,0:02:27.67,Default,,0,0,0,,别问 这可是异世界
+Dialogue: 0,0:02:28.92,0:02:30.88,Default,,0,0,0,,而且又是Youtube
+Dialogue: 0,0:02:31.80,0:02:33.13,Default,,0,0,0,,不是电视台
+Dialogue: 0,0:02:33.55,0:02:35.89,Default,,0,0,0,,也不是周刊少年杂志
+Dialogue: 0,0:02:36.47,0:02:38.14,Default,,0,0,0,,不必在意那些细节
+Dialogue: 0,0:02:38.43,0:02:40.18,Default,,0,0,0,,濑川 难道
+Dialogue: 0,0:02:43.64,0:02:45.06,Default,,0,0,0,,凪君
+Dialogue: 0,0:02:45.56,0:02:46.77,Default,,0,0,0,,我仔细一看
+Dialogue: 0,0:02:46.94,0:02:51.23,Default,,0,0,0,,你长得好像《山田魔女》里的山崎春马
+Dialogue: 0,0:02:46.94,0:02:51.23,Comment,,0,0,0,,《山田君与七人魔女》\N吉河美希的前一部漫画
+Dialogue: 0,0:02:51.69,0:02:52.94,Default,,0,0,0,,那是谁啊
+Dialogue: 0,0:02:54.40,0:02:57.16,Default,,0,0,0,,天野 濑川她很不对劲
+Dialogue: 0,0:02:57.45,0:02:59.08,Default,,0,0,0,,差不多该走了 咦
+Dialogue: 0,0:02:59.74,0:03:01.04,Default,,0,0,0,,天野又哪去了
+Dialogue: 0,0:03:01.41,0:03:05.12,Default,,0,0,0,,兄弟们使劲喝 今晚不醉方休
+Dialogue: 0,0:03:06.75,0:03:10.00,Default,,0,0,0,,连天野也…这下糟了
+Dialogue: 0,0:03:10.50,0:03:13.26,Default,,0,0,0,,请问 这饮料究竟是
+Dialogue: 0,0:03:14.67,0:03:18.30,Default,,0,0,0,,这款是附加了能使身体变得飘飘欲仙的魔法的
+Dialogue: 0,0:03:18.51,0:03:19.89,Default,,0,0,0,,碳酸饮料

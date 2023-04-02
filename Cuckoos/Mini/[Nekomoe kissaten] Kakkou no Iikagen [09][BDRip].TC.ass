@@ -1,0 +1,64 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [09][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.98,0:00:00.98,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.86,0:00:04.82,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻校軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.98,0:00:00.98,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.86,0:00:04.82,Screen,,0,0,0,,{\fad(360,360)\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#9『異世界裝備{\i1}!{\i0}』
+Dialogue: 0,0:00:07.35,0:00:08.72,Default,,0,0,0,,好酷
+Dialogue: 0,0:00:09.39,0:00:10.49,Default,,0,0,0,,看起來好重
+Dialogue: 0,0:00:10.89,0:00:12.98,Default,,0,0,0,,我能拿得動嗎
+Dialogue: 0,0:00:13.31,0:00:15.73,Default,,0,0,0,,我的自由搏擊之魂燃起來了
+Dialogue: 0,0:00:16.23,0:00:18.32,Default,,0,0,0,,有沒有鈍器呢
+Dialogue: 0,0:00:19.44,0:00:22.57,Default,,0,0,0,,瀨川 打架都交給我吧
+Dialogue: 0,0:00:22.74,0:00:23.61,Default,,0,0,0,,我來保護你
+Dialogue: 0,0:00:28.70,0:00:32.04,Default,,0,0,0,,在異世界 也沒有 錢
+Dialogue: 0,0:00:25.61,0:00:26.82,Screen,,0,0,0,,{\bord3}空蕩蕩…
+Dialogue: 0,0:00:32.20,0:00:32.62,Default,,0,0,0,,沒有
+Dialogue: 0,0:00:35.29,0:00:38.54,Default,,0,0,0,,那這事就交給本名媛魔法使吧
+Dialogue: 0,0:00:42.13,0:00:45.38,Default,,0,0,0,,大拋售 大優惠 走過路過別錯過
+Dialogue: 0,0:00:45.84,0:00:47.34,Default,,0,0,0,,繪里香好厲害
+Dialogue: 0,0:00:47.93,0:00:52.81,Default,,0,0,0,,有這麼多錢 能買異世界冰淇淋1個 2個 3個…
+Dialogue: 0,0:00:54.27,0:00:56.19,Default,,0,0,0,,好啦 開始購物吧
+Dialogue: 0,0:00:57.73,0:01:00.82,Default,,0,0,0,,你好 我們是第一次買裝備
+Dialogue: 0,0:01:00.82,0:01:01.94,Default,,0,0,0,,歡迎
+Dialogue: 0,0:01:02.19,0:01:03.24,Default,,0,0,0,,歡迎
+Dialogue: 0,0:01:04.03,0:01:05.95,Default,,0,0,0,,嚯 小姑娘們真有活力
+Dialogue: 0,0:01:06.28,0:01:07.24,Default,,0,0,0,,需要點什麼
+Dialogue: 0,0:01:07.82,0:01:10.45,Default,,0,0,0,,這家店裡有的我全買了
+Dialogue: 0,0:01:11.45,0:01:12.29,Default,,0,0,0,,喂喂
+Dialogue: 0,0:01:12.29,0:01:13.25,Default,,0,0,0,,騙人吧
+Dialogue: 0,0:01:13.41,0:01:16.71,Default,,0,0,0,,沒騙沒騙 錢要多少有多少
+Dialogue: 0,0:01:17.00,0:01:19.79,Default,,0,0,0,,1 2 3 4…
+Dialogue: 0,0:01:22.21,0:01:26.05,Default,,0,0,0,,這個世界的錢又占位置又難數
+Dialogue: 0,0:01:27.26,0:01:28.64,Default,,0,0,0,,麻煩死啦
+Dialogue: 0,0:01:29.39,0:01:32.06,Default,,0,0,0,,大叔 能用信用卡嗎
+Dialogue: 0,0:01:32.43,0:01:33.64,Default,,0,0,0,,信用？
+Dialogue: 0,0:01:34.27,0:01:35.18,Default,,0,0,0,,那是什麼
+Dialogue: 0,0:01:36.89,0:01:38.06,Default,,0,0,0,,下次再來
+Dialogue: 0,0:01:40.65,0:01:41.90,Default,,0,0,0,,好重
+Dialogue: 0,0:01:42.61,0:01:45.99,Default,,0,0,0,,為什麼異世界動畫片裡的武器商人
+Dialogue: 0,0:01:46.28,0:01:48.91,Default,,0,0,0,,都是肌肉大鬍子光頭呢
+Dialogue: 0,0:01:49.11,0:01:52.16,Default,,0,0,0,,確實 我看過的也都是這樣的
+Dialogue: 0,0:01:52.70,0:01:54.33,Default,,0,0,0,,真不可思議

@@ -1,0 +1,86 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [15][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#15『異世界約會{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------SCR---------------
+Dialogue: 0,0:01:37.58,0:01:43.17,Screen,,0,0,0,,{\fnFZLanTingYuan-DB-GBK\bord2\c&HDCFBFF&\3c&H000000&\fad(200,0)\an7}炒麵氏
+Dialogue: 0,0:01:40.71,0:01:43.17,Comment,,0,0,0,,少年魔雅神：諧音《少年MAGAZINE》
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:06.94,0:00:09.49,Default,,0,0,0,,暫且是把必需品買齊了
+Dialogue: 0,0:00:09.66,0:00:11.70,Default,,0,0,0,,海野君真會買東西
+Dialogue: 0,0:00:11.95,0:00:13.83,Default,,0,0,0,,先把所有道具店都逛一遍
+Dialogue: 0,0:00:14.04,0:00:18.12,Default,,0,0,0,,把藥草 聖水 解毒藥的價格統統列成表
+Dialogue: 0,0:00:18.12,0:00:20.37,Default,,0,0,0,,再挑最便宜的買
+Dialogue: 0,0:00:21.63,0:00:22.92,Default,,0,0,0,,也沒那麼厲害啦
+Dialogue: 0,0:00:24.21,0:00:25.63,Default,,0,0,0,,真有家庭主夫的風格
+Dialogue: 0,0:00:25.63,0:00:27.26,Default,,0,0,0,,主 主夫…
+Dialogue: 0,0:00:29.72,0:00:32.35,Default,,0,0,0,,這是 大聖堂吧
+Dialogue: 0,0:00:32.68,0:00:34.35,Default,,0,0,0,,去裡面看看吧
+Dialogue: 0,0:00:34.64,0:00:35.10,Default,,0,0,0,,嗯
+Dialogue: 0,0:00:44.82,0:00:46.65,Default,,0,0,0,,瀰漫著莊嚴的氣息
+Dialogue: 0,0:00:47.24,0:00:49.99,Default,,0,0,0,,到底是異世界的神社啊
+Dialogue: 0,0:00:50.24,0:00:51.70,Default,,0,0,0,,像教會
+Dialogue: 0,0:00:52.28,0:00:55.28,Default,,0,0,0,,要是能在這裡跟瀨川辦婚禮…
+Dialogue: 0,0:00:57.29,0:00:58.04,Default,,0,0,0,,海野君
+Dialogue: 0,0:00:58.45,0:01:01.96,Default,,0,0,0,,你說要是我去拜託神父畫個御朱印 他會答應嗎
+Dialogue: 0,0:01:01.96,0:01:04.21,Default,,0,0,0,,我估計多半是不行…
+Dialogue: 0,0:01:04.25,0:01:04.88,Default,,0,0,0,,我衝了
+Dialogue: 0,0:01:05.00,0:01:06.30,Default,,0,0,0,,瀨川
+Dialogue: 0,0:01:06.42,0:01:07.76,Default,,0,0,0,,怎麼總是自己瞎跑
+Dialogue: 0,0:01:10.13,0:01:12.34,Default,,0,0,0,,我拿到御朱印了
+Dialogue: 0,0:01:12.34,0:01:13.30,Default,,0,0,0,,不會吧
+Dialogue: 0,0:01:13.59,0:01:14.80,Default,,0,0,0,,畫了個什麼樣的
+Dialogue: 0,0:01:15.10,0:01:15.85,Default,,0,0,0,,看
+Dialogue: 0,0:01:16.31,0:01:18.85,Default,,0,0,0,,Get了一個超稀有的樣式喔
+Dialogue: 0,0:01:19.18,0:01:20.18,Default,,0,0,0,,好耶
+Dialogue: 0,0:01:20.56,0:01:22.35,Default,,0,0,0,,為什麼畫的是魔雅
+Dialogue: 0,0:01:22.81,0:01:25.27,Default,,0,0,0,,他說這個教會信奉的神明
+Dialogue: 0,0:01:25.52,0:01:26.94,Default,,0,0,0,,就是魔雅喔
+Dialogue: 0,0:01:27.28,0:01:31.36,Default,,0,0,0,,宗教名叫魔雅教 規則寬鬆且隨意喔
+Dialogue: 0,0:01:31.36,0:01:33.99,Default,,0,0,0,,到底是怎樣的一群人才會信奉那東西
+Dialogue: 0,0:01:34.32,0:01:37.16,Default,,0,0,0,,而且似乎並沒獲得國家的承認
+Dialogue: 0,0:01:37.87,0:01:40.12,Default,,0,0,0,,看 我還拿了本教典
+Dialogue: 0,0:01:40.71,0:01:43.17,Default,,0,0,0,,封面寫著《少年魔雅神》
+Dialogue: 0,0:01:44.46,0:01:48.67,Default,,0,0,0,,一本比電話簿稍薄但小朋友都喜歡的色彩鮮艷的書籍
+Dialogue: 0,0:01:48.80,0:01:51.76,Default,,0,0,0,,雖然封面和別的書相比比較少見 如女孩子看的寫真偶像雜誌
+Dialogue: 0,0:01:51.76,0:01:54.76,Default,,0,0,0,,卻能完美拿捏男生的好奇心
+Dialogue: 0,0:01:54.76,0:01:56.39,Default,,0,0,0,,多麼的完美啊
+Dialogue: 0,0:01:56.60,0:01:59.60,Default,,0,0,0,,內容好像記錄著魔雅神的各種教誨
+Dialogue: 0,0:01:59.85,0:02:01.60,Default,,0,0,0,,其中一半是戀愛喜劇
+Dialogue: 0,0:02:02.02,0:02:04.65,Default,,0,0,0,,其餘多為運動類和科幻類題材
+Dialogue: 0,0:02:04.65,0:02:08.36,Default,,0,0,0,,簡直就是順應當下潮流的典範
+Dialogue: 0,0:02:08.36,0:02:09.82,Default,,0,0,0,,不愧是魔雅神
+Dialogue: 0,0:02:09.98,0:02:12.78,Default,,0,0,0,,願它永遠都是少年們的聖經
+Dialogue: 0,0:02:12.78,0:02:13.95,Default,,0,0,0,,以及戀愛喜劇啊
+Dialogue: 0,0:02:14.32,0:02:15.41,Default,,0,0,0,,成為永恆吧
+Dialogue: 0,0:02:16.99,0:02:19.70,Default,,0,0,0,,凪君是個虔誠的魔雅教信徒呀
+Dialogue: 0,0:02:20.29,0:02:22.21,Default,,0,0,0,,好啦 我們做個祈禱就回去吧
+Dialogue: 0,0:02:22.66,0:02:24.67,Default,,0,0,0,,繪里香和小幸還等著我們呢
+Dialogue: 0,0:02:30.71,0:02:37.89,Default,,0,0,0,,年級第一 和瀨川談戀愛
+Dialogue: 0,0:02:38.76,0:02:41.31,Default,,0,0,0,,瀨川祈禱了什麼
+Dialogue: 0,0:02:41.85,0:02:46.69,Default,,0,0,0,,嗯？我祈禱了我們能平安地回到原來的世界
+Dialogue: 0,0:02:47.10,0:02:48.02,Default,,0,0,0,,你是天使嗎

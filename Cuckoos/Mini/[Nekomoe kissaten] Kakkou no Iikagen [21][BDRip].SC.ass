@@ -1,0 +1,63 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [21][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.52,0:00:03.36,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.52,0:00:03.36,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#21『破灭Flag{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------SCR---------------
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:12.66,0:00:14.37,Default,,0,0,0,,好怪
+Dialogue: 0,0:00:14.83,0:00:17.41,Default,,0,0,0,,老哥还是换一身士兵B的衣服吧
+Dialogue: 0,0:00:17.41,0:00:19.83,Default,,0,0,0,,不要 不要这套
+Dialogue: 0,0:00:19.83,0:00:22.88,Default,,0,0,0,,我想穿成个帅王子
+Dialogue: 0,0:00:26.63,0:00:27.76,Default,,0,0,0,,大小姐
+Dialogue: 0,0:00:28.22,0:00:31.43,Default,,0,0,0,,我已经整整3天没吃东西了
+Dialogue: 0,0:00:31.85,0:00:33.39,Default,,0,0,0,,请赏我一口饭吃吧
+Dialogue: 0,0:00:36.02,0:00:39.52,Default,,0,0,0,,没了这面包 找块蛋糕吃不就好了
+Dialogue: 0,0:00:40.06,0:00:44.40,Default,,0,0,0,,可小女子从未吃过蛋糕
+Dialogue: 0,0:00:50.53,0:00:53.33,Default,,0,0,0,,想吃蛋糕就叫个外卖呗
+Dialogue: 0,0:00:53.58,0:00:55.08,Default,,0,0,0,,我帮你点就好啦
+Dialogue: 0,0:00:56.95,0:00:59.66,Default,,0,0,0,,这边这个世界也没网
+Dialogue: 0,0:01:00.21,0:01:03.54,Default,,0,0,0,,绘里香 问题的重点不在这里哦
+Dialogue: 0,0:01:04.21,0:01:08.09,Default,,0,0,0,,你们… 难道是转生过来的吗
+Dialogue: 0,0:01:08.38,0:01:09.55,Default,,0,0,0,,是的
+Dialogue: 0,0:01:09.97,0:01:12.89,Default,,0,0,0,,我们误入了这个世界
+Dialogue: 0,0:01:13.14,0:01:15.39,Default,,0,0,0,,我也是转生过来的
+Dialogue: 0,0:01:15.72,0:01:18.73,Default,,0,0,0,,这边是我特别爱玩的乙女游戏世界
+Dialogue: 0,0:01:19.02,0:01:22.44,Default,,0,0,0,,但不知道为什么变成了恶人角色大小姐
+Dialogue: 0,0:01:22.60,0:01:29.28,Default,,0,0,0,,按照剧本 如果我不把她赶走就要被处刑了
+Dialogue: 0,0:01:30.70,0:01:33.41,Default,,0,0,0,,总觉得这故事好耳熟
+Dialogue: 0,0:01:33.66,0:01:35.33,Default,,0,0,0,,该怎么办呢
+Dialogue: 0,0:01:35.78,0:01:39.00,Default,,0,0,0,,这女孩是没钱买吃的吗
+Dialogue: 0,0:01:39.37,0:01:41.08,Default,,0,0,0,,那我送你一笔钱吧
+Dialogue: 0,0:01:42.08,0:01:45.92,Default,,0,0,0,,那我和小幸的裙子也送你吧
+Dialogue: 0,0:01:46.46,0:01:49.17,Default,,0,0,0,,再附赠海野君的王子套装
+Dialogue: 0,0:01:49.30,0:01:53.51,Default,,0,0,0,,作为交换 能把那个炒面氏玩偶给我们吗
+Dialogue: 0,0:01:55.55,0:01:57.72,Default,,0,0,0,,谢谢各位大善人
+Dialogue: 0,0:01:57.97,0:01:59.60,Default,,0,0,0,,这样就完美收场啦
+Dialogue: 0,0:01:59.77,0:02:02.19,Default,,0,0,0,,太好了 不用被处刑了
+Dialogue: 0,0:02:02.44,0:02:06.02,Default,,0,0,0,,谢谢你们救了我
+Dialogue: 0,0:02:09.23,0:02:11.36,Default,,0,0,0,,成功拿回炒面氏了
+Dialogue: 0,0:02:11.36,0:02:12.49,Default,,0,0,0,,这次一定要回去

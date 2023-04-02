@@ -1,0 +1,67 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [22][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#22『再見異世界{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------SCR---------------
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:09.11,0:00:11.32,Default,,0,0,0,,成了 我們回來了
+Dialogue: 0,0:00:11.99,0:00:13.74,Default,,0,0,0,,到家了
+Dialogue: 0,0:00:14.08,0:00:18.25,Default,,0,0,0,,先是死過一次 又是被扔進莫名其妙的世界裡
+Dialogue: 0,0:00:18.66,0:00:21.21,Default,,0,0,0,,最後終於活著回來了
+Dialogue: 0,0:00:24.92,0:00:25.96,Default,,0,0,0,,乖 不哭不哭
+Dialogue: 0,0:00:26.71,0:00:28.88,Default,,0,0,0,,辛苦啦 繪里香
+Dialogue: 0,0:00:29.88,0:00:31.39,Default,,0,0,0,,恭喜老姐
+Dialogue: 0,0:00:34.06,0:00:36.43,Default,,0,0,0,,繪里香 這段時間的冒險辛苦了
+Dialogue: 0,0:00:36.97,0:00:39.56,Default,,0,0,0,,和朋友們的團隊協作非常棒
+Dialogue: 0,0:00:40.02,0:00:42.40,Default,,0,0,0,,話又說回來 你到底是什麼人
+Dialogue: 0,0:00:43.94,0:00:45.57,Default,,0,0,0,,我是神啊
+Dialogue: 0,0:00:46.53,0:00:48.95,Default,,0,0,0,,別別別 這個摘不下來的
+Dialogue: 0,0:00:49.36,0:00:51.86,Default,,0,0,0,,炒麵… 爆出來了… 你要怎麼負責…
+Dialogue: 0,0:00:55.62,0:00:57.79,Default,,0,0,0,,那我走了 各位保重
+Dialogue: 0,0:00:57.79,0:00:59.33,Default,,0,0,0,,魔雅君保重
+Dialogue: 0,0:00:59.54,0:01:01.25,Default,,0,0,0,,好好做神
+Dialogue: 0,0:01:03.96,0:01:05.13,Default,,0,0,0,,走掉了
+Dialogue: 0,0:01:06.05,0:01:09.67,Default,,0,0,0,,這段日子真是說短不短 說長不長
+Dialogue: 0,0:01:10.05,0:01:12.51,Default,,0,0,0,,要是能玩得更盡興一點就好了
+Dialogue: 0,0:01:13.09,0:01:15.14,Default,,0,0,0,,離開了反倒有點捨不得了
+Dialogue: 0,0:01:15.72,0:01:19.18,Default,,0,0,0,,我都沒怎麼吃到異世界美食
+Dialogue: 0,0:01:21.27,0:01:23.86,Default,,0,0,0,,凪君 趕緊做點好吃的端上來
+Dialogue: 0,0:01:24.36,0:01:27.98,Default,,0,0,0,,你也就做吃的這方面有點用了
+Dialogue: 0,0:01:28.11,0:01:31.36,Default,,0,0,0,,你怎麼這麼趾高氣昂 當自己是國王還是千金大小姐呢
+Dialogue: 0,0:01:38.91,0:01:41.21,Default,,0,0,0,,親子蓋飯真好吃
+Dialogue: 0,0:01:41.71,0:01:44.63,Default,,0,0,0,,海野君手藝真好
+Dialogue: 0,0:01:44.75,0:01:48.71,Default,,0,0,0,,天野 你好不容易復活了 要多吃點補充營養
+Dialogue: 0,0:01:50.63,0:01:53.80,Default,,0,0,0,,有多少來多少 看我全部吃光光
+Dialogue: 0,0:01:56.18,0:02:01.06,Default,,0,0,0,,{\fad(0,700)}凪君 我已經… 吃不下了…
+Dialogue: 0,0:02:07.77,0:02:09.40,Default,,0,0,0,,好吃是好吃…
+Dialogue: 0,0:02:10.48,0:02:11.86,Default,,0,0,0,,但好難受…
+Dialogue: 0,0:02:15.07,0:02:18.45,Default,,0,0,0,,老姐怎麼皺著眉頭說夢話
+Dialogue: 0,0:02:22.62,0:02:25.33,Default,,0,0,0,,全都… 是夢嗎
+Dialogue: 0,0:02:26.25,0:02:28.13,Default,,0,0,0,,姐 你沒事吧
+Dialogue: 0,0:02:30.30,0:02:32.76,Default,,0,0,0,,這夢做得真開心
+Dialogue: 0,0:02:34.09,0:02:36.30,Default,,0,0,0,,雖然異世界挺鬧劇的
+Dialogue: 0,0:02:37.51,0:02:39.39,Default,,0,0,0,,但確實鬧得恰到好處

@@ -1,0 +1,73 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [05][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻校轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#5『异世界饭!』
+Dialogue: 0,0:00:09.49,0:00:11.16,Default,,0,0,0,,看起来好好吃
+Dialogue: 0,0:00:11.37,0:00:14.20,Default,,0,0,0,,这顿我请了 你尽管吃吧
+Dialogue: 0,0:00:16.95,0:00:18.71,Default,,0,0,0,,这个真好吃
+Dialogue: 0,0:00:19.04,0:00:21.38,Default,,0,0,0,,是我在原来的世界从没见过的料理呢
+Dialogue: 0,0:00:21.63,0:00:23.04,Default,,0,0,0,,是什么的肉啊
+Dialogue: 0,0:00:23.04,0:00:23.71,Default,,0,0,0,,这个啊
+Dialogue: 0,0:00:24.09,0:00:27.67,Default,,0,0,0,,是把魔犬刻耳柏洛斯的肉用魔法捣碎成肉末
+Dialogue: 0,0:00:28.01,0:00:32.05,Default,,0,0,0,,用食人花油仔仔细细地煎熟
+Dialogue: 0,0:00:32.43,0:00:36.72,Default,,0,0,0,,再淋上从超巨大青蛙呱呱弗洛克中抽出的酱汁做成的
+Dialogue: 0,0:00:39.02,0:00:40.65,Default,,0,0,0,,魔犬… 狗？
+Dialogue: 0,0:00:40.90,0:00:43.31,Default,,0,0,0,,你不知道我养了好多狗狗吗
+Dialogue: 0,0:00:43.61,0:00:46.07,Default,,0,0,0,,其他还有烤迷你哥布林
+Dialogue: 0,0:00:46.40,0:00:48.49,Default,,0,0,0,,用魔像和魔团子熬的汤
+Dialogue: 0,0:00:48.74,0:00:52.41,Default,,0,0,0,,饭后甜点则是用了大量曼德拉草精华制成的卡纳蕾
+Dialogue: 0,0:00:48.74,0:00:52.41,Comment,,0,0,0,,卡纳蕾:法国甜点
+Dialogue: 0,0:00:52.95,0:00:56.45,Default,,0,0,0,,这是我为了匹配绘里香的名媛身份而精心准备的盛宴哦
+Dialogue: 0,0:00:56.66,0:00:58.12,Default,,0,0,0,,来 多吃点
+Dialogue: 0,0:00:59.66,0:01:02.29,Default,,0,0,0,,来了异世界后我脑子不够用了
+Dialogue: 0,0:01:02.67,0:01:03.96,Default,,0,0,0,,就吃点面包算了
+Dialogue: 0,0:01:04.21,0:01:04.67,Default,,0,0,0,,谢谢你
+Dialogue: 0,0:01:04.79,0:01:06.42,Default,,0,0,0,,别这么说嘛
+Dialogue: 0,0:01:06.63,0:01:10.80,Default,,0,0,0,,异世界的食堂和居酒屋里 有很多用迷宫食材做的料理哦
+Dialogue: 0,0:01:10.88,0:01:12.30,Default,,0,0,0,,请尽情享用
+Dialogue: 0,0:01:15.18,0:01:19.39,Default,,0,0,0,,好啦 逛也逛过了吃也吃饱了
+Dialogue: 0,0:01:19.68,0:01:21.35,Default,,0,0,0,,那我差不多该回去了
+Dialogue: 0,0:01:21.60,0:01:23.90,Default,,0,0,0,,绘里香之后要自己加油咯
+Dialogue: 0,0:01:24.23,0:01:25.23,Default,,0,0,0,,你给我慢着
+Dialogue: 0,0:01:25.73,0:01:29.86,Default,,0,0,0,,就算您这么说…我还得回去处理别的工作啊
+Dialogue: 0,0:01:30.82,0:01:32.66,Default,,0,0,0,,魔雅君好过分
+Dialogue: 0,0:01:32.86,0:01:36.12,Default,,0,0,0,,怎么能把我一个人留在这个陌生的异世界呢
+Dialogue: 0,0:01:36.28,0:01:39.54,Default,,0,0,0,,对了 把我的朋友们也召唤过来吧
+Dialogue: 0,0:01:40.29,0:01:43.04,Default,,0,0,0,,小弥 小幸 再顺便带上凪君
+Dialogue: 0,0:01:43.04,0:01:44.75,Default,,0,0,0,,有他们三个在我就安心了
+Dialogue: 0,0:01:44.75,0:01:48.38,Default,,0,0,0,,这样我会被其他神明同事骂的…
+Dialogue: 0,0:01:48.38,0:01:52.88,Default,,0,0,0,,我到底是为什么被召唤到这种异世界的呀
+Dialogue: 0,0:01:52.88,0:01:55.55,Default,,0,0,0,,为什么呀 好奇怪呀
+Dialogue: 0,0:01:55.55,0:01:57.68,Default,,0,0,0,,别看我别看我
+Dialogue: 0,0:01:57.85,0:01:59.85,Default,,0,0,0,,你想想啊 我呢
+Dialogue: 0,0:02:00.06,0:02:02.52,Default,,0,0,0,,又不得不拼上性命去冒险
+Dialogue: 0,0:02:02.77,0:02:06.65,Default,,0,0,0,,要是有朋友在身旁就好多了是吧
+Dialogue: 0,0:02:06.86,0:02:09.28,Default,,0,0,0,,好嘛好嘛
+Dialogue: 0,0:02:09.86,0:02:12.95,Default,,0,0,0,,但只能到冒险结束为止 这是条件
+Dialogue: 0,0:02:12.90,0:02:13.70,Default,,0,0,0,,OK
+Dialogue: 0,0:02:21.00,0:02:21.83,Default,,0,0,0,,嘛尼嘛尼哄
+Dialogue: 0,0:02:33.80,0:02:34.93,Default,,0,0,0,,为什么

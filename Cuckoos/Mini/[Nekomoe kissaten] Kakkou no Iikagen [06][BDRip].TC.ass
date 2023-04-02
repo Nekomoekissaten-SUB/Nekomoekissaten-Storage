@@ -1,0 +1,81 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [06][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.48,0:00:03.23,Staff,,0,0,0,,{\fad(0,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻校軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.48,0:00:03.23,Screen,,0,0,0,,{\fad(0,600)\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#6『異世界小伙伴!』
+Dialogue: 0,0:00:05.99,0:00:07.32,Default,,0,0,0,,事情就是這樣
+Dialogue: 0,0:00:07.90,0:00:10.20,Default,,0,0,0,,為了能讓繪里香回到原來的世界
+Dialogue: 0,0:00:10.57,0:00:11.74,Default,,0,0,0,,希望你們可以幫幫忙
+Dialogue: 0,0:00:12.58,0:00:15.87,Default,,0,0,0,,被召喚到…這種異世界…
+Dialogue: 0,0:00:16.37,0:00:17.83,Default,,0,0,0,,還把瀨川和幸也捲進來…
+Dialogue: 0,0:00:19.42,0:00:22.96,Default,,0,0,0,,為什麼突然就要去冒險了啊啊啊
+Dialogue: 0,0:00:23.17,0:00:24.84,Default,,0,0,0,,我也不明不白的呀
+Dialogue: 0,0:00:25.13,0:00:27.59,Default,,0,0,0,,你能不能別到了異世界還老擺這種怪臉
+Dialogue: 0,0:00:27.72,0:00:28.68,Default,,0,0,0,,開什麼玩笑
+Dialogue: 0,0:00:28.84,0:00:31.18,Default,,0,0,0,,學著學著突然就被一團黑東西吸了進去
+Dialogue: 0,0:00:31.18,0:00:32.85,Default,,0,0,0,,一睜眼結果到了異世界
+Dialogue: 0,0:00:32.85,0:00:35.35,Default,,0,0,0,,對不起了嘛 把你叫來這種地方
+Dialogue: 0,0:00:35.77,0:00:37.56,Default,,0,0,0,,但你為什麼是全裸啊
+Dialogue: 0,0:00:37.68,0:00:39.19,Default,,0,0,0,,不是…那是…
+Dialogue: 0,0:00:40.02,0:00:43.52,Default,,0,0,0,,睡醒發現你不在家以為你肯定出去玩了
+Dialogue: 0,0:00:45.07,0:00:47.90,Default,,0,0,0,,就全裸學習發現這樣好爽
+Dialogue: 0,0:00:48.44,0:00:50.49,Default,,0,0,0,,你真的…好變態
+Dialogue: 0,0:00:50.82,0:00:52.57,Default,,0,0,0,,旁邊那位 在吃什麼呢
+Dialogue: 0,0:00:53.24,0:00:55.12,Default,,0,0,0,,肚子餓了嘛沒辦法
+Dialogue: 0,0:00:55.49,0:00:57.12,Default,,0,0,0,,啊這個好好吃
+Dialogue: 0,0:00:57.33,0:01:01.54,Default,,0,0,0,,異世界裡有種叫「吸萊姆杯」的巨好吃的冰淇淋喔
+Dialogue: 0,0:01:01.79,0:01:03.46,Default,,0,0,0,,你一定要去嚐嚐
+Dialogue: 0,0:01:03.46,0:01:04.38,Default,,0,0,0,,真的？
+Dialogue: 0,0:01:04.75,0:01:09.34,Default,,0,0,0,,嗯 只要繪里香順利完成任務 就把那個送你
+Dialogue: 0,0:01:09.34,0:01:11.68,Default,,0,0,0,,真的嗎 我會加油的
+Dialogue: 0,0:01:12.09,0:01:14.68,Default,,0,0,0,,瀨川 你說她們兩句吧
+Dialogue: 0,0:01:14.89,0:01:17.10,Default,,0,0,0,,這樣下去我們肯定回不去的
+Dialogue: 0,0:01:17.43,0:01:19.18,Default,,0,0,0,,沒事的沒事的海野君
+Dialogue: 0,0:01:19.77,0:01:21.48,Default,,0,0,0,,整個事情我已經明白了
+Dialogue: 0,0:01:21.64,0:01:25.23,Default,,0,0,0,,就由年級第一的我和年級第二的海野君
+Dialogue: 0,0:01:25.48,0:01:26.94,Default,,0,0,0,,來全方位支援繪里香吧
+Dialogue: 0,0:01:27.15,0:01:29.07,Default,,0,0,0,,謝謝你我滴小彌
+Dialogue: 0,0:01:30.74,0:01:31.90,Default,,0,0,0,,不用謝
+Dialogue: 0,0:01:32.45,0:01:35.49,Default,,0,0,0,,海野君 異世界冒險也要競爭喔
+Dialogue: 0,0:01:35.83,0:01:37.08,Default,,0,0,0,,雖然贏的人是我
+Dialogue: 0,0:01:38.04,0:01:41.58,Default,,0,0,0,,為什麼…會變成這樣…
+Dialogue: 0,0:01:44.54,0:01:49.13,Default,,0,0,0,,雖然你說要我們完成任務 但到底要去哪做什麼啊
+Dialogue: 0,0:01:49.76,0:01:51.67,Default,,0,0,0,,在名為冒險者公會的地方
+Dialogue: 0,0:01:51.88,0:01:54.01,Default,,0,0,0,,能接到各式各樣的任務
+Dialogue: 0,0:01:54.26,0:01:57.60,Default,,0,0,0,,我希望大家挑戰某個任務 將其完成
+Dialogue: 0,0:01:58.01,0:02:00.22,Default,,0,0,0,,詳情就去諮詢公會的人吧
+Dialogue: 0,0:02:00.93,0:02:02.02,Default,,0,0,0,,原來如此
+Dialogue: 0,0:02:02.60,0:02:05.52,Default,,0,0,0,,先去冒險者公會就行了對吧
+Dialogue: 0,0:02:05.86,0:02:08.78,Default,,0,0,0,,在那之前 先去見見這個國家的國王
+Dialogue: 0,0:02:08.90,0:02:10.65,Default,,0,0,0,,向他請求協助會更好喔
+Dialogue: 0,0:02:11.15,0:02:13.36,Default,,0,0,0,,只要說是我介紹來的就行
+Dialogue: 0,0:02:13.82,0:02:16.70,Default,,0,0,0,,國王？我們要去見國王嗎
+Dialogue: 0,0:02:18.37,0:02:22.50,Default,,0,0,0,,說到國王 果然應該是在那後面…
+Dialogue: 0,0:02:25.00,0:02:28.25,Top,,0,750,0,,{凪}厲害厲害 他肯定腦子很好用吧
+Dialogue: 0,0:02:28.25,0:02:29.75,Default,,0,400,0,,{紫毛}真想趕緊見見他
+Dialogue: 0,0:02:26.29,0:02:28.84,Default,,650,0,0,,繪里香 和朋友們一起努力吧
+Dialogue: 0,0:02:30.84,0:02:31.92,Default,,0,0,0,,我會為你加油的
+Dialogue: 0,0:00:03.54,0:00:05.54,Default,,0,0,0,,

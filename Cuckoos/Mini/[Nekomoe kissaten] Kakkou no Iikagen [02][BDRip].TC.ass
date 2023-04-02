@@ -1,0 +1,86 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [02][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.94,Staff,,0,0,0,,{\fad(360,360)\3c&H2E1D18&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻校軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.56,0:00:03.94,Screen,,0,0,0,,{\fad(360,360)\an8\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#2『異世界的技能』
+Dialogue: 0,0:00:04.40,0:00:06.36,Default,,0,0,0,,神明大人 我要提問
+Dialogue: 0,0:00:06.36,0:00:07.53,Default,,0,0,0,,這 這麼突然？
+Dialogue: 0,0:00:07.53,0:00:09.70,Default,,0,0,0,,剛剛順著勢興奮起來了 但突然想到
+Dialogue: 0,0:00:09.70,0:00:11.91,Default,,0,0,0,,為什麼要讓我轉生到異世界啊
+Dialogue: 0,0:00:11.91,0:00:14.37,Default,,0,0,0,,就不能讓我回到原本的世界嗎
+Dialogue: 0,0:00:14.37,0:00:17.46,Default,,0,0,0,,但…異世界充滿幻想風情 會很有趣的
+Dialogue: 0,0:00:17.46,0:00:18.71,Default,,0,0,0,,而且還存在魔法
+Dialogue: 0,0:00:18.71,0:00:21.21,Default,,0,0,0,,但我原本生活得很快樂啊
+Dialogue: 0,0:00:21.21,0:00:24.96,Default,,0,0,0,,我是那種一鑽牛角尖就放不開手腳的人
+Dialogue: 0,0:00:24.96,0:00:28.30,Default,,0,0,0,,別的主人公這種時候都是開開心心地就去了
+Dialogue: 0,0:00:28.30,0:00:30.30,Default,,0,0,0,,嗯…是這樣嗎
+Dialogue: 0,0:00:30.30,0:00:33.10,Default,,0,0,0,,確實我看過的動畫的主角都是這樣的
+Dialogue: 0,0:00:33.10,0:00:35.81,Default,,0,0,0,,真不可思議 大家都一個樣
+Dialogue: 0,0:00:35.97,0:00:39.31,Default,,0,0,0,,我也不是很清楚異世界的具體情況
+Dialogue: 0,0:00:39.31,0:00:41.56,Default,,0,0,0,,但聽說要是達成了「任務」
+Dialogue: 0,0:00:41.56,0:00:44.19,Default,,0,0,0,,就可以再轉生到別的世界
+Dialogue: 0,0:00:44.19,0:00:48.28,Default,,0,0,0,,順利的話說不定能讓繪里香回到原來的世界
+Dialogue: 0,0:00:48.28,0:00:51.07,Default,,0,0,0,,這樣啊 那我要加油了
+Dialogue: 0,0:00:51.07,0:00:53.62,Default,,0,0,0,,為了能讓繪里香在異世界有個好體驗
+Dialogue: 0,0:00:53.62,0:00:55.70,Default,,0,0,0,,就給你3個技能吧
+Dialogue: 0,0:00:55.70,0:00:58.37,Default,,0,0,0,,比如讓你直升到Lv999
+Dialogue: 0,0:00:58.37,0:01:00.37,Default,,0,0,0,,又或者能使用所有魔法
+Dialogue: 0,0:01:00.37,0:01:01.75,Default,,0,0,0,,再或者戰鬥能力…
+Dialogue: 0,0:01:01.75,0:01:02.42,Default,,0,0,0,,完啦
+Dialogue: 0,0:01:02.42,0:01:03.21,Default,,0,0,0,,怎麼了
+Dialogue: 0,0:01:03.38,0:01:05.21,Default,,0,0,0,,我智慧型手機沒了
+Dialogue: 0,0:01:05.21,0:01:06.30,Default,,0,0,0,,…這很重要？
+Dialogue: 0,0:01:06.30,0:01:10.38,Default,,0,0,0,,技能先不管啦 快把人家的手機變出來
+Dialogue: 0,0:01:10.38,0:01:12.76,Default,,0,0,0,,繪里香 技能可重要了
+Dialogue: 0,0:01:12.76,0:01:14.93,Default,,0,0,0,,好吧好吧 拿你沒轍
+Dialogue: 0,0:01:14.93,0:01:15.60,Default,,0,0,0,,給
+Dialogue: 0,0:01:15.76,0:01:18.27,Default,,0,0,0,,謝謝你魔雅神
+Dialogue: 0,0:01:18.27,0:01:19.31,Default,,0,0,0,,我們一起拍幾張吧
+Dialogue: 0,0:01:19.31,0:01:21.06,Default,,0,0,0,,這就直呼名字了？
+Dialogue: 0,0:01:21.65,0:01:26.27,Screen,,0,0,0,,{\fad(300,0)\an9\c&H6A5690&}恭喜 轉生
+Dialogue: 0,0:01:23.10,0:01:26.27,Screen,,0,0,0,,{\fad(300,0)\an7\c&H6A5690&}轉生 YOROSHIKU
+Dialogue: 0,0:01:24.69,0:01:26.27,Screen,,0,0,0,,{\fad(300,0)\an8\c&H6A5690&}放馬過來吧異世界
+Dialogue: 0,0:01:26.53,0:01:30.20,Default,,0,0,0,,絕了 這地方做照片背景也太棒了
+Dialogue: 0,0:01:30.20,0:01:32.82,Default,,0,0,0,,說不定我在異世界也能成個網紅呢
+Dialogue: 0,0:01:33.91,0:01:36.79,Default,,0,0,0,,還有兩個技能…你要什麼
+Dialogue: 0,0:01:36.87,0:01:38.62,Default,,0,0,0,,我想想啊
+Dialogue: 0,0:01:38.62,0:01:41.16,Default,,0,0,0,,那就 能穿上任意我喜歡的衣服玩Cosplay
+Dialogue: 0,0:01:41.16,0:01:43.50,Default,,0,0,0,,以及能變出好多好多錢吧
+Dialogue: 0,0:01:43.50,0:01:44.50,Default,,0,0,0,,收到
+Dialogue: 0,0:01:47.38,0:01:48.55,Default,,0,0,0,,謝謝你
+Dialogue: 0,0:01:48.55,0:01:50.17,Default,,0,0,0,,我想穿這些衣服想好久了
+Dialogue: 0,0:01:50.30,0:01:52.80,Default,,0,0,0,,哇 繪里香真可愛
+Dialogue: 0,0:01:52.97,0:01:56.43,Default,,0,0,0,,我的座右銘就是做什麼都要開心地去做
+Dialogue: 0,0:01:56.60,0:01:59.93,Default,,0,0,0,,不過這衣服…是Magazine設計的嗎
+Dialogue: 0,0:01:56.60,0:01:59.93,Comment,,0,0,0,,註：原作漫畫連載的雜誌《周刊少年Magazine》，諧音魔雅神
+Dialogue: 0,0:01:59.93,0:02:03.52,Default,,0,0,0,,這些衣服件件都挺性感的
+Dialogue: 0,0:02:03.52,0:02:05.48,Default,,0,0,0,,到底有何居心呢
+Dialogue: 0,0:02:05.48,0:02:07.94,Default,,0,0,0,,我老感覺就因為Magazine的那些人
+Dialogue: 0,0:02:07.94,0:02:10.90,Default,,0,0,0,,害我洗澡被偷窺 泳裝被偷拍
+Dialogue: 0,0:02:10.90,0:02:12.90,Default,,0,0,0,,還被迫讀書學習
+Dialogue: 0,0:02:13.07,0:02:14.91,Default,,0,0,0,,遭遇了許多過分的對待
+Dialogue: 0,0:02:18.66,0:02:22.08,Default,,0,0,0,,那咱們這已經準備就緒了 趕緊前往異世界吧
+Dialogue: 0,0:02:22.21,0:02:23.29,Default,,0,0,0,,OK

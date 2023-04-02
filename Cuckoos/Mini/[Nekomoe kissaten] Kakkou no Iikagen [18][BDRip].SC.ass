@@ -1,0 +1,71 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [18][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#18『异世界魔法{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------SCR---------------
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:07.49,0:00:09.24,Default,,0,0,0,,总算出来了
+Dialogue: 0,0:00:09.41,0:00:11.24,Default,,0,0,0,,谢谢你绘里香
+Dialogue: 0,0:00:11.45,0:00:12.95,Default,,0,0,0,,全靠你
+Dialogue: 0,0:00:13.24,0:00:14.95,Default,,0,0,0,,让我报答你吧
+Dialogue: 0,0:00:15.33,0:00:17.75,Default,,0,0,0,,说起来你好像会魔法
+Dialogue: 0,0:00:18.08,0:00:20.83,Default,,0,0,0,,能用魔法给我回体力吗
+Dialogue: 0,0:00:21.08,0:00:24.34,Default,,0,0,0,,哦 我的职业叫魔法剑士
+Dialogue: 0,0:00:24.55,0:00:26.38,Default,,0,0,0,,用不了回复系魔法
+Dialogue: 0,0:00:26.88,0:00:29.38,Default,,0,0,0,,但我会这种
+Dialogue: 0,0:00:29.88,0:00:31.30,Default,,0,0,0,,哇 好厉害
+Dialogue: 0,0:00:31.47,0:00:35.06,Default,,0,0,0,,烧吧 转吧
+Dialogue: 0,0:00:38.18,0:00:40.77,Default,,0,0,0,,我还会这种
+Dialogue: 0,0:00:43.27,0:00:44.36,Default,,0,0,0,,厉害
+Dialogue: 0,0:00:45.69,0:00:47.28,Default,,0,0,0,,感觉人都要倒过来了
+Dialogue: 0,0:00:51.74,0:00:53.66,Default,,0,0,0,,凪君你干嘛
+Dialogue: 0,0:00:53.66,0:00:55.58,Default,,0,0,0,,人渣 变态 大色鬼
+Dialogue: 0,0:00:55.58,0:00:57.08,Default,,0,0,0,,我又控制不了
+Dialogue: 0,0:01:01.54,0:01:02.63,Default,,0,0,0,,海野君
+Dialogue: 0,0:01:03.13,0:01:04.42,Default,,0,0,0,,借一步说话
+Dialogue: 0,0:01:07.26,0:01:08.42,Default,,0,0,0,,所以我
+Dialogue: 0,0:01:08.92,0:01:12.89,Default,,0,0,0,,在洞窟里看到绘里香的第一眼就沦陷了
+Dialogue: 0,0:01:13.22,0:01:17.56,Default,,0,0,0,,因为当时我都快死了 她来救我了哎
+Dialogue: 0,0:01:17.89,0:01:21.73,Default,,0,0,0,,死神都到我家门口了 但女神赶来救我了哦
+Dialogue: 0,0:01:21.98,0:01:24.23,Default,,0,0,0,,我在做梦吗 不这是真实的啊
+Dialogue: 0,0:01:25.40,0:01:27.90,Default,,0,0,0,,然后我用魔法使劲给她发送小爱心
+Dialogue: 0,0:01:27.90,0:01:29.19,Default,,0,0,0,,她却不为所动
+Dialogue: 0,0:01:29.74,0:01:31.90,Default,,0,0,0,,而且旁边还有酷系美女小弥
+Dialogue: 0,0:01:32.03,0:01:34.45,Default,,0,0,0,,天真无邪的妹妹小幸
+Dialogue: 0,0:01:34.99,0:01:38.37,Default,,0,0,0,,三个超可爱女孩同聚一队 这你敢信？
+Dialogue: 0,0:01:38.83,0:01:40.58,Default,,0,0,0,,你懂的吧 海野君
+Dialogue: 0,0:01:40.58,0:01:41.37,Default,,0,0,0,,不懂
+Dialogue: 0,0:01:42.83,0:01:44.67,Default,,0,0,0,,海野野君 好冷淡哦
+Dialogue: 0,0:01:46.46,0:01:47.67,Default,,0,0,0,,久等
+Dialogue: 0,0:01:48.13,0:01:50.80,Default,,0,0,0,,好了 我们赶紧出森林回去吧
+Dialogue: 0,0:01:51.42,0:01:52.34,Default,,0,0,0,,但是但是
+Dialogue: 0,0:01:52.59,0:01:54.72,Default,,0,0,0,,森林里有怪物 很危险的
+Dialogue: 0,0:01:54.80,0:01:55.97,Default,,0,0,0,,我们绕着走吧
+Dialogue: 0,0:01:56.05,0:01:57.51,Default,,0,0,0,,我看你
+Dialogue: 0,0:01:57.51,0:01:59.56,Default,,0,0,0,,是跟魅魔姐姐玩过了吧
+Dialogue: 0,0:02:00.48,0:02:03.98,Default,,0,0,0,,哦 似乎确实经历过这般过去
+Dialogue: 0,0:02:04.90,0:02:07.11,Default,,0,0,0,,嘻嘻 原谅我吧

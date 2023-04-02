@@ -1,0 +1,78 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [07][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻校轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#7『异世界的王!』
+Dialogue: 0,0:00:07.49,0:00:09.07,Default,,0,0,0,,是国王的房间
+Dialogue: 0,0:00:09.41,0:00:10.20,Default,,0,0,0,,不得了
+Dialogue: 0,0:00:10.62,0:00:13.70,Default,,0,0,0,,和世界史里学过的中世纪王室如出一辙
+Dialogue: 0,0:00:14.04,0:00:15.91,Default,,0,0,0,,比绘里香的家还要大
+Dialogue: 0,0:00:16.54,0:00:19.17,Default,,0,0,0,,魔雅君那家伙 突然就消失了
+Dialogue: 0,0:00:19.62,0:00:21.42,Default,,0,0,0,,再见到他我一定要说他两句
+Dialogue: 0,0:00:23.04,0:00:25.34,Default,,0,0,0,,国王是坐在那里的那个人吗
+Dialogue: 0,0:00:27.38,0:00:27.72,Default,,0,0,0,,慢着…
+Dialogue: 0,0:00:28.51,0:00:29.51,Default,,0,0,0,,你就是国王？
+Dialogue: 0,0:00:31.18,0:00:32.35,Default,,0,0,0,,我叫绘里香
+Dialogue: 0,0:00:32.80,0:00:36.60,Default,,0,0,0,,当上了冒险者 不得不去完成那个叫任务的东西
+Dialogue: 0,0:00:33.43,0:00:33.85,Top,,0,0,0,,别…
+Dialogue: 0,0:00:36.93,0:00:38.35,Default,,0,0,0,,你能帮帮我吗
+Dialogue: 0,0:00:38.64,0:00:39.77,Default,,0,0,0,,绘里香
+Dialogue: 0,0:00:40.23,0:00:42.90,Default,,0,0,0,,这种场合要稍微隔远点再交谈哦
+Dialogue: 0,0:00:43.15,0:00:44.23,Default,,0,0,0,,诶 是吗
+Dialogue: 0,0:00:44.48,0:00:47.11,Default,,0,0,0,,他可是国王 你说话要再礼貌一点
+Dialogue: 0,0:00:49.36,0:00:53.41,Default,,0,0,0,,你们几个的事情我听魔雅君细说过了
+Dialogue: 0,0:00:53.91,0:00:55.83,Default,,0,0,0,,欢迎来到本国
+Dialogue: 0,0:00:56.87,0:00:59.25,Default,,0,0,0,,国王大人 能见到您是我的荣幸
+Dialogue: 0,0:01:00.00,0:01:03.08,Default,,0,0,0,,希望您能够协助我们回到原本的世界
+Dialogue: 0,0:01:03.59,0:01:06.96,Default,,0,0,0,,最近经常有从别的世界来的人
+Dialogue: 0,0:01:07.59,0:01:11.13,Default,,0,0,0,,看来你们和别人不太一样啊
+Dialogue: 0,0:01:11.84,0:01:12.76,Default,,0,0,0,,是为什么这么说呢
+Dialogue: 0,0:01:13.26,0:01:14.97,Default,,0,0,0,,因为通常是男性
+Dialogue: 0,0:01:15.47,0:01:17.52,Default,,0,0,0,,而且大部分男人
+Dialogue: 0,0:01:17.97,0:01:22.81,Default,,0,0,0,,都欢呼雀跃 喊着「爽爆 到异世界了」
+Dialogue: 0,0:01:24.02,0:01:25.23,Default,,0,0,0,,动画里常见的那种啊
+Dialogue: 0,0:01:25.69,0:01:30.11,Default,,0,0,0,,会问朕要什么能力啊 技能啊
+Dialogue: 0,0:01:30.82,0:01:36.16,Default,,0,0,0,,或者要朕给他们开挂啊 开无双啊 变无敌啊之类的
+Dialogue: 0,0:01:37.16,0:01:39.79,Default,,0,0,0,,我倒是从魔雅君那里得到了技能
+Dialogue: 0,0:01:40.79,0:01:46.04,Default,,0,0,0,,不过最近转生过来的女孩也多起来了
+Dialogue: 0,0:01:46.71,0:01:50.38,Default,,0,0,0,,真的吗 那说不定能找到一起冒险的小伙伴呢
+Dialogue: 0,0:01:54.39,0:01:57.47,Default,,0,0,0,,她们也对转生挺兴奋的
+Dialogue: 0,0:01:58.18,0:02:03.65,Default,,0,0,0,,也会激动地叫喊 我是哪家的大小姐 或者Flag来啦什么的
+Dialogue: 0,0:02:04.31,0:02:08.73,Default,,0,0,0,,最后还要说句「让我见见大帅哥王子」
+Dialogue: 0,0:02:10.61,0:02:11.74,Default,,0,0,0,,这样啊
+Dialogue: 0,0:02:12.49,0:02:13.03,Default,,0,0,0,,不过呢
+Dialogue: 0,0:02:14.20,0:02:16.74,Default,,0,0,0,,既然有人会认真冒险
+Dialogue: 0,0:02:17.24,0:02:19.66,Default,,0,0,0,,自然也会有人悠闲度日
+Dialogue: 0,0:02:20.16,0:02:21.66,Default,,0,0,0,,人生百态嘛
+Dialogue: 0,0:02:22.16,0:02:26.67,Default,,0,0,0,,只要能好好享受这个世界便是最好的
+Dialogue: 0,0:02:26.96,0:02:30.42,Default,,0,0,0,,也望你们几人能度过一段美好时光
+Dialogue: 0,0:02:30.96,0:02:34.01,Default,,0,0,0,,的确人们会憧憬异世界
+Dialogue: 0,0:02:34.13,0:02:36.05,Default,,0,0,0,,来到这里也会很开心呢
+Dialogue: 0,0:02:36.55,0:02:38.85,Default,,0,0,0,,明年暑假要来这边悠闲地度假
+Dialogue: 0,0:02:39.18,0:02:41.72,Default,,0,0,0,,异世界不是旅游胜地啊 绘里香
+Dialogue: 0,0:02:42.14,0:02:46.31,Default,,0,0,0,,行 那朕让人给冒险者公会那边带话
+Dialogue: 0,0:02:46.77,0:02:50.48,Default,,0,0,0,,你们放心去吧 要加油哦
+Dialogue: 0,0:02:51.23,0:02:52.61,Default,,0,0,0,,谢陛下

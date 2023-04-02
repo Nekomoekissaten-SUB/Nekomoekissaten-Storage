@@ -1,0 +1,69 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [19][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#19『异世界地下城{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------SCR---------------
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:05.11,0:00:08.07,Default,,0,0,0,,我们把难度A的任务完成了
+Dialogue: 0,0:00:08.49,0:00:09.91,Default,,0,0,0,,辛苦各位
+Dialogue: 0,0:00:10.07,0:00:14.33,Default,,0,0,0,,能打通那个洞窟 真是太了不起了
+Dialogue: 0,0:00:14.49,0:00:18.79,Default,,0,0,0,,我这边有个很特别的任务 非常希望你们能接下
+Dialogue: 0,0:00:19.75,0:00:20.58,Default,,0,0,0,,不会是…
+Dialogue: 0,0:00:21.13,0:00:24.92,Default,,0,0,0,,草原上的老城里有一座很深的地下城
+Dialogue: 0,0:00:25.13,0:00:28.51,Default,,0,0,0,,到那里的冒险者们会去往别的世界
+Dialogue: 0,0:00:28.84,0:00:30.93,Default,,0,0,0,,请解开这个谜团吧
+Dialogue: 0,0:00:31.51,0:00:34.14,Default,,0,0,0,,绘里香 就是这个任务呀
+Dialogue: 0,0:00:34.47,0:00:37.43,Default,,0,0,0,,完成这个任务就能回家了
+Dialogue: 0,0:00:38.81,0:00:40.69,Default,,0,0,0,,好耶
+Dialogue: 0,0:00:42.02,0:00:42.98,Default,,0,0,0,,你谁
+Dialogue: 0,0:00:43.19,0:00:45.23,Default,,0,0,0,,阿凪凪 你好过分哦
+Dialogue: 0,0:00:45.23,0:00:47.69,Default,,0,0,0,,是我啊是我啊 哭哭
+Dialogue: 0,0:00:47.86,0:00:50.53,Default,,0,0,0,,那座城市离这里相当远
+Dialogue: 0,0:00:50.95,0:00:53.03,Default,,0,0,0,,感觉走过去得花3天左右
+Dialogue: 0,0:00:53.41,0:00:56.04,Default,,0,0,0,,包我身上吧
+Dialogue: 0,0:00:56.41,0:00:58.91,Default,,0,0,0,,其实吧 那地下城我打到了很深的位置
+Dialogue: 0,0:00:58.91,0:01:01.42,Default,,0,0,0,,在那设置了传送门
+Dialogue: 0,0:01:01.75,0:01:04.42,Default,,0,0,0,,一瞬间就能把你们送到那里哦
+Dialogue: 0,0:01:04.63,0:01:07.76,Default,,0,0,0,,派上用场了啊勇者 对你刮目相看了
+Dialogue: 0,0:01:07.88,0:01:10.68,Default,,0,0,0,,那你为什么不把这任务做了
+Dialogue: 0,0:01:12.30,0:01:14.97,Default,,0,0,0,,阿凪 这问题就别问了吧
+Dialogue: 0,0:01:15.97,0:01:17.43,Default,,0,0,0,,不然就变成
+Dialogue: 0,0:01:17.97,0:01:20.06,Default,,0,0,0,,异世界里流行的背叛团队了啊
+Dialogue: 0,0:01:23.61,0:01:25.27,Default,,0,0,0,,那赶紧出发吧？
+Dialogue: 0,0:01:25.65,0:01:28.11,Default,,0,0,0,,好 我们走吧
+Dialogue: 0,0:01:28.28,0:01:29.94,Default,,0,0,0,,加油 绘里香
+Dialogue: 0,0:01:30.20,0:01:32.11,Default,,0,0,0,,一路平安
+Dialogue: 0,0:01:32.11,0:01:32.66,Default,,0,0,0,,好
+Dialogue: 0,0:01:32.66,0:01:35.24,Default,,0,0,0,,勇者 谢谢你 你多保重哦
+Dialogue: 0,0:01:35.58,0:01:36.62,Default,,0,0,0,,怎么听着像永别
+Dialogue: 0,0:01:45.63,0:01:46.29,Default,,0,0,0,,嘿
+Dialogue: 0,0:01:48.13,0:01:50.17,Default,,0,0,0,,这里怎么这么冷
+Dialogue: 0,0:01:50.47,0:01:52.72,Default,,0,0,0,,会不会有骸骨怪物出现啊
+Dialogue: 0,0:01:53.01,0:01:54.84,Default,,0,0,0,,瘆人
+Dialogue: 0,0:01:55.09,0:01:56.89,Default,,0,0,0,,快往里面走吧
+Dialogue: 0,0:02:00.64,0:02:02.94,Default,,0,0,0,,走到头了
+Dialogue: 0,0:02:03.44,0:02:05.23,Default,,0,0,0,,那会是什么呢

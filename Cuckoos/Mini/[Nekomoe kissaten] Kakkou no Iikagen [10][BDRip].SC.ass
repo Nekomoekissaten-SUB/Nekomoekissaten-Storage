@@ -1,0 +1,67 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [10][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻校轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N#10『异世界战斗{\i1}!{\i0}』
+Dialogue: 0,0:00:05.53,0:00:07.45,Default,,0,0,0,,大家装备都齐全了吧
+Dialogue: 0,0:00:07.99,0:00:10.37,Default,,0,0,0,,该踏上冒险的征途啦
+Dialogue: 0,0:00:10.53,0:00:11.66,Default,,0,0,0,,噢
+Dialogue: 0,0:00:12.16,0:00:13.70,Default,,0,0,0,,在接任务之前
+Dialogue: 0,0:00:13.99,0:00:15.91,Default,,0,0,0,,应当先把握自身实力 是这个道理吧
+Dialogue: 0,0:00:16.58,0:00:18.04,Default,,0,0,0,,要加油咯
+Dialogue: 0,0:00:19.58,0:00:20.92,Default,,0,0,0,,那边有动静
+Dialogue: 0,0:00:21.33,0:00:22.50,Default,,0,0,0,,很危险的 幸
+Dialogue: 0,0:00:22.88,0:00:24.09,Default,,0,0,0,,别这么不警惕
+Dialogue: 0,0:00:27.84,0:00:29.18,Default,,0,0,0,,这 这是
+Dialogue: 0,0:00:29.72,0:00:32.80,Default,,0,0,0,,RPG里的代表性弱鸡怪物
+Dialogue: 0,0:00:32.93,0:00:34.26,Default,,0,0,0,,怪物出现啦
+Dialogue: 0,0:00:34.93,0:00:35.52,Default,,0,0,0,,糟糕
+Dialogue: 0,0:00:35.64,0:00:37.10,Default,,0,0,0,,大家快退下 很危险
+Dialogue: 0,0:00:39.27,0:00:40.65,Default,,0,0,0,,海野家家训
+Dialogue: 0,0:00:41.15,0:00:43.44,Default,,0,0,0,,找上门的架必须拿下
+Dialogue: 0,0:00:45.86,0:00:48.65,Default,,0,0,0,,哪怕在异世界我也会谨遵家训的 爸 妈
+Dialogue: 0,0:00:49.28,0:00:51.53,Default,,0,0,0,,吃我一拳
+Dialogue: 0,0:00:51.86,0:00:54.16,Default,,0,0,0,,慢着凪君 你想干嘛呀
+Dialogue: 0,0:00:55.83,0:00:57.62,Default,,0,0,0,,我只是想打倒它…
+Dialogue: 0,0:00:57.87,0:01:01.46,Default,,0,0,0,,蠢老哥 人家凭什么要挨你打 不许欺负它
+Dialogue: 0,0:01:02.13,0:01:04.42,Default,,0,0,0,,乖 不怕不怕
+Dialogue: 0,0:01:05.34,0:01:06.38,Default,,0,0,0,,过来
+Dialogue: 0,0:01:07.09,0:01:09.09,Default,,0,0,0,,来我们金币家族玩吧
+Dialogue: 0,0:01:10.97,0:01:12.97,Default,,0,0,0,,仔细一看超可爱
+Dialogue: 0,0:01:13.39,0:01:13.80,Default,,0,0,0,,来 伸手
+Dialogue: 0,0:01:14.30,0:01:16.56,Default,,0,0,0,,这不是狗哦 绘里香
+Dialogue: 0,0:01:17.27,0:01:20.23,Default,,0,0,0,,那啥 各位 我们不是来玩的啊
+Dialogue: 0,0:01:20.48,0:01:22.81,Default,,0,0,0,,不打倒怪物怎么升级啊
+Dialogue: 0,0:01:24.40,0:01:25.90,Default,,0,0,0,,凪君真的下头
+Dialogue: 0,0:01:26.27,0:01:28.57,Default,,0,0,0,,你怎么忍心对小可爱动手呢
+Dialogue: 0,0:01:29.03,0:01:32.28,Default,,0,0,0,,就是啊 你看 它这么乖
+Dialogue: 0,0:01:32.86,0:01:34.37,Default,,0,0,0,,来 跳一个
+Dialogue: 0,0:01:36.58,0:01:38.49,Default,,0,0,0,,把它放家里当宠物吧
+Dialogue: 0,0:01:38.83,0:01:40.58,Default,,0,0,0,,感觉跟狮子丸能相处得很好
+Dialogue: 0,0:01:41.33,0:01:42.29,Default,,0,0,0,,真可爱
+Dialogue: 0,0:01:42.42,0:01:43.04,Default,,0,0,0,,乖
+Dialogue: 0,0:01:43.42,0:01:47.17,Default,,0,0,0,,这样下去任务到底能不能完成啊
+Dialogue: 0,0:01:47.92,0:01:49.80,Default,,0,0,0,,回家遥遥无期

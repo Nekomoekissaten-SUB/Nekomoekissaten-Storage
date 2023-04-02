@@ -1,0 +1,63 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [21][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H004E3128,&H8C000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.52,0:00:03.36,Staff,,0,0,0,,{\fad(360,360)\3c&HD4A107&\blur3\3a&H00&}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\fscx80\fscy80}翻軸：番茄雞　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Title---------------
+Dialogue: 0,0:00:00.52,0:00:03.36,Screen,,0,0,0,,{\fad(360,360)\shad4\an8\fn方正正粗黑_GBK\bord5\3c&HFFFFFF&\pos(655.111,608.889)\c&H7C68A1&}杜鵑的小鬧劇\N#21『破滅Flag{\i1}!{\i0}』
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------SCR---------------
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:12.66,0:00:14.37,Default,,0,0,0,,好怪
+Dialogue: 0,0:00:14.83,0:00:17.41,Default,,0,0,0,,老哥還是換一身士兵B的衣服吧
+Dialogue: 0,0:00:17.41,0:00:19.83,Default,,0,0,0,,不要 不要這套
+Dialogue: 0,0:00:19.83,0:00:22.88,Default,,0,0,0,,我想穿成個帥王子
+Dialogue: 0,0:00:26.63,0:00:27.76,Default,,0,0,0,,大小姐
+Dialogue: 0,0:00:28.22,0:00:31.43,Default,,0,0,0,,我已經整整3天沒吃東西了
+Dialogue: 0,0:00:31.85,0:00:33.39,Default,,0,0,0,,請賞我一口飯吃吧
+Dialogue: 0,0:00:36.02,0:00:39.52,Default,,0,0,0,,沒了這麵包 找塊蛋糕吃不就好了
+Dialogue: 0,0:00:40.06,0:00:44.40,Default,,0,0,0,,可小女子從未吃過蛋糕
+Dialogue: 0,0:00:50.53,0:00:53.33,Default,,0,0,0,,想吃蛋糕就叫個外賣唄
+Dialogue: 0,0:00:53.58,0:00:55.08,Default,,0,0,0,,我幫你點就好啦
+Dialogue: 0,0:00:56.95,0:00:59.66,Default,,0,0,0,,這邊這個世界也沒網路
+Dialogue: 0,0:01:00.21,0:01:03.54,Default,,0,0,0,,繪里香 問題的重點不在這裡喔
+Dialogue: 0,0:01:04.21,0:01:08.09,Default,,0,0,0,,你們… 難道是轉生過來的嗎
+Dialogue: 0,0:01:08.38,0:01:09.55,Default,,0,0,0,,是的
+Dialogue: 0,0:01:09.97,0:01:12.89,Default,,0,0,0,,我們誤入了這個世界
+Dialogue: 0,0:01:13.14,0:01:15.39,Default,,0,0,0,,我也是轉生過來的
+Dialogue: 0,0:01:15.72,0:01:18.73,Default,,0,0,0,,這邊是我特別愛玩的乙女遊戲世界
+Dialogue: 0,0:01:19.02,0:01:22.44,Default,,0,0,0,,但不知道為什麼變成了惡人角色大小姐
+Dialogue: 0,0:01:22.60,0:01:29.28,Default,,0,0,0,,按照劇本 如果我不把她趕走就要被處刑了
+Dialogue: 0,0:01:30.70,0:01:33.41,Default,,0,0,0,,總覺得這故事好耳熟
+Dialogue: 0,0:01:33.66,0:01:35.33,Default,,0,0,0,,該怎麼辦呢
+Dialogue: 0,0:01:35.78,0:01:39.00,Default,,0,0,0,,這女孩是沒錢買吃的嗎
+Dialogue: 0,0:01:39.37,0:01:41.08,Default,,0,0,0,,那我送你一筆錢吧
+Dialogue: 0,0:01:42.08,0:01:45.92,Default,,0,0,0,,那我和小幸的裙子也送你吧
+Dialogue: 0,0:01:46.46,0:01:49.17,Default,,0,0,0,,再附贈海野君的王子套裝
+Dialogue: 0,0:01:49.30,0:01:53.51,Default,,0,0,0,,作為交換 能把那個炒麵氏玩偶給我們嗎
+Dialogue: 0,0:01:55.55,0:01:57.72,Default,,0,0,0,,謝謝各位大善人
+Dialogue: 0,0:01:57.97,0:01:59.60,Default,,0,0,0,,這樣就完美收場啦
+Dialogue: 0,0:01:59.77,0:02:02.19,Default,,0,0,0,,太好了 不用被處刑了
+Dialogue: 0,0:02:02.44,0:02:06.02,Default,,0,0,0,,謝謝你們救了我
+Dialogue: 0,0:02:09.23,0:02:11.36,Default,,0,0,0,,成功拿回炒麵氏了
+Dialogue: 0,0:02:11.36,0:02:12.49,Default,,0,0,0,,這次一定要回去

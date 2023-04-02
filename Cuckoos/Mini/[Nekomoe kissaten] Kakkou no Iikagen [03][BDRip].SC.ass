@@ -1,0 +1,63 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kakkou no Iikagen [03][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Top,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Screen,FZLanTingYuan-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
+Style: Comment,FZLanTingYuan-DB-GBK,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
+Style: Staff,HYXuanSong 75S,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: OP-JP,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,12,1
+Style: OP-CHS,FZFW ZhuZi A Old Mincho E,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,24,1
+Style: OP-CHT,FOT-TsukuAOldMin Pr6N E,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Staff,,0,0,0,,{\fad(360,360)\3c&H2E1D18&\blur3\3a&H00&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途{\fscy20}\N\N{\fscx80\fscy80}翻校轴：番茄鸡　后期：MIR　繁化：风风酱
+Comment: 0,0:00:00.48,0:00:00.48,Default,,0,0,0,,---------------Text---------------
+Dialogue: 0,0:00:00.56,0:00:03.98,Screen,,0,0,0,,{\fad(360,360)\an8\pos(655.111,608.889)\c&H7C68A1&}杜鹃的小闹剧\N异世界绝了!
+Dialogue: 0,0:00:06.65,0:00:10.28,Default,,0,0,0,,哇 真的假的好壮观啊
+Dialogue: 0,0:00:11.28,0:00:12.53,Default,,0,0,0,,当然 这可是异世界
+Dialogue: 0,0:00:12.53,0:00:13.66,Default,,0,0,0,,我们走吧
+Dialogue: 0,0:00:13.66,0:00:14.79,Default,,0,0,0,,等等
+Dialogue: 0,0:00:14.99,0:00:17.83,Default,,0,0,0,,先让我给你说明一下如何进行冒险吧
+Dialogue: 0,0:00:18.96,0:00:21.75,Default,,0,0,0,,首先是 当你想看自己的状态栏时
+Dialogue: 0,0:00:21.79,0:00:23.92,Default,,0,0,0,,只需喊出「打开状态栏」
+Dialogue: 0,0:00:23.92,0:00:26.42,Default,,0,0,0,,操作画面就会出现在你眼前
+Dialogue: 0,0:00:23.96,0:00:45.44,Screen,,0,0,0,,{\fad(240,0)\an9\c&HBA764D&}状态\N技能
+Dialogue: 0,0:00:26.76,0:00:30.97,Default,,0,0,0,,这个世界基于一款VRMMO 而这个设定便由此而来
+Dialogue: 0,0:00:31.34,0:00:34.39,Default,,0,0,0,,请利用画面确认自己的等级和技能
+Dialogue: 0,0:00:34.60,0:00:38.77,Default,,0,0,0,,然后就是 这个世界的语言是绘里香不会的语言
+Dialogue: 0,0:00:38.94,0:00:42.86,Default,,0,0,0,,但你的耳喉都附上了自动翻译魔法
+Dialogue: 0,0:00:42.86,0:00:44.86,Default,,0,0,0,,是能够和他人自如交谈的
+Dialogue: 0,0:00:44.86,0:00:45.44,Default,,0,0,0,,还有…
+Dialogue: 0,0:00:45.44,0:00:46.86,Default,,0,0,0,,停 你先打住
+Dialogue: 0,0:00:46.86,0:00:47.82,Default,,0,0,0,,什么问题
+Dialogue: 0,0:00:48.44,0:00:51.99,Default,,0,0,0,,你要向我详细解释倒也不是不行吧
+Dialogue: 0,0:00:51.99,0:00:55.83,Default,,0,0,0,,但说到底转生到底是个什么原理呢
+Dialogue: 0,0:00:56.24,0:00:59.00,Default,,0,0,0,,原来的世界里既没有游戏设定
+Dialogue: 0,0:00:59.00,0:01:00.42,Default,,0,0,0,,也没有魔法啊
+Dialogue: 0,0:01:09.34,0:01:11.63,Default,,0,0,0,,按套路这些都是不闻不问的
+Dialogue: 0,0:01:19.10,0:01:22.23,Default,,0,0,0,,总之先进城 做点踏上征程的准备吧
+Dialogue: 0,0:01:22.27,0:01:24.90,Default,,0,0,0,,到了那座城下町就能买东西了
+Dialogue: 0,0:01:24.90,0:01:27.28,Default,,0,0,0,,OK 咱们叫个计程车吧
+Dialogue: 0,0:01:27.36,0:01:29.36,Default,,0,0,0,,或者你用魔法变辆车出来
+Dialogue: 0,0:01:29.36,0:01:30.86,Default,,0,0,0,,你要说马车倒还过得去…
+Dialogue: 0,0:01:31.15,0:01:33.11,Default,,0,0,0,,这世界没有机动车
+Dialogue: 0,0:01:33.24,0:01:35.45,Default,,0,0,0,,明明钱要多少有多少
+Dialogue: 0,0:01:36.16,0:01:40.66,Default,,0,0,0,,看来就算是异世界  金钱也换不来真正想要的东西啊
+Dialogue: 0,0:01:40.83,0:01:43.42,Default,,0,0,0,,这道理在哪个世界都是通用的
+Dialogue: 0,0:01:43.54,0:01:46.00,Default,,0,0,0,,靠努力把想要的拿到手就好了
+Dialogue: 0,0:01:46.92,0:01:49.09,Default,,0,0,0,,你说得对 我会加油的
+Dialogue: 0,0:01:55.35,0:01:57.47,Default,,850,0,0,,人家走累啦
+Dialogue: 0,0:01:56.89,0:01:59.56,Default,,0,0,0,,未免太快了吧？再稍微努努力吧
