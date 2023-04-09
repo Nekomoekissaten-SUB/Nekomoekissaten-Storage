@@ -1,15 +1,15 @@
 version : 2
 
 namef:
-  master: '[Nekomoe kissaten] Summer Time Rendering [{{ep}}][WebRip].{{lang}}'
-  op2: 'STR_OP2_13_Web.{{lang}}'
+  master: '[Nekomoe kissaten] Summer Time Rendering [{{ep}}][BDRip].{{lang}}'
+  op2: 'STR_OP2_13_BD.{{lang}}'
 
 fps:
   "24000/1001"
 
 # ED 第一句，屏幕上出现蓝点
 tpl_fr:
-  op2: 7932  # 末句末帧，OP Credit 消失
+  op2: 7932  # 末句末帧，OP Credit 消失，BD 需提前 24 帧
 
 shift_fr:
   '13': 
