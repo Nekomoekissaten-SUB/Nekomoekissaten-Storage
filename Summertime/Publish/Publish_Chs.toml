@@ -1,0 +1,34 @@
+#Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
+display_name="【喵萌奶茶屋】[夏日重现 / Summer Time Rendering][<ep>][BDRip][<res>p][简日双语][招募翻译]"
+group_name="[喵萌奶茶屋]"
+poster="https://nekomoe.pages.dev/images/2022-04/str.jpg"
+about="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Summertime"
+# Use ''' to avoid escape
+# filename_regex='''\]\[(?<ep>\d{2})\]\['''
+filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
+tags=["Anime", "TV", "Collection"]
+
+[[intro_template]]
+site="nyaa"
+name="nekomoekissaten"
+
+[[intro_template]]
+site="dmhy"
+name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgrip"
+name="喵萌奶茶屋"
+
+# [[intro_template]]
+# site="bangumi"
+# name="喵萌奶茶屋"
+
+# [[intro_template]]
+# site="acgnx_asia"
+# name="174"
+
+# [[intro_template]]
+# site="acgnx_global"
+# name="212"
