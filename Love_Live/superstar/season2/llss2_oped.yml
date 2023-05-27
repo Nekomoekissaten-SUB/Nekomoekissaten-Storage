@@ -2,7 +2,7 @@ python_bin:
   'F:/Software/VapourSynth/python.exe'
 
 namef:
-  - '[Nekomoe kissaten] Love Live! Superstar!! S2 [{{ep}}][WebRip].{{lang}}'
+  - '[Nekomoe kissaten] Love Live! Superstar!! S2 [{{ep}}][BDRip].{{lang}}'
   - 'LLSS2_OP_Web_01.{{lang}}'
 
 fps:
