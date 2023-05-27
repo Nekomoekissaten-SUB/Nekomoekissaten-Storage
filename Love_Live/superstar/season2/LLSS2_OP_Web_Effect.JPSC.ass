@@ -1,0 +1,76 @@
+﻿[Script Info]
+Title: LLSS2_OP_Web_Effect.JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OP-JP,FOT-TsukuARdGothic Std B,49,&H007C20F0,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2.5,0,1,0,0,2,7,7,8,1
+Style: OP-CH,FZFW ZhuZi A YuanS B,42,&H007C20F0,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2.5,0,1,1.2,0,8,7,7,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,if _G.aegisub.ms_from_frame(1)  		then   			ms=(_G.aegisub.ms_from_frame(101)-_G.aegisub.ms_from_frame(1))/100  		else   			ms=33  		end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function multiloop(tbl,multi)         local function loop_no(tbl)                          local loop={}                          local sum=0                          for i=1,#tbl                           do                              sum=sum+tbl[i]                                     for  t=1,tbl[i]                                            do                                               loop[#loop+1]={j1=t,j2=i,maxj1=tbl[i],maxj2=#tbl}                                               end                                        end                         return loop,sum                 end                  if _G.type(tbl)=="number"  and  _G.type(multi)=="number"                     then                       maxloop(tbl)                         maxj1=tbl/multi                     maxj2=multi                     j1=math.fmod(j-1,maxj1)+1                     j2=math.floor((j-1)/maxj1)+1             elseif  _G.type(tbl)=="table"                   then                       local new_tbl={}                         for i=1,#tbl                            do                             if  tbl[i]>0                              then                             new_tbl[#new_tbl+1]=tbl[i]                          end                          if  j==1                                    then                                        loop,max=loop_no(new_tbl)                          end                                       maxloop(max)                               j1=loop[j].j1                                j2=loop[j].j2                                 maxj1=loop[j].maxj1                                 maxj2=loop[j].maxj2                            end                            else                            _G.error("tbl for loop have to be a number or a table value:输入的循环参数必须是一个数值或者一个表" , 2)                           end                   return ""               end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,sc=math.ceil(_G.aegisub.video_size()/200)
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,star={"m 50 0 l 22 -16 l 15 -48 l -8 -26 l -40 -29 l -27 0 l -40 29 l -8 26 l 15 48 l 22 16 m 54 4 l 27 18 b 26 18 26 19 26 20 l 20 50 b 20 51 20 51 19 52 b 17 54 15 54 13 52 l -9 31 b -9 31 -10 31 -11 31 l -41 34 b -42 34 -43 34 -44 34 b -46 33 -46 31 -45 29 l -32 1 b -32 0 -32 0 -32 -1 l -45 -29 b -45 -30 -46 -30 -46 -31 b -46 -33 -43 -34 -41 -34 l -11 -31 b -10 -31 -9 -31 -9 -31 l 13 -52 b 14 -53 14 -53 15 -53 b 17 -53 20 -52 20 -50 l 26 -20 b 26 -19 26 -18 27 -18 l 54 -4 b 55 -4 55 -3 55 -2 b 56 0 56 3 54 4","m 54 4 l 27 18 b 26 18 26 19 26 20 l 20 50 b 20 51 20 51 19 52 b 17 54 15 54 13 52 l -9 31 b -9 31 -10 31 -11 31 l -41 34 b -42 34 -43 34 -44 34 b -46 33 -46 31 -45 29 l -32 1 b -32 0 -32 0 -32 -1 l -45 -29 b -45 -30 -46 -30 -46 -31 b -46 -33 -43 -34 -41 -34 l -11 -31 b -10 -31 -9 -31 -9 -31 l 13 -52 b 14 -53 14 -53 15 -53 b 17 -53 20 -52 20 -50 l 26 -20 b 26 -19 26 -18 27 -18 l 54 -4 b 55 -4 55 -3 55 -2 b 56 0 56 3 54 4 "}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,color_all={"&HB00B0D&","&H367FC9&","&HDAD988&","&H7457CF&","&H5DBF76&"} cb="&HFFFFFF&"  cm="&H7A04DF&" ctalpha={"&H5CACFB&","&HFBFFAB&","&H9867E3&","&H8CFEC4&","&H692629&","&H7A04DF&"}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,code syl noblank all,fxgroup.pic=(syl.i==1)  changtime=math.max(math.ceil(line.width),500)
+Comment: 8,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank notext fxgroup pic all,!maxloop(5)!!retime("preline",-400,0)!{\fad(150,150)\bord0\an7\pos($lcenter,$lmiddle)\org(!math.round($lcenter+sc*8*math.cos(math.pi*2*j/maxj),2)!,!math.round($lmiddle+sc*8*math.sin(math.pi*2*j/maxj),2)!)\frz!sc*8!\t(0,!line.duration-100!,1,\frz0)\fscx!sc*10!\fscy!sc*10!\1c!color_all[j]!\p3}m 0 -50 l -16 -22 l -48 -15 l -26 8 l -29 40 l 0 27 l 29 40 l 26 8 l 48 -15 l 16 -22
+Comment: 8,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank notext fxgroup pic all,!multiloop(sc*5*5,5)!!retime("preline",remember("t",(maxj1-j1+1)/maxj1*300-400),recall.t+150)!{\bord0\an7\pos(!$lcenter!,!$lmiddle!)\org(!math.round($lcenter+sc*8*math.cos(math.pi*2*j2/maxj2),2)!,!math.round($lmiddle+sc*8*math.sin(math.pi*2*j2/maxj2),2)!)\frz!math.round(sc*8*j1/maxj1,2)!\fscx!remember("sc",sc*15)!\fscy!recall.sc!\1c!color_all[j2]!\p1}m -1 -1 l 1 -1 l 1 1 l -1 1
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code line all,ci = { 0 }; cn = _G.unicode.len((orgline.text_stripped:gsub(" ","")))
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end ;
+Comment: 5,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl char noblank all,!char_counter(1)!!retime("preline",30*math.abs(((cn-1)/2)-(ci[1]-1))-200,100+changtime)!{\an2\pos($scenter,$sbottom)\bord!sc*3/10!\blur!sc/10!\fad(!ms!,0)\fscx30\fscy30\t(0,100,1.5,\fscx100\fscy100)\c!cb!\3c!cb!}
+Comment: 6,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank all,!multiloop(math.ceil(changtime/ms)*6,6)!!retime("preline",(j1-1)/maxj1*changtime+j2*200-200,(j1-0)/maxj1*changtime+j2*200-200)!!relayer(j2+5)!{\an2\pos($scenter,$sbottom)\clip(!_G.Yutils.shape.filter("m 0 -50 l -16 -22 l -48 -15 l -26 8 l -29 40 l 0 27 l 29 40 l 26 8 l 48 -15 l 16 -22 ",function (x,y) return math.round(($lcenter+x*j1/maxj1*line.width/50),0),math.round(($lbottom+y*j1/maxj1*line.width/50),0)  end )!)\bord0\1c!ctalpha[j2]!\3c!cb!}
+Comment: 5,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl char noblank all,!retime("line",100+changtime,-200)!{\fad(0,150)\an2\pos($scenter,$sbottom)\bord!sc*3/10!\blur!sc/10!\1c!cm!\3c!cb!}
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,code line noblank all,star_pos={} star_pos[1]={x=line.left,y=line.top+math.random(-5,0),c=_G.ass_color(_G.HSV_to_RGB(math.random(360),0.8,1))} star_pos[2]={x=line.right,y=line.bottom+math.random(-15,0),c=_G.ass_color(_G.HSV_to_RGB(math.random(360),0.8,1))} star_pos[3]={x=line.left+line.width/4,y=line.bottom+math.random(-5,0),c=_G.ass_color(_G.HSV_to_RGB(math.random(360),0.8,1))} star_pos[4]={x=line.right-line.width/4,y=line.top+math.random(-5,0),c=_G.ass_color(_G.HSV_to_RGB(math.random(360),0.8,1))}
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank notext fxgroup pic all,!maxloop(4)!!retime("preline",remember("t",(j-1)*400),recall.t+600)!{\fad(!ms!,150)\an7\pos(!math.round(star_pos[j].x,2)!,!math.round(star_pos[j].y,2)!)\bord0\blur0\1c!star_pos[j].c!\frz!remember("ro",math.random(360))!\t(0,!line.duration!,0.6,\frz!recall.ro+120!)\fscx!remember("sc",20)!\fscy!recall.sc!\t(0,!line.duration-200!,0.6,\fscx!recall.sc+sc*5!\fscy!recall.sc+sc*5!\t(!line.duration-200!,!line.duration!,1.4,\fscx!recall.sc+sc*4!\fscy!recall.sc+sc*4!))\p1}!star[1]!
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank notext fxgroup pic all,!maxloop(5)!!retime("preline",remember("t",0),recall.t+600)!{\fad(!ms!,150)\an7\move(!math.round(star_pos[1].x+sc*2*math.cos(2*math.pi*j/maxj),2)!,!math.round(star_pos[1].y+sc*2*math.sin(2*math.pi*j/maxj),2)!,!math.round(star_pos[1].x+sc*7*math.cos(2*math.pi*j/maxj),2)!,!math.round(star_pos[1].y+sc*7*math.sin(2*math.pi*j/maxj),2)!)\bord0\blur0\c!star_pos[1].c!\frz!remember("ro",math.random(360))!\fscx!remember("sc",sc*3)!\fscy!recall.sc!\t(0,!line.duration!,0.6,\frz!recall.ro+120!\fscx!recall.sc+sc*5!\fscy!recall.sc+5*sc!)\p3}m 54 4 l 27 18 b 26 18 26 19 26 20 l 20 50 b 20 51 20 51 19 52 b 17 54 15 54 13 52 l -9 31 b -9 31 -10 31 -11 31 l -41 34 b -42 34 -43 34 -44 34 b -46 33 -46 31 -45 29 l -32 1 b -32 0 -32 0 -32 -1 l -45 -29 b -45 -30 -46 -30 -46 -31 b -46 -33 -43 -34 -41 -34 l -11 -31 b -10 -31 -9 -31 -9 -31 l 13 -52 b 14 -53 14 -53 15 -53 b 17 -53 20 -52 20 -50 l 26 -20 b 26 -19 26 -18 27 -18 l 54 -4 b 55 -4 55 -3 55 -2 b 56 0 56 3 54 4
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank notext fxgroup pic all,!maxloop(5)!!retime("preline",remember("t",800),recall.t+600)!{\fad(!ms!,150)\an7\move(!math.round(star_pos[3].x+sc*2*math.cos(2*math.pi*j/maxj),2)!,!math.round(star_pos[3].y+sc*2*math.sin(2*math.pi*j/maxj),2)!,!math.round(star_pos[3].x+sc*7*math.cos(2*math.pi*j/maxj),2)!,!math.round(star_pos[3].y+sc*7*math.sin(2*math.pi*j/maxj),2)!)\bord0\blur0\c!star_pos[3].c!\frz!remember("ro",math.random(360))!\fscx!remember("sc",sc*3)!\fscy!recall.sc!\t(0,!line.duration!,0.6,\frz!recall.ro+120!\fscx!recall.sc+sc*5!\fscy!recall.sc+sc*5!)\p3}m 54 4 l 27 18 b 26 18 26 19 26 20 l 20 50 b 20 51 20 51 19 52 b 17 54 15 54 13 52 l -9 31 b -9 31 -10 31 -11 31 l -41 34 b -42 34 -43 34 -44 34 b -46 33 -46 31 -45 29 l -32 1 b -32 0 -32 0 -32 -1 l -45 -29 b -45 -30 -46 -30 -46 -31 b -46 -33 -43 -34 -41 -34 l -11 -31 b -10 -31 -9 -31 -9 -31 l 13 -52 b 14 -53 14 -53 15 -53 b 17 -53 20 -52 20 -50 l 26 -20 b 26 -19 26 -18 27 -18 l 54 -4 b 55 -4 55 -3 55 -2 b 56 0 56 3 54 4
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank notext fxgroup pic all,!maxloop(5)!!retime("preline",remember("t",400),recall.t+600)!{\fad(!ms!,150)\an7\move(!math.round(star_pos[2].x+sc*2*math.cos(2*math.pi*j/maxj),2)!,!math.round(star_pos[2].y+sc*2*math.sin(2*math.pi*j/maxj),2)!,!math.round(star_pos[2].x+sc*7*math.cos(2*math.pi*j/maxj),2)!,!math.round(star_pos[2].y+sc*7*math.sin(2*math.pi*j/maxj),2)!)\bord0\blur0\c!star_pos[2].c!\frz!remember("ro",math.random(360))!\fscx!remember("sc",sc*1.5)!\fscy!recall.sc!\t(0,!line.duration!,0.6,\frz!recall.ro+120!\fscx!recall.sc+sc*4.5!\fscy!recall.sc+sc*4.5!)\p3}m -40 0 b -40 -22 -22 -40 0 -40 b 22 -40 40 -22 40 0 b 40 22 22 40 0 40 b -22 40 -40 22 -40 0 m -60 0 b -60 33 -33 60 0 60 b 33 60 60 33 60 0 b 60 -33 33 -60 0 -60 b -33 -60 -60 -33 -60 0
+Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,template syl noblank notext fxgroup pic all,!multiloop((math.ceil(sc*2))*5,5)!!retime("preline",remember("t",1200+(j1-1)*200/maxj1),recall.t+200)!{\an7\pos(!math.round(star_pos[4].x+sc*4+j1/maxj1*sc*3,2)!,!math.round(star_pos[4].y,2)!)\org(!math.round(star_pos[4].x)!,!math.round(star_pos[4].y)!)\frz!j2/maxj2*360!\bord0\fscx!sc*11!\fscy!sc*11!\1c!star_pos[4].c!\p1}m -1 -1 l 1 -1 l 1 1 l -1 1
+Dialogue: 0,0:01:22.60,0:01:24.94,OP-JP,,0,0,0,karaoke,{\k1}さあ戦うんだいま
+Dialogue: 0,0:01:24.94,0:01:28.20,OP-JP,,0,0,0,karaoke,{\k1}僕らの風　巻き起こそう
+Dialogue: 0,0:01:28.21,0:01:30.44,OP-JP,,0,0,0,karaoke,{\k1}駆けのぼってくのさ
+Dialogue: 0,0:01:30.44,0:01:33.59,OP-JP,,0,0,0,karaoke,{\k1}絶対負けない　勝つんだ！
+Dialogue: 0,0:01:36.12,0:01:43.43,OP-JP,,0,0,0,karaoke,{\k1}もっと　もっと　もっと!!
+Dialogue: 0,0:01:44.63,0:01:50.16,OP-JP,,0,0,0,karaoke,{\k1}いつだって昨日の　自分を飛び越えていこう
+Dialogue: 0,0:01:50.16,0:01:55.60,OP-JP,,0,0,0,karaoke,{\k1}どれだけやれるか　分からなくたって燃やすんだ
+Dialogue: 0,0:01:55.60,0:02:01.12,OP-JP,,0,0,0,karaoke,{\k1}一緒に笑ってたい　まだ知らない世界知りたい
+Dialogue: 0,0:02:01.13,0:02:06.57,OP-JP,,0,0,0,karaoke,{\k1}もっと強くなるよ　諦めたくないや
+Dialogue: 0,0:02:06.57,0:02:12.04,OP-JP,,0,0,0,karaoke,{\k1}準備はいいかな　いますぐ Start up!
+Dialogue: 0,0:02:12.11,0:02:14.83,OP-JP,,0,0,0,karaoke,{\k1}てっぺん目指すんだ
+Dialogue: 0,0:02:14.84,0:02:17.52,OP-JP,,0,0,0,karaoke,{\k1}いま以上　これ以上
+Dialogue: 0,0:02:17.61,0:02:20.64,OP-JP,,0,0,0,karaoke,{\k1}胸が高鳴るよ
+Dialogue: 0,0:02:21.81,0:02:25.72,OP-JP,,0,0,0,karaoke,{\k1}叶えるんだ！　この瞬間　目一杯に
+Dialogue: 0,0:02:25.82,0:02:28.21,OP-JP,,0,0,0,karaoke,{\k1}夢みて　精一杯さ
+Dialogue: 0,0:02:28.21,0:02:33.70,OP-JP,,0,0,0,karaoke,{\k1}出会えたから　熱さをくれる願い
+Dialogue: 0,0:02:33.71,0:02:37.14,OP-JP,,0,0,0,karaoke,{\k1}行けるよ
+Dialogue: 0,0:02:37.14,0:02:41.90,OP-JP,,0,0,0,karaoke,{\k1}ありえないことだってもう起こしちゃおう
+Dialogue: 0,0:02:41.90,0:02:44.52,OP-JP,,0,0,0,karaoke,{\k1}信じ続けるんだ
+Dialogue: 0,0:02:44.53,0:02:47.92,OP-JP,,0,0,0,karaoke,{\k1}そう WE WILL!!
+Dialogue: 1,0:01:22.60,0:01:24.94,OP-CH,,0,0,0,karaoke,{\k1}现在一同拼搏吧
+Dialogue: 1,0:01:24.94,0:01:28.20,OP-CH,,0,0,0,karaoke,{\k1}卷起属于我们的风潮
+Dialogue: 1,0:01:28.21,0:01:30.44,OP-CH,,0,0,0,karaoke,{\k1}奔跑着向上攀登吧
+Dialogue: 1,0:01:30.44,0:01:33.59,OP-CH,,0,0,0,karaoke,{\k1}一定不会输  要赢下来！
+Dialogue: 1,0:01:36.12,0:01:43.43,OP-CH,,0,0,0,karaoke,{\k1}继续  更多  还不够!!
+Dialogue: 1,0:01:44.63,0:01:50.16,OP-CH,,0,0,0,karaoke,{\k1}无论何时都要超越昨天的自己
+Dialogue: 1,0:01:50.16,0:01:55.60,OP-CH,,0,0,0,karaoke,{\k1}就算不知能到什么程度  也要点燃自己
+Dialogue: 1,0:01:55.60,0:02:01.12,OP-CH,,0,0,0,karaoke,{\k1}想要一同欢笑  想要了解未知的世界
+Dialogue: 1,0:02:01.13,0:02:06.57,OP-CH,,0,0,0,karaoke,{\k1}我会变得更强  没有放弃的念头
+Dialogue: 1,0:02:06.57,0:02:12.04,OP-CH,,0,0,0,karaoke,{\k1}准备好了吗  现在就出发！
+Dialogue: 1,0:02:12.11,0:02:14.83,OP-CH,,0,0,0,karaoke,{\k1}顶峰就是目标
+Dialogue: 1,0:02:14.84,0:02:17.52,OP-CH,,0,0,0,karaoke,{\k1}比现在更强  比这里更高
+Dialogue: 1,0:02:17.61,0:02:20.64,OP-CH,,0,0,0,karaoke,{\k1}心跳激昂澎湃
+Dialogue: 1,0:02:21.81,0:02:25.72,OP-CH,,0,0,0,karaoke,{\k1}去实现梦想吧！ 在这瞬间全力以赴
+Dialogue: 1,0:02:25.82,0:02:28.21,OP-CH,,0,0,0,karaoke,{\k1}怀着梦想毫无保留
+Dialogue: 1,0:02:28.21,0:02:33.70,OP-CH,,0,0,0,karaoke,{\k1}邂逅了带来热情的愿望
+Dialogue: 1,0:02:33.71,0:02:37.14,OP-CH,,0,0,0,karaoke,{\k1}所以一定没问题
+Dialogue: 1,0:02:37.14,0:02:41.90,OP-CH,,0,0,0,karaoke,{\k1}就算不可能  也去实现吧
+Dialogue: 1,0:02:41.90,0:02:44.52,OP-CH,,0,0,0,karaoke,{\k1}要时刻相信自己
+Dialogue: 1,0:02:44.53,0:02:47.92,OP-CH,,0,0,0,karaoke,{\k1}没错  我们能做到！

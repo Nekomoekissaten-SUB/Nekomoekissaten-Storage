@@ -1,0 +1,27 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [12][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:01.04,0:00:05.26,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&HDA43C5&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Liella,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:07.86,0:00:17.87,Liella,,0,0,0,,{\blur3\3c&HDA43C5&}我们第一次见面时
+Dialogue: 0,0:00:17.87,0:00:23.84,Liella,,0,0,0,,{\blur3\3c&HDA43C5&}说过的话语我都还记得
+Dialogue: 0,0:00:23.84,0:00:33.89,Liella,,0,0,0,,{\blur3\3c&HDA43C5&}每一句都仿佛就在昨天
+Dialogue: 0,0:00:33.89,0:00:39.52,Liella,,0,0,0,,{\blur3\3c&HDA43C5&}构成一幅鲜艳的全景图
+Dialogue: 0,0:00:39.52,0:00:50.24,Liella,,0,0,0,,{\blur3\3c&HDA43C5&}回忆兜兜转转 好似搭上摩天轮
+Dialogue: 0,0:00:50.24,0:01:00.58,Liella,,0,0,0,,{\blur3\3c&HDA43C5&}一周转完再重新爬升吧
+Dialogue: 0,0:01:00.58,0:01:09.34,Liella,,0,0,0,,{\blur3\3c&HDA43C5&}前往全新的天空
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,

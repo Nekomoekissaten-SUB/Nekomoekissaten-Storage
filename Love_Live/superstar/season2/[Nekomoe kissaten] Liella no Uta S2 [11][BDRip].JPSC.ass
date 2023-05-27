@@ -1,0 +1,30 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [11][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:01.04,0:00:04.44,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&H127CFF&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Liella,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:04.82,0:00:09.86,Liella,,0,0,0,,{\blur3\3c&H127CFF&}清晨即将再次到来
+Dialogue: 0,0:00:09.86,0:00:15.08,Liella,,0,0,0,,{\blur3\3c&H127CFF&}将天空染得火红
+Dialogue: 0,0:00:15.08,0:00:20.29,Liella,,0,0,0,,{\blur3\3c&H127CFF&}白天的宁静播撒天蓝
+Dialogue: 0,0:00:20.29,0:00:25.84,Liella,,0,0,0,,{\blur3\3c&H127CFF&}逐渐蔓延开来
+Dialogue: 0,0:00:25.84,0:00:36.35,Liella,,0,0,0,,{\blur3\3c&H127CFF&}景色总在不经意间变化
+Dialogue: 0,0:00:36.35,0:00:45.36,Liella,,0,0,0,,{\blur3\3c&H127CFF&}流星点亮黄昏的天空
+Dialogue: 0,0:00:45.36,0:00:51.41,Liella,,0,0,0,,{\blur3\3c&H127CFF&}我们就像是旋转木马
+Dialogue: 0,0:00:51.41,0:00:54.45,Liella,,0,0,0,,{\blur3\3c&H127CFF&}彼此注视着
+Dialogue: 0,0:00:54.45,0:01:03.46,Liella,,0,0,0,,{\blur3\3c&H127CFF&}把好似不变 却也不同的每一天
+Dialogue: 0,0:01:03.46,0:01:11.68,Liella,,0,0,0,,{\blur3\3c&H127CFF&}都刻进心里 不断回转
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,

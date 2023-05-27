@@ -1,0 +1,32 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [08][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:01.04,0:00:06.02,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&H072CEA&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Liella,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:11.03,0:00:15.58,Liella,,0,0,0,,{\blur5\3c&H072CEA&}肥皂泡轻轻飘在空中
+Dialogue: 0,0:00:15.58,0:00:20.08,Liella,,0,0,0,,{\blur5\3c&H072CEA&}开始来得就是这么突然
+Dialogue: 0,0:00:20.08,0:00:24.17,Liella,,0,0,0,,{\blur5\3c&H072CEA&}当欢快的节奏响起
+Dialogue: 0,0:00:24.17,0:00:29.59,Liella,,0,0,0,,{\blur5\3c&H072CEA&}游行队伍就快过来啦
+Dialogue: 0,0:00:29.59,0:00:34.43,Liella,,0,0,0,,{\blur5\3c&H072CEA&}你惊讶的表情变成笑容
+Dialogue: 0,0:00:34.43,0:00:43.02,Liella,,0,0,0,,{\blur5\3c&H072CEA&}你好耀眼！ 让我心情无比舒畅
+Dialogue: 0,0:00:43.02,0:00:47.61,Liella,,0,0,0,,{\blur5\3c&H072CEA&}花车游行会施放魔法
+Dialogue: 0,0:00:47.61,0:00:52.20,Liella,,0,0,0,,{\blur5\3c&H072CEA&}一瞬之间 点亮整个世界
+Dialogue: 0,0:00:52.20,0:00:56.74,Liella,,0,0,0,,{\blur5\3c&H072CEA&}在原地犹豫不决多浪费
+Dialogue: 0,0:00:56.74,0:01:03.88,Liella,,0,0,0,,{\blur5\3c&H072CEA&}咱们赶快跳上去 一起开心吧
+Dialogue: 0,0:01:03.88,0:01:08.46,Liella,,0,0,0,,{\blur5\3c&H072CEA&}人总是在不经意之间
+Dialogue: 0,0:01:08.46,0:01:11.80,Liella,,0,0,0,,{\blur5\3c&H072CEA&}就爱上一件事！
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,

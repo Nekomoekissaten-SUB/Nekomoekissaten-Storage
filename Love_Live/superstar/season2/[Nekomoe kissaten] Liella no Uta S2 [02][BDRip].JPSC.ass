@@ -1,0 +1,34 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [02][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:00.98,0:00:05.03,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&H72ABF0&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:11.32,0:00:15.24,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}万里无云的蓝天
+Dialogue: 0,0:00:15.24,0:00:19.08,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}仿佛让我更加坚强
+Dialogue: 0,0:00:19.08,0:00:23.00,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}就算错觉也不要紧
+Dialogue: 0,0:00:23.00,0:00:28.67,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}全速穿过弯道吧
+Dialogue: 0,0:00:28.67,0:00:32.30,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}拍一拍手 身体动起来
+Dialogue: 0,0:00:32.30,0:00:36.97,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}这份心情难以描述
+Dialogue: 0,0:00:36.97,0:00:43.73,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}但依然要自由地表达出来
+Dialogue: 0,0:00:43.73,0:00:48.40,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}过山车上沐浴着一瞬的光辉
+Dialogue: 0,0:00:48.40,0:00:51.61,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}一同前往彩虹的另一端
+Dialogue: 0,0:00:51.61,0:00:56.16,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}时而爬升 有稍微下降
+Dialogue: 0,0:00:56.16,0:01:00.71,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}上下颠倒也要欢笑不断
+Dialogue: 0,0:01:00.71,0:01:04.63,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}只要有你 我们一起
+Dialogue: 0,0:01:04.63,0:01:07.46,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}就什么也不怕！
+Dialogue: 0,0:01:10.76,0:01:11.63,Liella,,0,0,0,,{\3c&H72ABF0&\blur3\bord3}Let's dream!
+Dialogue: 0,0:01:16.47,0:01:19.48,Liella,,0,0,0,,

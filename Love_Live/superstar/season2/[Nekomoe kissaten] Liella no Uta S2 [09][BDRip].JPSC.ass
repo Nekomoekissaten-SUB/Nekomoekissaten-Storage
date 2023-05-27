@@ -1,0 +1,32 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [09][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:01.04,0:00:06.02,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&HBFD43E&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Liella,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:11.28,0:00:15.91,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}在团团转的光芒之下
+Dialogue: 0,0:00:15.91,0:00:20.46,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}回过神来 游行已经开始
+Dialogue: 0,0:00:20.46,0:00:24.50,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}你与我各拿出一半
+Dialogue: 0,0:00:24.50,0:00:29.93,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}游行队伍中拼起一颗心
+Dialogue: 0,0:00:29.93,0:00:34.72,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}就像是我们心情的形状
+Dialogue: 0,0:00:34.72,0:00:42.15,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}云朵一团团！ 自由飘荡在空中
+Dialogue: 0,0:00:42.15,0:00:46.73,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}花车游行向我们施放魔法
+Dialogue: 0,0:00:46.73,0:00:51.32,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}任何琐碎的小事 都变得美丽
+Dialogue: 0,0:00:51.32,0:00:55.91,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}仿佛置身梦境却不是做梦
+Dialogue: 0,0:00:55.91,0:01:02.92,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}咱们赶快跳上去 一起开心吧
+Dialogue: 0,0:01:02.92,0:01:07.63,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}人总是在不经意之间
+Dialogue: 0,0:01:07.63,0:01:11.05,Liella,,0,0,0,,{\blur5\3c&HBFD43E&}就爱上一件事！
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,

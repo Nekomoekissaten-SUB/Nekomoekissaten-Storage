@@ -1,0 +1,302 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Renzoku Liella Shousetsu Ren-chan [BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Dial-CH,FZLanTingYuan-R-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,15,15,32,1
+Style: Dial-JP,FOT-Seurat ProN DB,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,15,15,4,1
+Style: Dial-CH2,FZLanTingYuan-R-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,8,15,15,32,1
+Style: Dial-JP2,FOT-Seurat ProN DB,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,8,15,15,1,1
+Style: Cmt-CH,FZLanTingYuan-R-GBK,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,7,16,16,10,1
+Style: Screen,HYQiHei 65S,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,12,1
+Style: Title,Zpix,28,&H00B9D3F1,&H000000FF,&H00A8BACF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,10,10,10,1
+Style: END,FZLanTingYuan-R-GBK,42,&H00C8F9FF,&H000000FF,&H6C77446A,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,2,10,10,80,1
+Style: ED-JP_S2EP01,FOT-TelopMin ProN B,42,&H00FFFFFF,&H000000FF,&H00D76D5F,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,15,15,3,1
+Style: ED-CH_S2_EP01,HYXuanSong 65S,42,&H00FFFFFF,&H000000FF,&H00D76D5F,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,15,15,42,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:06.86,0:00:11.49,Default,,0,0,20,,{\fad(300,0)\blur2\an8\fs30\bord1}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Dialogue-Japanese-----------------
+Dialogue: 0,0:00:49.53,0:00:52.64,Dial-JP,,0,0,0,,十年に一度　食べられると言われている
+Dialogue: 0,0:00:52.64,0:00:55.12,Dial-JP,,0,0,0,,葉月家に伝わる秘伝のジャム
+Dialogue: 0,0:00:55.69,0:00:57.86,Dial-JP,,0,0,0,,それを食べてしまったれんちゃんは
+Dialogue: 0,0:00:57.86,0:01:01.13,Dial-JP,,0,0,0,,あまりのおいしさにジャム職人を目指すことに
+Dialogue: 0,0:01:02.29,0:01:06.81,Dial-JP,,0,0,0,,これは　葉月恋が世界一のジャム職人を目指す
+Dialogue: 0,0:01:06.81,0:01:09.27,Dial-JP,,0,0,0,,愛と感動の物語である
+Dialogue: 0,0:01:15.64,0:01:17.12,Dial-JP,,0,0,0,,ということなんです
+Dialogue: 0,0:01:18.14,0:01:19.78,Dial-JP,,0,0,0,,認めてくれますか
+Dialogue: 0,0:01:22.48,0:01:25.19,Dial-JP,,0,0,0,,私　スクールアイドルをしながら
+Dialogue: 0,0:01:25.19,0:01:28.03,Dial-JP,,0,0,0,,世界一のジャム職人になりたいんです
+Dialogue: 0,0:01:28.03,0:01:29.79,Dial-JP,,0,0,0,,れ…　レンレン
+Dialogue: 0,0:01:29.79,0:01:31.27,Dial-JP,,0,0,0,,止めても無駄です
+Dialogue: 0,0:01:31.58,0:01:34.78,Dial-JP,,0,0,0,,ジャム職人の良さに気づいてしまったのです
+Dialogue: 0,0:01:34.78,0:01:36.07,Dial-JP,,0,0,0,,ジャムはイチゴより
+Dialogue: 0,0:01:36.07,0:01:38.08,Dial-JP,,0,0,0,,焼きリンゴのほうがおいしいんだよ
+Dialogue: 0,0:01:38.08,0:01:40.80,Dial-JP,,0,0,0,,かのんちゃん　そういう問題じゃないと思う
+Dialogue: 0,0:01:41.21,0:01:44.42,Dial-JP,,0,0,0,,うん　恋ちゃんのジャム職人　応援するよ
+Dialogue: 0,0:01:44.79,0:01:47.89,Dial-JP,,0,0,0,,みんなで協力して　恋ちゃんのバックアップをしよう
+Dialogue: 0,0:01:48.38,0:01:49.79,Dial-JP,,0,0,0,,可可　来なさい
+Dialogue: 0,0:01:53.47,0:01:57.47,Dial-JP,,0,0,0,,ワクワクゥクゥさんとつくってあそぼ
+Dialogue: 0,0:01:57.47,0:02:01.09,Dial-JP,,0,0,0,,ワクワクゥクゥさん　今日は何を作るのかしら
+Dialogue: 0,0:02:03.59,0:02:05.79,Dial-JP,,0,0,0,,それはデスネ
+Dialogue: 0,0:02:07.02,0:02:09.60,Dial-JP,,0,0,0,,ジャム職人の衣装で～す
+Dialogue: 0,0:02:10.03,0:02:12.27,Dial-JP,,0,0,0,,何よ　案外普通ね
+Dialogue: 0,0:02:12.27,0:02:14.17,Dial-JP,,0,0,0,,何デスカ　すみれ
+Dialogue: 0,0:02:14.17,0:02:17.41,Dial-JP,,0,0,0,,レンレンのことを真剣に考えた結果なんデス
+Dialogue: 0,0:02:20.49,0:02:22.90,Dial-JP,,0,0,0,,衣装はいい案だと思うけどな
+Dialogue: 0,0:02:23.25,0:02:26.55,Dial-JP,,0,0,0,,そういうすみれはどうなんデスカ
+Dialogue: 0,0:02:27.75,0:02:32.55,Dial-JP,,0,0,0,,ショービズは　このグソクムシの着ぐるみを脱いでからが本番よ
+Dialogue: 0,0:02:41.18,0:02:42.96,Dial-JP,,0,0,0,,ダメだこりゃ　デス
+Dialogue: 0,0:02:45.23,0:02:46.64,Dial-JP,,0,0,0,,ありがとうございます
+Dialogue: 0,0:02:47.01,0:02:49.08,Dial-JP,,0,0,0,,ジャム職人の衣装
+Dialogue: 0,0:02:49.74,0:02:50.98,Dial-JP,,0,0,0,,すごいんです
+Dialogue: 0,0:02:50.98,0:02:52.86,Dial-JP,,0,0,0,,一流になった気分です
+Dialogue: 0,0:02:54.73,0:02:58.09,Dial-JP,,0,0,0,,次は　本格的ジャム作りでおじゃるな
+Dialogue: 0,0:03:00.17,0:03:02.09,Dial-JP,,0,0,0,,マロに任せるでおじゃる
+Dialogue: 0,0:03:02.45,0:03:06.04,Dial-JP,,0,0,0,,なんかちぃちゃんが　いつもとだいぶ違う
+Dialogue: 0,0:03:06.58,0:03:08.66,Dial-JP,,0,0,0,,ま～るいものを入れれば
+Dialogue: 0,0:03:08.66,0:03:11.19,Dial-JP,,0,0,0,,おいしいジャムを作れるでおじゃる
+Dialogue: 0,0:03:11.72,0:03:13.87,Dial-JP,,0,0,0,,尺よ　とってまいれ
+Dialogue: 0,0:03:15.76,0:03:16.49,Dial-JP,,0,0,0,,これも
+Dialogue: 0,0:03:16.90,0:03:17.78,Dial-JP,,0,0,0,,これも
+Dialogue: 0,0:03:18.21,0:03:19.05,Dial-JP,,0,0,0,,これも
+Dialogue: 0,0:03:19.57,0:03:22.50,Dial-JP,,0,0,0,,なんか雲行きが怪しくなってきたよ
+Dialogue: 0,0:03:22.93,0:03:24.03,Dial-JP,,0,0,0,,これもじゃ
+Dialogue: 0,0:03:24.52,0:03:25.23,Dial-JP,,0,0,0,,ちょっ
+Dialogue: 0,0:03:26.19,0:03:28.95,Dial-JP,,0,0,0,,ちぃちゃんが隕石引っ張ってきちゃった
+Dialogue: 0,0:03:32.36,0:03:34.07,Dial-JP,,0,0,0,,葉月恋　いきます
+Dialogue: 0,0:03:36.32,0:03:38.61,Dial-JP,,0,0,0,,私が　隕石を止めます
+Dialogue: 0,0:03:40.95,0:03:42.08,Dial-JP,,0,0,0,,やめてください
+Dialogue: 0,0:03:42.45,0:03:47.04,Dial-JP,,0,0,0,,元はと言えば　私のジャム職人になりたいというわがままの結果
+Dialogue: 0,0:03:47.37,0:03:49.75,Dial-JP,,0,0,0,,こんなことに付き合う必要はありません
+Dialogue: 0,0:03:50.04,0:03:53.88,Dial-JP,,0,0,0,,レンレンのわがままは　リエラのわがまま　デス
+Dialogue: 0,0:03:54.24,0:03:58.18,Dial-JP,,0,0,0,,ショービズの世界では　仲間を決して見捨てないわ
+Dialogue: 0,0:03:58.18,0:04:00.63,Dial-JP,,0,0,0,,ちゃんとすみれも手を添えるデス
+Dialogue: 0,0:04:00.63,0:04:02.63,Dial-JP,,0,0,0,,この姿だから無理
+Dialogue: 0,0:04:02.93,0:04:06.62,Dial-JP,,0,0,0,,元はと言えば　マロが悪いからのー
+Dialogue: 0,0:04:06.62,0:04:09.23,Dial-JP,,0,0,0,,恋ちゃん　私たちがついてるよ
+Dialogue: 0,0:04:09.80,0:04:10.62,Dial-JP,,0,0,0,,皆さん
+Dialogue: 0,0:04:11.90,0:04:16.07,Dial-JP,,0,0,0,,かのんさん　私のためにジャム職人の歌を作って
+Dialogue: 0,0:04:16.07,0:04:17.61,Dial-JP,,0,0,0,,歌ってくれませんか
+Dialogue: 0,0:04:20.09,0:04:21.02,Dial-JP,,0,0,0,,やってみる
+Dialogue: 0,0:04:25.30,0:04:26.00,Dial-JP,,0,0,0,,よし
+Dialogue: 0,0:04:26.83,0:04:28.30,Dial-JP,,0,0,0,,１番　澁谷かのん
+Dialogue: 0,0:04:28.51,0:04:29.47,Dial-JP,,0,0,0,,「ジャム職人」
+Dialogue: 0,0:05:02.36,0:05:04.94,Dial-JP,,0,0,0,,かのんさん歌のおかげでパワーが出てきて
+Dialogue: 0,0:05:04.94,0:05:06.74,Dial-JP,,0,0,0,,隕石を防げました
+Dialogue: 0,0:05:06.74,0:05:08.70,Dial-JP,,0,0,0,,す…　すごいね
+Dialogue: 0,0:05:09.33,0:05:10.34,Dial-JP,,0,0,0,,見てクダサイ
+Dialogue: 0,0:05:10.63,0:05:14.34,Dial-JP,,0,0,0,,粉々になった隕石が流星になって
+Dialogue: 0,0:05:15.19,0:05:15.98,Dial-JP,,0,0,0,,きれい
+Dialogue: 0,0:05:16.50,0:05:17.67,Dial-JP,,0,0,0,,そうね
+Dialogue: 0,0:05:18.59,0:05:20.94,Dial-JP,,0,0,0,,おいしいジャムができますように
+Dialogue: 0,0:05:25.85,0:05:27.90,Dial-JP,,0,0,0,,私の願いが叶って
+Dialogue: 0,0:05:27.90,0:05:30.79,Dial-JP,,0,0,0,,ジャムが流星と一緒に降ってきました
+Dialogue: 0,0:05:35.73,0:05:37.66,Dial-JP,,0,0,0,,おいしいです
+Dialogue: 0,0:05:39.23,0:05:44.10,Dial-JP,,0,0,0,,こうして　葉月家秘伝のジャムよりもおいしいジャムを食べた恋ちゃん
+Dialogue: 0,0:05:44.82,0:05:46.31,Dial-JP,,0,0,0,,あまりのおいしさに
+Dialogue: 0,0:05:46.31,0:05:51.22,Dial-JP,,0,0,0,,ジャム職人になりたい気持ちがより一層高まるのでした
+Dialogue: 0,0:05:52.58,0:05:54.04,Dial-JP,,0,0,0,,頑張れ　恋ちゃん
+Dialogue: 0,0:05:54.81,0:05:56.78,Dial-JP,,0,0,0,,いつでも力になるからね
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Dialogue-Chinese-----------------
+Dialogue: 1,0:00:49.53,0:00:52.64,Dial-CH,,0,0,0,,据说这一美食10年方能尝到一次
+Dialogue: 1,0:00:52.64,0:00:55.12,Dial-CH,,0,0,0,,那就是叶月家祖传的果酱
+Dialogue: 1,0:00:55.69,0:00:57.86,Dial-CH,,0,0,0,,小恋不小心尝到了它
+Dialogue: 1,0:00:57.86,0:01:01.13,Dial-CH,,0,0,0,,因为太好吃 小恋决定当果酱师傅
+Dialogue: 1,0:01:02.29,0:01:06.81,Dial-CH,,0,0,0,,这是叶月恋以世界第一果酱师傅为目标
+Dialogue: 1,0:01:06.81,0:01:09.27,Dial-CH,,0,0,0,,充满了爱与感动的故事
+Dialogue: 1,0:01:15.64,0:01:17.12,Dial-CH,,0,0,0,,就是这样
+Dialogue: 1,0:01:18.14,0:01:19.78,Dial-CH,,0,0,0,,你们同意吗
+Dialogue: 1,0:01:22.48,0:01:25.19,Dial-CH,,0,0,0,,我要做学园偶像的同时
+Dialogue: 1,0:01:25.19,0:01:28.03,Dial-CH,,0,0,0,,成为世界第一的果酱师傅
+Dialogue: 1,0:01:28.03,0:01:29.79,Dial-CH,,0,0,0,,恋… 恋恋
+Dialogue: 1,0:01:29.79,0:01:31.27,Dial-CH,,0,0,0,,阻止我也没用
+Dialogue: 1,0:01:31.58,0:01:34.78,Dial-CH,,0,0,0,,我已经明白了果酱师傅的好
+Dialogue: 1,0:01:34.78,0:01:36.07,Dial-CH,,0,0,0,,比起草莓味
+Dialogue: 1,0:01:36.07,0:01:38.08,Dial-CH,,0,0,0,,还是烤苹果味的果酱更好吃
+Dialogue: 1,0:01:38.08,0:01:40.80,Dial-CH,,0,0,0,,香音 问题不在这里吧
+Dialogue: 1,0:01:41.21,0:01:44.42,Dial-CH,,0,0,0,,嗯 我支持小恋的果酱师傅梦想
+Dialogue: 1,0:01:44.79,0:01:47.89,Dial-CH,,0,0,0,,大家齐心协力 为小恋撑腰吧
+Dialogue: 1,0:01:48.38,0:01:49.79,Dial-CH,,0,0,0,,可可 过来
+Dialogue: 1,0:01:53.47,0:01:57.47,Dial-CH,,0,0,0,,与工作可可姐一起玩手工
+Dialogue: 1,0:01:57.47,0:02:01.09,Dial-CH,,0,0,0,,工作可可姐 今天要制作什么呢
+Dialogue: 1,0:02:03.59,0:02:05.79,Dial-CH,,0,0,0,,这个嘛
+Dialogue: 1,0:02:07.02,0:02:09.60,Dial-CH,,0,0,0,,果酱师傅的工装
+Dialogue: 1,0:02:10.03,0:02:12.27,Dial-CH,,0,0,0,,怎么这么普通
+Dialogue: 1,0:02:12.27,0:02:14.17,Dial-CH,,0,0,0,,你什么意思 堇
+Dialogue: 1,0:02:14.17,0:02:17.41,Dial-CH,,0,0,0,,这是我认真为恋恋考虑得出的结论
+Dialogue: 1,0:02:20.49,0:02:22.90,Dial-CH,,0,0,0,,我觉得工装挺好的
+Dialogue: 1,0:02:23.25,0:02:26.55,Dial-CH,,0,0,0,,那你又有什么想法
+Dialogue: 1,0:02:27.75,0:02:32.55,Dial-CH,,0,0,0,,在演艺圈 脱掉具足虫布偶之后才是开始
+Dialogue: 1,0:02:41.18,0:02:42.96,Dial-CH,,0,0,0,,可不兴这一套啊
+Dialogue: 1,0:02:45.23,0:02:46.64,Dial-CH,,0,0,0,,太感谢了
+Dialogue: 1,0:02:47.01,0:02:49.08,Dial-CH,,0,0,0,,果酱师傅工装
+Dialogue: 1,0:02:49.74,0:02:50.98,Dial-CH,,0,0,0,,太棒了
+Dialogue: 1,0:02:50.98,0:02:52.86,Dial-CH,,0,0,0,,感觉成了一流师傅
+Dialogue: 1,0:02:54.73,0:02:58.09,Dial-CH,,0,0,0,,接下来就该真正制作果酱了
+Dialogue: 1,0:03:00.17,0:03:02.09,Dial-CH,,0,0,0,,就交给我吧
+Dialogue: 1,0:03:02.45,0:03:06.04,Dial-CH,,0,0,0,,怎么感觉小千和平常区别很大
+Dialogue: 1,0:03:06.58,0:03:08.66,Dial-CH,,0,0,0,,只要加入圆圆的东西
+Dialogue: 1,0:03:08.66,0:03:11.19,Dial-CH,,0,0,0,,就能做出美味果酱了
+Dialogue: 1,0:03:11.72,0:03:13.87,Dial-CH,,0,0,0,,尺啊 帮我拿来
+Dialogue: 1,0:03:15.76,0:03:16.49,Dial-CH,,0,0,0,,这个
+Dialogue: 1,0:03:16.90,0:03:17.78,Dial-CH,,0,0,0,,这个
+Dialogue: 1,0:03:18.21,0:03:19.05,Dial-CH,,0,0,0,,这个
+Dialogue: 1,0:03:19.57,0:03:22.50,Dial-CH,,0,0,0,,怎么感觉怪起来了
+Dialogue: 1,0:03:22.93,0:03:24.03,Dial-CH,,0,0,0,,还有这个
+Dialogue: 1,0:03:24.52,0:03:25.23,Dial-CH,,0,0,0,,等下
+Dialogue: 1,0:03:26.19,0:03:28.95,Dial-CH,,0,0,0,,小千把陨石拉来了
+Dialogue: 1,0:03:32.36,0:03:34.07,Dial-CH,,0,0,0,,叶月恋 出动
+Dialogue: 1,0:03:36.32,0:03:38.61,Dial-CH,,0,0,0,,我来阻止陨石
+Dialogue: 1,0:03:40.95,0:03:42.08,Dial-CH,,0,0,0,,请别这样
+Dialogue: 1,0:03:42.45,0:03:47.04,Dial-CH,,0,0,0,,说到底还是怪我任性 非要做果酱师傅
+Dialogue: 1,0:03:47.37,0:03:49.75,Dial-CH,,0,0,0,,你们不用这样陪着我
+Dialogue: 1,0:03:50.04,0:03:53.88,Dial-CH,,0,0,0,,恋恋的任性就是Liella!的任性
+Dialogue: 1,0:03:54.24,0:03:58.18,Dial-CH,,0,0,0,,在我们演艺圈 是绝对不会舍弃同伴的
+Dialogue: 1,0:03:58.18,0:04:00.63,Dial-CH,,0,0,0,,堇倒是出一臂之力啊
+Dialogue: 1,0:04:00.63,0:04:02.63,Dial-CH,,0,0,0,,我这样子哪有手
+Dialogue: 1,0:04:02.93,0:04:06.62,Dial-CH,,0,0,0,,说到底 还是我的问题
+Dialogue: 1,0:04:06.62,0:04:09.23,Dial-CH,,0,0,0,,小恋 我们都在
+Dialogue: 1,0:04:09.80,0:04:10.62,Dial-CH,,0,0,0,,大家
+Dialogue: 1,0:04:11.90,0:04:16.07,Dial-CH,,0,0,0,,香音同学 能为我创作一首果酱师傅之歌
+Dialogue: 1,0:04:16.07,0:04:17.61,Dial-CH,,0,0,0,,然后唱出来吗
+Dialogue: 1,0:04:20.09,0:04:21.02,Dial-CH,,0,0,0,,我试试吧
+Dialogue: 1,0:04:25.30,0:04:26.00,Dial-CH,,0,0,0,,好
+Dialogue: 1,0:04:26.83,0:04:28.30,Dial-CH,,0,0,0,,1号 涩谷香音
+Dialogue: 1,0:04:28.51,0:04:29.47,Dial-CH,,0,0,0,,《果酱师傅》
+Dialogue: 1,0:05:02.36,0:05:04.94,Dial-CH,,0,0,0,,多亏香音同学的歌 我的力量涌了出来
+Dialogue: 1,0:05:04.94,0:05:06.74,Dial-CH,,0,0,0,,成功阻止了陨石
+Dialogue: 1,0:05:06.74,0:05:08.70,Dial-CH,,0,0,0,,真… 真厉害
+Dialogue: 1,0:05:09.33,0:05:10.34,Dial-CH,,0,0,0,,快看啊
+Dialogue: 1,0:05:10.63,0:05:14.34,Dial-CH,,0,0,0,,陨石碎掉 变成流星了
+Dialogue: 1,0:05:15.19,0:05:15.98,Dial-CH,,0,0,0,,好漂亮
+Dialogue: 1,0:05:16.50,0:05:17.67,Dial-CH,,0,0,0,,是啊
+Dialogue: 1,0:05:18.59,0:05:20.94,Dial-CH,,0,0,0,,希望能做出好吃的果酱
+Dialogue: 1,0:05:25.85,0:05:27.90,Dial-CH,,0,0,0,,我的愿望实现了
+Dialogue: 1,0:05:27.90,0:05:30.79,Dial-CH,,0,0,0,,果酱和流星一起飞下来了
+Dialogue: 1,0:05:35.73,0:05:37.66,Dial-CH,,0,0,0,,真好吃
+Dialogue: 1,0:05:39.23,0:05:44.10,Dial-CH,,0,0,0,,就这样 小恋品尝了比叶月家祖传的还要好吃的果酱
+Dialogue: 1,0:05:44.82,0:05:46.31,Dial-CH,,0,0,0,,那果酱实在太好吃
+Dialogue: 1,0:05:46.31,0:05:51.22,Dial-CH,,0,0,0,,让小恋成为果酱师傅的决心更坚定了
+Dialogue: 1,0:05:52.58,0:05:54.04,Dial-CH,,0,0,0,,加油 小恋
+Dialogue: 1,0:05:54.81,0:05:56.78,Dial-CH,,0,0,0,,我们永远帮助你
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Comment-----------------
+Dialogue: 0,0:00:00.98,0:00:05.28,Cmt-CH,,0,0,0,,注：标题出自NHK播出的晨间剧（{\fnFOT-Seurat ProN DB}連続テレビ小説{\fnFZLanTingYuan-R-GBK}）《海女（{\fnFOT-Seurat ProN DB}あまちゃん{\fnFZLanTingYuan-R-GBK}）》。
+Dialogue: 1,0:01:53.47,0:01:57.47,Cmt-CH,,0,0,0,,注：可可的形象出自NHK儿童节目{\fnFOT-Seurat ProN DB}『つくってあそぼ』。
+Dialogue: 1,0:03:02.45,0:03:06.04,Cmt-CH,,0,0,0,,注：小千的形象出自NHK儿童动画{\fnFOT-Seurat ProN DB}『おじゃる丸』。
+Dialogue: 1,0:02:35.11,0:02:38.55,Cmt-CH,,0,0,0,,注：小堇的形象出自NHK儿童动画{\fnFOT-Seurat ProN DB}『ニャッキ！』。
+Dialogue: 1,0:04:26.83,0:04:29.47,Cmt-CH,,0,0,0,,注：香音的行为出自NHK歌手选秀节目{\fnFOT-Seurat ProN DB}『NHKのど自慢』。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Screen-----------------
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE70100&\fnHYXuanSong 65S\pos(640,716.692)\clip(462,666,466,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE70101&\fnHYXuanSong 65S\pos(640,716.692)\clip(466,666,470,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE70103&\fnHYXuanSong 65S\pos(640,716.692)\clip(470,666,474,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE70104&\fnHYXuanSong 65S\pos(640,716.692)\clip(474,666,478,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE70105&\fnHYXuanSong 65S\pos(640,716.692)\clip(478,666,482,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE60107&\fnHYXuanSong 65S\pos(640,716.692)\clip(482,666,486,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE60108&\fnHYXuanSong 65S\pos(640,716.692)\clip(486,666,490,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE60109&\fnHYXuanSong 65S\pos(640,716.692)\clip(490,666,494,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE6010B&\fnHYXuanSong 65S\pos(640,716.692)\clip(494,666,498,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE6010C&\fnHYXuanSong 65S\pos(640,716.692)\clip(498,666,502,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE6010D&\fnHYXuanSong 65S\pos(640,716.692)\clip(502,666,506,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE6010F&\fnHYXuanSong 65S\pos(640,716.692)\clip(506,666,510,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE60110&\fnHYXuanSong 65S\pos(640,716.692)\clip(510,666,514,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE60111&\fnHYXuanSong 65S\pos(640,716.692)\clip(514,666,518,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE50113&\fnHYXuanSong 65S\pos(640,716.692)\clip(518,666,522,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE50114&\fnHYXuanSong 65S\pos(640,716.692)\clip(522,666,526,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE50115&\fnHYXuanSong 65S\pos(640,716.692)\clip(526,666,530,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE50117&\fnHYXuanSong 65S\pos(640,716.692)\clip(530,666,534,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE50118&\fnHYXuanSong 65S\pos(640,716.692)\clip(534,666,538,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE50119&\fnHYXuanSong 65S\pos(640,716.692)\clip(538,666,542,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE5011B&\fnHYXuanSong 65S\pos(640,716.692)\clip(542,666,546,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE5011C&\fnHYXuanSong 65S\pos(640,716.692)\clip(546,666,550,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE5011D&\fnHYXuanSong 65S\pos(640,716.692)\clip(550,666,554,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE4011F&\fnHYXuanSong 65S\pos(640,716.692)\clip(554,666,558,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40120&\fnHYXuanSong 65S\pos(640,716.692)\clip(558,666,562,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40121&\fnHYXuanSong 65S\pos(640,716.692)\clip(562,666,566,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40123&\fnHYXuanSong 65S\pos(640,716.692)\clip(566,666,570,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40124&\fnHYXuanSong 65S\pos(640,716.692)\clip(570,666,574,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40125&\fnHYXuanSong 65S\pos(640,716.692)\clip(574,666,578,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40127&\fnHYXuanSong 65S\pos(640,716.692)\clip(578,666,582,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40128&\fnHYXuanSong 65S\pos(640,716.692)\clip(582,666,586,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE40129&\fnHYXuanSong 65S\pos(640,716.692)\clip(586,666,590,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE3012B&\fnHYXuanSong 65S\pos(640,716.692)\clip(590,666,594,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE3012C&\fnHYXuanSong 65S\pos(640,716.692)\clip(594,666,598,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE3012D&\fnHYXuanSong 65S\pos(640,716.692)\clip(598,666,602,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE3012F&\fnHYXuanSong 65S\pos(640,716.692)\clip(602,666,606,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE30130&\fnHYXuanSong 65S\pos(640,716.692)\clip(606,666,610,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE30131&\fnHYXuanSong 65S\pos(640,716.692)\clip(610,666,614,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE30133&\fnHYXuanSong 65S\pos(640,716.692)\clip(614,666,618,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE30134&\fnHYXuanSong 65S\pos(640,716.692)\clip(618,666,622,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE30135&\fnHYXuanSong 65S\pos(640,716.692)\clip(622,666,626,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE20137&\fnHYXuanSong 65S\pos(640,716.692)\clip(626,666,630,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE20138&\fnHYXuanSong 65S\pos(640,716.692)\clip(630,666,634,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE20139&\fnHYXuanSong 65S\pos(640,716.692)\clip(634,666,638,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE2013B&\fnHYXuanSong 65S\pos(640,716.692)\clip(638,666,642,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE2013C&\fnHYXuanSong 65S\pos(640,716.692)\clip(642,666,646,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE2013E&\fnHYXuanSong 65S\pos(640,716.692)\clip(646,666,650,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE2013F&\fnHYXuanSong 65S\pos(640,716.692)\clip(650,666,654,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE20140&\fnHYXuanSong 65S\pos(640,716.692)\clip(654,666,658,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE10142&\fnHYXuanSong 65S\pos(640,716.692)\clip(658,666,662,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE10143&\fnHYXuanSong 65S\pos(640,716.692)\clip(662,666,666,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE10144&\fnHYXuanSong 65S\pos(640,716.692)\clip(666,666,670,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE10146&\fnHYXuanSong 65S\pos(640,716.692)\clip(670,666,674,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE10147&\fnHYXuanSong 65S\pos(640,716.692)\clip(674,666,678,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE10148&\fnHYXuanSong 65S\pos(640,716.692)\clip(678,666,682,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE1014A&\fnHYXuanSong 65S\pos(640,716.692)\clip(682,666,686,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE1014B&\fnHYXuanSong 65S\pos(640,716.692)\clip(686,666,690,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE1014C&\fnHYXuanSong 65S\pos(640,716.692)\clip(690,666,694,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE0014E&\fnHYXuanSong 65S\pos(640,716.692)\clip(694,666,698,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE0014F&\fnHYXuanSong 65S\pos(640,716.692)\clip(698,666,702,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE00150&\fnHYXuanSong 65S\pos(640,716.692)\clip(702,666,706,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE00152&\fnHYXuanSong 65S\pos(640,716.692)\clip(706,666,710,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE00153&\fnHYXuanSong 65S\pos(640,716.692)\clip(710,666,714,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE00154&\fnHYXuanSong 65S\pos(640,716.692)\clip(714,666,718,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE00156&\fnHYXuanSong 65S\pos(640,716.692)\clip(718,666,722,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE00157&\fnHYXuanSong 65S\pos(640,716.692)\clip(722,666,726,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HE00158&\fnHYXuanSong 65S\pos(640,716.692)\clip(726,666,730,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF015A&\fnHYXuanSong 65S\pos(640,716.692)\clip(730,666,734,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF015B&\fnHYXuanSong 65S\pos(640,716.692)\clip(734,666,738,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF015C&\fnHYXuanSong 65S\pos(640,716.692)\clip(738,666,742,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF015E&\fnHYXuanSong 65S\pos(640,716.692)\clip(742,666,746,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF015F&\fnHYXuanSong 65S\pos(640,716.692)\clip(746,666,750,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF0160&\fnHYXuanSong 65S\pos(640,716.692)\clip(750,666,754,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF0162&\fnHYXuanSong 65S\pos(640,716.692)\clip(754,666,758,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF0163&\fnHYXuanSong 65S\pos(640,716.692)\clip(758,666,762,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDF0164&\fnHYXuanSong 65S\pos(640,716.692)\clip(762,666,766,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE0166&\fnHYXuanSong 65S\pos(640,716.692)\clip(766,666,770,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE0167&\fnHYXuanSong 65S\pos(640,716.692)\clip(770,666,774,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE0168&\fnHYXuanSong 65S\pos(640,716.692)\clip(774,666,778,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE016A&\fnHYXuanSong 65S\pos(640,716.692)\clip(778,666,782,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE016B&\fnHYXuanSong 65S\pos(640,716.692)\clip(782,666,786,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE016C&\fnHYXuanSong 65S\pos(640,716.692)\clip(786,666,790,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE016E&\fnHYXuanSong 65S\pos(640,716.692)\clip(790,666,794,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE016F&\fnHYXuanSong 65S\pos(640,716.692)\clip(794,666,798,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDE0170&\fnHYXuanSong 65S\pos(640,716.692)\clip(798,666,802,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDD0172&\fnHYXuanSong 65S\pos(640,716.692)\clip(802,666,806,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDD0173&\fnHYXuanSong 65S\pos(640,716.692)\clip(806,666,810,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDD0174&\fnHYXuanSong 65S\pos(640,716.692)\clip(810,666,814,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDD0176&\fnHYXuanSong 65S\pos(640,716.692)\clip(814,666,818,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:00.98,0:00:05.28,Screen,,0,0,0,,{\c&HDD0177&\fnHYXuanSong 65S\pos(640,716.692)\clip(818,666,822,712)}连续Liella小说 小恋
+Dialogue: 0,0:00:07.32,0:00:11.49,Screen,,0,0,0,,{\fad(520,520)\fnFZLanTingYuan-DB-GBK\bord1\blur5\3c&H000000&\3a&H2A&\fs40\pos(634,495.333)}第1周 「我要成为果酱师傅！」\N（第1集）
+Dialogue: 1,0:01:52.76,0:01:57.60,Screen,,0,0,0,,{\pos(884,603)\fnFZLanTingYuan-DB-GBK\bord1\blur5\3c&H000000&\3a&H2A&\fs36}工作可可姐
+Dialogue: 0,0:00:47.86,0:01:02.29,Screen,,0,0,0,,{\blur0.6\fad(900,0)\fnHYXuanSong 65S\c&H3C43CD&\fs40\an8}秘传果酱
+Dialogue: 0,0:05:24.64,0:05:25.85,Screen,,0,0,0,,{\blur0.6\fnHYXuanSong 65S\c&HBBCED9&\fs40\an8}比叶月家更好
+Dialogue: 0,0:06:01.42,0:06:04.39,Screen,,0,0,0,,{\fad(800,500)\pos(1169.333,620.667)}待续
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,IN「ジャム職人」
+Dialogue: 0,0:04:30.62,0:04:34.71,END,,0,0,0,,{\blur3}果酱 果酱 美味果酱
+Dialogue: 0,0:04:34.71,0:04:38.67,END,,0,0,0,,{\blur3}大家齐心协力 1 2 果酱
+Dialogue: 0,0:04:38.67,0:04:42.51,END,,0,0,0,,{\blur3\3c&H968145&}果酱会黏住我的心
+Dialogue: 0,0:04:42.51,0:04:46.31,END,,0,0,0,,{\blur3\3c&H968145&}果酱美味黏住大家的心
+Dialogue: 0,0:04:49.52,0:04:51.44,END,,0,0,0,,{\blur3}果酱…  果酱…
+Dialogue: 0,0:04:51.44,0:04:54.32,END,,0,0,0,,{\blur3}我心爱的果酱…

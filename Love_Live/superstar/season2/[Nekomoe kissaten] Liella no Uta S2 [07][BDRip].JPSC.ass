@@ -1,0 +1,37 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [07][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:01.04,0:00:04.24,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&HDB4E8D&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Liella,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:05.11,0:00:08.61,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}一起唱吧 啦啦啦啦 歌声重叠
+Dialogue: 0,0:00:08.61,0:00:12.74,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}别丢下任何人 大家都准备
+Dialogue: 0,0:00:12.74,0:00:17.96,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}搭上同一个梦想 一起出发吧
+Dialogue: 0,0:00:17.96,0:00:21.67,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}希望随着风 无限延伸
+Dialogue: 0,0:00:21.67,0:00:25.67,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}天空招呼着我们快过去
+Dialogue: 0,0:00:25.67,0:00:28.84,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}尽管前方充满危险
+Dialogue: 0,0:00:28.84,0:00:32.93,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}我们也不会停下脚步
+Dialogue: 0,0:00:32.93,0:00:36.72,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}滚滚而来的大石头
+Dialogue: 0,0:00:36.72,0:00:42.27,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}一同默契地躲开吧
+Dialogue: 0,0:00:42.27,0:00:45.98,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}一个人做不到的事情
+Dialogue: 0,0:00:45.98,0:00:49.70,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}大家一起就能做到
+Dialogue: 0,0:00:49.70,0:00:52.91,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}将心灵紧紧连在一起
+Dialogue: 0,0:00:52.91,0:00:57.04,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}去寻找更多冒险吧
+Dialogue: 0,0:00:57.04,0:00:59.58,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}噜噜啦
+Dialogue: 0,0:00:59.58,0:01:04.46,Liella,,0,0,0,,{\3c&HDB4E8D&\blur3}就算事情都超乎想象
+Dialogue: 0,0:01:04.46,0:01:07.09,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}噜噜啦
+Dialogue: 0,0:01:07.09,0:01:11.18,Liella,,0,0,0,,{\blur3\3c&HDB4E8D&}也要不断地追寻光芒
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,

@@ -1,0 +1,36 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [06][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:01.04,0:00:04.24,Liella,,0,0,140,,{\fad(300,300)\blur2\an8\fs30\3c&H9911D8&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Liella,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:02.31,0:00:06.11,Liella,,0,0,0,,{\3c&H9911D8&\blur3}小路旁的阴影处
+Dialogue: 0,0:00:06.11,0:00:09.82,Liella,,0,0,0,,{\3c&H9911D8&\blur3}我发现一道暗门
+Dialogue: 0,0:00:09.82,0:00:13.58,Liella,,0,0,0,,{\3c&H9911D8&\blur3}满心欢喜将它打开
+Dialogue: 0,0:00:13.58,0:00:17.16,Liella,,0,0,0,,{\3c&H9911D8&\blur3}却被传回了起点
+Dialogue: 0,0:00:17.16,0:00:20.96,Liella,,0,0,0,,{\3c&H9911D8&\blur3}没有关系 重新出发
+Dialogue: 0,0:00:20.96,0:00:24.71,Liella,,0,0,0,,{\3c&H9911D8&\blur3}是你鼓励的话语
+Dialogue: 0,0:00:24.71,0:00:32.76,Liella,,0,0,0,,{\3c&H9911D8&\blur3}给了我再次前进的勇气
+Dialogue: 0,0:00:32.76,0:00:36.27,Liella,,0,0,0,,{\3c&H9911D8&\blur3}是捷径？ 还是绕远？
+Dialogue: 0,0:00:36.27,0:00:40.27,Liella,,0,0,0,,{\3c&H9911D8&\blur3}谁知道呢 先试试看！
+Dialogue: 0,0:00:40.98,0:00:44.65,Liella,,0,0,0,,{\3c&H9911D8&\blur3}我们一次又一次
+Dialogue: 0,0:00:44.65,0:00:48.40,Liella,,0,0,0,,{\3c&H9911D8&\blur3}不断地挑战迷宫
+Dialogue: 0,0:00:48.40,0:00:53.20,Liella,,0,0,0,,{\3c&H9911D8&\blur3}偶尔走错路也无妨
+Dialogue: 0,0:00:53.99,0:00:57.70,Liella,,0,0,0,,{\3c&H9911D8&\blur3}不会有任何惧怕之情
+Dialogue: 0,0:00:57.70,0:01:01.37,Liella,,0,0,0,,{\3c&H9911D8&\blur3}尽管迷宫中如此黑暗
+Dialogue: 0,0:01:01.37,0:01:04.42,Liella,,0,0,0,,{\3c&H9911D8&\blur3}我们最后也一定会
+Dialogue: 0,0:01:04.42,0:01:08.51,Liella,,0,0,0,,{\3c&H9911D8&\blur3}成就更坚强的自己
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,

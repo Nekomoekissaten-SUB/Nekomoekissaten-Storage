@@ -1,0 +1,36 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [04][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:20.52,0:00:24.98,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&H7AA059&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:02.48,0:00:04.53,Liella,,0,0,0,,{\blur3\3c&H7AA059&}永远油门全开
+Dialogue: 0,0:00:04.53,0:00:08.24,Liella,,0,0,0,,{\blur3\3c&H7AA059&}一旦跑起来就不停
+Dialogue: 0,0:00:08.24,0:00:14.24,Liella,,0,0,0,,{\blur3\3c&H7AA059&}碰到小小失败也不必在意Go! Go! Go!
+Dialogue: 0,0:00:14.24,0:00:19.58,Liella,,0,0,0,,{\blur3\3c&H7AA059&}坚决不会让你领跑！
+Dialogue: 0,0:00:31.34,0:00:34.31,Liella,,0,0,0,,{\blur3\3c&H7AA059&}横切过去又打滑
+Dialogue: 0,0:00:34.31,0:00:38.48,Liella,,0,0,0,,{\blur3\3c&H7AA059&}陷入危机了的也包括你
+Dialogue: 0,0:00:38.48,0:00:43.36,Liella,,0,0,0,,{\blur3\3c&H7AA059&}要互相帮助 毕竟我们俩
+Dialogue: 0,0:00:43.36,0:00:47.69,Liella,,0,0,0,,{\blur3\3c&H7AA059&}不在一起多无聊呀
+Dialogue: 0,0:00:47.69,0:00:48.82,Liella,,0,0,0,,{\blur3\3c&H7AA059&}总是
+Dialogue: 0,0:00:48.82,0:00:51.74,Liella,,0,0,0,,{\blur3\3c&H7AA059&}Run and Fight! 我可不能输
+Dialogue: 0,0:00:51.74,0:00:54.99,Liella,,0,0,0,,{\blur3\3c&H7AA059&}Run and Fight! 唯独不输你
+Dialogue: 0,0:00:54.99,0:00:59.33,Liella,,0,0,0,,{\blur3\3c&H7AA059&}你是我永远的劲敌
+Dialogue: 0,0:00:59.33,0:01:00.50,Liella,,0,0,0,,{\blur3\3c&H7AA059&}一直这样
+Dialogue: 0,0:01:00.50,0:01:03.38,Liella,,0,0,0,,{\blur3\3c&H7AA059&}Run and Fight! 就算跌倒
+Dialogue: 0,0:01:03.38,0:01:06.67,Liella,,0,0,0,,{\blur3\3c&H7AA059&}Run and Fight! 也要继续跑
+Dialogue: 0,0:01:06.67,0:01:10.67,Liella,,0,0,0,,{\blur3\3c&H7AA059&}与你驰骋赛道
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,

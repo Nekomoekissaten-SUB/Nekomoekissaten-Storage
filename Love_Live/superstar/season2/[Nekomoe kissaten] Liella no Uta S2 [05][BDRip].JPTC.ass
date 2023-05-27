@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Liella no Uta S2 [05][BDRip].JPTC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-R-GBK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,10,1
+Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
+Dialogue: 0,0:00:01.04,0:00:04.07,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&HD14247&}本字幕由喵萌Production製作  僅供交流試看之用  請勿用於商業用途\N翻譯·時軸：Ronny　後期：MIR　繁化：錯黨
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Liella no uta-----------------
+Dialogue: 0,0:00:04.07,0:00:07.82,Liella,,0,0,0,,{\blur3\3c&HD14247&}一旦跳了進來
+Dialogue: 0,0:00:07.82,0:00:11.53,Liella,,0,0,0,,{\blur3\3c&HD14247&}便再也出不去
+Dialogue: 0,0:00:11.53,0:00:15.24,Liella,,0,0,0,,{\blur3\3c&HD14247&}出口究竟在哪
+Dialogue: 0,0:00:15.24,0:00:18.96,Liella,,0,0,0,,{\blur3\3c&HD14247&}不安湧上心頭
+Dialogue: 0,0:00:18.96,0:00:22.67,Liella,,0,0,0,,{\blur3\3c&HD14247&}前路被障礙阻擋
+Dialogue: 0,0:00:22.67,0:00:26.42,Liella,,0,0,0,,{\blur3\3c&HD14247&}奮力翻越它們
+Dialogue: 0,0:00:26.42,0:00:34.14,Liella,,0,0,0,,{\blur3\3c&HD14247&}與你攜手 穿過錯綜複雜的世界
+Dialogue: 0,0:00:34.14,0:00:37.98,Liella,,0,0,0,,{\blur3\3c&HD14247&}該走右邊？ 還是左邊？
+Dialogue: 0,0:00:37.98,0:00:41.98,Liella,,0,0,0,,{\blur3\3c&HD14247&}相信自己的直覺吧！
+Dialogue: 0,0:00:42.73,0:00:50.11,Liella,,0,0,0,,{\blur3\3c&HD14247&}我們永遠不得而知 會有什麼等著我們
+Dialogue: 0,0:00:50.11,0:00:54.95,Liella,,0,0,0,,{\blur3\3c&HD14247&}眼前每一秒都需要摸索
+Dialogue: 0,0:00:55.70,0:00:59.46,Liella,,0,0,0,,{\blur3\3c&HD14247&}即便如此也要前進
+Dialogue: 0,0:00:59.46,0:01:02.92,Liella,,0,0,0,,{\blur3\3c&HD14247&}穿過這漫長的迷宮
+Dialogue: 0,0:01:02.92,0:01:06.17,Liella,,0,0,0,,{\blur3\3c&HD14247&}在最後的出口處
+Dialogue: 0,0:01:06.17,0:01:10.38,Liella,,0,0,0,,{\blur3\3c&HD14247&}定會看到寬廣天空
+Dialogue: 0,0:01:17.47,0:01:20.48,Liella,,0,0,0,,
