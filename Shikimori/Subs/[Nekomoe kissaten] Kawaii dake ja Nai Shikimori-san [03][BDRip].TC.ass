@@ -1,0 +1,1286 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kawaii dake ja Nai Shikimori-san [03][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,47,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Top,FZLanTingYuan-DB-GBK,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,15,15,15,1
+Style: Screen,FZLanTingYuan-B-GBK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
+Style: OP-JP,FOT-Cezanne ProN DB,40,&H00FFFFFF,&H000000FF,&H00000000,&H1E000000,0,0,0,0,100,100,0,0,1,0,2,2,15,15,10,1
+Style: OP-CH,FZLanTingHei-DB1-GBK,38,&H00FFFFFF,&H000000FF,&H00000000,&H1E000000,0,0,0,0,100,100,0,0,1,0,2,8,15,15,15,1
+Style: Staff,FZLanTingHei-DB1-GBK,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,15,15,15,1
+Style: Title,FZSongHei-B07,50,&H00FFFFFF,&H000000FF,&H00505051,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+Style: Screen - border,思源黑体,50,&H00FFFFFF,&H000000FF,&H005884A2,&H00000000,0,0,0,0,100,100,1,0,3,12,0,7,15,15,15,1
+Style: Screen - Vertical,@FZLanTingYuan-B-GBK,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,0,0,7,15,15,15,1
+Style: ED-JP,FOT-KafuTechno Std E,45,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: ED-CHS,FZXinZongYiHeiS DemiBold,34,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: ED-CHT,DFZongYiW5-B5,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:21:33.10,0:21:35.98,Staff,,0,0,0,,{\fad(500,500)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N{\fscx80\fscy80}翻譯：蓋亞  仰天  GC  韶橓　校對：この世界にiをこめて　時軸：astrayveller　後期：MIR　繁化：風風醬
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 5,0:00:04.42,0:00:05.32,Default,,0,0,0,,和泉
+Dialogue: 5,0:00:07.50,0:00:08.77,Default,,0,0,0,,這個要不
+Dialogue: 5,0:00:10.66,0:00:11.97,Default,,0,0,0,,電影券
+Dialogue: 5,0:00:13.05,0:00:14.41,Default,,0,0,0,,免費觀賞券
+Dialogue: 5,0:00:14.59,0:00:16.84,Default,,0,0,0,,是打工處的前輩給我的
+Dialogue: 5,0:00:16.84,0:00:19.64,Default,,0,0,0,,有效期好像到這週日為止
+Dialogue: 5,0:00:20.08,0:00:21.65,Default,,0,0,0,,束你不去看嗎？
+Dialogue: 5,0:00:21.88,0:00:23.60,Default,,0,0,0,,我要去打工啦
+Dialogue: 5,0:00:24.00,0:00:26.09,Default,,0,0,0,,你有空的話就跟誰去看吧
+Dialogue: 5,0:00:27.38,0:00:27.94,Default,,0,0,0,,走啦
+Dialogue: 5,0:00:28.84,0:00:30.70,Default,,0,0,0,,謝謝 打工加油啊
+Dialogue: 5,0:00:34.54,0:00:35.24,Default,,0,0,0,,電影啊
+Dialogue: 5,0:00:47.97,0:00:50.22,Default,,0,0,0,,式守同學 你對電影有興趣嗎
+Dialogue: 5,0:00:50.22,0:00:51.30,Default,,0,0,0,,有
+Dialogue: 5,0:00:51.72,0:00:52.33,Default,,0,0,0,,明天…
+Dialogue: 5,0:00:52.33,0:00:53.10,Default,,0,0,0,,有空
+Dialogue: 5,0:00:53.75,0:00:56.01,Default,,0,0,0,,那明天 一起去看電影怎麼樣？
+Dialogue: 5,0:00:57.48,0:00:58.21,Default,,0,0,0,,好
+Dialogue: 5,0:02:32.26,0:02:34.24,Default,,0,0,0,,跟式守同學一起去看電影啊
+Dialogue: 5,0:02:34.83,0:02:36.20,Default,,0,0,0,,好期待喔
+Dialogue: 5,0:02:38.39,0:02:41.94,Default,,0,0,0,,不不 現在不是悠閒期待的時候
+Dialogue: 5,0:02:42.40,0:02:44.71,Default,,0,0,0,,之前一起出去的時候…
+Dialogue: 5,0:02:45.96,0:02:47.76,Default,,0,0,0,,天氣預報明明是晴天
+Dialogue: 5,0:02:49.64,0:02:52.07,Default,,0,0,0,,卻突然大雨滂沱
+Dialogue: 5,0:02:55.40,0:02:59.55,Default,,0,0,0,,錢包丟了 連同所有的零用錢也一起打水漂了
+Dialogue: 5,0:03:00.74,0:03:04.80,Default,,0,0,0,,雖然式守一直都笑著跟我說沒事
+Dialogue: 5,0:03:06.94,0:03:12.00,Default,,0,0,0,,我還是得提前準備 避免讓式守同學尷尬
+Dialogue: 5,0:03:12.91,0:03:16.24,Default,,0,0,0,,俗話說不打沒有準備的仗
+Dialogue: 5,0:03:17.53,0:03:18.39,Default,,0,0,0,,首先是雨傘
+Dialogue: 5,0:03:19.20,0:03:22.00,Default,,0,0,0,,可能會有折斷的就多拿幾把
+Dialogue: 5,0:03:22.97,0:03:25.95,Default,,0,0,0,,為了錢包絕對不丟繫上繩子
+Dialogue: 5,0:03:28.30,0:03:30.44,Default,,0,0,0,,有可能濺到水或者泥漿所以帶毛巾
+Dialogue: 5,0:03:31.54,0:03:32.22,Default,,0,0,0,,這個也是…
+Dialogue: 5,0:03:33.00,0:03:34.19,Default,,0,0,0,,對了 水壺也帶一個吧
+Dialogue: 5,0:03:36.45,0:03:37.24,Default,,0,0,0,,好勒
+Dialogue: 5,0:03:39.29,0:03:41.50,Default,,0,0,0,,這行李會不會太多了些
+Dialogue: 5,0:03:51.25,0:03:51.66,Default,,0,0,0,,痛
+Dialogue: 5,0:03:52.88,0:03:54.11,Default,,0,0,0,,痛死了
+Dialogue: 5,0:03:56.50,0:03:58.21,Default,,0,0,0,,剛才好大聲響
+Dialogue: 5,0:03:58.56,0:04:00.41,Default,,0,0,0,,幽 你沒事吧
+Dialogue: 5,0:04:00.86,0:04:03.65,Default,,0,0,0,,沒事沒事
+Dialogue: 5,0:04:10.79,0:04:13.75,Default,,0,0,0,,「不用太費勁就能成為可愛女生」
+Dialogue: 5,0:04:14.06,0:04:16.23,Default,,0,0,0,,「男朋友會喜歡的連衣裙」
+Dialogue: 5,0:04:16.56,0:04:18.81,Default,,0,0,0,,「褶邊能顯出女兒味」
+Dialogue: 5,0:04:19.57,0:04:22.58,Default,,0,0,0,,「約會時穿的衣服是戰鬥服」
+Dialogue: 5,0:04:36.42,0:04:38.94,Default,,0,0,0,,要穿哪一件好呢？
+Dialogue: 5,0:04:39.34,0:04:40.57,Default,,0,0,0,,喂 我進來了
+Dialogue: 5,0:04:41.90,0:04:43.11,Default,,0,0,0,,很吵哎
+Dialogue: 5,0:04:43.39,0:04:45.27,Default,,0,0,0,,我也沒大吼大叫吧
+Dialogue: 5,0:04:48.02,0:04:49.26,Default,,0,0,0,,你要去哪裡嗎？
+Dialogue: 5,0:04:52.80,0:04:56.27,Default,,0,0,0,,明天要跟朋友…去看電影
+Dialogue: 5,0:04:56.73,0:04:58.40,Default,,0,0,0,,你朋友是怎麼樣的人？
+Dialogue: 5,0:04:58.40,0:05:00.14,Default,,0,0,0,,這個不想跟哥哥你說
+Dialogue: 5,0:05:00.14,0:05:01.17,Default,,0,0,0,,好過分
+Dialogue: 5,0:05:08.29,0:05:10.26,Default,,0,0,0,,算了 加油
+Dialogue: 5,0:05:16.32,0:05:18.57,Default,,0,0,0,,好勒 加油
+Dialogue: 5,0:05:26.32,0:05:28.16,Default,,0,0,0,,今天出門也是跟往常一樣
+Dialogue: 5,0:05:29.14,0:05:31.54,Default,,0,0,0,,背包帶突然就斷了
+Dialogue: 5,0:05:32.36,0:05:33.70,Default,,0,0,0,,然後碰到迷路的小孩
+Dialogue: 5,0:05:33.70,0:05:35.31,Default,,0,0,0,,帶她去派出所
+Dialogue: 5,0:05:36.32,0:05:39.90,Default,,0,0,0,,我就知道會這樣 所以提前出門了沒問題
+Dialogue: 5,0:05:43.16,0:05:45.20,Default,,0,0,0,,好勒 沒遲到
+Dialogue: 5,0:05:46.00,0:05:47.84,Default,,0,0,0,,今天沒讓式守同學等…
+Dialogue: 5,0:05:51.67,0:05:54.92,Default,,0,0,0,,式守同學 不是還沒到碰頭時間…
+Dialogue: 5,0:06:03.31,0:06:05.53,Default,,0,0,0,,早安 和泉同學
+Dialogue: 5,0:06:06.24,0:06:09.47,Default,,0,0,0,,對不起 來得比約定時間早
+Dialogue: 5,0:06:11.84,0:06:14.84,Default,,0,0,0,,和泉同學 我看起來很奇怪嗎
+Dialogue: 5,0:06:15.23,0:06:16.96,Default,,0,0,0,,沒有 不是奇怪
+Dialogue: 5,0:06:17.94,0:06:20.26,Default,,0,0,0,,我只是覺得很漂亮
+Dialogue: 5,0:06:22.08,0:06:23.74,Default,,0,0,0,,謝謝
+Dialogue: 5,0:06:24.69,0:06:27.86,Default,,0,0,0,,今天的式守同學特別可愛
+Dialogue: 5,0:06:32.57,0:06:35.58,Default,,0,0,0,,我們還是第一次一起看電影呢
+Dialogue: 5,0:06:38.09,0:06:39.54,Default,,0,0,0,,自從我離開東京
+Dialogue: 5,0:06:40.12,0:06:42.17,Default,,0,0,0,,就一直愛著你
+Dialogue: 5,0:06:43.35,0:06:44.59,Default,,0,0,0,,現在也愛著你
+Dialogue: 5,0:06:59.26,0:07:01.27,Default,,0,0,0,,要是發生這樣的事的話
+Dialogue: 5,0:07:02.30,0:07:03.29,Default,,0,0,0,,和泉同學？
+Dialogue: 5,0:07:04.40,0:07:07.71,Default,,0,0,0,,你的臉很紅喔 發燒了嗎
+Dialogue: 5,0:07:08.08,0:07:09.71,Default,,0,0,0,,我…我沒事
+Dialogue: 5,0:07:09.71,0:07:11.33,Default,,0,0,0,,真的嗎
+Dialogue: 5,0:07:11.33,0:07:15.34,Default,,0,0,0,,真的 我只是太期待和式守同學一起看電影了
+Dialogue: 5,0:07:16.81,0:07:18.00,Default,,0,0,0,,我也是
+Dialogue: 5,0:07:23.63,0:07:25.22,Default,,0,0,0,,有很多電影在放映呢
+Dialogue: 5,0:07:25.47,0:07:27.91,Default,,0,0,0,,太多了都不知道該選哪個了呢
+Dialogue: 5,0:07:29.76,0:07:33.32,Default,,0,0,0,,式守同學喜歡哪種類型的電影呢
+Dialogue: 5,0:07:34.64,0:07:36.03,Default,,0,0,0,,果然還是戀愛嗎
+Dialogue: 5,0:07:36.75,0:07:38.85,Default,,0,0,0,,但是她運動能力也很好
+Dialogue: 5,0:07:39.29,0:07:40.84,Default,,0,0,0,,說不定也會喜歡動作片
+Dialogue: 5,0:07:42.32,0:07:44.44,Default,,0,0,0,,式守同學 你想看哪部電影？
+Dialogue: 5,0:07:44.96,0:07:48.24,Default,,0,0,0,,那個…我哪部都可以
+Dialogue: 5,0:07:48.44,0:07:50.00,Default,,0,0,0,,只要是泉同學你想看的
+Dialogue: 5,0:07:52.34,0:07:54.61,Default,,0,0,0,,式守同學一直這樣呢
+Dialogue: 5,0:07:55.92,0:07:59.07,Default,,0,0,0,,你一直都優先考慮我想去的 想看的
+Dialogue: 0,0:07:59.25,0:08:01.38,Default,,0,0,0,,還有想吃的
+Dialogue: 5,0:08:02.15,0:08:04.03,Default,,0,0,0,,是這樣嗎
+Dialogue: 5,0:08:04.03,0:08:05.07,Default,,0,0,0,,是這樣的
+Dialogue: 5,0:08:05.28,0:08:07.63,Default,,0,0,0,,今天就看式守同學想看的電影吧
+Dialogue: 5,0:08:07.86,0:08:09.77,Default,,0,0,0,,為…為什麼？
+Dialogue: 5,0:08:09.77,0:08:10.63,Default,,0,0,0,,「為什麼」？
+Dialogue: 5,0:08:12.80,0:08:15.79,Default,,0,0,0,,因為我想更加了解式守同學
+Dialogue: 5,0:08:17.92,0:08:21.34,Default,,0,0,0,,不用客氣 告訴我你真正想看的
+Dialogue: 5,0:08:22.28,0:08:23.60,Default,,0,0,0,,你最想看的是哪部？
+Dialogue: 5,0:08:24.19,0:08:26.28,Default,,0,0,0,,那個…這樣的話
+Dialogue: 5,0:08:28.68,0:08:29.71,Default,,0,0,0,,我想看那部
+Dialogue: 5,0:08:41.76,0:08:43.76,Default,,0,0,0,,和泉同學你知道這部電影嗎
+Dialogue: 5,0:08:43.98,0:08:46.20,Default,,0,0,0,,現在在社交媒體上很有名
+Dialogue: 5,0:08:46.20,0:08:47.66,Default,,0,0,0,,我很在意
+Dialogue: 5,0:08:48.16,0:08:49.46,Default,,0,0,0,,這樣啊
+Dialogue: 5,0:08:50.22,0:08:53.30,Default,,0,0,0,,真的啊 說是「特別恐怖」
+Dialogue: 5,0:08:53.93,0:08:57.16,Default,,0,0,0,,和泉同學你能看恐怖電影嗎
+Dialogue: 5,0:08:57.48,0:08:59.64,Default,,0,0,0,,嗯 應該也不是完全不行吧
+Dialogue: 5,0:08:59.99,0:09:01.30,Default,,0,0,0,,太好了
+Dialogue: 5,0:09:01.80,0:09:04.22,Default,,0,0,0,,式守同學你不怕這樣的電影嗎
+Dialogue: 5,0:09:04.56,0:09:07.21,Default,,0,0,0,,雖然也會害怕 但是想看恐怖的東西
+Dialogue: 5,0:09:07.21,0:09:09.21,Default,,0,0,0,,不知不覺就想看這部了
+Dialogue: 5,0:09:10.02,0:09:12.38,Default,,0,0,0,,這樣啊 也會害怕的啊
+Dialogue: 5,0:09:21.10,0:09:22.32,Default,,0,0,0,,該死
+Dialogue: 5,0:09:22.32,0:09:23.32,Default,,0,0,0,,別過來
+Dialogue: 5,0:09:31.61,0:09:32.43,Default,,0,0,0,,別過來
+Dialogue: 5,0:09:36.24,0:09:38.72,Default,,0,0,0,,我姑且還是能看血漿片的
+Dialogue: 5,0:09:39.16,0:09:41.89,Default,,0,0,0,,在電影院裡的話應該也不會遇到事故
+Dialogue: 5,0:09:43.00,0:09:44.01,Default,,0,0,0,,說不定…
+Dialogue: 5,0:09:53.42,0:09:55.76,Default,,0,0,0,,沒關係 有我在喔
+Dialogue: 5,0:09:56.59,0:09:57.76,Default,,0,0,0,,和泉同學
+Dialogue: 5,0:09:59.21,0:10:01.72,Default,,0,0,0,,說不定能展現出男子漢的一面
+Dialogue: 5,0:10:05.04,0:10:07.03,Default,,0,0,0,,式守同學 害怕的話就說出來
+Dialogue: 5,0:10:07.49,0:10:08.57,Default,,0,0,0,,有我在
+Dialogue: 5,0:10:09.00,0:10:10.95,Default,,0,0,0,,好 謝謝你
+Dialogue: 5,0:10:22.97,0:10:24.01,Default,,0,0,0,,氣球？
+Dialogue: 5,0:11:01.24,0:11:03.83,Default,,0,0,0,,好恐怖啊
+Dialogue: 5,0:11:04.95,0:11:07.76,Default,,0,0,0,,這是什麼？這不是特別恐怖嗎
+Dialogue: 5,0:11:09.47,0:11:11.05,Default,,0,0,0,,嘔
+Dialogue: 5,0:11:11.05,0:11:13.69,Default,,0,0,0,,太害怕了 快要吐了
+Dialogue: 5,0:11:26.20,0:11:27.42,Default,,0,0,0,,式守同學
+Dialogue: 5,0:11:30.18,0:11:31.43,Default,,0,0,0,,和…和泉同學
+Dialogue: 5,0:11:39.97,0:11:42.06,Default,,0,0,0,,和泉同學 你沒事吧
+Dialogue: 5,0:11:42.35,0:11:44.32,Default,,0,0,0,,我不知道你會害怕到這個程度
+Dialogue: 5,0:11:44.78,0:11:48.67,Default,,0,0,0,,對不起 都是因為我說想看恐怖電影
+Dialogue: 5,0:11:49.86,0:11:51.31,Default,,0,0,0,,多虧了式守同學
+Dialogue: 5,0:11:52.70,0:11:54.67,Default,,0,0,0,,如果是我一個人的話說不定已經昏過去了
+Dialogue: 5,0:11:55.28,0:11:57.60,Default,,0,0,0,,因為式守同學在我才能撐過來
+Dialogue: 5,0:12:00.07,0:12:01.58,Default,,0,0,0,,那真是太好了
+Dialogue: 5,0:12:02.41,0:12:05.68,Default,,0,0,0,,式守同學 接下來要去吃點什麼好吃的嗎
+Dialogue: 5,0:12:05.68,0:12:06.35,Default,,0,0,0,,要去
+Dialogue: 5,0:12:12.11,0:12:14.01,Default,,0,0,0,,看起來很好吃 也很可愛
+Dialogue: 5,0:12:15.43,0:12:17.05,Default,,0,0,0,,確實很可愛呢
+Dialogue: 5,0:12:18.94,0:12:21.48,Default,,0,0,0,,但價格稍微有點貴呢
+Dialogue: 5,0:12:22.78,0:12:24.81,Default,,0,0,0,,沒問題 包在我身上
+Dialogue: 5,0:12:25.47,0:12:27.53,Default,,0,0,0,,因為想和式守同學一起吃這個
+Dialogue: 5,0:12:27.86,0:12:29.77,Default,,0,0,0,,所以我偷偷存了一些零用錢呢
+Dialogue: 5,0:12:30.27,0:12:31.64,Default,,0,0,0,,和泉同學
+Dialogue: 5,0:12:31.84,0:12:34.48,Default,,0,0,0,,而且我剛好有折扣券
+Dialogue: 5,0:12:36.48,0:12:37.57,Default,,0,0,0,,怎麼了
+Dialogue: 5,0:12:38.30,0:12:39.88,Default,,0,0,0,,咦 錢包不見了
+Dialogue: 5,0:12:40.43,0:12:41.97,Default,,0,0,0,,折扣券也在錢包裡
+Dialogue: 5,0:12:42.41,0:12:46.99,Default,,0,0,0,,不是吧 為了保證不會弄掉我還繫了根繩子
+Dialogue: 5,0:12:48.38,0:12:50.00,Default,,0,0,0,,繩子斷了
+Dialogue: 5,0:12:50.88,0:12:51.53,Default,,0,0,0,,不是吧
+Dialogue: 5,0:12:56.76,0:12:58.56,Default,,0,0,0,,式守同學 對不起
+Dialogue: 5,0:12:59.05,0:13:01.87,Default,,0,0,0,,沒關係的 請不要在意
+Dialogue: 5,0:13:02.64,0:13:05.40,Default,,0,0,0,,我明明想讓式守同學開心一點的
+Dialogue: 5,0:13:05.40,0:13:06.88,Default,,0,0,0,,卻白忙了一場
+Dialogue: 5,0:13:08.46,0:13:09.08,Default,,0,0,0,,幽
+Dialogue: 5,0:13:10.78,0:13:12.86,Default,,0,0,0,,父親 母親 你們為什麼在這裡
+Dialogue: 5,0:13:13.44,0:13:14.75,Default,,0,0,0,,稍微來買點東西
+Dialogue: 5,0:13:15.34,0:13:17.55,Default,,0,0,0,,式守同學 好久不見了呢
+Dialogue: 5,0:13:18.42,0:13:21.45,Default,,0,0,0,,伯父伯母 您們好
+Dialogue: 5,0:13:23.23,0:13:24.58,Default,,0,0,0,,她說「伯母」呢
+Dialogue: 5,0:13:26.63,0:13:28.48,Default,,0,0,0,,你們接下來要去哪裡呢
+Dialogue: 5,0:13:29.04,0:13:32.21,Default,,0,0,0,,我們原本是打算去吃蛋糕的
+Dialogue: 5,0:13:33.02,0:13:34.28,Default,,0,0,0,,但我把錢包弄丟了
+Dialogue: 5,0:13:34.81,0:13:36.57,Default,,0,0,0,,又把錢包弄丟了嗎
+Dialogue: 5,0:13:36.88,0:13:38.44,Default,,0,0,0,,還是和往常一樣呢
+Dialogue: 5,0:13:40.70,0:13:42.87,Default,,0,0,0,,那不如來我們家吃 怎麼樣
+Dialogue: 5,0:13:43.36,0:13:46.59,Default,,0,0,0,,式守同學來的話 就準備豪華一點的甜點吧
+Dialogue: 5,0:13:46.82,0:13:51.02,Default,,0,0,0,,這主意不錯 我會好好招待的
+Dialogue: 5,0:13:52.11,0:13:52.75,Default,,0,0,0,,但是…
+Dialogue: 5,0:13:53.36,0:13:54.32,Default,,0,0,0,,我很期待
+Dialogue: 5,0:14:01.80,0:14:03.48,Default,,0,0,0,,盡情享用喔
+Dialogue: 5,0:14:03.92,0:14:06.52,Default,,0,0,0,,謝謝 我開動了
+Dialogue: 5,0:14:07.09,0:14:09.13,Default,,0,0,0,,我來給你盛
+Dialogue: 5,0:14:21.15,0:14:23.16,Default,,0,0,0,,不愧是一家人呢
+Dialogue: 5,0:14:23.61,0:14:26.12,Default,,0,0,0,,抱歉 式守同學 手沒受傷吧
+Dialogue: 5,0:14:26.35,0:14:26.96,Default,,0,0,0,,沒事吧
+Dialogue: 5,0:14:27.50,0:14:28.76,Default,,0,0,0,,沒事的
+Dialogue: 5,0:14:34.59,0:14:38.06,Default,,0,0,0,,就像是餐館裡做的一樣好吃
+Dialogue: 5,0:14:38.70,0:14:40.37,Default,,0,0,0,,多吃點喔
+Dialogue: 5,0:14:40.37,0:14:41.79,Default,,0,0,0,,謝謝
+Dialogue: 5,0:14:41.79,0:14:43.79,Default,,0,0,0,,不用顧慮
+Dialogue: 5,0:14:43.79,0:14:45.00,Default,,0,0,0,,好
+Dialogue: 5,0:14:45.00,0:14:46.32,Default,,0,0,0,,這個菜也吃點
+Dialogue: 5,0:14:46.32,0:14:47.96,Default,,0,0,0,,這個也是
+Dialogue: 5,0:14:50.76,0:14:53.30,Default,,0,0,0,,抱歉 式守同學 他們有點太興奮了
+Dialogue: 5,0:14:53.60,0:14:55.70,Default,,0,0,0,,怎麼會呢 我很開心喔
+Dialogue: 5,0:14:56.72,0:14:59.55,Default,,0,0,0,,已經很久沒吃過別人親手做的菜了
+Dialogue: 5,0:15:00.51,0:15:05.05,Default,,0,0,0,,啊 並沒有什麼深層的含義喔
+Dialogue: 5,0:15:05.05,0:15:06.06,Default,,0,0,0,,式守同學
+Dialogue: 5,0:15:06.81,0:15:10.27,Default,,0,0,0,,再經常來我們家吃也可以的喔
+Dialogue: 5,0:15:10.44,0:15:13.09,Default,,0,0,0,,我們經常會做太多菜吃不完呢
+Dialogue: 5,0:15:22.07,0:15:22.51,Default,,0,0,0,,好
+Dialogue: 5,0:15:24.48,0:15:26.51,Default,,0,0,0,,我去準備甜點了
+Dialogue: 5,0:15:27.13,0:15:28.41,Default,,0,0,0,,稍微去個廁所
+Dialogue: 5,0:15:33.20,0:15:34.46,Default,,0,0,0,,謝謝你能來
+Dialogue: 5,0:15:34.92,0:15:35.88,Default,,0,0,0,,有點突然 抱歉呢
+Dialogue: 5,0:15:36.42,0:15:38.27,Default,,0,0,0,,我很高興能來
+Dialogue: 5,0:15:39.31,0:15:41.65,Default,,0,0,0,,式守同學一點都不緊張呢
+Dialogue: 5,0:15:42.21,0:15:44.00,Default,,0,0,0,,我心裡卻很慌
+Dialogue: 5,0:15:44.71,0:15:46.27,Default,,0,0,0,,你在說什麼呢
+Dialogue: 5,0:15:47.26,0:15:50.59,Default,,0,0,0,,到喜歡的人家裡拜訪 當然會緊張啊
+Dialogue: 5,0:15:51.78,0:15:53.79,Default,,0,0,0,,太可愛了吧
+Dialogue: 5,0:15:54.56,0:15:56.80,Default,,0,0,0,,看著你們這麼卿卿我我
+Dialogue: 5,0:15:56.80,0:15:58.27,Default,,0,0,0,,我都感動得要哭了呢
+Dialogue: 5,0:15:58.27,0:15:58.92,Default,,0,0,0,,你在的啊
+Dialogue: 5,0:16:02.38,0:16:04.53,Default,,0,0,0,,我來幫忙一起洗碗吧
+Dialogue: 5,0:16:05.91,0:16:06.89,Default,,0,0,0,,真的嗎
+Dialogue: 5,0:16:07.26,0:16:09.73,Default,,0,0,0,,你去和幽聊天也可以的喔
+Dialogue: 5,0:16:10.04,0:16:13.06,Default,,0,0,0,,不用了 和泉同學睡著了
+Dialogue: 5,0:16:16.40,0:16:20.80,Default,,0,0,0,,他從以前就是 吃飽之後很快就會想睡覺
+Dialogue: 5,0:16:21.16,0:16:22.82,Default,,0,0,0,,不是很可愛嗎
+Dialogue: 5,0:16:22.82,0:16:23.42,Default,,0,0,0,,秀恩愛
+Dialogue: 5,0:16:23.65,0:16:25.13,Default,,0,0,0,,啊 我不是這個意思
+Dialogue: 5,0:16:27.75,0:16:29.73,Default,,0,0,0,,真的很感謝你呢
+Dialogue: 5,0:16:31.27,0:16:33.25,Default,,0,0,0,,謝謝你待在他身旁
+Dialogue: 5,0:16:34.19,0:16:35.21,Default,,0,0,0,,伯母
+Dialogue: 5,0:16:36.30,0:16:38.89,Default,,0,0,0,,既然到了我們家 沒有什麼想看的東西嗎
+Dialogue: 5,0:16:39.28,0:16:42.66,Default,,0,0,0,,他中學的相冊 或者他嬰兒時期的照片之類的
+Dialogue: 5,0:16:47.04,0:16:47.96,Default,,0,0,0,,沒有的話
+Dialogue: 5,0:16:50.99,0:16:54.58,Default,,0,0,0,,我可以拜託你一件事嗎
+Dialogue: 5,0:16:55.38,0:16:57.58,Default,,0,0,0,,拜託我一件事嗎
+Dialogue: 5,0:16:58.46,0:17:00.51,Default,,0,0,0,,在那孩子小學的時候…
+Dialogue: 5,0:17:01.70,0:17:03.24,Default,,0,0,0,,幽 聽好喔
+Dialogue: 5,0:17:03.58,0:17:05.48,Default,,0,0,0,,要小心路上的車喔
+Dialogue: 5,0:17:05.92,0:17:08.41,Default,,0,0,0,,走路的時候要留意頭上 還有腳下
+Dialogue: 5,0:17:09.32,0:17:12.19,Default,,0,0,0,,另外也要好好注意後面的情況喔
+Dialogue: 5,0:17:12.49,0:17:15.15,Default,,0,0,0,,沒關係的 媽媽
+Dialogue: 5,0:17:15.56,0:17:17.71,Default,,0,0,0,,媽媽才是不要受傷喔
+Dialogue: 5,0:17:22.91,0:17:24.04,Default,,0,0,0,,我出發了
+Dialogue: 5,0:17:27.20,0:17:30.60,Default,,0,0,0,,那孩子每天都帶著傷回來
+Dialogue: 5,0:17:30.91,0:17:33.89,Default,,0,0,0,,擔心得都沒辦法笑著送他出門
+Dialogue: 5,0:17:35.31,0:17:38.60,Default,,0,0,0,,但是啊 一起度過了十六年的話
+Dialogue: 5,0:17:39.40,0:17:44.27,Default,,0,0,0,,就算家裡破了大洞 我也不會大驚小怪了
+Dialogue: 5,0:17:44.27,0:17:47.03,Default,,0,0,0,,習…習慣了還真是厲害呢
+Dialogue: 5,0:17:47.03,0:17:49.03,Default,,0,0,0,,反過來說也有點害怕呢
+Dialogue: 5,0:17:50.76,0:17:54.52,Default,,0,0,0,,大概是那孩子總是一臉沒事的樣子
+Dialogue: 5,0:17:54.52,0:17:57.47,Default,,0,0,0,,還在關心著其他人吧
+Dialogue: 5,0:17:55.93,0:17:57.76,Top,,0,0,0,,怎麼了 媽媽
+Dialogue: 5,0:17:58.13,0:17:58.76,Default,,0,0,0,,你的頭
+Dialogue: 5,0:17:59.61,0:18:01.27,Default,,0,0,0,,啊不 沒什麼…
+Dialogue: 5,0:18:03.13,0:18:03.42,Default,,0,0,0,,給
+Dialogue: 5,0:18:06.63,0:18:08.25,Default,,0,0,0,,哎呀 謝謝你
+Dialogue: 5,0:18:10.03,0:18:12.62,Default,,0,0,0,,到底是遺傳誰呀
+Dialogue: 5,0:18:12.92,0:18:14.43,Default,,0,0,0,,真是不可思議呀…
+Dialogue: 5,0:18:16.30,0:18:21.95,Default,,0,0,0,,所以 希望你不會討厭他
+Dialogue: 5,0:18:24.25,0:18:29.52,Default,,0,0,0,,你看 他的不幸體質可能也會給你帶來困擾
+Dialogue: 5,0:18:29.73,0:18:31.24,Default,,0,0,0,,不是這樣的
+Dialogue: 5,0:18:33.08,0:18:36.72,Default,,0,0,0,,和泉同學的確經常捲入麻煩
+Dialogue: 5,0:18:37.54,0:18:40.21,Default,,0,0,0,,在周圍人看來 他也許是不幸的
+Dialogue: 5,0:18:41.61,0:18:42.66,Default,,0,0,0,,但是對我來說
+Dialogue: 5,0:18:45.21,0:18:48.09,Default,,0,0,0,,我從沒有認為和泉同學是不幸的
+Dialogue: 5,0:18:49.96,0:18:51.89,Default,,0,0,0,,那個體質不是他的缺點
+Dialogue: 5,0:18:53.21,0:18:57.82,Default,,0,0,0,,苦難磨礪出他善良的天性
+Dialogue: 5,0:18:58.92,0:19:03.68,Default,,0,0,0,,也正因為他知道受傷的滋味
+Dialogue: 5,0:19:04.96,0:19:10.40,Default,,0,0,0,,所以才不悲嘆人生 而是去體恤他人
+Dialogue: 5,0:19:14.11,0:19:18.00,Default,,0,0,0,,和泉同學堅強又帥氣
+Dialogue: 5,0:19:19.33,0:19:20.88,Default,,0,0,0,,不用擔心
+Dialogue: 5,0:19:22.38,0:19:24.18,Default,,0,0,0,,我會保護好他的
+Dialogue: 5,0:19:26.96,0:19:27.94,Default,,0,0,0,,母親大人？
+Dialogue: 5,0:19:29.42,0:19:33.07,Default,,0,0,0,,不好 連我都想要式守同學這樣的女朋友了
+Dialogue: 5,0:19:34.43,0:19:37.48,Default,,0,0,0,,當著我的面出軌 我可以哭嗎
+Dialogue: 5,0:19:37.77,0:19:39.15,Default,,0,0,0,,原來你在啊
+Dialogue: 5,0:19:42.99,0:19:45.82,Default,,0,0,0,,幽 幽 醒一醒
+Dialogue: 5,0:19:49.17,0:19:52.43,Default,,0,0,0,,已經八點了 小美要回去了喔
+Dialogue: 5,0:19:52.76,0:19:55.48,Default,,0,0,0,,已經這麼晚了嗎
+Dialogue: 5,0:19:56.25,0:19:57.53,Default,,0,0,0,,我得送式守同學回家
+Dialogue: 5,0:20:00.28,0:20:02.64,Default,,0,0,0,,這兩個人在做什麼呢
+Dialogue: 5,0:20:02.64,0:20:03.95,Default,,0,0,0,,遊戲大會
+Dialogue: 5,0:20:10.88,0:20:12.43,Default,,0,0,0,,打得不錯嘛 小美
+Dialogue: 5,0:20:12.71,0:20:13.96,Default,,0,0,0,,明貞伯父才是
+Dialogue: 5,0:20:14.92,0:20:17.79,Default,,0,0,0,,兩個人什麼時候關係都變得這麼好了
+Dialogue: 5,0:20:19.10,0:20:21.20,Default,,0,0,0,,今天多有打擾
+Dialogue: 5,0:20:22.76,0:20:23.44,Default,,0,0,0,,小美
+Dialogue: 5,0:20:24.34,0:20:26.95,Default,,0,0,0,,想來的時候隨時可以來玩喔
+Dialogue: 5,0:20:27.21,0:20:28.04,Default,,0,0,0,,好的
+Dialogue: 5,0:20:29.24,0:20:29.98,Default,,0,0,0,,那我們先走了 媽媽
+Dialogue: 5,0:20:38.28,0:20:40.09,Default,,0,0,0,,我去送送式守同學
+Dialogue: 5,0:20:45.26,0:20:46.37,Default,,0,0,0,,兩人一路順風
+Dialogue: 5,0:20:51.84,0:20:54.41,Default,,0,0,0,,式守同學 今天不好意思呀
+Dialogue: 5,0:20:54.93,0:20:56.16,Default,,0,0,0,,我中途還睡著了
+Dialogue: 5,0:20:56.59,0:20:58.65,Default,,0,0,0,,能看到和泉同學的睡臉 我很滿足
+Dialogue: 5,0:20:59.61,0:21:01.64,Default,,0,0,0,,我沒有翻白眼吧
+Dialogue: 5,0:21:02.04,0:21:03.39,Default,,0,0,0,,沒有的
+Dialogue: 5,0:21:05.03,0:21:07.89,Default,,0,0,0,,和泉同學喜歡什麼樣的電影
+Dialogue: 5,0:21:11.58,0:21:13.79,Default,,0,0,0,,我比較喜歡搭檔電影吧
+Dialogue: 5,0:21:16.50,0:21:20.25,Default,,0,0,0,,那下次我們一起去看吧
+Dialogue: 5,0:21:23.70,0:21:25.50,Default,,0,0,0,,下次什麼時候去呢
+Dialogue: 5,0:21:26.12,0:21:31.26,Default,,0,0,0,,搭檔電影的話 我記得下個月好像有新電影上映
+Dialogue: 5,0:21:31.26,0:21:32.43,Default,,0,0,0,,那就去看那個吧
+Dialogue: 5,0:21:32.72,0:21:33.24,Default,,0,0,0,,好的
+Dialogue: 5,0:23:10.01,0:23:10.68,Default,,0,0,0,,有消息
+Dialogue: 5,0:23:11.24,0:23:11.78,Default,,0,0,0,,是朋友來的嗎
+Dialogue: 5,0:23:12.46,0:23:14.52,Default,,0,0,0,,不 是許子阿姨發來的
+Dialogue: 5,0:23:14.72,0:23:15.91,Default,,0,0,0,,許子阿姨？
+Dialogue: 5,0:23:17.64,0:23:20.54,Default,,0,0,0,,式守同學和年長的人很合得來
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\frz17.27\fs300\fscx130\fscy250\c&HC5DDE8&\1a&H32&\pos(95,76.333)}■
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\an8\fnHYXuanSong 85S\frz17.27\fs36\c&H446878&\pos(305.209,182.455)}全國通用電影\N免費券
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\frz17.27\fs20\c&H5159FE&\3c&HFFFFFF&\bord2\pos(251,312.999)}●選座以及出票詳情\N請諮詢前台工作人員
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\frz17.27\fs20\c&H5159FE&\3c&HFFFFFF&\bord2\pos(264.999,354.332)}●兌票後回收
+Dialogue: 2,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\frz17.27\fs23\3c&H5884A2&\pos(281.371,389.305)}使用方法請確認背面
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\frz17.27\fscx197\fscy42\c&H5884A2&\pos(268.239,384.727)\p1}m 0 0 l 100 0 l 100 100 l 0 100
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\frz17.27\fs30\c&H446878&\pos(258.557,427.667)}-------------
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\fnHYXuanSong 85S\frz17.27\fs30\c&H446878&\pos(289.666,447)}—電影免費觀賞券—
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\fnHYXuanSong 85S\frz17.27\fs20\c&H446878&\pos(287.762,501.665)}☆本劵一人一券
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\fnHYXuanSong 85S\frz17.27\fs20\c&H446878&\pos(296,530.667)}☆本券損毀無效
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\fnHYXuanSong 85S\frz17.27\fs20\c&H446878&\pos(303.808,556.571)}☆入場前要先用本券兌換成電影票
+Dialogue: 1,0:00:08.98,0:00:11.11,Screen,,0,0,0,,{\fnHYXuanSong 85S\frz17.27\fs20\c&H5063E5&\pos(312.572,584.191)}☆像是有舞台活動的特殊場次\N　不能使用還請注意
+Dialogue: 0,0:02:29.00,0:02:31.00,Title,,0,0,0,,{\fad(600,0)\3c&H000000&\pos(206.451,582.983)}不幸過後，晴天
+Dialogue: 0,0:07:34.01,0:07:34.05,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(464.33,135.22)}與你的第七天
+Dialogue: 0,0:07:34.05,0:07:34.10,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(464.53,135.39)}與你的第七天
+Dialogue: 0,0:07:34.10,0:07:34.14,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(464.77,135.57)}與你的第七天
+Dialogue: 0,0:07:34.14,0:07:34.18,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(465.03,135.75)}與你的第七天
+Dialogue: 0,0:07:34.18,0:07:34.22,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(465.22,135.92)}與你的第七天
+Dialogue: 0,0:07:34.22,0:07:34.26,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(465.42,136.11)}與你的第七天
+Dialogue: 0,0:07:34.26,0:07:34.30,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(465.64,136.37)}與你的第七天
+Dialogue: 0,0:07:34.30,0:07:34.35,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(465.87,136.63)}與你的第七天
+Dialogue: 0,0:07:34.35,0:07:34.39,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(466.05,136.83)}與你的第七天
+Dialogue: 0,0:07:34.39,0:07:34.43,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(466.23,137.1)}與你的第七天
+Dialogue: 0,0:07:34.43,0:07:34.47,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(466.41,137.38)}與你的第七天
+Dialogue: 0,0:07:34.47,0:07:34.51,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(466.59,137.63)}與你的第七天
+Dialogue: 0,0:07:34.51,0:07:34.55,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(466.75,137.92)}與你的第七天
+Dialogue: 0,0:07:34.55,0:07:34.60,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(466.88,138.23)}與你的第七天
+Dialogue: 0,0:07:34.60,0:07:34.64,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.02,138.47)}與你的第七天
+Dialogue: 0,0:07:34.64,0:07:34.68,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.15,138.72)}與你的第七天
+Dialogue: 0,0:07:34.68,0:07:34.72,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.26,139.02)}與你的第七天
+Dialogue: 0,0:07:34.72,0:07:34.76,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.4,139.27)}與你的第七天
+Dialogue: 0,0:07:34.76,0:07:34.80,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.48,139.51)}與你的第七天
+Dialogue: 0,0:07:34.80,0:07:34.85,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.57,139.77)}與你的第七天
+Dialogue: 0,0:07:34.85,0:07:34.89,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.66,140.02)}與你的第七天
+Dialogue: 0,0:07:34.89,0:07:34.93,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.7,140.21)}與你的第七天
+Dialogue: 0,0:07:34.93,0:07:34.97,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.76,140.41)}與你的第七天
+Dialogue: 0,0:07:34.97,0:07:35.01,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.81,140.63)}與你的第七天
+Dialogue: 0,0:07:35.01,0:07:35.05,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.86,140.82)}與你的第七天
+Dialogue: 0,0:07:35.05,0:07:35.10,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.89,140.99)}與你的第七天
+Dialogue: 0,0:07:35.10,0:07:35.14,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.9,141.13)}與你的第七天
+Dialogue: 0,0:07:35.14,0:07:35.18,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.91,141.26)}與你的第七天
+Dialogue: 0,0:07:35.18,0:07:35.22,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.92,141.4)}與你的第七天
+Dialogue: 0,0:07:35.22,0:07:35.26,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.91,141.51)}與你的第七天
+Dialogue: 0,0:07:35.26,0:07:35.31,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.91,141.59)}與你的第七天
+Dialogue: 0,0:07:35.31,0:07:35.35,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.89,141.67)}與你的第七天
+Dialogue: 0,0:07:35.35,0:07:35.39,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.88,141.73)}與你的第七天
+Dialogue: 0,0:07:35.39,0:07:35.43,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.85,141.74)}與你的第七天
+Dialogue: 0,0:07:35.43,0:07:35.47,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.82,141.75)}與你的第七天
+Dialogue: 0,0:07:35.47,0:07:35.51,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.77,141.75)}與你的第七天
+Dialogue: 0,0:07:35.51,0:07:35.56,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.74,141.74)}與你的第七天
+Dialogue: 0,0:07:35.56,0:07:35.60,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.67,141.71)}與你的第七天
+Dialogue: 0,0:07:35.60,0:07:35.64,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.6,141.67)}與你的第七天
+Dialogue: 0,0:07:35.64,0:07:35.68,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.52,141.57)}與你的第七天
+Dialogue: 0,0:07:35.68,0:07:35.72,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.44,141.46)}與你的第七天
+Dialogue: 0,0:07:35.72,0:07:35.76,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.34,141.35)}與你的第七天
+Dialogue: 0,0:07:35.76,0:07:35.81,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.25,141.21)}與你的第七天
+Dialogue: 0,0:07:35.81,0:07:35.85,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.15,141.06)}與你的第七天
+Dialogue: 0,0:07:35.85,0:07:35.89,Screen,,0,0,0,,{\3c&HE2CD79&\bord4\fsp30\pos(467.05,140.94)}與你的第七天
+Dialogue: 0,0:07:34.01,0:07:34.05,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(282.89,559.45)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.05,0:07:34.10,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(283.08,559.62)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.10,0:07:34.14,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(283.32,559.8)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.14,0:07:34.18,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(283.58,559.98)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.18,0:07:34.22,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(283.77,560.15)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.22,0:07:34.26,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(283.97,560.34)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.26,0:07:34.30,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(284.2,560.6)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.30,0:07:34.35,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(284.43,560.86)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.35,0:07:34.39,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(284.61,561.06)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.39,0:07:34.43,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(284.79,561.33)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.43,0:07:34.47,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(284.96,561.61)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.47,0:07:34.51,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.14,561.86)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.51,0:07:34.55,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.31,562.15)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.55,0:07:34.60,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.44,562.47)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.60,0:07:34.64,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.58,562.7)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.64,0:07:34.68,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.7,562.96)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.68,0:07:34.72,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.82,563.25)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.72,0:07:34.76,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.95,563.51)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.76,0:07:34.80,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.03,563.74)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.80,0:07:34.85,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.13,564)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.85,0:07:34.89,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.21,564.25)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.89,0:07:34.93,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.26,564.44)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.93,0:07:34.97,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.32,564.65)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.97,0:07:35.01,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.36,564.86)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.01,0:07:35.05,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.42,565.06)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.05,0:07:35.10,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.44,565.22)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.10,0:07:35.14,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.45,565.36)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.14,0:07:35.18,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.47,565.5)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.18,0:07:35.22,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.48,565.64)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.22,0:07:35.26,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.47,565.74)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.26,0:07:35.31,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.46,565.82)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.31,0:07:35.35,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.45,565.9)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.35,0:07:35.39,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.44,565.96)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.39,0:07:35.43,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.41,565.97)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.43,0:07:35.47,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.37,565.98)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.47,0:07:35.51,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.33,565.99)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.51,0:07:35.56,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.3,565.97)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.56,0:07:35.60,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.22,565.94)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.60,0:07:35.64,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.16,565.91)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.64,0:07:35.68,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(286.07,565.8)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.68,0:07:35.72,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.99,565.69)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.72,0:07:35.76,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.9,565.58)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.76,0:07:35.81,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.8,565.44)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.81,0:07:35.85,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.7,565.3)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:35.85,0:07:35.89,Screen,,0,0,0,,{\be20\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HB06CFC&\4c&HBB81FC&\bord1\yshad1\pos(285.61,565.17)}我到底是怎麼了\N好心動
+Dialogue: 0,0:07:34.01,0:07:34.05,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(621.11,400.9)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.05,0:07:34.10,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(621.3,401.06)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.10,0:07:34.14,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(621.54,401.24)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.14,0:07:34.18,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(621.8,401.42)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.18,0:07:34.22,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(621.99,401.59)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.22,0:07:34.26,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(622.19,401.79)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.26,0:07:34.30,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(622.42,402.04)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.30,0:07:34.35,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(622.65,402.3)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.35,0:07:34.39,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(622.83,402.5)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.39,0:07:34.43,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.01,402.77)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.43,0:07:34.47,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.18,403.05)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.47,0:07:34.51,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.36,403.3)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.51,0:07:34.55,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.53,403.59)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.55,0:07:34.60,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.66,403.91)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.60,0:07:34.64,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.8,404.15)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.64,0:07:34.68,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.92,404.4)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.68,0:07:34.72,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.04,404.7)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.72,0:07:34.76,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.17,404.95)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.76,0:07:34.80,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.25,405.18)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.80,0:07:34.85,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.35,405.44)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.85,0:07:34.89,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.43,405.69)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.89,0:07:34.93,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.48,405.89)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.93,0:07:34.97,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.54,406.09)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.97,0:07:35.01,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.58,406.3)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.01,0:07:35.05,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.64,406.5)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.05,0:07:35.10,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.66,406.66)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.10,0:07:35.14,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.67,406.8)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.14,0:07:35.18,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.69,406.94)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.18,0:07:35.22,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.7,407.08)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.22,0:07:35.26,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.69,407.18)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.26,0:07:35.31,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.68,407.26)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.31,0:07:35.35,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.67,407.34)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.35,0:07:35.39,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.66,407.4)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.39,0:07:35.43,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.63,407.41)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.43,0:07:35.47,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.59,407.42)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.47,0:07:35.51,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.55,407.43)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.51,0:07:35.56,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.51,407.41)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.56,0:07:35.60,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.44,407.39)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.60,0:07:35.64,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.38,407.35)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.64,0:07:35.68,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.29,407.24)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.68,0:07:35.72,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.21,407.14)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.72,0:07:35.76,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.12,407.02)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.76,0:07:35.81,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(624.02,406.88)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.81,0:07:35.85,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.92,406.74)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:35.85,0:07:35.89,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs30\3c&HFFFFFF&\bord3\fsp2\pos(623.82,406.61)}{\c&HFB7F95&}將未來{\c&HF7DC6B&}與{\c&HB76BFF&}過去{\c&HF7DC6B&}交織的故事
+Dialogue: 0,0:07:34.01,0:07:34.05,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1047.89,403)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.05,0:07:34.10,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1048.08,403.16)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.10,0:07:34.14,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1048.32,403.35)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.14,0:07:34.18,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1048.58,403.52)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.18,0:07:34.22,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1048.77,403.7)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.22,0:07:34.26,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1048.97,403.89)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.26,0:07:34.30,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1049.2,404.15)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.30,0:07:34.35,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1049.43,404.41)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.35,0:07:34.39,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1049.61,404.61)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.39,0:07:34.43,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1049.78,404.87)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.43,0:07:34.47,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1049.96,405.16)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.47,0:07:34.51,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.14,405.4)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.51,0:07:34.55,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.31,405.69)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.55,0:07:34.60,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.44,406.01)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.60,0:07:34.64,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.58,406.25)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.64,0:07:34.68,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.7,406.5)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.68,0:07:34.72,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.82,406.8)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.72,0:07:34.76,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.95,407.05)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.76,0:07:34.80,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.03,407.28)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.80,0:07:34.85,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.13,407.55)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.85,0:07:34.89,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.21,407.79)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.89,0:07:34.93,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.26,407.99)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.93,0:07:34.97,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.32,408.19)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:34.97,0:07:35.01,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.36,408.4)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.01,0:07:35.05,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.42,408.6)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.05,0:07:35.10,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.44,408.77)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.10,0:07:35.14,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.45,408.91)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.14,0:07:35.18,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.47,409.04)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.18,0:07:35.22,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.48,409.18)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.22,0:07:35.26,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.47,409.29)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.26,0:07:35.31,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.46,409.36)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.31,0:07:35.35,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.45,409.45)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.35,0:07:35.39,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.44,409.5)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.39,0:07:35.43,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.41,409.52)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.43,0:07:35.47,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.37,409.52)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.47,0:07:35.51,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.33,409.53)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.51,0:07:35.56,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.29,409.52)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.56,0:07:35.60,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.22,409.49)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.60,0:07:35.64,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.16,409.45)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.64,0:07:35.68,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1051.07,409.35)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.68,0:07:35.72,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.99,409.24)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.72,0:07:35.76,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.9,409.13)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.76,0:07:35.81,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.8,408.98)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.81,0:07:35.85,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.7,408.84)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:35.85,0:07:35.89,Screen,,0,0,0,,{\fn@FZLanTingYuan-B-GBK\frz-90\fs25\3c&HC88479&\bord3\pos(1050.6,408.72)}無論如何 我都會遵守和你的約定
+Dialogue: 0,0:07:36.51,0:07:36.56,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.89,401.89)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.56,0:07:36.60,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.93,401.62)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.60,0:07:36.64,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.06,401.41)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.64,0:07:36.68,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.22,401.21)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.68,0:07:36.72,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.4,400.99)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.72,0:07:36.76,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.61,400.78)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.76,0:07:36.81,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.93,400.58)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.81,0:07:36.85,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.24,400.46)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.85,0:07:36.89,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.56,400.36)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.89,0:07:36.93,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.87,400.25)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.93,0:07:36.97,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(363.24,400.18)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.97,0:07:37.02,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(363.56,400.11)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.02,0:07:37.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(363.85,400.05)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.06,0:07:37.10,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.17,399.98)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.10,0:07:37.14,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.43,399.92)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.14,0:07:37.18,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.65,399.87)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.18,0:07:37.22,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.84,399.79)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.22,0:07:37.27,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.99,399.77)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.27,0:07:37.31,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(365.06,399.71)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.31,0:07:37.35,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(365.13,399.66)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.35,0:07:37.39,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(365.16,399.6)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.39,0:07:37.43,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(365.13,399.54)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.43,0:07:37.47,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(365.09,399.49)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.47,0:07:37.52,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.94,399.46)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.52,0:07:37.56,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.76,399.4)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.56,0:07:37.60,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.56,399.36)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.60,0:07:37.64,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(364.29,399.33)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.64,0:07:37.68,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(363.94,399.29)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.68,0:07:37.72,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(363.54,399.27)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.72,0:07:37.77,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(363.16,399.25)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.77,0:07:37.81,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.73,399.25)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.81,0:07:37.85,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.2,399.25)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.85,0:07:37.89,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.82,399.24)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.89,0:07:37.93,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.37,399.25)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.93,0:07:37.97,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.75,399.26)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:37.97,0:07:38.02,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.17,399.25)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.02,0:07:38.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(359.74,399.27)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.06,0:07:38.10,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(359.11,399.31)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.10,0:07:38.14,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(358.54,399.35)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.14,0:07:38.18,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(357.94,399.41)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.18,0:07:38.22,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(357.35,399.45)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.22,0:07:38.27,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(356.75,399.54)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.27,0:07:38.31,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(356.2,399.61)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.31,0:07:38.35,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(355.67,399.69)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.35,0:07:38.39,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(355.1,399.78)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.39,0:07:38.43,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(354.55,399.87)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.43,0:07:38.47,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(354.12,399.95)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.47,0:07:38.52,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(353.66,400.07)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.52,0:07:38.56,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(353.2,400.18)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.56,0:07:38.60,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(352.8,400.31)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.60,0:07:38.64,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(352.42,400.45)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.64,0:07:38.68,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(352.1,400.58)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.68,0:07:38.73,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(351.82,400.7)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.73,0:07:38.77,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(351.62,400.83)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.77,0:07:38.81,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(351.38,400.96)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.81,0:07:38.85,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(351.16,401.1)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.85,0:07:38.89,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.97,401.27)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.89,0:07:38.93,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.81,401.43)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.93,0:07:38.98,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.66,401.57)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:38.98,0:07:39.02,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.53,401.71)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.02,0:07:39.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.39,401.85)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.06,0:07:39.10,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.3,402)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.10,0:07:39.14,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.22,402.16)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.14,0:07:39.18,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.15,402.29)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.18,0:07:39.23,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.09,402.43)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.23,0:07:39.27,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.09,402.55)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.27,0:07:39.31,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.1,402.69)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.31,0:07:39.35,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.12,402.81)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.35,0:07:39.39,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.18,402.9)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.39,0:07:39.43,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.26,403)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.43,0:07:39.48,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.34,403.09)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.48,0:07:39.52,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.52,403.11)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.52,0:07:39.56,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.7,403.13)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.56,0:07:39.60,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(350.88,403.14)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.60,0:07:39.64,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(351.12,403.12)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.64,0:07:39.68,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(351.38,403.08)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.68,0:07:39.73,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(351.68,403.01)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.73,0:07:39.77,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(352.01,402.92)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.77,0:07:39.81,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(352.35,402.81)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.81,0:07:39.85,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(352.68,402.68)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.85,0:07:39.89,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(353.05,402.58)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.89,0:07:39.93,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(353.43,402.42)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.93,0:07:39.98,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(353.83,402.25)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:39.98,0:07:40.02,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(354.23,402.06)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.02,0:07:40.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(354.64,401.86)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.06,0:07:40.10,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(355.06,401.67)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.10,0:07:40.14,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(355.48,401.49)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.14,0:07:40.19,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(355.89,401.26)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.19,0:07:40.23,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(356.3,401.04)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.23,0:07:40.27,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(356.72,400.83)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.27,0:07:40.31,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(357.13,400.64)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.31,0:07:40.35,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(357.54,400.43)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.35,0:07:40.39,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(357.92,400.2)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.39,0:07:40.44,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(358.33,399.99)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.44,0:07:40.48,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(358.69,399.81)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.48,0:07:40.52,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(359.08,399.6)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.52,0:07:40.56,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(359.41,399.41)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.56,0:07:40.60,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(359.75,399.23)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.60,0:07:40.64,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.09,399.06)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.64,0:07:40.69,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.38,398.9)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.69,0:07:40.73,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.7,398.75)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.73,0:07:40.77,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(360.96,398.61)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.77,0:07:40.81,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.16,398.48)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.81,0:07:40.85,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.4,398.38)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.85,0:07:40.89,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.67,398.24)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.89,0:07:40.94,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(361.89,398.14)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.94,0:07:40.98,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.05,398.05)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:40.98,0:07:41.02,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.21,398)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:41.02,0:07:41.06,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.37,397.94)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:41.06,0:07:41.10,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.5,397.91)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:41.10,0:07:41.14,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.61,397.9)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:41.14,0:07:41.19,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.68,397.88)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:41.19,0:07:41.27,Screen,,0,0,0,,{\fnFZLanTingHei-DB1-GBK\fs23\c&H061053&\pos(362.74,397.88)}Jelly Beans與Caramel Melon導演的作品
+Dialogue: 0,0:07:36.51,0:07:36.56,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.11,471.22)}Almond Schazganeyer
+Dialogue: 0,0:07:36.56,0:07:36.60,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.15,470.95)}Almond Schazganeyer
+Dialogue: 0,0:07:36.60,0:07:36.64,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.28,470.74)}Almond Schazganeyer
+Dialogue: 0,0:07:36.64,0:07:36.68,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.45,470.54)}Almond Schazganeyer
+Dialogue: 0,0:07:36.68,0:07:36.72,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.63,470.33)}Almond Schazganeyer
+Dialogue: 0,0:07:36.72,0:07:36.76,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.83,470.11)}Almond Schazganeyer
+Dialogue: 0,0:07:36.76,0:07:36.81,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.15,469.91)}Almond Schazganeyer
+Dialogue: 0,0:07:36.81,0:07:36.85,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.46,469.8)}Almond Schazganeyer
+Dialogue: 0,0:07:36.85,0:07:36.89,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.78,469.69)}Almond Schazganeyer
+Dialogue: 0,0:07:36.89,0:07:36.93,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(913.09,469.59)}Almond Schazganeyer
+Dialogue: 0,0:07:36.93,0:07:36.97,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(913.46,469.52)}Almond Schazganeyer
+Dialogue: 0,0:07:36.97,0:07:37.02,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(913.79,469.45)}Almond Schazganeyer
+Dialogue: 0,0:07:37.02,0:07:37.06,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.07,469.38)}Almond Schazganeyer
+Dialogue: 0,0:07:37.06,0:07:37.10,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.4,469.32)}Almond Schazganeyer
+Dialogue: 0,0:07:37.10,0:07:37.14,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.66,469.26)}Almond Schazganeyer
+Dialogue: 0,0:07:37.14,0:07:37.18,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.88,469.2)}Almond Schazganeyer
+Dialogue: 0,0:07:37.18,0:07:37.22,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.06,469.12)}Almond Schazganeyer
+Dialogue: 0,0:07:37.22,0:07:37.27,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.21,469.1)}Almond Schazganeyer
+Dialogue: 0,0:07:37.27,0:07:37.31,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.28,469.05)}Almond Schazganeyer
+Dialogue: 0,0:07:37.31,0:07:37.35,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.36,469)}Almond Schazganeyer
+Dialogue: 0,0:07:37.35,0:07:37.39,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.38,468.94)}Almond Schazganeyer
+Dialogue: 0,0:07:37.39,0:07:37.43,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.35,468.88)}Almond Schazganeyer
+Dialogue: 0,0:07:37.43,0:07:37.47,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.31,468.83)}Almond Schazganeyer
+Dialogue: 0,0:07:37.47,0:07:37.52,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(915.16,468.79)}Almond Schazganeyer
+Dialogue: 0,0:07:37.52,0:07:37.56,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.98,468.73)}Almond Schazganeyer
+Dialogue: 0,0:07:37.56,0:07:37.60,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.78,468.69)}Almond Schazganeyer
+Dialogue: 0,0:07:37.60,0:07:37.64,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.51,468.66)}Almond Schazganeyer
+Dialogue: 0,0:07:37.64,0:07:37.68,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(914.16,468.62)}Almond Schazganeyer
+Dialogue: 0,0:07:37.68,0:07:37.72,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(913.77,468.61)}Almond Schazganeyer
+Dialogue: 0,0:07:37.72,0:07:37.77,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(913.38,468.59)}Almond Schazganeyer
+Dialogue: 0,0:07:37.77,0:07:37.81,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.95,468.59)}Almond Schazganeyer
+Dialogue: 0,0:07:37.81,0:07:37.85,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.42,468.59)}Almond Schazganeyer
+Dialogue: 0,0:07:37.85,0:07:37.89,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.04,468.57)}Almond Schazganeyer
+Dialogue: 0,0:07:37.89,0:07:37.93,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.59,468.58)}Almond Schazganeyer
+Dialogue: 0,0:07:37.93,0:07:37.97,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(910.97,468.59)}Almond Schazganeyer
+Dialogue: 0,0:07:37.97,0:07:38.02,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(910.39,468.58)}Almond Schazganeyer
+Dialogue: 0,0:07:38.02,0:07:38.06,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(909.96,468.61)}Almond Schazganeyer
+Dialogue: 0,0:07:38.06,0:07:38.10,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(909.33,468.64)}Almond Schazganeyer
+Dialogue: 0,0:07:38.10,0:07:38.14,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(908.76,468.69)}Almond Schazganeyer
+Dialogue: 0,0:07:38.14,0:07:38.18,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(908.16,468.75)}Almond Schazganeyer
+Dialogue: 0,0:07:38.18,0:07:38.22,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(907.57,468.78)}Almond Schazganeyer
+Dialogue: 0,0:07:38.22,0:07:38.27,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(906.97,468.87)}Almond Schazganeyer
+Dialogue: 0,0:07:38.27,0:07:38.31,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(906.42,468.94)}Almond Schazganeyer
+Dialogue: 0,0:07:38.31,0:07:38.35,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(905.89,469.03)}Almond Schazganeyer
+Dialogue: 0,0:07:38.35,0:07:38.39,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(905.33,469.11)}Almond Schazganeyer
+Dialogue: 0,0:07:38.39,0:07:38.43,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(904.78,469.2)}Almond Schazganeyer
+Dialogue: 0,0:07:38.43,0:07:38.47,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(904.34,469.29)}Almond Schazganeyer
+Dialogue: 0,0:07:38.47,0:07:38.52,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(903.89,469.41)}Almond Schazganeyer
+Dialogue: 0,0:07:38.52,0:07:38.56,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(903.42,469.52)}Almond Schazganeyer
+Dialogue: 0,0:07:38.56,0:07:38.60,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(903.02,469.65)}Almond Schazganeyer
+Dialogue: 0,0:07:38.60,0:07:38.64,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(902.65,469.79)}Almond Schazganeyer
+Dialogue: 0,0:07:38.64,0:07:38.68,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(902.33,469.91)}Almond Schazganeyer
+Dialogue: 0,0:07:38.68,0:07:38.73,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(902.05,470.03)}Almond Schazganeyer
+Dialogue: 0,0:07:38.73,0:07:38.77,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.84,470.16)}Almond Schazganeyer
+Dialogue: 0,0:07:38.77,0:07:38.81,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.6,470.29)}Almond Schazganeyer
+Dialogue: 0,0:07:38.81,0:07:38.85,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.38,470.44)}Almond Schazganeyer
+Dialogue: 0,0:07:38.85,0:07:38.89,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.2,470.6)}Almond Schazganeyer
+Dialogue: 0,0:07:38.89,0:07:38.93,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.03,470.76)}Almond Schazganeyer
+Dialogue: 0,0:07:38.93,0:07:38.98,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.88,470.91)}Almond Schazganeyer
+Dialogue: 0,0:07:38.98,0:07:39.02,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.75,471.04)}Almond Schazganeyer
+Dialogue: 0,0:07:39.02,0:07:39.06,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.62,471.19)}Almond Schazganeyer
+Dialogue: 0,0:07:39.06,0:07:39.10,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.52,471.34)}Almond Schazganeyer
+Dialogue: 0,0:07:39.10,0:07:39.14,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.44,471.5)}Almond Schazganeyer
+Dialogue: 0,0:07:39.14,0:07:39.18,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.37,471.63)}Almond Schazganeyer
+Dialogue: 0,0:07:39.18,0:07:39.23,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.31,471.76)}Almond Schazganeyer
+Dialogue: 0,0:07:39.23,0:07:39.27,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.31,471.89)}Almond Schazganeyer
+Dialogue: 0,0:07:39.27,0:07:39.31,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.32,472.03)}Almond Schazganeyer
+Dialogue: 0,0:07:39.31,0:07:39.35,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.34,472.14)}Almond Schazganeyer
+Dialogue: 0,0:07:39.35,0:07:39.39,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.4,472.24)}Almond Schazganeyer
+Dialogue: 0,0:07:39.39,0:07:39.43,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.49,472.33)}Almond Schazganeyer
+Dialogue: 0,0:07:39.43,0:07:39.48,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.57,472.43)}Almond Schazganeyer
+Dialogue: 0,0:07:39.48,0:07:39.52,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.74,472.44)}Almond Schazganeyer
+Dialogue: 0,0:07:39.52,0:07:39.56,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(900.92,472.47)}Almond Schazganeyer
+Dialogue: 0,0:07:39.56,0:07:39.60,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.1,472.48)}Almond Schazganeyer
+Dialogue: 0,0:07:39.60,0:07:39.64,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.34,472.45)}Almond Schazganeyer
+Dialogue: 0,0:07:39.64,0:07:39.68,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.61,472.42)}Almond Schazganeyer
+Dialogue: 0,0:07:39.68,0:07:39.73,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(901.9,472.34)}Almond Schazganeyer
+Dialogue: 0,0:07:39.73,0:07:39.77,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(902.23,472.25)}Almond Schazganeyer
+Dialogue: 0,0:07:39.77,0:07:39.81,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(902.57,472.14)}Almond Schazganeyer
+Dialogue: 0,0:07:39.81,0:07:39.85,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(902.9,472.02)}Almond Schazganeyer
+Dialogue: 0,0:07:39.85,0:07:39.89,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(903.27,471.92)}Almond Schazganeyer
+Dialogue: 0,0:07:39.89,0:07:39.93,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(903.65,471.75)}Almond Schazganeyer
+Dialogue: 0,0:07:39.93,0:07:39.98,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(904.05,471.59)}Almond Schazganeyer
+Dialogue: 0,0:07:39.98,0:07:40.02,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(904.45,471.39)}Almond Schazganeyer
+Dialogue: 0,0:07:40.02,0:07:40.06,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(904.86,471.19)}Almond Schazganeyer
+Dialogue: 0,0:07:40.06,0:07:40.10,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(905.28,471)}Almond Schazganeyer
+Dialogue: 0,0:07:40.10,0:07:40.14,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(905.7,470.82)}Almond Schazganeyer
+Dialogue: 0,0:07:40.14,0:07:40.19,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(906.12,470.6)}Almond Schazganeyer
+Dialogue: 0,0:07:40.19,0:07:40.23,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(906.52,470.38)}Almond Schazganeyer
+Dialogue: 0,0:07:40.23,0:07:40.27,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(906.95,470.17)}Almond Schazganeyer
+Dialogue: 0,0:07:40.27,0:07:40.31,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(907.35,469.98)}Almond Schazganeyer
+Dialogue: 0,0:07:40.31,0:07:40.35,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(907.76,469.76)}Almond Schazganeyer
+Dialogue: 0,0:07:40.35,0:07:40.39,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(908.14,469.54)}Almond Schazganeyer
+Dialogue: 0,0:07:40.39,0:07:40.44,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(908.56,469.33)}Almond Schazganeyer
+Dialogue: 0,0:07:40.44,0:07:40.48,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(908.91,469.14)}Almond Schazganeyer
+Dialogue: 0,0:07:40.48,0:07:40.52,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(909.3,468.94)}Almond Schazganeyer
+Dialogue: 0,0:07:40.52,0:07:40.56,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(909.63,468.75)}Almond Schazganeyer
+Dialogue: 0,0:07:40.56,0:07:40.60,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(909.97,468.57)}Almond Schazganeyer
+Dialogue: 0,0:07:40.60,0:07:40.64,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(910.32,468.39)}Almond Schazganeyer
+Dialogue: 0,0:07:40.64,0:07:40.69,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(910.6,468.23)}Almond Schazganeyer
+Dialogue: 0,0:07:40.69,0:07:40.73,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(910.92,468.08)}Almond Schazganeyer
+Dialogue: 0,0:07:40.73,0:07:40.77,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.18,467.94)}Almond Schazganeyer
+Dialogue: 0,0:07:40.77,0:07:40.81,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.38,467.81)}Almond Schazganeyer
+Dialogue: 0,0:07:40.81,0:07:40.85,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.62,467.72)}Almond Schazganeyer
+Dialogue: 0,0:07:40.85,0:07:40.89,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(911.9,467.58)}Almond Schazganeyer
+Dialogue: 0,0:07:40.89,0:07:40.94,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.11,467.48)}Almond Schazganeyer
+Dialogue: 0,0:07:40.94,0:07:40.98,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.27,467.39)}Almond Schazganeyer
+Dialogue: 0,0:07:40.98,0:07:41.02,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.43,467.33)}Almond Schazganeyer
+Dialogue: 0,0:07:41.02,0:07:41.06,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.6,467.27)}Almond Schazganeyer
+Dialogue: 0,0:07:41.06,0:07:41.10,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.72,467.25)}Almond Schazganeyer
+Dialogue: 0,0:07:41.10,0:07:41.14,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.83,467.23)}Almond Schazganeyer
+Dialogue: 0,0:07:41.14,0:07:41.19,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.9,467.22)}Almond Schazganeyer
+Dialogue: 0,0:07:41.19,0:07:41.23,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.96,467.21)}Almond Schazganeyer
+Dialogue: 0,0:07:41.23,0:07:41.27,Screen,,0,0,0,,{\fs30\c&H181DDF&\3c&H0F2378&\4c&H041957&\bord2\xshad-1\yshad2\pos(912.96,467.22)}Almond Schazganeyer
+Dialogue: 0,0:07:36.51,0:07:36.56,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912,567.22)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.56,0:07:36.60,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.04,566.95)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.60,0:07:36.64,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.17,566.74)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.64,0:07:36.68,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.34,566.54)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.68,0:07:36.72,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.52,566.32)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.72,0:07:36.76,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.72,566.11)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.76,0:07:36.81,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.04,565.91)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.81,0:07:36.85,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.35,565.79)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.85,0:07:36.89,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.67,565.69)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.89,0:07:36.93,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.98,565.59)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.93,0:07:36.97,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(914.35,565.52)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:36.97,0:07:37.02,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(914.68,565.44)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.02,0:07:37.06,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(914.96,565.38)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.06,0:07:37.10,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.29,565.32)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.10,0:07:37.14,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.55,565.25)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.14,0:07:37.18,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.77,565.2)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.18,0:07:37.22,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.95,565.12)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.22,0:07:37.27,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(916.1,565.1)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.27,0:07:37.31,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(916.17,565.05)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.31,0:07:37.35,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(916.25,564.99)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.35,0:07:37.39,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(916.27,564.93)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.39,0:07:37.43,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(916.24,564.88)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.43,0:07:37.47,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(916.2,564.83)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.47,0:07:37.52,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(916.05,564.79)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.52,0:07:37.56,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.87,564.73)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.56,0:07:37.60,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.67,564.69)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.60,0:07:37.64,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.4,564.66)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.64,0:07:37.68,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(915.05,564.62)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.68,0:07:37.72,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(914.66,564.61)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.72,0:07:37.77,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(914.27,564.59)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.77,0:07:37.81,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.84,564.59)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.81,0:07:37.85,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.31,564.58)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.85,0:07:37.89,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.93,564.57)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.89,0:07:37.93,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.48,564.58)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.93,0:07:37.97,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(911.86,564.59)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:37.97,0:07:38.02,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(911.28,564.58)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.02,0:07:38.06,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(910.85,564.61)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.06,0:07:38.10,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(910.22,564.64)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.10,0:07:38.14,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(909.65,564.69)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.14,0:07:38.18,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(909.05,564.74)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.18,0:07:38.22,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(908.46,564.78)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.22,0:07:38.27,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(907.86,564.87)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.27,0:07:38.31,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(907.31,564.94)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.31,0:07:38.35,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(906.78,565.03)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.35,0:07:38.39,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(906.22,565.11)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.39,0:07:38.43,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(905.67,565.2)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.43,0:07:38.47,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(905.23,565.29)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.47,0:07:38.52,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(904.78,565.4)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.52,0:07:38.56,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(904.31,565.52)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.56,0:07:38.60,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(903.91,565.65)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.60,0:07:38.64,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(903.54,565.78)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.64,0:07:38.68,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(903.22,565.91)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.68,0:07:38.73,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.94,566.03)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.73,0:07:38.77,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.73,566.16)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.77,0:07:38.81,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.49,566.29)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.81,0:07:38.85,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.27,566.44)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.85,0:07:38.89,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.09,566.6)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.89,0:07:38.93,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.92,566.76)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.93,0:07:38.98,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.77,566.91)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:38.98,0:07:39.02,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.64,567.04)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.02,0:07:39.06,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.51,567.18)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.06,0:07:39.10,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.41,567.34)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.10,0:07:39.14,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.33,567.49)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.14,0:07:39.18,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.26,567.63)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.18,0:07:39.23,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.2,567.76)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.23,0:07:39.27,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.2,567.88)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.27,0:07:39.31,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.21,568.03)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.31,0:07:39.35,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.23,568.14)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.35,0:07:39.39,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.29,568.23)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.39,0:07:39.43,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.38,568.33)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.43,0:07:39.48,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.46,568.42)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.48,0:07:39.52,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.63,568.44)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.52,0:07:39.56,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.81,568.46)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.56,0:07:39.60,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(901.99,568.47)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.60,0:07:39.64,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.23,568.45)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.64,0:07:39.68,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.5,568.41)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.68,0:07:39.73,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(902.79,568.34)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.73,0:07:39.77,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(903.12,568.25)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.77,0:07:39.81,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(903.46,568.14)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.81,0:07:39.85,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(903.79,568.02)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.85,0:07:39.89,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(904.16,567.91)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.89,0:07:39.93,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(904.54,567.75)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.93,0:07:39.98,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(904.94,567.59)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:39.98,0:07:40.02,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(905.34,567.39)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.02,0:07:40.06,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(905.75,567.19)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.06,0:07:40.10,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(906.17,567)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.10,0:07:40.14,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(906.59,566.82)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.14,0:07:40.19,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(907.01,566.6)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.19,0:07:40.23,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(907.41,566.38)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.23,0:07:40.27,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(907.84,566.17)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.27,0:07:40.31,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(908.24,565.98)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.31,0:07:40.35,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(908.65,565.76)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.35,0:07:40.39,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(909.03,565.54)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.39,0:07:40.44,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(909.45,565.33)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.44,0:07:40.48,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(909.8,565.14)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.48,0:07:40.52,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(910.19,564.94)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.52,0:07:40.56,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(910.52,564.74)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.56,0:07:40.60,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(910.86,564.56)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.60,0:07:40.64,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(911.21,564.39)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.64,0:07:40.69,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(911.49,564.23)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.69,0:07:40.73,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(911.81,564.08)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.73,0:07:40.77,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.07,563.94)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.77,0:07:40.81,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.27,563.81)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.81,0:07:40.85,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.51,563.71)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.85,0:07:40.89,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(912.79,563.57)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.89,0:07:40.94,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913,563.47)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.94,0:07:40.98,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.16,563.39)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:40.98,0:07:41.02,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.32,563.33)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:41.02,0:07:41.06,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.49,563.27)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:41.06,0:07:41.10,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.61,563.25)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:41.10,0:07:41.14,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.72,563.23)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:41.14,0:07:41.19,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.79,563.22)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:41.19,0:07:41.23,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.85,563.21)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:07:41.23,0:07:41.27,Screen,,0,0,0,,{\fs30\3c&H0913C7&\bord2\pos(913.85,563.22)\c&HB0BDCD&}JEANS OF SOUL
+Dialogue: 0,0:08:33.74,0:08:35.95,Screen,,0,0,0,,{\fscy100\t(24,2193,\fscy109.63)\fscx100\t(24,2193,\fscx109.63)\fn@HYXuanSong 85S\frz-90\c&HD7EAF5&\move(224.97,257.37,185.04,251.95,24,2193)\}當我打開門 看到一個{\c&H0118FF&}『小丑』{\c&HD7EAF5&}在笑
+Dialogue: 0,0:08:33.74,0:08:35.95,Screen,,0,0,0,,{\fscy100\t(24,2193,\fscy109.63)\fscx100\t(24,2193,\fscx109.63)\fn@FZSongHei-B07\frz-90\c&HD7EAF5&\move(1175.57,67.63,1227.2,43.93,24,2193)}日本首映式
+Dialogue: 1,0:08:47.29,0:08:47.71,Screen,,0,0,0,,{\blur5\fs24\c&H171717&\3c&HF2F3F0&\bord2}喜歡恐怖片的人\N完成度太高了…\N小心精神創傷\N今年看過的電影裡最恐怖的\N只能說是最棒的傑作\N喜歡恐怖片的人強烈推薦
+Dialogue: 0,0:08:49.71,0:08:53.72,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz5.187\fs24\c&H4E5962&\move(402.555,62.999,402.692,11.484,28,3990)}小心精神創傷
+Dialogue: 0,0:08:49.71,0:08:53.72,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz5.187\fs24\c&H4E5962&\move(408.779,113.667,407.001,64.778,28,3990)}今年看過的電影裡最恐怖的
+Dialogue: 0,0:08:49.71,0:08:53.72,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz5.187\fs24\c&H4E5962&\move(412.128,167,412.333,114.556,28,3990)}只能說是最棒的傑作
+Dialogue: 0,0:08:49.71,0:08:53.72,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz5.187\fs24\c&H4E5962&\move(416.972,216.249,416.778,166.999,28,3990)}喜歡恐怖片的人強烈推薦
+Dialogue: 0,0:12:19.63,0:12:22.34,Screen,,0,0,0,,{\fs30\c&H849CB1&\3c&HFFFFFF&\bord2\move(930,671,930,582.625,23,3986)}胡桃和蛋奶醬汁奶油焦糖
+Dialogue: 0,0:23:15.91,0:23:15.95,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(282.31,197.19)}許子阿姨
+Dialogue: 0,0:23:15.95,0:23:16.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(280.22,194.22)}許子阿姨
+Dialogue: 0,0:23:16.00,0:23:16.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(278.16,191.26)}許子阿姨
+Dialogue: 0,0:23:16.04,0:23:16.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(276.08,188.3)}許子阿姨
+Dialogue: 0,0:23:16.08,0:23:16.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(274,185.34)}許子阿姨
+Dialogue: 0,0:23:16.12,0:23:16.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(271.93,182.37)}許子阿姨
+Dialogue: 0,0:23:16.16,0:23:16.20,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(269.85,179.41)}許子阿姨
+Dialogue: 0,0:23:16.20,0:23:16.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(267.77,176.44)}許子阿姨
+Dialogue: 0,0:23:16.25,0:23:16.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(265.7,173.48)}許子阿姨
+Dialogue: 0,0:23:16.29,0:23:16.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(263.64,170.52)}許子阿姨
+Dialogue: 0,0:23:16.33,0:23:16.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(261.55,167.56)}許子阿姨
+Dialogue: 0,0:23:16.37,0:23:16.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(259.49,164.62)}許子阿姨
+Dialogue: 0,0:23:16.41,0:23:16.45,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(257.43,161.66)}許子阿姨
+Dialogue: 0,0:23:16.45,0:23:16.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(255.38,158.72)}許子阿姨
+Dialogue: 0,0:23:16.50,0:23:16.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(253.31,155.78)}許子阿姨
+Dialogue: 0,0:23:16.54,0:23:16.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(251.26,152.82)}許子阿姨
+Dialogue: 0,0:23:16.58,0:23:16.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(249.19,149.91)}許子阿姨
+Dialogue: 0,0:23:16.62,0:23:16.66,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(247.15,146.98)}許子阿姨
+Dialogue: 0,0:23:16.66,0:23:16.70,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(245.09,144.05)}許子阿姨
+Dialogue: 0,0:23:16.70,0:23:16.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(243.07,141.15)}許子阿姨
+Dialogue: 0,0:23:16.75,0:23:16.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(241.03,138.23)}許子阿姨
+Dialogue: 0,0:23:16.79,0:23:16.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(238.98,135.32)}許子阿姨
+Dialogue: 0,0:23:16.83,0:23:16.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(236.95,132.42)}許子阿姨
+Dialogue: 0,0:23:16.87,0:23:16.91,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(234.92,129.52)}許子阿姨
+Dialogue: 0,0:23:16.91,0:23:16.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(232.9,126.64)}許子阿姨
+Dialogue: 0,0:23:16.96,0:23:17.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(230.87,123.76)}許子阿姨
+Dialogue: 0,0:23:17.00,0:23:17.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(228.87,120.88)}許子阿姨
+Dialogue: 0,0:23:17.04,0:23:17.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(226.85,118)}許子阿姨
+Dialogue: 0,0:23:17.08,0:23:17.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(224.85,115.15)}許子阿姨
+Dialogue: 0,0:23:17.12,0:23:17.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(222.85,112.3)}許子阿姨
+Dialogue: 0,0:23:17.16,0:23:17.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(220.86,109.46)}許子阿姨
+Dialogue: 0,0:23:17.21,0:23:17.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(218.87,106.62)}許子阿姨
+Dialogue: 0,0:23:17.25,0:23:17.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(216.89,103.77)}許子阿姨
+Dialogue: 0,0:23:17.29,0:23:17.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(214.9,100.94)}許子阿姨
+Dialogue: 0,0:23:17.33,0:23:17.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(212.91,98.12)}許子阿姨
+Dialogue: 0,0:23:17.37,0:23:17.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(210.96,95.31)}許子阿姨
+Dialogue: 0,0:23:17.41,0:23:17.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(208.99,92.49)}許子阿姨
+Dialogue: 0,0:23:17.46,0:23:17.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(207.03,89.71)}許子阿姨
+Dialogue: 0,0:23:17.50,0:23:17.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(205.08,86.92)}許子阿姨
+Dialogue: 0,0:23:17.54,0:23:17.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(203.13,84.14)}許子阿姨
+Dialogue: 0,0:23:17.58,0:23:17.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(201.19,81.36)}許子阿姨
+Dialogue: 0,0:23:17.62,0:23:17.66,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(199.25,78.6)}許子阿姨
+Dialogue: 0,0:23:17.66,0:23:17.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(197.33,75.84)}許子阿姨
+Dialogue: 0,0:23:17.71,0:23:17.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(195.41,73.1)}許子阿姨
+Dialogue: 0,0:23:17.75,0:23:17.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(193.49,70.37)}許子阿姨
+Dialogue: 0,0:23:17.79,0:23:17.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(191.57,67.64)}許子阿姨
+Dialogue: 0,0:23:17.83,0:23:17.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(189.67,64.92)}許子阿姨
+Dialogue: 0,0:23:17.87,0:23:17.91,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(187.77,62.2)}許子阿姨
+Dialogue: 0,0:23:17.91,0:23:17.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(185.88,59.52)}許子阿姨
+Dialogue: 0,0:23:17.96,0:23:18.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(183.98,56.83)}許子阿姨
+Dialogue: 0,0:23:18.00,0:23:18.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(182.11,54.14)}許子阿姨
+Dialogue: 0,0:23:18.04,0:23:18.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(180.25,51.48)}許子阿姨
+Dialogue: 0,0:23:18.08,0:23:18.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(178.39,48.82)}許子阿姨
+Dialogue: 0,0:23:18.12,0:23:18.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(176.53,46.17)}許子阿姨
+Dialogue: 0,0:23:18.16,0:23:18.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(174.68,43.53)}許子阿姨
+Dialogue: 0,0:23:18.21,0:23:18.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(172.83,40.9)}許子阿姨
+Dialogue: 0,0:23:18.25,0:23:18.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(171.01,38.28)}許子阿姨
+Dialogue: 0,0:23:18.29,0:23:18.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(169.19,35.69)}許子阿姨
+Dialogue: 0,0:23:18.33,0:23:18.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(167.35,33.08)}許子阿姨
+Dialogue: 0,0:23:18.37,0:23:18.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(165.55,30.5)}許子阿姨
+Dialogue: 0,0:23:18.41,0:23:18.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(163.74,27.93)}許子阿姨
+Dialogue: 0,0:23:18.46,0:23:18.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(161.95,25.36)}許子阿姨
+Dialogue: 0,0:23:18.50,0:23:18.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(160.19,22.81)}許子阿姨
+Dialogue: 0,0:23:18.54,0:23:18.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(158.39,20.28)}許子阿姨
+Dialogue: 0,0:23:18.58,0:23:18.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(156.6,17.76)}許子阿姨
+Dialogue: 0,0:23:18.62,0:23:18.67,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(154.87,15.26)}許子阿姨
+Dialogue: 0,0:23:18.67,0:23:18.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(153.1,12.75)}許子阿姨
+Dialogue: 0,0:23:18.71,0:23:18.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(151.37,10.26)}許子阿姨
+Dialogue: 0,0:23:18.75,0:23:18.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(149.64,7.79)}許子阿姨
+Dialogue: 0,0:23:18.79,0:23:18.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(147.9,5.32)}許子阿姨
+Dialogue: 0,0:23:18.83,0:23:18.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(146.2,2.89)}許子阿姨
+Dialogue: 0,0:23:18.87,0:23:18.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(144.49,0.46)}許子阿姨
+Dialogue: 0,0:23:18.92,0:23:18.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(142.82,-1.96)}許子阿姨
+Dialogue: 0,0:23:18.96,0:23:19.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(141.13,-4.36)}許子阿姨
+Dialogue: 0,0:23:19.00,0:23:19.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(139.46,-6.74)}許子阿姨
+Dialogue: 0,0:23:19.04,0:23:19.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(137.8,-9.13)}許子阿姨
+Dialogue: 0,0:23:19.08,0:23:19.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(136.13,-11.48)}許子阿姨
+Dialogue: 0,0:23:19.12,0:23:19.17,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(134.49,-13.82)}許子阿姨
+Dialogue: 0,0:23:19.17,0:23:19.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(132.88,-16.13)}許子阿姨
+Dialogue: 0,0:23:19.21,0:23:19.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(131.27,-18.45)}許子阿姨
+Dialogue: 0,0:23:19.25,0:23:19.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz19.56\fs30\fax0.1\pos(129.65,-20.74)}許子阿姨
+Dialogue: 0,0:23:15.91,0:23:15.95,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(419.3,603.54)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:15.95,0:23:16.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(417.21,600.58)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.00,0:23:16.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(415.15,597.62)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.04,0:23:16.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(413.07,594.66)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.08,0:23:16.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(410.99,591.69)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.12,0:23:16.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(408.92,588.72)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.16,0:23:16.20,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(406.84,585.76)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.20,0:23:16.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(404.76,582.8)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.25,0:23:16.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(402.69,579.83)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.29,0:23:16.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(400.63,576.88)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.33,0:23:16.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(398.54,573.92)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.37,0:23:16.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(396.48,570.97)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.41,0:23:16.45,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(394.42,568.02)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.45,0:23:16.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(392.37,565.08)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.50,0:23:16.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(390.3,562.14)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.54,0:23:16.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(388.25,559.18)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.58,0:23:16.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(386.18,556.26)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.62,0:23:16.66,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(384.14,553.33)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.66,0:23:16.70,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(382.08,550.4)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.70,0:23:16.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(380.06,547.5)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.75,0:23:16.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(378.02,544.58)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.79,0:23:16.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(375.97,541.67)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.83,0:23:16.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(373.94,538.78)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.87,0:23:16.91,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(371.91,535.88)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.91,0:23:16.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(369.89,532.99)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:16.96,0:23:17.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(367.86,530.11)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.00,0:23:17.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(365.86,527.23)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.04,0:23:17.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(363.84,524.36)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.08,0:23:17.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(361.84,521.5)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.12,0:23:17.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(359.84,518.65)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.16,0:23:17.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(357.85,515.81)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.21,0:23:17.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(355.86,512.97)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.25,0:23:17.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(353.88,510.12)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.29,0:23:17.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(351.89,507.3)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.33,0:23:17.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(349.9,504.47)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.37,0:23:17.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(347.95,501.66)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.41,0:23:17.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(345.98,498.84)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.46,0:23:17.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(344.02,496.06)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.50,0:23:17.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(342.07,493.28)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.54,0:23:17.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(340.12,490.5)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.58,0:23:17.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(338.18,487.72)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.62,0:23:17.66,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(336.24,484.95)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.66,0:23:17.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(334.32,482.2)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.71,0:23:17.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(332.4,479.46)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.75,0:23:17.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(330.48,476.72)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.79,0:23:17.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(328.56,473.99)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.83,0:23:17.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(326.66,471.28)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.87,0:23:17.91,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(324.76,468.56)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.91,0:23:17.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(322.87,465.87)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.96,0:23:18.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(320.97,463.18)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.00,0:23:18.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(319.1,460.49)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.04,0:23:18.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(317.24,457.83)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.08,0:23:18.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(315.38,455.17)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.12,0:23:18.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(313.52,452.52)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.16,0:23:18.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(311.67,449.88)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.21,0:23:18.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(309.82,447.26)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.25,0:23:18.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(308,444.63)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.29,0:23:18.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(306.18,442.04)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.33,0:23:18.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(304.34,439.44)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.37,0:23:18.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(302.54,436.85)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.41,0:23:18.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(300.73,434.28)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.46,0:23:18.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(298.94,431.72)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.50,0:23:18.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(297.18,429.16)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.54,0:23:18.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(295.38,426.63)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.58,0:23:18.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(293.59,424.11)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.62,0:23:18.67,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(291.86,421.61)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.67,0:23:18.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(290.09,419.1)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.71,0:23:18.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(288.36,416.61)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.75,0:23:18.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(286.63,414.14)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.79,0:23:18.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(284.89,411.68)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.83,0:23:18.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(283.19,409.24)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.87,0:23:18.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(281.48,406.81)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.92,0:23:18.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(279.81,404.39)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:18.96,0:23:19.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(278.12,401.99)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.00,0:23:19.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(276.45,399.61)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.04,0:23:19.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(274.79,397.22)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.08,0:23:19.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(273.12,394.88)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.12,0:23:19.17,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(271.48,392.54)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.17,0:23:19.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(269.87,390.22)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.21,0:23:19.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(268.26,387.9)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.25,0:23:19.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(266.64,385.61)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.29,0:23:19.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(265.07,383.35)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.33,0:23:19.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(263.45,381.08)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.37,0:23:19.42,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(261.91,378.85)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.42,0:23:19.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(260.36,376.63)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.46,0:23:19.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(258.8,374.43)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.50,0:23:19.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(257.28,372.24)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.54,0:23:19.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(255.76,370.1)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.58,0:23:19.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(254.27,367.94)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.62,0:23:19.67,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(252.77,365.81)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.67,0:23:19.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(251.29,363.73)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.71,0:23:19.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(249.86,361.64)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.75,0:23:19.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(248.41,359.59)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.79,0:23:19.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(246.97,357.56)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.83,0:23:19.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(245.58,355.55)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.87,0:23:19.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(244.2,353.56)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.92,0:23:19.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(242.81,351.59)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:19.96,0:23:20.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(241.47,349.64)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.00,0:23:20.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(240.12,347.74)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.04,0:23:20.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(238.81,345.86)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.08,0:23:20.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(237.5,344.01)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.12,0:23:20.17,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(236.2,342.18)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.17,0:23:20.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(234.98,340.37)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.21,0:23:20.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(233.72,338.6)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.25,0:23:20.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(232.5,336.87)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.29,0:23:20.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(231.32,335.18)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.33,0:23:20.38,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(230.14,333.5)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.38,0:23:20.42,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(229,331.86)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.42,0:23:20.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(227.86,330.24)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.46,0:23:20.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(226.77,328.68)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.50,0:23:20.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(225.68,327.14)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.54,0:23:20.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(224.66,325.66)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.58,0:23:20.63,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(223.63,324.2)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.63,0:23:20.67,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(222.66,322.79)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.67,0:23:20.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(221.68,321.44)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.71,0:23:20.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(220.76,320.12)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.75,0:23:20.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(219.87,318.84)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.79,0:23:20.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(219.01,317.62)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.83,0:23:20.88,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(218.18,316.46)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.88,0:23:20.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(217.4,315.34)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.92,0:23:20.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(216.68,314.28)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:20.96,0:23:21.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(215.99,313.29)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.00,0:23:21.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(215.31,312.35)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.04,0:23:21.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(214.68,311.48)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.08,0:23:21.13,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(214.14,310.68)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.13,0:23:21.17,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(213.63,309.94)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.17,0:23:21.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(213.17,309.3)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.21,0:23:21.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(212.8,308.72)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.25,0:23:21.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(212.46,308.26)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.29,0:23:21.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(212.16,307.88)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.33,0:23:21.38,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(211.97,307.58)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:21.38,0:23:23.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(211.8,307.34)}這樣的話，下次要不要一起去學日式馬鈴薯燉牛肉
+Dialogue: 0,0:23:17.04,0:23:17.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(500.43,744.94)}在料理教室
+Dialogue: 0,0:23:17.08,0:23:17.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(498.43,742.08)}在料理教室
+Dialogue: 0,0:23:17.12,0:23:17.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(496.43,739.23)}在料理教室
+Dialogue: 0,0:23:17.16,0:23:17.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(494.44,736.38)}在料理教室
+Dialogue: 0,0:23:17.21,0:23:17.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(492.45,733.54)}在料理教室
+Dialogue: 0,0:23:17.25,0:23:17.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(490.47,730.7)}在料理教室
+Dialogue: 0,0:23:17.29,0:23:17.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(488.48,727.87)}在料理教室
+Dialogue: 0,0:23:17.33,0:23:17.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(486.49,725.04)}在料理教室
+Dialogue: 0,0:23:17.37,0:23:17.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(484.54,722.23)}在料理教室
+Dialogue: 0,0:23:17.41,0:23:17.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(482.57,719.41)}在料理教室
+Dialogue: 0,0:23:17.46,0:23:17.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(480.61,716.63)}在料理教室
+Dialogue: 0,0:23:17.50,0:23:17.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(478.65,713.84)}在料理教室
+Dialogue: 0,0:23:17.54,0:23:17.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(476.71,711.06)}在料理教室
+Dialogue: 0,0:23:17.58,0:23:17.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(474.76,708.28)}在料理教室
+Dialogue: 0,0:23:17.62,0:23:17.66,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(472.83,705.51)}在料理教室
+Dialogue: 0,0:23:17.66,0:23:17.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(470.91,702.75)}在料理教室
+Dialogue: 0,0:23:17.71,0:23:17.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(468.98,700.01)}在料理教室
+Dialogue: 0,0:23:17.75,0:23:17.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(467.07,697.28)}在料理教室
+Dialogue: 0,0:23:17.79,0:23:17.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(465.14,694.54)}在料理教室
+Dialogue: 0,0:23:17.83,0:23:17.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(463.25,691.83)}在料理教室
+Dialogue: 0,0:23:17.87,0:23:17.91,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(461.34,689.11)}在料理教室
+Dialogue: 0,0:23:17.91,0:23:17.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(459.46,686.42)}在料理教室
+Dialogue: 0,0:23:17.96,0:23:18.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(457.56,683.73)}在料理教室
+Dialogue: 0,0:23:18.00,0:23:18.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(455.69,681.04)}在料理教室
+Dialogue: 0,0:23:18.04,0:23:18.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(453.82,678.38)}在料理教室
+Dialogue: 0,0:23:18.08,0:23:18.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(451.97,675.72)}在料理教室
+Dialogue: 0,0:23:18.12,0:23:18.16,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(450.11,673.07)}在料理教室
+Dialogue: 0,0:23:18.16,0:23:18.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(448.26,670.43)}在料理教室
+Dialogue: 0,0:23:18.21,0:23:18.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(446.42,667.8)}在料理教室
+Dialogue: 0,0:23:18.25,0:23:18.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(444.59,665.18)}在料理教室
+Dialogue: 0,0:23:18.29,0:23:18.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(442.77,662.59)}在料理教室
+Dialogue: 0,0:23:18.33,0:23:18.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(440.93,659.98)}在料理教室
+Dialogue: 0,0:23:18.37,0:23:18.41,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(439.13,657.39)}在料理教室
+Dialogue: 0,0:23:18.41,0:23:18.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(437.32,654.83)}在料理教室
+Dialogue: 0,0:23:18.46,0:23:18.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(435.54,652.26)}在料理教室
+Dialogue: 0,0:23:18.50,0:23:18.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(433.77,649.7)}在料理教室
+Dialogue: 0,0:23:18.54,0:23:18.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(431.97,647.17)}在料理教室
+Dialogue: 0,0:23:18.58,0:23:18.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(430.18,644.65)}在料理教室
+Dialogue: 0,0:23:18.62,0:23:18.67,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(428.45,642.14)}在料理教室
+Dialogue: 0,0:23:18.67,0:23:18.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(426.68,639.64)}在料理教室
+Dialogue: 0,0:23:18.71,0:23:18.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(424.95,637.14)}在料理教室
+Dialogue: 0,0:23:18.75,0:23:18.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(423.22,634.67)}在料理教室
+Dialogue: 0,0:23:18.79,0:23:18.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(421.49,632.21)}在料理教室
+Dialogue: 0,0:23:18.83,0:23:18.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(419.79,629.77)}在料理教室
+Dialogue: 0,0:23:18.87,0:23:18.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(418.08,627.34)}在料理教室
+Dialogue: 0,0:23:18.92,0:23:18.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(416.4,624.92)}在料理教室
+Dialogue: 0,0:23:18.96,0:23:19.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(414.71,622.52)}在料理教室
+Dialogue: 0,0:23:19.00,0:23:19.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(413.05,620.13)}在料理教室
+Dialogue: 0,0:23:19.04,0:23:19.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(411.39,617.75)}在料理教室
+Dialogue: 0,0:23:19.08,0:23:19.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(409.71,615.4)}在料理教室
+Dialogue: 0,0:23:19.12,0:23:19.17,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(408.07,613.06)}在料理教室
+Dialogue: 0,0:23:19.17,0:23:19.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(406.46,610.74)}在料理教室
+Dialogue: 0,0:23:19.21,0:23:19.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(404.85,608.42)}在料理教室
+Dialogue: 0,0:23:19.25,0:23:19.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(403.23,606.13)}在料理教室
+Dialogue: 0,0:23:19.29,0:23:19.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(401.66,603.87)}在料理教室
+Dialogue: 0,0:23:19.33,0:23:19.37,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(400.04,601.6)}在料理教室
+Dialogue: 0,0:23:19.37,0:23:19.42,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(398.5,599.37)}在料理教室
+Dialogue: 0,0:23:19.42,0:23:19.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(396.96,597.15)}在料理教室
+Dialogue: 0,0:23:19.46,0:23:19.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(395.4,594.95)}在料理教室
+Dialogue: 0,0:23:19.50,0:23:19.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(393.87,592.76)}在料理教室
+Dialogue: 0,0:23:19.54,0:23:19.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(392.36,590.61)}在料理教室
+Dialogue: 0,0:23:19.58,0:23:19.62,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(390.86,588.46)}在料理教室
+Dialogue: 0,0:23:19.62,0:23:19.67,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(389.37,586.32)}在料理教室
+Dialogue: 0,0:23:19.67,0:23:19.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(387.89,584.24)}在料理教室
+Dialogue: 0,0:23:19.71,0:23:19.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(386.45,582.15)}在料理教室
+Dialogue: 0,0:23:19.75,0:23:19.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(385.01,580.1)}在料理教室
+Dialogue: 0,0:23:19.79,0:23:19.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(383.56,578.08)}在料理教室
+Dialogue: 0,0:23:19.83,0:23:19.87,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(382.18,576.06)}在料理教室
+Dialogue: 0,0:23:19.87,0:23:19.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(380.79,574.07)}在料理教室
+Dialogue: 0,0:23:19.92,0:23:19.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(379.4,572.1)}在料理教室
+Dialogue: 0,0:23:19.96,0:23:20.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(378.06,570.15)}在料理教室
+Dialogue: 0,0:23:20.00,0:23:20.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(376.71,568.25)}在料理教室
+Dialogue: 0,0:23:20.04,0:23:20.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(375.4,566.37)}在料理教室
+Dialogue: 0,0:23:20.08,0:23:20.12,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(374.09,564.52)}在料理教室
+Dialogue: 0,0:23:20.12,0:23:20.17,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(372.79,562.69)}在料理教室
+Dialogue: 0,0:23:20.17,0:23:20.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(371.57,560.87)}在料理教室
+Dialogue: 0,0:23:20.21,0:23:20.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(370.32,559.11)}在料理教室
+Dialogue: 0,0:23:20.25,0:23:20.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(369.09,557.37)}在料理教室
+Dialogue: 0,0:23:20.29,0:23:20.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(367.91,555.67)}在料理教室
+Dialogue: 0,0:23:20.33,0:23:20.38,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(366.73,554)}在料理教室
+Dialogue: 0,0:23:20.38,0:23:20.42,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(365.59,552.36)}在料理教室
+Dialogue: 0,0:23:20.42,0:23:20.46,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(364.45,550.74)}在料理教室
+Dialogue: 0,0:23:20.46,0:23:20.50,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(363.36,549.18)}在料理教室
+Dialogue: 0,0:23:20.50,0:23:20.54,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(362.27,547.64)}在料理教室
+Dialogue: 0,0:23:20.54,0:23:20.58,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(361.25,546.16)}在料理教室
+Dialogue: 0,0:23:20.58,0:23:20.63,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(360.22,544.7)}在料理教室
+Dialogue: 0,0:23:20.63,0:23:20.67,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(359.25,543.29)}在料理教室
+Dialogue: 0,0:23:20.67,0:23:20.71,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(358.28,541.93)}在料理教室
+Dialogue: 0,0:23:20.71,0:23:20.75,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(357.36,540.62)}在料理教室
+Dialogue: 0,0:23:20.75,0:23:20.79,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(356.46,539.34)}在料理教室
+Dialogue: 0,0:23:20.79,0:23:20.83,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(355.6,538.11)}在料理教室
+Dialogue: 0,0:23:20.83,0:23:20.88,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(354.78,536.95)}在料理教室
+Dialogue: 0,0:23:20.88,0:23:20.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(354,535.84)}在料理教室
+Dialogue: 0,0:23:20.92,0:23:20.96,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(353.27,534.78)}在料理教室
+Dialogue: 0,0:23:20.96,0:23:21.00,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(352.58,533.78)}在料理教室
+Dialogue: 0,0:23:21.00,0:23:21.04,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(351.91,532.84)}在料理教室
+Dialogue: 0,0:23:21.04,0:23:21.08,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(351.28,531.97)}在料理教室
+Dialogue: 0,0:23:21.08,0:23:21.13,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(350.74,531.17)}在料理教室
+Dialogue: 0,0:23:21.13,0:23:21.17,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(350.23,530.43)}在料理教室
+Dialogue: 0,0:23:21.17,0:23:21.21,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(349.77,529.79)}在料理教室
+Dialogue: 0,0:23:21.21,0:23:21.25,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(349.39,529.22)}在料理教室
+Dialogue: 0,0:23:21.25,0:23:21.29,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(349.06,528.75)}在料理教室
+Dialogue: 0,0:23:21.29,0:23:21.33,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(348.76,528.37)}在料理教室
+Dialogue: 0,0:23:21.33,0:23:21.38,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(348.57,528.07)}在料理教室
+Dialogue: 0,0:23:21.38,0:23:21.42,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(348.43,527.87)}在料理教室
+Dialogue: 0,0:23:21.42,0:23:23.92,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(348.41,527.83)}在料理教室
+Dialogue: 0,0:23:21.92,0:23:23.93,Screen,,0,0,0,,{\fnFZLanTingHei-M-GBK\frz20.12\fs24\fax0.15\pos(763.005,616.43)}我很樂意!!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:01:02.96,0:01:06.51,OP-JP,,0,0,0,,なんかぼくよりも彼氏みたい！
+Dialogue: 0,0:01:22.44,0:01:24.73,OP-JP,,0,0,0,,公式離れしたモード、ON！
+Dialogue: 0,0:01:24.73,0:01:27.65,OP-JP,,0,0,0,,ぼくだけに見えてるきみ
+Dialogue: 0,0:01:27.82,0:01:30.20,OP-JP,,0,0,0,,とってもとってもずるい、I love you ！
+Dialogue: 0,0:01:30.20,0:01:33.16,OP-JP,,0,0,0,,きみだけが気づいてる
+Dialogue: 0,0:01:33.41,0:01:35.20,OP-JP,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}あ{\r}」愛されていたい
+Dialogue: 0,0:01:35.28,0:01:36.62,OP-JP,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}い{\r}」言い訳はなし
+Dialogue: 0,0:01:36.62,0:01:38.87,OP-JP,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}し{\r}」知りたい知ってほしい
+Dialogue: 0,0:01:38.87,0:01:40.62,OP-JP,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}て{\r}」照れて いじわる
+Dialogue: 0,0:01:40.83,0:01:42.17,OP-JP,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}る{\r}」ループしていく
+Dialogue: 0,0:01:42.17,0:01:44.96,OP-JP,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}？{\r}」クエスチョンマークのよう
+Dialogue: 0,0:01:44.96,0:01:48.76,OP-JP,,0,0,0,,花びらが舞う頃　出会ってしまった
+Dialogue: 0,0:01:48.97,0:01:54.05,OP-JP,,0,0,0,,ウソみたいなホントのお話
+Dialogue: 0,0:01:54.43,0:01:56.72,OP-JP,,0,0,0,,甘いんじゃない？
+Dialogue: 0,0:01:57.06,0:01:57.89,OP-JP,,0,0,0,,かわいい！
+Dialogue: 0,0:01:58.06,0:02:00.77,OP-JP,,0,0,0,,だけじゃ終わんないジェットコースター
+Dialogue: 0,0:02:00.77,0:02:03.65,OP-JP,,0,0,0,,漫画みたいな展開…って、待って待って！
+Dialogue: 0,0:02:03.65,0:02:07.07,OP-JP,,0,0,0,,はちみつ＋レモン＝公式と違うかな？
+Dialogue: 0,0:02:06.69,0:02:08.69,OP-JP,,0,0,0,,{\an3\fscx70\fscy70}Hey! Everybody! 青春STAR！
+Dialogue: 0,0:02:08.03,0:02:08.99,OP-JP,,0,0,0,,かっこいい！
+Dialogue: 0,0:02:08.99,0:02:11.61,OP-JP,,0,0,0,,食わず嫌いハニージェットコースター
+Dialogue: 0,0:02:11.61,0:02:13.74,OP-JP,,0,0,0,,好きなだけ愛したいの！
+Dialogue: 0,0:02:13.91,0:02:17.95,OP-JP,,0,0,0,,ほら、あんまり僕を困らせないで
+Dialogue: 0,0:02:19.25,0:02:23.33,OP-JP,,0,0,0,,ほら、なんかぼくよりも彼氏みたい！
+Dialogue: 0,0:01:02.96,0:01:06.51,OP-CH,,0,0,0,,總覺得她比我更像男朋友！
+Dialogue: 0,0:01:22.44,0:01:24.73,OP-CH,,0,0,0,,開啟不按套路出牌模式！
+Dialogue: 0,0:01:24.73,0:01:27.65,OP-CH,,0,0,0,,只有我能窺探到真正的你
+Dialogue: 0,0:01:27.82,0:01:30.20,OP-CH,,0,0,0,,真是太太太太狡猾了  I love you！
+Dialogue: 0,0:01:30.20,0:01:33.16,OP-CH,,0,0,0,,也就只有你會注意到
+Dialogue: 0,0:01:33.41,0:01:35.20,OP-CH,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}你{\r}」讓我心迷神往
+Dialogue: 0,0:01:35.28,0:01:36.62,OP-CH,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}難{\r}」以用藉口推辭
+Dialogue: 0,0:01:36.62,0:01:38.87,OP-CH,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}道{\r}」不明心中羞澀
+Dialogue: 0,0:01:38.87,0:01:40.62,OP-CH,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}不{\r}」願不明不白愛
+Dialogue: 0,0:01:40.83,0:01:42.17,OP-CH,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}愛{\r}」你在三六五日
+Dialogue: 0,0:01:42.17,0:01:44.96,OP-CH,,0,0,0,,「{\c&H6633F4&\4c&HFFFFFF&}？{\r}」你怎麼回答呢
+Dialogue: 0,0:01:44.96,0:01:48.76,OP-CH,,0,0,0,,我們相遇於那櫻花飛舞的春日
+Dialogue: 0,0:01:48.97,0:01:54.05,OP-CH,,0,0,0,,夢幻般的往事
+Dialogue: 0,0:01:54.43,0:01:56.72,OP-CH,,0,0,0,,回想起來是不是很甜蜜呢？
+Dialogue: 0,0:01:57.06,0:01:57.89,OP-CH,,0,0,0,,好可愛！
+Dialogue: 0,0:01:58.06,0:02:00.77,OP-CH,,0,0,0,,可僅此而已的話  雲霄飛車將無法抵達終點
+Dialogue: 0,0:02:00.77,0:02:03.65,OP-CH,,0,0,0,,像漫畫一樣發展…哎 等一下等一下
+Dialogue: 0,0:02:03.65,0:02:07.07,OP-CH,,0,0,0,,蜂蜜+檸檬是不是跟公式不太一樣？
+Dialogue: 0,0:02:06.69,0:02:08.69,OP-CH,,0,0,0,,{\an9\fscx70\fscy70}Hey! Everybody! 青春STAR！
+Dialogue: 0,0:02:08.03,0:02:08.99,OP-CH,,0,0,0,,好颯！
+Dialogue: 0,0:02:08.99,0:02:11.61,OP-CH,,0,0,0,,我討厭那故作甜蜜的雲霄飛車
+Dialogue: 0,0:02:11.61,0:02:13.74,OP-CH,,0,0,0,,我只想如我所想地去愛你！
+Dialogue: 0,0:02:13.91,0:02:17.95,OP-CH,,0,0,0,,真是的 別讓我老是操心啦
+Dialogue: 0,0:02:19.25,0:02:23.33,OP-CH,,0,0,0,,總覺得她比我更像男朋友！
+Dialogue: 0,0:01:38.78,0:01:39.32,Screen,,0,0,0,,{\frz26.74\fs24\c&HCFBBBB&\pos(518.4,598.4)}遊樂園
+Dialogue: 0,0:01:40.12,0:01:40.74,Screen,,0,0,0,,{\frz342\fs18\c&HCFBBBB&\pos(654.222,50.666)}要預約!!! 式守同學應該會喜歡??
+Dialogue: 0,0:01:40.12,0:01:40.74,Screen,,0,0,0,,{\frz351.6\fs18\c&HCFBBBB&\pos(1119.102,615.297)}去吃這個!!
+Dialogue: 0,0:01:41.49,0:01:42.08,Screen,,0,0,0,,{\fnFZLanTingYuan-R-GBK\frz20.39\fs24\c&HCD8E96&\1a&H86&\pos(386.994,129.723)}犬束
+Dialogue: 0,0:01:41.49,0:01:42.08,Screen,,0,0,0,,{\fnFZLanTingYuan-R-GBK\frz20.39\fs16\pos(377.962,261.097)}記得要暖男一點啊！
+Dialogue: 0,0:01:41.49,0:01:42.08,Screen,,0,0,0,,{\fnFZLanTingYuan-R-GBK\frz20.39\fs16\pos(716.013,246.159)}犬束!!
+Dialogue: 0,0:01:41.49,0:01:42.08,Screen,,0,0,0,,{\fnFZLanTingYuan-DB-GBK\frz20.39\fs22\c&HE3F2BB&\pos(728.687,280.17)}HELP
+Dialogue: 0,0:01:41.49,0:01:42.08,Screen,,0,0,0,,{\fnFZLanTingYuan-R-GBK\frz20.82\fs16\pos(668.027,641.706)}下週我要跟式守去遊樂場，有什麼好推薦嗎…？
+Comment: 0,0:21:35.94,0:23:05.90,Default,,0,0,0,,ED
+Comment: 0,0:00:08.25,0:00:08.25,Default,,0,0,0,,ED
+Dialogue: 0,0:22:02.83,0:22:07.30,ED-JP,,0,0,0,,だからひと時さえ見逃せなくて
+Dialogue: 0,0:22:07.55,0:22:10.73,ED-JP,,0,0,0,,僕らのハートは尚早
+Dialogue: 0,0:22:11.03,0:22:14.93,ED-JP,,0,0,0,,それでもこの距離で歩きたい
+Dialogue: 0,0:22:14.93,0:22:19.23,ED-JP,,0,0,0,,Route BLUE　君と
+Dialogue: 0,0:22:25.83,0:22:31.01,ED-JP,,0,0,0,,羽がふわり輪郭を撫でて
+Dialogue: 0,0:22:33.23,0:22:39.78,ED-JP,,0,0,0,,風がさらり出会いに吹き抜けた日
+Dialogue: 0,0:22:40.67,0:22:45.93,ED-JP,,0,0,0,,どうやら始まったカラフルこの感情
+Dialogue: 0,0:22:46.66,0:22:51.49,ED-JP,,0,0,0,,甘くていっぱいな世界は
+Dialogue: 0,0:22:52.05,0:22:56.13,ED-JP,,0,0,0,,ねえ　こんなにも単純で難解だ
+Dialogue: 0,0:22:56.13,0:23:00.97,ED-JP,,0,0,0,,一秒ごとに過去になる眩しい
+Dialogue: 0,0:23:00.97,0:23:07.30,ED-JP,,0,0,0,,寂しいなのにこぼれる笑顔
+Dialogue: 0,0:23:09.74,0:23:14.29,ED-JP,,0,0,0,,だからひと時さえ見逃せなくて
+Dialogue: 0,0:23:14.29,0:23:17.49,ED-JP,,0,0,0,,僕らのハートは尚早
+Dialogue: 0,0:23:17.99,0:23:21.75,ED-JP,,0,0,0,,それでもこの距離で歩きたい
+Dialogue: 0,0:23:21.87,0:23:28.99,ED-JP,,0,0,0,,Route BLUE　君との
+Dialogue: 0,0:22:02.83,0:22:07.30,ED-CHT,,0,0,0,,所以我不願移開視線分毫
+Dialogue: 0,0:22:07.55,0:22:10.73,ED-CHT,,0,0,0,,雖然我們早已經急不可耐了
+Dialogue: 0,0:22:11.03,0:22:14.93,ED-CHT,,0,0,0,,即便如此  還是想同你比肩而行
+Dialogue: 0,0:22:14.93,0:22:19.23,ED-CHT,,0,0,5,,{\rED-JP}Route BLUE{\r}  和你一起
+Dialogue: 0,0:22:25.83,0:22:31.01,ED-CHT,,0,0,0,,羽翼舒展  摩挲天際的輪廓
+Dialogue: 0,0:22:33.23,0:22:39.78,ED-CHT,,0,0,0,,輕風颯然  吹過邂逅的日子
+Dialogue: 0,0:22:40.67,0:22:45.93,ED-CHT,,0,0,0,,這種感情也逐漸五彩斑斕
+Dialogue: 0,0:22:46.66,0:22:51.49,ED-CHT,,0,0,0,,甜蜜要滿溢出來的世界
+Dialogue: 0,0:22:52.05,0:22:56.13,ED-CHT,,0,0,0,,是如此單純  又如此奧妙
+Dialogue: 0,0:22:56.13,0:23:00.97,ED-CHT,,0,0,0,,連一秒前的過去  都是那麼耀眼
+Dialogue: 0,0:23:00.97,0:23:07.30,ED-CHT,,0,0,0,,明明感覺寂寞  卻自然露出的笑容
+Dialogue: 0,0:23:09.74,0:23:14.29,ED-CHT,,0,0,0,,所以我不願移開視線分毫
+Dialogue: 0,0:23:14.29,0:23:17.49,ED-CHT,,0,0,0,,雖然我們早已經急不可耐了
+Dialogue: 0,0:23:17.99,0:23:21.75,ED-CHT,,0,0,0,,即便如此  還是想同你比肩而行
+Dialogue: 0,0:23:21.87,0:23:28.99,ED-CHT,,0,0,5,,{\rED-JP}Route BLUE{\r}  和你一起
