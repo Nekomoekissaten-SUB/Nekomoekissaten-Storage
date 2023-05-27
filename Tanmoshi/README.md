@@ -1,6 +1,6 @@
 # Tantei wa Mou, Shindeiru.
 
-WebRip 01-12 简日、繁日双语
+[01-12 和特典视频 BDRip 简日、繁日双语](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Tanmoshi_BD_JPCH.7z)
 
 所需字体：
 ```
@@ -12,6 +12,7 @@ FOT-マティス ProN B <FOT-Matisse ProN B>
 汉仪旗黑-65S <HYQiHei-65S>
 汉仪玄宋 65S <HYXuanSong 65S>
 华文中宋 <STZhongsong>
+HYJunHei-65W - not installed
 ```
 
 ![](https://nekomoe.pages.dev/images/2021-07/tantei_poster_01.jpg)
