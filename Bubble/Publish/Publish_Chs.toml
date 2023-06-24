@@ -1,0 +1,26 @@
+#Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
+display_name="【喵萌奶茶屋】★剧场版★[泡泡 / Bubble][BDRip][<res>p][简日双语][招募翻译]"
+group_name="[喵萌奶茶屋]"
+poster="https://p.sda1.dev/5/fe6dcd78a25608a7107c8f8b286c236c/DP2EF45YE5I2LJ5MTPURB2BLX4_1000.jpg"
+about="https://github.com/Nekomoekissaten-SUB"
+# Use ''' to avoid escape
+filename_regex=""
+# filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
+tags=["Anime", "Movie"]
+
+[[intro_template]]
+site="nyaa"
+name="nekomoekissaten"
+
+[[intro_template]]
+site="dmhy"
+name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgrip"
+name="喵萌奶茶屋"
+
+# [[intro_template]]
+# site="bangumi"
+# name="喵萌奶茶屋"
