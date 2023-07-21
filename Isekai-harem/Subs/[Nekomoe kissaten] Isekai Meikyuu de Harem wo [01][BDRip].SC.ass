@@ -1,0 +1,827 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Isekai Meikyuu de Harem wo [01][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Scr,FZLanTingHei-B-GBK,66,&H00FFFFFF,&H000000FF,&H00525121,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: OP-JP,FOT-TsukuMin Pr6N H,48,&H002B1C07,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: OP-CH,FZYaSong-EB-GBK,35,&H002B1C07,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Dial-JP,FOT-TsukuMin Pr6N H,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,6,1
+Style: Dial-CH,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,48,1
+Style: Dial-JP2,FOT-TsukuMin Pr6N H,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,2,1
+Style: Dial-CH2,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.01,0:00:05.59,Default,,0,0,0,,{\fad(300,300)\an8\fs30\bord1.6}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译：rumianoesa  claws  Carl　校对：i　时轴：可乐　后期：MIR　繁化：貓蟲
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:08.05,0:00:09.72,Default,,0,0,0,,这什么血腥虐杀啊
+Dialogue: 0,0:00:11.82,0:00:13.41,Default,,0,0,0,,烂游戏无误
+Dialogue: 0,0:01:51.12,0:01:52.21,Default,,0,0,0,,这是什么地方
+Dialogue: 0,0:01:53.22,0:01:53.98,Default,,0,0,0,,我记得…
+Dialogue: 0,0:01:55.30,0:01:57.86,Default,,0,0,0,,我本来正要玩一个奇怪的网络游戏
+Dialogue: 0,0:01:58.77,0:02:00.58,Default,,0,0,0,,后面就不记得了
+Dialogue: 0,0:02:02.88,0:02:03.67,Default,,0,0,0,,吓我一跳
+Dialogue: 0,0:02:05.36,0:02:06.08,Default,,0,0,0,,马
+Dialogue: 0,0:02:07.09,0:02:08.45,Default,,0,0,0,,确实是马
+Dialogue: 0,0:02:11.35,0:02:12.37,Default,,0,0,0,,难道说是那个
+Dialogue: 0,0:02:14.96,0:02:17.05,Default,,0,0,0,,好 鉴定
+Dialogue: 0,0:02:19.04,0:02:20.21,Default,,0,0,0,,果然出现了
+Dialogue: 0,0:02:20.93,0:02:23.62,Default,,0,0,0,,也就是说这里确实是在游戏世界里
+Dialogue: 0,0:02:24.82,0:02:26.12,Default,,0,0,0,,好厉害
+Dialogue: 0,0:02:26.77,0:02:28.74,Default,,0,0,0,,简直就像是自己的身体一样
+Dialogue: 0,0:02:29.26,0:02:31.04,Default,,0,0,0,,甚至连运动服都再现了
+Dialogue: 0,0:02:33.60,0:02:35.17,Default,,0,0,0,,与其再现这种细节
+Dialogue: 0,0:02:35.46,0:02:37.70,Default,,0,0,0,,我还是更希望给我脚上穿点什么
+Dialogue: 0,0:02:39.07,0:02:39.72,Default,,0,0,0,,那是…
+Dialogue: 0,0:02:42.88,0:02:43.83,Default,,0,0,0,,这种内容
+Dialogue: 0,0:02:44.07,0:02:48.40,Default,,0,0,0,,是在点下鼠标就能换装备的游戏该有的
+Dialogue: 0,0:02:48.85,0:02:50.80,Default,,0,0,0,,而不是该放进VR游戏的
+Dialogue: 0,0:02:52.66,0:02:53.53,Default,,0,0,0,,好了
+Dialogue: 0,0:02:55.69,0:02:57.71,Default,,0,0,0,,偷了别人东西是我不好啦
+Dialogue: 0,0:02:58.76,0:02:59.55,Default,,0,0,0,,话说回来
+Dialogue: 0,0:03:00.09,0:03:02.09,Default,,0,0,0,,我记得好像选择了奖励装备来着
+Dialogue: 0,0:03:02.75,0:03:03.42,Default,,0,0,0,,在哪来着
+Dialogue: 0,0:03:06.02,0:03:06.93,Default,,0,0,0,,好方便
+Dialogue: 0,0:03:07.68,0:03:08.55,Default,,0,0,0,,这就是…
+Dialogue: 0,0:03:10.85,0:03:13.92,Default,,0,0,0,,杜兰德尔啊 看起来挺不错的
+Dialogue: 0,0:03:15.20,0:03:18.23,Default,,0,0,0,,然后这个是归类到饰品2的装备吗
+Dialogue: 0,0:03:20.48,0:03:21.77,Default,,0,0,0,,技能还不错
+Dialogue: 0,0:03:22.15,0:03:24.22,Default,,0,0,0,,名字也很符合游戏开局的装备
+Dialogue: 0,0:03:25.09,0:03:27.92,Default,,0,0,0,,虽然不知道这VR场景是怎么实现的
+Dialogue: 0,0:03:28.11,0:03:29.54,Default,,0,0,0,,但我现在是在游戏里
+Dialogue: 0,0:03:30.09,0:03:31.44,Default,,0,0,0,,既然如此的话
+Dialogue: 0,0:03:32.56,0:03:35.64,Default,,0,0,0,,那就出发前往未知之地吧
+Dialogue: 0,0:03:42.16,0:03:45.13,Default,,0,0,0,,这新手村还真是一片祥和啊
+Dialogue: 0,0:03:47.58,0:03:48.21,Default,,0,0,0,,糟了
+Dialogue: 0,0:03:50.59,0:03:52.05,Default,,0,0,0,,是村民和农夫啊
+Dialogue: 0,0:03:52.48,0:03:53.59,Default,,0,0,0,,有什么区别吗
+Dialogue: 0,0:03:55.73,0:03:56.50,Default,,0,0,0,,怎么了
+Dialogue: 0,0:03:59.32,0:04:00.18,Default,,0,0,0,,鉴定
+Dialogue: 0,0:04:02.74,0:04:05.43,Default,,0,0,0,,游戏才刚开始 就来盗贼袭击事件吗
+Dialogue: 0,0:04:06.64,0:04:08.01,Default,,0,0,0,,他们打算迎战吗
+Dialogue: 0,0:04:08.39,0:04:11.12,Default,,0,0,0,,虽然等级差不多 但真的没问题吗
+Dialogue: 0,0:04:13.30,0:04:14.76,Default,,0,0,0,,有一个人等级特别高
+Dialogue: 0,0:04:15.29,0:04:16.50,Default,,0,0,0,,他就是头目吗
+Dialogue: 0,0:04:17.44,0:04:18.97,Default,,0,0,0,,盗贼头巾
+Dialogue: 0,0:04:19.25,0:04:20.68,Default,,0,0,0,,还带着这么狂的装备
+Dialogue: 0,0:04:26.61,0:04:28.50,Default,,0,0,0,,看起来情况不太妙啊
+Dialogue: 0,0:04:30.37,0:04:31.77,Default,,0,0,0,,我现在好像
+Dialogue: 0,0:04:32.45,0:04:35.43,Default,,0,0,0,,可以趁他不注意从背后偷袭
+Dialogue: 0,0:04:38.04,0:04:38.82,Default,,0,0,0,,没事的
+Dialogue: 0,0:04:39.28,0:04:40.86,Default,,0,0,0,,这只是游戏开局的事件
+Dialogue: 0,0:04:41.34,0:04:42.62,Default,,0,0,0,,就算我只有1级
+Dialogue: 0,0:04:42.79,0:04:44.32,Default,,0,0,0,,也一定能打倒他们
+Dialogue: 0,0:04:46.66,0:04:47.99,Default,,0,0,0,,只能干了
+Dialogue: 0,0:04:54.06,0:04:55.76,Default,,0,0,0,,这什么血腥虐杀啊
+Dialogue: 0,0:04:55.76,0:04:57.15,Default,,0,0,0,,烂游戏无误
+Dialogue: 0,0:05:00.02,0:05:01.91,Default,,0,0,0,,因为盔甲的限制而没法砍到身体
+Dialogue: 0,0:05:02.58,0:05:04.79,Default,,0,0,0,,那就用这招
+Dialogue: 0,0:05:09.94,0:05:11.74,Default,,0,0,0,,幸亏我练过剑道
+Dialogue: 0,0:05:15.34,0:05:18.58,Default,,0,0,0,,一旦情势不利就会逃跑
+Dialogue: 0,0:05:18.73,0:05:20.43,Default,,0,0,0,,说到底不过只是群盗贼
+Dialogue: 0,0:05:20.97,0:05:22.67,Default,,0,0,0,,那我就不客气了
+Dialogue: 0,0:05:22.89,0:05:25.90,Default,,0,0,0,,你们所有人都变成我的经验值吧
+Dialogue: 0,0:05:35.62,0:05:37.06,Default,,0,0,0,,真是累死我了
+Dialogue: 0,0:05:38.02,0:05:38.73,Default,,0,0,0,,鉴定
+Dialogue: 0,0:05:39.87,0:05:41.01,Default,,0,0,0,,等级变高了
+Dialogue: 0,0:05:41.80,0:05:44.32,Default,,0,0,0,,不过我打倒了这么多盗贼居然只升了1级
+Dialogue: 0,0:05:46.50,0:05:49.90,Default,,0,0,0,,感谢您于危机之中拯救了我们的村庄
+Dialogue: 0,0:05:50.93,0:05:54.08,Default,,0,0,0,,我是村长 名叫索马拉
+Dialogue: 0,0:05:55.10,0:05:57.81,Default,,0,0,0,,不嫌弃的话 请到我家来吧
+Dialogue: 0,0:05:58.74,0:06:01.61,Default,,0,0,0,,我想尽可能地报答您
+Dialogue: 0,0:06:02.48,0:06:05.03,Default,,0,0,0,,这样啊 那我就不客气了
+Dialogue: 0,0:06:07.66,0:06:08.64,Default,,0,0,0,,这些是…
+Dialogue: 0,0:06:09.53,0:06:10.66,Default,,0,0,0,,是战利品
+Dialogue: 0,0:06:11.30,0:06:12.52,Default,,0,0,0,,我知道您累了
+Dialogue: 0,0:06:12.97,0:06:15.73,Default,,0,0,0,,但还是要请道夫大人您确认一下
+Dialogue: 0,0:06:16.29,0:06:16.85,Default,,0,0,0,,由我来吗
+Dialogue: 0,0:06:17.30,0:06:17.89,Default,,0,0,0,,是的
+Dialogue: 0,0:06:18.46,0:06:21.85,Default,,0,0,0,,盗贼中有两人是村民打倒的
+Dialogue: 0,0:06:22.23,0:06:24.17,Default,,0,0,0,,他们的战利品由我们收下
+Dialogue: 0,0:06:24.80,0:06:28.21,Default,,0,0,0,,其它物品的所有权都属于道夫大人您
+Dialogue: 0,0:06:29.27,0:06:31.67,Default,,0,0,0,,原来如此 是这种设定啊
+Dialogue: 0,0:06:32.03,0:06:33.73,Default,,0,0,0,,不过…鉴定
+Dialogue: 0,0:06:34.50,0:06:36.02,Default,,0,0,0,,这么多东西我也不知道该怎么处理
+Dialogue: 0,0:06:38.21,0:06:39.70,Default,,0,0,0,,请问怎么了吗
+Dialogue: 0,0:06:40.60,0:06:41.45,Default,,0,0,0,,不是这个
+Dialogue: 0,0:06:45.05,0:06:48.07,Default,,0,0,0,,那个男人戴着的不是普通的头巾
+Dialogue: 0,0:06:48.45,0:06:50.20,Default,,0,0,0,,而是盗贼头巾才对
+Dialogue: 0,0:06:50.66,0:06:52.63,Default,,0,0,0,,怎…怎会如此
+Dialogue: 0,0:06:53.17,0:06:54.84,Default,,0,0,0,,我马上派人去调查
+Dialogue: 0,0:06:55.30,0:07:00.35,Default,,0,0,0,,我会为您准备房间 还请您先去休息吧
+Dialogue: 0,0:07:00.88,0:07:02.84,Default,,0,0,0,,嗯 那就这样吧
+Dialogue: 0,0:07:06.13,0:07:08.47,Default,,0,0,0,,今天就玩到这里吧
+Dialogue: 0,0:07:11.41,0:07:12.93,Default,,0,0,0,,这游戏要怎么退出啊
+Dialogue: 0,0:07:13.94,0:07:14.82,Default,,0,0,0,,退出
+Dialogue: 0,0:07:18.42,0:07:22.13,Default,,0,0,0,,注销 结束 中断 终止
+Dialogue: 0,0:07:27.02,0:07:30.35,Default,,0,0,0,,存档 菜单 打开菜单
+Dialogue: 0,0:07:30.51,0:07:33.52,Default,,0,0,0,,打开窗口 结束窗口 结束选项
+Dialogue: 0,0:07:33.73,0:07:37.97,Default,,0,0,0,,覆盖存档 存档后结束游戏 不存档结束游戏
+Dialogue: 0,0:07:38.42,0:07:39.04,Default,,0,0,0,,结束
+Dialogue: 0,0:07:39.33,0:07:40.34,Default,,0,0,0,,快结束啊
+Dialogue: 0,0:07:40.52,0:07:41.94,Default,,0,0,0,,我叫你结束
+Dialogue: 0,0:07:48.29,0:07:51.92,Default,,0,0,0,,不对 说到底这真的是在游戏里吗
+Dialogue: 0,0:07:52.46,0:07:54.99,Default,,0,0,0,,这种逼真的感觉 根本就是现实
+Dialogue: 0,0:07:55.68,0:07:57.29,Default,,0,0,0,,不对 这怎么可能
+Dialogue: 0,0:07:57.72,0:07:58.40,Default,,0,0,0,,鉴定
+Dialogue: 0,0:07:59.94,0:08:02.76,Default,,0,0,0,,是吧 现实中不可能做到这种事
+Dialogue: 0,0:08:03.06,0:08:04.63,Default,,0,0,0,,这果然还是个游戏
+Dialogue: 0,0:08:08.07,0:08:10.55,Default,,0,0,0,,难道 那个是真的吗
+Dialogue: 0,0:08:14.36,0:08:15.91,Default,,0,0,0,,热水准备好了
+Dialogue: 0,0:08:16.45,0:08:18.02,Default,,0,0,0,,请好好地擦洗一下身子吧
+Dialogue: 0,0:08:18.88,0:08:21.82,Default,,0,0,0,,然后我们还为您准备了换洗衣物
+Dialogue: 0,0:08:22.56,0:08:23.06,Default,,0,0,0,,什么
+Dialogue: 0,0:08:24.47,0:08:27.98,Default,,0,0,0,,您现在穿的衣服有些脏了
+Dialogue: 0,0:08:28.34,0:08:30.63,Default,,0,0,0,,就由我们来为您清洗吧
+Dialogue: 0,0:08:31.28,0:08:33.14,Default,,0,0,0,,即便这里是游戏的世界
+Dialogue: 0,0:08:33.63,0:08:36.08,Default,,0,0,0,,既然我无法登出 那就与现实无异
+Dialogue: 0,0:08:37.23,0:08:39.08,Default,,0,0,0,,如果这里就是现实…
+Dialogue: 0,0:08:40.21,0:08:42.11,Default,,0,0,0,,那我就不是打倒了游戏角色
+Dialogue: 0,0:08:42.96,0:08:44.34,Default,,0,0,0,,而是真的杀人了
+Dialogue: 0,0:08:44.83,0:08:47.73,Default,,0,0,0,,道夫大人 您怎么了
+Dialogue: 0,0:08:48.90,0:08:50.54,Default,,0,0,0,,没 没什么…
+Dialogue: 0,0:08:51.33,0:08:52.40,Default,,0,0,0,,那就好
+Dialogue: 0,0:08:52.86,0:08:56.97,Default,,0,0,0,,那么 等您换好衣服请和我们说一声
+Dialogue: 0,0:09:06.32,0:09:07.94,Default,,0,0,0,,我夺走了他人的生命
+Dialogue: 0,0:09:08.49,0:09:09.80,Default,,0,0,0,,这是无可辩驳的事实
+Dialogue: 0,0:09:10.59,0:09:12.74,Default,,0,0,0,,但是 从另一个角度想
+Dialogue: 0,0:09:14.53,0:09:17.46,Default,,0,0,0,,在这个世界 盗贼抢劫村子时有发生
+Dialogue: 0,0:09:18.02,0:09:21.24,Default,,0,0,0,,今后 我也很可能再遇到类似的情况
+Dialogue: 0,0:09:21.73,0:09:24.77,Default,,0,0,0,,如果届时我吓破了胆就不妙了
+Dialogue: 0,0:09:26.08,0:09:27.98,Default,,0,0,0,,幸好我早早地经历了这些事
+Dialogue: 0,0:09:28.56,0:09:29.39,Default,,0,0,0,,我应该这么想
+Dialogue: 0,0:09:31.47,0:09:33.94,Default,,0,0,0,,没错 这里就是现实世界
+Dialogue: 0,0:09:35.25,0:09:39.93,Default,,0,0,0,,从今以后 我必须在这个世界活下去
+Dialogue: 0,0:09:42.98,0:09:45.22,Default,,0,0,0,,非常抱歉 道夫大人
+Dialogue: 0,0:09:45.38,0:09:48.30,Default,,0,0,0,,就是这个男人偷换了头巾
+Dialogue: 0,0:09:48.77,0:09:50.14,Default,,0,0,0,,他是这个村子的村民吗
+Dialogue: 0,0:09:50.92,0:09:52.28,Default,,0,0,0,,是的 真的很不好意思
+Dialogue: 0,0:09:53.16,0:09:55.41,Default,,0,0,0,,这是他悄悄藏起来的东西
+Dialogue: 0,0:09:56.11,0:09:57.37,Default,,0,0,0,,这是个没错了
+Dialogue: 0,0:09:57.77,0:10:00.75,Default,,0,0,0,,那么 您打算怎么惩罚这个人
+Dialogue: 0,0:10:01.33,0:10:03.38,Default,,0,0,0,,你们村应该也有自己的规矩吧
+Dialogue: 0,0:10:04.14,0:10:06.63,Default,,0,0,0,,对此我不打算多作干涉
+Dialogue: 0,0:10:07.45,0:10:09.89,Default,,0,0,0,,是…是吗
+Dialogue: 0,0:10:10.40,0:10:12.01,Default,,0,0,0,,他的表情好像很微妙
+Dialogue: 0,0:10:14.67,0:10:19.77,Default,,0,0,0,,「自古以来流传至今的彼之意志 一脉相承源远流长的血之查证」
+Dialogue: 0,0:10:20.10,0:10:22.14,Default,,0,0,0,,「智能卡 open」
+Dialogue: 0,0:10:23.09,0:10:24.52,Default,,0,0,0,,有什么东西出来了
+Dialogue: 0,0:10:24.80,0:10:26.07,Default,,0,0,0,,这是在做什么
+Dialogue: 0,0:10:26.82,0:10:31.78,Default,,0,0,0,,我在这个人的智能卡上写入奴隶身份
+Dialogue: 0,0:10:33.79,0:10:37.21,Default,,0,0,0,,原来如此 那上面记载了一个人的身份证明啊
+Dialogue: 0,0:10:39.09,0:10:40.28,Default,,0,0,0,,你刚才说是奴隶？
+Dialogue: 0,0:10:40.73,0:10:45.91,Default,,0,0,0,,没错 在这个村子里犯了盗窃的人会被当作奴隶贩卖
+Dialogue: 0,0:10:46.31,0:10:50.96,Default,,0,0,0,,卖出金额的一半将赔偿给受害者
+Dialogue: 0,0:10:51.30,0:10:52.55,Default,,0,0,0,,剩下一半呢
+Dialogue: 0,0:10:52.71,0:10:56.05,Default,,0,0,0,,捐助给失去劳动力的家庭
+Dialogue: 0,0:10:56.43,0:10:57.47,Default,,0,0,0,,这样啊
+Dialogue: 0,0:10:57.92,0:11:02.31,Default,,0,0,0,,原来他刚才期待我宽大处置啊
+Dialogue: 0,0:11:02.60,0:11:04.18,Default,,0,0,0,,那你就直说啊
+Dialogue: 0,0:11:04.66,0:11:08.53,Default,,0,0,0,,真难啊 这个世界竟然还有奴隶的概念
+Dialogue: 0,0:11:08.83,0:11:11.68,Default,,0,0,0,,差点忘了
+Dialogue: 0,0:11:11.92,0:11:15.59,Default,,0,0,0,,这些是盗贼们的智能卡
+Dialogue: 0,0:11:16.60,0:11:19.27,Default,,0,0,0,,如果其中有被悬赏的人
+Dialogue: 0,0:11:19.41,0:11:22.01,Default,,0,0,0,,那么赏金也是都属于道夫大人
+Dialogue: 0,0:11:22.30,0:11:24.64,Default,,0,0,0,,这就是所谓的悬赏吧
+Dialogue: 0,0:11:25.33,0:11:30.81,Default,,0,0,0,,贝尔城里有骑士团的驻点 您可以在那里换钱
+Dialogue: 0,0:11:31.21,0:11:31.73,Default,,0,0,0,,贝尔
+Dialogue: 0,0:11:32.30,0:11:35.75,Default,,0,0,0,,它是这附近最大的城市
+Dialogue: 0,0:11:35.92,0:11:38.46,Default,,0,0,0,,明天正好是开市的日子
+Dialogue: 0,0:11:38.60,0:11:42.60,Default,,0,0,0,,如果您要卖掉战利品 那正好可以去
+Dialogue: 0,0:11:42.96,0:11:45.36,Default,,0,0,0,,对哦 卖掉就行了
+Dialogue: 0,0:11:45.63,0:11:48.44,Default,,0,0,0,,如果需要的话 我可以为您准备马车
+Dialogue: 0,0:11:48.76,0:11:51.04,Default,,0,0,0,,就在明早出发 可以吗
+Dialogue: 0,0:11:51.54,0:11:53.35,Default,,0,0,0,,好 拜托了
+Dialogue: 0,0:11:56.02,0:11:59.68,Default,,0,0,0,,到头来 所有这些事情都要依赖别人
+Dialogue: 0,0:12:00.09,0:12:02.53,Default,,0,0,0,,不光是食物 他们甚至还给了我礼金
+Dialogue: 0,0:12:03.70,0:12:05.97,Default,,0,0,0,,虽然有些对不住村长和那个男人
+Dialogue: 0,0:12:05.97,0:12:07.61,Default,,0,0,0,,不过这些收获对于开局的我来说是再好不过了
+Dialogue: 0,0:12:08.26,0:12:09.96,Default,,0,0,0,,已经看得到了
+Dialogue: 0,0:12:12.29,0:12:14.07,Default,,0,0,0,,那就是贝尔城
+Dialogue: 0,0:12:22.30,0:12:23.86,Default,,0,0,0,,还挺热闹的嘛
+Dialogue: 0,0:12:24.41,0:12:27.25,Default,,0,0,0,,毕竟市场每5天才开放1天嘛
+Dialogue: 0,0:12:27.52,0:12:30.81,Default,,0,0,0,,所以临近几个村的人都过来了
+Dialogue: 0,0:12:35.09,0:12:39.25,Default,,0,0,0,,你打倒的那批人属于盘踞在这个城市的盗贼团的一部分
+Dialogue: 0,0:12:39.70,0:12:41.94,Default,,0,0,0,,其中两人背负了赏金
+Dialogue: 0,0:12:42.45,0:12:45.17,Default,,0,0,0,,我会按规定支付赏金的 但在此之前…
+Dialogue: 0,0:12:48.30,0:12:51.94,Default,,0,0,0,,道夫大人 她要确认你的智能卡
+Dialogue: 0,0:12:53.29,0:12:54.58,Default,,0,0,0,,这样子啊
+Dialogue: 0,0:12:55.12,0:12:58.41,Default,,0,0,0,,要是出不来绝对会被怀疑的
+Dialogue: 0,0:12:59.02,0:13:03.56,Default,,0,0,0,,「自古以来流传至今的彼之意志 一脉相承源远流长的血之查证」
+Dialogue: 0,0:13:04.01,0:13:06.12,Default,,0,0,0,,「智能卡 open」
+Dialogue: 0,0:13:08.02,0:13:09.53,Default,,0,0,0,,还好还好
+Dialogue: 0,0:13:10.16,0:13:11.13,Default,,0,0,0,,没有问题
+Dialogue: 0,0:13:12.84,0:13:13.83,Default,,0,0,0,,接好了
+Dialogue: 0,0:13:15.74,0:13:17.61,Default,,0,0,0,,你最好早点回去
+Dialogue: 0,0:13:18.76,0:13:20.82,Default,,0,0,0,,连一句辛苦了都没有吗
+Dialogue: 0,0:13:21.25,0:13:23.37,Default,,0,0,0,,骑士大人都是那个样的
+Dialogue: 0,0:13:33.86,0:13:36.37,Default,,0,0,0,,感觉城市的氛围好像变了
+Dialogue: 0,0:13:36.89,0:13:40.30,Default,,0,0,0,,道夫大人 还请不要东张西望
+Dialogue: 0,0:13:40.73,0:13:43.70,Default,,0,0,0,,这一带治安不太好
+Dialogue: 0,0:13:43.93,0:13:48.43,Default,,0,0,0,,虽然也有娼馆之类的店铺 但我不建议您逛得太深
+Dialogue: 0,0:13:48.82,0:13:50.06,Default,,0,0,0,,chang guan？
+Dialogue: 0,0:13:52.48,0:13:56.59,Default,,0,0,0,,娼馆 难道就是娼妇待的地方吗
+Dialogue: 0,0:13:56.99,0:13:58.57,Default,,0,0,0,,也就是风俗店
+Dialogue: 0,0:13:59.08,0:14:01.55,Default,,0,0,0,,和H的小姐姐「自由恋爱」的地方
+Dialogue: 0,0:14:01.86,0:14:05.65,Default,,0,0,0,,那个充满Q弹柔软 令人无法自拔的官能世界
+Dialogue: 0,0:14:06.02,0:14:08.03,Default,,0,0,0,,道夫大人 道夫大人
+Dialogue: 0,0:14:08.94,0:14:09.58,Default,,0,0,0,,怎么了
+Dialogue: 0,0:14:09.71,0:14:13.67,Default,,0,0,0,,我们到了 这里就是奴隶交易所
+Dialogue: 0,0:14:17.79,0:14:19.53,Default,,0,0,0,,久等了
+Dialogue: 0,0:14:20.26,0:14:23.33,Default,,0,0,0,,我就是这里的主人 亚蓝
+Dialogue: 0,0:14:24.31,0:14:27.16,Default,,0,0,0,,今天来客比较多 让二位久等了
+Dialogue: 0,0:14:27.83,0:14:29.30,Default,,0,0,0,,发生了什么事吗
+Dialogue: 0,0:14:29.69,0:14:31.06,Default,,0,0,0,,你还不知道吗
+Dialogue: 0,0:14:31.55,0:14:35.58,Default,,0,0,0,,两天前 有人在城市附近发现了一个迷宫
+Dialogue: 0,0:14:36.64,0:14:38.36,Default,,0,0,0,,还有迷宫啊
+Dialogue: 0,0:14:38.83,0:14:42.11,Default,,0,0,0,,然后 你们是不是想卖奴隶
+Dialogue: 0,0:14:45.13,0:14:47.01,Default,,0,0,0,,我大致了解情况了
+Dialogue: 0,0:14:47.29,0:14:51.64,Default,,0,0,0,,真没想到那些盗贼几乎都被你一个人干掉了
+Dialogue: 0,0:14:52.33,0:14:55.96,Default,,0,0,0,,过奖啦 那只是对方太弱了
+Dialogue: 0,0:14:58.17,0:15:01.07,Default,,0,0,0,,至于这个奴隶的出价…
+Dialogue: 0,0:15:01.25,0:15:03.26,Default,,0,0,0,,他身体健康 而且正值壮年
+Dialogue: 0,0:15:03.84,0:15:06.43,Default,,0,0,0,,我愿意为他出3万
+Dialogue: 0,0:15:13.30,0:15:14.82,Default,,0,0,0,,这些是村子的份额
+Dialogue: 0,0:15:15.40,0:15:16.42,Default,,0,0,0,,我收下了
+Dialogue: 0,0:15:16.87,0:15:19.92,Default,,0,0,0,,那么还请道夫大人保重
+Dialogue: 0,0:15:21.30,0:15:22.20,Default,,0,0,0,,受你们照顾了
+Dialogue: 0,0:15:34.86,0:15:39.67,Default,,0,0,0,,这样一来 已经没有人认识我了
+Dialogue: 0,0:15:41.25,0:15:43.37,Default,,0,0,0,,听不懂大家说的话
+Dialogue: 0,0:15:44.38,0:15:46.95,Default,,0,0,0,,也不了解大家认知的常识
+Dialogue: 0,0:15:47.89,0:15:49.85,Default,,0,0,0,,虽然我来到了这个世界
+Dialogue: 0,0:15:50.60,0:15:52.68,Default,,0,0,0,,但我依旧身处这个世界之外
+Dialogue: 0,0:15:54.34,0:15:57.45,Default,,0,0,0,,我能够孤身一人活下去吗
+Dialogue: 0,0:15:58.31,0:15:59.35,Default,,0,0,0,,道夫大人
+Dialogue: 0,0:16:00.50,0:16:02.20,Default,,0,0,0,,说起来还有一个人
+Dialogue: 0,0:16:03.34,0:16:03.85,Default,,0,0,0,,怎么了
+Dialogue: 0,0:16:04.77,0:16:06.44,Default,,0,0,0,,如果您不急的话
+Dialogue: 0,0:16:06.60,0:16:08.94,Default,,0,0,0,,可以占用您一点时间吗
+Dialogue: 0,0:16:09.25,0:16:10.61,Default,,0,0,0,,没问题
+Dialogue: 0,0:16:13.49,0:16:15.40,Default,,0,0,0,,和刚才不同的房间
+Dialogue: 0,0:16:16.05,0:16:18.48,Default,,0,0,0,,地毯和家具看着都很贵
+Dialogue: 0,0:16:19.12,0:16:20.94,Default,,0,0,0,,墙上甚至挂着画
+Dialogue: 0,0:16:21.36,0:16:22.81,Default,,0,0,0,,他到底想干什么
+Dialogue: 0,0:16:23.43,0:16:28.39,Default,,0,0,0,,冒昧地问一句 道夫大人是冒险者吧
+Dialogue: 0,0:16:29.26,0:16:31.11,Default,,0,0,0,,也算是吧
+Dialogue: 0,0:16:32.07,0:16:36.07,Default,,0,0,0,,这样的话以后不考虑买奴隶吗
+Dialogue: 0,0:16:37.64,0:16:42.23,Default,,0,0,0,,冒险者可以买奴隶吗
+Dialogue: 0,0:16:42.61,0:16:45.00,Default,,0,0,0,,大有人在
+Dialogue: 0,0:16:45.40,0:16:47.39,Default,,0,0,0,,买奴隶吗
+Dialogue: 0,0:16:47.90,0:16:51.53,Default,,0,0,0,,刚卖掉了一个所以当然也能买吧
+Dialogue: 0,0:16:52.37,0:16:54.57,Default,,0,0,0,,我完全没想过
+Dialogue: 0,0:16:55.08,0:16:58.43,Default,,0,0,0,,本馆有出售女奴隶
+Dialogue: 0,0:17:01.96,0:17:04.51,Default,,0,0,0,,你说女奴隶
+Dialogue: 0,0:17:05.65,0:17:09.75,Default,,0,0,0,,我可以买女奴隶吗
+Dialogue: 0,0:17:10.54,0:17:12.43,Default,,0,0,0,,这也就是说
+Dialogue: 0,0:17:13.94,0:17:17.56,Default,,0,0,0,,我可以和女奴隶做点兴奋的事了
+Dialogue: 0,0:17:18.93,0:17:20.91,Default,,0,0,0,,不行 冷静下来
+Dialogue: 0,0:17:21.22,0:17:23.38,Default,,0,0,0,,先让头脑冷静一下
+Dialogue: 0,0:17:23.73,0:17:24.77,Default,,0,0,0,,打扰了
+Dialogue: 0,0:17:31.24,0:17:32.00,Default,,0,0,0,,摇晃了
+Dialogue: 0,0:17:32.14,0:17:33.71,Default,,0,0,0,,刚刚摇晃了吧
+Dialogue: 0,0:17:34.16,0:17:36.03,Default,,0,0,0,,这家伙 会晃动的吗
+Dialogue: 0,0:17:37.10,0:17:37.76,Default,,0,0,0,,请用
+Dialogue: 0,0:17:38.97,0:17:41.12,Default,,0,0,0,,谢谢你
+Dialogue: 0,0:17:41.70,0:17:43.14,Default,,0,0,0,,请用吧
+Dialogue: 0,0:17:47.43,0:17:48.88,Default,,0,0,0,,打扰了
+Dialogue: 0,0:17:51.44,0:17:54.22,Default,,0,0,0,,摇晃了 那对丰胸又晃了
+Dialogue: 0,0:17:58.02,0:17:59.08,Default,,0,0,0,,这绝对是我今天
+Dialogue: 0,0:17:59.74,0:18:03.76,Default,,0,0,0,,不 是在这个异世界遇到的最漂亮的女性
+Dialogue: 0,0:18:04.34,0:18:07.43,Default,,0,0,0,,而且 是最大的胸
+Dialogue: 0,0:18:07.86,0:18:09.77,Default,,0,0,0,,您好像非常中意
+Dialogue: 0,0:18:10.39,0:18:12.00,Default,,0,0,0,,挺不错的饮料
+Dialogue: 0,0:18:12.33,0:18:14.66,Default,,0,0,0,,我说的当然是她
+Dialogue: 0,0:18:14.66,0:18:16.16,Default,,0,0,0,,果然是这样吗
+Dialogue: 0,0:18:16.16,0:18:21.12,Default,,0,0,0,,那个女孩是现在本馆最推荐的奴隶
+Dialogue: 0,0:18:24.25,0:18:26.06,Default,,0,0,0,,果然是奴隶吗
+Dialogue: 0,0:18:27.26,0:18:29.96,Default,,0,0,0,,就是说我能买到她了
+Dialogue: 0,0:18:31.65,0:18:33.54,Default,,0,0,0,,奴隶不会背叛主人吗
+Dialogue: 0,0:18:34.16,0:18:35.19,Default,,0,0,0,,不会的
+Dialogue: 0,0:18:35.70,0:18:39.42,Default,,0,0,0,,没有指定继承者或者解放遗言的奴隶
+Dialogue: 0,0:18:39.42,0:18:42.42,Default,,0,0,0,,奴隶将会和主人一同殉死
+Dialogue: 0,0:18:42.72,0:18:44.43,Default,,0,0,0,,会死掉吗
+Dialogue: 0,0:18:44.97,0:18:45.73,Default,,0,0,0,,对
+Dialogue: 0,0:18:47.04,0:18:49.32,Default,,0,0,0,,既然不能杀掉主人 那会逃跑吗
+Dialogue: 0,0:18:49.32,0:18:52.21,Default,,0,0,0,,逃跑的奴隶会沦落为盗贼
+Dialogue: 0,0:18:52.54,0:18:55.45,Default,,0,0,0,,盗贼就算被杀也是当然的
+Dialogue: 0,0:18:55.93,0:18:58.53,Default,,0,0,0,,物品也可以被合法剥夺
+Dialogue: 0,0:18:58.80,0:19:02.23,Default,,0,0,0,,就算从主人那里抢来巨款逃走
+Dialogue: 0,0:19:02.23,0:19:05.92,Default,,0,0,0,,也很难过上比之前更好的生活
+Dialogue: 0,0:19:06.48,0:19:07.62,Default,,0,0,0,,原来如此
+Dialogue: 0,0:19:08.03,0:19:08.92,Default,,0,0,0,,再者
+Dialogue: 0,0:19:09.21,0:19:11.75,Default,,0,0,0,,刚才的女孩是兽人狼族
+Dialogue: 0,0:19:12.16,0:19:14.21,Default,,0,0,0,,而且还是兽战士
+Dialogue: 0,0:19:14.21,0:19:16.66,Default,,0,0,0,,所以在迷宫中也很有用吧
+Dialogue: 0,0:19:17.12,0:19:19.60,Default,,0,0,0,,并且她不仅聪明 性格还很好
+Dialogue: 0,0:19:19.90,0:19:23.35,Default,,0,0,0,,我认为作为第一次购买的奴隶 非常合适
+Dialogue: 0,0:19:23.93,0:19:25.31,Default,,0,0,0,,另外还有一点
+Dialogue: 0,0:19:25.90,0:19:28.94,Default,,0,0,0,,身为兽人狼族还有别的优势
+Dialogue: 0,0:19:29.14,0:19:29.84,Default,,0,0,0,,是什么
+Dialogue: 0,0:19:30.41,0:19:34.12,Default,,0,0,0,,人类不能和其他种族像这样生孩子
+Dialogue: 0,0:19:34.72,0:19:35.82,Default,,0,0,0,,这是说
+Dialogue: 0,0:19:36.36,0:19:39.19,Default,,0,0,0,,还有更重要的一点
+Dialogue: 0,0:19:39.98,0:19:43.37,Default,,0,0,0,,她是纯洁的处女
+Dialogue: 0,0:19:45.30,0:19:47.77,Default,,0,0,0,,所以您不需要担心得病
+Dialogue: 0,0:19:48.33,0:19:49.26,Default,,0,0,0,,还有
+Dialogue: 0,0:19:49.52,0:19:50.75,Default,,0,0,0,,还有吗
+Dialogue: 0,0:19:51.04,0:19:55.46,Default,,0,0,0,,她同意献身侍奉主人
+Dialogue: 0,0:19:55.98,0:20:00.26,Default,,0,0,0,,我认为这对于道夫大人很有意义
+Dialogue: 0,0:20:01.17,0:20:01.94,Default,,0,0,0,,为什么
+Dialogue: 0,0:20:02.72,0:20:09.89,Default,,0,0,0,,有些客人内心会很纠结该不该对奴隶出手
+Dialogue: 0,0:20:10.67,0:20:12.43,Default,,0,0,0,,特别是年轻人
+Dialogue: 0,0:20:13.02,0:20:17.08,Default,,0,0,0,,但是如果对方一开始就能接受的话
+Dialogue: 0,0:20:17.80,0:20:18.57,Default,,0,0,0,,怎么样呢
+Dialogue: 0,0:20:19.20,0:20:20.36,Default,,0,0,0,,这样子啊
+Dialogue: 0,0:20:21.18,0:20:25.66,Default,,0,0,0,,以上就是我向您推荐她的理由
+Dialogue: 0,0:20:26.20,0:20:27.92,Default,,0,0,0,,您能够接受吗
+Dialogue: 0,0:20:30.58,0:20:32.31,Default,,0,0,0,,买下罗克珊吗
+Dialogue: 0,0:20:33.84,0:20:36.21,Default,,0,0,0,,我可以对那种美女随心所欲地…
+Dialogue: 0,0:20:36.88,0:20:39.24,Default,,0,0,0,,但是 买奴隶真的好吗
+Dialogue: 0,0:20:39.53,0:20:42.01,Default,,0,0,0,,不 这就是这样的世界
+Dialogue: 0,0:20:42.28,0:20:43.43,Default,,0,0,0,,就算我不买
+Dialogue: 0,0:20:43.55,0:20:45.72,Default,,0,0,0,,她也总会变成别人的性奴
+Dialogue: 0,0:20:46.07,0:20:47.61,Default,,0,0,0,,这我忍不了
+Dialogue: 0,0:20:48.05,0:20:48.92,Default,,0,0,0,,这样的话
+Dialogue: 0,0:20:49.68,0:20:50.44,Default,,0,0,0,,多少钱
+Dialogue: 0,0:20:50.77,0:20:52.31,Default,,0,0,0,,60万纳鲁
+Dialogue: 0,0:20:52.42,0:20:53.99,Default,,0,0,0,,本来我想要这个价格的
+Dialogue: 0,0:20:53.99,0:20:56.57,Default,,0,0,0,,但因为是我的极力推荐
+Dialogue: 0,0:20:56.77,0:20:58.92,Default,,0,0,0,,加上刚才的衣服
+Dialogue: 0,0:20:59.20,0:21:02.56,Default,,0,0,0,,就卖您422800纳鲁吧
+Dialogue: 0,0:21:04.37,0:21:06.62,Default,,0,0,0,,不是我能付得起的价格
+Dialogue: 0,0:21:07.03,0:21:08.68,Default,,0,0,0,,这样啊
+Dialogue: 0,0:21:08.98,0:21:10.54,Default,,0,0,0,,那就没办法了
+Dialogue: 0,0:21:20.46,0:21:22.84,Default,,0,0,0,,超可爱的啊
+Dialogue: 0,0:21:24.18,0:21:26.41,Default,,0,0,0,,那就等您五天吧
+Dialogue: 0,0:21:27.99,0:21:30.88,Default,,0,0,0,,在这期间请准备好需要的东西
+Dialogue: 0,0:21:31.95,0:21:32.57,Default,,0,0,0,,不
+Dialogue: 0,0:21:34.57,0:21:36.86,Default,,0,0,0,,客人想买下你
+Dialogue: 0,0:21:37.34,0:21:38.82,Default,,0,0,0,,谢谢您
+Dialogue: 0,0:21:39.40,0:21:41.76,Default,,0,0,0,,这样我根本没法拒绝啊
+Dialogue: 0,0:21:42.16,0:21:42.91,Default,,0,0,0,,那个
+Dialogue: 0,0:21:45.20,0:21:46.56,Default,,0,0,0,,请多多指教
+Dialogue: 0,0:21:51.61,0:21:54.32,Default,,0,0,0,,那么我等您五天后再来
+Dialogue: 0,0:21:55.44,0:21:57.91,Default,,0,0,0,,还不知道怎么才能赚钱
+Dialogue: 0,0:21:58.19,0:22:01.06,Default,,0,0,0,,但是有一件事是我可以确定的
+Dialogue: 0,0:22:02.62,0:22:06.23,Default,,0,0,0,,我要得到罗克珊
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,Screen
+Dialogue: 0,0:01:54.93,0:01:55.22,Scr,,0,0,0,,{\fad(240,0)\fnFZLanTingHei-DB-GBK\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(559.64,145.99)}古代世界
+Dialogue: 0,0:01:55.22,0:01:55.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(560.08,146.34)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.26,0:01:55.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(560.32,146.45)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.30,0:01:55.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(560.53,146.56)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.35,0:01:55.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(560.88,146.66)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.39,0:01:55.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(561.15,146.79)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.43,0:01:55.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(561.48,146.92)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.47,0:01:55.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(561.88,147.09)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.51,0:01:55.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.29,147.21)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.55,0:01:55.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.74,147.37)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.60,0:01:55.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.14,147.51)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.64,0:01:55.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.6,147.65)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.68,0:01:55.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.04,147.81)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.72,0:01:55.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.48,147.98)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.76,0:01:55.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.83,148.14)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.80,0:01:55.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.21,148.26)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.85,0:01:55.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.54,148.41)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.89,0:01:55.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.81,148.56)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.93,0:01:55.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.1,148.71)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:55.97,0:01:56.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.32,148.85)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.01,0:01:56.05,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.47,148.93)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.05,0:01:56.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.65,149.11)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.10,0:01:56.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.75,149.24)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.14,0:01:56.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.84,149.41)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.18,0:01:56.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.88,149.56)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.22,0:01:56.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.85,149.85)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.26,0:01:56.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.86,149.87)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.30,0:01:56.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.82,150.14)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.35,0:01:56.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.76,150.34)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.39,0:01:56.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.68,150.54)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.43,0:01:56.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.51,150.7)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.47,0:01:56.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.35,150.88)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.51,0:01:56.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.19,151.06)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.55,0:01:56.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.01,151.24)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.60,0:01:56.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.77,151.38)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.64,0:01:56.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.57,151.54)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.68,0:01:56.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.34,151.65)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.72,0:01:56.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.09,151.77)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.76,0:01:56.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.83,151.89)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.80,0:01:56.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.55,151.92)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.85,0:01:56.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.28,151.97)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.89,0:01:56.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.01,151.98)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.93,0:01:56.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.82,151.98)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:56.97,0:01:57.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.59,151.98)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.01,0:01:57.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.36,151.99)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.06,0:01:57.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.23,151.95)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.10,0:01:57.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.06,151.86)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.14,0:01:57.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.96,151.79)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.18,0:01:57.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.92,151.7)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.22,0:01:57.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.89,151.53)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.26,0:01:57.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.88,151.37)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.31,0:01:57.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.92,151.19)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.35,0:01:57.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(562.98,151)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.39,0:01:57.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.2,150.71)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.43,0:01:57.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.43,150.53)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.47,0:01:57.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(563.76,150.27)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.51,0:01:57.56,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.09,149.99)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.56,0:01:57.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.44,149.71)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.60,0:01:57.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(564.8,149.44)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.64,0:01:57.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.25,149.17)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.68,0:01:57.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(565.61,148.84)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.72,0:01:57.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.06,148.6)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.76,0:01:57.81,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.46,148.27)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.81,0:01:57.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(566.85,147.95)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.85,0:01:57.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(567.29,147.7)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.89,0:01:57.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(567.71,147.43)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.93,0:01:57.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(568.09,147.14)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:57.97,0:01:58.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(568.46,146.83)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:58.01,0:01:58.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(568.76,146.59)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:58.06,0:01:58.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(569.07,146.37)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:58.10,0:01:58.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(569.37,146.08)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:58.14,0:01:58.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(569.52,145.82)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:58.18,0:01:58.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(569.69,145.47)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:58.22,0:01:58.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(569.86,145.14)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:58.26,0:01:58.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs45\frx12\fry8\frz5.271\fax0.3\pos(570,144.8)\fnFZLanTingHei-DB-GBK}古代世界
+Dialogue: 0,0:01:54.93,0:01:55.22,Scr,,0,0,0,,{\fad(240,0)\fnFZLanTingHei-DB-GBK\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(907.64,161.19)\fax0.3}科学技术发达的世界
+Dialogue: 0,0:01:55.22,0:01:55.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(908.08,161.54)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.26,0:01:55.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(908.32,161.65)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.30,0:01:55.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(908.53,161.76)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.35,0:01:55.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(908.88,161.86)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.39,0:01:55.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(909.15,161.99)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.43,0:01:55.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(909.48,162.12)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.47,0:01:55.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(909.88,162.29)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.51,0:01:55.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.29,162.41)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.55,0:01:55.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.74,162.57)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.60,0:01:55.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.14,162.71)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.64,0:01:55.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.6,162.85)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.68,0:01:55.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.04,163.01)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.72,0:01:55.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.48,163.18)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.76,0:01:55.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.83,163.34)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.80,0:01:55.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.21,163.46)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.85,0:01:55.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.54,163.61)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.89,0:01:55.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.81,163.76)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.93,0:01:55.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.1,163.91)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:55.97,0:01:56.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.32,164.05)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.01,0:01:56.05,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.47,164.13)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.05,0:01:56.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.65,164.31)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.10,0:01:56.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.75,164.44)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.14,0:01:56.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.84,164.61)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.18,0:01:56.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.88,164.76)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.22,0:01:56.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.85,165.05)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.26,0:01:56.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.86,165.07)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.30,0:01:56.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.82,165.34)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.35,0:01:56.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.76,165.54)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.39,0:01:56.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.68,165.74)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.43,0:01:56.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.51,165.9)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.47,0:01:56.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.35,166.08)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.51,0:01:56.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.19,166.26)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.55,0:01:56.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.01,166.44)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.60,0:01:56.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.77,166.58)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.64,0:01:56.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.57,166.74)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.68,0:01:56.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.34,166.85)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.72,0:01:56.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.09,166.97)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.76,0:01:56.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.83,167.09)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.80,0:01:56.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.55,167.12)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.85,0:01:56.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.28,167.17)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.89,0:01:56.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.01,167.18)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.93,0:01:56.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.82,167.18)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:56.97,0:01:57.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.59,167.18)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.01,0:01:57.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.36,167.19)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.06,0:01:57.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.23,167.15)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.10,0:01:57.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.06,167.06)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.14,0:01:57.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.96,166.99)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.18,0:01:57.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.92,166.9)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.22,0:01:57.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.89,166.73)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.26,0:01:57.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.88,166.57)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.31,0:01:57.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.92,166.39)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.35,0:01:57.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(910.98,166.2)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.39,0:01:57.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.2,165.91)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.43,0:01:57.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.43,165.73)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.47,0:01:57.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(911.76,165.47)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.51,0:01:57.56,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.09,165.19)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.56,0:01:57.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.44,164.91)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.60,0:01:57.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(912.8,164.64)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.64,0:01:57.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.25,164.37)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.68,0:01:57.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(913.61,164.04)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.72,0:01:57.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.06,163.8)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.76,0:01:57.81,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.46,163.47)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.81,0:01:57.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(914.85,163.15)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.85,0:01:57.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(915.29,162.9)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.89,0:01:57.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(915.71,162.63)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.93,0:01:57.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(916.09,162.34)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:57.97,0:01:58.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(916.46,162.03)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:58.01,0:01:58.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(916.76,161.79)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:58.06,0:01:58.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(917.07,161.57)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:58.10,0:01:58.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(917.37,161.28)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:58.14,0:01:58.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(917.52,161.02)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:58.18,0:01:58.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(917.69,160.67)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:58.22,0:01:58.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(917.86,160.34)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:58.26,0:01:58.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\frz5.806\pos(918,160)\fax0.3\fnFZLanTingHei-DB-GBK}科学技术发达的世界
+Dialogue: 0,0:01:54.93,0:01:55.22,Scr,,0,0,0,,{\fad(240,0)\fnFZLanTingHei-DB-GBK\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(668.84,549.19)\frz8.679}剑与魔法的世界
+Dialogue: 0,0:01:55.22,0:01:55.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(669.28,549.54)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.26,0:01:55.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(669.52,549.65)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.30,0:01:55.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(669.73,549.76)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.35,0:01:55.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(670.08,549.86)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.39,0:01:55.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(670.35,549.99)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.43,0:01:55.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(670.68,550.12)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.47,0:01:55.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(671.08,550.29)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.51,0:01:55.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(671.49,550.41)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.55,0:01:55.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(671.94,550.57)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.60,0:01:55.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.34,550.71)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.64,0:01:55.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.8,550.85)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.68,0:01:55.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.24,551.01)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.72,0:01:55.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.68,551.18)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.76,0:01:55.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.03,551.34)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.80,0:01:55.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.41,551.46)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.85,0:01:55.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.74,551.61)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.89,0:01:55.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.01,551.76)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.93,0:01:55.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.3,551.91)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:55.97,0:01:56.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.52,552.05)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.01,0:01:56.05,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.67,552.13)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.05,0:01:56.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.85,552.31)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.10,0:01:56.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.95,552.44)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.14,0:01:56.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.04,552.61)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.18,0:01:56.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.08,552.76)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.22,0:01:56.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.05,553.05)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.26,0:01:56.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.06,553.07)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.30,0:01:56.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.02,553.34)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.35,0:01:56.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.96,553.54)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.39,0:01:56.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.88,553.74)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.43,0:01:56.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.71,553.9)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.47,0:01:56.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.55,554.08)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.51,0:01:56.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.39,554.26)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.55,0:01:56.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.21,554.44)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.60,0:01:56.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.97,554.58)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.64,0:01:56.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.77,554.74)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.68,0:01:56.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.54,554.85)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.72,0:01:56.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.29,554.97)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.76,0:01:56.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.03,555.09)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.80,0:01:56.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.75,555.12)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.85,0:01:56.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.48,555.17)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.89,0:01:56.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.21,555.18)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.93,0:01:56.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.02,555.18)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:56.97,0:01:57.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.79,555.18)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.01,0:01:57.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.56,555.19)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.06,0:01:57.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.43,555.15)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.10,0:01:57.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.26,555.06)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.14,0:01:57.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.16,554.99)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.18,0:01:57.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.12,554.9)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.22,0:01:57.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.09,554.73)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.26,0:01:57.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.08,554.57)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.31,0:01:57.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.12,554.39)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.35,0:01:57.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.18,554.2)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.39,0:01:57.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.4,553.91)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.43,0:01:57.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.63,553.73)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.47,0:01:57.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(672.96,553.47)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.51,0:01:57.56,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.29,553.19)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.56,0:01:57.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(673.64,552.91)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.60,0:01:57.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674,552.64)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.64,0:01:57.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.45,552.37)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.68,0:01:57.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(674.81,552.04)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.72,0:01:57.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.26,551.8)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.76,0:01:57.81,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(675.66,551.47)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.81,0:01:57.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.05,551.15)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.85,0:01:57.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.49,550.9)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.89,0:01:57.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(676.91,550.63)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.93,0:01:57.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(677.29,550.34)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:57.97,0:01:58.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(677.66,550.03)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:58.01,0:01:58.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(677.96,549.79)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:58.06,0:01:58.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(678.27,549.57)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:58.10,0:01:58.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(678.57,549.28)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:58.14,0:01:58.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(678.72,549.02)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:58.18,0:01:58.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(678.89,548.67)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:58.22,0:01:58.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(679.06,548.34)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:58.26,0:01:58.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.2\pos(679.2,548)\frz8.679\fnFZLanTingHei-DB-GBK}剑与魔法的世界
+Dialogue: 0,0:01:54.93,0:01:55.22,Scr,,0,0,0,,{\fad(240,0)\fnFZLanTingHei-DB-GBK\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1053.24,501.59)\frz7.922}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.22,0:01:55.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1053.68,501.94)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.26,0:01:55.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1053.92,502.05)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.30,0:01:55.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1054.13,502.16)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.35,0:01:55.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1054.48,502.26)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.39,0:01:55.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1054.75,502.39)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.43,0:01:55.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1055.08,502.52)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.47,0:01:55.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1055.48,502.69)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.51,0:01:55.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1055.89,502.81)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.55,0:01:55.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.34,502.97)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.60,0:01:55.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.74,503.11)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.64,0:01:55.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.2,503.25)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.68,0:01:55.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.64,503.41)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.72,0:01:55.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.08,503.58)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.76,0:01:55.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.43,503.74)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.80,0:01:55.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.81,503.86)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.85,0:01:55.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.14,504.01)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.89,0:01:55.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.41,504.16)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.93,0:01:55.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.7,504.31)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:55.97,0:01:56.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.92,504.45)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.01,0:01:56.05,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.07,504.53)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.05,0:01:56.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.25,504.71)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.10,0:01:56.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.35,504.84)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.14,0:01:56.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.44,505.01)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.18,0:01:56.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.48,505.16)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.22,0:01:56.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.45,505.45)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.26,0:01:56.30,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.46,505.47)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.30,0:01:56.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.42,505.74)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.35,0:01:56.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.36,505.94)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.39,0:01:56.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.28,506.14)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.43,0:01:56.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.11,506.3)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.47,0:01:56.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.95,506.48)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.51,0:01:56.55,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.79,506.66)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.55,0:01:56.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.61,506.84)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.60,0:01:56.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.37,506.98)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.64,0:01:56.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.17,507.14)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.68,0:01:56.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.94,507.25)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.72,0:01:56.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.69,507.37)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.76,0:01:56.80,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.43,507.49)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.80,0:01:56.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.15,507.52)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.85,0:01:56.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.88,507.57)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.89,0:01:56.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.61,507.58)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.93,0:01:56.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.42,507.58)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:56.97,0:01:57.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.19,507.58)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.01,0:01:57.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.96,507.59)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.06,0:01:57.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.83,507.55)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.10,0:01:57.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.66,507.46)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.14,0:01:57.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.56,507.39)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.18,0:01:57.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.52,507.3)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.22,0:01:57.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.49,507.13)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.26,0:01:57.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.48,506.97)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.31,0:01:57.35,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.52,506.79)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.35,0:01:57.39,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.58,506.6)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.39,0:01:57.43,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1056.8,506.31)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.43,0:01:57.47,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.03,506.13)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.47,0:01:57.51,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.36,505.87)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.51,0:01:57.56,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1057.69,505.59)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.56,0:01:57.60,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.04,505.31)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.60,0:01:57.64,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.4,505.04)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.64,0:01:57.68,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1058.85,504.77)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.68,0:01:57.72,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.21,504.44)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.72,0:01:57.76,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1059.66,504.2)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.76,0:01:57.81,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.06,503.87)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.81,0:01:57.85,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.45,503.55)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.85,0:01:57.89,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1060.89,503.3)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.89,0:01:57.93,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1061.31,503.03)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.93,0:01:57.97,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1061.69,502.74)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:57.97,0:01:58.01,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1062.06,502.43)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:58.01,0:01:58.06,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1062.36,502.19)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:58.06,0:01:58.10,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1062.67,501.97)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:58.10,0:01:58.14,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1062.97,501.68)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:58.14,0:01:58.18,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1063.12,501.42)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:58.18,0:01:58.22,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1063.29,501.07)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:58.22,0:01:58.26,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1063.46,500.74)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:01:58.26,0:01:58.31,Scr,,0,0,0,,{\alpha&H00&\bord2\3c&HEAE8E8&\c&H71716E&\fs40\frx4\fry10\fax0.3\pos(1063.6,500.4)\frz7.922\fnFZLanTingHei-DB-GBK}海贼横行跋扈的世界
+Dialogue: 0,0:02:04.77,0:02:09.03,Scr,,0,0,0,,{\fs60\shad5\fax-0.1\pos(438,420)}马
+Dialogue: 0,0:02:10.28,0:02:13.78,Scr,,0,0,0,,{\frz346.5\fad(500,500)\pos(537.2,513.6)}鉴 定
+Dialogue: 0,0:02:18.24,0:02:20.50,Scr,,0,0,0,,{\an1\frz359.1\fs20\c&HFFFFFF&\1a&H86&\fax-0.1\pos(31.644,109.333)}加贺道夫                                    LEVEL：01
+Dialogue: 0,0:02:18.24,0:02:20.50,Scr,,0,0,0,,{\frz359.1\fs25\1a&H86&\fax-0.1\pos(400,227.2)}加贺 道夫
+Dialogue: 0,0:02:18.24,0:02:20.50,Scr,,0,0,0,,{\frz359\fs30\1a&H86&\fax-0.1\pos(478.4,142.4)}状态栏
+Dialogue: 0,0:02:20.75,0:02:24.62,Scr,,0,0,0,,{\frz359\fs35\1a&H86&\fax-0.1\pos(238.4,147.2)}加贺 道夫
+Dialogue: 0,0:02:22.37,0:02:24.62,Scr,,0,0,0,,{\frz359\fs45\1a&H86&\fax-0.1\pos(745.6,488)}<男·17岁> \N村民：Lv1
+Dialogue: 0,0:02:40.26,0:02:41.64,Scr,,0,0,0,,{\pos(350.8,313.2)\fax-0.1}凉鞋
+Dialogue: 0,0:02:51.90,0:02:53.90,Scr,,0,0,0,,{\fs40\1a&H45&\fax-0.1\pos(216,56)}状态栏
+Dialogue: 0,0:02:51.90,0:02:53.90,Scr,,0,0,0,,{\fs35\1a&H45&\fax-0.1\pos(100.8,176)}加贺道夫
+Dialogue: 0,0:02:51.90,0:02:53.90,Scr,,0,0,0,,{\fs40\1a&H45&\fax-0.1\pos(537.6,473.6)}<男·17岁>  村民：Lv1  盗贼：Lv1  装备：凉鞋
+Dialogue: 0,0:02:51.90,0:02:53.90,Scr,,0,0,0,,{\1a&H45&\fax-0.1\pos(1160,406)}村民：Lv1\N 盗贼：Lv1\N装备：凉鞋
+Dialogue: 0,0:03:03.12,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(380.8,133.6)}马
+Dialogue: 0,0:03:02.62,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(164.8,219.2)}柱子
+Dialogue: 0,0:03:03.12,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(627.2,198.4)}柱子
+Dialogue: 0,0:03:03.25,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(816,192)}柱子
+Dialogue: 0,0:03:02.75,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(272,331.2)}栅栏
+Dialogue: 0,0:03:03.25,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(606.4,380.8)}决心戒指
+Dialogue: 0,0:03:02.87,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(208,459.2)}蜱虫
+Dialogue: 0,0:03:03.37,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(521.6,460.8)}栅栏
+Dialogue: 0,0:03:03.62,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(779.2,454.4)}杜兰德尔
+Dialogue: 0,0:03:03.00,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(284.8,580.8)}蚂蚁
+Dialogue: 0,0:03:03.83,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(816,542.4)}稻草
+Dialogue: 0,0:03:03.00,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(353.6,689.6)}草
+Dialogue: 0,0:03:03.50,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(515.2,713.6)}蚂蚁
+Dialogue: 0,0:03:03.37,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(619.2,646.4)}稻草
+Dialogue: 0,0:03:03.75,0:03:04.66,Scr,,0,0,0,,{\fs35\fax-0.1\pos(900.8,668.8)}蚂蚁
+Dialogue: 0,0:03:11.05,0:03:13.92,Scr,,0,0,0,,{\fs40\1a&HA9&\fax-0.1\pos(235.2,164.8)}杜兰德尔
+Dialogue: 0,0:03:12.30,0:03:13.92,Scr,,0,0,0,,{\fs46\fad(300,0)\1a&HA9&\fax-0.1\pos(766.4,539.2)}攻击力5倍 HP吸收 MP吸收 打断咏唱
+Dialogue: 0,0:03:19.68,0:03:24.68,Scr,,0,0,0,,{\fs40\c&HFFFFFF&\1a&H4B&\fax-0.1\pos(224,214.4)}决心戒指
+Dialogue: 0,0:03:19.68,0:03:24.68,Scr,,0,0,0,,{\fs50\1a&H4B&\fax-0.1\pos(726.4,428.8)}攻击力强化\N对人强化
+Dialogue: 0,0:03:50.59,0:03:53.59,Scr,,0,0,0,,{\fs33\1a&H4B&\fax-0.1\pos(329.6,630.4)}<男·17岁> 村民：Lv5
+Dialogue: 0,0:03:50.59,0:03:53.59,Scr,,0,0,0,,{\fs33\1a&H4B&\fax-0.1\pos(1057.6,625.6)}<男·42岁> 农夫：Lv15
+Dialogue: 0,0:04:00.64,0:04:02.39,Scr,,0,0,0,,{\fs39\shad3\fax-0.1\pos(650.8,176.4)}盗贼
+Dialogue: 0,0:04:12.65,0:04:17.15,Scr,,0,0,0,,{\fs35\1a&H4B&\fax-0.1\pos(672,494.4)}<男·38岁>\N盗贼：Lv41\N装备：铁剑\N盗贼头巾\N 铁甲\N皮靴
+Dialogue: 0,0:05:39.07,0:05:45.03,Scr,,0,0,0,,{\fs25\1a&H4B&\fax-0.1\pos(164.8,96)}加贺 道夫          LEVEL：02
+Dialogue: 0,0:05:39.07,0:05:45.03,Scr,,0,0,0,,{\fs25\1a&H4B&\fax-0.1\pos(396.8,212.8)}加贺 道夫
+Dialogue: 0,0:05:39.07,0:05:45.03,Scr,,0,0,0,,{\fs39\1a&H4B&\fax-0.1\pos(720,427.2)}村民：Lv2 盗贼：：Lv2 英雄：Lv2
+Dialogue: 0,0:05:39.07,0:05:45.03,Scr,,0,0,0,,{\fs32\1a&H4B&\fax-0.1\pos(484.8,126.4)}状态栏
+Dialogue: 0,0:06:34.25,0:06:36.25,Scr,,0,0,0,,{\fs25\1a&H4B&\fax-0.1\pos(411.2,204.8)}鉴定
+Dialogue: 0,0:06:34.25,0:06:36.25,Scr,,0,0,0,,{\fs25\1a&H4B&\fax-0.1\pos(380.8,288)}头巾
+Dialogue: 0,0:06:34.25,0:06:36.25,Scr,,0,0,0,,{\fs35\1a&H4B&\fax-0.1\pos(707.2,345.6)}无技能
+Dialogue: 0,0:06:41.88,0:06:44.38,Scr,,0,0,0,,{\fs55\1a&H4B&\fax-0.1\pos(1153.6,454.4)}<男·38岁>\N盗贼：Lv41\N装备：铁剑\N盗贼头巾\N铁甲\N皮靴
+Dialogue: 0,0:07:45.03,0:07:48.03,Scr,,0,0,0,,{\pos(1049.6,403.2)}无法回到现实
+Dialogue: 0,0:07:58.62,0:08:05.30,Scr,,0,0,0,,{\fs25\1a&H4B&\fax-0.1\pos(483.2,196.8)}状态栏
+Dialogue: 0,0:07:58.62,0:08:05.30,Scr,,0,0,0,,{\fs25\1a&H4B&\fax-0.1\pos(403.2,280)}加贺 道夫
+Dialogue: 0,0:07:58.62,0:08:05.30,Scr,,0,0,0,,{\fs35\1a&H4B&\fax-0.1\pos(716.8,486.4)}村民：Lv2 盗贼：Lv2 英雄：Lv2
+Dialogue: 0,0:08:05.38,0:08:05.76,Scr,,0,0,0,,{\fs45\c&H262A2A&\3c&HEAE8E8&\bord2\pos(500.8,164.8)}古代世界
+Dialogue: 0,0:08:05.38,0:08:05.76,Scr,,0,0,0,,{\fs45\c&H262A2A&\3c&HEAE8E8&\bord2\pos(451.2,571.2)}剑与魔法的世界
+Dialogue: 0,0:08:05.38,0:08:05.76,Scr,,0,0,0,,{\fs45\c&H262A2A&\3c&HEAE8E8&\bord2\pos(835.2,574.4)}海贼横行跋扈的世界
+Dialogue: 0,0:08:05.38,0:08:05.76,Scr,,0,0,0,,{\fs45\c&H262A2A&\3c&HEAE8E8&\bord2\pos(836.8,211.2)}科学技术发达的世界
+Dialogue: 0,0:08:05.76,0:08:06.63,Scr,,0,0,0,,{\fs40\c&H0304DC&\3c&H262A2A&\bord2\pos(640,78.4)}最后警告！
+Dialogue: 0,0:08:05.76,0:08:06.63,Scr,,0,0,0,,{\fs35\c&H0304DC&\3c&H262A2A&\bord2\pos(643.2,417.6)}进入后将无法再度返回您确定要继续吗？
+Dialogue: 0,0:08:05.76,0:08:06.63,Scr,,0,0,0,,{\fs45\c&H0304DC&\3c&H262A2A&\bord2\pos(636.8,692.8)}是                                                    否
+Dialogue: 0,0:08:38.25,0:08:39.62,Scr,,0,0,0,,{\fs55\fax-0.1\pos(292.4,574.8)}血
+Dialogue: 0,0:09:55.74,0:09:57.37,Scr,,0,0,0,,{\fs55\4c&H3F5260&\shad3\fax-0.1\pos(668.4,108.4)}盗贼头巾
+Dialogue: 0,0:11:53.82,0:11:55.82,Scr,,0,0,0,,{\fax-0.1\pos(393.6,410)}翌日早晨    通往贝尔的大道
+Dialogue: 0,0:12:32.82,0:12:34.82,Scr,,0,0,0,,{\fax-0.1\pos(307.6,400)}贝尔   骑士团驻点
+Dialogue: 0,0:13:51.56,0:13:52.31,Scr,,0,0,0,,{\shad6\fax-0.1\pos(636,90)}娼  馆
+Dialogue: 0,0:14:13.83,0:14:15.71,Scr,,0,0,0,,{\fax-0.1\pos(307.2,411.6)}贝尔   亚蓝的公馆
+Dialogue: 0,0:14:21.84,0:14:23.59,Scr,,0,0,0,,{\fs23\1a&H4B&\fax-0.1\pos(768,430.4)}亚蓝
+Dialogue: 0,0:14:21.84,0:14:23.59,Scr,,0,0,0,,{\fs35\1a&H4B&\fax-0.1\pos(1024.4,579.6)}男 51岁 奴隶商人
+Dialogue: 0,0:17:37.83,0:17:38.83,Scr,,0,0,0,,{\fs23\fad(300,0)\1a&H4B&\fax-0.2\pos(832,59.2)}鉴定
+Dialogue: 0,0:17:37.83,0:17:38.83,Scr,,0,0,0,,{\fs25\fad(300,0)\1a&H4B&\fax-0.1\pos(814.4,124.8)}罗克珊
+Dialogue: 0,0:17:37.83,0:17:38.83,Scr,,0,0,0,,{\fs35\fad(300,0)\1a&H4B&\fax-0.1\pos(1043.6,265.6)}女性16岁 兽战士：等级6
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:24.09,0:00:33.81,OP-JP,,0,0,0,,{\fad(240,240)\blur5}錆びついた　喉元冷たく（砕けた）
+Dialogue: 0,0:00:33.99,0:00:39.06,OP-JP,,0,0,0,,{\fad(240,240)\blur5}隠された創傷を　吐きだした慟哭は
+Dialogue: 0,0:00:39.41,0:00:43.48,OP-JP,,0,0,0,,{\fad(240,240)\blur5}夜に消え（呑まれて）
+Dialogue: 0,0:00:43.48,0:00:52.28,OP-JP,,0,0,0,,{\fad(240,240)\blur5}沈む影を塗り替えていった　眩く
+Dialogue: 0,0:00:52.28,0:00:58.04,OP-JP,,0,0,0,,{\fad(240,240)\blur5}痛み焦がし　焼き尽くす誓いと
+Dialogue: 0,0:00:58.04,0:01:02.06,OP-JP,,0,0,0,,{\fad(240,240)\blur5}共に行く先へ
+Dialogue: 0,0:01:03.41,0:01:08.14,OP-JP,,0,0,0,,{\fad(240,240)\blur5}この瞳に流した涙忘れない
+Dialogue: 0,0:01:08.38,0:01:13.18,OP-JP,,0,0,0,,{\fad(240,240)\blur5}いま流した分だけ力になるよ
+Dialogue: 0,0:01:13.18,0:01:20.18,OP-JP,,0,0,0,,{\fad(240,240)\blur5}胸を揺らした魂が叫んでる
+Dialogue: 0,0:01:20.18,0:01:23.73,OP-JP,,0,0,0,,{\fad(240,240)\blur5}すべて捧げて
+Dialogue: 0,0:01:23.73,0:01:27.44,OP-JP,,0,0,0,,{\fad(240,240)\blur5}芽生えた想いも　その先まで
+Dialogue: 0,0:01:27.73,0:01:32.57,OP-JP,,0,0,0,,{\fad(240,240)\blur5}いつも傍でうるさく鳴り続けてる
+Dialogue: 0,0:01:32.57,0:01:38.26,OP-JP,,0,0,0,,{\fad(240,240)\blur5}触れた指を　抱いたあたたかさを
+Dialogue: 0,0:01:38.26,0:01:43.27,OP-JP,,0,0,0,,{\fad(240,240)\blur5}知った　だから　突き進んで
+Dialogue: 0,0:00:24.09,0:00:33.81,OP-CH,,0,0,0,,{\fad(240,240)\blur5}难以发声 喉头冰冷（要碎掉）
+Dialogue: 0,0:00:33.99,0:00:39.06,OP-CH,,0,0,0,,{\fad(240,240)\blur5}潜藏的伤痛 随着恸哭倾吐而出
+Dialogue: 0,0:00:39.41,0:00:43.48,OP-CH,,0,0,0,,{\fad(240,240)\blur5}消失在黑夜之中（被月色所吞没）
+Dialogue: 0,0:00:43.48,0:00:52.28,OP-CH,,0,0,0,,{\fad(240,240)\blur5}誓言再一次照耀消沉的背影
+Dialogue: 0,0:00:52.28,0:00:58.04,OP-CH,,0,0,0,,{\fad(240,240)\blur5}承载着过往疼痛 点燃一切
+Dialogue: 0,0:00:58.04,0:01:02.06,OP-CH,,0,0,0,,{\fad(240,240)\blur5}一同前行
+Dialogue: 0,0:01:03.41,0:01:08.14,OP-CH,,0,0,0,,{\fad(240,240)\blur5}我是不会忘记那滑过脸庞的泪水
+Dialogue: 0,0:01:08.38,0:01:13.18,OP-CH,,0,0,0,,{\fad(240,240)\blur5}正是那些泪水化作了如今的力量
+Dialogue: 0,0:01:13.18,0:01:20.18,OP-CH,,0,0,0,,{\fad(240,240)\blur5}心动胸摇 咆哮的炽热灵魂
+Dialogue: 0,0:01:20.18,0:01:23.73,OP-CH,,0,0,0,,{\fad(240,240)\blur5}献上自己的一切
+Dialogue: 0,0:01:23.73,0:01:27.44,OP-CH,,0,0,0,,{\fad(240,240)\blur5}心中萌生的感情 不断膨胀
+Dialogue: 0,0:01:27.73,0:01:32.57,OP-CH,,0,0,0,,{\fad(240,240)\blur5}与你一同直至旅途的尽头
+Dialogue: 0,0:01:32.57,0:01:38.26,OP-CH,,0,0,0,,{\fad(240,240)\blur5}正因为知晓了胸前那十指相扣的温暖
+Dialogue: 0,0:01:38.26,0:01:43.27,OP-CH,,0,0,0,,{\fad(240,240)\blur5}我才能毫不畏惧 勇往直前
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:10.94,0:22:15.23,Dial-JP,,0,0,0,,これからご紹介いたしますのは貴方様にこそ相応しい逸品
+Dialogue: 0,0:22:15.36,0:22:17.90,Dial-JP,,0,0,0,,さぁ   どうぞ奥の部屋へ
+Dialogue: 0,0:22:18.03,0:22:21.41,Dial-JP,,0,0,0,,絵画より　ダイヤより　美しい夢の逸品
+Dialogue: 0,0:22:21.53,0:22:23.37,Dial-JP,,0,0,0,,狂おしいまでの美
+Dialogue: 0,0:22:23.37,0:22:24.99,Dial-JP,,0,0,0,,見惚れるほどに
+Dialogue: 0,0:22:24.99,0:22:28.54,Dial-JP,,0,0,0,,名弓も　名刀も　霞むような鋭さ
+Dialogue: 0,0:22:28.54,0:22:30.37,Dial-JP,,0,0,0,,強さのその先
+Dialogue: 0,0:22:30.37,0:22:31.87,Dial-JP,,0,0,0,,いうなれば奇跡
+Dialogue: 0,0:22:31.87,0:22:35.50,Dial-JP,,0,0,0,,甘美なる曲線の織りなせる構造美
+Dialogue: 0,0:22:35.50,0:22:38.88,Dial-JP,,0,0,0,,見た目だけではございません　切れ味鋭い動きの良さも
+Dialogue: 0,0:22:38.88,0:22:42.47,Dial-JP,,0,0,0,,巧みなる業の妙味　もはや芸術品
+Dialogue: 0,0:22:42.47,0:22:46.01,Dial-JP,,0,500,0,,これほどのものとなりますと　滅多にはお目にかかれません
+Dialogue: 0,0:22:46.01,0:22:47.93,Dial-JP,,0,0,0,,なんて滑らかな手触り
+Dialogue: 0,0:22:47.93,0:22:50.77,Dial-JP,,0,0,0,,この佇まいはそう真似できるものではございません
+Dialogue: 0,0:22:50.77,0:22:53.15,Dial-JP,,0,0,0,,しかし　こんな素晴らしいものをなぜ
+Dialogue: 0,0:22:53.15,0:22:56.61,Dial-JP,,0,0,0,,至高の逸品には相応しい持ち主が必要でございます
+Dialogue: 0,0:22:56.61,0:22:59.07,Dial-JP,,0,0,0,,これは買うっきゃない!?
+Dialogue: 0,0:22:58.36,0:23:00.19,Dial-JP2,,0,0,0,,ご契約　ありがとうございます
+Dialogue: 0,0:22:59.69,0:23:07.12,Dial-JP,,0,0,0,,人生が変わるほど素晴らしい出会いがここに
+Dialogue: 0,0:23:07.12,0:23:14.17,Dial-JP,,0,0,0,,貴方の未来を輝かしく彩るでしょう
+Dialogue: 0,0:23:14.29,0:23:21.30,Dial-JP,,0,0,0,,何気ない日常を特別に変えるのは
+Dialogue: 0,0:23:21.30,0:23:24.17,Dial-JP,,0,0,0,,魔法や神じゃない
+Dialogue: 0,0:23:24.17,0:23:28.55,Dial-JP,,0,0,0,,たった一輪の枯れぬ花
+Dialogue: 0,0:23:28.55,0:23:32.14,Dial-JP,,0,0,0,,絵画より　ダイヤより　美しい夢の逸品
+Dialogue: 0,0:23:32.14,0:23:33.77,Dial-JP,,0,0,0,,狂おしいまでの美
+Dialogue: 0,0:23:33.77,0:23:35.77,Dial-JP,,0,0,0,,いうなれば奇跡
+Dialogue: 0,0:23:35.77,0:23:38.07,Dial-JP,,0,0,0,,末永くお幸せに
+Dialogue: 1,0:22:10.94,0:22:15.23,Dial-CH,,0,0,0,,接下来要介绍的是只有您才配得上的极品
+Dialogue: 1,0:22:15.36,0:22:17.90,Dial-CH,,0,0,0,,来吧 请到里面的屋子里来
+Dialogue: 1,0:22:18.03,0:22:21.41,Dial-CH,,0,0,0,,比油画 甚至钻石 都还要赏心悦目的梦中极品
+Dialogue: 1,0:22:21.53,0:22:23.37,Dial-CH,,0,0,0,,癫狂之美
+Dialogue: 1,0:22:23.37,0:22:24.99,Dial-CH,,0,0,0,,让人深陷其中 无法自拔
+Dialogue: 1,0:22:24.99,0:22:28.54,Dial-CH,,0,0,0,,不论是名弓 还是名刀 在这份速度之前都将黯然失色
+Dialogue: 1,0:22:28.54,0:22:30.37,Dial-CH,,0,0,0,,强大的前方
+Dialogue: 1,0:22:30.37,0:22:31.87,Dial-CH,,0,0,0,,就是所谓的奇迹
+Dialogue: 1,0:22:31.87,0:22:35.50,Dial-CH,,0,0,0,,那甜美的曲线交织而成的构造美
+Dialogue: 1,0:22:35.50,0:22:38.88,Dial-CH,,0,0,0,,并不只是绣花枕头 不仅能干还身手敏捷
+Dialogue: 1,0:22:38.88,0:22:42.47,Dial-CH,,0,0,0,,巧夺天工的妙处已经堪比艺术品
+Dialogue: 1,0:22:42.47,0:22:46.01,Dial-CH,,0,500,0,,这样子的极品 可是很少能见到的
+Dialogue: 1,0:22:46.01,0:22:47.93,Dial-CH,,0,0,0,,这手感是何等的滑腻
+Dialogue: 1,0:22:47.93,0:22:50.77,Dial-CH,,0,0,0,,这光滑的皮肤可不是能作假的
+Dialogue: 1,0:22:50.77,0:22:53.15,Dial-CH,,0,0,0,,但是 为什么要把如此极品介绍给我呢
+Dialogue: 1,0:22:53.15,0:22:56.61,Dial-CH,,0,0,0,,因为极品同样需要与之相配的主人
+Dialogue: 1,0:22:56.61,0:22:59.07,Dial-CH,,0,0,0,,这岂能不买?!
+Dialogue: 1,0:22:58.36,0:23:00.19,Dial-CH2,,0,0,0,,非常感谢您的购买
+Dialogue: 1,0:22:59.69,0:23:07.12,Dial-CH,,0,0,0,,人生如戏 绝妙的邂逅就在于此
+Dialogue: 1,0:23:07.12,0:23:14.17,Dial-CH,,0,0,0,,你的未来一定是一片光明 充满春色吧
+Dialogue: 1,0:23:14.29,0:23:21.30,Dial-CH,,0,0,0,,让这一成不变的日常变得特别的
+Dialogue: 1,0:23:21.30,0:23:24.17,Dial-CH,,0,0,0,,并不是魔法和神明
+Dialogue: 1,0:23:24.17,0:23:28.55,Dial-CH,,0,0,0,,而是一朵永远绽放的花儿
+Dialogue: 1,0:23:28.55,0:23:32.14,Dial-CH,,0,0,0,,比油画 甚至钻石 都还要赏心悦目的梦中极品
+Dialogue: 1,0:23:32.14,0:23:33.77,Dial-CH,,0,0,0,,癫狂之美
+Dialogue: 1,0:23:33.77,0:23:35.77,Dial-CH,,0,0,0,,这就是所谓的奇迹
+Dialogue: 1,0:23:35.77,0:23:38.07,Dial-CH,,0,0,0,,祝您永远幸福

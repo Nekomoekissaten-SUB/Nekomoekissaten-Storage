@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Isekai Meikyuu de Harem wo [OVA01][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Scr,FZLanTingHei-B-GBK,66,&H00FFFFFF,&H000000FF,&H00525121,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: OP-JP,FOT-TsukuMin Pr6N H,48,&H002B1C07,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: OP-CH,FZYaSong-EB-GBK,35,&H002B1C07,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Dial-JP,FOT-TsukuMin Pr6N H,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,6,1
+Style: Dial-CH,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,48,1
+Style: Dial-JP2,FOT-TsukuMin Pr6N H,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,2,1
+Style: Dial-CH2,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.98,0:00:05.99,Default,,0,0,0,,{\fad(700,700)\an8\fs30\bord1.6}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯：Ronny　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:02.36,0:00:05.47,Default,,0,0,0,,能感受到 自己是活著的
+Dialogue: 0,0:00:20.46,0:00:21.62,Default,,0,0,0,,是我太用力了嗎
+Dialogue: 0,0:00:21.77,0:00:23.73,Default,,0,0,0,,沒有 沒事
+Dialogue: 0,0:00:24.03,0:00:27.04,Default,,0,0,0,,是嗎 不需要勉強
+Dialogue: 0,0:00:27.19,0:00:29.49,Default,,0,0,0,,不 真的沒事
+Dialogue: 0,0:00:29.85,0:00:30.69,Default,,0,0,0,,而且…
+Dialogue: 0,0:00:31.38,0:00:35.67,Default,,0,0,0,,稍微用力一些 那個…
+Dialogue: 0,0:00:36.28,0:00:38.27,Default,,0,0,0,,會更舒服嗎
+Dialogue: 0,0:00:53.60,0:00:56.70,Default,,0,0,0,,主人 可以再用力一些…
+Dialogue: 0,0:00:57.29,0:00:57.98,Default,,0,0,0,,再用力些…
+Dialogue: 0,0:01:04.04,0:01:05.84,Default,,0,0,0,,這種力道怎麼樣
+Dialogue: 0,0:01:06.17,0:01:07.62,Default,,0,0,0,,嗯 非常…
+Dialogue: 0,0:01:11.06,0:01:12.94,Default,,0,0,0,,那這樣呢
+Dialogue: 0,0:01:14.31,0:01:15.57,Default,,0,0,0,,主人…
+Dialogue: 0,0:01:24.37,0:01:25.26,Default,,0,0,0,,怎麼了
+Dialogue: 0,0:01:25.26,0:01:27.23,Default,,0,0,0,,要是疼的話 還是停下吧
+Dialogue: 0,0:01:28.14,0:01:29.49,Default,,0,0,0,,別…
+Dialogue: 0,0:01:30.90,0:01:32.47,Default,,0,0,0,,你還想繼續嗎
+Dialogue: 0,0:01:35.20,0:01:36.94,Default,,0,0,0,,要不還是算了吧
+Dialogue: 0,0:01:38.21,0:01:39.89,Default,,0,0,0,,這樣我怎麼明白呢
+Dialogue: 0,0:01:40.25,0:01:41.91,Default,,0,0,0,,可以好好說出來嗎
+Dialogue: 0,0:01:44.57,0:01:45.51,Default,,0,0,0,,羅克珊
+Dialogue: 0,0:01:45.80,0:01:49.04,Default,,0,0,0,,很… 很舒服
+Dialogue: 0,0:01:49.41,0:01:51.58,Default,,0,0,0,,請繼續吧
+Dialogue: 0,0:01:52.13,0:01:54.80,Default,,0,0,0,,說得好 獎勵你
+Dialogue: 0,0:02:17.26,0:02:18.79,Default,,0,0,0,,都溼成這樣了
+Dialogue: 0,0:02:20.34,0:02:21.81,Default,,0,0,0,,對不起
+Dialogue: 0,0:02:38.89,0:02:40.91,Default,,0,0,0,,羅克珊 可以嗎
+Dialogue: 0,0:02:41.62,0:02:42.31,Default,,0,0,0,,來吧
+Dialogue: 0,0:03:10.10,0:03:10.75,Default,,0,0,0,,那個…
+Dialogue: 0,0:03:27.52,0:03:28.80,Default,,0,0,0,,主人
+Dialogue: 0,0:03:31.02,0:03:31.61,Default,,0,0,0,,怎麼了
+Dialogue: 0,0:03:34.47,0:03:38.14,Default,,0,0,0,,那… 那個 再深一點
+Dialogue: 0,0:03:39.40,0:03:41.48,Default,,0,0,0,,不行了 這樣下去…
+Dialogue: 0,0:03:44.09,0:03:44.80,Default,,0,0,0,,我要…
+Dialogue: 0,0:03:45.13,0:03:48.17,Default,,0,0,0,,羅克珊 不用忍著
+Dialogue: 0,0:03:51.04,0:03:53.46,Default,,0,0,0,,主人 我…
+Dialogue: 0,0:03:53.79,0:03:55.33,Default,,0,0,0,,我已經…
+Dialogue: 0,0:03:56.13,0:03:57.84,Default,,0,0,0,,不行了
+Dialogue: 0,0:04:13.55,0:04:15.77,Default,,0,0,0,,這樣下去要窒息了
+Dialogue: 0,0:04:16.26,0:04:19.43,Default,,0,0,0,,但是 好幸福啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:04:17.32,0:04:20.82,Scr,,0,0,0,,{\fad(0,700)\fax-0.1\pos(307.6,400)}貝爾  貝爾亭

@@ -1,0 +1,78 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Isekai Meikyuu de Harem wo [OVA02][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Scr,FZLanTingHei-B-GBK,66,&H00FFFFFF,&H000000FF,&H00525121,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: OP-JP,FOT-TsukuMin Pr6N H,48,&H002B1C07,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: OP-CH,FZYaSong-EB-GBK,35,&H002B1C07,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Dial-JP,FOT-TsukuMin Pr6N H,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,10,10,6,1
+Style: Dial-CH,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,48,1
+Style: Dial-JP2,FOT-TsukuMin Pr6N H,46,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,2,1
+Style: Dial-CH2,FZYaSong-B-GBK,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:04:33.25,0:04:35.21,Default,,0,0,0,,{\fad(500,500)\an8\fs30\bord1.6}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译：Ronny　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:20.43,0:00:21.83,Default,,0,0,0,,等… 等一下
+Dialogue: 0,0:00:22.15,0:00:23.60,Default,,0,0,0,,是我用力太大了吗
+Dialogue: 0,0:00:23.60,0:00:25.13,Default,,0,0,0,,那倒不是
+Dialogue: 0,0:00:25.32,0:00:29.76,Default,,0,0,0,,刺激确实是太大了 我快顶不住了
+Dialogue: 0,0:00:29.76,0:00:31.08,Default,,0,0,0,,这样转过来
+Dialogue: 0,0:00:32.60,0:00:33.89,Default,,0,0,0,,只要这个姿势
+Dialogue: 0,0:00:34.61,0:00:36.85,Default,,0,0,0,,怎么样 就能从后面洗了
+Dialogue: 0,0:00:38.05,0:00:40.86,Default,,0,0,0,,好… 好的 确实没错
+Dialogue: 0,0:00:45.84,0:00:48.61,Default,,0,0,0,,主人 您的身体怎么样了
+Dialogue: 0,0:00:50.39,0:00:54.18,Default,,0,0,0,,罗克珊 你身上滑溜溜 又好温暖
+Dialogue: 0,0:00:55.06,0:00:56.19,Default,,0,0,0,,主人
+Dialogue: 0,0:00:58.13,0:00:59.39,Default,,0,0,0,,我来动吧
+Dialogue: 0,0:00:59.70,0:01:02.33,Default,,0,0,0,,好 我会好好让您洗的
+Dialogue: 0,0:01:07.68,0:01:09.99,Default,,0,0,0,,这个体位还挺滑的
+Dialogue: 0,0:01:10.49,0:01:13.73,Default,,0,0,0,,那就把它 这样子
+Dialogue: 0,0:01:17.16,0:01:21.34,Default,,0,0,0,,这样就算滑到也没关系了
+Dialogue: 0,0:01:25.16,0:01:26.10,Default,,0,0,0,,我要试试了
+Dialogue: 0,0:01:26.28,0:01:26.90,Default,,0,0,0,,好
+Dialogue: 0,0:01:32.02,0:01:33.67,Default,,0,0,0,,嗯 这样没问题
+Dialogue: 0,0:01:36.25,0:01:40.01,Default,,0,0,0,,主人要把我的每个角落都洗干净
+Dialogue: 0,0:01:46.95,0:01:49.59,Default,,0,0,0,,难得的泡沫落到水里了
+Dialogue: 0,0:01:52.73,0:01:55.54,Default,,0,0,0,,不用在意 泡沫要多少有多少
+Dialogue: 0,0:01:55.54,0:01:58.17,Default,,0,0,0,,只要你愿意让我这么洗
+Dialogue: 0,0:01:59.75,0:02:00.75,Default,,0,0,0,,主人
+Dialogue: 0,0:02:03.49,0:02:06.18,Default,,0,0,0,,主人 接下来轮到我了
+Dialogue: 0,0:02:09.59,0:02:10.58,Default,,0,0,0,,罗克珊？
+Dialogue: 0,0:02:11.23,0:02:13.72,Default,,0,0,0,,这是您帮我做肥皂的回礼
+Dialogue: 0,0:02:14.49,0:02:17.40,Default,,0,0,0,,请让我来侍奉您吧
+Dialogue: 0,0:02:19.39,0:02:20.54,Default,,0,0,0,,舒服吗
+Dialogue: 0,0:02:21.00,0:02:21.75,Default,,0,0,0,,嗯
+Dialogue: 0,0:02:22.04,0:02:25.40,Default,,0,0,0,,您不用忍着不出声
+Dialogue: 0,0:02:30.56,0:02:33.26,Default,,0,0,0,,罗克珊 忍不住了…
+Dialogue: 0,0:02:34.42,0:02:35.54,Default,,0,0,0,,我明白了
+Dialogue: 0,0:02:39.93,0:02:41.69,Default,,0,0,0,,我是不是太重了
+Dialogue: 0,0:02:42.15,0:02:43.24,Default,,0,0,0,,没问题
+Dialogue: 0,0:02:43.98,0:02:46.56,Default,,0,0,0,,那么 我要为您洗了
+Dialogue: 0,0:02:57.57,0:02:59.74,Default,,0,0,0,,怎么样 主人
+Dialogue: 0,0:03:00.35,0:03:02.97,Default,,0,0,0,,我洗得好吗
+Dialogue: 0,0:03:03.42,0:03:05.61,Default,,0,0,0,,嗯 不能再好了
+Dialogue: 0,0:03:07.83,0:03:09.49,Default,,0,0,0,,我也来帮你洗
+Dialogue: 0,0:03:11.75,0:03:13.29,Default,,0,0,0,,继续刚才的
+Dialogue: 0,0:03:20.32,0:03:23.78,Default,,0,0,0,,主人 差不多…
+Dialogue: 0,0:03:28.03,0:03:31.14,Default,,0,0,0,,差不多该洗完了
+Dialogue: 0,0:04:07.76,0:04:09.72,Default,,0,0,0,,皮肤滑溜溜的 好舒服
+Dialogue: 0,0:04:10.33,0:04:13.36,Default,,0,0,0,,肥皂真是个好东西啊
+Dialogue: 0,0:04:13.64,0:04:15.86,Default,,0,0,0,,你喜欢就好
+Dialogue: 0,0:04:16.20,0:04:18.47,Default,,0,0,0,,能用那么多泡沫洗澡
+Dialogue: 0,0:04:18.76,0:04:20.93,Default,,0,0,0,,感觉自己仿佛重生了
+Dialogue: 0,0:04:21.16,0:04:23.08,Default,,0,0,0,,就算不用肥皂
+Dialogue: 0,0:04:23.91,0:04:26.00,Default,,0,0,0,,罗克珊也已经很漂亮了
+Dialogue: 0,0:04:27.12,0:04:28.96,Default,,0,0,0,,谢谢您
