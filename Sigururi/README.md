@@ -2,8 +2,7 @@
 
 ## 中日双语字幕
 
-[简日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sigururi/Sigururi_BD_JPSC.7z)  
-[繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sigururi/Sigururi_BD_JPTC.7z)
+[BD字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Sigururi_BD_JPCH.7z)
 
 所需字体：
 ```
