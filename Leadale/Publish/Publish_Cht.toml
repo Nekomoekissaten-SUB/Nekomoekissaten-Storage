@@ -1,0 +1,26 @@
+#Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
+display_name="【喵萌奶茶屋】[里亞德錄大地 / Leadale no Daichi nite][<ep>][BDRip][<res>p][繁體][招募翻譯]"
+group_name="[喵萌奶茶屋]"
+poster="https://nekomoe.pages.dev/images/2022-01/w1000/leadale_1000.png"
+about="https://github.com/Nekomoekissaten-SUB"
+# Use ''' to avoid escape
+# filename_regex='''\]\[(?<ep>\d{2})\]\['''
+filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
+tags=["Anime", "Collection"]
+
+[[intro_template]]
+site="nyaa"
+name="nekomoekissaten"
+
+[[intro_template]]
+site="dmhy"
+name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgrip"
+name="喵萌奶茶屋"
+
+# [[intro_template]]
+# site="bangumi"
+# name="喵萌奶茶屋"
