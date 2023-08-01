@@ -1,0 +1,106 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Araiya-san! Ore to Aitsu ga Onnayu de! [04][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正悠黑_GBK 509R,48,&H00FFFFFF,&H000000FF,&H003C4CC5,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,15,1
+Style: STAFF,方正达利体简繁 DemiBold,45,&H00FFFFFF,&H00FFFFFF,&H3C454548,&H00686766,0,0,0,0,100,100,2,0,1,2,0,8,15,15,15,1
+Style: TITLE,方正悠宋 GBK 507R,60,&H00000000,&H00FFFFFF,&H00030303,&H80000000,0,0,0,0,100,104,10,0,1,0,0,3,10,99,120,1
+Style: ED_JP,A-OTF A1 Mincho Std Bold,50,&H000E0E19,&H008FB4E4,&H14000000,&H00000000,0,0,0,0,100,100,1.33333,0,1,0,0,2,57,10,23,1
+Style: ED_CN,方正细雅宋_GBK,42,&H00000000,&H000000FF,&H14000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,8,10,57,23,1
+Style: CN,方正达利体简繁 DemiBold,44,&H00FFFFFF,&H00FFFFFF,&H3CFFA40D,&H00686766,0,0,0,0,100,100,1.2,0,1,2.13333,0,2,10,10,10,1
+Style: CN_UP,方正达利体简繁 DemiBold,37,&H00FFFFFF,&H00FFFFFF,&H3CFFA40D,&H00686766,0,0,0,0,100,100,1.2,0,1,2.13333,0,8,10,10,11,1
+Style: JP,FOT-Humming Std D,37,&H00FFFFFF,&H00FFFFFF,&H3CFFA40D,&H00686766,0,0,0,0,100,100,1.33333,0,1,2,0,2,10,10,11,128
+Style: JP_UP,FOT-Humming Std D,33,&H00FFFFFF,&H00FFFFFF,&H3CFFA40D,&H00686766,0,0,0,0,100,100,1.33333,0,1,2,0,8,10,10,10,128
+Style: EN LYRICS,方正达利体简繁 DemiBold,37,&H00FFFFFF,&H00FFFFFF,&H3CFFA40D,&H00686766,0,0,0,0,100,100,1.33333,0,1,2,0,2,10,10,11,1
+Style: COMMENT,方正达利体简繁 DemiBold,30,&H00FFFFFF,&H00FFFFFF,&H3CFFA40D,&H00686766,0,0,0,0,100,100,1.2,0,1,2.13333,0,7,10,10,10,1
+Style: Gothic,方正悠黑_GBK 504L,43,&H27FFFFFF,&H00FFFFFF,&H3CFFFFFF,&H00686766,0,0,0,0,100,100,1.5,0,1,0,0,7,10,10,13,134
+Style: Min,方正细雅宋_GBK,50,&H00030303,&H00FFFFFF,&H00FFFFFF,&H00686766,0,0,0,0,100,100,1.5,0,1,0,0,7,10,10,13,134
+Style: Maru,方正悠黑_GBK 504L,37,&H00030303,&H00FFFFFF,&H00FFFFFF,&H00686766,0,0,0,0,100,100,1.5,0,1,0,0,7,10,10,13,1
+Style: Cartoon,方正卡通_GBK,50,&H00030303,&H00FFFFFF,&H00FFFFFF,&H00686766,0,0,0,0,100,100,1.5,0,1,0,0,7,10,10,13,134
+Style: Kai,方正楷体_GBK,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00686766,0,0,0,0,100,100,1.5,0,1,0,0,7,10,10,13,134
+Style: OP_JP,FOT-Skip Std B,47,&H00FD4655,&H00FFFFFF,&H00FFFFFF,&H64DFDE38,0,-1,0,0,100,100,2.66667,0,1,2.13333,2,2,10,10,10,1
+Style: OP_CN,方正正中黑_GBK,40,&H00FD4655,&H00FFFFFF,&H00FFFFFF,&H64DFDE38,0,0,0,0,100,100,2.66667,0,1,2.13333,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------STAFF----------------------
+Dialogue: 0,0:00:00.00,0:00:03.14,STAFF,,0,0,0,,{\blur1.333\fad(500,500)}本字幕由喵萌奶茶屋製作  如喜歡本作品請支持購買正版  謝謝合作 \N字幕組招新QQ群：421320480
+Dialogue: 0,0:00:03.14,0:00:06.73,STAFF,,0,0,0,,{\blur1.333\fad(500,500)}翻譯：オレンジ  後期：poi  繁化：SashiharaRino
+Comment: 0,0:02:09.44,0:02:09.44,Default,,0,0,0,,---------------------comment----------------------
+Dialogue: 0,0:00:02.16,0:00:04.98,Default,,0,0,0,,{\fad(700,0)\bord0\pos(710,638.333)\fn方正兰亭圆_GBK_中\b1}無法隱藏的愛戀
+Dialogue: 0,0:06:29.95,0:06:35.00,Default,,0,0,0,,{\fn方正粗雅宋_GBK\b1\fs50\3c&H0051504C\blur4\bord3\c&H00EDF0F2\\an1\pos(67.4,219)}戀愛很難？很煩！\N替我解衣\NLOVE問候！！
+Comment: 0,0:02:09.44,0:02:09.44,Default,,0,0,0,,---------------------TEXT----------------------
+Comment: 0,0:00:04.98,0:00:07.99,Default,,0,0,0,,19點 女子浴室
+Dialogue: 0,0:00:09.51,0:00:11.08,Default,,0,0,0,,澡堂~
+Dialogue: 0,0:00:11.39,0:00:13.28,Default,,0,0,0,,洗澡 洗澡
+Dialogue: 0,0:00:13.65,0:00:15.26,Default,,0,0,0,,好 好 走吧
+Dialogue: 0,0:00:15.60,0:00:19.48,Default,,0,0,0,,那些傢伙 練習到這麼晚嗎
+Dialogue: 0,0:00:19.51,0:00:21.56,Default,,0,0,0,,啊嘞 這不是葵的衣服嗎
+Dialogue: 0,0:00:21.56,0:00:23.19,Default,,0,0,0,,{\an8}那她還在裡面吧
+Dialogue: 0,0:00:22.57,0:00:25.40,Default,,0,0,0,,糟糕 超級糟糕
+Dialogue: 0,0:00:25.40,0:00:27.20,Default,,0,0,0,,這種情況被她們看到…
+Dialogue: 0,0:00:28.65,0:00:30.47,Default,,0,0,0,,洗澡！
+Dialogue: 0,0:00:32.16,0:00:34.04,Default,,0,0,0,,葵 還在嗎
+Dialogue: 0,0:00:34.04,0:00:35.50,Default,,0,0,0,,洗這麼久啊
+Dialogue: 0,0:00:35.81,0:00:37.90,Default,,0,0,0,,是的
+Dialogue: 0,0:00:37.90,0:00:40.34,Default,,0,0,0,,今天確實洗得非常久呢
+Dialogue: 0,0:00:47.29,0:00:48.94,Default,,0,0,0,,這什麼情況
+Dialogue: 0,0:00:49.78,0:00:52.11,Default,,0,0,0,,確實想降下溫呢
+Dialogue: 0,0:00:56.52,0:00:59.81,Default,,0,0,0,,居然被結月救場了
+Dialogue: 0,0:01:00.02,0:01:02.04,Default,,0,0,0,,暫時安全了吧
+Dialogue: 0,0:01:02.73,0:01:06.77,Default,,0,0,0,,但是 在這和全裸的結月一起
+Dialogue: 0,0:01:07.10,0:01:08.47,Default,,0,0,0,,這種情況的話
+Dialogue: 0,0:01:09.15,0:01:09.72,Default,,0,0,0,,我…
+Dialogue: 0,0:01:09.72,0:01:13.46,Default,,0,0,0,,但是 對月島的扣殺真的毫不手軟啊
+Dialogue: 0,0:01:13.46,0:01:17.06,Default,,0,0,0,,是啊 但那算是愛情宣言嘛
+Dialogue: 0,0:01:17.06,0:01:18.22,Default,,0,0,0,,葵對月島的
+Dialogue: 0,0:01:18.76,0:01:19.38,Default,,0,0,0,,不是
+Dialogue: 0,0:01:19.40,0:01:20.94,Default,,0,0,0,,別隱藏別隱藏啦
+Dialogue: 0,0:01:20.94,0:01:22.32,Default,,0,0,0,,大家都知道的
+Dialogue: 0,0:01:25.79,0:01:27.38,Default,,0,0,0,,暴露無遺呢
+Dialogue: 0,0:01:28.11,0:01:31.17,Default,,0,0,0,,果然這傢伙 對我…
+Dialogue: 0,0:01:31.60,0:01:33.89,Default,,0,0,0,,差不多該去告白了吧
+Dialogue: 0,0:01:34.93,0:01:37.90,Default,,0,0,0,,抱歉 已經忍不住了
+Dialogue: 0,0:01:39.06,0:01:42.38,Default,,0,0,0,,你貼過來做什麼啊 不行
+Dialogue: 0,0:01:42.98,0:01:44.51,Default,,0,0,0,,在這種地方
+Dialogue: 0,0:01:44.63,0:01:46.44,Default,,0,0,0,,絕對 不行
+Dialogue: 0,0:01:47.38,0:01:48.82,Default,,0,0,0,,怎麼了 葵
+Dialogue: 0,0:01:49.10,0:01:51.31,Default,,0,0,0,,稍…稍微滑了一下
+Dialogue: 0,0:01:51.31,0:01:55.31,Default,,0,0,0,,是那什麼吧 在想著月島然後沒注意吧
+Dialogue: 0,0:01:56.21,0:01:59.66,Default,,0,0,0,,不是…並不是那樣的…
+Dialogue: 0,0:02:00.73,0:02:03.38,Default,,0,0,0,,月島
+Dialogue: 0,0:02:05.86,0:02:09.28,Default,,0,0,0,,喜歡…什麼的
+Dialogue: 0,0:02:11.33,0:02:16.87,Default,,0,0,0,,對月島…很喜歡什麼的
+Dialogue: 0,0:02:21.82,0:02:24.70,Default,,0,0,0,,好了好了 知道了 真是的
+Dialogue: 0,0:02:24.82,0:02:27.50,Default,,0,0,0,,笨蛋 讓我這樣說
+Dialogue: 0,0:02:27.50,0:02:29.80,Default,,0,0,0,,真是不坦率啊
+Dialogue: 0,0:02:32.62,0:02:35.03,Default,,0,0,0,,真讓人受不了啊 那兩個人
+Dialogue: 0,0:02:35.02,0:02:36.16,Default,,0,0,0,,真的是呢
+Dialogue: 0,0:02:40.21,0:02:42.77,Default,,0,0,0,,月島 不行
+Dialogue: 0,0:02:43.11,0:02:45.26,Default,,0,0,0,,要讓人聽到了
+Dialogue: 0,0:03:02.56,0:03:05.36,Default,,0,0,0,,結月 我…已經
+Dialogue: 0,0:03:38.70,0:03:42.80,Default,,0,0,0,,葵 有什麼很吵 沒事吧
+Dialogue: 0,0:03:44.36,0:03:45.69,Default,,0,0,0,,沒事
+Dialogue: 0,0:03:46.02,0:03:48.39,Default,,0,0,0,,我們差不多要出去了
+Dialogue: 0,0:03:50.96,0:03:53.38,Default,,0,0,0,,洗太久的話會暈哦
+Dialogue: 0,0:03:53.66,0:03:59.82,Default,,0,0,0,,我也…馬上…出去了
+Dialogue: 0,0:04:08.82,0:04:09.89,Default,,0,0,0,,結月
+Dialogue: 0,0:04:10.24,0:04:13.44,Default,,0,0,0,,月…島
+Dialogue: 0,0:04:24.46,0:04:25.91,Default,,0,0,0,,完了
+Dialogue: 0,0:04:26.25,0:04:27.91,Default,,0,0,0,,感覺好糟糕
+Dialogue: 0,0:04:28.36,0:04:29.76,Default,,0,0,0,,會被殺掉的吧
+Dialogue: 0,0:04:32.05,0:04:35.57,Default,,0,0,0,,這回的 是那個 很偶然的
+Dialogue: 0,0:04:36.10,0:04:38.83,Default,,0,0,0,,沒辦法的偶然
+Dialogue: 0,0:04:41.76,0:04:46.75,Default,,0,0,0,,喜…喜歡什麼的…才不是的哦
+Dialogue: 0,0:04:47.86,0:04:52.32,Default,,0,0,0,,再說了喜歡什麼的 只是大家在那亂說
+Dialogue: 0,0:04:52.39,0:04:53.13,Default,,0,0,0,,什麼嘛
+Dialogue: 0,0:04:53.24,0:04:54.96,Default,,0,0,0,,我其實並不是
+Dialogue: 0,0:04:55.46,0:04:59.00,Default,,0,0,0,,意外地很可愛啊 這傢伙
+Dialogue: 0,0:04:55.76,0:04:59.86,Default,,0,0,0,,{\pos(629.333,55.667)}喂你在聽沒 真是的 表情真讓人火大
