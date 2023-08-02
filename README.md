@@ -1,5 +1,5 @@
 # Nekomoekissaten-Storage
-Subtitles made by MIR at Nekomoe Kissaten.  
+Subtitles made by Nekomoe Kissaten.  
 License: CC BY-NC-ND 4.0，具体见 [Nekomoekissaten-Subs #注意事项](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs#-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
 ## 注意
