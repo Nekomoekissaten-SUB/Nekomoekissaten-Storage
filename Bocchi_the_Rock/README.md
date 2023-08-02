@@ -1,6 +1,6 @@
 # 孤独摇滚！
 
-[01-12 Web 简繁中文特效字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Bocchi_the_Rock_Web_zho.7z)
+[01-12 Web 简繁中文特效字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Bocchi_the_Rock_Web_zho.7z)
 
 所需字体：
 ```

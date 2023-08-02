@@ -2,12 +2,12 @@
 
 ## TV 一期
 
-[01-14 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Hataraku_Saibou_S1_bd_zho.7z)
+[01-14 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Hataraku_Saibou_S1_bd_zho.7z)
 
 
 ## TV 二期
 
-[01-08 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Hataraku_Saibou_S2_bd_zho.7z)
+[01-08 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Hataraku_Saibou_S2_bd_zho.7z)
 
 所需字体：
 ```
@@ -24,11 +24,11 @@ FOT-スキップ ProN B <FOT-Skip ProN B>
 華康POP2體W9
 ```
 
-[日文字幕 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Hataraku_Saibou_S2_jpn_NFLX.7z)
+[日文字幕 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Hataraku_Saibou_S2_jpn_NFLX.7z)
 
 ## TV 工作细胞 Black
 
-[01-13 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Hataraku_Saibou_Black_bd_zho.7z)
+[01-13 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Hataraku_Saibou_Black_bd_zho.7z)
 
 所需字体：
 ```

@@ -3,7 +3,7 @@
 ## 中文字幕
 
 内含 01-13 简繁 BDRip 字幕  
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Kageki_Shoujo_BD_zho.7z)
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kageki_Shoujo_BD_zho.7z)
 
 使用字体：
 ```
@@ -24,7 +24,7 @@ FOT-パール Std L <FOT-Pearl Std L>
 
 ## 日文字幕
 
-[Netflix 日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Kageki_Shoujo_jpn.7z)
+[Netflix 日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kageki_Shoujo_jpn.7z)
 
 ## 海报
 

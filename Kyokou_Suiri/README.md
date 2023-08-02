@@ -8,9 +8,9 @@
 
 #### 正片
 
-[BD ep.01-12 简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Main_CHS.7z)
+[BD ep.01-12 简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Main_CHS.7z)
 
-[BD ep.01-12 繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Main_CHT.7z)
+[BD ep.01-12 繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Main_CHT.7z)
 
 所需字体
 
@@ -33,9 +33,9 @@ MHGReithic T HK TTF ver.3.0
 
 #### 迷你动画
 
-[BD 迷你动画 ep.01-38 简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Mini_CHS.7z)
+[BD 迷你动画 ep.01-38 简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Mini_CHS.7z)
 
-[BD 迷你动画 ep.01-38 繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Mini_CHT.7z)
+[BD 迷你动画 ep.01-38 繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyokou_Suiri/Kyokou_Suiri_BD_Mini_CHT.7z)
 
 所需字体
 
@@ -69,9 +69,9 @@ MYoyo HK Medium
 <details>
 <summary>Web字幕</summary>
 
-[Web简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_Web_CHS.7z)
+[Web简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyokou_Suiri/Kyokou_Suiri_Web_CHS.7z)
 
-[Web繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_Web_CHT.7z)
+[Web繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyokou_Suiri/Kyokou_Suiri_Web_CHT.7z)
 
 所需字体：
 ```
@@ -92,7 +92,7 @@ MHGReithicTHK-Light
 
 ## 日文字幕
 
-[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyokou_Suiri/Kyokou_Suiri_JPN.7z)来自 Netflix，未做调轴适配。
+[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyokou_Suiri/Kyokou_Suiri_JPN.7z)来自 Netflix，未做调轴适配。
 
 # 海报
 

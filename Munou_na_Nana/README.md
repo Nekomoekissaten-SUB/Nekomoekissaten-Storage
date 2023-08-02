@@ -2,7 +2,7 @@
 
 ## 正片中日双语字幕
 
-[中日双语BD字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Munou_na_Nana/Munou_na_Nana_BD_JPCH.7z)
+[中日双语BD字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Munou_na_Nana/Munou_na_Nana_BD_JPCH.7z)
 
 所需字体：
 ```

@@ -2,9 +2,9 @@
 
 内含正片01-12BD字幕及ep.05.5 Web字幕
 
-[简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/DECA-DENCE/DECA-DENCE_BD_JPSC.7z)
+[简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/DECA-DENCE/DECA-DENCE_BD_JPSC.7z)
 
-[繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/DECA-DENCE/DECA-DENCE_BD_JPTC.7z)
+[繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/DECA-DENCE/DECA-DENCE_BD_JPTC.7z)
 
 ## 所需字体
 

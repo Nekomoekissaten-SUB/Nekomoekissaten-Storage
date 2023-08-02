@@ -1,6 +1,6 @@
 # 中文字幕
 
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/SUPER_SHIRO/SUPER_SHIRO_BD_zho.7z)
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/SUPER_SHIRO/SUPER_SHIRO_BD_zho.7z)
 
 所需字体：
 ```

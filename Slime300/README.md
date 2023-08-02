@@ -3,7 +3,7 @@
 ## 中文字幕
 
 01-12  
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Slime300_BD_zho.7z)  
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Slime300_BD_zho.7z)  
 
 所需字体：
 ```
@@ -19,6 +19,6 @@ A-OTF 丸フォーク Pro B <A-OTF Maru Folk Pro B>
 
 ## 日文字幕
 
-[AT-X 日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Slime300/Slime300_jpn.7z)  
+[AT-X 日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Slime300/Slime300_jpn.7z)  
 
 ![](https://nekomoe.pages.dev/images/2021-04/slime300.jpg)

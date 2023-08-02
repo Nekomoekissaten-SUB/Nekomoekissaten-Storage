@@ -2,9 +2,9 @@
 
 ## 中日双语
 
-[BD简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/LISTENERS/LISTENERS_BD_JPSC.7z)
+[BD简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/LISTENERS/LISTENERS_BD_JPSC.7z)
 
-[BD繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/LISTENERS/LISTENERS_BD_JPTC.7z)
+[BD繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/LISTENERS/LISTENERS_BD_JPTC.7z)
 
 所需字体：
 ```

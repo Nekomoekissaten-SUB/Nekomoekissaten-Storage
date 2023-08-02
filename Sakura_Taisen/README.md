@@ -6,13 +6,13 @@
 
 BD、Web除Staff外无内容变动
 
-[BD简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_BD_JPSC.7z)
+[BD简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_BD_JPSC.7z)
 
-[BD繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_BD_JPTC.7z)
+[BD繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_BD_JPTC.7z)
 
-[Web简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_Web_JPSC.7z)
+[Web简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_Web_JPSC.7z)
 
-[Web繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_Web_JPTC.7z)
+[Web繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Sakura_Taisen/Shin_Sakura_Taisen/Shin_Sakura_Taisen_Web_JPTC.7z)
 
 所需字体：
 ```
@@ -32,9 +32,9 @@ MStiffHei HK UltraBold
 
 源视频在Youtube[配信](https://youtu.be/o5gFFmhxx80)
 
-[简日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPSC.ass)
+[简日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPSC.ass)
 
-[繁日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPTC.ass)
+[繁日双语](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/master/Sakura_Taisen/Sakura_Kakumei/%5BNekomoe%20kissaten%5D%20Sakura%20Kakumei%20%5BWeb%5D.JPTC.ass)
 
 所需字体：
 ```

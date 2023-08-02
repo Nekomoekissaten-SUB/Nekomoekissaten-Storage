@@ -2,8 +2,8 @@
 
 ## 简体中文
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Null_&_Peta/nullpeta_Web_CHS.7z)
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Null_&_Peta/nullpeta_BD_CHS.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Null_&_Peta/nullpeta_Web_CHS.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Null_&_Peta/nullpeta_BD_CHS.7z)
 
 所需字体：
 ```
@@ -18,8 +18,8 @@
 
 ## 繁体中文
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Null_&_Peta/nullpeta_Web_CHT.7z)
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Null_&_Peta/nullpeta_BD_CHT.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Null_&_Peta/nullpeta_Web_CHT.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Null_&_Peta/nullpeta_BD_CHT.7z)
 
 注：其中 ep.06 因爲有用到方言，繁化就一時興起做了 Dialect ver. / 方言（閩南語）版
 

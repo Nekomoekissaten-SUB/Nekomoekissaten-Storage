@@ -18,22 +18,22 @@ FOT-セザンヌ ProN DB <FOT-Cezanne ProN DB>
 
 ## 简体中文
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/pet/pet_BD_CHS.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/pet/pet_BD_CHS.7z)
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/pet/pet_Web_CHS.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/pet/pet_Web_CHS.7z)
 
 ## 繁体中文
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/pet/pet_BD_CHT.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/pet/pet_BD_CHT.7z)
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/pet/pet_Web_CHT.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/pet/pet_Web_CHT.7z)
 
 ## 日文
 
 来源于AT-X，仅调轴后大致适配于BD及Web源。
 
-[BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/pet/pet_BD_JPN.7z)
+[BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/pet/pet_BD_JPN.7z)
 
-[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/pet/pet_Web_JPN.7z)
+[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/pet/pet_Web_JPN.7z)
 
 ![](https://nekomoe.pages.dev/images/2020-01/pet.jpg)

@@ -4,8 +4,8 @@
 
 Tips: 由于ED特效复杂字幕文件也比较大
 
-[BD简体合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Shironekoproject/Shironekoproject_BD_CHS.7z)  
-[BD繁体合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Shironekoproject/Shironekoproject_BD_CHT.7z)
+[BD简体合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Shironekoproject/Shironekoproject_BD_CHS.7z)  
+[BD繁体合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Shironekoproject/Shironekoproject_BD_CHT.7z)
 
 ### 修订记录
 
@@ -32,4 +32,4 @@ FOT-ライラ Std DB <FOT-Lyra Std DB>
 
 From AT-X，未调轴
 
-[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Shironekoproject/Shironekoproject_JPN.7z)
+[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Shironekoproject/Shironekoproject_JPN.7z)

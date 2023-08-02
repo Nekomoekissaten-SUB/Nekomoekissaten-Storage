@@ -10,8 +10,8 @@
 
 ## 中文字幕
 
-[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_BD_CHS.7z)  
-[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_BD_CHT.7z)
+[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kimisen/Kimisen_BD_CHS.7z)  
+[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kimisen/Kimisen_BD_CHT.7z)
 
 所需字体：
 ```
@@ -25,6 +25,6 @@ FOT-マティス ProN EB <FOT-Matisse ProN EB>
 
 ## 日文字幕
 
-[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kimisen/Kimisen_Web_JPN.7z)来自Netflix，未作调轴适配
+[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kimisen/Kimisen_Web_JPN.7z)来自Netflix，未作调轴适配
 
 ![](https://nekomoe.pages.dev/images/2020-10/kimisen.png)

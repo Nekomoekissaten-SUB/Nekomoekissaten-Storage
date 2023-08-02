@@ -20,7 +20,7 @@ A-OTF UD新ゴ Pr6N M <A-OTF UD Shin Go Pr6N M>
 ![](https://ryu-to-sobakasu-no-hime.jp/assets/images/top/mv_01_pc.png)
 
 
-[nlb_chs]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x804%5D.JPSC.ass
-[nlb_cht]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x804%5D.JPTC.ass
-[ltb_chs]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x1080%5D.JPSC.ass
-[ltb_cht]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x1080%5D.JPTC.ass
+[nlb_chs]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x804%5D.JPSC.ass
+[nlb_cht]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x804%5D.JPTC.ass
+[ltb_chs]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x1080%5D.JPSC.ass
+[ltb_cht]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/blob/master/Ryuusoba/%5BNekomoe%20kissaten%5D%20Ryuu%20to%20Sobakasu%20no%20Hime%20%5BMovie%5D%5BBDRip%5D%5B1920x1080%5D.JPTC.ass

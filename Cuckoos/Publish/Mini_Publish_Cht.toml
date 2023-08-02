@@ -2,7 +2,7 @@
 display_name="【喵萌奶茶屋】[杜鵑的小鬧劇 / Kakkou no Iikagen][<ep>][BDRip][<res>p][繁體][招募翻譯]"
 group_name="[喵萌奶茶屋]"
 poster="https://nekomoe.pages.dev/images/2022-04/w1000/kakkou_1000.jpg"
-about="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Cuckoos"
+about="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/tree/master/Cuckoos"
 # Use ''' to avoid escape
 filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
 resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''

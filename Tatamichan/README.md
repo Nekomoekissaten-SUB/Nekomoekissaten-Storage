@@ -11,8 +11,8 @@ FOT-ロダンハッピー Pro EB <FOT-RodinHappy Pro EB>
 
 ## 简体中文
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/tatamichan/tatamichan_Web_CHS.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/tatamichan/tatamichan_Web_CHS.7z)
 
 ## 繁体中文
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/tatamichan/tatamichan_Web_CHT.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/tatamichan/tatamichan_Web_CHT.7z)

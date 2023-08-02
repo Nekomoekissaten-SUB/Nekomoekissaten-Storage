@@ -7,8 +7,8 @@
 
 ## 中文字幕
 
-[Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kemono_Jihen/Kemono_Jihen_Web_CHS.7z)  
-[Web繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kemono_Jihen/Kemono_Jihen_Web_CHT.7z)
+[Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kemono_Jihen/Kemono_Jihen_Web_CHS.7z)  
+[Web繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kemono_Jihen/Kemono_Jihen_Web_CHT.7z)
 
 所需字体：
 ```
@@ -25,6 +25,6 @@
 
 ## 日文字幕
 
-[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kemono_Jihen/Kemono_Jihen_Web_JPN.7z)来自Netflix，未作调轴适配
+[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kemono_Jihen/Kemono_Jihen_Web_JPN.7z)来自Netflix，未作调轴适配
 
 ![](https://nekomoe.pages.dev/images/2021-01/Kemono_Jihen.jpg)

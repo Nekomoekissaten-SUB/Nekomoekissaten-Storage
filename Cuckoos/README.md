@@ -1,6 +1,6 @@
 # Cuckoos
 
-[正篇 01-24 + 迷你动画 01-22 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Cuckoos_BD_zho.7z)
+[正篇 01-24 + 迷你动画 01-22 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Cuckoos_BD_zho.7z)
 
 ## Kakkou no Iinazuke / A Couple of Cuckoos
 

@@ -1,7 +1,7 @@
 # Mushoku Tensei
 
 内含 01-23 简繁日 + OVA 简繁 BDRip 字幕  
-[BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Mushoku_Tensei_BD_Subs.7z)
+[BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Mushoku_Tensei_BD_Subs.7z)
 
 *标 `NC ver.` 的字幕有一些样式的微调以匹配使用 NCOP/ED 的正片，不含两个版本的为通用字幕。*
 

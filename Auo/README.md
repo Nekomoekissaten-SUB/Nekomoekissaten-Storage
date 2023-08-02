@@ -1,7 +1,7 @@
 # Eiyuuou, Bu wo Kiwameru Tame Tenseisu
 
 内含 01-12 简繁中文 BD 字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Auo_BD_zho.7z)
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Auo_BD_zho.7z)
 
 所需字体：
 ```

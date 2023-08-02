@@ -1,6 +1,6 @@
 # 字幕
 
-[BD简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Starlight/Shoujo_Conto_All_Starlight_BD_Chi.7z)
+[BD简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Starlight/Shoujo_Conto_All_Starlight_BD_Chi.7z)
 
 ## 所需字体
 

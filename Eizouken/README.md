@@ -2,7 +2,7 @@
 
 ## 简体中文
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken/Eizouken_BD_CHS.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Eizouken/Eizouken_BD_CHS.7z)
 
 所需字体：
 ```
@@ -24,7 +24,7 @@ MZhiHei PRC UltraBold
 
 ## 繁体中文
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken/Eizouken_BD_CHT.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Eizouken/Eizouken_BD_CHT.7z)
 
 所需字体：
 ```
@@ -46,6 +46,6 @@ FOT-ロダンわんぱく Pro B <FOT-RodinWanpaku Pro B>
 
 来源于NHK総合テレビジョン，仅调轴后大致适配于Web源，几乎同BD源。
 
-[Japanese Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Eizouken/Eizouken_JPN.7z)
+[Japanese Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Eizouken/Eizouken_JPN.7z)
 
 ![](https://nekomoe.pages.dev/images/2020-01/Eizouken.png)

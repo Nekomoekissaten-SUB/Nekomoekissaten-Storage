@@ -2,9 +2,9 @@
 
 ## 中文
 
-[Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BNA/BNA_Web_CHS.7z)
+[Web简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BNA/BNA_Web_CHS.7z)
 
-[Web繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BNA/BNA_Web_CHT.7z)
+[Web繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BNA/BNA_Web_CHT.7z)
 
 所需字体：
 ```
@@ -23,6 +23,6 @@ FOT-ロダン ProN EB <FOT-Rodin ProN EB>
 
 From Netflix
 
-[Web日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BNA/BNA_Web_JPN.7z)
+[Web日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BNA/BNA_Web_JPN.7z)
 
 ![](https://nekomoe.pages.dev/images/2020-04/BNA_poster.jpg)

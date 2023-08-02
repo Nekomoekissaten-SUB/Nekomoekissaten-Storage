@@ -3,7 +3,7 @@
 ## 赛马娘 Pretty Derby 一期
 
 内含正片 01-12、TV 放送时播出的 Extra（EP.13）和 Blu-ray Vol.4 附赠的 Extra（EP.14-16）  
-[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Uma_Musume_S1_BD_JPCH.7z)
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Uma_Musume_S1_BD_JPCH.7z)
 
 所需字体：
 ```
@@ -37,7 +37,7 @@ FOT-花風テクノ Std U <FOT-KafuTechno Std U>
 ## 赛马娘四格
 
 内含正片 01-12 BDRip 简繁日双语字幕，13-24 为 BD 附赠的动画小短片  
-[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Umayon_BD_JPCH.7z)
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Umayon_BD_JPCH.7z)
 
 所需字体：
 ```

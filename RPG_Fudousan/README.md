@@ -1,6 +1,6 @@
 # RPG不动产
 
-[01-12（含特效） BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/RPG_Fudousan_BD_JPCH.7z)
+[01-12（含特效） BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/RPG_Fudousan_BD_JPCH.7z)
 
 所需字体：
 ```

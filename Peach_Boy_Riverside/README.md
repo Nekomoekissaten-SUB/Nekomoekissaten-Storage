@@ -4,7 +4,7 @@
 
 BD 字幕为时间序列版，时间轴适配 FN@emi 版 BD，不保证适配 BDMV 或其他版本的 BDRip。
 
-[BD 简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Peach_Boy_Riverside/Peach_Boy_Riverside_BD_zho.7z)
+[BD 简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Peach_Boy_Riverside/Peach_Boy_Riverside_BD_zho.7z)
 
 ### 使用字体
 
@@ -19,7 +19,7 @@ FOT-ニューシネマA Std D <FOT-NewCinemaA Std D>
 
 Web 字幕为 ON-AIR 版
 
-[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Peach_Boy_Riverside/Peach_Boy_Riverside_jpn.7z) 为 ON-AIR 版，来源 AT-X
+[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Peach_Boy_Riverside/Peach_Boy_Riverside_jpn.7z) 为 ON-AIR 版，来源 AT-X
 
 ## 时间序列版与 ON-AIR 版顺序对照
 

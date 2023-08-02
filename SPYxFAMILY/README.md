@@ -3,7 +3,7 @@
 ## Season 1 cour 1
 
 内含 01-12 Web 简繁日双语 OPED 特效字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/SPYxFAMILY_Web_JPCH.7z)
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_Web_JPCH.7z)
 
 所需字体：
 ```
@@ -28,7 +28,7 @@ A-OTF フォーク Pro B <A-OTF Folk Pro B>
 ## Season 1 cour 2
 
 内含 13-25 Web 简繁日双语字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/SPYxFAMILY_S1c2_Web_JPCH.7z)
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_S1c2_Web_JPCH.7z)
 
 所需字体：
 ```

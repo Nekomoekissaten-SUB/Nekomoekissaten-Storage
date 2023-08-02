@@ -2,11 +2,11 @@
 
 BD版包括正片及两个NCED
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kabaneri/kabaneri_Unato_BD.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kabaneri/kabaneri_Unato_BD.7z)
 
 Web版为三个chapter的合并，不保证适配其他Web源
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kabaneri/kabaneri_Unato_Web.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kabaneri/kabaneri_Unato_Web.7z)
 
 所需字体：
 ```

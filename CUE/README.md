@@ -1,6 +1,6 @@
 # CUE!
 
-[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/CUE_BD_JPCH.7z)
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/CUE_BD_JPCH.7z)
 
 内含 TV 正片 01-24 集，BD 特典短篇动画 01-12 集
 

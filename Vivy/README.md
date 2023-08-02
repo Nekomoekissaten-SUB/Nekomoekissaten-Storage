@@ -4,7 +4,7 @@
 
 内含正片 01-13 BDRip 字幕。
 
-[简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Vivy/Vivy_BD_zho.7z)
+[简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Vivy/Vivy_BD_zho.7z)
 
 所需字体：
 ```
