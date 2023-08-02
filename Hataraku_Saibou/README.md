@@ -2,7 +2,7 @@
 
 ## TV 一期
 
-[01-14 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Hataraku_Saibou_S1_bd_zho.7z)
+[01-14 简繁 BD 字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Hataraku_Saibou_S1_bd_zho.7z)
 
 
 ## TV 二期
