@@ -1,0 +1,26 @@
+#Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
+display_name="【喵萌奶茶屋】[我的青春恋爱物语果然有问题 完/Yahari Ore no Seishun Love Come wa Machigatteiru Kan][OVA][<res>p][简体][招募翻译]"
+group_name="[喵萌奶茶屋]"
+poster="https://files.catbox.moe/gcswjl.png"
+about="https://github.com/Nekomoekissaten-SUB"
+# Use ''' to avoid escape
+filename_regex=""
+# filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
+tags=["Anime"]
+
+[[intro_template]]
+site="nyaa"
+name="nekomoekissaten"
+
+[[intro_template]]
+site="dmhy"
+name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgrip"
+name="喵萌奶茶屋"
+
+# [[intro_template]]
+# site="bangumi"
+# name="喵萌奶茶屋"
