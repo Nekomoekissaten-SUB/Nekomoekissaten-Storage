@@ -21,6 +21,6 @@ Times New Roman
 
 ## 简体中文
 
-[01-12 + OAD 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kekkai-Sensen-Beyond_BD_zho.7z)
+[01-12 + OAD 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kekkai-Sensen-Beyond_BD_zho.7z)
 
 [Web 日文合集 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Kekkai-Sensen-Beyond_jpn_NFLX.7z)

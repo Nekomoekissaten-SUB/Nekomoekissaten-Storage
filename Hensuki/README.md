@@ -1,8 +1,8 @@
 # Hensuki
 
-[EP.01-12 简繁 BDRip 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Hensuki_BDRip_zho.7z)
+[EP.01-12 简繁 BDRip 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Hensuki_BDRip_zho.7z)
 
-[Vol.1-Vol.3 (EP.01-12) 简繁 BDMV 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Hensuki_BDMV_zho.7z)  *如与 BDRip 字幕内容有冲突以 BDRip 版本为准*
+[Vol.1-Vol.3 (EP.01-12) 简繁 BDMV 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Hensuki_BDMV_zho.7z)  *如与 BDRip 字幕内容有冲突以 BDRip 版本为准*
 
 [Web 日字](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Hensuki_jpn_NFLX.7z)来自 Netflix，未调轴匹配
 

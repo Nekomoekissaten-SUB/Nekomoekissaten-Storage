@@ -2,7 +2,7 @@
 
 ## 剧场版
 
-[剧场版 BD 简繁字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kin-iro_mosaic_Mov_BD_zho.7z)
+[剧场版 BD 简繁字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kin-iro_mosaic_Mov_BD_zho.7z)
 
 所需字体：
 ```

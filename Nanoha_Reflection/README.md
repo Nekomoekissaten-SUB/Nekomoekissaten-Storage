@@ -1,6 +1,6 @@
 # Magical Girl Lyrical NANOHA Reflection
 
-[BD合集简繁日双语字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Nanoha_Reflection_BD_JPCH.7z)
+[BD合集简繁日双语字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Nanoha_Reflection_BD_JPCH.7z)
 
 所需字体：
 ```

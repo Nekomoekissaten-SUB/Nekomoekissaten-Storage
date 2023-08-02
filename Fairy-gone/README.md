@@ -1,6 +1,6 @@
 # Fairy-gone
 
-[01-24集BD简繁日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Fairy_gone_BD_JPCH.7z)
+[01-24集BD简繁日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Fairy_gone_BD_JPCH.7z)
 
 所需字体
 ```

@@ -2,7 +2,7 @@
 
 ## 中文字幕
 
-[BD字幕简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Release_the_Spyce_BD_zho.7z)
+[BD字幕简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Release_the_Spyce_BD_zho.7z)
 
 所需字体：
 ```

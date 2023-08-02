@@ -12,8 +12,8 @@ FOT-Rodin Pro DB
 ## 荒野的寿飞行队 TV
 
 内含EP.01-12  
-[BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kotobuki_TV_BD_zho.7z)  
-[BD简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kotobuki_TV_BD_JPCH.7z)
+[BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kotobuki_TV_BD_zho.7z)  
+[BD简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kotobuki_TV_BD_JPCH.7z)
 
 ### 修订记录
 
@@ -27,8 +27,8 @@ FOT-Rodin Pro DB
 ## 荒野的寿飞行队 外传 天空的春风飞行队
 
 内含EP.01-12  
-[BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kotobuki_Gaiden_BD_zho.7z)  
-[BD简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kotobuki_Gaiden_BD_JPCH.7z)
+[BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kotobuki_Gaiden_BD_zho.7z)  
+[BD简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kotobuki_Gaiden_BD_JPCH.7z)
 
 ### 修订记录
 
@@ -38,7 +38,7 @@ FOT-Rodin Pro DB
 
 ## 荒野寿飞行队 特典动画
 
-[特典合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kotobuki_SP_BD_Subs.7z)，内含：
+[特典合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kotobuki_SP_BD_Subs.7z)，内含：
 - 夏生整备班长的战斗机讲座 01-12+特别补习 简体中文、繁体中文
 - 伊基茨见闻录 世界篇 01-02 简日双语、繁日双语
 
@@ -50,7 +50,7 @@ FOT-Rodin Pro DB
 ## 荒野的寿飞行队 完全版
 
 内含简日双语、繁日双语  
-[BD双语](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kotobuki_Kanzenban_BD_JPCH.7z)
+[BD双语](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kotobuki_Kanzenban_BD_JPCH.7z)
 
 ### 修订记录
 

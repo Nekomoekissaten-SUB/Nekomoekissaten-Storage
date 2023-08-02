@@ -2,7 +2,7 @@
 
 01-12
 
-[BD中日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Netsuzou_Trap_BD_JPCH.7z)
+[BD中日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Netsuzou_Trap_BD_JPCH.7z)
 
 所需字体：
 ```

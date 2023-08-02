@@ -6,7 +6,7 @@
 
 ## 简繁中文
 
-[简繁BD字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Aoyama-kun_BD_zho.7z)
+[简繁BD字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Aoyama-kun_BD_zho.7z)
 
 使用字体：
 ```

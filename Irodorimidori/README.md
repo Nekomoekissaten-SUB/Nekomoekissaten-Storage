@@ -1,7 +1,7 @@
 # Irodorimidori
 
 内含 EP.01-08  
-[Web 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Irodorimidori_Web_zho.7z)
+[Web 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Irodorimidori_Web_zho.7z)
 
 所需字体：
 ```

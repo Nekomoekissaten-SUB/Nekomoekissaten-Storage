@@ -2,7 +2,7 @@
 
 ## Spring & Summer
 
-[01-12Web简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/A3_Spring_Summer_Web_JPCH.7z)
+[01-12Web简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/A3_Spring_Summer_Web_JPCH.7z)
 
 所需字体：
 ```

@@ -1,6 +1,6 @@
 # Peter Grill to Kenja no Jikan
 
-[简繁中文 BD 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Petergrill_BD_zho.7z)
+[简繁中文 BD 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Petergrill_BD_zho.7z)
 
 所需字体：
 ```

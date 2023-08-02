@@ -1,6 +1,6 @@
 # 清洗服务!～我和她在女子浴池!?～
 
-[01-08 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Araiya-san_BD_zho.7z)
+[01-08 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Araiya-san_BD_zho.7z)
 
 所需字体：
 ```

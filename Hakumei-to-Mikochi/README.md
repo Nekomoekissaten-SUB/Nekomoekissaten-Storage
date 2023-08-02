@@ -1,6 +1,6 @@
 # Hakumei-to-Mikochi
 
-[TV系列BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Hakumei-to-Mikochi_BD_zho.7z)
+[TV系列BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Hakumei-to-Mikochi_BD_zho.7z)
 
 所需字体：
 

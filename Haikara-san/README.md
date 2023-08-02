@@ -1,6 +1,6 @@
 # Haikara-san ga Toru the movie
 
-[BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Haikara-san_BD_zho.7z)
+[BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Haikara-san_BD_zho.7z)
 
 ## Haikara-san ga Toru the movie zenpen - Benio, ～Hana no 17-sai～
 

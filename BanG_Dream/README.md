@@ -2,7 +2,7 @@
 
 ## ARGONAVIS from BanG Dream!
 
-[01-13 BD 简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/argo-bdp_BD_JPCH.7z)
+[01-13 BD 简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/argo-bdp_BD_JPCH.7z)
 
 所需字体：
 ```

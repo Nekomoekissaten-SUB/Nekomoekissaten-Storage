@@ -1,7 +1,7 @@
 # 异世界魔王与召唤少女的奴隶魔术Ω
 
 内含 EP.01-10  
-[BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Isekaimaou2_BD_zho.7z)
+[BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Isekaimaou2_BD_zho.7z)
 
 所需字体：
 ```

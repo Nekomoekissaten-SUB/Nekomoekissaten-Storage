@@ -2,7 +2,7 @@
 
 ## TV (2019)
 
-[01-12 BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Azur_Lane_BD_zho.7z)
+[01-12 BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Azur_Lane_BD_zho.7z)
 
 所需字体：
 ```
@@ -22,8 +22,8 @@ Resource Han Rounded CN Medium
 
 ## Bisoku Zenshin! (2021)
 
-[连体版字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Azur_Lane_Bisoku_BD_Subs.7z)  
-[分集版字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Azur_Lane_Bisoku_BD_Subs_Sep.7z)  
+[连体版字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Azur_Lane_Bisoku_BD_Subs.7z)  
+[分集版字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Azur_Lane_Bisoku_BD_Subs_Sep.7z)  
 内含 01-12+SPs 简繁中文字幕
 
 所需字体：

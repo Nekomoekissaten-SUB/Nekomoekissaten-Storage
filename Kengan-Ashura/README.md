@@ -13,7 +13,7 @@ FOT-万葉行書 Std E <FOT-ManyoGyosho Std E>
 ```
 
 内含EP.01-24  
-[BD简日双语+繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kengan-Ashura_BD_JPCH.7z)  
+[BD简日双语+繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kengan-Ashura_BD_JPCH.7z)  
 
 ### 修订记录
 

@@ -2,7 +2,7 @@
 
 # 字幕
 
-[简繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Koisuru_Asteroid_BD_JPCH.7z)  
+[简繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Koisuru_Asteroid_BD_JPCH.7z)  
 内含正文1-12中日双语字幕及小剧场简繁中文字幕
 
 所需字体：

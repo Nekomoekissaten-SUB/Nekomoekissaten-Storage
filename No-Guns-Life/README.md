@@ -17,9 +17,9 @@ FOT-NewCezanne ProN DB
 方正韵动中黑_GBK
 ```
 
-[第一季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/No-Guns-Life_Web_zho.7z)
+[第一季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/No-Guns-Life_Web_zho.7z)
 
-[第二季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/No-Guns-Life-S2_Web_zho.7z)
+[第二季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/No-Guns-Life-S2_Web_zho.7z)
 
 # 日文字幕
 

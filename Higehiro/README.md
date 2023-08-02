@@ -1,6 +1,6 @@
 # 字幕
 
-[BD 中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Higehiro_BD_zho.7z)  
+[BD 中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Higehiro_BD_zho.7z)  
 内含 01-13 简繁中文字幕
 
 [日文字幕 From AT-X](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Higehiro_jpn_ATX.7z)

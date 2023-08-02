@@ -4,7 +4,7 @@
 
 内含正片01-12
 
-[BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Uzaki-chan_BD_zho.7z)
+[BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Uzaki-chan_BD_zho.7z)
 
 所需字体：
 ```
