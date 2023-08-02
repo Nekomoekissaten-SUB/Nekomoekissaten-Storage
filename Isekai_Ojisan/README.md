@@ -1,7 +1,7 @@
 # Isekai Ojisan
 
 内含 01-13 简繁日双语 BD 字幕（含特效）  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Isekai_Ojisan_BD_JPCH.7z)
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Isekai_Ojisan_BD_JPCH.7z)
 
 所需字体：
 ```

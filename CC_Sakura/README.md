@@ -2,11 +2,11 @@
 
 ## 透明牌篇OAD
 
-[简繁Web字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/CC_Sakura_CC_OAD_Web.7z)
+[简繁Web字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/CC_Sakura_CC_OAD_Web.7z)
 
 ## 透明牌篇TV（2018）
 
-[01-22集简繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/CC_Sakura_CC_TV_BD_JPCH.7z)
+[01-22集简繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/CC_Sakura_CC_TV_BD_JPCH.7z)
 
 # 所需字体
 

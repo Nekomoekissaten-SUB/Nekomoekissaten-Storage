@@ -4,7 +4,7 @@
 
 内含正片01-12
 
-[BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Uzaki-chan_BD_zho.7z)
+[BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Uzaki-chan_BD_zho.7z)
 
 所需字体：
 ```
@@ -32,7 +32,7 @@ zpix
 
 来源为AT-X，未调轴
 
-[TV日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Uzaki-chan_jpn_ATX.7z)
+[TV日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Uzaki-chan_jpn_ATX.7z)
 
 ## Season 2
 

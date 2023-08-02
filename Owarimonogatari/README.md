@@ -2,9 +2,9 @@
 
 # S2
 
-[Pre-rendering sup files](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Owarimonogatari-S2_BD_zho_sup.7z)
+[Pre-rendering sup files](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Owarimonogatari-S2_BD_zho_sup.7z)
 
-[合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Owarimonogatari-S2_BD_zho.7z)
+[合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Owarimonogatari-S2_BD_zho.7z)
 
 所需字体：
 ```
@@ -24,7 +24,7 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 
 ## Commentary
 
-[评论轨合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Owarimonogatari-S2_Comm_BD_zho.7z)
+[评论轨合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Owarimonogatari-S2_Comm_BD_zho.7z)
 
 所需字体：
 ```
@@ -35,7 +35,7 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 
 # Zoku Owarimonogatari
 
-[合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Zoku_Owarimonogatari_BD_zho.7z)
+[合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Zoku_Owarimonogatari_BD_zho.7z)
 
 所需字体：
 ```
@@ -52,7 +52,7 @@ Zpix
 
 ## Commentary
 
-[评论轨合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Zoku_Owarimonogatari_Comm_BD_zho.7z)
+[评论轨合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Zoku_Owarimonogatari_Comm_BD_zho.7z)
 
 所需字体：
 ```

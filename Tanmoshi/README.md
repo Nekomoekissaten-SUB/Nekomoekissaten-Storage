@@ -1,6 +1,6 @@
 # Tantei wa Mou, Shindeiru.
 
-[01-12 和特典视频 BDRip 简日、繁日双语](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Tanmoshi_BD_JPCH.7z)
+[01-12 和特典视频 BDRip 简日、繁日双语](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Tanmoshi_BD_JPCH.7z)
 
 所需字体：
 ```

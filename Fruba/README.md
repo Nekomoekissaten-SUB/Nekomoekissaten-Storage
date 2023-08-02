@@ -1,6 +1,6 @@
 # 水果篮子
 
-[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Fruba_BD_zho.7z)
+[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Fruba_BD_zho.7z)
 
 所需字体：
 ```
@@ -28,11 +28,11 @@ Source Han Serif CN SemiBold
 ## 日文字幕
 
  - 原盘自带 PGS 字幕
- - [From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Fruba_jpn_NFLX.7z)
+ - [From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Fruba_jpn_NFLX.7z)
 
 # 水果篮子 2nd Season
 
-[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Fruba2_BD_zho.7z)
+[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Fruba2_BD_zho.7z)
 
 所需字体：
 ```
@@ -65,7 +65,7 @@ HiraginoMin W5
 
 # 水果篮子 The Final
 
-[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Fruba3_BD_zho.7z)
+[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Fruba3_BD_zho.7z)
 
 所需字体：
 ```

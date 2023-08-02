@@ -9,7 +9,7 @@
 
 ## 中日双语
 
-[01-13集简繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Appare-Ranman_BD_JPCH.7z)
+[01-13集简繁日双语BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Appare-Ranman_BD_JPCH.7z)
 
 使用字体：
 ```

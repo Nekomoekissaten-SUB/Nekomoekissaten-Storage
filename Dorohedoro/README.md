@@ -2,7 +2,7 @@
 
 ## 中文
 
-[简繁中文 01-12+OVA BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Dorohedoro_BD_zho.7z)
+[简繁中文 01-12+OVA BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Dorohedoro_BD_zho.7z)
 
 修改记录：
 1. EP.04 修正了一处可能会导致 ASS 标签判断错误的问题
@@ -55,4 +55,4 @@ Zpix
 
 来源于 Netflix，适配于 Web 源，大致适配 BD 源。
 
-[Web & BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Dorohedoro_jpn_NFLX.7z)
+[Web & BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Dorohedoro_jpn_NFLX.7z)

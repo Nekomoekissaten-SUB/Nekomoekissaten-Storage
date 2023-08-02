@@ -2,7 +2,7 @@
 
 ## 中文
 
-[Web简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Tower_of_God_Web_zho.7z)
+[Web简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Tower_of_God_Web_zho.7z)
 
 所需字体：
 ```

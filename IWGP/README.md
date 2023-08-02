@@ -4,9 +4,9 @@
 
 内含ep.01-12 Web字幕
 
-[简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/IWGP/IWGP_Web_CHS.7z)
+[简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/IWGP/IWGP_Web_CHS.7z)
 
-[繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/IWGP/IWGP_Web_CHT.7z)
+[繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/IWGP/IWGP_Web_CHT.7z)
 
 所需字体：
 ```
@@ -28,6 +28,6 @@ FOT-花風テクノ Std U <FOT-KafuTechno Std U>
 文鼎新藝體U <AR XinYiB5 Ultra>
 ```
 
-[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/IWGP/IWGP_JPN.7z)来自AT-X，未做调轴适配和分割。
+[日文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/IWGP/IWGP_JPN.7z)来自AT-X，未做调轴适配和分割。
 
 ![](https://nekomoe.pages.dev/images/2020-10/iwgp.png)

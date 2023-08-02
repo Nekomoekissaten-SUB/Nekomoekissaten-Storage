@@ -2,7 +2,7 @@
 
 ## 字幕
 
-[TV 01-12 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Deaimon_BD_zho.7z)
+[TV 01-12 简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Deaimon_BD_zho.7z)
 
 所需字体：
 ```

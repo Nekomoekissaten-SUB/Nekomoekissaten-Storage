@@ -4,7 +4,7 @@
 
 01-12+BD全特典
 
-[BD简繁日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Tonikawa_BD_JPCH.7z)
+[BD简繁日合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Tonikawa_BD_JPCH.7z)
 
 所需字体
 ```

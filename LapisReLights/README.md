@@ -4,7 +4,7 @@
 
 内含正片 01-12 BD 字幕
 
-[BD简日双语+繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/LapisReLights_BD_JPCH.7z)
+[BD简日双语+繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/LapisReLights_BD_JPCH.7z)
 
 所需字体：
 ```

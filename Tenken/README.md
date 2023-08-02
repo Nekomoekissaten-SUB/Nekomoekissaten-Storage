@@ -2,7 +2,7 @@
 
 ## 字幕
 
-[TV 01-12 简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Tenken_BD_JPCH.7z)
+[TV 01-12 简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Tenken_BD_JPCH.7z)
 
 所需字体：
 ```

@@ -1,7 +1,7 @@
 # Dance Dance Danseur
 
 Repo 内为无 OP 版本，Release 内为含 OP 特效版本  
-[01-11 含 OP 特效简繁中文 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Danseur_Web_zho.7z)
+[01-11 含 OP 特效简繁中文 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Danseur_Web_zho.7z)
 
 使用字体：
 ```

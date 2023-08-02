@@ -17,14 +17,14 @@ FOT-NewCezanne ProN DB
 方正韵动中黑_GBK
 ```
 
-[第一季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/No-Guns-Life_Web_zho.7z)
+[第一季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/No-Guns-Life_Web_zho.7z)
 
-[第二季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/No-Guns-Life-S2_Web_zho.7z)
+[第二季简繁中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/No-Guns-Life-S2_Web_zho.7z)
 
 # 日文字幕
 
 来源于TBS，未调轴
 
-[第一季TV ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/No-Guns-Life_jpn_TBS.7z)
+[第一季TV ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/No-Guns-Life_jpn_TBS.7z)
 
-[第二季TV ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/No-Guns-Life-S2_jpn_TBS.7z)
+[第二季TV ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/No-Guns-Life-S2_jpn_TBS.7z)

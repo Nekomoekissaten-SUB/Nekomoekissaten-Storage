@@ -1,6 +1,6 @@
 # LUPIN ZERO
 
-[01-06 Web 简繁字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/LUPIN_ZERO_Web_zho.7z)
+[01-06 Web 简繁字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/LUPIN_ZERO_Web_zho.7z)
 
 所需字体：
 ```

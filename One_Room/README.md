@@ -2,7 +2,7 @@
 
 ## Season2
 
-[简繁中文 Web 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/One_Room_S2_Web_zho.7z)
+[简繁中文 Web 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/One_Room_S2_Web_zho.7z)
 
 所需字体：
 ```
@@ -14,7 +14,7 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 
 ## Season3
 
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/One_Room_S3_BD_zho.7z)  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/One_Room_S3_BD_zho.7z)  
 内含 01-12 简繁中文字幕
 
 所需字体：

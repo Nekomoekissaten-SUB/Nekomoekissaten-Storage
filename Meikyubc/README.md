@@ -1,7 +1,7 @@
 # Meikyuu Black Company
 
 内含正片 01-12 BD 字幕  
-[简繁 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Meikyubc_BD_zho.7z)
+[简繁 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Meikyubc_BD_zho.7z)
 
 所需字体：
 ```

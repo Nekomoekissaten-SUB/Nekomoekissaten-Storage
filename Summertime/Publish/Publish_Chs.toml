@@ -2,7 +2,7 @@
 display_name="【喵萌奶茶屋】[夏日重现 / Summer Time Rendering][<ep>][BDRip][<res>p][简日双语][招募翻译]"
 group_name="[喵萌奶茶屋]"
 poster="https://nekomoe.pages.dev/images/2022-04/str.jpg"
-about="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Summertime"
+about="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/tree/master/Summertime"
 # Use ''' to avoid escape
 # filename_regex='''\]\[(?<ep>\d{2})\]\['''
 filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["

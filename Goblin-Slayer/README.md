@@ -4,12 +4,12 @@
 
 BD未收录总集篇
 
-[BD 合集中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Goblin-Slayer_BD_zho.7z)  
-[总集篇 Web 中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Goblin-Slayer_10.5_Web_zho.7z)
+[BD 合集中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Goblin-Slayer_BD_zho.7z)  
+[总集篇 Web 中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Goblin-Slayer_10.5_Web_zho.7z)
 
 日字来源于Netflix，已调轴适配BD并调整样式
 
-[BD合集日文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Goblin-Slayer_jpn_NFLX_BD.7z)
+[BD合集日文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Goblin-Slayer_jpn_NFLX_BD.7z)
 
 所需字体：
 ```
@@ -27,7 +27,7 @@ FOT-ModeMinBLarge Std B
 
 ## 剧场版 哥布林杀手 GOBLIN’S CROWN
 
-[剧场版中日双语 BD 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Goblin-Slayer_Movie_BD_JPCH.7z)
+[剧场版中日双语 BD 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Goblin-Slayer_Movie_BD_JPCH.7z)
 
 所需字体：
 ```

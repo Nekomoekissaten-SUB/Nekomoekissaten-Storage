@@ -3,7 +3,7 @@
 ## TV Series
 
 内含简繁日 01-13 + Audio Drama (01.3-13.13) + Picture Drama  
-[BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/ODDTAXI_TV_BD_Subs.7z)
+[BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/ODDTAXI_TV_BD_Subs.7z)
 
 所用字体：
 ```
@@ -25,7 +25,7 @@ FOT-筑紫明朝 Pr6N E <FOT-TsukuMin Pr6N E>
 
 ## Movie
 
-[BDRip 中日双语字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/ODDTAXI_Movie_BD_JPCH.7z)
+[BDRip 中日双语字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/ODDTAXI_Movie_BD_JPCH.7z)
 
 所用字体：
 ```

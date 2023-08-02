@@ -2,7 +2,7 @@
 
 01-12+PV2
 
-[简繁中文 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Gochiusa_BLOOM_Web_zho.7z)
+[简繁中文 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Gochiusa_BLOOM_Web_zho.7z)
 
 所需字体
 ```

@@ -4,7 +4,7 @@
 
 内含正片01-12
 
-[Web简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Kanokari_Web_zho.7z)
+[Web简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kanokari_Web_zho.7z)
 
 所需字体：
 ```
@@ -41,6 +41,6 @@ FOT-スーラ ProN DB <FOT-Seurat ProN DB>
 
 来源为Netflix，轴大致适配Web源
 
-[日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Kanokari_jpn_NFLX.7z)
+[日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Kanokari_jpn_NFLX.7z)
 
 ![](https://nekomoe.pages.dev/images/2020-07/kanokari.jpg)

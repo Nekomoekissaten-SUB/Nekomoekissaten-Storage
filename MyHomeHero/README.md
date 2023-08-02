@@ -1,7 +1,7 @@
 # My Home Hero
 
 内含 01-12 简繁中文 Web 字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/MyHomeHero_Web_JPCH.7z)
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/MyHomeHero_Web_JPCH.7z)
 
 所需字体：
 ```

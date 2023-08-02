@@ -2,7 +2,7 @@
 
 ## OVA
 
-[简繁中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Haifuri_OVA_BD_zho.7z)
+[简繁中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Haifuri_OVA_BD_zho.7z)
 
 所需字体：
 ```
@@ -20,7 +20,7 @@ DFCraftYu-W5
 
 ## 剧场版
 
-[简繁中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Haifuri_Movie_BD_zho.7z)
+[简繁中文字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Haifuri_Movie_BD_zho.7z)
 
 所需字体：
 ```

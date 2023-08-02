@@ -2,7 +2,7 @@
 
 ## OVA
 
-[BD OVA + Web Extra 简繁中文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Nekopara_OVA_BD_zho.7z)
+[BD OVA + Web Extra 简繁中文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Nekopara_OVA_BD_zho.7z)
 
 所需字体：
 ```
@@ -18,7 +18,7 @@ FOT-Humming Std B
 
 ## TV Anime (2020.01)
 
-[BD 简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Nekopara_BD_zho.7z)  
+[BD 简繁中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Nekopara_BD_zho.7z)  
 内含 01-12
 
 所需字体：

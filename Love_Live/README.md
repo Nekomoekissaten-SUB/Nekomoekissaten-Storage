@@ -5,7 +5,7 @@
 ### Season 1
 
 内含正片 01-12 + 特典动画「リエラのうた」（Liella no uta） 01-12 BDRip 简繁日双语字幕  
-[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/lovelive-superstar_BD_JPCH.7z)
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/lovelive-superstar_BD_JPCH.7z)
 
 所需字体：
 ```
@@ -26,7 +26,7 @@ Zpix
 ### Season 2
 
 内含正片 01-12 + 特典动画「リエラのうた」（Liella no uta） 01-12 + 特典动画「连续Liella小说 小恋」BDRip 简繁日双语字幕  
-[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/lovelive-superstar_s2_BD_JPCH.7z)
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/lovelive-superstar_s2_BD_JPCH.7z)
 
 所需字体：
 ```

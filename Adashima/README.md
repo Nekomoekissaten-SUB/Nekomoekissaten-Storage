@@ -1,6 +1,6 @@
 # Adachi to Shimamura
 
-[01-12 BD简繁合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Adashima_BD_zho.7z)
+[01-12 BD简繁合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Adashima_BD_zho.7z)
 
 所需字体
 ```

@@ -1,6 +1,6 @@
 # Shoujo Shuumatsu Ryokou / Girls Last Tour
 
-[简繁中文 BD 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Girls_Last_Tour_BD_zho.7z)
+[简繁中文 BD 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Girls_Last_Tour_BD_zho.7z)
 
 所需字体：
 ```

@@ -4,9 +4,9 @@
 
 ## 中文字幕
 
-[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BURN_THE_WITCH/BURN_THE_WITCH_BD_CHS.7z)
+[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BURN_THE_WITCH/BURN_THE_WITCH_BD_CHS.7z)
 
-[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BURN_THE_WITCH/BURN_THE_WITCH_BD_CHT.7z)
+[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BURN_THE_WITCH/BURN_THE_WITCH_BD_CHT.7z)
 
 所需字体：
 ```

@@ -1,8 +1,8 @@
 # 我们真的学不来 / 我们无法一起学习
 
-[S1+S2+OAD1+OAD2 中文字幕 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Bokuben_BD_zho.7z)
+[S1+S2+OAD1+OAD2 中文字幕 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Bokuben_BD_zho.7z)
 
-[S1 日文字幕 Web 合集 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Bokuben_S1_jpn_NFLX.7z)
+[S1 日文字幕 Web 合集 From Netflix](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Bokuben_S1_jpn_NFLX.7z)
 
 ## ChangeLog
 

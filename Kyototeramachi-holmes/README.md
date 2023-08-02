@@ -2,8 +2,8 @@
 
 ## Web
 
-[Web简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyototeramachi-holmes/Kyototeramachi-holmes_Web_CHS.7z)  
-[Web繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Kyototeramachi-holmes/Kyototeramachi-holmes_Web_CHT.7z)
+[Web简体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyototeramachi-holmes/Kyototeramachi-holmes_Web_CHS.7z)  
+[Web繁体中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Kyototeramachi-holmes/Kyototeramachi-holmes_Web_CHT.7z)
 
 所需字体：
 ```

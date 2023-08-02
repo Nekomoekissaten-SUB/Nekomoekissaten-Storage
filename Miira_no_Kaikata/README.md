@@ -1,6 +1,6 @@
 # Miira no Kaikata
 
-[简繁中文 Web 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Miira_no_Kaikata_Web_zho.7z)
+[简繁中文 Web 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Miira_no_Kaikata_Web_zho.7z)
 
 所需字体：
 ```

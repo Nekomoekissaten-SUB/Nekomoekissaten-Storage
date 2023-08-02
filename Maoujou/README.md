@@ -2,7 +2,7 @@
 
 ## 中文字幕
 
-[BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Maoujou_BD_zho.7z)
+[BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Maoujou_BD_zho.7z)
 
 所需字体：
 ```
@@ -21,6 +21,6 @@ MYoyo PRC Medium
 
 ## 日文字幕
 
-[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Maoujou_jpn_NFLX.7z)来自于Netflix，未做调轴适配。
+[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Maoujou_jpn_NFLX.7z)来自于Netflix，未做调轴适配。
 
 ![](https://nekomoe.pages.dev/images/2020-10/Maoujou.jpg)

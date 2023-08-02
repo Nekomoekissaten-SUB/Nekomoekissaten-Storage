@@ -2,7 +2,7 @@
 
 # 轻旅轻营 Season1
 
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Yurucamp_S1_BD_zho.7z)
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Yurucamp_S1_BD_zho.7z)
 
 所需字体：
 ```
@@ -25,7 +25,7 @@ FOT-ハミング ProN D <FOT-Humming ProN D>
 
 # 室内露营
 
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Heyacamp_BD_zho.7z)  
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Heyacamp_BD_zho.7z)  
 内含本篇 EP.01-12 (后期 by poi@喵萌奶茶屋) + SP (后期 by 太刀@千夏字幕组)
 
 所需字体：

@@ -1,6 +1,6 @@
 # BD字幕
 
-[old commit history](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/commits/ddf3eaf2ba6b9623a119e481ddd943e2466e435d/nakineko)
+[old commit history](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/commits/ddf3eaf2ba6b9623a119e481ddd943e2466e435d/nakineko)
 
 ## 所需字体
 

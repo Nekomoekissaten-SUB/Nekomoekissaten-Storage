@@ -8,8 +8,8 @@
 
 内含正片 EP.01-12 和 OVA「Alice in Deadly School」
 
-[BD简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Gekidol/Gekidol_BD_JPSC.7z)  
-[BD繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Gekidol/Gekidol_BD_JPTC.7z)
+[BD简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Gekidol/Gekidol_BD_JPSC.7z)  
+[BD繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Gekidol/Gekidol_BD_JPTC.7z)
 
 所需字体：
 ```

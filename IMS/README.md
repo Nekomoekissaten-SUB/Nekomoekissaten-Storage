@@ -3,7 +3,7 @@
 ## CINDERELLA GIRLS U149
 
 内含正片 01-12 Web 简繁日双语字幕  
-[简繁日双语 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/IMS_U149_Web_JPCH.7z)
+[简繁日双语 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/IMS_U149_Web_JPCH.7z)
 
 所需字体：
 ```

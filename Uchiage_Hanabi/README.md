@@ -1,6 +1,6 @@
 # Uchiage Hanabi, Shita kara Miru ka？ Yoko kara Miru ka?
 
-[剧场版 BD 合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Uchiage_Hanabi_BD_zho.7z)
+[剧场版 BD 合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Uchiage_Hanabi_BD_zho.7z)
 
 所需字体：
 ```

@@ -2,7 +2,7 @@
 
 ## Season 1 (EP.01-14)
 
-[简繁中文 Web 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Honzuki_no_Gekokujou_Web_zho.7z)
+[简繁中文 Web 字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Honzuki_no_Gekokujou_Web_zho.7z)
 
 ## Season 2
 

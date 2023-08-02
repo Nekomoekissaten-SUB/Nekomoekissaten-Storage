@@ -1,6 +1,6 @@
 # Summer Time Rendering
 
-[01-25 BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Summertime_BD_JPCH.7z)
+[01-25 BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Summertime_BD_JPCH.7z)
 
 所需字体：
 ```

@@ -1,12 +1,12 @@
 # 字幕
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Senryuu_Shoujo/Senryuu_Shoujo_Web.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Senryuu_Shoujo/Senryuu_Shoujo_Web.7z)
 
 因暂无日版 BD 发售消息，故 BD 字幕暂以美版 BD 为视频源制作
 
 ## 简日双语
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Senryuu_Shoujo/Senryuu_Shoujo_BD_SC&JA.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Senryuu_Shoujo/Senryuu_Shoujo_BD_SC&JA.7z)
 
 所需字体：
 ```
@@ -24,7 +24,7 @@ FOT-マティスはつひやまとPro DB <FOT-MatisseHatsuhi Pro DB> ver.1.20
 
 ## 繁日双语
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Senryuu_Shoujo/Senryuu_Shoujo_BD_TC&JA.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Senryuu_Shoujo/Senryuu_Shoujo_BD_TC&JA.7z)
 
 所需字体：
 ```

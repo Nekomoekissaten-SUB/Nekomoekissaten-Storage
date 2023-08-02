@@ -2,13 +2,13 @@
 
 ## 中文字幕
 
-[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Hizaue/Hizaue_Web_CHS.7z)
+[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Hizaue/Hizaue_Web_CHS.7z)
 
-[繁体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Hizaue/Hizaue_Web_CHT.7z)
+[繁体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Hizaue/Hizaue_Web_CHT.7z)
 
-[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Hizaue/Hizaue_BD_CHS.7z)
+[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Hizaue/Hizaue_BD_CHS.7z)
 
-[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Hizaue/Hizaue_BD_CHT.7z)
+[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Hizaue/Hizaue_BD_CHT.7z)
 
 所需字体：
 ```
@@ -41,7 +41,7 @@ FOT-あられ Std DB <FOT-Aralet Std DB>    ver.1.20
 
 日文字幕来自AT-X，未调轴适配Web/BD源
 
-[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Hizaue/Hizaue_TV_JPN.7z)
+[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Hizaue/Hizaue_TV_JPN.7z)
 
 
 ![](https://nekomoe.pages.dev/images/2019-01/hizaue.jpg)

@@ -3,8 +3,8 @@
 ## 第一期（EP01-12）
 
 注：经测试，MPC-BE 内置的 VSFilter 无法正确渲染 ED 特效，可以使用 XySubFilter / libass 或使用其他播放器，如 mpv、VLC  
-[简体中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_BD_CHS.7z)  
-[繁体中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_BD_CHT.7z)
+[简体中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BEASTARS/BEASTARS_BD_CHS.7z)  
+[繁体中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BEASTARS/BEASTARS_BD_CHT.7z)
 
 所需字体：
 ```
@@ -28,7 +28,7 @@ FZMiaowu-GBK
 
 ## 第二期（EP13-24）
 
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS2_BD_zho.7z)  
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BEASTARS/BEASTARS2_BD_zho.7z)  
 
 所需字体：
 ```
@@ -54,7 +54,7 @@ FOT-奈 Std L <FOT-Nan Std L>
 
 来源于Netflix，适配于Web源。
 
-[S1 Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS_Web_JPN.7z)  
-[S2 Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/BEASTARS/BEASTARS2_Web_JPN.7z)
+[S1 Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BEASTARS/BEASTARS_Web_JPN.7z)  
+[S2 Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/BEASTARS/BEASTARS2_Web_JPN.7z)
 
 ![](https://nekomoe.pages.dev/images/2019-10/beastars.png)

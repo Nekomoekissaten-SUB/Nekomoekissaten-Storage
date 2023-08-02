@@ -2,7 +2,7 @@
 
 ## BD
 
-[BD中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dororo/Dororo_BD_CHI.7z)
+[BD中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Dororo/Dororo_BD_CHI.7z)
 
 所需字体：
 ```
@@ -20,7 +20,7 @@ FZRuiZhengHei_GBK DemiBold
 
 ## Web
 
-[Web中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Dororo/Dororo_Web_CHI.7z)
+[Web中文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Dororo/Dororo_Web_CHI.7z)
 
 所需字体：
 ```

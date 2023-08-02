@@ -2,7 +2,7 @@
 
 ## Season 1
 
-内含正片 01-12 [BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Neverland_S1_BD_zho.7z)
+内含正片 01-12 [BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Neverland_S1_BD_zho.7z)
 
 所需字体：
 ```
@@ -19,11 +19,11 @@ FOT-筑紫オールドゴシック Std B <FOT-TsukuOldGothic Std B>
 
 来源为Netflix，轴未作适配
 
-[日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Neverland_S1_jpn_NFLX.7z)
+[日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Neverland_S1_jpn_NFLX.7z)
 
 ## Season 2
 
-内含正片 01-11 [BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Neverland_S2_BD_zho.7z)
+内含正片 01-11 [BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Neverland_S2_BD_zho.7z)
 
 所需字体：
 ```

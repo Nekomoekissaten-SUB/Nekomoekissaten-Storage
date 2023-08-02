@@ -1,6 +1,6 @@
 # Do It Yourself!!
 
-[01-12 BDRip 中文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/DIY_BD_JPCH.7z)
+[01-12 BDRip 中文字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/DIY_BD_JPCH.7z)
 
 所需字体：
 ```

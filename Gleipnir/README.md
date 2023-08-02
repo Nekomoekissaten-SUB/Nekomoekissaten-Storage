@@ -1,6 +1,6 @@
 # Gleipnir
 
-[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Gleipnir_BD_zho.7z)
+[简繁中文 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Gleipnir_BD_zho.7z)
 
 内含正片 01-13，轴匹配法版（FRA）BD
 
@@ -39,6 +39,6 @@ Sitka Text Bold Italic
 
 来源于Netflix，未调轴
 
-[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Gleipnir_jpn_NFLX.7z)
+[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Gleipnir_jpn_NFLX.7z)
 
 ![](https://nekomoe.pages.dev/images/2020-04/Gleipnir.png)

@@ -1,6 +1,6 @@
 # OVA字幕
 
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Tojitomo/Tojitomo_OVA_BD_JPCH.7z)  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Tojitomo/Tojitomo_OVA_BD_JPCH.7z)  
 内含OVA 01-02 中日双语字幕
 
 所需字体：

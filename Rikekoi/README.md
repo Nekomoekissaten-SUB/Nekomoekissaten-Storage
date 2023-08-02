@@ -1,8 +1,8 @@
 # 中文字幕
 
-[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Rikekoi/Rikekoi_BD_CHS.7z)
+[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Rikekoi/Rikekoi_BD_CHS.7z)
 
-[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Rikekoi/Rikekoi_BD_CHT.7z)
+[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Rikekoi/Rikekoi_BD_CHT.7z)
 
 所需字体：
 ```
@@ -33,6 +33,6 @@ MStiffHei HK Medium
 
 来源于AT-X，未调轴适配。
 
-[日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Rikekoi/Rikekoi_JPN.7z)
+[日文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Rikekoi/Rikekoi_JPN.7z)
 
 ![](https://nekomoe.pages.dev/images/2020-01/rikekoi.jpg)

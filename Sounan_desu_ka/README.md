@@ -4,9 +4,9 @@
 
 ## 中文
 
-[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sounan_desu_ka/Sounan_desu_ka_Web.7z)
+[Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Sounan_desu_ka/Sounan_desu_ka_Web.7z)
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Sounan_desu_ka/Sounan_desu_ka_BD.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Sounan_desu_ka/Sounan_desu_ka_BD.7z)
 
 所需字体：
 ```

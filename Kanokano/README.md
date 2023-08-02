@@ -1,6 +1,6 @@
 # 字幕
 
-[Web 中日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Kanokano_Web_JPCH.7z)  
+[Web 中日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Kanokano_Web_JPCH.7z)  
 内含 01-12 简繁中日双语字幕
 
 字幕所需字体：

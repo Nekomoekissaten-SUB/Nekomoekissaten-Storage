@@ -8,8 +8,8 @@
 
 内含正片 EP.01-11 和 EP.01、EP.11 的正文无 Credit（No Credit）版本
 
-[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Taiso_Samurai/Taiso_BD_CHS.7z)  
-[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Taiso_Samurai/Taiso_BD_CHS.7z)
+[BD简体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Taiso_Samurai/Taiso_BD_CHS.7z)  
+[BD繁体中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Taiso_Samurai/Taiso_BD_CHS.7z)
 
 所需字体：
 ```
@@ -37,7 +37,7 @@ Sitka Small Bold Italic
 
 ## 日文字幕
 
-[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Taiso_Samurai/Taiso_JPN.7z)来自 Netflix，未做调轴适配。
+[日文字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Taiso_Samurai/Taiso_JPN.7z)来自 Netflix，未做调轴适配。
 
 # 海报
 

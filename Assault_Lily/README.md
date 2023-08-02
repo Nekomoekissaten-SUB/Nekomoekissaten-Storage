@@ -4,8 +4,8 @@
 
 内含正片 01-12 BD 字幕。
 
-[简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Assault_Lily_BD_JPSC.7z)  
-[繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Assault_Lily_BD_JPTC.7z)
+[简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Assault_Lily_BD_JPSC.7z)  
+[繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Assault_Lily_BD_JPTC.7z)
 
 所需字体：
 ```
@@ -25,12 +25,12 @@ FOT-ユトリロ Pro DB <FOT-Utrillo Pro DB>
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 ```
 
-注：字体[FF-AL-Rune](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Assault_Lily/FF-AL-Rune.ttf)来自于[fermi](https://booth.pm/zh-cn/items/2441452)。
+注：字体[FF-AL-Rune](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Assault_Lily/FF-AL-Rune.ttf)来自于[fermi](https://booth.pm/zh-cn/items/2441452)。
 
 ## Assault Lily Fruits
 
 内含正片 01-13 BD 字幕  
-[简繁日 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_pkg/Assault_Lily_Fru_BD_JPCH.7z)
+[简繁日 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Assault_Lily_Fru_BD_JPCH.7z)
 
 所需字体：
 ```

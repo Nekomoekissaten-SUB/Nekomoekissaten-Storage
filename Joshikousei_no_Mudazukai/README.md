@@ -2,7 +2,7 @@
 
 ## 简体中文
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_BD_CHS.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_BD_CHS.7z)
 
 所需字体：
 ```
@@ -41,7 +41,7 @@ Unifont
 
 ## 繁体中文
 
-[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_BD_CHT.7z)
+[BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_BD_CHT.7z)
 
 所需字体：
 ```
@@ -83,10 +83,10 @@ Unifont
 
 来源于AT-X，调轴大致适配于BD源并更换样式。
 
-[BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_JPN_AT-X.7z)
+[BD ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_JPN_AT-X.7z)
 
 来源于Netflix，未调轴适配BD
 
-[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_JPN_NF.7z)
+[Web ver.](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Joshikousei_no_Mudazukai/jyoshimuda_JPN_NF.7z)
 
 ![](https://nekomoe.pages.dev/images/2019-07/jyoshimuda.jpg)

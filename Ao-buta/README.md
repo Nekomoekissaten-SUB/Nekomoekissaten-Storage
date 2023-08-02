@@ -4,8 +4,8 @@
 
 01-13简繁字幕
 
-[TV系列BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Ao-buta_TV_BD_zho.7z)  
-[TV日字](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitle_jpn/Ao-buta_TV_01-13.jpn.ass)来自AT-X，未调轴匹配
+[TV系列BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Ao-buta_TV_BD_zho.7z)  
+[TV日字](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Ao-buta_TV_01-13.jpn.ass)来自AT-X，未调轴匹配
 
 所需字体：
 ```
@@ -35,7 +35,7 @@ Source Han Serif JP Medium
 
 简繁日双语
 
-[剧场版BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/releases/download/subtitles_pkg/Ao-buta_Yumemiru_Shoujo_BD_JPCH.7z)
+[剧场版BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitles_pkg/Ao-buta_Yumemiru_Shoujo_BD_JPCH.7z)
 
 所需字体：
 ```
