@@ -15,7 +15,7 @@ Style: Liella,FZLanTingYuan-R-GBK,42,&H00FFFFFF,&H000000FF,&H12A24F89,&H00000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Staff-----------------
-Dialogue: 0,0:00:00.98,0:00:05.03,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&H9A3D62&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
+Dialogue: 0,0:00:00.98,0:00:05.03,Liella,,0,0,20,,{\fad(300,300)\blur2\an8\fs30\3c&H6882E4&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译·时轴：Ronny　后期：MIR　繁化：错党
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,-----------------Liella no uta-----------------
 Dialogue: 0,0:00:11.32,0:00:15.20,Liella,,0,0,0,,{\3c&H6882E4&\blur3}那天我感受着南风吹来
 Dialogue: 0,0:00:15.20,0:00:19.12,Liella,,0,0,0,,{\3c&H6882E4&\blur3}随即你突然出现在面前
