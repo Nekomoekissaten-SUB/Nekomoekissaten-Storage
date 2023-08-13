@@ -1,0 +1,648 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Brand New Animal [07][BDRip].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
+Style: STAFF,华文中宋,25,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: OP-JP,FOT-Rodin ProN EB,40,&H00A62BED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,20,128
+Style: OP-CH,HYQiHei-95S,37,&H00A62BED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,22,1
+Style: ED-JP,FOT-Rodin ProN B,40,&H00FFFFFF,&H000000FF,&H00C226D9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,128
+Style: ED-CH,FZLanTingHei-B-GBK,37,&H00FFFFFF,&H000000FF,&H00C226D9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,19,1
+Style: Insert-JP,FOT-Rodin ProN B,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,9,30,30,50,128
+Style: Inser-CH,FZLanTingHei-B-GBK,37,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,9,30,30,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:21:45.14,0:21:50.44,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途 \N\N翻译: Saki 　校对: Dysonsphere　繁化: 風風　后期: MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:01:14.30,0:01:16.10,Default,,0,0,0,,警告飞行中的兽人
+Dialogue: 0,0:01:16.77,0:01:19.82,Default,,0,0,0,,你正擅自入侵日本领空
+Dialogue: 0,0:01:19.94,0:01:23.41,Default,,0,0,0,,请立刻着陆并按照规定手续入国
+Dialogue: 0,0:01:24.11,0:01:25.94,Default,,0,0,0,,我是漂泊信天翁
+Dialogue: 0,0:01:25.94,0:01:29.82,Default,,0,0,0,,根据国际候鸟条约我应是受保护的对象吧
+Dialogue: 0,0:01:30.11,0:01:32.85,Default,,0,0,0,,兽人并不符合候鸟条约
+Dialogue: 0,0:01:33.01,0:01:34.56,Default,,0,0,0,,如果继续飞行
+Dialogue: 0,0:01:34.56,0:01:36.92,Default,,0,0,0,,我们将视此举为侵犯领空 并进行攻击
+Dialogue: 0,0:01:37.29,0:01:39.35,Default,,0,0,0,,这群人不懂得幽默吗
+Dialogue: 0,0:01:39.49,0:01:41.38,Default,,0,0,0,,公务员可真死板
+Dialogue: 0,0:01:55.75,0:01:59.02,Default,,0,0,0,,把自己的正义强加给别人 擅自贴上可怜的标签
+Dialogue: 0,0:01:59.13,0:02:01.21,Default,,0,0,0,,然后还自认为帮到了他人
+Dialogue: 0,0:02:01.38,0:02:04.02,Default,,0,0,0,,你这样做只是想让自己舒服而已吧
+Dialogue: 0,0:02:05.50,0:02:07.86,Default,,0,0,0,,明明好不容易才见面的 她这算什么啊
+Dialogue: 0,0:02:08.11,0:02:08.86,Default,,0,0,0,,真是的
+Dialogue: 0,0:02:18.54,0:02:21.78,Default,,0,0,0,,就像《林白征空记》里的状况一样
+Dialogue: 0,0:02:18.54,0:02:21.78,Default,,0,0,0,,{\an7\fs35}林白征空记: 美国电影 {\fax-0.2}The Spirit of St. Louis{\fax0}, 日译名《翼よ! あれが巴里の灯だ》
+Dialogue: 0,0:02:22.07,0:02:24.66,Default,,0,0,0,,但我这里还更严峻呢
+Dialogue: 0,0:02:34.37,0:02:36.49,Default,,0,0,0,,明明我也在努力着
+Dialogue: 0,0:02:36.93,0:02:38.81,Default,,0,0,0,,为什么说强加于人啊
+Dialogue: 0,0:03:08.36,0:03:12.63,Default,,0,0,0,,啊 这可真是失策啊
+Dialogue: 0,0:03:13.04,0:03:14.67,Default,,0,0,0,,啊 你醒了
+Dialogue: 0,0:03:19.87,0:03:22.61,Default,,0,0,0,,啊 这是我干的吗
+Dialogue: 0,0:03:23.05,0:03:26.27,Default,,0,0,0,,是的 漂亮地开了个洞呢
+Dialogue: 0,0:03:26.91,0:03:28.98,Default,,0,0,0,,你最好还是继续休息吧
+Dialogue: 0,0:03:29.18,0:03:32.23,Default,,0,0,0,,啊这 看样给你们添了不少麻烦
+Dialogue: 0,0:03:32.23,0:03:33.86,Default,,0,0,0,,让我睡我也睡不下
+Dialogue: 0,0:03:34.71,0:03:37.11,Default,,0,0,0,,看样好像没受伤呢
+Dialogue: 0,0:03:42.26,0:03:43.67,Default,,0,0,0,,注意一下啊 小姑娘
+Dialogue: 0,0:03:43.94,0:03:45.14,Default,,0,0,0,,暴风要接近了
+Dialogue: 0,0:03:51.39,0:03:52.42,Default,,0,0,0,,小满
+Dialogue: 0,0:04:06.69,0:04:09.13,Default,,0,0,0,,果然还是吃热乎乎的食物舒服
+Dialogue: 0,0:04:09.33,0:04:10.91,Default,,0,0,0,,很久没吃了吗
+Dialogue: 0,0:04:11.13,0:04:13.57,Default,,0,0,0,,因为我一直在天上啊
+Dialogue: 0,0:04:13.76,0:04:16.72,Default,,0,0,0,,你也是逃来阿尼玛市的兽人吗
+Dialogue: 0,0:04:16.72,0:04:19.07,Default,,0,0,0,,是这样的话 就要去兽民登录
+Dialogue: 0,0:04:19.37,0:04:20.78,Default,,0,0,0,,我不会长时间停留的
+Dialogue: 0,0:04:21.25,0:04:23.58,Default,,0,0,0,,因为我是漂泊信天翁
+Dialogue: 0,0:04:23.86,0:04:26.33,Default,,0,0,0,,漂泊？是指候鸟吗
+Dialogue: 0,0:04:26.63,0:04:27.40,Default,,0,0,0,,嗯
+Dialogue: 0,0:04:27.75,0:04:29.48,Default,,0,0,0,,真好啊
+Dialogue: 0,0:04:29.48,0:04:30.21,Default,,0,0,0,,好什么
+Dialogue: 0,0:04:30.33,0:04:32.05,Default,,0,0,0,,你能在空中飞的吧
+Dialogue: 0,0:04:32.05,0:04:33.42,Default,,0,0,0,,不管是哪里都能去
+Dialogue: 0,0:04:33.66,0:04:37.05,Default,,0,0,0,,如果我也能飞当初来这里就不用那么辛苦了
+Dialogue: 0,0:04:38.63,0:04:40.55,Default,,0,0,0,,小姑娘 来飞一下试试吗
+Dialogue: 0,0:04:40.86,0:04:43.82,Default,,0,0,0,,诶 啊 嗯
+Dialogue: 0,0:04:44.37,0:04:46.55,Default,,0,0,0,,我调查了一下银狼教团
+Dialogue: 0,0:04:46.79,0:04:50.06,Default,,0,0,0,,之前只是一个安稳的民间宗教级别的教团
+Dialogue: 0,0:04:50.06,0:04:51.24,Default,,0,0,0,,大概在半年前
+Dialogue: 0,0:04:51.36,0:04:53.81,Default,,0,0,0,,自从一个叫做克里夫·波利斯的男人进团后
+Dialogue: 0,0:04:53.81,0:04:56.87,Default,,0,0,0,,教团规模和势力迅速扩大
+Dialogue: 0,0:04:57.31,0:05:00.47,Default,,0,0,0,,而且教祖还是貉女的好朋友
+Dialogue: 0,0:05:00.79,0:05:02.87,Default,,0,0,0,,患有兽人病的人类有两名
+Dialogue: 0,0:05:02.87,0:05:04.66,Default,,0,0,0,,还是朋友关系
+Dialogue: 0,0:05:05.02,0:05:06.31,Default,,0,0,0,,说是偶然也太...
+Dialogue: 0,0:05:07.45,0:05:07.92,Default,,0,0,0,,对吧
+Dialogue: 0,0:05:08.48,0:05:10.16,Default,,0,0,0,,难道是从谁身上感染的吗
+Dialogue: 0,0:05:10.43,0:05:12.88,Default,,0,0,0,,如果是这样的话 那应该会传染地更广
+Dialogue: 0,0:05:13.35,0:05:14.38,Default,,0,0,0,,确实
+Dialogue: 0,0:05:14.71,0:05:16.47,Default,,0,0,0,,尽是深不见底的谜团
+Dialogue: 0,0:05:16.90,0:05:19.20,Default,,0,0,0,,教团的落户已经许可了
+Dialogue: 0,0:05:19.44,0:05:22.46,Default,,0,0,0,,兽人病的话 能近距离监视比较好
+Dialogue: 0,0:05:23.51,0:05:25.21,Default,,0,0,0,,市长 有客人来了
+Dialogue: 0,0:05:27.06,0:05:28.69,Default,,0,0,0,,应该没有预约吧
+Dialogue: 0,0:05:29.22,0:05:30.09,Default,,0,0,0,,那是因为…
+Dialogue: 0,0:05:31.94,0:05:34.92,Default,,0,0,0,,不请自来 非常抱歉
+Dialogue: 0,0:05:36.46,0:05:38.94,Default,,0,0,0,,许久不见了 芭芭拉·罗泽市长
+Dialogue: 0,0:05:39.34,0:05:42.58,Default,,0,0,0,,亚兰会长 怎么突然大驾光临
+Dialogue: 0,0:05:42.75,0:05:45.13,Default,,0,0,0,,不好意思 我这人比较随性
+Dialogue: 0,0:05:48.09,0:05:49.66,Default,,0,0,0,,亚兰·西尔维斯特
+Dialogue: 0,0:05:49.79,0:05:52.71,Default,,0,0,0,,我是西尔维斯特制药公司的会长 请多指教
+Dialogue: 0,0:05:53.24,0:05:54.55,Default,,0,0,0,,大神士郎
+Dialogue: 0,0:05:54.78,0:05:56.13,Default,,0,0,0,,你讨厌握手吗
+Dialogue: 0,0:05:56.47,0:05:59.07,Default,,0,0,0,,是的 因为会染上人类的味道
+Dialogue: 0,0:05:59.35,0:06:01.17,Default,,0,0,0,,啊 这真是抱歉了
+Dialogue: 0,0:06:01.62,0:06:03.84,Default,,0,0,0,,大神先生是市长的顾问
+Dialogue: 0,0:06:04.15,0:06:07.09,Default,,0,0,0,,从建设阿尼玛市开始就受到他的帮助
+Dialogue: 0,0:06:07.54,0:06:10.13,Default,,0,0,0,,那我们的立场相似啊
+Dialogue: 0,0:06:10.54,0:06:13.22,Default,,0,0,0,,我出钱 你动脑
+Dialogue: 0,0:06:13.77,0:06:16.86,Default,,0,0,0,,西尔维斯特制药爆炸案承蒙你关照了
+Dialogue: 0,0:06:17.55,0:06:18.86,Default,,0,0,0,,您已经知道了吗
+Dialogue: 0,0:06:19.21,0:06:21.84,Default,,0,0,0,,你和那个可爱的助手小姑娘
+Dialogue: 0,0:06:21.97,0:06:25.13,Default,,0,0,0,,帮我们揭发了矢场他们愚蠢的犯罪
+Dialogue: 0,0:06:25.13,0:06:26.62,Default,,0,0,0,,我收到报告了
+Dialogue: 0,0:06:26.91,0:06:28.37,Default,,0,0,0,,可爱的助手？
+Dialogue: 0,0:06:28.94,0:06:31.38,Default,,0,0,0,,我说错了吗  那个貉一样的孩子
+Dialogue: 0,0:06:31.99,0:06:33.25,Default,,0,0,0,,她并不可爱
+Dialogue: 0,0:06:33.79,0:06:36.11,Default,,0,0,0,,啊哈哈哈 客套话而已
+Dialogue: 0,0:06:36.46,0:06:37.96,Default,,0,0,0,,不要太当真
+Dialogue: 0,0:06:39.29,0:06:41.65,Default,,0,0,0,,突然不请自来非常抱歉
+Dialogue: 0,0:06:42.23,0:06:45.33,Default,,0,0,0,,银狼教团似乎希望定居在这里
+Dialogue: 0,0:06:47.23,0:06:49.75,Default,,0,0,0,,不过 我觉得还是作罢为妙
+Dialogue: 0,0:06:51.81,0:06:54.73,Default,,0,0,0,,这样做的话 这个城市的目标就会崩溃
+Dialogue: 0,0:06:55.23,0:06:56.33,Default,,0,0,0,,说的没错
+Dialogue: 0,0:06:56.58,0:07:00.13,Default,,0,0,0,,阿尼玛市是被迫害的兽人的避难所
+Dialogue: 0,0:07:00.53,0:07:03.71,Default,,0,0,0,,在这里生活的兽人来习惯人类的文明
+Dialogue: 0,0:07:03.71,0:07:06.53,Default,,0,0,0,,并学习与人类共存的方式
+Dialogue: 0,0:07:07.22,0:07:09.00,Default,,0,0,0,,我对你的主张产生共鸣
+Dialogue: 0,0:07:09.00,0:07:12.37,Default,,0,0,0,,我作为人类代表为你提供资金援助
+Dialogue: 0,0:07:12.75,0:07:15.98,Default,,0,0,0,,是的 阿尼玛市不会拒绝兽人
+Dialogue: 0,0:07:16.11,0:07:17.26,Default,,0,0,0,,但是为什么
+Dialogue: 0,0:07:19.01,0:07:20.00,Default,,0,0,0,,是心血来潮？
+Dialogue: 0,0:07:21.49,0:07:24.18,Default,,0,0,0,,哦哦 真漂亮的牙齿
+Dialogue: 0,0:07:24.18,0:07:25.98,Default,,0,0,0,,不愧是狼兽人
+Dialogue: 0,0:07:26.13,0:07:27.06,Default,,0,0,0,,大神
+Dialogue: 0,0:07:27.86,0:07:30.57,Default,,0,0,0,,我非常清楚西尔维斯特财阀的年轻继承人
+Dialogue: 0,0:07:30.63,0:07:33.97,Default,,0,0,0,,不是那种心血来潮采取行动的人
+Dialogue: 0,0:07:34.31,0:07:36.97,Default,,0,0,0,,不 你太抬举我了
+Dialogue: 0,0:07:37.11,0:07:41.77,Default,,0,0,0,,我只是认为现在的阿尼玛市不需要银狼教团
+Dialogue: 0,0:07:41.86,0:07:42.54,Default,,0,0,0,,为什么
+Dialogue: 0,0:07:43.13,0:07:45.86,Default,,0,0,0,,在推进兽人近代化的时候
+Dialogue: 0,0:07:45.86,0:07:49.41,Default,,0,0,0,,如果兽人邪教进来的话只会适得其反吧
+Dialogue: 0,0:07:49.60,0:07:51.49,Default,,0,0,0,,会刺激到反兽人那一方
+Dialogue: 0,0:07:52.01,0:07:53.10,Default,,0,0,0,,你知道吗
+Dialogue: 0,0:07:53.40,0:07:56.89,Default,,0,0,0,,议员 兽人运动的组织者 记者
+Dialogue: 0,0:07:57.49,0:08:00.59,Default,,0,0,0,,最近兽人人权运动的中心人物
+Dialogue: 0,0:08:00.59,0:08:02.17,Default,,0,0,0,,在各地遭受袭击
+Dialogue: 0,0:08:03.04,0:08:06.40,Default,,0,0,0,,还有未确认飞行兽人入侵的报道
+Dialogue: 0,0:08:06.73,0:08:09.30,Default,,0,0,0,,当然 决定权在你的手上
+Dialogue: 0,0:08:09.99,0:08:14.37,Default,,0,0,0,,根据你们的决定 我也会改变我的想法
+Dialogue: 0,0:08:15.15,0:08:16.02,Default,,0,0,0,,威胁吗
+Dialogue: 0,0:08:16.28,0:08:17.35,Default,,0,0,0,,忠告而已
+Dialogue: 0,0:08:17.90,0:08:22.67,Default,,0,0,0,,还有 没了所长的医疗中心今后由我直接看管
+Dialogue: 0,0:08:23.43,0:08:27.58,Default,,0,0,0,,可以的话还想继续承蒙阿尼玛市的关照呢
+Dialogue: 0,0:08:28.77,0:08:29.53,Default,,0,0,0,,告辞
+Dialogue: 0,0:08:33.82,0:08:35.89,Default,,0,0,0,,好舒服啊
+Dialogue: 0,0:08:36.62,0:08:39.08,Default,,0,0,0,,这座城市的风真有特点啊
+Dialogue: 0,0:08:39.85,0:08:41.06,Default,,0,0,0,,抓住了
+Dialogue: 0,0:08:49.83,0:08:51.68,Default,,0,0,0,,好厉害
+Dialogue: 0,0:08:51.93,0:08:54.14,Default,,0,0,0,,怎么做到御风而行的
+Dialogue: 0,0:08:54.27,0:08:57.63,Default,,0,0,0,,怎么做... 习惯了就知道了
+Dialogue: 0,0:08:57.84,0:09:00.59,Default,,0,0,0,,风从哪里产生 会怎么刮
+Dialogue: 0,0:09:00.73,0:09:02.57,Default,,0,0,0,,我从老爸那里学习了
+Dialogue: 0,0:09:02.90,0:09:04.94,Default,,0,0,0,,老爸也是从他的老爸那里学习的
+Dialogue: 0,0:09:04.94,0:09:07.69,Default,,0,0,0,,要说理论的话 湿气啊气压啊之类的
+Dialogue: 0,0:09:07.69,0:09:10.03,Default,,0,0,0,,虽然有许多的繁琐的理论
+Dialogue: 0,0:09:10.03,0:09:12.41,Default,,0,0,0,,不过兽人就是用身体来记住的
+Dialogue: 0,0:09:12.86,0:09:14.97,Default,,0,0,0,,真好啊 这么自由
+Dialogue: 0,0:09:15.47,0:09:19.47,Default,,0,0,0,,自由吗 以前的话是这样呢
+Dialogue: 0,0:09:20.05,0:09:20.59,Default,,0,0,0,,诶？
+Dialogue: 0,0:09:21.37,0:09:25.90,Default,,0,0,0,,我们是候鸟兽人 和候鸟一样漂泊各处
+Dialogue: 0,0:09:26.16,0:09:28.51,Default,,0,0,0,,代代先祖都是这么做的
+Dialogue: 0,0:09:29.06,0:09:32.91,Default,,0,0,0,,但要是兽人和人类一样能被承认具有人权的话
+Dialogue: 0,0:09:32.91,0:09:34.61,Default,,0,0,0,,漂泊就要被禁止了
+Dialogue: 0,0:09:34.87,0:09:40.27,Default,,0,0,0,,要跨越国境得好好拿到护照还要办签证之类的
+Dialogue: 0,0:09:41.02,0:09:42.67,Default,,0,0,0,,原来是这样
+Dialogue: 0,0:09:43.21,0:09:46.18,Default,,0,0,0,,从太古开始祖先飞过的路线
+Dialogue: 0,0:09:46.62,0:09:48.95,Default,,0,0,0,,已经铭刻于我们身体里
+Dialogue: 0,0:09:49.33,0:09:51.20,Default,,0,0,0,,事到如今已经改变不了了
+Dialogue: 0,0:09:52.25,0:09:55.26,Default,,0,0,0,,还有说着「为什么我们要因为人类而不得不改变」
+Dialogue: 0,0:09:55.74,0:09:58.42,Default,,0,0,0,,然后被击落的同伴
+Dialogue: 0,0:09:59.30,0:10:01.61,Default,,0,0,0,,说是侵犯国境
+Dialogue: 0,0:10:02.41,0:10:03.82,Default,,0,0,0,,怎么会…
+Dialogue: 0,0:10:04.37,0:10:07.46,Default,,0,0,0,,人类的规则连兽人都要束缚
+Dialogue: 0,0:10:08.03,0:10:12.09,Default,,0,0,0,,人类这种东西有那么伟大吗
+Dialogue: 0,0:10:15.05,0:10:16.72,Default,,0,0,0,,我能拿一杯吗
+Dialogue: 0,0:10:16.72,0:10:18.35,Default,,0,0,0,,这是兽人专用的
+Dialogue: 0,0:10:18.75,0:10:20.81,Default,,0,0,0,,啊 你能分辨出我是人类？
+Dialogue: 0,0:10:21.41,0:10:22.27,Default,,0,0,0,,靠气味
+Dialogue: 0,0:10:22.62,0:10:24.73,Default,,0,0,0,,这样吗 无所谓了 给我一杯
+Dialogue: 0,0:10:25.39,0:10:26.16,Default,,0,0,0,,请用
+Dialogue: 0,0:10:29.07,0:10:32.28,Default,,0,0,0,,嗯 确实不是能喝的东西
+Dialogue: 0,0:10:33.80,0:10:36.23,Default,,0,0,0,,你打算对那小鬼唯命是从吗
+Dialogue: 0,0:10:36.60,0:10:38.97,Default,,0,0,0,,虽然年轻但是也不能轻视他
+Dialogue: 0,0:10:39.51,0:10:42.99,Default,,0,0,0,,西尔维斯特财阀是历史悠久的欧洲名门
+Dialogue: 0,0:10:43.34,0:10:46.70,Default,,0,0,0,,亚兰在财阀也被视为中心人物
+Dialogue: 0,0:10:47.43,0:10:52.43,Default,,0,0,0,,你也知道这里的资金是依赖于西尔维斯特制药的吧
+Dialogue: 0,0:10:53.05,0:10:54.82,Default,,0,0,0,,虽然那个教团非常可疑
+Dialogue: 0,0:10:55.53,0:10:58.64,Default,,0,0,0,,但是听命于人类我更加不能接受
+Dialogue: 0,0:10:59.29,0:11:02.71,Default,,0,0,0,,即使这样 我们也不得不做出决定
+Dialogue: 0,0:11:03.61,0:11:08.69,Default,,0,0,0,,即便结果会得罪兽人们
+Dialogue: 0,0:11:11.50,0:11:13.54,Default,,0,0,0,,已经向政府确认了
+Dialogue: 0,0:11:13.73,0:11:15.90,Default,,0,0,0,,侵入国境的鸟兽人
+Dialogue: 0,0:11:15.90,0:11:18.63,Default,,0,0,0,,好像在阿尼玛市附近隐藏了行踪
+Dialogue: 0,0:11:18.93,0:11:22.69,Default,,0,0,0,,很有可能是反对兽人人权运动的恐怖分子
+Dialogue: 0,0:11:23.06,0:11:26.65,Default,,0,0,0,,看来亚兰说的事情并不只是威胁呢
+Dialogue: 0,0:11:31.55,0:11:34.36,Default,,0,0,0,,那个笨蛋到底在干什么
+Dialogue: 0,0:11:38.74,0:11:42.02,Default,,0,0,0,,好了 飞行观光结束了 小姑娘
+Dialogue: 0,0:11:46.35,0:11:48.54,Default,,0,0,0,,这个给你 虽然是美元
+Dialogue: 0,0:11:48.54,0:11:49.65,Default,,0,0,0,,当作是屋顶的修理费吧
+Dialogue: 0,0:11:50.08,0:11:50.56,Default,,0,0,0,,诶？
+Dialogue: 0,0:11:50.99,0:11:53.09,Default,,0,0,0,,我大概明天就不在这里了
+Dialogue: 0,0:11:53.55,0:11:54.53,Default,,0,0,0,,要离别了
+Dialogue: 0,0:11:55.12,0:11:56.24,Default,,0,0,0,,已经要走了吗
+Dialogue: 0,0:11:56.48,0:11:57.99,Default,,0,0,0,,因为我是候鸟啊
+Dialogue: 0,0:11:58.51,0:11:59.79,Default,,0,0,0,,这样啊
+Dialogue: 0,0:12:01.30,0:12:02.91,Default,,0,0,0,,至少告诉我名字吧
+Dialogue: 0,0:12:03.18,0:12:03.72,Default,,0,0,0,,平加
+Dialogue: 0,0:12:09.81,0:12:11.53,Default,,0,0,0,,再见 平加先生
+Dialogue: 0,0:12:11.86,0:12:14.24,Default,,0,0,0,,如果再经过这里要顺便来这里看看啊
+Dialogue: 0,0:12:24.95,0:12:26.27,Default,,0,0,0,,鸟兽人怎么了
+Dialogue: 0,0:12:27.00,0:12:28.27,Default,,0,0,0,,平加的事情吗
+Dialogue: 0,0:12:28.97,0:12:29.83,Default,,0,0,0,,已经走了哦
+Dialogue: 0,0:12:31.41,0:12:32.23,Default,,0,0,0,,干什么
+Dialogue: 0,0:12:32.58,0:12:35.33,Default,,0,0,0,,那家伙可能是恐怖分子
+Dialogue: 0,0:12:35.50,0:12:38.11,Default,,0,0,0,,恐怖分子？怎么可能
+Dialogue: 0,0:12:38.45,0:12:40.77,Default,,0,0,0,,他说了明天要离开这座城市
+Dialogue: 0,0:12:41.28,0:12:43.25,Default,,0,0,0,,那么今晚可能就要采取行动了
+Dialogue: 0,0:12:44.48,0:12:46.02,Default,,0,0,0,,突然间怎么了啊
+Dialogue: 0,0:12:46.17,0:12:48.21,Default,,0,0,0,,平加先生不是那样的人
+Dialogue: 0,0:12:48.73,0:12:52.03,Default,,0,0,0,,那你和他一起飞了一下就知道了吗
+Dialogue: 0,0:12:52.62,0:12:53.89,Default,,0,0,0,,你这说话方式…
+Dialogue: 0,0:12:54.03,0:12:57.09,Default,,0,0,0,,话说回来 为什么知道我和他在飞行
+Dialogue: 0,0:12:57.30,0:12:58.98,Default,,0,0,0,,我从市政府看见了
+Dialogue: 0,0:12:59.36,0:13:01.70,Default,,0,0,0,,你们在那悠闲地飞着
+Dialogue: 0,0:13:02.69,0:13:04.11,Default,,0,0,0,,才不是悠闲
+Dialogue: 0,0:13:04.54,0:13:06.09,Default,,0,0,0,,完全不是
+Dialogue: 0,0:13:06.09,0:13:08.03,Default,,0,0,0,,只是士郎不知道而已
+Dialogue: 0,0:13:08.03,0:13:08.81,Default,,0,0,0,,不知道什么
+Dialogue: 0,0:13:09.49,0:13:11.18,Default,,0,0,0,,我之前还不知道
+Dialogue: 0,0:13:11.73,0:13:15.63,Default,,0,0,0,,兽人即使拿到了人权也不一定会幸福
+Dialogue: 0,0:13:16.62,0:13:18.13,Default,,0,0,0,,候鸟问题吗
+Dialogue: 0,0:13:18.59,0:13:19.74,Default,,0,0,0,,你知道啊
+Dialogue: 0,0:13:20.41,0:13:23.86,Default,,0,0,0,,平加先生的伙伴也遭到了攻击
+Dialogue: 0,0:13:24.62,0:13:26.33,Default,,0,0,0,,那是因为他们有动机
+Dialogue: 0,0:13:26.55,0:13:29.77,Default,,0,0,0,,真是的 为什么你老是以恶意揣测
+Dialogue: 0,0:13:29.77,0:13:33.51,Default,,0,0,0,,据说反兽人派的恐怖分子正在潜伏于阿尼玛市
+Dialogue: 0,0:13:34.24,0:13:35.76,Default,,0,0,0,,而且还是鸟兽人
+Dialogue: 0,0:13:36.38,0:13:36.88,Default,,0,0,0,,诶？
+Dialogue: 0,0:13:37.32,0:13:39.47,Default,,0,0,0,,这种时机不得不怀疑他
+Dialogue: 0,0:13:40.23,0:13:42.08,Default,,0,0,0,,没有时间论证了
+Dialogue: 0,0:13:42.85,0:13:46.03,Default,,0,0,0,,那么 找到他把可疑之处排除掉的话就好了吧
+Dialogue: 0,0:13:46.59,0:13:47.66,Default,,0,0,0,,前提是能排除掉
+Dialogue: 0,0:13:48.06,0:13:49.61,Default,,0,0,0,,不用气味追踪吗
+Dialogue: 0,0:13:49.82,0:13:51.22,Default,,0,0,0,,天上是盲区
+Dialogue: 0,0:13:51.51,0:13:53.65,Default,,0,0,0,,残留的气味会一瞬间飘散
+Dialogue: 0,0:13:54.00,0:13:55.34,Default,,0,0,0,,有其他的方法吗
+Dialogue: 0,0:13:55.83,0:13:58.22,Default,,0,0,0,,即使没有方法我也有线索
+Dialogue: 0,0:13:58.45,0:13:59.61,Default,,0,0,0,,等我一下
+Dialogue: 0,0:14:12.15,0:14:17.61,Default,,0,0,0,,罗泽市长拒绝了银狼教团落户于阿尼玛市的申请
+Dialogue: 0,0:14:18.14,0:14:21.39,Default,,0,0,0,,并准备代替方案与教团交涉
+Dialogue: 0,0:14:22.25,0:14:25.93,Default,,0,0,0,,市长称「没有完善的公共基础设施接纳教团」
+Dialogue: 0,0:14:26.19,0:14:28.61,Default,,0,0,0,,只能暂时请他们移动到别的地方
+Dialogue: 0,0:14:28.61,0:14:31.27,Default,,0,0,0,,后续会做好能够接纳他们的准备
+Dialogue: 0,0:14:34.10,0:14:34.97,Default,,0,0,0,,这样好吗
+Dialogue: 0,0:14:36.22,0:14:38.55,Default,,0,0,0,,嗯 全部都在预料之中
+Dialogue: 0,0:14:43.02,0:14:45.10,Default,,0,0,0,,喂 教团他们行动了
+Dialogue: 0,0:14:45.51,0:14:46.81,Default,,0,0,0,,什么 真的吗
+Dialogue: 0,0:14:46.94,0:14:49.15,Default,,0,0,0,,嗯 银狼大人正在带头前进
+Dialogue: 0,0:14:49.35,0:14:50.51,Default,,0,0,0,,银狼大人吗
+Dialogue: 0,0:14:52.98,0:14:54.74,Default,,0,0,0,,我们银狼教团
+Dialogue: 0,0:14:54.74,0:14:57.66,Default,,0,0,0,,希望能落户在阿尼玛市
+Dialogue: 0,0:14:58.05,0:15:01.13,Default,,0,0,0,,但是 罗泽市长拒绝了我们
+Dialogue: 0,0:15:01.59,0:15:04.59,Default,,0,0,0,,这是市长对西尔维斯特制药的顾虑
+Dialogue: 0,0:15:04.84,0:15:07.72,Default,,0,0,0,,可是 我们并不是狂热的信徒
+Dialogue: 0,0:15:08.38,0:15:11.22,Default,,0,0,0,,只是希望在兽人的乐土生活
+Dialogue: 0,0:15:11.46,0:15:15.72,Default,,0,0,0,,来吧 一起祈祷吧 希望全部的误会都能解开
+Dialogue: 0,0:15:24.70,0:15:26.41,Default,,0,0,0,,幸甚至哉
+Dialogue: 0,0:15:26.53,0:15:29.14,Default,,0,0,0,,银狼只是保护兽人之神
+Dialogue: 0,0:15:29.35,0:15:34.45,Default,,0,0,0,,那闪耀将会永远给兽人带来平安
+Dialogue: 0,0:15:36.50,0:15:39.14,Default,,0,0,0,,教团在医疗中心大门集会
+Dialogue: 0,0:15:39.46,0:15:42.18,Default,,0,0,0,,看来是察觉到这是亚兰会长干的了
+Dialogue: 0,0:15:42.94,0:15:45.92,Default,,0,0,0,,并不是天启什么的吧
+Dialogue: 0,0:15:46.24,0:15:50.17,Default,,0,0,0,,目击到他来市政府的人再怎么说也是有的
+Dialogue: 0,0:15:50.70,0:15:52.63,Default,,0,0,0,,总之 先联系警察吧
+Dialogue: 0,0:15:53.22,0:15:56.56,Default,,0,0,0,,现在只能观察下情况 不能乱来
+Dialogue: 0,0:16:16.35,0:16:18.54,Default,,0,0,0,,好了 开始吧
+Dialogue: 0,0:16:31.68,0:16:32.87,Default,,0,0,0,,你干什么啊
+Dialogue: 0,0:16:38.23,0:16:40.31,Default,,0,0,0,,阿尼玛市不允许恐怖分子的存在
+Dialogue: 0,0:16:40.86,0:16:43.06,Default,,0,0,0,,希望你不要妨碍我啊
+Dialogue: 0,0:16:47.31,0:16:48.35,Default,,0,0,0,,士郎
+Dialogue: 0,0:16:51.21,0:16:53.62,Default,,0,0,0,,啊 要是我能飞的话
+Dialogue: 0,0:16:53.72,0:16:55.59,Default,,0,0,0,,不要怪我哦
+Dialogue: 0,0:17:21.95,0:17:23.86,Default,,0,0,0,,我要
+Dialogue: 0,0:17:24.26,0:17:27.10,Default,,0,0,0,,飞
+Dialogue: 0,0:17:30.48,0:17:32.04,Default,,0,0,0,,你能飞的吗
+Dialogue: 0,0:17:32.39,0:17:33.98,Default,,0,0,0,,这是第一次
+Dialogue: 0,0:17:33.98,0:17:34.74,Default,,0,0,0,,第一次？
+Dialogue: 0,0:17:34.74,0:17:35.70,Default,,0,0,0,,是的
+Dialogue: 0,0:17:38.22,0:17:39.69,Default,,0,0,0,,能飞到他上面去吗
+Dialogue: 0,0:17:39.83,0:17:40.86,Default,,0,0,0,,交给我吧
+Dialogue: 0,0:17:49.54,0:17:51.93,Default,,0,0,0,,喂喂 还有这种事情的吗
+Dialogue: 0,0:17:56.15,0:17:57.56,Default,,0,0,0,,这次不会让你跑掉了
+Dialogue: 0,0:18:08.65,0:18:10.65,Default,,0,0,0,,貉小姐吗
+Dialogue: 0,0:18:10.89,0:18:12.99,Default,,0,0,0,,是我被骗了吗
+Dialogue: 0,0:18:13.31,0:18:15.82,Default,,0,0,0,,你曾经是军人吧
+Dialogue: 0,0:18:16.51,0:18:19.17,Default,,0,0,0,,没错 年轻的时候在兽人部队呆过
+Dialogue: 0,0:18:19.54,0:18:24.42,Default,,0,0,0,,相信着兽人人权这东西和激进的反兽人派战斗
+Dialogue: 0,0:18:24.79,0:18:27.09,Default,,0,0,0,,结果最后连迁徙都做不了
+Dialogue: 0,0:18:27.09,0:18:28.87,Default,,0,0,0,,真是想不到啊
+Dialogue: 0,0:18:29.32,0:18:30.37,Default,,0,0,0,,即使是这样
+Dialogue: 0,0:18:31.34,0:18:33.60,Default,,0,0,0,,即使这样你觉得当恐怖分子真的好吗
+Dialogue: 0,0:18:33.85,0:18:36.09,Default,,0,0,0,,你真想袭击市长吗
+Dialogue: 0,0:18:36.32,0:18:37.99,Default,,0,0,0,,炸弹只是虚张声势而已
+Dialogue: 0,0:18:38.40,0:18:39.85,Default,,0,0,0,,没有杀伤力的
+Dialogue: 0,0:18:40.15,0:18:43.54,Default,,0,0,0,,要对方答应要求肯定得准备一些威慑的东西
+Dialogue: 0,0:18:43.54,0:18:45.65,Default,,0,0,0,,毕竟官员是信不过的啊
+Dialogue: 0,0:18:47.52,0:18:48.86,Default,,0,0,0,,那么要怎么办
+Dialogue: 0,0:18:49.51,0:18:51.68,Default,,0,0,0,,我只是想守护这座城市而已
+Dialogue: 0,0:18:52.11,0:18:52.70,Default,,0,0,0,,滚吧
+Dialogue: 0,0:18:53.21,0:18:54.09,Default,,0,0,0,,现在立刻
+Dialogue: 0,0:18:55.45,0:18:57.07,Default,,0,0,0,,你现在还什么都没有做
+Dialogue: 0,0:19:00.83,0:19:01.75,Default,,0,0,0,,小姑娘
+Dialogue: 0,0:19:03.71,0:19:08.42,Default,,0,0,0,,这是卷进战争和人类间的权利斗争死去的战友
+Dialogue: 0,0:19:08.98,0:19:11.11,Default,,0,0,0,,如果这里是兽人的城市
+Dialogue: 0,0:19:11.58,0:19:14.38,Default,,0,0,0,,我希望能在这里做他们的墓碑
+Dialogue: 0,0:19:15.05,0:19:16.65,Default,,0,0,0,,帮我向市长传达
+Dialogue: 0,0:19:17.17,0:19:17.65,Default,,0,0,0,,嗯
+Dialogue: 0,0:19:18.65,0:19:20.92,Default,,0,0,0,,我一定会传达的
+Dialogue: 0,0:19:22.53,0:19:25.85,Default,,0,0,0,,对了 飞来这座城市的不只我一个
+Dialogue: 0,0:19:26.01,0:19:27.14,Default,,0,0,0,,还有一个人
+Dialogue: 0,0:19:28.33,0:19:31.15,Default,,0,0,0,,能以那种速度飞的只有一个人
+Dialogue: 0,0:19:31.57,0:19:34.28,Default,,0,0,0,,在暗世界里被称为流星
+Dialogue: 0,0:19:34.90,0:19:37.30,Default,,0,0,0,,只要给钱什么都干的杀手
+Dialogue: 0,0:19:37.45,0:19:38.42,Default,,0,0,0,,小心点
+Dialogue: 0,0:19:39.03,0:19:40.78,Default,,0,0,0,,他目标是市长吗
+Dialogue: 0,0:19:41.19,0:19:43.95,Default,,0,0,0,,不 如果是这样的话我会察觉到的
+Dialogue: 0,0:19:44.79,0:19:46.05,Default,,0,0,0,,也就是说
+Dialogue: 0,0:19:48.87,0:19:51.51,Default,,0,0,0,,会长 现在出去很危险
+Dialogue: 0,0:19:51.51,0:19:55.13,Default,,0,0,0,,没事 要是回避会更复杂
+Dialogue: 0,0:20:12.54,0:20:13.50,Default,,0,0,0,,来晚一步吗
+Dialogue: 0,0:20:14.07,0:20:15.33,Default,,0,0,0,,那是什么
+Dialogue: 0,0:20:15.33,0:20:16.55,Default,,0,0,0,,能再飞一次吗
+Dialogue: 0,0:20:37.30,0:20:39.98,Default,,0,0,0,,看吧 有着翅膀的银狼
+Dialogue: 0,0:20:40.41,0:20:45.42,Default,,0,0,0,,那份恩惠不仅只倾注于兽人 连人类也可以享有
+Dialogue: 0,0:20:45.79,0:20:48.81,Default,,0,0,0,,我们的教祖 德斯路乌
+Dialogue: 0,0:20:49.20,0:20:53.61,Default,,0,0,0,,正是拯救兽人世界的伟人
+Dialogue: 0,0:20:55.62,0:20:57.74,Default,,0,0,0,,已经失败了 放弃吧
+Dialogue: 0,0:21:22.02,0:21:24.51,Default,,0,0,0,,听吧 市民们的呼声
+Dialogue: 0,0:21:24.80,0:21:28.64,Default,,0,0,0,,你能够无视这呼声吗 亚兰·西尔维斯特
+Dialogue: 0,0:21:29.89,0:21:31.74,Default,,0,0,0,,这下可真伤脑筋啊
+Dialogue: 0,0:21:39.86,0:21:40.79,Default,,0,0,0,,好厉害
+Dialogue: 0,0:21:40.79,0:21:41.30,Default,,0,0,0,,嗯？
+Dialogue: 0,0:21:41.91,0:21:43.38,Default,,0,0,0,,好厉害 荠
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:07:58.87,0:08:00.13,Screen,,0,0,0,,{\fnHYQiHei-95S\bord3\fax-0.15\c&H5C45CD&\3c&HFFF3EB&\pos(789,536)}中华街的爆炸声 疑为恐怖袭击
+Dialogue: 0,0:14:13.16,0:14:13.20,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx100\fscy100\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(431,363)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.20,0:14:13.24,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.89\fscy99.89\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(430.66,362.57)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.24,0:14:13.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.79\fscy99.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(430.3,362.13)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.29,0:14:13.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.69\fscy99.69\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(429.97,361.7)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.33,0:14:13.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.59\fscy99.59\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(429.63,361.27)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.37,0:14:13.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.49\fscy99.49\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(429.28,360.83)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.41,0:14:13.45,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.38\fscy99.38\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(428.94,360.39)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.45,0:14:13.49,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.28\fscy99.28\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(428.59,359.96)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.49,0:14:13.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.18\fscy99.18\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(428.25,359.53)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.54,0:14:13.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.09\fscy99.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(427.91,359.11)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.58,0:14:13.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.98\fscy98.98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(427.58,358.67)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.62,0:14:13.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.88\fscy98.88\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(427.22,358.24)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.66,0:14:13.70,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.79\fscy98.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(426.89,357.82)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.70,0:14:13.74,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.69\fscy98.69\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(426.55,357.38)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.74,0:14:13.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.59\fscy98.59\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(426.21,356.95)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.79,0:14:13.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.49\fscy98.49\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(425.87,356.53)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.83,0:14:13.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.39\fscy98.39\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(425.54,356.11)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.87,0:14:13.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.29\fscy98.29\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(425.19,355.68)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.91,0:14:13.95,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.2\fscy98.2\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(424.86,355.26)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.95,0:14:13.99,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.09\fscy98.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(424.52,354.84)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:13.99,0:14:14.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98\fscy98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(424.19,354.43)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.04,0:14:14.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.9\fscy97.9\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(423.85,354.01)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.08,0:14:14.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.8\fscy97.8\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(423.52,353.58)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.12,0:14:14.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.71\fscy97.71\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(423.18,353.16)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.16,0:14:14.20,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.61\fscy97.61\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(422.86,352.75)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.20,0:14:14.24,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.52\fscy97.52\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(422.53,352.34)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.24,0:14:14.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.42\fscy97.42\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(422.19,351.9)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.29,0:14:14.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.32\fscy97.32\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(421.86,351.49)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.33,0:14:14.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.23\fscy97.23\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(421.54,351.1)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.37,0:14:14.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.13\fscy97.13\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(421.21,350.68)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.41,0:14:14.45,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.03\fscy97.03\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(420.87,350.27)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.45,0:14:14.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.94\fscy96.94\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(420.54,349.86)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.50,0:14:14.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.84\fscy96.84\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(420.22,349.44)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.54,0:14:14.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.74\fscy96.74\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(419.89,349.03)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.58,0:14:14.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.64\fscy96.64\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(419.57,348.62)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.62,0:14:14.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.56\fscy96.56\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(419.24,348.2)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.66,0:14:14.70,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.47\fscy96.47\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(418.92,347.81)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.70,0:14:14.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.37\fscy96.37\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(418.59,347.4)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.75,0:14:14.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.28\fscy96.28\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(418.26,346.98)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.79,0:14:14.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.18\fscy96.18\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(417.95,346.58)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.83,0:14:14.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.09\fscy96.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(417.63,346.17)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.87,0:14:14.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.99\fscy95.99\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(417.31,345.77)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.91,0:14:14.95,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.9\fscy95.9\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.99,345.35)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:14.95,0:14:15.00,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.8\fscy95.8\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.66,344.95)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.00,0:14:15.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.72\fscy95.72\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.34,344.56)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.04,0:14:15.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.62\fscy95.62\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.02,344.16)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.08,0:14:15.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.53\fscy95.53\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(415.7,343.76)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.12,0:14:15.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.43\fscy95.43\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(415.39,343.36)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.16,0:14:15.20,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.35\fscy95.35\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(415.07,342.96)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.20,0:14:15.25,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.25\fscy95.25\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(414.75,342.57)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.25,0:14:15.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.16\fscy95.16\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(414.42,342.17)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.29,0:14:15.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.07\fscy95.07\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(414.12,341.77)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.33,0:14:15.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.98\fscy94.98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(413.8,341.39)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.37,0:14:15.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.89\fscy94.89\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(413.49,341)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.41,0:14:15.45,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.79\fscy94.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(413.17,340.59)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.45,0:14:15.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.71\fscy94.71\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(412.85,340.21)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.50,0:14:15.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.61\fscy94.61\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(412.55,339.82)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.54,0:14:15.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.52\fscy94.52\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(412.24,339.42)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.58,0:14:15.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.44\fscy94.44\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(411.92,339.03)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.62,0:14:15.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.35\fscy94.35\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(411.61,338.65)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.66,0:14:15.70,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.26\fscy94.26\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(411.31,338.26)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.70,0:14:15.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.16\fscy94.16\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.99,337.86)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.75,0:14:15.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.07\fscy94.07\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.67,337.47)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.79,0:14:15.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.98\fscy93.98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.37,337.07)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.83,0:14:15.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.9\fscy93.9\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.06,336.7)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.87,0:14:15.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.81\fscy93.81\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(409.76,336.32)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.91,0:14:15.95,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.72\fscy93.72\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(409.45,335.93)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:15.95,0:14:16.00,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.62\fscy93.62\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(409.14,335.54)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.00,0:14:16.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.54\fscy93.54\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(408.84,335.17)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.04,0:14:16.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.45\fscy93.45\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(408.54,334.79)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.08,0:14:16.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.36\fscy93.36\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(408.23,334.41)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.12,0:14:16.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.28\fscy93.28\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.93,334.03)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.16,0:14:16.21,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.19\fscy93.19\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.63,333.63)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.21,0:14:16.25,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.09\fscy93.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.32,333.25)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.25,0:14:16.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.01\fscy93.01\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.02,332.88)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.29,0:14:16.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.92\fscy92.92\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(406.72,332.5)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.33,0:14:16.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.83\fscy92.83\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(406.42,332.12)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.37,0:14:16.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.74\fscy92.74\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(406.12,331.75)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.41,0:14:16.46,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.66\fscy92.66\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(405.82,331.36)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.46,0:14:16.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.57\fscy92.57\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(405.52,330.99)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.50,0:14:16.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.49\fscy92.49\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(405.21,330.62)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.54,0:14:16.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.39\fscy92.39\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.92,330.23)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.58,0:14:16.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.31\fscy92.31\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.62,329.86)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.62,0:14:16.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.22\fscy92.22\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.32,329.48)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.66,0:14:16.71,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.14\fscy92.14\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.03,329.13)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.71,0:14:16.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.04\fscy92.04\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(403.74,328.74)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.75,0:14:16.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.96\fscy91.96\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(403.44,328.37)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.79,0:14:16.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.88\fscy91.88\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(403.14,328.01)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.83,0:14:16.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.79\fscy91.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(402.85,327.64)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.87,0:14:16.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.71\fscy91.71\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(402.56,327.29)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.91,0:14:16.96,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.61\fscy91.61\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(402.27,326.9)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:16.96,0:14:17.00,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.53\fscy91.53\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.97,326.53)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.00,0:14:17.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.44\fscy91.44\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.69,326.16)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.04,0:14:17.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.36\fscy91.36\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.39,325.79)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.08,0:14:17.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.27\fscy91.27\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.11,325.43)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.12,0:14:17.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.19\fscy91.19\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(400.81,325.05)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.16,0:14:17.21,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.1\fscy91.1\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(400.52,324.69)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.21,0:14:17.25,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.02\fscy91.02\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(400.24,324.33)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.25,0:14:17.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.93\fscy90.93\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.95,323.98)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.29,0:14:17.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.85\fscy90.85\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.66,323.6)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.33,0:14:17.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.77\fscy90.77\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.37,323.26)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.37,0:14:17.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.68\fscy90.68\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.08,322.9)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.41,0:14:17.46,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.6\fscy90.6\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(398.78,322.52)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.46,0:14:17.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.51\fscy90.51\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(398.5,322.17)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.50,0:14:17.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.44\fscy90.44\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(398.23,321.82)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.54,0:14:17.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.35\fscy90.35\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.94,321.47)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.58,0:14:17.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.26\fscy90.26\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.65,321.12)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.62,0:14:17.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.18\fscy90.18\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.37,320.75)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.66,0:14:17.71,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.1\fscy90.1\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.08,320.38)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.71,0:14:17.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.02\fscy90.02\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(396.8,320.03)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.75,0:14:17.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx89.94\fscy89.94\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(396.53,319.68)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.79,0:14:17.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx89.85\fscy89.85\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(396.22,319.32)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.83,0:14:17.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx89.78\fscy89.78\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(395.94,318.97)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Dialogue: 0,0:14:17.88,0:14:23.51,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\bord3\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(646,525)}阿尼玛市 拒绝{\c&HBB7EEA&}银狼教团
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:01.40,0:00:04.32,OP-JP,,0,0,0,,{\an5\fs20\blur0.8\frx0\fry14\frz3.34\move(659,569,664,566,18,2896)\t(18,2896,\fscy135.53\fscx135.53\fry8\frz0.54)}Hey, are you ready to Go？
+Dialogue: 0,0:00:04.69,0:00:07.82,OP-JP,,0,0,0,,Cuz, you know the way to go
+Dialogue: 0,0:00:08.19,0:00:08.23,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.55\pos(283,714)}信じたい　選んだ way
+Dialogue: 0,0:00:08.23,0:00:08.27,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.48\pos(282.72,710.53)}信じたい　選んだ way
+Dialogue: 0,0:00:08.27,0:00:08.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.46\pos(282.79,707)}信じたい　選んだ way
+Dialogue: 0,0:00:08.32,0:00:08.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.39\pos(282.44,703.54)}信じたい　選んだ way
+Dialogue: 0,0:00:08.36,0:00:08.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.31\pos(282.14,700.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.40,0:00:08.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.31\pos(282.29,696.53)}信じたい　選んだ way
+Dialogue: 0,0:00:08.44,0:00:08.48,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.22\pos(281.85,693.06)}信じたい　選んだ way
+Dialogue: 0,0:00:08.48,0:00:08.52,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.16\pos(281.64,689.55)}信じたい　選んだ way
+Dialogue: 0,0:00:08.52,0:00:08.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.16\pos(281.84,686.03)}信じたい　選んだ way
+Dialogue: 0,0:00:08.57,0:00:08.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.07\pos(281.48,682.55)}信じたい　選んだ way
+Dialogue: 0,0:00:08.61,0:00:08.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.98\pos(281.05,679.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.65,0:00:08.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.02\pos(281.48,675.51)}信じたい　選んだ way
+Dialogue: 0,0:00:08.69,0:00:08.73,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.91\pos(280.95,672.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.73,0:00:08.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.83\pos(280.6,668.6)}信じたい　選んだ way
+Dialogue: 0,0:00:08.78,0:00:08.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.82\pos(280.78,665.07)}信じたい　選んだ way
+Dialogue: 0,0:00:08.82,0:00:08.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.73\pos(280.39,661.58)}信じたい　選んだ way
+Dialogue: 0,0:00:08.86,0:00:08.90,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.65\pos(280.09,658.11)}信じたい　選んだ way
+Dialogue: 0,0:00:08.90,0:00:08.94,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.66\pos(280.38,654.57)}信じたい　選んだ way
+Dialogue: 0,0:00:08.94,0:00:08.98,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.58\pos(280.04,651.1)}信じたい　選んだ way
+Dialogue: 0,0:00:08.98,0:00:09.03,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.48\pos(279.61,647.62)}信じたい　選んだ way
+Dialogue: 0,0:00:09.03,0:00:09.07,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.5\pos(279.93,644.08)}信じたい　選んだ way
+Dialogue: 0,0:00:09.07,0:00:09.11,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.4\pos(279.52,640.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.11,0:00:09.15,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.35\pos(279.43,637.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.15,0:00:09.19,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.33\pos(279.54,633.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.19,0:00:09.23,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.28\pos(279.42,630.07)}信じたい　選んだ way
+Dialogue: 0,0:00:09.23,0:00:09.28,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.18\pos(279.03,626.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.28,0:00:09.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.18\pos(279.27,623.07)}信じたい　選んだ way
+Dialogue: 0,0:00:09.32,0:00:09.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.09\pos(278.89,619.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.36,0:00:09.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.02\pos(278.71,616.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.40,0:00:09.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.99\pos(278.77,612.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.44,0:00:09.48,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.94\pos(278.66,609.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.48,0:00:09.53,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.87\pos(278.43,605.64)}信じたい　選んだ way
+Dialogue: 0,0:00:09.53,0:00:09.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.82\pos(278.36,602.12)}信じたい　選んだ way
+Dialogue: 0,0:00:09.57,0:00:09.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.79\pos(278.45,598.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.61,0:00:09.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.7\pos(278.13,595.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.65,0:00:09.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.69\pos(278.32,591.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.69,0:00:09.73,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.63\pos(278.24,588.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.73,0:00:09.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.54\pos(277.96,584.63)}信じたい　選んだ way
+Dialogue: 0,0:00:09.78,0:00:09.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.5\pos(277.91,581.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.82,0:00:09.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.45\pos(277.9,577.62)}信じたい　選んだ way
+Dialogue: 0,0:00:09.86,0:00:09.90,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.36\pos(277.62,574.15)}信じたい　選んだ way
+Dialogue: 0,0:00:09.90,0:00:09.94,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.35\pos(277.74,570.64)}信じたい　選んだ way
+Dialogue: 0,0:00:09.94,0:00:09.98,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.27\pos(277.6,567.13)}信じたい　選んだ way
+Dialogue: 0,0:00:09.98,0:00:10.03,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.22\pos(277.5,563.64)}信じたい　選んだ way
+Dialogue: 0,0:00:10.03,0:00:10.07,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.17\pos(277.46,560.12)}信じたい　選んだ way
+Dialogue: 0,0:00:10.07,0:00:10.11,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.13\pos(277.52,556.63)}信じたい　選んだ way
+Dialogue: 0,0:00:10.11,0:00:10.15,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.07\pos(277.41,553.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.15,0:00:10.19,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.05\pos(277.59,549.6)}信じたい　選んだ way
+Dialogue: 0,0:00:10.19,0:00:10.24,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.97\pos(277.43,546.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.24,0:00:10.28,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.93\pos(277.46,542.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.28,0:00:10.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.89\pos(277.46,539.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.32,0:00:10.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.83\pos(277.45,535.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.36,0:00:10.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.76\pos(277.32,532.11)}信じたい　選んだ way
+Dialogue: 0,0:00:10.40,0:00:10.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.72\pos(277.37,528.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.44,0:00:10.49,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.7\pos(277.59,525.11)}信じたい　選んだ way
+Dialogue: 0,0:00:10.49,0:00:10.53,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.59\pos(277.12,521.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.53,0:00:10.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.55\pos(277.24,518.14)}信じたい　選んだ way
+Dialogue: 0,0:00:10.57,0:00:10.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.49\pos(277.15,514.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.61,0:00:10.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.45\pos(277.26,511.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.65,0:00:10.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.41\pos(277.34,507.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.69,0:00:10.74,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.36\pos(277.3,504.1)}信じたい　選んだ way
+Dialogue: 0,0:00:10.74,0:00:10.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.29\pos(277.26,500.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.78,0:00:10.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.24\pos(277.26,497.1)}信じたい　選んだ way
+Dialogue: 0,0:00:10.82,0:00:10.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.17\pos(277.27,493.12)}信じたい　選んだ way
+Dialogue: 0,0:00:11.24,0:00:14.45,OP-JP,,0,0,0,,さあ　行こう　The brand new world
+Dialogue: 0,0:00:27.62,0:00:34.08,OP-JP,,0,0,0,,誰もが息を潜めて　境界線をなぞり続けてる
+Dialogue: 0,0:00:34.24,0:00:40.66,OP-JP,,0,0,0,,声なき声の向こうに　踏み出すあなたへ届くよう
+Dialogue: 0,0:00:40.66,0:00:47.07,OP-JP,,0,0,0,,一瞬だって　止まらない　世界を駆け抜けて
+Dialogue: 0,0:00:47.29,0:00:50.59,OP-JP,,0,0,0,,彩れ　あなたらしくあれば
+Dialogue: 0,0:00:50.59,0:00:53.66,OP-JP,,0,0,0,,いつだって　何度でも変われる
+Dialogue: 0,0:00:53.66,0:00:57.12,OP-JP,,0,0,0,,果てなく　伸びる影を越えて
+Dialogue: 0,0:00:57.12,0:01:00.52,OP-JP,,0,0,0,,Take on your will 迷わずに Go ahead
+Dialogue: 0,0:00:08.19,0:00:08.23,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz0.07\pos(276.62,446.93)}相信所选道路
+Dialogue: 0,0:00:08.23,0:00:08.27,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz0\pos(276.67,443.46)}相信所选道路
+Dialogue: 0,0:00:08.27,0:00:08.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.01\pos(276.8,439.93)}相信所选道路
+Dialogue: 0,0:00:08.32,0:00:08.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.09\pos(276.81,436.45)}相信所选道路
+Dialogue: 0,0:00:08.36,0:00:08.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.16\pos(276.86,432.99)}相信所选道路
+Dialogue: 0,0:00:08.40,0:00:08.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.17\pos(277.03,429.43)}相信所选道路
+Dialogue: 0,0:00:08.44,0:00:08.48,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.26\pos(277.02,425.96)}相信所选道路
+Dialogue: 0,0:00:08.48,0:00:08.52,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.32\pos(277.07,422.45)}相信所选道路
+Dialogue: 0,0:00:08.52,0:00:08.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.32\pos(277.28,418.92)}相信所选道路
+Dialogue: 0,0:00:08.57,0:00:08.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.4\pos(277.31,415.44)}相信所选道路
+Dialogue: 0,0:00:08.61,0:00:08.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.49\pos(277.3,411.96)}相信所选道路
+Dialogue: 0,0:00:08.65,0:00:08.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.46\pos(277.58,408.4)}相信所选道路
+Dialogue: 0,0:00:08.69,0:00:08.73,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.57\pos(277.56,404.96)}相信所选道路
+Dialogue: 0,0:00:08.73,0:00:08.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.65\pos(277.58,401.48)}相信所选道路
+Dialogue: 0,0:00:08.78,0:00:08.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.66\pos(277.8,397.94)}相信所选道路
+Dialogue: 0,0:00:08.82,0:00:08.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.75\pos(277.83,394.45)}相信所选道路
+Dialogue: 0,0:00:08.86,0:00:08.90,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.82\pos(277.88,390.97)}相信所选道路
+Dialogue: 0,0:00:08.90,0:00:08.94,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.81\pos(278.13,387.44)}相信所选道路
+Dialogue: 0,0:00:08.94,0:00:08.98,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.9\pos(278.18,383.96)}相信所选道路
+Dialogue: 0,0:00:08.98,0:00:09.03,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.99\pos(278.19,380.48)}相信所选道路
+Dialogue: 0,0:00:09.03,0:00:09.07,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.98\pos(278.45,376.94)}相信所选道路
+Dialogue: 0,0:00:09.07,0:00:09.11,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.08\pos(278.49,373.46)}相信所选道路
+Dialogue: 0,0:00:09.11,0:00:09.15,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.12\pos(278.63,369.96)}相信所选道路
+Dialogue: 0,0:00:09.15,0:00:09.19,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.14\pos(278.82,366.45)}相信所选道路
+Dialogue: 0,0:00:09.19,0:00:09.23,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.2\pos(278.96,362.93)}相信所选道路
+Dialogue: 0,0:00:09.23,0:00:09.28,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.29\pos(279.02,359.46)}相信所选道路
+Dialogue: 0,0:00:09.28,0:00:09.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.29\pos(279.25,355.93)}相信所选道路
+Dialogue: 0,0:00:09.32,0:00:09.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.39\pos(279.32,352.47)}相信所选道路
+Dialogue: 0,0:00:09.36,0:00:09.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.45\pos(279.43,349)}相信所选道路
+Dialogue: 0,0:00:09.40,0:00:09.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.48\pos(279.63,345.47)}相信所选道路
+Dialogue: 0,0:00:09.44,0:00:09.48,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.53\pos(279.78,341.96)}相信所选道路
+Dialogue: 0,0:00:09.48,0:00:09.53,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.61\pos(279.88,338.5)}相信所选道路
+Dialogue: 0,0:00:09.53,0:00:09.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.66\pos(280.05,334.99)}相信所选道路
+Dialogue: 0,0:00:09.57,0:00:09.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.69\pos(280.27,331.47)}相信所选道路
+Dialogue: 0,0:00:09.61,0:00:09.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.77\pos(280.34,328.01)}相信所选道路
+Dialogue: 0,0:00:09.65,0:00:09.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.79\pos(280.62,324.48)}相信所选道路
+Dialogue: 0,0:00:09.69,0:00:09.73,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.84\pos(280.78,320.97)}相信所选道路
+Dialogue: 0,0:00:09.73,0:00:09.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.93\pos(280.93,317.51)}相信所选道路
+Dialogue: 0,0:00:09.78,0:00:09.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.97\pos(281.07,314.02)}相信所选道路
+Dialogue: 0,0:00:09.82,0:00:09.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.02\pos(281.28,310.5)}相信所选道路
+Dialogue: 0,0:00:09.86,0:00:09.90,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.11\pos(281.43,307.03)}相信所选道路
+Dialogue: 0,0:00:09.90,0:00:09.94,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.13\pos(281.62,303.53)}相信所选道路
+Dialogue: 0,0:00:09.94,0:00:09.98,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.2\pos(281.81,300.02)}相信所选道路
+Dialogue: 0,0:00:09.98,0:00:10.03,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.25\pos(281.96,296.54)}相信所选道路
+Dialogue: 0,0:00:10.03,0:00:10.07,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.31\pos(282.17,293.02)}相信所选道路
+Dialogue: 0,0:00:10.07,0:00:10.11,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.35\pos(282.42,289.53)}相信所选道路
+Dialogue: 0,0:00:10.11,0:00:10.15,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.41\pos(282.6,286.04)}相信所选道路
+Dialogue: 0,0:00:10.15,0:00:10.19,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.43\pos(282.86,282.51)}相信所选道路
+Dialogue: 0,0:00:10.19,0:00:10.24,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.5\pos(283.04,279.05)}相信所选道路
+Dialogue: 0,0:00:10.24,0:00:10.28,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.55\pos(283.29,275.53)}相信所选道路
+Dialogue: 0,0:00:10.28,0:00:10.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.59\pos(283.49,272.05)}相信所选道路
+Dialogue: 0,0:00:10.32,0:00:10.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.65\pos(283.74,268.54)}相信所选道路
+Dialogue: 0,0:00:10.36,0:00:10.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.71\pos(283.92,265.05)}相信所选道路
+Dialogue: 0,0:00:10.40,0:00:10.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.75\pos(284.16,261.56)}相信所选道路
+Dialogue: 0,0:00:10.44,0:00:10.49,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.77\pos(284.47,258.06)}相信所选道路
+Dialogue: 0,0:00:10.49,0:00:10.53,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.89\pos(284.54,254.58)}相信所选道路
+Dialogue: 0,0:00:10.53,0:00:10.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.92\pos(284.83,251.1)}相信所选道路
+Dialogue: 0,0:00:10.57,0:00:10.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.99\pos(285.04,247.59)}相信所选道路
+Dialogue: 0,0:00:10.61,0:00:10.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.02\pos(285.31,244.11)}相信所选道路
+Dialogue: 0,0:00:10.65,0:00:10.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.06\pos(285.57,240.59)}相信所选道路
+Dialogue: 0,0:00:10.69,0:00:10.74,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.12\pos(285.8,237.1)}相信所选道路
+Dialogue: 0,0:00:10.74,0:00:10.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.18\pos(286.05,233.61)}相信所选道路
+Dialogue: 0,0:00:10.78,0:00:10.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.24\pos(286.3,230.11)}相信所选道路
+Dialogue: 0,0:00:10.82,0:00:10.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.31\pos(286.65,226.14)}相信所选道路
+Dialogue: 0,0:00:11.24,0:00:14.45,OP-CH,,0,0,0,,一起前往 The brand new world
+Dialogue: 0,0:00:27.62,0:00:34.08,OP-CH,,0,0,0,,是谁屏息描绘着边境线
+Dialogue: 0,0:00:34.24,0:00:40.66,OP-CH,,0,0,0,,致踏访希声之音对岸的你
+Dialogue: 0,0:00:40.66,0:00:47.07,OP-CH,,0,0,0,,马不停蹄 驰骋万里
+Dialogue: 0,0:00:47.29,0:00:50.59,OP-CH,,0,0,0,,若是能涂染如你一般
+Dialogue: 0,0:00:50.59,0:00:53.66,OP-CH,,0,0,0,,我会不断蜕变
+Dialogue: 0,0:00:53.66,0:00:57.12,OP-CH,,0,0,0,,穿越无限延长之影
+Dialogue: 0,0:00:57.12,0:01:00.52,OP-CH,,0,0,0,,Take on your will 坚定不移 Go ahead
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:21:59.46,0:22:03.13,ED-JP,,0,0,0,,{\blur2}突然にも Upside down
+Dialogue: 0,0:22:03.13,0:22:07.22,ED-JP,,0,0,0,,{\blur2}世界は変わり出す
+Dialogue: 0,0:22:07.43,0:22:11.22,ED-JP,,0,0,0,,{\blur2}祈りも　届かない
+Dialogue: 0,0:22:11.50,0:22:15.92,ED-JP,,0,0,0,,{\blur2}僕が変わり出す
+Dialogue: 0,0:22:16.17,0:22:18.28,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}意味を求めて　走り続けて
+Dialogue: 0,0:22:18.28,0:22:20.19,ED-JP,,0,0,0,,{\blur2}意味を求めて　走り続けて
+Dialogue: 0,0:22:20.19,0:22:22.45,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}自分が誰か　わからなくなる
+Dialogue: 0,0:22:22.45,0:22:24.16,ED-JP,,0,0,0,,{\blur2}自分が誰か　わからなくなる
+Dialogue: 0,0:22:24.16,0:22:26.41,ED-JP,,0,0,0,,{\blur2}泣きそうだけど　負けたくないから
+Dialogue: 0,0:22:26.41,0:22:29.55,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}泣きそうだけど　負けたくないから
+Dialogue: 0,0:22:30.50,0:22:32.50,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}教えて
+Dialogue: 0,0:22:32.62,0:22:36.55,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}夜に馳せる　このゆらめきと
+Dialogue: 0,0:22:36.55,0:22:40.72,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}思いのままに　飛びまわって
+Dialogue: 0,0:22:40.84,0:22:44.92,ED-JP,,0,0,0,,{\blur2}もっと自由に　駆けて行こうよ
+Dialogue: 0,0:22:44.92,0:22:48.26,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}星を見上げてさ
+Dialogue: 0,0:21:59.46,0:22:03.13,ED-CH,,0,0,0,,{\blur2}突然间 Upside down
+Dialogue: 0,0:22:03.13,0:22:07.22,ED-CH,,0,0,0,,{\blur2}世界天变地异
+Dialogue: 0,0:22:07.43,0:22:11.22,ED-CH,,0,0,0,,{\blur2}祈祷无应
+Dialogue: 0,0:22:11.50,0:22:15.92,ED-CH,,0,0,0,,{\blur2}我要蜕变
+Dialogue: 0,0:22:16.17,0:22:18.28,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}奔走寻找意义
+Dialogue: 0,0:22:18.28,0:22:20.19,ED-CH,,0,0,0,,{\blur2}奔走寻找意义
+Dialogue: 0,0:22:20.19,0:22:22.45,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}忘却自己为何人
+Dialogue: 0,0:22:22.45,0:22:24.16,ED-CH,,0,0,0,,{\blur2}忘却自己为何人
+Dialogue: 0,0:22:24.16,0:22:26.41,ED-CH,,0,0,0,,{\blur2}忍住哭泣不想认输
+Dialogue: 0,0:22:26.41,0:22:29.55,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}忍住哭泣不想认输
+Dialogue: 0,0:22:30.50,0:22:32.50,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}告诉我
+Dialogue: 0,0:22:32.62,0:22:36.55,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}随夜晚疾驰的摇曳
+Dialogue: 0,0:22:36.55,0:22:40.72,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}自在翱翔
+Dialogue: 0,0:22:40.84,0:22:44.92,ED-CH,,0,0,0,,{\blur2}更加自由地驰骋吧
+Dialogue: 0,0:22:44.92,0:22:48.26,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}仰望星空
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

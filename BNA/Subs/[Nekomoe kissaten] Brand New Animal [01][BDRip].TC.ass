@@ -1,0 +1,740 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Brand New Animal [01][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
+Style: STAFF,华文中宋,25,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: OP-JP,FOT-Rodin ProN EB,40,&H00A62BED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,20,128
+Style: OP-CH,HYQiHei-95S,37,&H00A62BED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,22,1
+Style: ED-JP,FOT-Rodin ProN B,40,&H00FFFFFF,&H000000FF,&H00C226D9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,128
+Style: ED-CH,FZLanTingHei-B-GBK,37,&H00FFFFFF,&H000000FF,&H00C226D9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,19,1
+Style: Insert-JP,FOT-Rodin ProN B,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,9,30,30,50,128
+Style: Inser-CH,FZLanTingHei-B-GBK,37,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,9,30,30,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:21:45.14,0:21:50.44,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途 \N\N翻譯: Saki  Carl  Yosomi 　校對: Dysonsphere　繁化: 風風　後期: MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:02:11.64,0:02:13.71,Default,,0,0,0,,從實施獸人特區10年以來
+Dialogue: 0,0:02:13.88,0:02:16.62,Default,,0,0,0,,大眾對獸人自治區反感強烈
+Dialogue: 0,0:02:16.75,0:02:20.19,Default,,0,0,0,,在國會召開前反獸人派舉行示威運動
+Dialogue: 0,0:02:23.01,0:02:27.28,Default,,0,0,0,,{\an8}即將發車 請站著的乘客抓緊吊環
+Dialogue: 0,0:02:23.35,0:02:25.30,Default,,0,0,0,,今天辛苦了
+Dialogue: 0,0:03:15.00,0:03:17.83,Default,,0,0,0,,制定獸人特區法以來
+Dialogue: 0,0:03:18.41,0:03:24.32,Default,,0,0,0,,阿尼瑪市作為獸人自己的城市發展至今
+Dialogue: 0,0:03:27.19,0:03:28.22,Default,,0,0,0,,就是那個
+Dialogue: 0,0:03:29.54,0:03:32.97,Default,,0,0,0,,我們對獸人特區的開發提供贊助
+Dialogue: 0,0:03:33.67,0:03:36.33,Default,,0,0,0,,獸人新時代西爾維斯特製藥
+Dialogue: 0,0:03:54.58,0:03:55.25,Default,,0,0,0,,真是的
+Dialogue: 0,0:04:16.89,0:04:17.88,Default,,0,0,0,,好痛...
+Dialogue: 0,0:04:35.70,0:04:37.36,Default,,0,0,0,,你這個獸人
+Dialogue: 0,0:04:38.53,0:04:41.01,Default,,0,0,0,,你們的想法我已經看穿了
+Dialogue: 0,0:04:41.86,0:04:44.69,Default,,0,0,0,,這是想躲進阿尼瑪市的通道
+Dialogue: 0,0:04:44.82,0:04:47.05,Default,,0,0,0,,埋伏在這等你們自投羅網
+Dialogue: 0,0:04:47.49,0:04:50.18,Default,,0,0,0,,一想到這些怪物增加
+Dialogue: 0,0:04:50.55,0:04:52.37,Default,,0,0,0,,就覺得很礙眼啊
+Dialogue: 0,0:04:52.83,0:04:54.02,Default,,0,0,0,,去死吧
+Dialogue: 0,0:04:55.12,0:04:57.56,Default,,0,0,0,,不好意思
+Dialogue: 0,0:04:57.78,0:04:58.60,Default,,0,0,0,,啊?
+Dialogue: 0,0:04:59.31,0:05:02.32,Default,,0,0,0,,能請你們就此收手嗎
+Dialogue: 0,0:05:03.22,0:05:06.02,Default,,0,0,0,,這孩子是我們重要的客人
+Dialogue: 0,0:05:06.25,0:05:08.11,Default,,0,0,0,,還請手下留情
+Dialogue: 0,0:05:12.97,0:05:15.58,Default,,0,0,0,,突然就射箭
+Dialogue: 0,0:05:17.00,0:05:20.69,Default,,0,0,0,,這不太禮貌吧
+Dialogue: 0,0:05:24.83,0:05:28.14,Default,,0,0,0,,這種傢伙 快點收拾掉吧
+Dialogue: 0,0:05:31.08,0:05:35.04,Default,,0,0,0,,殺了的話處理會很麻煩 下手輕點
+Dialogue: 0,0:05:49.74,0:05:53.94,Default,,0,0,0,,獸人獵人們封鎖著去阿尼瑪市的路
+Dialogue: 0,0:05:54.14,0:05:57.47,Default,,0,0,0,,不過 請不用擔心 因為有我在
+Dialogue: 0,0:05:57.76,0:05:59.40,Default,,0,0,0,,你是?
+Dialogue: 0,0:06:01.33,0:06:04.26,Default,,0,0,0,,向陷入困境的獸人伸出援助之手
+Dialogue: 0,0:06:04.26,0:06:07.17,Default,,0,0,0,,愛的志願者 瑪麗伊丹
+Dialogue: 0,0:06:09.26,0:06:10.59,Default,,0,0,0,,總感覺有點可疑
+Dialogue: 0,0:06:10.94,0:06:12.64,Default,,0,0,0,,哎呀 傷心了
+Dialogue: 0,0:06:12.90,0:06:15.23,Default,,0,0,0,,所以 需要花多少錢?
+Dialogue: 0,0:06:15.23,0:06:17.54,Default,,0,0,0,,我說了自己是志願者
+Dialogue: 0,0:06:17.76,0:06:20.27,Default,,0,0,0,,絕對是之後收費吧
+Dialogue: 0,0:06:20.52,0:06:22.52,Default,,0,0,0,,這孩子真不可愛
+Dialogue: 0,0:06:22.52,0:06:24.95,Default,,0,0,0,,可愛的話我也活不到現在
+Dialogue: 0,0:06:25.19,0:06:26.44,Default,,0,0,0,,確實
+Dialogue: 0,0:06:26.44,0:06:29.22,Default,,0,0,0,,那我也不用客氣了 把你身上的錢都給我吧
+Dialogue: 0,0:06:29.37,0:06:30.25,Default,,0,0,0,,不是吧?
+Dialogue: 0,0:06:31.60,0:06:34.20,Default,,0,0,0,,畢竟是賣命錢
+Dialogue: 0,0:06:34.32,0:06:36.55,Default,,0,0,0,,不要低估自己的性命
+Dialogue: 0,0:06:36.78,0:06:37.78,Default,,0,0,0,,沒錯吧
+Dialogue: 0,0:06:38.99,0:06:41.12,Default,,0,0,0,,說得好聽
+Dialogue: 0,0:06:59.48,0:07:02.35,Default,,0,0,0,,那個城市是真的只有獸人的城市嗎
+Dialogue: 0,0:07:03.06,0:07:04.54,Default,,0,0,0,,是的 阿尼瑪市
+Dialogue: 0,0:07:05.14,0:07:06.58,Default,,0,0,0,,你也有苦衷嗎
+Dialogue: 0,0:07:19.81,0:07:21.01,Default,,0,0,0,,放心吧
+Dialogue: 0,0:07:22.14,0:07:24.48,Default,,0,0,0,,之後就能安穩睡覺了
+Dialogue: 0,0:07:26.28,0:07:26.70,Default,,0,0,0,,嗯
+Dialogue: 0,0:07:30.77,0:07:32.14,Default,,0,0,0,,好了 到達
+Dialogue: 0,0:07:32.52,0:07:35.74,Default,,0,0,0,,下船後我們就是陌生人了
+Dialogue: 0,0:07:37.16,0:07:39.04,Default,,0,0,0,,我知道了 謝謝你
+Dialogue: 0,0:08:07.29,0:08:09.95,Default,,0,0,0,,怎麼回事 太安靜了
+Dialogue: 0,0:09:13.46,0:09:14.63,Default,,0,0,0,,是慶典
+Dialogue: 0,0:09:17.68,0:09:18.60,Default,,0,0,0,,市長
+Dialogue: 0,0:09:19.61,0:09:20.50,Default,,0,0,0,,羅澤市長
+Dialogue: 0,0:09:20.50,0:09:21.19,Default,,0,0,0,,是市長
+Dialogue: 0,0:09:21.19,0:09:22.37,Default,,0,0,0,,市長萬歲
+Dialogue: 0,0:09:22.56,0:09:25.16,Default,,0,0,0,,阿尼瑪市建成已10年
+Dialogue: 0,0:09:25.44,0:09:29.42,Default,,0,0,0,,人類和獸人間的隔閡還遠遠沒有消除
+Dialogue: 0,0:09:29.74,0:09:34.25,Default,,0,0,0,,儘管如此 這座獸人安居的城市依然健在
+Dialogue: 0,0:09:34.77,0:09:37.73,Default,,0,0,0,,在過去的10年和今後的10年
+Dialogue: 0,0:09:37.92,0:09:40.76,Default,,0,0,0,,不 為了更加遙遠的將來
+Dialogue: 0,0:09:41.24,0:09:43.49,Default,,0,0,0,,讓我們一起慶祝阿尼瑪節吧
+Dialogue: 0,0:09:49.18,0:09:51.61,Default,,0,0,0,,大家真的全都是獸人
+Dialogue: 0,0:09:53.45,0:09:55.38,Default,,0,0,0,,再也不用到處逃了
+Dialogue: 0,0:10:22.04,0:10:24.15,Default,,0,0,0,,啊 對不起
+Dialogue: 0,0:10:30.38,0:10:31.94,Default,,0,0,0,,多麼好的氣味
+Dialogue: 0,0:10:32.34,0:10:35.46,Default,,0,0,0,,這充滿喜悅和幸福的獸人氣味
+Dialogue: 0,0:10:37.85,0:10:38.76,Default,,0,0,0,,好好享受吧
+Dialogue: 0,0:10:39.40,0:10:41.90,Default,,0,0,0,,這可是等了千年的獸人的慶典
+Dialogue: 0,0:10:44.88,0:10:46.66,Default,,0,0,0,,什麼人都有啊
+Dialogue: 0,0:10:47.04,0:10:49.33,Default,,0,0,0,,竟然在哭 可怕
+Dialogue: 0,0:10:55.40,0:10:56.31,Default,,0,0,0,,那是什麼?
+Dialogue: 0,0:11:05.25,0:11:07.78,Default,,0,0,0,,市長 白水總理來電
+Dialogue: 0,0:11:09.54,0:11:12.78,Default,,0,0,0,,恭喜10周年 羅澤市長
+Dialogue: 0,0:11:13.63,0:11:15.89,Default,,0,0,0,,承蒙總理的理解
+Dialogue: 0,0:11:16.47,0:11:19.66,Default,,0,0,0,,哈哈 不過不要搞錯了
+Dialogue: 0,0:11:20.04,0:11:22.60,Default,,0,0,0,,獸人特區也不是堅如磐石的
+Dialogue: 0,0:11:22.74,0:11:25.88,Default,,0,0,0,,要是你們獸人採取了什麼危險的行動的話…
+Dialogue: 0,0:11:25.88,0:11:29.15,Default,,0,0,0,,那時會怎樣 誰也不知道
+Dialogue: 0,0:11:33.00,0:11:34.84,Default,,0,0,0,,千千萬萬拜託你了
+Dialogue: 0,0:11:38.40,0:11:42.51,Default,,0,0,0,,還是老樣子 不知是在祝賀還是在威脅
+Dialogue: 0,0:11:43.04,0:11:45.12,Default,,0,0,0,,不管怎麼說 10年還是過去了
+Dialogue: 0,0:11:48.78,0:11:51.60,Default,,0,0,0,,致芭芭拉·羅澤奮鬥的10年
+Dialogue: 0,0:11:51.76,0:11:54.30,Default,,0,0,0,,致阿尼瑪市今後的10年
+Dialogue: 0,0:12:09.73,0:12:11.81,Default,,0,0,0,,這個好過癮
+Dialogue: 0,0:12:12.08,0:12:14.19,Default,,0,0,0,,喲 在買東西?
+Dialogue: 0,0:12:14.19,0:12:15.98,Default,,0,0,0,,就知道你藏了私房錢
+Dialogue: 0,0:12:16.41,0:12:17.51,Default,,0,0,0,,那個黃鼠狼
+Dialogue: 0,0:12:17.66,0:12:19.57,Default,,0,0,0,,不是黃鼠狼 是水貂
+Dialogue: 0,0:12:19.80,0:12:20.63,Default,,0,0,0,,是嗎
+Dialogue: 0,0:12:20.92,0:12:24.26,Default,,0,0,0,,不要把我和那些披著便宜皮毛的傢伙相提並論
+Dialogue: 0,0:12:25.87,0:12:28.38,Default,,0,0,0,,我說了要全部現金的吧
+Dialogue: 0,0:12:28.44,0:12:31.30,Default,,0,0,0,,真是的 對現在的小孩真是不能大意
+Dialogue: 0,0:12:31.30,0:12:33.09,Default,,0,0,0,,我不會再付更多了
+Dialogue: 0,0:12:33.62,0:12:35.72,Default,,0,0,0,,不是說了一下船後就是陌生人了嗎
+Dialogue: 0,0:12:35.72,0:12:38.90,Default,,0,0,0,,你看我像是那種無情的女人嗎
+Dialogue: 0,0:12:39.18,0:12:41.88,Default,,0,0,0,,傷心了 太傷心了
+Dialogue: 0,0:12:45.32,0:12:46.12,Default,,0,0,0,,小偷
+Dialogue: 0,0:12:46.49,0:12:48.11,Default,,0,0,0,,哎呀 真可憐
+Dialogue: 0,0:12:48.22,0:12:52.73,Default,,0,0,0,,小心點 阿尼瑪市可是雁過拔毛的城市
+Dialogue: 0,0:12:52.93,0:12:54.43,Default,,0,0,0,,難道是你…
+Dialogue: 0,0:12:54.43,0:12:56.62,Default,,0,0,0,,這樣好嗎 小偷要跑了喔
+Dialogue: 0,0:12:58.93,0:12:59.81,Default,,0,0,0,,真是的
+Dialogue: 0,0:13:00.40,0:13:04.37,Default,,0,0,0,,來人啊 抓住這個小偷
+Dialogue: 0,0:13:12.56,0:13:13.73,Default,,0,0,0,,給我站住
+Dialogue: 0,0:13:30.34,0:13:32.15,Default,,0,0,0,,到哪去了
+Dialogue: 0,0:13:35.56,0:13:36.37,Default,,0,0,0,,真是的
+Dialogue: 0,0:14:03.88,0:14:04.85,Default,,0,0,0,,危險
+Dialogue: 0,0:14:07.07,0:14:09.21,Default,,0,0,0,,大爺快點
+Dialogue: 0,0:14:11.48,0:14:14.50,Default,,0,0,0,,糟了糟了…
+Dialogue: 0,0:14:25.03,0:14:26.32,Default,,0,0,0,,好痛
+Dialogue: 0,0:14:28.52,0:14:30.56,Default,,0,0,0,,那個哭的人
+Dialogue: 0,0:14:33.31,0:14:34.73,Default,,0,0,0,,話說他又在哭
+Dialogue: 0,0:14:37.76,0:14:41.32,Default,,0,0,0,,是你嗎 是你糟蹋了獸人的慶典嗎
+Dialogue: 0,0:14:41.51,0:14:45.42,Default,,0,0,0,,不是我 我只是敲了一下柱子而已
+Dialogue: 0,0:14:45.42,0:14:46.95,Default,,0,0,0,,然後就爆炸了
+Dialogue: 0,0:14:46.95,0:14:48.60,Default,,0,0,0,,肯定不會啊
+Dialogue: 0,0:14:48.60,0:14:50.52,Default,,0,0,0,,所以說不是我
+Dialogue: 0,0:14:53.44,0:14:54.29,Default,,0,0,0,,那傢伙
+Dialogue: 0,0:14:55.44,0:14:57.49,Default,,0,0,0,,在柱子旁邊偷偷地做了些什麼
+Dialogue: 0,0:14:57.78,0:14:58.56,Default,,0,0,0,,那傢伙?
+Dialogue: 0,0:15:36.18,0:15:39.04,Default,,0,0,0,,我好像錯怪你了 對不起
+Dialogue: 0,0:15:43.55,0:15:45.18,Default,,0,0,0,,真是的 怎麼回事?
+Dialogue: 0,0:15:48.98,0:15:50.77,Default,,0,0,0,,對了 小偷
+Dialogue: 0,0:16:12.20,0:16:12.95,Default,,0,0,0,,怎麼了?
+Dialogue: 0,0:16:14.79,0:16:18.25,Default,,0,0,0,,真遺憾 這是無味炸彈
+Dialogue: 0,0:16:18.77,0:16:20.91,Default,,0,0,0,,就算獸人也注意不到
+Dialogue: 0,0:16:24.17,0:16:26.42,Default,,0,0,0,,啊 這是什麼
+Dialogue: 0,0:16:26.42,0:16:27.60,Default,,0,0,0,,啊啊啊…
+Dialogue: 0,0:16:29.60,0:16:30.10,Default,,0,0,0,,好痛
+Dialogue: 0,0:16:36.33,0:16:37.59,Default,,0,0,0,,挺痛的
+Dialogue: 0,0:16:38.15,0:16:40.18,Default,,0,0,0,,這傢伙是不死之身嗎
+Dialogue: 0,0:16:40.40,0:16:43.59,Default,,0,0,0,,說 為什麼來妨礙慶典?
+Dialogue: 0,0:16:45.78,0:16:47.81,Default,,0,0,0,,好痛…
+Dialogue: 0,0:17:01.65,0:17:02.95,Default,,0,0,0,,還挺靈活的
+Dialogue: 0,0:17:03.70,0:17:04.78,Default,,0,0,0,,怎麼了 佐藤
+Dialogue: 0,0:17:04.99,0:17:06.70,Default,,0,0,0,,你的把戲被識破了嗎
+Dialogue: 0,0:17:07.16,0:17:08.22,Default,,0,0,0,,小心
+Dialogue: 0,0:17:08.30,0:17:11.72,Default,,0,0,0,,那個狼人竟然能抗住我的炸彈
+Dialogue: 0,0:17:13.12,0:17:14.95,Default,,0,0,0,,看樣是專業的
+Dialogue: 0,0:17:30.11,0:17:31.16,Default,,0,0,0,,我懂了
+Dialogue: 0,0:17:31.91,0:17:33.25,Default,,0,0,0,,是人類
+Dialogue: 0,0:17:37.80,0:17:40.50,Default,,0,0,0,,你們被人類收買了嗎
+Dialogue: 0,0:17:40.81,0:17:42.57,Default,,0,0,0,,你怎麼知道的
+Dialogue: 0,0:17:45.28,0:17:49.04,Default,,0,0,0,,你們身上的人類氣味永遠洗不掉
+Dialogue: 0,0:17:49.41,0:17:50.00,Default,,0,0,0,,什麼
+Dialogue: 0,0:17:50.21,0:17:52.47,Default,,0,0,0,,你的鼻子還真靈啊
+Dialogue: 0,0:17:53.07,0:17:56.11,Default,,0,0,0,,反獸人派的人類收買了你們吧
+Dialogue: 0,0:17:57.97,0:18:00.49,Default,,0,0,0,,「收買」這個詞可不能當成耳邊風
+Dialogue: 0,0:18:00.99,0:18:04.04,Default,,0,0,0,,獸人還是人類都無所謂
+Dialogue: 0,0:18:04.27,0:18:07.18,Default,,0,0,0,,接到的工作…
+Dialogue: 0,0:18:07.30,0:18:08.88,Default,,0,0,0,,我會認真完成
+Dialogue: 0,0:18:09.00,0:18:10.85,Default,,0,0,0,,僅此而已
+Dialogue: 0,0:18:11.90,0:18:16.09,Default,,0,0,0,,這就是玷汙慶典的理由嗎
+Dialogue: 0,0:18:17.16,0:18:18.38,Default,,0,0,0,,開什麼玩笑
+Dialogue: 0,0:18:20.72,0:18:21.80,Default,,0,0,0,,你這…
+Dialogue: 0,0:18:23.17,0:18:24.43,Default,,0,0,0,,你的罪行
+Dialogue: 0,0:18:24.58,0:18:26.28,Default,,0,0,0,,用命來還吧
+Dialogue: 0,0:18:36.34,0:18:40.14,Default,,0,0,0,,把靈魂出賣給人類的獸奸們
+Dialogue: 0,0:18:41.01,0:18:45.28,Default,,0,0,0,,沒有資格讓我用爪
+Dialogue: 0,0:18:46.57,0:18:48.34,Default,,0,0,0,,拳頭就夠了
+Dialogue: 0,0:18:48.96,0:18:51.32,Default,,0,0,0,,正合我意
+Dialogue: 0,0:18:51.32,0:18:53.47,Default,,0,0,0,,你別後悔
+Dialogue: 0,0:19:13.47,0:19:15.90,Default,,0,0,0,,接招
+Dialogue: 0,0:19:18.59,0:19:19.41,Default,,0,0,0,,放開我
+Dialogue: 0,0:19:19.41,0:19:22.40,Default,,0,0,0,,你失去了獸人的尊嚴
+Dialogue: 0,0:19:22.77,0:19:25.42,Default,,0,0,0,,那鹿的尊嚴也不需要了
+Dialogue: 0,0:19:25.42,0:19:26.80,Default,,0,0,0,,不要…不要這樣
+Dialogue: 0,0:19:26.95,0:19:29.70,Default,,0,0,0,,角…放過我的角
+Dialogue: 0,0:19:33.17,0:19:35.52,Default,,0,0,0,,到此為止了 小子
+Dialogue: 0,0:19:37.11,0:19:39.50,Default,,0,0,0,,沒想到會有人叫我小子
+Dialogue: 0,0:19:57.14,0:19:58.04,Default,,0,0,0,,別動
+Dialogue: 0,0:19:59.54,0:20:01.88,Default,,0,0,0,,動一下這個小孩的命就沒了
+Dialogue: 0,0:20:03.17,0:20:06.38,Default,,0,0,0,,你說誰的命沒了?
+Dialogue: 0,0:20:12.47,0:20:13.30,Default,,0,0,0,,等一下
+Dialogue: 0,0:20:13.68,0:20:14.64,Default,,0,0,0,,太過分了
+Dialogue: 0,0:20:24.42,0:20:27.03,Default,,0,0,0,,打夠了吧 他太可憐了
+Dialogue: 0,0:20:27.50,0:20:30.95,Default,,0,0,0,,別阻止我 他們妨礙了慶典
+Dialogue: 0,0:20:31.32,0:20:34.92,Default,,0,0,0,,但我們不都是獸人嗎 沒必要吧…
+Dialogue: 0,0:20:35.52,0:20:37.78,Default,,0,0,0,,他們被人類收買了
+Dialogue: 0,0:20:38.25,0:20:40.25,Default,,0,0,0,,敗壞了獸人的名聲
+Dialogue: 0,0:20:41.03,0:20:42.76,Default,,0,0,0,,這樣做理所應當
+Dialogue: 0,0:20:44.61,0:20:45.56,Default,,0,0,0,,住手
+Dialogue: 0,0:20:48.68,0:20:50.32,Default,,0,0,0,,我說住手
+Dialogue: 0,0:21:04.69,0:21:05.95,Default,,0,0,0,,已經夠了吧?
+Dialogue: 0,0:21:06.83,0:21:09.04,Default,,0,0,0,,為什麼獸人之間要戰鬥?
+Dialogue: 0,0:21:09.44,0:21:12.19,Default,,0,0,0,,這座城市不是獸人的樂園嗎
+Dialogue: 0,0:21:15.93,0:21:16.94,Default,,0,0,0,,正因如此
+Dialogue: 0,0:21:17.95,0:21:19.84,Default,,0,0,0,,人類是這裡的敵人
+Dialogue: 0,0:21:20.28,0:21:23.09,Default,,0,0,0,,被人類收買的獸人也一樣
+Dialogue: 0,0:21:23.56,0:21:25.48,Default,,0,0,0,,但不全都是那種人
+Dialogue: 0,0:21:26.68,0:21:28.67,Default,,0,0,0,,人類全是一樣的
+Dialogue: 0,0:21:29.33,0:21:30.17,Default,,0,0,0,,不對
+Dialogue: 0,0:21:31.32,0:21:32.04,Default,,0,0,0,,因為…
+Dialogue: 0,0:21:34.10,0:21:35.65,Default,,0,0,0,,我也是人類
+Dialogue: 0,0:21:37.96,0:21:41.78,Default,,0,0,0,,沒錯 我是人類
+Dialogue: 0,0:21:44.53,0:21:45.88,Default,,0,0,0,,我曾經是人類
+Dialogue: 0,0:21:49.14,0:21:50.44,Default,,0,0,0,,長毛的人類?
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:02:07.98,0:02:08.02,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,24)}天滅獸人
+Dialogue: 0,0:02:08.02,0:02:08.06,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,31.41)}天滅獸人
+Dialogue: 0,0:02:08.06,0:02:08.10,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,39.19)}天滅獸人
+Dialogue: 0,0:02:08.10,0:02:08.14,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,47.36)}天滅獸人
+Dialogue: 0,0:02:08.14,0:02:08.19,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,55.87)}天滅獸人
+Dialogue: 0,0:02:08.19,0:02:08.23,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,64.7)}天滅獸人
+Dialogue: 0,0:02:08.23,0:02:08.27,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,73.74)}天滅獸人
+Dialogue: 0,0:02:08.27,0:02:08.31,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,83.08)}天滅獸人
+Dialogue: 0,0:02:08.31,0:02:08.35,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,92.62)}天滅獸人
+Dialogue: 0,0:02:08.35,0:02:08.39,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,102.39)}天滅獸人
+Dialogue: 0,0:02:08.39,0:02:08.44,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,112.3)}天滅獸人
+Dialogue: 0,0:02:08.44,0:02:08.48,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,122.36)}天滅獸人
+Dialogue: 0,0:02:08.48,0:02:08.52,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,132.48)}天滅獸人
+Dialogue: 0,0:02:08.52,0:02:08.56,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,142.69)}天滅獸人
+Dialogue: 0,0:02:08.56,0:02:08.60,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,152.94)}天滅獸人
+Dialogue: 0,0:02:08.60,0:02:08.65,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,163.2)}天滅獸人
+Dialogue: 0,0:02:08.65,0:02:08.69,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,173.49)}天滅獸人
+Dialogue: 0,0:02:08.69,0:02:08.73,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,183.68)}天滅獸人
+Dialogue: 0,0:02:08.73,0:02:08.77,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,193.83)}天滅獸人
+Dialogue: 0,0:02:08.77,0:02:08.81,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,203.83)}天滅獸人
+Dialogue: 0,0:02:08.81,0:02:08.85,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,213.82)}天滅獸人
+Dialogue: 0,0:02:08.85,0:02:08.90,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,223.49)}天滅獸人
+Dialogue: 0,0:02:08.90,0:02:08.94,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,233)}天滅獸人
+Dialogue: 0,0:02:08.94,0:02:08.98,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,242.34)}天滅獸人
+Dialogue: 0,0:02:08.98,0:02:09.02,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,251.47)}天滅獸人
+Dialogue: 0,0:02:09.02,0:02:09.06,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,260.27)}天滅獸人
+Dialogue: 0,0:02:09.06,0:02:09.10,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,268.79)}天滅獸人
+Dialogue: 0,0:02:09.10,0:02:09.15,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,276.91)}天滅獸人
+Dialogue: 0,0:02:09.15,0:02:09.19,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,284.75)}天滅獸人
+Dialogue: 0,0:02:09.19,0:02:09.23,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,292.1)}天滅獸人
+Dialogue: 0,0:02:09.23,0:02:09.27,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,299.1)}天滅獸人
+Dialogue: 0,0:02:09.27,0:02:09.31,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,305.63)}天滅獸人
+Dialogue: 0,0:02:09.31,0:02:09.35,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,311.68)}天滅獸人
+Dialogue: 0,0:02:09.35,0:02:09.40,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,317.22)}天滅獸人
+Dialogue: 0,0:02:09.40,0:02:09.44,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,322.21)}天滅獸人
+Dialogue: 0,0:02:09.44,0:02:09.48,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,326.58)}天滅獸人
+Dialogue: 0,0:02:09.48,0:02:09.52,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,330.45)}天滅獸人
+Dialogue: 0,0:02:09.52,0:02:09.56,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,333.62)}天滅獸人
+Dialogue: 0,0:02:09.56,0:02:09.60,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,336.15)}天滅獸人
+Dialogue: 0,0:02:09.60,0:02:09.65,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,338)}天滅獸人
+Dialogue: 0,0:02:09.65,0:02:11.19,Screen,,0,0,0,,{\an9\c&H030505&\fn@FZLanTingHei-H-GBK\frz-90\pos(940,339.14)}天滅獸人
+Dialogue: 0,0:02:11.19,0:02:11.23,Screen,,0,0,0,,{\fscy100\fscx100\fnFZLanTingHei-H-GBK\fs34\pos(655,276)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.23,0:02:11.27,Screen,,0,0,0,,{\fscy99.88\fscx99.88\fnFZLanTingHei-H-GBK\fs34\pos(654.98,276.1)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.27,0:02:11.31,Screen,,0,0,0,,{\fscy99.75\fscx99.75\fnFZLanTingHei-H-GBK\fs34\pos(654.97,276.18)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.31,0:02:11.36,Screen,,0,0,0,,{\fscy99.63\fscx99.63\fnFZLanTingHei-H-GBK\fs34\pos(654.95,276.27)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.36,0:02:11.40,Screen,,0,0,0,,{\fscy99.51\fscx99.51\fnFZLanTingHei-H-GBK\fs34\pos(654.94,276.36)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.40,0:02:11.44,Screen,,0,0,0,,{\fscy99.39\fscx99.39\fnFZLanTingHei-H-GBK\fs34\pos(654.92,276.46)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.44,0:02:11.48,Screen,,0,0,0,,{\fscy99.27\fscx99.27\fnFZLanTingHei-H-GBK\fs34\pos(654.9,276.54)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.48,0:02:11.52,Screen,,0,0,0,,{\fscy99.14\fscx99.14\fnFZLanTingHei-H-GBK\fs34\pos(654.88,276.62)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.52,0:02:11.56,Screen,,0,0,0,,{\fscy99.03\fscx99.03\fnFZLanTingHei-H-GBK\fs34\pos(654.86,276.71)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.56,0:02:11.61,Screen,,0,0,0,,{\fscy98.91\fscx98.91\fnFZLanTingHei-H-GBK\fs34\pos(654.85,276.8)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.61,0:02:11.65,Screen,,0,0,0,,{\fscy98.79\fscx98.79\fnFZLanTingHei-H-GBK\fs34\pos(654.83,276.88)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.65,0:02:11.69,Screen,,0,0,0,,{\fscy98.67\fscx98.67\fnFZLanTingHei-H-GBK\fs34\pos(654.82,276.97)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.69,0:02:11.73,Screen,,0,0,0,,{\fscy98.55\fscx98.55\fnFZLanTingHei-H-GBK\fs34\pos(654.8,277.07)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.73,0:02:11.77,Screen,,0,0,0,,{\fscy98.43\fscx98.43\fnFZLanTingHei-H-GBK\fs34\pos(654.78,277.16)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.77,0:02:11.81,Screen,,0,0,0,,{\fscy98.31\fscx98.31\fnFZLanTingHei-H-GBK\fs34\pos(654.77,277.24)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.81,0:02:11.86,Screen,,0,0,0,,{\fscy98.2\fscx98.2\fnFZLanTingHei-H-GBK\fs34\pos(654.75,277.33)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.86,0:02:11.90,Screen,,0,0,0,,{\fscy98.08\fscx98.08\fnFZLanTingHei-H-GBK\fs34\pos(654.74,277.42)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.90,0:02:11.94,Screen,,0,0,0,,{\fscy97.96\fscx97.96\fnFZLanTingHei-H-GBK\fs34\pos(654.72,277.51)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.94,0:02:11.98,Screen,,0,0,0,,{\fscy97.84\fscx97.84\fnFZLanTingHei-H-GBK\fs34\pos(654.7,277.59)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.98,0:02:12.02,Screen,,0,0,0,,{\fscy97.72\fscx97.72\fnFZLanTingHei-H-GBK\fs34\pos(654.68,277.67)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.02,0:02:12.07,Screen,,0,0,0,,{\fscy97.61\fscx97.61\fnFZLanTingHei-H-GBK\fs34\pos(654.67,277.75)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.07,0:02:12.11,Screen,,0,0,0,,{\fscy97.49\fscx97.49\fnFZLanTingHei-H-GBK\fs34\pos(654.65,277.84)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.11,0:02:12.15,Screen,,0,0,0,,{\fscy97.38\fscx97.38\fnFZLanTingHei-H-GBK\fs34\pos(654.64,277.93)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.15,0:02:12.19,Screen,,0,0,0,,{\fscy97.26\fscx97.26\fnFZLanTingHei-H-GBK\fs34\pos(654.62,278.02)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.19,0:02:12.23,Screen,,0,0,0,,{\fscy97.15\fscx97.15\fnFZLanTingHei-H-GBK\fs34\pos(654.6,278.1)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.23,0:02:12.27,Screen,,0,0,0,,{\fscy97.03\fscx97.03\fnFZLanTingHei-H-GBK\fs34\pos(654.59,278.19)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.27,0:02:12.32,Screen,,0,0,0,,{\fscy96.91\fscx96.91\fnFZLanTingHei-H-GBK\fs34\pos(654.57,278.28)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.32,0:02:12.36,Screen,,0,0,0,,{\fscy96.8\fscx96.8\fnFZLanTingHei-H-GBK\fs34\pos(654.56,278.36)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.36,0:02:12.40,Screen,,0,0,0,,{\fscy96.68\fscx96.68\fnFZLanTingHei-H-GBK\fs34\pos(654.54,278.44)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.40,0:02:12.44,Screen,,0,0,0,,{\fscy96.57\fscx96.57\fnFZLanTingHei-H-GBK\fs34\pos(654.53,278.53)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.44,0:02:12.48,Screen,,0,0,0,,{\fscy96.45\fscx96.45\fnFZLanTingHei-H-GBK\fs34\pos(654.51,278.61)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.48,0:02:12.52,Screen,,0,0,0,,{\fscy96.34\fscx96.34\fnFZLanTingHei-H-GBK\fs34\pos(654.49,278.69)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.52,0:02:12.57,Screen,,0,0,0,,{\fscy96.23\fscx96.23\fnFZLanTingHei-H-GBK\fs34\pos(654.48,278.78)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.57,0:02:12.61,Screen,,0,0,0,,{\fscy96.12\fscx96.12\fnFZLanTingHei-H-GBK\fs34\pos(654.45,278.86)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.61,0:02:12.65,Screen,,0,0,0,,{\fscy96\fscx96\fnFZLanTingHei-H-GBK\fs34\pos(654.44,278.95)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.65,0:02:12.69,Screen,,0,0,0,,{\fscy95.89\fscx95.89\fnFZLanTingHei-H-GBK\fs34\pos(654.43,279.02)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.69,0:02:12.73,Screen,,0,0,0,,{\fscy95.77\fscx95.77\fnFZLanTingHei-H-GBK\fs34\pos(654.41,279.1)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.73,0:02:12.77,Screen,,0,0,0,,{\fscy95.66\fscx95.66\fnFZLanTingHei-H-GBK\fs34\pos(654.39,279.18)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.77,0:02:12.82,Screen,,0,0,0,,{\fscy95.55\fscx95.55\fnFZLanTingHei-H-GBK\fs34\pos(654.38,279.26)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.82,0:02:12.86,Screen,,0,0,0,,{\fscy95.44\fscx95.44\fnFZLanTingHei-H-GBK\fs34\pos(654.36,279.35)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.86,0:02:12.90,Screen,,0,0,0,,{\fscy95.33\fscx95.33\fnFZLanTingHei-H-GBK\fs34\pos(654.35,279.44)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.90,0:02:12.94,Screen,,0,0,0,,{\fscy95.21\fscx95.21\fnFZLanTingHei-H-GBK\fs34\pos(654.33,279.52)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.94,0:02:12.98,Screen,,0,0,0,,{\fscy95.1\fscx95.1\fnFZLanTingHei-H-GBK\fs34\pos(654.32,279.6)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:12.98,0:02:13.02,Screen,,0,0,0,,{\fscy94.99\fscx94.99\fnFZLanTingHei-H-GBK\fs34\pos(654.3,279.68)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.02,0:02:13.07,Screen,,0,0,0,,{\fscy94.88\fscx94.88\fnFZLanTingHei-H-GBK\fs34\pos(654.29,279.76)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.07,0:02:13.11,Screen,,0,0,0,,{\fscy94.77\fscx94.77\fnFZLanTingHei-H-GBK\fs34\pos(654.27,279.84)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.11,0:02:13.15,Screen,,0,0,0,,{\fscy94.66\fscx94.66\fnFZLanTingHei-H-GBK\fs34\pos(654.26,279.92)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.15,0:02:13.19,Screen,,0,0,0,,{\fscy94.55\fscx94.55\fnFZLanTingHei-H-GBK\fs34\pos(654.24,280)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.19,0:02:13.23,Screen,,0,0,0,,{\fscy94.44\fscx94.44\fnFZLanTingHei-H-GBK\fs34\pos(654.23,280.08)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.23,0:02:13.27,Screen,,0,0,0,,{\fscy94.33\fscx94.33\fnFZLanTingHei-H-GBK\fs34\pos(654.21,280.16)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.27,0:02:13.32,Screen,,0,0,0,,{\fscy94.22\fscx94.22\fnFZLanTingHei-H-GBK\fs34\pos(654.2,280.23)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.32,0:02:13.36,Screen,,0,0,0,,{\fscy94.11\fscx94.11\fnFZLanTingHei-H-GBK\fs34\pos(654.18,280.31)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.36,0:02:13.40,Screen,,0,0,0,,{\fscy94\fscx94\fnFZLanTingHei-H-GBK\fs34\pos(654.16,280.38)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.40,0:02:13.44,Screen,,0,0,0,,{\fscy93.89\fscx93.89\fnFZLanTingHei-H-GBK\fs34\pos(654.15,280.46)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.44,0:02:13.48,Screen,,0,0,0,,{\fscy93.78\fscx93.78\fnFZLanTingHei-H-GBK\fs34\pos(654.13,280.53)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.48,0:02:13.52,Screen,,0,0,0,,{\fscy93.67\fscx93.67\fnFZLanTingHei-H-GBK\fs34\pos(654.12,280.61)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.52,0:02:13.57,Screen,,0,0,0,,{\fscy93.57\fscx93.57\fnFZLanTingHei-H-GBK\fs34\pos(654.11,280.69)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.57,0:02:13.61,Screen,,0,0,0,,{\fscy93.45\fscx93.45\fnFZLanTingHei-H-GBK\fs34\pos(654.09,280.76)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.61,0:02:13.65,Screen,,0,0,0,,{\fscy93.35\fscx93.35\fnFZLanTingHei-H-GBK\fs34\pos(654.07,280.84)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.65,0:02:13.69,Screen,,0,0,0,,{\fscy93.24\fscx93.24\fnFZLanTingHei-H-GBK\fs34\pos(654.06,280.91)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.69,0:02:13.73,Screen,,0,0,0,,{\fscy93.14\fscx93.14\fnFZLanTingHei-H-GBK\fs34\pos(654.04,280.99)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.73,0:02:13.78,Screen,,0,0,0,,{\fscy93.04\fscx93.04\fnFZLanTingHei-H-GBK\fs34\pos(654.03,281.08)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.78,0:02:13.82,Screen,,0,0,0,,{\fscy92.92\fscx92.92\fnFZLanTingHei-H-GBK\fs34\pos(654.01,281.14)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.82,0:02:13.86,Screen,,0,0,0,,{\fscy92.81\fscx92.81\fnFZLanTingHei-H-GBK\fs34\pos(654,281.22)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.86,0:02:13.90,Screen,,0,0,0,,{\fscy92.71\fscx92.71\fnFZLanTingHei-H-GBK\fs34\pos(653.98,281.29)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.90,0:02:13.94,Screen,,0,0,0,,{\fscy92.6\fscx92.6\fnFZLanTingHei-H-GBK\fs34\pos(653.97,281.37)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.94,0:02:13.98,Screen,,0,0,0,,{\fscy92.5\fscx92.5\fnFZLanTingHei-H-GBK\fs34\pos(653.95,281.45)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:13.98,0:02:14.03,Screen,,0,0,0,,{\fscy92.39\fscx92.39\fnFZLanTingHei-H-GBK\fs34\pos(653.94,281.52)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.03,0:02:14.07,Screen,,0,0,0,,{\fscy92.28\fscx92.28\fnFZLanTingHei-H-GBK\fs34\pos(653.92,281.6)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.07,0:02:14.11,Screen,,0,0,0,,{\fscy92.18\fscx92.18\fnFZLanTingHei-H-GBK\fs34\pos(653.91,281.66)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.11,0:02:14.15,Screen,,0,0,0,,{\fscy92.07\fscx92.07\fnFZLanTingHei-H-GBK\fs34\pos(653.89,281.74)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.15,0:02:14.19,Screen,,0,0,0,,{\fscy91.97\fscx91.97\fnFZLanTingHei-H-GBK\fs34\pos(653.88,281.81)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.19,0:02:14.23,Screen,,0,0,0,,{\fscy91.87\fscx91.87\fnFZLanTingHei-H-GBK\fs34\pos(653.87,281.89)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.23,0:02:14.28,Screen,,0,0,0,,{\fscy91.76\fscx91.76\fnFZLanTingHei-H-GBK\fs34\pos(653.85,281.95)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.28,0:02:14.32,Screen,,0,0,0,,{\fscy91.65\fscx91.65\fnFZLanTingHei-H-GBK\fs34\pos(653.84,282.02)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.32,0:02:14.36,Screen,,0,0,0,,{\fscy91.55\fscx91.55\fnFZLanTingHei-H-GBK\fs34\pos(653.82,282.1)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.36,0:02:14.40,Screen,,0,0,0,,{\fscy91.45\fscx91.45\fnFZLanTingHei-H-GBK\fs34\pos(653.81,282.16)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.40,0:02:14.44,Screen,,0,0,0,,{\fscy91.34\fscx91.34\fnFZLanTingHei-H-GBK\fs34\pos(653.78,282.24)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.44,0:02:14.48,Screen,,0,0,0,,{\fscy91.23\fscx91.23\fnFZLanTingHei-H-GBK\fs34\pos(653.78,282.31)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.48,0:02:14.53,Screen,,0,0,0,,{\fscy91.13\fscx91.13\fnFZLanTingHei-H-GBK\fs34\pos(653.77,282.37)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.53,0:02:14.57,Screen,,0,0,0,,{\fscy91.03\fscx91.03\fnFZLanTingHei-H-GBK\fs34\pos(653.75,282.44)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.57,0:02:14.61,Screen,,0,0,0,,{\fscy90.93\fscx90.93\fnFZLanTingHei-H-GBK\fs34\pos(653.73,282.51)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.61,0:02:14.65,Screen,,0,0,0,,{\fscy90.82\fscx90.82\fnFZLanTingHei-H-GBK\fs34\pos(653.72,282.58)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.65,0:02:14.69,Screen,,0,0,0,,{\fscy90.72\fscx90.72\fnFZLanTingHei-H-GBK\fs34\pos(653.71,282.64)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.69,0:02:14.73,Screen,,0,0,0,,{\fscy90.61\fscx90.61\fnFZLanTingHei-H-GBK\fs34\pos(653.69,282.71)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.73,0:02:14.78,Screen,,0,0,0,,{\fscy90.51\fscx90.51\fnFZLanTingHei-H-GBK\fs34\pos(653.68,282.77)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.78,0:02:14.82,Screen,,0,0,0,,{\fscy90.41\fscx90.41\fnFZLanTingHei-H-GBK\fs34\pos(653.66,282.84)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.82,0:02:14.86,Screen,,0,0,0,,{\fscy90.31\fscx90.31\fnFZLanTingHei-H-GBK\fs34\pos(653.65,282.91)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.86,0:02:14.90,Screen,,0,0,0,,{\fscy90.21\fscx90.21\fnFZLanTingHei-H-GBK\fs34\pos(653.64,282.98)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.90,0:02:14.94,Screen,,0,0,0,,{\fscy90.11\fscx90.11\fnFZLanTingHei-H-GBK\fs34\pos(653.63,283.04)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.94,0:02:14.98,Screen,,0,0,0,,{\fscy90.01\fscx90.01\fnFZLanTingHei-H-GBK\fs34\pos(653.61,283.11)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:14.98,0:02:15.03,Screen,,0,0,0,,{\fscy89.91\fscx89.91\fnFZLanTingHei-H-GBK\fs34\pos(653.6,283.18)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:15.03,0:02:15.07,Screen,,0,0,0,,{\fscy89.8\fscx89.8\fnFZLanTingHei-H-GBK\fs34\pos(653.59,283.23)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:15.07,0:02:15.11,Screen,,0,0,0,,{\fscy89.7\fscx89.7\fnFZLanTingHei-H-GBK\fs34\pos(653.57,283.3)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:15.11,0:02:15.15,Screen,,0,0,0,,{\fscy89.6\fscx89.6\fnFZLanTingHei-H-GBK\fs34\pos(653.56,283.35)\frz6.073\c&HB38E7D&\blur1}天滅獸人!!
+Dialogue: 0,0:02:11.19,0:02:11.23,Screen,,0,0,0,,{\fscy100\fscx100\fn@HYQiHei-65S\fs25\frz248.5\pos(877,341)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.23,0:02:11.27,Screen,,0,0,0,,{\fscy99.88\fscx99.88\fn@HYQiHei-65S\fs25\frz248.5\pos(876.72,341.02)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.27,0:02:11.31,Screen,,0,0,0,,{\fscy99.75\fscx99.75\fn@HYQiHei-65S\fs25\frz248.5\pos(876.42,341.02)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.31,0:02:11.36,Screen,,0,0,0,,{\fscy99.63\fscx99.63\fn@HYQiHei-65S\fs25\frz248.5\pos(876.14,341.04)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.36,0:02:11.40,Screen,,0,0,0,,{\fscy99.51\fscx99.51\fn@HYQiHei-65S\fs25\frz248.5\pos(875.86,341.04)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.40,0:02:11.44,Screen,,0,0,0,,{\fscy99.39\fscx99.39\fn@HYQiHei-65S\fs25\frz248.5\pos(875.56,341.06)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.44,0:02:11.48,Screen,,0,0,0,,{\fscy99.27\fscx99.27\fn@HYQiHei-65S\fs25\frz248.5\pos(875.27,341.06)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.48,0:02:11.52,Screen,,0,0,0,,{\fscy99.14\fscx99.14\fn@HYQiHei-65S\fs25\frz248.5\pos(874.98,341.07)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.52,0:02:11.56,Screen,,0,0,0,,{\fscy99.03\fscx99.03\fn@HYQiHei-65S\fs25\frz248.5\pos(874.7,341.08)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.56,0:02:11.61,Screen,,0,0,0,,{\fscy98.91\fscx98.91\fn@HYQiHei-65S\fs25\frz248.5\pos(874.42,341.09)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.61,0:02:11.65,Screen,,0,0,0,,{\fscy98.79\fscx98.79\fn@HYQiHei-65S\fs25\frz248.5\pos(874.13,341.09)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.65,0:02:11.69,Screen,,0,0,0,,{\fscy98.67\fscx98.67\fn@HYQiHei-65S\fs25\frz248.5\pos(873.85,341.11)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.69,0:02:11.73,Screen,,0,0,0,,{\fscy98.55\fscx98.55\fn@HYQiHei-65S\fs25\frz248.5\pos(873.58,341.12)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.73,0:02:11.77,Screen,,0,0,0,,{\fscy98.43\fscx98.43\fn@HYQiHei-65S\fs25\frz248.5\pos(873.3,341.14)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.77,0:02:11.81,Screen,,0,0,0,,{\fscy98.31\fscx98.31\fn@HYQiHei-65S\fs25\frz248.5\pos(873.03,341.15)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.81,0:02:11.86,Screen,,0,0,0,,{\fscy98.2\fscx98.2\fn@HYQiHei-65S\fs25\frz248.5\pos(872.75,341.16)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.86,0:02:11.90,Screen,,0,0,0,,{\fscy98.08\fscx98.08\fn@HYQiHei-65S\fs25\frz248.5\pos(872.47,341.17)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.90,0:02:11.94,Screen,,0,0,0,,{\fscy97.96\fscx97.96\fn@HYQiHei-65S\fs25\frz248.5\pos(872.19,341.18)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.94,0:02:11.98,Screen,,0,0,0,,{\fscy97.84\fscx97.84\fn@HYQiHei-65S\fs25\frz248.5\pos(871.91,341.19)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:11.98,0:02:12.02,Screen,,0,0,0,,{\fscy97.72\fscx97.72\fn@HYQiHei-65S\fs25\frz248.5\pos(871.63,341.19)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.02,0:02:12.07,Screen,,0,0,0,,{\fscy97.61\fscx97.61\fn@HYQiHei-65S\fs25\frz248.5\pos(871.35,341.2)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.07,0:02:12.11,Screen,,0,0,0,,{\fscy97.49\fscx97.49\fn@HYQiHei-65S\fs25\frz248.5\pos(871.08,341.21)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.11,0:02:12.15,Screen,,0,0,0,,{\fscy97.38\fscx97.38\fn@HYQiHei-65S\fs25\frz248.5\pos(870.81,341.23)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.15,0:02:12.19,Screen,,0,0,0,,{\fscy97.26\fscx97.26\fn@HYQiHei-65S\fs25\frz248.5\pos(870.54,341.23)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.19,0:02:12.23,Screen,,0,0,0,,{\fscy97.15\fscx97.15\fn@HYQiHei-65S\fs25\frz248.5\pos(870.26,341.25)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.23,0:02:12.27,Screen,,0,0,0,,{\fscy97.03\fscx97.03\fn@HYQiHei-65S\fs25\frz248.5\pos(870,341.26)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.27,0:02:12.32,Screen,,0,0,0,,{\fscy96.91\fscx96.91\fn@HYQiHei-65S\fs25\frz248.5\pos(869.72,341.27)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.32,0:02:12.36,Screen,,0,0,0,,{\fscy96.8\fscx96.8\fn@HYQiHei-65S\fs25\frz248.5\pos(869.46,341.29)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.36,0:02:12.40,Screen,,0,0,0,,{\fscy96.68\fscx96.68\fn@HYQiHei-65S\fs25\frz248.5\pos(869.18,341.29)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.40,0:02:12.44,Screen,,0,0,0,,{\fscy96.57\fscx96.57\fn@HYQiHei-65S\fs25\frz248.5\pos(868.92,341.3)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.44,0:02:12.48,Screen,,0,0,0,,{\fscy96.45\fscx96.45\fn@HYQiHei-65S\fs25\frz248.5\pos(868.63,341.3)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.48,0:02:12.52,Screen,,0,0,0,,{\fscy96.34\fscx96.34\fn@HYQiHei-65S\fs25\frz248.5\pos(868.37,341.31)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.52,0:02:12.57,Screen,,0,0,0,,{\fscy96.23\fscx96.23\fn@HYQiHei-65S\fs25\frz248.5\pos(868.11,341.33)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.57,0:02:12.61,Screen,,0,0,0,,{\fscy96.12\fscx96.12\fn@HYQiHei-65S\fs25\frz248.5\pos(867.83,341.34)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.61,0:02:12.65,Screen,,0,0,0,,{\fscy96\fscx96\fn@HYQiHei-65S\fs25\frz248.5\pos(867.56,341.35)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.65,0:02:12.69,Screen,,0,0,0,,{\fscy95.89\fscx95.89\fn@HYQiHei-65S\fs25\frz248.5\pos(867.3,341.35)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.69,0:02:12.73,Screen,,0,0,0,,{\fscy95.77\fscx95.77\fn@HYQiHei-65S\fs25\frz248.5\pos(867.02,341.35)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.73,0:02:12.77,Screen,,0,0,0,,{\fscy95.66\fscx95.66\fn@HYQiHei-65S\fs25\frz248.5\pos(866.76,341.36)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.77,0:02:12.82,Screen,,0,0,0,,{\fscy95.55\fscx95.55\fn@HYQiHei-65S\fs25\frz248.5\pos(866.49,341.37)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.82,0:02:12.86,Screen,,0,0,0,,{\fscy95.44\fscx95.44\fn@HYQiHei-65S\fs25\frz248.5\pos(866.23,341.38)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.86,0:02:12.90,Screen,,0,0,0,,{\fscy95.33\fscx95.33\fn@HYQiHei-65S\fs25\frz248.5\pos(865.97,341.4)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.90,0:02:12.94,Screen,,0,0,0,,{\fscy95.21\fscx95.21\fn@HYQiHei-65S\fs25\frz248.5\pos(865.71,341.4)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.94,0:02:12.98,Screen,,0,0,0,,{\fscy95.1\fscx95.1\fn@HYQiHei-65S\fs25\frz248.5\pos(865.45,341.42)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:12.98,0:02:13.02,Screen,,0,0,0,,{\fscy94.99\fscx94.99\fn@HYQiHei-65S\fs25\frz248.5\pos(865.19,341.42)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.02,0:02:13.07,Screen,,0,0,0,,{\fscy94.88\fscx94.88\fn@HYQiHei-65S\fs25\frz248.5\pos(864.93,341.43)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.07,0:02:13.11,Screen,,0,0,0,,{\fscy94.77\fscx94.77\fn@HYQiHei-65S\fs25\frz248.5\pos(864.67,341.44)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.11,0:02:13.15,Screen,,0,0,0,,{\fscy94.66\fscx94.66\fn@HYQiHei-65S\fs25\frz248.5\pos(864.4,341.45)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.15,0:02:13.19,Screen,,0,0,0,,{\fscy94.55\fscx94.55\fn@HYQiHei-65S\fs25\frz248.5\pos(864.15,341.46)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.19,0:02:13.23,Screen,,0,0,0,,{\fscy94.44\fscx94.44\fn@HYQiHei-65S\fs25\frz248.5\pos(863.89,341.47)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.23,0:02:13.27,Screen,,0,0,0,,{\fscy94.33\fscx94.33\fn@HYQiHei-65S\fs25\frz248.5\pos(863.63,341.47)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.27,0:02:13.32,Screen,,0,0,0,,{\fscy94.22\fscx94.22\fn@HYQiHei-65S\fs25\frz248.5\pos(863.36,341.47)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.32,0:02:13.36,Screen,,0,0,0,,{\fscy94.11\fscx94.11\fn@HYQiHei-65S\fs25\frz248.5\pos(863.11,341.48)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.36,0:02:13.40,Screen,,0,0,0,,{\fscy94\fscx94\fn@HYQiHei-65S\fs25\frz248.5\pos(862.84,341.48)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.40,0:02:13.44,Screen,,0,0,0,,{\fscy93.89\fscx93.89\fn@HYQiHei-65S\fs25\frz248.5\pos(862.6,341.49)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.44,0:02:13.48,Screen,,0,0,0,,{\fscy93.78\fscx93.78\fn@HYQiHei-65S\fs25\frz248.5\pos(862.32,341.49)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.48,0:02:13.52,Screen,,0,0,0,,{\fscy93.67\fscx93.67\fn@HYQiHei-65S\fs25\frz248.5\pos(862.07,341.5)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.52,0:02:13.57,Screen,,0,0,0,,{\fscy93.57\fscx93.57\fn@HYQiHei-65S\fs25\frz248.5\pos(861.82,341.51)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.57,0:02:13.61,Screen,,0,0,0,,{\fscy93.45\fscx93.45\fn@HYQiHei-65S\fs25\frz248.5\pos(861.56,341.51)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.61,0:02:13.65,Screen,,0,0,0,,{\fscy93.35\fscx93.35\fn@HYQiHei-65S\fs25\frz248.5\pos(861.3,341.51)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.65,0:02:13.69,Screen,,0,0,0,,{\fscy93.24\fscx93.24\fn@HYQiHei-65S\fs25\frz248.5\pos(861.05,341.52)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.69,0:02:13.73,Screen,,0,0,0,,{\fscy93.14\fscx93.14\fn@HYQiHei-65S\fs25\frz248.5\pos(860.8,341.53)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.73,0:02:13.78,Screen,,0,0,0,,{\fscy93.04\fscx93.04\fn@HYQiHei-65S\fs25\frz248.5\pos(860.57,341.55)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.78,0:02:13.82,Screen,,0,0,0,,{\fscy92.92\fscx92.92\fn@HYQiHei-65S\fs25\frz248.5\pos(860.29,341.54)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.82,0:02:13.86,Screen,,0,0,0,,{\fscy92.81\fscx92.81\fn@HYQiHei-65S\fs25\frz248.5\pos(860.04,341.55)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.86,0:02:13.90,Screen,,0,0,0,,{\fscy92.71\fscx92.71\fn@HYQiHei-65S\fs25\frz248.5\pos(859.79,341.55)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.90,0:02:13.94,Screen,,0,0,0,,{\fscy92.6\fscx92.6\fn@HYQiHei-65S\fs25\frz248.5\pos(859.54,341.56)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.94,0:02:13.98,Screen,,0,0,0,,{\fscy92.5\fscx92.5\fn@HYQiHei-65S\fs25\frz248.5\pos(859.29,341.57)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:13.98,0:02:14.03,Screen,,0,0,0,,{\fscy92.39\fscx92.39\fn@HYQiHei-65S\fs25\frz248.5\pos(859.06,341.58)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.03,0:02:14.07,Screen,,0,0,0,,{\fscy92.28\fscx92.28\fn@HYQiHei-65S\fs25\frz248.5\pos(858.79,341.58)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.07,0:02:14.11,Screen,,0,0,0,,{\fscy92.18\fscx92.18\fn@HYQiHei-65S\fs25\frz248.5\pos(858.55,341.58)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.11,0:02:14.15,Screen,,0,0,0,,{\fscy92.07\fscx92.07\fn@HYQiHei-65S\fs25\frz248.5\pos(858.3,341.59)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.15,0:02:14.19,Screen,,0,0,0,,{\fscy91.97\fscx91.97\fn@HYQiHei-65S\fs25\frz248.5\pos(858.05,341.59)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.19,0:02:14.23,Screen,,0,0,0,,{\fscy91.87\fscx91.87\fn@HYQiHei-65S\fs25\frz248.5\pos(857.81,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.23,0:02:14.28,Screen,,0,0,0,,{\fscy91.76\fscx91.76\fn@HYQiHei-65S\fs25\frz248.5\pos(857.55,341.59)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.28,0:02:14.32,Screen,,0,0,0,,{\fscy91.65\fscx91.65\fn@HYQiHei-65S\fs25\frz248.5\pos(857.31,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.32,0:02:14.36,Screen,,0,0,0,,{\fscy91.55\fscx91.55\fn@HYQiHei-65S\fs25\frz248.5\pos(857.06,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.36,0:02:14.40,Screen,,0,0,0,,{\fscy91.45\fscx91.45\fn@HYQiHei-65S\fs25\frz248.5\pos(856.82,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.40,0:02:14.44,Screen,,0,0,0,,{\fscy91.34\fscx91.34\fn@HYQiHei-65S\fs25\frz248.5\pos(856.56,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.44,0:02:14.48,Screen,,0,0,0,,{\fscy91.23\fscx91.23\fn@HYQiHei-65S\fs25\frz248.5\pos(856.32,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.48,0:02:14.53,Screen,,0,0,0,,{\fscy91.13\fscx91.13\fn@HYQiHei-65S\fs25\frz248.5\pos(856.08,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.53,0:02:14.57,Screen,,0,0,0,,{\fscy91.03\fscx91.03\fn@HYQiHei-65S\fs25\frz248.5\pos(855.83,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.57,0:02:14.61,Screen,,0,0,0,,{\fscy90.93\fscx90.93\fn@HYQiHei-65S\fs25\frz248.5\pos(855.6,341.62)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.61,0:02:14.65,Screen,,0,0,0,,{\fscy90.82\fscx90.82\fn@HYQiHei-65S\fs25\frz248.5\pos(855.35,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.65,0:02:14.69,Screen,,0,0,0,,{\fscy90.72\fscx90.72\fn@HYQiHei-65S\fs25\frz248.5\pos(855.1,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.69,0:02:14.73,Screen,,0,0,0,,{\fscy90.61\fscx90.61\fn@HYQiHei-65S\fs25\frz248.5\pos(854.85,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.73,0:02:14.78,Screen,,0,0,0,,{\fscy90.51\fscx90.51\fn@HYQiHei-65S\fs25\frz248.5\pos(854.62,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.78,0:02:14.82,Screen,,0,0,0,,{\fscy90.41\fscx90.41\fn@HYQiHei-65S\fs25\frz248.5\pos(854.37,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.82,0:02:14.86,Screen,,0,0,0,,{\fscy90.31\fscx90.31\fn@HYQiHei-65S\fs25\frz248.5\pos(854.13,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.86,0:02:14.90,Screen,,0,0,0,,{\fscy90.21\fscx90.21\fn@HYQiHei-65S\fs25\frz248.5\pos(853.9,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.90,0:02:14.94,Screen,,0,0,0,,{\fscy90.11\fscx90.11\fn@HYQiHei-65S\fs25\frz248.5\pos(853.66,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.94,0:02:14.98,Screen,,0,0,0,,{\fscy90.01\fscx90.01\fn@HYQiHei-65S\fs25\frz248.5\pos(853.43,341.62)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:14.98,0:02:15.03,Screen,,0,0,0,,{\fscy89.91\fscx89.91\fn@HYQiHei-65S\fs25\frz248.5\pos(853.19,341.61)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:15.03,0:02:15.07,Screen,,0,0,0,,{\fscy89.8\fscx89.8\fn@HYQiHei-65S\fs25\frz248.5\pos(852.94,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:15.07,0:02:15.11,Screen,,0,0,0,,{\fscy89.7\fscx89.7\fn@HYQiHei-65S\fs25\frz248.5\pos(852.71,341.6)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:15.11,0:02:15.15,Screen,,0,0,0,,{\fscy89.6\fscx89.6\fn@HYQiHei-65S\fs25\frz248.5\pos(852.46,341.59)\c&HBC9F93&\3c&HFFF4EC&\bord1\blur5}我兒子被獸人殺害
+Dialogue: 0,0:02:15.15,0:02:15.19,Screen,,0,0,0,,{\fscy100\fscx100\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(607,501)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.19,0:02:15.23,Screen,,0,0,0,,{\fscy99.25\fscx99.25\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(607.25,499.03)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.23,0:02:15.28,Screen,,0,0,0,,{\fscy98.51\fscx98.51\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(607.49,497.08)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.28,0:02:15.32,Screen,,0,0,0,,{\fscy97.77\fscx97.77\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(607.73,495.14)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.32,0:02:15.36,Screen,,0,0,0,,{\fscy97.07\fscx97.07\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(607.94,493.22)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.36,0:02:15.40,Screen,,0,0,0,,{\fscy96.35\fscx96.35\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(608.19,491.38)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.40,0:02:15.44,Screen,,0,0,0,,{\fscy95.65\fscx95.65\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(608.42,489.54)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.44,0:02:15.49,Screen,,0,0,0,,{\fscy94.96\fscx94.96\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(608.64,487.73)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.49,0:02:15.53,Screen,,0,0,0,,{\fscy94.28\fscx94.28\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(608.87,485.93)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.53,0:02:15.57,Screen,,0,0,0,,{\fscy93.61\fscx93.61\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(609.09,484.16)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.57,0:02:15.61,Screen,,0,0,0,,{\fscy92.96\fscx92.96\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(609.3,482.43)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.61,0:02:15.65,Screen,,0,0,0,,{\fscy92.31\fscx92.31\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(609.51,480.71)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.65,0:02:15.69,Screen,,0,0,0,,{\fscy91.67\fscx91.67\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(609.72,479.03)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.69,0:02:15.74,Screen,,0,0,0,,{\fscy91.03\fscx91.03\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(609.93,477.36)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.74,0:02:15.78,Screen,,0,0,0,,{\fscy90.42\fscx90.42\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(610.13,475.73)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.78,0:02:15.82,Screen,,0,0,0,,{\fscy89.8\fscx89.8\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(610.34,474.11)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.82,0:02:15.86,Screen,,0,0,0,,{\fscy89.2\fscx89.2\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(610.53,472.52)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.86,0:02:15.90,Screen,,0,0,0,,{\fscy88.6\fscx88.6\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(610.73,470.93)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.90,0:02:15.94,Screen,,0,0,0,,{\fscy88.01\fscx88.01\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(610.91,469.38)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.94,0:02:15.99,Screen,,0,0,0,,{\fscy87.43\fscx87.43\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(611.11,467.85)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:15.99,0:02:16.03,Screen,,0,0,0,,{\fscy86.85\fscx86.85\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(611.31,466.35)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.03,0:02:16.07,Screen,,0,0,0,,{\fscy86.29\fscx86.29\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(611.49,464.87)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.07,0:02:16.11,Screen,,0,0,0,,{\fscy85.73\fscx85.73\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(611.67,463.4)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.11,0:02:16.15,Screen,,0,0,0,,{\fscy85.19\fscx85.19\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(611.85,461.95)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.15,0:02:16.19,Screen,,0,0,0,,{\fscy84.64\fscx84.64\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(612.02,460.51)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.19,0:02:16.24,Screen,,0,0,0,,{\fscy84.11\fscx84.11\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(612.21,459.1)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.24,0:02:16.28,Screen,,0,0,0,,{\fscy83.58\fscx83.58\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(612.4,457.74)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.28,0:02:16.32,Screen,,0,0,0,,{\fscy83.06\fscx83.06\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(612.57,456.37)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.32,0:02:16.36,Screen,,0,0,0,,{\fscy82.54\fscx82.54\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(612.75,455.03)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.36,0:02:16.40,Screen,,0,0,0,,{\fscy82.04\fscx82.04\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(612.92,453.7)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.40,0:02:16.44,Screen,,0,0,0,,{\fscy81.54\fscx81.54\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(613.08,452.37)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.44,0:02:16.49,Screen,,0,0,0,,{\fscy81.06\fscx81.06\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(613.22,451.09)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.49,0:02:16.53,Screen,,0,0,0,,{\fscy80.58\fscx80.58\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(613.38,449.82)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.53,0:02:16.57,Screen,,0,0,0,,{\fscy80.11\fscx80.11\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(613.54,448.55)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.57,0:02:16.61,Screen,,0,0,0,,{\fscy79.64\fscx79.64\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(613.7,447.31)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.61,0:02:16.65,Screen,,0,0,0,,{\fscy79.17\fscx79.17\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(613.85,446.11)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.65,0:02:16.69,Screen,,0,0,0,,{\fscy78.72\fscx78.72\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(613.99,444.9)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.69,0:02:16.74,Screen,,0,0,0,,{\fscy78.27\fscx78.27\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(614.15,443.74)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.74,0:02:16.78,Screen,,0,0,0,,{\fscy77.83\fscx77.83\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(614.28,442.57)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.78,0:02:16.82,Screen,,0,0,0,,{\fscy77.39\fscx77.39\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(614.43,441.43)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.82,0:02:16.86,Screen,,0,0,0,,{\fscy76.97\fscx76.97\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(614.58,440.31)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.86,0:02:16.90,Screen,,0,0,0,,{\fscy76.54\fscx76.54\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(614.72,439.2)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.90,0:02:16.94,Screen,,0,0,0,,{\fscy76.13\fscx76.13\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(614.86,438.09)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.94,0:02:16.99,Screen,,0,0,0,,{\fscy75.72\fscx75.72\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(614.99,437.01)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:16.99,0:02:17.03,Screen,,0,0,0,,{\fscy75.32\fscx75.32\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.13,435.97)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.03,0:02:17.07,Screen,,0,0,0,,{\fscy74.93\fscx74.93\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.25,434.95)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.07,0:02:17.11,Screen,,0,0,0,,{\fscy74.46\fscx74.46\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.46,433.79)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.11,0:02:17.15,Screen,,0,0,0,,{\fscy74\fscx74\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.65,432.69)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.15,0:02:17.20,Screen,,0,0,0,,{\fscy73.53\fscx73.53\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.85,431.63)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.20,0:02:17.24,Screen,,0,0,0,,{\fscy73.09\fscx73.09\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.05,430.6)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.24,0:02:17.28,Screen,,0,0,0,,{\fscy73.07\fscx73.07\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.87,430.02)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.28,0:02:17.32,Screen,,0,0,0,,{\fscy73.06\fscx73.06\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.63,429.5)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.32,0:02:17.36,Screen,,0,0,0,,{\fscy72.66\fscx72.66\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.78,428.59)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.36,0:02:17.40,Screen,,0,0,0,,{\fscy72.27\fscx72.27\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(615.96,427.71)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.40,0:02:17.45,Screen,,0,0,0,,{\fscy71.87\fscx71.87\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.13,426.84)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.45,0:02:17.49,Screen,,0,0,0,,{\fscy71.49\fscx71.49\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.3,426.01)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.49,0:02:17.53,Screen,,0,0,0,,{\fscy71.17\fscx71.17\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.41,425.19)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.53,0:02:17.57,Screen,,0,0,0,,{\fscy70.88\fscx70.88\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.5,424.38)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.57,0:02:17.61,Screen,,0,0,0,,{\fscy70.56\fscx70.56\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.61,423.62)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.61,0:02:17.65,Screen,,0,0,0,,{\fscy70.27\fscx70.27\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.71,422.86)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.65,0:02:17.70,Screen,,0,0,0,,{\fscy70\fscx70\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.8,422.11)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.70,0:02:17.74,Screen,,0,0,0,,{\fscy69.74\fscx69.74\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.87,421.39)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.74,0:02:17.78,Screen,,0,0,0,,{\fscy69.48\fscx69.48\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(616.96,420.7)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.78,0:02:17.82,Screen,,0,0,0,,{\fscy69.22\fscx69.22\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.05,420.03)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.82,0:02:17.86,Screen,,0,0,0,,{\fscy68.99\fscx68.99\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.12,419.39)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.86,0:02:17.90,Screen,,0,0,0,,{\fscy68.76\fscx68.76\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.21,418.77)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.90,0:02:17.95,Screen,,0,0,0,,{\fscy68.54\fscx68.54\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.27,418.21)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.95,0:02:17.99,Screen,,0,0,0,,{\fscy68.33\fscx68.33\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.33,417.64)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:17.99,0:02:18.03,Screen,,0,0,0,,{\fscy68.13\fscx68.13\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.42,417.11)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.03,0:02:18.07,Screen,,0,0,0,,{\fscy67.94\fscx67.94\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.46,416.64)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.07,0:02:18.11,Screen,,0,0,0,,{\fscy67.76\fscx67.76\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.53,416.15)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.11,0:02:18.15,Screen,,0,0,0,,{\fscy67.6\fscx67.6\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.58,415.71)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.15,0:02:18.20,Screen,,0,0,0,,{\fscy67.45\fscx67.45\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.61,415.32)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.20,0:02:18.24,Screen,,0,0,0,,{\fscy67.32\fscx67.32\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.67,414.93)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.24,0:02:18.28,Screen,,0,0,0,,{\fscy67.17\fscx67.17\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.71,414.57)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.28,0:02:18.32,Screen,,0,0,0,,{\fscy67.04\fscx67.04\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.76,414.23)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.32,0:02:18.36,Screen,,0,0,0,,{\fscy66.93\fscx66.93\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.81,413.94)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.36,0:02:18.40,Screen,,0,0,0,,{\fscy66.83\fscx66.83\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.83,413.67)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.40,0:02:18.45,Screen,,0,0,0,,{\fscy66.74\fscx66.74\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.86,413.43)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.45,0:02:18.49,Screen,,0,0,0,,{\fscy66.65\fscx66.65\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.89,413.18)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.49,0:02:18.53,Screen,,0,0,0,,{\fscy66.58\fscx66.58\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.9,413.03)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.53,0:02:18.57,Screen,,0,0,0,,{\fscy66.52\fscx66.52\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.92,412.88)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.57,0:02:18.61,Screen,,0,0,0,,{\fscy66.47\fscx66.47\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.93,412.73)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.61,0:02:18.66,Screen,,0,0,0,,{\fscy66.41\fscx66.41\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.94,412.58)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.66,0:02:18.70,Screen,,0,0,0,,{\fscy66.37\fscx66.37\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.96,412.48)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.70,0:02:18.74,Screen,,0,0,0,,{\fscy66.33\fscx66.33\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.98,412.39)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.74,0:02:18.78,Screen,,0,0,0,,{\fscy66.3\fscx66.3\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.98,412.28)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.78,0:02:18.82,Screen,,0,0,0,,{\fscy66.27\fscx66.27\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(617.99,412.21)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.82,0:02:18.86,Screen,,0,0,0,,{\fscy66.25\fscx66.25\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618,412.15)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.86,0:02:18.91,Screen,,0,0,0,,{\fscy66.23\fscx66.23\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.02,412.11)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.91,0:02:18.95,Screen,,0,0,0,,{\fscy66.21\fscx66.21\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.02,412.05)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.95,0:02:18.99,Screen,,0,0,0,,{\fscy66.2\fscx66.2\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.02,412.01)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:18.99,0:02:19.03,Screen,,0,0,0,,{\fscy66.19\fscx66.19\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.01,411.99)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:19.03,0:02:20.08,Screen,,0,0,0,,{\fscy66.18\fscx66.18\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.02,411.97)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:20.08,0:02:20.16,Screen,,0,0,0,,{\fscy66.18\fscx66.18\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.02,411.97)\iclip(m 538 382 l 562 411 491 412 490 384)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:20.16,0:02:20.24,Screen,,0,0,0,,{\fscy66.18\fscx66.18\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.02,411.97)\iclip(m 577 410 b 581 403 592 388 602 382 l 724 380 749 411)}超過3萬人的反獸人示威
+Dialogue: 0,0:02:20.24,0:02:21.16,Screen,,0,0,0,,{\fscy66.18\fscx66.18\fnFZLanTingHei-B-GBK\c&H79665C&\fs40\fax-0.1\pos(618.02,411.97)}超過3萬人的反獸人示威
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:01.40,0:00:04.32,OP-JP,,0,0,0,,{\an5\fs20\blur0.8\frx0\fry14\frz3.34\move(659,569,664,566,18,2896)\t(18,2896,\fscy135.53\fscx135.53\fry8\frz0.54)}Hey, are you ready to Go？
+Dialogue: 0,0:00:04.69,0:00:07.82,OP-JP,,0,0,0,,Cuz, you know the way to go
+Dialogue: 0,0:00:08.19,0:00:08.23,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.55\pos(283,714)}信じたい　選んだ way
+Dialogue: 0,0:00:08.23,0:00:08.27,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.48\pos(282.72,710.53)}信じたい　選んだ way
+Dialogue: 0,0:00:08.27,0:00:08.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.46\pos(282.79,707)}信じたい　選んだ way
+Dialogue: 0,0:00:08.32,0:00:08.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.39\pos(282.44,703.54)}信じたい　選んだ way
+Dialogue: 0,0:00:08.36,0:00:08.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.31\pos(282.14,700.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.40,0:00:08.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.31\pos(282.29,696.53)}信じたい　選んだ way
+Dialogue: 0,0:00:08.44,0:00:08.48,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.22\pos(281.85,693.06)}信じたい　選んだ way
+Dialogue: 0,0:00:08.48,0:00:08.52,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.16\pos(281.64,689.55)}信じたい　選んだ way
+Dialogue: 0,0:00:08.52,0:00:08.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.16\pos(281.84,686.03)}信じたい　選んだ way
+Dialogue: 0,0:00:08.57,0:00:08.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.07\pos(281.48,682.55)}信じたい　選んだ way
+Dialogue: 0,0:00:08.61,0:00:08.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.98\pos(281.05,679.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.65,0:00:08.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.02\pos(281.48,675.51)}信じたい　選んだ way
+Dialogue: 0,0:00:08.69,0:00:08.73,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.91\pos(280.95,672.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.73,0:00:08.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.83\pos(280.6,668.6)}信じたい　選んだ way
+Dialogue: 0,0:00:08.78,0:00:08.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.82\pos(280.78,665.07)}信じたい　選んだ way
+Dialogue: 0,0:00:08.82,0:00:08.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.73\pos(280.39,661.58)}信じたい　選んだ way
+Dialogue: 0,0:00:08.86,0:00:08.90,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.65\pos(280.09,658.11)}信じたい　選んだ way
+Dialogue: 0,0:00:08.90,0:00:08.94,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.66\pos(280.38,654.57)}信じたい　選んだ way
+Dialogue: 0,0:00:08.94,0:00:08.98,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.58\pos(280.04,651.1)}信じたい　選んだ way
+Dialogue: 0,0:00:08.98,0:00:09.03,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.48\pos(279.61,647.62)}信じたい　選んだ way
+Dialogue: 0,0:00:09.03,0:00:09.07,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.5\pos(279.93,644.08)}信じたい　選んだ way
+Dialogue: 0,0:00:09.07,0:00:09.11,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.4\pos(279.52,640.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.11,0:00:09.15,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.35\pos(279.43,637.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.15,0:00:09.19,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.33\pos(279.54,633.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.19,0:00:09.23,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.28\pos(279.42,630.07)}信じたい　選んだ way
+Dialogue: 0,0:00:09.23,0:00:09.28,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.18\pos(279.03,626.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.28,0:00:09.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.18\pos(279.27,623.07)}信じたい　選んだ way
+Dialogue: 0,0:00:09.32,0:00:09.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.09\pos(278.89,619.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.36,0:00:09.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.02\pos(278.71,616.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.40,0:00:09.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.99\pos(278.77,612.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.44,0:00:09.48,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.94\pos(278.66,609.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.48,0:00:09.53,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.87\pos(278.43,605.64)}信じたい　選んだ way
+Dialogue: 0,0:00:09.53,0:00:09.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.82\pos(278.36,602.12)}信じたい　選んだ way
+Dialogue: 0,0:00:09.57,0:00:09.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.79\pos(278.45,598.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.61,0:00:09.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.7\pos(278.13,595.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.65,0:00:09.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.69\pos(278.32,591.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.69,0:00:09.73,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.63\pos(278.24,588.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.73,0:00:09.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.54\pos(277.96,584.63)}信じたい　選んだ way
+Dialogue: 0,0:00:09.78,0:00:09.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.5\pos(277.91,581.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.82,0:00:09.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.45\pos(277.9,577.62)}信じたい　選んだ way
+Dialogue: 0,0:00:09.86,0:00:09.90,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.36\pos(277.62,574.15)}信じたい　選んだ way
+Dialogue: 0,0:00:09.90,0:00:09.94,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.35\pos(277.74,570.64)}信じたい　選んだ way
+Dialogue: 0,0:00:09.94,0:00:09.98,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.27\pos(277.6,567.13)}信じたい　選んだ way
+Dialogue: 0,0:00:09.98,0:00:10.03,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.22\pos(277.5,563.64)}信じたい　選んだ way
+Dialogue: 0,0:00:10.03,0:00:10.07,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.17\pos(277.46,560.12)}信じたい　選んだ way
+Dialogue: 0,0:00:10.07,0:00:10.11,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.13\pos(277.52,556.63)}信じたい　選んだ way
+Dialogue: 0,0:00:10.11,0:00:10.15,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.07\pos(277.41,553.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.15,0:00:10.19,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.05\pos(277.59,549.6)}信じたい　選んだ way
+Dialogue: 0,0:00:10.19,0:00:10.24,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.97\pos(277.43,546.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.24,0:00:10.28,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.93\pos(277.46,542.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.28,0:00:10.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.89\pos(277.46,539.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.32,0:00:10.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.83\pos(277.45,535.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.36,0:00:10.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.76\pos(277.32,532.11)}信じたい　選んだ way
+Dialogue: 0,0:00:10.40,0:00:10.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.72\pos(277.37,528.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.44,0:00:10.49,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.7\pos(277.59,525.11)}信じたい　選んだ way
+Dialogue: 0,0:00:10.49,0:00:10.53,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.59\pos(277.12,521.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.53,0:00:10.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.55\pos(277.24,518.14)}信じたい　選んだ way
+Dialogue: 0,0:00:10.57,0:00:10.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.49\pos(277.15,514.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.61,0:00:10.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.45\pos(277.26,511.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.65,0:00:10.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.41\pos(277.34,507.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.69,0:00:10.74,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.36\pos(277.3,504.1)}信じたい　選んだ way
+Dialogue: 0,0:00:10.74,0:00:10.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.29\pos(277.26,500.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.78,0:00:10.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.24\pos(277.26,497.1)}信じたい　選んだ way
+Dialogue: 0,0:00:10.82,0:00:10.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.17\pos(277.27,493.12)}信じたい　選んだ way
+Dialogue: 0,0:00:11.24,0:00:14.45,OP-JP,,0,0,0,,さあ　行こう　The brand new world
+Dialogue: 0,0:00:27.62,0:00:34.08,OP-JP,,0,0,0,,誰もが息を潜めて　境界線をなぞり続けてる
+Dialogue: 0,0:00:34.24,0:00:40.66,OP-JP,,0,0,0,,声なき声の向こうに　踏み出すあなたへ届くよう
+Dialogue: 0,0:00:40.66,0:00:47.07,OP-JP,,0,0,0,,一瞬だって　止まらない　世界を駆け抜けて
+Dialogue: 0,0:00:47.29,0:00:50.59,OP-JP,,0,0,0,,彩れ　あなたらしくあれば
+Dialogue: 0,0:00:50.59,0:00:53.66,OP-JP,,0,0,0,,いつだって　何度でも変われる
+Dialogue: 0,0:00:53.66,0:00:57.12,OP-JP,,0,0,0,,果てなく　伸びる影を越えて
+Dialogue: 0,0:00:57.12,0:01:00.52,OP-JP,,0,0,0,,Take on your will 迷わずに Go ahead
+Dialogue: 0,0:00:08.19,0:00:08.23,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz0.07\pos(276.62,446.93)}相信所選道路
+Dialogue: 0,0:00:08.23,0:00:08.27,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz0\pos(276.67,443.46)}相信所選道路
+Dialogue: 0,0:00:08.27,0:00:08.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.01\pos(276.8,439.93)}相信所選道路
+Dialogue: 0,0:00:08.32,0:00:08.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.09\pos(276.81,436.45)}相信所選道路
+Dialogue: 0,0:00:08.36,0:00:08.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.16\pos(276.86,432.99)}相信所選道路
+Dialogue: 0,0:00:08.40,0:00:08.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.17\pos(277.03,429.43)}相信所選道路
+Dialogue: 0,0:00:08.44,0:00:08.48,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.26\pos(277.02,425.96)}相信所選道路
+Dialogue: 0,0:00:08.48,0:00:08.52,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.32\pos(277.07,422.45)}相信所選道路
+Dialogue: 0,0:00:08.52,0:00:08.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.32\pos(277.28,418.92)}相信所選道路
+Dialogue: 0,0:00:08.57,0:00:08.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.4\pos(277.31,415.44)}相信所選道路
+Dialogue: 0,0:00:08.61,0:00:08.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.49\pos(277.3,411.96)}相信所選道路
+Dialogue: 0,0:00:08.65,0:00:08.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.46\pos(277.58,408.4)}相信所選道路
+Dialogue: 0,0:00:08.69,0:00:08.73,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.57\pos(277.56,404.96)}相信所選道路
+Dialogue: 0,0:00:08.73,0:00:08.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.65\pos(277.58,401.48)}相信所選道路
+Dialogue: 0,0:00:08.78,0:00:08.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.66\pos(277.8,397.94)}相信所選道路
+Dialogue: 0,0:00:08.82,0:00:08.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.75\pos(277.83,394.45)}相信所選道路
+Dialogue: 0,0:00:08.86,0:00:08.90,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.82\pos(277.88,390.97)}相信所選道路
+Dialogue: 0,0:00:08.90,0:00:08.94,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.81\pos(278.13,387.44)}相信所選道路
+Dialogue: 0,0:00:08.94,0:00:08.98,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.9\pos(278.18,383.96)}相信所選道路
+Dialogue: 0,0:00:08.98,0:00:09.03,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.99\pos(278.19,380.48)}相信所選道路
+Dialogue: 0,0:00:09.03,0:00:09.07,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.98\pos(278.45,376.94)}相信所選道路
+Dialogue: 0,0:00:09.07,0:00:09.11,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.08\pos(278.49,373.46)}相信所選道路
+Dialogue: 0,0:00:09.11,0:00:09.15,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.12\pos(278.63,369.96)}相信所選道路
+Dialogue: 0,0:00:09.15,0:00:09.19,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.14\pos(278.82,366.45)}相信所選道路
+Dialogue: 0,0:00:09.19,0:00:09.23,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.2\pos(278.96,362.93)}相信所選道路
+Dialogue: 0,0:00:09.23,0:00:09.28,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.29\pos(279.02,359.46)}相信所選道路
+Dialogue: 0,0:00:09.28,0:00:09.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.29\pos(279.25,355.93)}相信所選道路
+Dialogue: 0,0:00:09.32,0:00:09.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.39\pos(279.32,352.47)}相信所選道路
+Dialogue: 0,0:00:09.36,0:00:09.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.45\pos(279.43,349)}相信所選道路
+Dialogue: 0,0:00:09.40,0:00:09.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.48\pos(279.63,345.47)}相信所選道路
+Dialogue: 0,0:00:09.44,0:00:09.48,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.53\pos(279.78,341.96)}相信所選道路
+Dialogue: 0,0:00:09.48,0:00:09.53,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.61\pos(279.88,338.5)}相信所選道路
+Dialogue: 0,0:00:09.53,0:00:09.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.66\pos(280.05,334.99)}相信所選道路
+Dialogue: 0,0:00:09.57,0:00:09.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.69\pos(280.27,331.47)}相信所選道路
+Dialogue: 0,0:00:09.61,0:00:09.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.77\pos(280.34,328.01)}相信所選道路
+Dialogue: 0,0:00:09.65,0:00:09.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.79\pos(280.62,324.48)}相信所選道路
+Dialogue: 0,0:00:09.69,0:00:09.73,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.84\pos(280.78,320.97)}相信所選道路
+Dialogue: 0,0:00:09.73,0:00:09.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.93\pos(280.93,317.51)}相信所選道路
+Dialogue: 0,0:00:09.78,0:00:09.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.97\pos(281.07,314.02)}相信所選道路
+Dialogue: 0,0:00:09.82,0:00:09.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.02\pos(281.28,310.5)}相信所選道路
+Dialogue: 0,0:00:09.86,0:00:09.90,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.11\pos(281.43,307.03)}相信所選道路
+Dialogue: 0,0:00:09.90,0:00:09.94,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.13\pos(281.62,303.53)}相信所選道路
+Dialogue: 0,0:00:09.94,0:00:09.98,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.2\pos(281.81,300.02)}相信所選道路
+Dialogue: 0,0:00:09.98,0:00:10.03,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.25\pos(281.96,296.54)}相信所選道路
+Dialogue: 0,0:00:10.03,0:00:10.07,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.31\pos(282.17,293.02)}相信所選道路
+Dialogue: 0,0:00:10.07,0:00:10.11,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.35\pos(282.42,289.53)}相信所選道路
+Dialogue: 0,0:00:10.11,0:00:10.15,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.41\pos(282.6,286.04)}相信所選道路
+Dialogue: 0,0:00:10.15,0:00:10.19,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.43\pos(282.86,282.51)}相信所選道路
+Dialogue: 0,0:00:10.19,0:00:10.24,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.5\pos(283.04,279.05)}相信所選道路
+Dialogue: 0,0:00:10.24,0:00:10.28,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.55\pos(283.29,275.53)}相信所選道路
+Dialogue: 0,0:00:10.28,0:00:10.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.59\pos(283.49,272.05)}相信所選道路
+Dialogue: 0,0:00:10.32,0:00:10.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.65\pos(283.74,268.54)}相信所選道路
+Dialogue: 0,0:00:10.36,0:00:10.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.71\pos(283.92,265.05)}相信所選道路
+Dialogue: 0,0:00:10.40,0:00:10.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.75\pos(284.16,261.56)}相信所選道路
+Dialogue: 0,0:00:10.44,0:00:10.49,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.77\pos(284.47,258.06)}相信所選道路
+Dialogue: 0,0:00:10.49,0:00:10.53,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.89\pos(284.54,254.58)}相信所選道路
+Dialogue: 0,0:00:10.53,0:00:10.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.92\pos(284.83,251.1)}相信所選道路
+Dialogue: 0,0:00:10.57,0:00:10.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.99\pos(285.04,247.59)}相信所選道路
+Dialogue: 0,0:00:10.61,0:00:10.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.02\pos(285.31,244.11)}相信所選道路
+Dialogue: 0,0:00:10.65,0:00:10.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.06\pos(285.57,240.59)}相信所選道路
+Dialogue: 0,0:00:10.69,0:00:10.74,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.12\pos(285.8,237.1)}相信所選道路
+Dialogue: 0,0:00:10.74,0:00:10.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.18\pos(286.05,233.61)}相信所選道路
+Dialogue: 0,0:00:10.78,0:00:10.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.24\pos(286.3,230.11)}相信所選道路
+Dialogue: 0,0:00:10.82,0:00:10.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.31\pos(286.65,226.14)}相信所選道路
+Dialogue: 0,0:00:11.24,0:00:14.45,OP-CH,,0,0,0,,一起前往 The brand new world
+Dialogue: 0,0:00:27.62,0:00:34.08,OP-CH,,0,0,0,,是誰屏息描繪著邊境線
+Dialogue: 0,0:00:34.24,0:00:40.66,OP-CH,,0,0,0,,致踏訪希聲之音對岸的你
+Dialogue: 0,0:00:40.66,0:00:47.07,OP-CH,,0,0,0,,馬不停蹄 馳騁萬里
+Dialogue: 0,0:00:47.29,0:00:50.59,OP-CH,,0,0,0,,若是能塗染如你一般
+Dialogue: 0,0:00:50.59,0:00:53.66,OP-CH,,0,0,0,,我會不斷蛻變
+Dialogue: 0,0:00:53.66,0:00:57.12,OP-CH,,0,0,0,,穿越無限延長之影
+Dialogue: 0,0:00:57.12,0:01:00.52,OP-CH,,0,0,0,,Take on your will 堅定不移 Go ahead
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:21:59.46,0:22:03.13,ED-JP,,0,0,0,,{\blur2}突然にも Upside down
+Dialogue: 0,0:22:03.13,0:22:07.22,ED-JP,,0,0,0,,{\blur2}世界は変わり出す
+Dialogue: 0,0:22:07.43,0:22:11.22,ED-JP,,0,0,0,,{\blur2}祈りも　届かない
+Dialogue: 0,0:22:11.50,0:22:15.92,ED-JP,,0,0,0,,{\blur2}僕が変わり出す
+Dialogue: 0,0:22:16.17,0:22:18.28,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}意味を求めて　走り続けて
+Dialogue: 0,0:22:18.28,0:22:20.19,ED-JP,,0,0,0,,{\blur2}意味を求めて　走り続けて
+Dialogue: 0,0:22:20.36,0:22:22.45,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}自分が誰か　わからなくなる
+Dialogue: 0,0:22:22.45,0:22:24.16,ED-JP,,0,0,0,,{\blur2}自分が誰か　わからなくなる
+Dialogue: 0,0:22:24.16,0:22:26.41,ED-JP,,0,0,0,,{\blur2}泣きそうだけど　負けたくないから
+Dialogue: 0,0:22:26.41,0:22:29.55,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}泣きそうだけど　負けたくないから
+Dialogue: 0,0:22:30.50,0:22:32.50,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}教えて
+Dialogue: 0,0:22:32.62,0:22:36.55,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}夜に馳せる　このゆらめきと
+Dialogue: 0,0:22:36.55,0:22:40.72,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}思いのままに　飛びまわって
+Dialogue: 0,0:22:40.84,0:22:44.92,ED-JP,,0,0,0,,{\blur2}もっと自由に　駆けて行こうよ
+Dialogue: 0,0:22:44.92,0:22:48.26,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}星を見上げてさ
+Dialogue: 0,0:21:59.46,0:22:03.13,ED-CH,,0,0,0,,{\blur2}突然間 Upside down
+Dialogue: 0,0:22:03.13,0:22:07.22,ED-CH,,0,0,0,,{\blur2}世界天變地異
+Dialogue: 0,0:22:07.43,0:22:11.22,ED-CH,,0,0,0,,{\blur2}祈禱無應
+Dialogue: 0,0:22:11.50,0:22:15.92,ED-CH,,0,0,0,,{\blur2}我要蛻變
+Dialogue: 0,0:22:16.17,0:22:18.28,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}奔走尋找意義
+Dialogue: 0,0:22:18.28,0:22:20.19,ED-CH,,0,0,0,,{\blur2}奔走尋找意義
+Dialogue: 0,0:22:20.36,0:22:22.45,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}忘卻自己為何人
+Dialogue: 0,0:22:22.45,0:22:24.16,ED-CH,,0,0,0,,{\blur2}忘卻自己為何人
+Dialogue: 0,0:22:24.16,0:22:26.41,ED-CH,,0,0,0,,{\blur2}忍住哭泣不想認輸
+Dialogue: 0,0:22:26.41,0:22:29.55,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}忍住哭泣不想認輸
+Dialogue: 0,0:22:30.50,0:22:32.50,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}告訴我
+Dialogue: 0,0:22:32.62,0:22:36.55,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}隨夜晚疾馳的搖曳
+Dialogue: 0,0:22:36.55,0:22:40.72,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}自在翱翔
+Dialogue: 0,0:22:40.84,0:22:44.92,ED-CH,,0,0,0,,{\blur2}更加自由地馳騁吧
+Dialogue: 0,0:22:44.92,0:22:48.26,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}仰望星空
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

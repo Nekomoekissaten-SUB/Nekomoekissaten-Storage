@@ -1,0 +1,648 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Brand New Animal [07][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
+Style: STAFF,华文中宋,25,&H00F9F9F9,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+Style: Screen,HYQiHei-65S,50,&H00FFFFFF,&H000000FF,&H00250F01,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: OP-JP,FOT-Rodin ProN EB,40,&H00A62BED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,20,128
+Style: OP-CH,HYQiHei-95S,37,&H00A62BED,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,22,1
+Style: ED-JP,FOT-Rodin ProN B,40,&H00FFFFFF,&H000000FF,&H00C226D9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,128
+Style: ED-CH,FZLanTingHei-B-GBK,37,&H00FFFFFF,&H000000FF,&H00C226D9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,19,1
+Style: Insert-JP,FOT-Rodin ProN B,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,9,30,30,50,128
+Style: Inser-CH,FZLanTingHei-B-GBK,37,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,9,30,30,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:21:45.14,0:21:50.44,STAFF,,0,0,0,,{\blur5\fad(500,500)}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途 \N\N翻譯: Saki 　校對: Dysonsphere　繁化: 風風　後期: MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:01:14.30,0:01:16.10,Default,,0,0,0,,警告飛行中的獸人
+Dialogue: 0,0:01:16.77,0:01:19.82,Default,,0,0,0,,你正擅自入侵日本領空
+Dialogue: 0,0:01:19.94,0:01:23.41,Default,,0,0,0,,請立刻著陸並按照規定手續入國
+Dialogue: 0,0:01:24.11,0:01:25.94,Default,,0,0,0,,我是漂泊信天翁
+Dialogue: 0,0:01:25.94,0:01:29.82,Default,,0,0,0,,根據國際候鳥條約我應是受保護的對象吧
+Dialogue: 0,0:01:30.11,0:01:32.85,Default,,0,0,0,,獸人並不符合候鳥條約
+Dialogue: 0,0:01:33.01,0:01:34.56,Default,,0,0,0,,如果繼續飛行
+Dialogue: 0,0:01:34.56,0:01:36.92,Default,,0,0,0,,我們將視此舉為侵犯領空 並進行攻擊
+Dialogue: 0,0:01:37.29,0:01:39.35,Default,,0,0,0,,這群人不懂得幽默嗎
+Dialogue: 0,0:01:39.49,0:01:41.38,Default,,0,0,0,,公務員可真死板
+Dialogue: 0,0:01:55.75,0:01:59.02,Default,,0,0,0,,把自己的正義強加給別人 擅自貼上可憐的標籤
+Dialogue: 0,0:01:59.13,0:02:01.21,Default,,0,0,0,,然後還自認為幫到了他人
+Dialogue: 0,0:02:01.38,0:02:04.02,Default,,0,0,0,,你這樣做只是想讓自己舒服而已吧
+Dialogue: 0,0:02:05.50,0:02:07.86,Default,,0,0,0,,明明好不容易才見面的 她這算什麼啊
+Dialogue: 0,0:02:08.11,0:02:08.86,Default,,0,0,0,,真是的
+Dialogue: 0,0:02:18.54,0:02:21.78,Default,,0,0,0,,就像《林白征空記》裡的狀況一樣
+Dialogue: 0,0:02:18.54,0:02:21.78,Default,,0,0,0,,{\an7\fs35}林白征空記: 美國電影 {\fax-0.2}The Spirit of St. Louis{\fax0}, 日譯名《翼よ! あれが巴里の灯だ》
+Dialogue: 0,0:02:22.07,0:02:24.66,Default,,0,0,0,,但我這裡還更嚴峻呢
+Dialogue: 0,0:02:34.37,0:02:36.49,Default,,0,0,0,,明明我也在努力著
+Dialogue: 0,0:02:36.93,0:02:38.81,Default,,0,0,0,,為什麼說強加於人啊
+Dialogue: 0,0:03:08.36,0:03:12.63,Default,,0,0,0,,啊 這可真是失策啊
+Dialogue: 0,0:03:13.04,0:03:14.67,Default,,0,0,0,,啊 你醒了
+Dialogue: 0,0:03:19.87,0:03:22.61,Default,,0,0,0,,啊 這是我做的嗎
+Dialogue: 0,0:03:23.05,0:03:26.27,Default,,0,0,0,,是的 漂亮地開了個洞呢
+Dialogue: 0,0:03:26.91,0:03:28.98,Default,,0,0,0,,你最好還是繼續休息吧
+Dialogue: 0,0:03:29.18,0:03:32.23,Default,,0,0,0,,啊這 看樣給你們添了不少麻煩
+Dialogue: 0,0:03:32.23,0:03:33.86,Default,,0,0,0,,讓我睡我也睡不下
+Dialogue: 0,0:03:34.71,0:03:37.11,Default,,0,0,0,,看樣好像沒受傷呢
+Dialogue: 0,0:03:42.26,0:03:43.67,Default,,0,0,0,,注意一下啊 小姑娘
+Dialogue: 0,0:03:43.94,0:03:45.14,Default,,0,0,0,,暴風要接近了
+Dialogue: 0,0:03:51.39,0:03:52.42,Default,,0,0,0,,小滿
+Dialogue: 0,0:04:06.69,0:04:09.13,Default,,0,0,0,,果然還是吃熱呼呼的食物舒服
+Dialogue: 0,0:04:09.33,0:04:10.91,Default,,0,0,0,,很久沒吃了嗎
+Dialogue: 0,0:04:11.13,0:04:13.57,Default,,0,0,0,,因為我一直在天上啊
+Dialogue: 0,0:04:13.76,0:04:16.72,Default,,0,0,0,,你也是逃來阿尼瑪市的獸人嗎
+Dialogue: 0,0:04:16.72,0:04:19.07,Default,,0,0,0,,是這樣的話 就要去獸民登錄
+Dialogue: 0,0:04:19.37,0:04:20.78,Default,,0,0,0,,我不會長時間停留的
+Dialogue: 0,0:04:21.25,0:04:23.58,Default,,0,0,0,,因為我是漂泊信天翁
+Dialogue: 0,0:04:23.86,0:04:26.33,Default,,0,0,0,,漂泊？是指候鳥嗎
+Dialogue: 0,0:04:26.63,0:04:27.40,Default,,0,0,0,,嗯
+Dialogue: 0,0:04:27.75,0:04:29.48,Default,,0,0,0,,真好啊
+Dialogue: 0,0:04:29.48,0:04:30.21,Default,,0,0,0,,好什麼
+Dialogue: 0,0:04:30.33,0:04:32.05,Default,,0,0,0,,你能在空中飛的吧
+Dialogue: 0,0:04:32.05,0:04:33.42,Default,,0,0,0,,不管是哪裡都能去
+Dialogue: 0,0:04:33.66,0:04:37.05,Default,,0,0,0,,如果我也能飛當初來這裡就不用那麼辛苦了
+Dialogue: 0,0:04:38.63,0:04:40.55,Default,,0,0,0,,小姑娘 來飛一下試試嗎
+Dialogue: 0,0:04:40.86,0:04:43.82,Default,,0,0,0,,欸 啊 嗯
+Dialogue: 0,0:04:44.37,0:04:46.55,Default,,0,0,0,,我調查了一下銀狼教團
+Dialogue: 0,0:04:46.79,0:04:50.06,Default,,0,0,0,,之前只是一個安穩的民間宗教級別的教團
+Dialogue: 0,0:04:50.06,0:04:51.24,Default,,0,0,0,,大概在半年前
+Dialogue: 0,0:04:51.36,0:04:53.81,Default,,0,0,0,,自從一個叫做克里夫·波利斯的男人進團後
+Dialogue: 0,0:04:53.81,0:04:56.87,Default,,0,0,0,,教團規模和勢力迅速擴大
+Dialogue: 0,0:04:57.31,0:05:00.47,Default,,0,0,0,,而且教祖還是貉女的好朋友
+Dialogue: 0,0:05:00.79,0:05:02.87,Default,,0,0,0,,患有獸人病的人類有兩名
+Dialogue: 0,0:05:02.87,0:05:04.66,Default,,0,0,0,,還是朋友關係
+Dialogue: 0,0:05:05.02,0:05:06.31,Default,,0,0,0,,說是偶然也太...
+Dialogue: 0,0:05:07.45,0:05:07.92,Default,,0,0,0,,對吧
+Dialogue: 0,0:05:08.48,0:05:10.16,Default,,0,0,0,,難道是從誰身上感染的嗎
+Dialogue: 0,0:05:10.43,0:05:12.88,Default,,0,0,0,,如果是這樣的話 那應該會傳染地更廣
+Dialogue: 0,0:05:13.35,0:05:14.38,Default,,0,0,0,,確實
+Dialogue: 0,0:05:14.71,0:05:16.47,Default,,0,0,0,,儘是深不見底的謎團
+Dialogue: 0,0:05:16.90,0:05:19.20,Default,,0,0,0,,教團的落戶已經許可了
+Dialogue: 0,0:05:19.44,0:05:22.46,Default,,0,0,0,,獸人病的話 能近距離監視比較好
+Dialogue: 0,0:05:23.51,0:05:25.21,Default,,0,0,0,,市長 有客人來了
+Dialogue: 0,0:05:27.06,0:05:28.69,Default,,0,0,0,,應該沒有預約吧
+Dialogue: 0,0:05:29.22,0:05:30.09,Default,,0,0,0,,那是因為…
+Dialogue: 0,0:05:31.94,0:05:34.92,Default,,0,0,0,,不請自來 非常抱歉
+Dialogue: 0,0:05:36.46,0:05:38.94,Default,,0,0,0,,許久不見了 芭芭拉·羅澤市長
+Dialogue: 0,0:05:39.34,0:05:42.58,Default,,0,0,0,,亞蘭會長 怎麼突然大駕光臨
+Dialogue: 0,0:05:42.75,0:05:45.13,Default,,0,0,0,,不好意思 我這人比較隨性
+Dialogue: 0,0:05:48.09,0:05:49.66,Default,,0,0,0,,亞蘭·西爾維斯特
+Dialogue: 0,0:05:49.79,0:05:52.71,Default,,0,0,0,,我是西爾維斯特製藥公司的會長 請多指教
+Dialogue: 0,0:05:53.24,0:05:54.55,Default,,0,0,0,,大神士郎
+Dialogue: 0,0:05:54.78,0:05:56.13,Default,,0,0,0,,你討厭握手嗎
+Dialogue: 0,0:05:56.47,0:05:59.07,Default,,0,0,0,,是的 因為會染上人類的味道
+Dialogue: 0,0:05:59.35,0:06:01.17,Default,,0,0,0,,啊 這真是抱歉了
+Dialogue: 0,0:06:01.62,0:06:03.84,Default,,0,0,0,,大神先生是市長的顧問
+Dialogue: 0,0:06:04.15,0:06:07.09,Default,,0,0,0,,從建設阿尼瑪市開始就受到他的幫助
+Dialogue: 0,0:06:07.54,0:06:10.13,Default,,0,0,0,,那我們的立場相似啊
+Dialogue: 0,0:06:10.54,0:06:13.22,Default,,0,0,0,,我出錢 你動腦
+Dialogue: 0,0:06:13.77,0:06:16.86,Default,,0,0,0,,西爾維斯特製藥爆炸案承蒙你關照了
+Dialogue: 0,0:06:17.55,0:06:18.86,Default,,0,0,0,,您已經知道了嗎
+Dialogue: 0,0:06:19.21,0:06:21.84,Default,,0,0,0,,你和那個可愛的助手小姑娘
+Dialogue: 0,0:06:21.97,0:06:25.13,Default,,0,0,0,,幫我們揭發了矢場他們愚蠢的犯罪
+Dialogue: 0,0:06:25.13,0:06:26.62,Default,,0,0,0,,我收到報告了
+Dialogue: 0,0:06:26.91,0:06:28.37,Default,,0,0,0,,可愛的助手？
+Dialogue: 0,0:06:28.94,0:06:31.38,Default,,0,0,0,,我說錯了嗎  那個貉一樣的孩子
+Dialogue: 0,0:06:31.99,0:06:33.25,Default,,0,0,0,,她並不可愛
+Dialogue: 0,0:06:33.79,0:06:36.11,Default,,0,0,0,,啊哈哈哈 客套話而已
+Dialogue: 0,0:06:36.46,0:06:37.96,Default,,0,0,0,,不要太當真
+Dialogue: 0,0:06:39.29,0:06:41.65,Default,,0,0,0,,突然不請自來非常抱歉
+Dialogue: 0,0:06:42.23,0:06:45.33,Default,,0,0,0,,銀狼教團似乎希望定居在這裡
+Dialogue: 0,0:06:47.23,0:06:49.75,Default,,0,0,0,,不過 我覺得還是作罷為妙
+Dialogue: 0,0:06:51.81,0:06:54.73,Default,,0,0,0,,這樣做的話 這個城市的目標就會崩潰
+Dialogue: 0,0:06:55.23,0:06:56.33,Default,,0,0,0,,說的沒錯
+Dialogue: 0,0:06:56.58,0:07:00.13,Default,,0,0,0,,阿尼瑪市是被迫害的獸人的避難所
+Dialogue: 0,0:07:00.53,0:07:03.71,Default,,0,0,0,,在這裡生活的獸人來習慣人類的文明
+Dialogue: 0,0:07:03.71,0:07:06.53,Default,,0,0,0,,並學習與人類共存的方式
+Dialogue: 0,0:07:07.22,0:07:09.00,Default,,0,0,0,,我對你的主張產生共鳴
+Dialogue: 0,0:07:09.00,0:07:12.37,Default,,0,0,0,,我作為人類代表為你提供資金援助
+Dialogue: 0,0:07:12.75,0:07:15.98,Default,,0,0,0,,是的 阿尼瑪市不會拒絕獸人
+Dialogue: 0,0:07:16.11,0:07:17.26,Default,,0,0,0,,但是為什麼
+Dialogue: 0,0:07:19.01,0:07:20.00,Default,,0,0,0,,是心血來潮？
+Dialogue: 0,0:07:21.49,0:07:24.18,Default,,0,0,0,,喔喔 真漂亮的牙齒
+Dialogue: 0,0:07:24.18,0:07:25.98,Default,,0,0,0,,不愧是狼獸人
+Dialogue: 0,0:07:26.13,0:07:27.06,Default,,0,0,0,,大神
+Dialogue: 0,0:07:27.86,0:07:30.57,Default,,0,0,0,,我非常清楚西爾維斯特財閥的年輕繼承人
+Dialogue: 0,0:07:30.63,0:07:33.97,Default,,0,0,0,,不是那種心血來潮採取行動的人
+Dialogue: 0,0:07:34.31,0:07:36.97,Default,,0,0,0,,不 你太抬舉我了
+Dialogue: 0,0:07:37.11,0:07:41.77,Default,,0,0,0,,我只是認為現在的阿尼瑪市不需要銀狼教團
+Dialogue: 0,0:07:41.86,0:07:42.54,Default,,0,0,0,,為什麼
+Dialogue: 0,0:07:43.13,0:07:45.86,Default,,0,0,0,,在推進獸人近代化的時候
+Dialogue: 0,0:07:45.86,0:07:49.41,Default,,0,0,0,,如果獸人邪教進來的話只會適得其反吧
+Dialogue: 0,0:07:49.60,0:07:51.49,Default,,0,0,0,,會刺激到反獸人那一方
+Dialogue: 0,0:07:52.01,0:07:53.10,Default,,0,0,0,,你知道嗎
+Dialogue: 0,0:07:53.40,0:07:56.89,Default,,0,0,0,,議員 獸人運動的組織者 記者
+Dialogue: 0,0:07:57.49,0:08:00.59,Default,,0,0,0,,最近獸人人權運動的中心人物
+Dialogue: 0,0:08:00.59,0:08:02.17,Default,,0,0,0,,在各地遭受襲擊
+Dialogue: 0,0:08:03.04,0:08:06.40,Default,,0,0,0,,還有未確認飛行獸人入侵的報導
+Dialogue: 0,0:08:06.73,0:08:09.30,Default,,0,0,0,,當然 決定權在你的手上
+Dialogue: 0,0:08:09.99,0:08:14.37,Default,,0,0,0,,根據你們的決定 我也會改變我的想法
+Dialogue: 0,0:08:15.15,0:08:16.02,Default,,0,0,0,,威脅嗎
+Dialogue: 0,0:08:16.28,0:08:17.35,Default,,0,0,0,,忠告而已
+Dialogue: 0,0:08:17.90,0:08:22.67,Default,,0,0,0,,還有 沒了所長的醫療中心今後由我直接看管
+Dialogue: 0,0:08:23.43,0:08:27.58,Default,,0,0,0,,可以的話還想繼續承蒙阿尼瑪市的關照呢
+Dialogue: 0,0:08:28.77,0:08:29.53,Default,,0,0,0,,告辭
+Dialogue: 0,0:08:33.82,0:08:35.89,Default,,0,0,0,,好舒服啊
+Dialogue: 0,0:08:36.62,0:08:39.08,Default,,0,0,0,,這座城市的風真有特點啊
+Dialogue: 0,0:08:39.85,0:08:41.06,Default,,0,0,0,,抓住了
+Dialogue: 0,0:08:49.83,0:08:51.68,Default,,0,0,0,,好厲害
+Dialogue: 0,0:08:51.93,0:08:54.14,Default,,0,0,0,,怎麼做到御風而行的
+Dialogue: 0,0:08:54.27,0:08:57.63,Default,,0,0,0,,怎麼做... 習慣了就知道了
+Dialogue: 0,0:08:57.84,0:09:00.59,Default,,0,0,0,,風從哪裡產生 會怎麼刮
+Dialogue: 0,0:09:00.73,0:09:02.57,Default,,0,0,0,,我從老爸那裡學習了
+Dialogue: 0,0:09:02.90,0:09:04.94,Default,,0,0,0,,老爸也是從他的老爸那裡學習的
+Dialogue: 0,0:09:04.94,0:09:07.69,Default,,0,0,0,,要說理論的話 濕氣啊氣壓啊之類的
+Dialogue: 0,0:09:07.69,0:09:10.03,Default,,0,0,0,,雖然有許多的繁瑣的理論
+Dialogue: 0,0:09:10.03,0:09:12.41,Default,,0,0,0,,不過獸人就是用身體來記住的
+Dialogue: 0,0:09:12.86,0:09:14.97,Default,,0,0,0,,真好啊 這麼自由
+Dialogue: 0,0:09:15.47,0:09:19.47,Default,,0,0,0,,自由嗎 以前的話是這樣呢
+Dialogue: 0,0:09:20.05,0:09:20.59,Default,,0,0,0,,欸？
+Dialogue: 0,0:09:21.37,0:09:25.90,Default,,0,0,0,,我們是候鳥獸人 和候鳥一樣漂泊各處
+Dialogue: 0,0:09:26.16,0:09:28.51,Default,,0,0,0,,代代先祖都是這麼做的
+Dialogue: 0,0:09:29.06,0:09:32.91,Default,,0,0,0,,但要是獸人和人類一樣能被承認具有人權的話
+Dialogue: 0,0:09:32.91,0:09:34.61,Default,,0,0,0,,漂泊就要被禁止了
+Dialogue: 0,0:09:34.87,0:09:40.27,Default,,0,0,0,,要跨越國境得好好拿到護照還要辦簽證之類的
+Dialogue: 0,0:09:41.02,0:09:42.67,Default,,0,0,0,,原來是這樣
+Dialogue: 0,0:09:43.21,0:09:46.18,Default,,0,0,0,,從太古開始祖先飛過的路線
+Dialogue: 0,0:09:46.62,0:09:48.95,Default,,0,0,0,,已經銘刻於我們身體裡
+Dialogue: 0,0:09:49.33,0:09:51.20,Default,,0,0,0,,事到如今已經改變不了了
+Dialogue: 0,0:09:52.25,0:09:55.26,Default,,0,0,0,,還有說著「為什麼我們要因為人類而不得不改變」
+Dialogue: 0,0:09:55.74,0:09:58.42,Default,,0,0,0,,然後被擊落的同伴
+Dialogue: 0,0:09:59.30,0:10:01.61,Default,,0,0,0,,說是侵犯國境
+Dialogue: 0,0:10:02.41,0:10:03.82,Default,,0,0,0,,怎麼會…
+Dialogue: 0,0:10:04.37,0:10:07.46,Default,,0,0,0,,人類的規則連獸人都要束縛
+Dialogue: 0,0:10:08.03,0:10:12.09,Default,,0,0,0,,人類這種東西有那麼偉大嗎
+Dialogue: 0,0:10:15.05,0:10:16.72,Default,,0,0,0,,我能拿一杯嗎
+Dialogue: 0,0:10:16.72,0:10:18.35,Default,,0,0,0,,這是獸人專用的
+Dialogue: 0,0:10:18.75,0:10:20.81,Default,,0,0,0,,啊 你能分辨出我是人類？
+Dialogue: 0,0:10:21.41,0:10:22.27,Default,,0,0,0,,靠氣味
+Dialogue: 0,0:10:22.62,0:10:24.73,Default,,0,0,0,,這樣嗎 無所謂了 給我一杯
+Dialogue: 0,0:10:25.39,0:10:26.16,Default,,0,0,0,,請用
+Dialogue: 0,0:10:29.07,0:10:32.28,Default,,0,0,0,,嗯 確實不是能喝的東西
+Dialogue: 0,0:10:33.80,0:10:36.23,Default,,0,0,0,,你打算對那小鬼唯命是從嗎
+Dialogue: 0,0:10:36.60,0:10:38.97,Default,,0,0,0,,雖然年輕但是也不能輕視他
+Dialogue: 0,0:10:39.51,0:10:42.99,Default,,0,0,0,,西爾維斯特財閥是歷史悠久的歐洲名門
+Dialogue: 0,0:10:43.34,0:10:46.70,Default,,0,0,0,,亞蘭在財閥也被視為中心人物
+Dialogue: 0,0:10:47.43,0:10:52.43,Default,,0,0,0,,你也知道這裡的資金是依賴於西爾維斯特製藥的吧
+Dialogue: 0,0:10:53.05,0:10:54.82,Default,,0,0,0,,雖然那個教團非常可疑
+Dialogue: 0,0:10:55.53,0:10:58.64,Default,,0,0,0,,但是聽命於人類我更加不能接受
+Dialogue: 0,0:10:59.29,0:11:02.71,Default,,0,0,0,,即使這樣 我們也不得不做出決定
+Dialogue: 0,0:11:03.61,0:11:08.69,Default,,0,0,0,,即便結果會得罪獸人們
+Dialogue: 0,0:11:11.50,0:11:13.54,Default,,0,0,0,,已經向政府確認了
+Dialogue: 0,0:11:13.73,0:11:15.90,Default,,0,0,0,,侵入國境的鳥獸人
+Dialogue: 0,0:11:15.90,0:11:18.63,Default,,0,0,0,,好像在阿尼瑪市附近隱藏了行蹤
+Dialogue: 0,0:11:18.93,0:11:22.69,Default,,0,0,0,,很有可能是反對獸人人權運動的恐怖分子
+Dialogue: 0,0:11:23.06,0:11:26.65,Default,,0,0,0,,看來亞蘭說的事情並不只是威脅呢
+Dialogue: 0,0:11:31.55,0:11:34.36,Default,,0,0,0,,那個笨蛋到底在幹什麼
+Dialogue: 0,0:11:38.74,0:11:42.02,Default,,0,0,0,,好了 飛行觀光結束了 小姑娘
+Dialogue: 0,0:11:46.35,0:11:48.54,Default,,0,0,0,,這個給你 雖然是美元
+Dialogue: 0,0:11:48.54,0:11:49.65,Default,,0,0,0,,當作是屋頂的修理費吧
+Dialogue: 0,0:11:50.08,0:11:50.56,Default,,0,0,0,,欸？
+Dialogue: 0,0:11:50.99,0:11:53.09,Default,,0,0,0,,我大概明天就不在這裡了
+Dialogue: 0,0:11:53.55,0:11:54.53,Default,,0,0,0,,要離別了
+Dialogue: 0,0:11:55.12,0:11:56.24,Default,,0,0,0,,已經要走了嗎
+Dialogue: 0,0:11:56.48,0:11:57.99,Default,,0,0,0,,因為我是候鳥啊
+Dialogue: 0,0:11:58.51,0:11:59.79,Default,,0,0,0,,這樣啊
+Dialogue: 0,0:12:01.30,0:12:02.91,Default,,0,0,0,,至少告訴我名字吧
+Dialogue: 0,0:12:03.18,0:12:03.72,Default,,0,0,0,,平加
+Dialogue: 0,0:12:09.81,0:12:11.53,Default,,0,0,0,,再見 平加先生
+Dialogue: 0,0:12:11.86,0:12:14.24,Default,,0,0,0,,如果再經過這裡要順便來這裡看看啊
+Dialogue: 0,0:12:24.95,0:12:26.27,Default,,0,0,0,,鳥獸人怎麼了
+Dialogue: 0,0:12:27.00,0:12:28.27,Default,,0,0,0,,平加的事情嗎
+Dialogue: 0,0:12:28.97,0:12:29.83,Default,,0,0,0,,已經走了喔
+Dialogue: 0,0:12:31.41,0:12:32.23,Default,,0,0,0,,幹什麼
+Dialogue: 0,0:12:32.58,0:12:35.33,Default,,0,0,0,,那傢伙可能是恐怖分子
+Dialogue: 0,0:12:35.50,0:12:38.11,Default,,0,0,0,,恐怖分子？怎麼可能
+Dialogue: 0,0:12:38.45,0:12:40.77,Default,,0,0,0,,他說了明天要離開這座城市
+Dialogue: 0,0:12:41.28,0:12:43.25,Default,,0,0,0,,那麼今晚可能就要採取行動了
+Dialogue: 0,0:12:44.48,0:12:46.02,Default,,0,0,0,,突然間怎麼了啊
+Dialogue: 0,0:12:46.17,0:12:48.21,Default,,0,0,0,,平加先生不是那樣的人
+Dialogue: 0,0:12:48.73,0:12:52.03,Default,,0,0,0,,那你和他一起飛了一下就知道了嗎
+Dialogue: 0,0:12:52.62,0:12:53.89,Default,,0,0,0,,你這說話方式…
+Dialogue: 0,0:12:54.03,0:12:57.09,Default,,0,0,0,,話說回來 為什麼知道我和他在飛行
+Dialogue: 0,0:12:57.30,0:12:58.98,Default,,0,0,0,,我從市政府看見了
+Dialogue: 0,0:12:59.36,0:13:01.70,Default,,0,0,0,,你們在那悠閒地飛著
+Dialogue: 0,0:13:02.69,0:13:04.11,Default,,0,0,0,,才不是悠閒
+Dialogue: 0,0:13:04.54,0:13:06.09,Default,,0,0,0,,完全不是
+Dialogue: 0,0:13:06.09,0:13:08.03,Default,,0,0,0,,只是士郎不知道而已
+Dialogue: 0,0:13:08.03,0:13:08.81,Default,,0,0,0,,不知道什麼
+Dialogue: 0,0:13:09.49,0:13:11.18,Default,,0,0,0,,我之前還不知道
+Dialogue: 0,0:13:11.73,0:13:15.63,Default,,0,0,0,,獸人即使拿到了人權也不一定會幸福
+Dialogue: 0,0:13:16.62,0:13:18.13,Default,,0,0,0,,候鳥問題嗎
+Dialogue: 0,0:13:18.59,0:13:19.74,Default,,0,0,0,,你知道啊
+Dialogue: 0,0:13:20.41,0:13:23.86,Default,,0,0,0,,平加先生的伙伴也遭到了攻擊
+Dialogue: 0,0:13:24.62,0:13:26.33,Default,,0,0,0,,那是因為他們有動機
+Dialogue: 0,0:13:26.55,0:13:29.77,Default,,0,0,0,,真是的 為什麼你老是以惡意揣測
+Dialogue: 0,0:13:29.77,0:13:33.51,Default,,0,0,0,,據說反獸人派的恐怖分子正在潛伏於阿尼瑪市
+Dialogue: 0,0:13:34.24,0:13:35.76,Default,,0,0,0,,而且還是鳥獸人
+Dialogue: 0,0:13:36.38,0:13:36.88,Default,,0,0,0,,欸？
+Dialogue: 0,0:13:37.32,0:13:39.47,Default,,0,0,0,,這種時機不得不懷疑他
+Dialogue: 0,0:13:40.23,0:13:42.08,Default,,0,0,0,,沒有時間論證了
+Dialogue: 0,0:13:42.85,0:13:46.03,Default,,0,0,0,,那麼 找到他把可疑之處排除掉的話就好了吧
+Dialogue: 0,0:13:46.59,0:13:47.66,Default,,0,0,0,,前提是能排除掉
+Dialogue: 0,0:13:48.06,0:13:49.61,Default,,0,0,0,,不用氣味追蹤嗎
+Dialogue: 0,0:13:49.82,0:13:51.22,Default,,0,0,0,,天上是盲區
+Dialogue: 0,0:13:51.51,0:13:53.65,Default,,0,0,0,,殘留的氣味會一瞬間飄散
+Dialogue: 0,0:13:54.00,0:13:55.34,Default,,0,0,0,,有其他的方法嗎
+Dialogue: 0,0:13:55.83,0:13:58.22,Default,,0,0,0,,即使沒有方法我也有線索
+Dialogue: 0,0:13:58.45,0:13:59.61,Default,,0,0,0,,等我一下
+Dialogue: 0,0:14:12.15,0:14:17.61,Default,,0,0,0,,羅澤市長拒絕了銀狼教團落戶於阿尼瑪市的申請
+Dialogue: 0,0:14:18.14,0:14:21.39,Default,,0,0,0,,並準備代替方案與教團交涉
+Dialogue: 0,0:14:22.25,0:14:25.93,Default,,0,0,0,,市長稱「沒有完善的公共基礎設施接納教團」
+Dialogue: 0,0:14:26.19,0:14:28.61,Default,,0,0,0,,只能暫時請他們移動到別的地方
+Dialogue: 0,0:14:28.61,0:14:31.27,Default,,0,0,0,,後續會做好能夠接納他們的準備
+Dialogue: 0,0:14:34.10,0:14:34.97,Default,,0,0,0,,這樣好嗎
+Dialogue: 0,0:14:36.22,0:14:38.55,Default,,0,0,0,,嗯 全部都在預料之中
+Dialogue: 0,0:14:43.02,0:14:45.10,Default,,0,0,0,,喂 教團他們行動了
+Dialogue: 0,0:14:45.51,0:14:46.81,Default,,0,0,0,,什麼 真的嗎
+Dialogue: 0,0:14:46.94,0:14:49.15,Default,,0,0,0,,嗯 銀狼大人正在帶頭前進
+Dialogue: 0,0:14:49.35,0:14:50.51,Default,,0,0,0,,銀狼大人嗎
+Dialogue: 0,0:14:52.98,0:14:54.74,Default,,0,0,0,,我們銀狼教團
+Dialogue: 0,0:14:54.74,0:14:57.66,Default,,0,0,0,,希望能落戶在阿尼瑪市
+Dialogue: 0,0:14:58.05,0:15:01.13,Default,,0,0,0,,但是 羅澤市長拒絕了我們
+Dialogue: 0,0:15:01.59,0:15:04.59,Default,,0,0,0,,這是市長對西爾維斯特製藥的顧慮
+Dialogue: 0,0:15:04.84,0:15:07.72,Default,,0,0,0,,可是 我們並不是狂熱的信徒
+Dialogue: 0,0:15:08.38,0:15:11.22,Default,,0,0,0,,只是希望在獸人的樂土生活
+Dialogue: 0,0:15:11.46,0:15:15.72,Default,,0,0,0,,來吧 一起祈禱吧 希望全部的誤會都能解開
+Dialogue: 0,0:15:24.70,0:15:26.41,Default,,0,0,0,,幸甚至哉
+Dialogue: 0,0:15:26.53,0:15:29.14,Default,,0,0,0,,銀狼只是保護獸人之神
+Dialogue: 0,0:15:29.35,0:15:34.45,Default,,0,0,0,,那閃耀將會永遠給獸人帶來平安
+Dialogue: 0,0:15:36.50,0:15:39.14,Default,,0,0,0,,教團在醫療中心大門集會
+Dialogue: 0,0:15:39.46,0:15:42.18,Default,,0,0,0,,看來是察覺到這是亞蘭會長做的了
+Dialogue: 0,0:15:42.94,0:15:45.92,Default,,0,0,0,,並不是天啟什麼的吧
+Dialogue: 0,0:15:46.24,0:15:50.17,Default,,0,0,0,,目擊到他來市政府的人再怎麼說也是有的
+Dialogue: 0,0:15:50.70,0:15:52.63,Default,,0,0,0,,總之 先聯繫警察吧
+Dialogue: 0,0:15:53.22,0:15:56.56,Default,,0,0,0,,現在只能觀察下情況 不能亂來
+Dialogue: 0,0:16:16.35,0:16:18.54,Default,,0,0,0,,好了 開始吧
+Dialogue: 0,0:16:31.68,0:16:32.87,Default,,0,0,0,,你幹什麼啊
+Dialogue: 0,0:16:38.23,0:16:40.31,Default,,0,0,0,,阿尼瑪市不允許恐怖分子的存在
+Dialogue: 0,0:16:40.86,0:16:43.06,Default,,0,0,0,,希望你不要妨礙我啊
+Dialogue: 0,0:16:47.31,0:16:48.35,Default,,0,0,0,,士郎
+Dialogue: 0,0:16:51.21,0:16:53.62,Default,,0,0,0,,啊 要是我能飛的話
+Dialogue: 0,0:16:53.72,0:16:55.59,Default,,0,0,0,,不要怪我喔
+Dialogue: 0,0:17:21.95,0:17:23.86,Default,,0,0,0,,我要
+Dialogue: 0,0:17:24.26,0:17:27.10,Default,,0,0,0,,飛
+Dialogue: 0,0:17:30.48,0:17:32.04,Default,,0,0,0,,你能飛的嗎
+Dialogue: 0,0:17:32.39,0:17:33.98,Default,,0,0,0,,這是第一次
+Dialogue: 0,0:17:33.98,0:17:34.74,Default,,0,0,0,,第一次？
+Dialogue: 0,0:17:34.74,0:17:35.70,Default,,0,0,0,,是的
+Dialogue: 0,0:17:38.22,0:17:39.69,Default,,0,0,0,,能飛到他上面去嗎
+Dialogue: 0,0:17:39.83,0:17:40.86,Default,,0,0,0,,交給我吧
+Dialogue: 0,0:17:49.54,0:17:51.93,Default,,0,0,0,,喂喂 還有這種事情的嗎
+Dialogue: 0,0:17:56.15,0:17:57.56,Default,,0,0,0,,這次不會讓你跑掉了
+Dialogue: 0,0:18:08.65,0:18:10.65,Default,,0,0,0,,貉小姐嗎
+Dialogue: 0,0:18:10.89,0:18:12.99,Default,,0,0,0,,是我被騙了嗎
+Dialogue: 0,0:18:13.31,0:18:15.82,Default,,0,0,0,,你曾經是軍人吧
+Dialogue: 0,0:18:16.51,0:18:19.17,Default,,0,0,0,,沒錯 年輕的時候在獸人部隊待過
+Dialogue: 0,0:18:19.54,0:18:24.42,Default,,0,0,0,,相信著獸人人權這東西和激進的反獸人派戰鬥
+Dialogue: 0,0:18:24.79,0:18:27.09,Default,,0,0,0,,結果最後連遷徙都做不了
+Dialogue: 0,0:18:27.09,0:18:28.87,Default,,0,0,0,,真是想不到啊
+Dialogue: 0,0:18:29.32,0:18:30.37,Default,,0,0,0,,即使是這樣
+Dialogue: 0,0:18:31.34,0:18:33.60,Default,,0,0,0,,即使這樣你覺得當恐怖分子真的好嗎
+Dialogue: 0,0:18:33.85,0:18:36.09,Default,,0,0,0,,你真想襲擊市長嗎
+Dialogue: 0,0:18:36.32,0:18:37.99,Default,,0,0,0,,炸彈只是虛張聲勢而已
+Dialogue: 0,0:18:38.40,0:18:39.85,Default,,0,0,0,,沒有殺傷力的
+Dialogue: 0,0:18:40.15,0:18:43.54,Default,,0,0,0,,要對方答應要求肯定得準備一些威懾的東西
+Dialogue: 0,0:18:43.54,0:18:45.65,Default,,0,0,0,,畢竟官員是信不過的啊
+Dialogue: 0,0:18:47.52,0:18:48.86,Default,,0,0,0,,那麼要怎麼辦
+Dialogue: 0,0:18:49.51,0:18:51.68,Default,,0,0,0,,我只是想守護這座城市而已
+Dialogue: 0,0:18:52.11,0:18:52.70,Default,,0,0,0,,滾吧
+Dialogue: 0,0:18:53.21,0:18:54.09,Default,,0,0,0,,現在立刻
+Dialogue: 0,0:18:55.45,0:18:57.07,Default,,0,0,0,,你現在還什麼都沒有做
+Dialogue: 0,0:19:00.83,0:19:01.75,Default,,0,0,0,,小姑娘
+Dialogue: 0,0:19:03.71,0:19:08.42,Default,,0,0,0,,這是捲近戰爭和人類間的權利鬥爭死去的戰友
+Dialogue: 0,0:19:08.98,0:19:11.11,Default,,0,0,0,,如果這裡是獸人的城市
+Dialogue: 0,0:19:11.58,0:19:14.38,Default,,0,0,0,,我希望能在這裡做他們的墓碑
+Dialogue: 0,0:19:15.05,0:19:16.65,Default,,0,0,0,,幫我向市長傳達
+Dialogue: 0,0:19:17.17,0:19:17.65,Default,,0,0,0,,嗯
+Dialogue: 0,0:19:18.65,0:19:20.92,Default,,0,0,0,,我一定會傳達的
+Dialogue: 0,0:19:22.53,0:19:25.85,Default,,0,0,0,,對了 飛來這座城市的不只我一個
+Dialogue: 0,0:19:26.01,0:19:27.14,Default,,0,0,0,,還有一個人
+Dialogue: 0,0:19:28.33,0:19:31.15,Default,,0,0,0,,能以那種速度飛的只有一個人
+Dialogue: 0,0:19:31.57,0:19:34.28,Default,,0,0,0,,在暗世界裡被稱為流星
+Dialogue: 0,0:19:34.90,0:19:37.30,Default,,0,0,0,,只要給錢什麼都乾的殺手
+Dialogue: 0,0:19:37.45,0:19:38.42,Default,,0,0,0,,小心點
+Dialogue: 0,0:19:39.03,0:19:40.78,Default,,0,0,0,,他目標是市長嗎
+Dialogue: 0,0:19:41.19,0:19:43.95,Default,,0,0,0,,不 如果是這樣的話我會察覺到的
+Dialogue: 0,0:19:44.79,0:19:46.05,Default,,0,0,0,,也就是說
+Dialogue: 0,0:19:48.87,0:19:51.51,Default,,0,0,0,,會長 現在出去很危險
+Dialogue: 0,0:19:51.51,0:19:55.13,Default,,0,0,0,,沒事 要是迴避會更複雜
+Dialogue: 0,0:20:12.54,0:20:13.50,Default,,0,0,0,,來晚一步嗎
+Dialogue: 0,0:20:14.07,0:20:15.33,Default,,0,0,0,,那是什麼
+Dialogue: 0,0:20:15.33,0:20:16.55,Default,,0,0,0,,能再飛一次嗎
+Dialogue: 0,0:20:37.30,0:20:39.98,Default,,0,0,0,,看吧 有著翅膀的銀狼
+Dialogue: 0,0:20:40.41,0:20:45.42,Default,,0,0,0,,那份恩惠不僅只傾注於獸人 連人類也可以享有
+Dialogue: 0,0:20:45.79,0:20:48.81,Default,,0,0,0,,我們的教祖 德斯路烏
+Dialogue: 0,0:20:49.20,0:20:53.61,Default,,0,0,0,,正是拯救獸人世界的偉人
+Dialogue: 0,0:20:55.62,0:20:57.74,Default,,0,0,0,,已經失敗了 放棄吧
+Dialogue: 0,0:21:22.02,0:21:24.51,Default,,0,0,0,,聽吧 市民們的呼聲
+Dialogue: 0,0:21:24.80,0:21:28.64,Default,,0,0,0,,你能夠無視這呼聲嗎 亞蘭·西爾維斯特
+Dialogue: 0,0:21:29.89,0:21:31.74,Default,,0,0,0,,這下可真傷腦筋啊
+Dialogue: 0,0:21:39.86,0:21:40.79,Default,,0,0,0,,好厲害
+Dialogue: 0,0:21:40.79,0:21:41.30,Default,,0,0,0,,嗯？
+Dialogue: 0,0:21:41.91,0:21:43.38,Default,,0,0,0,,好厲害 薺
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:07:58.87,0:08:00.13,Screen,,0,0,0,,{\fnHYQiHei-95S\bord3\fax-0.15\c&H5C45CD&\3c&HFFF3EB&\pos(789,536)}中華街的爆炸聲 疑為恐怖攻擊
+Dialogue: 0,0:14:13.16,0:14:13.20,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx100\fscy100\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(431,363)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.20,0:14:13.24,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.89\fscy99.89\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(430.66,362.57)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.24,0:14:13.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.79\fscy99.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(430.3,362.13)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.29,0:14:13.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.69\fscy99.69\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(429.97,361.7)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.33,0:14:13.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.59\fscy99.59\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(429.63,361.27)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.37,0:14:13.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.49\fscy99.49\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(429.28,360.83)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.41,0:14:13.45,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.38\fscy99.38\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(428.94,360.39)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.45,0:14:13.49,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.28\fscy99.28\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(428.59,359.96)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.49,0:14:13.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.18\fscy99.18\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(428.25,359.53)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.54,0:14:13.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx99.09\fscy99.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(427.91,359.11)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.58,0:14:13.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.98\fscy98.98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(427.58,358.67)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.62,0:14:13.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.88\fscy98.88\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(427.22,358.24)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.66,0:14:13.70,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.79\fscy98.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(426.89,357.82)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.70,0:14:13.74,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.69\fscy98.69\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(426.55,357.38)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.74,0:14:13.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.59\fscy98.59\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(426.21,356.95)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.79,0:14:13.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.49\fscy98.49\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(425.87,356.53)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.83,0:14:13.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.39\fscy98.39\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(425.54,356.11)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.87,0:14:13.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.29\fscy98.29\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(425.19,355.68)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.91,0:14:13.95,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.2\fscy98.2\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(424.86,355.26)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.95,0:14:13.99,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98.09\fscy98.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(424.52,354.84)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:13.99,0:14:14.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx98\fscy98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(424.19,354.43)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.04,0:14:14.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.9\fscy97.9\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(423.85,354.01)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.08,0:14:14.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.8\fscy97.8\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(423.52,353.58)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.12,0:14:14.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.71\fscy97.71\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(423.18,353.16)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.16,0:14:14.20,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.61\fscy97.61\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(422.86,352.75)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.20,0:14:14.24,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.52\fscy97.52\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(422.53,352.34)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.24,0:14:14.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.42\fscy97.42\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(422.19,351.9)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.29,0:14:14.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.32\fscy97.32\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(421.86,351.49)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.33,0:14:14.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.23\fscy97.23\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(421.54,351.1)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.37,0:14:14.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.13\fscy97.13\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(421.21,350.68)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.41,0:14:14.45,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx97.03\fscy97.03\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(420.87,350.27)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.45,0:14:14.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.94\fscy96.94\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(420.54,349.86)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.50,0:14:14.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.84\fscy96.84\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(420.22,349.44)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.54,0:14:14.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.74\fscy96.74\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(419.89,349.03)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.58,0:14:14.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.64\fscy96.64\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(419.57,348.62)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.62,0:14:14.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.56\fscy96.56\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(419.24,348.2)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.66,0:14:14.70,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.47\fscy96.47\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(418.92,347.81)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.70,0:14:14.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.37\fscy96.37\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(418.59,347.4)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.75,0:14:14.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.28\fscy96.28\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(418.26,346.98)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.79,0:14:14.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.18\fscy96.18\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(417.95,346.58)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.83,0:14:14.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx96.09\fscy96.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(417.63,346.17)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.87,0:14:14.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.99\fscy95.99\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(417.31,345.77)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.91,0:14:14.95,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.9\fscy95.9\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.99,345.35)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:14.95,0:14:15.00,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.8\fscy95.8\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.66,344.95)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.00,0:14:15.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.72\fscy95.72\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.34,344.56)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.04,0:14:15.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.62\fscy95.62\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(416.02,344.16)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.08,0:14:15.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.53\fscy95.53\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(415.7,343.76)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.12,0:14:15.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.43\fscy95.43\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(415.39,343.36)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.16,0:14:15.20,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.35\fscy95.35\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(415.07,342.96)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.20,0:14:15.25,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.25\fscy95.25\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(414.75,342.57)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.25,0:14:15.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.16\fscy95.16\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(414.42,342.17)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.29,0:14:15.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx95.07\fscy95.07\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(414.12,341.77)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.33,0:14:15.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.98\fscy94.98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(413.8,341.39)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.37,0:14:15.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.89\fscy94.89\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(413.49,341)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.41,0:14:15.45,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.79\fscy94.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(413.17,340.59)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.45,0:14:15.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.71\fscy94.71\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(412.85,340.21)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.50,0:14:15.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.61\fscy94.61\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(412.55,339.82)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.54,0:14:15.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.52\fscy94.52\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(412.24,339.42)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.58,0:14:15.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.44\fscy94.44\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(411.92,339.03)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.62,0:14:15.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.35\fscy94.35\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(411.61,338.65)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.66,0:14:15.70,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.26\fscy94.26\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(411.31,338.26)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.70,0:14:15.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.16\fscy94.16\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.99,337.86)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.75,0:14:15.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx94.07\fscy94.07\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.67,337.47)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.79,0:14:15.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.98\fscy93.98\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.37,337.07)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.83,0:14:15.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.9\fscy93.9\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(410.06,336.7)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.87,0:14:15.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.81\fscy93.81\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(409.76,336.32)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.91,0:14:15.95,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.72\fscy93.72\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(409.45,335.93)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:15.95,0:14:16.00,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.62\fscy93.62\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(409.14,335.54)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.00,0:14:16.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.54\fscy93.54\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(408.84,335.17)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.04,0:14:16.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.45\fscy93.45\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(408.54,334.79)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.08,0:14:16.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.36\fscy93.36\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(408.23,334.41)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.12,0:14:16.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.28\fscy93.28\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.93,334.03)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.16,0:14:16.21,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.19\fscy93.19\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.63,333.63)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.21,0:14:16.25,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.09\fscy93.09\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.32,333.25)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.25,0:14:16.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx93.01\fscy93.01\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(407.02,332.88)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.29,0:14:16.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.92\fscy92.92\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(406.72,332.5)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.33,0:14:16.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.83\fscy92.83\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(406.42,332.12)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.37,0:14:16.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.74\fscy92.74\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(406.12,331.75)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.41,0:14:16.46,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.66\fscy92.66\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(405.82,331.36)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.46,0:14:16.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.57\fscy92.57\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(405.52,330.99)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.50,0:14:16.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.49\fscy92.49\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(405.21,330.62)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.54,0:14:16.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.39\fscy92.39\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.92,330.23)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.58,0:14:16.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.31\fscy92.31\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.62,329.86)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.62,0:14:16.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.22\fscy92.22\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.32,329.48)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.66,0:14:16.71,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.14\fscy92.14\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(404.03,329.13)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.71,0:14:16.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx92.04\fscy92.04\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(403.74,328.74)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.75,0:14:16.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.96\fscy91.96\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(403.44,328.37)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.79,0:14:16.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.88\fscy91.88\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(403.14,328.01)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.83,0:14:16.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.79\fscy91.79\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(402.85,327.64)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.87,0:14:16.91,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.71\fscy91.71\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(402.56,327.29)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.91,0:14:16.96,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.61\fscy91.61\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(402.27,326.9)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:16.96,0:14:17.00,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.53\fscy91.53\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.97,326.53)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.00,0:14:17.04,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.44\fscy91.44\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.69,326.16)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.04,0:14:17.08,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.36\fscy91.36\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.39,325.79)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.08,0:14:17.12,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.27\fscy91.27\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(401.11,325.43)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.12,0:14:17.16,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.19\fscy91.19\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(400.81,325.05)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.16,0:14:17.21,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.1\fscy91.1\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(400.52,324.69)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.21,0:14:17.25,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx91.02\fscy91.02\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(400.24,324.33)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.25,0:14:17.29,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.93\fscy90.93\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.95,323.98)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.29,0:14:17.33,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.85\fscy90.85\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.66,323.6)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.33,0:14:17.37,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.77\fscy90.77\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.37,323.26)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.37,0:14:17.41,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.68\fscy90.68\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(399.08,322.9)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.41,0:14:17.46,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.6\fscy90.6\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(398.78,322.52)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.46,0:14:17.50,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.51\fscy90.51\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(398.5,322.17)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.50,0:14:17.54,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.44\fscy90.44\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(398.23,321.82)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.54,0:14:17.58,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.35\fscy90.35\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.94,321.47)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.58,0:14:17.62,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.26\fscy90.26\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.65,321.12)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.62,0:14:17.66,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.18\fscy90.18\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.37,320.75)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.66,0:14:17.71,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.1\fscy90.1\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(397.08,320.38)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.71,0:14:17.75,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx90.02\fscy90.02\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(396.8,320.03)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.75,0:14:17.79,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx89.94\fscy89.94\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(396.53,319.68)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.79,0:14:17.83,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx89.85\fscy89.85\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(396.22,319.32)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.83,0:14:17.87,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs20\bord1\fscx89.78\fscy89.78\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(395.94,318.97)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Dialogue: 0,0:14:17.88,0:14:23.51,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\bord3\c&H908481&\3c&HFFF2EB&\1a&H00&\pos(646,525)}阿尼瑪市 拒絕{\c&HBB7EEA&}銀狼教團
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:01.40,0:00:04.32,OP-JP,,0,0,0,,{\an5\fs20\blur0.8\frx0\fry14\frz3.34\move(659,569,664,566,18,2896)\t(18,2896,\fscy135.53\fscx135.53\fry8\frz0.54)}Hey, are you ready to Go？
+Dialogue: 0,0:00:04.69,0:00:07.82,OP-JP,,0,0,0,,Cuz, you know the way to go
+Dialogue: 0,0:00:08.19,0:00:08.23,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.55\pos(283,714)}信じたい　選んだ way
+Dialogue: 0,0:00:08.23,0:00:08.27,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.48\pos(282.72,710.53)}信じたい　選んだ way
+Dialogue: 0,0:00:08.27,0:00:08.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.46\pos(282.79,707)}信じたい　選んだ way
+Dialogue: 0,0:00:08.32,0:00:08.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.39\pos(282.44,703.54)}信じたい　選んだ way
+Dialogue: 0,0:00:08.36,0:00:08.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.31\pos(282.14,700.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.40,0:00:08.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.31\pos(282.29,696.53)}信じたい　選んだ way
+Dialogue: 0,0:00:08.44,0:00:08.48,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.22\pos(281.85,693.06)}信じたい　選んだ way
+Dialogue: 0,0:00:08.48,0:00:08.52,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.16\pos(281.64,689.55)}信じたい　選んだ way
+Dialogue: 0,0:00:08.52,0:00:08.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.16\pos(281.84,686.03)}信じたい　選んだ way
+Dialogue: 0,0:00:08.57,0:00:08.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.07\pos(281.48,682.55)}信じたい　選んだ way
+Dialogue: 0,0:00:08.61,0:00:08.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.98\pos(281.05,679.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.65,0:00:08.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz3.02\pos(281.48,675.51)}信じたい　選んだ way
+Dialogue: 0,0:00:08.69,0:00:08.73,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.91\pos(280.95,672.08)}信じたい　選んだ way
+Dialogue: 0,0:00:08.73,0:00:08.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.83\pos(280.6,668.6)}信じたい　選んだ way
+Dialogue: 0,0:00:08.78,0:00:08.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.82\pos(280.78,665.07)}信じたい　選んだ way
+Dialogue: 0,0:00:08.82,0:00:08.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.73\pos(280.39,661.58)}信じたい　選んだ way
+Dialogue: 0,0:00:08.86,0:00:08.90,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.65\pos(280.09,658.11)}信じたい　選んだ way
+Dialogue: 0,0:00:08.90,0:00:08.94,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.66\pos(280.38,654.57)}信じたい　選んだ way
+Dialogue: 0,0:00:08.94,0:00:08.98,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.58\pos(280.04,651.1)}信じたい　選んだ way
+Dialogue: 0,0:00:08.98,0:00:09.03,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.48\pos(279.61,647.62)}信じたい　選んだ way
+Dialogue: 0,0:00:09.03,0:00:09.07,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.5\pos(279.93,644.08)}信じたい　選んだ way
+Dialogue: 0,0:00:09.07,0:00:09.11,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.4\pos(279.52,640.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.11,0:00:09.15,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.35\pos(279.43,637.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.15,0:00:09.19,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.33\pos(279.54,633.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.19,0:00:09.23,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.28\pos(279.42,630.07)}信じたい　選んだ way
+Dialogue: 0,0:00:09.23,0:00:09.28,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.18\pos(279.03,626.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.28,0:00:09.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.18\pos(279.27,623.07)}信じたい　選んだ way
+Dialogue: 0,0:00:09.32,0:00:09.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.09\pos(278.89,619.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.36,0:00:09.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz2.02\pos(278.71,616.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.40,0:00:09.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.99\pos(278.77,612.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.44,0:00:09.48,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.94\pos(278.66,609.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.48,0:00:09.53,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.87\pos(278.43,605.64)}信じたい　選んだ way
+Dialogue: 0,0:00:09.53,0:00:09.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.82\pos(278.36,602.12)}信じたい　選んだ way
+Dialogue: 0,0:00:09.57,0:00:09.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.79\pos(278.45,598.6)}信じたい　選んだ way
+Dialogue: 0,0:00:09.61,0:00:09.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.7\pos(278.13,595.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.65,0:00:09.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.69\pos(278.32,591.61)}信じたい　選んだ way
+Dialogue: 0,0:00:09.69,0:00:09.73,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.63\pos(278.24,588.1)}信じたい　選んだ way
+Dialogue: 0,0:00:09.73,0:00:09.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.54\pos(277.96,584.63)}信じたい　選んだ way
+Dialogue: 0,0:00:09.78,0:00:09.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.5\pos(277.91,581.14)}信じたい　選んだ way
+Dialogue: 0,0:00:09.82,0:00:09.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.45\pos(277.9,577.62)}信じたい　選んだ way
+Dialogue: 0,0:00:09.86,0:00:09.90,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.36\pos(277.62,574.15)}信じたい　選んだ way
+Dialogue: 0,0:00:09.90,0:00:09.94,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.35\pos(277.74,570.64)}信じたい　選んだ way
+Dialogue: 0,0:00:09.94,0:00:09.98,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.27\pos(277.6,567.13)}信じたい　選んだ way
+Dialogue: 0,0:00:09.98,0:00:10.03,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.22\pos(277.5,563.64)}信じたい　選んだ way
+Dialogue: 0,0:00:10.03,0:00:10.07,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.17\pos(277.46,560.12)}信じたい　選んだ way
+Dialogue: 0,0:00:10.07,0:00:10.11,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.13\pos(277.52,556.63)}信じたい　選んだ way
+Dialogue: 0,0:00:10.11,0:00:10.15,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.07\pos(277.41,553.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.15,0:00:10.19,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz1.05\pos(277.59,549.6)}信じたい　選んだ way
+Dialogue: 0,0:00:10.19,0:00:10.24,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.97\pos(277.43,546.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.24,0:00:10.28,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.93\pos(277.46,542.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.28,0:00:10.32,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.89\pos(277.46,539.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.32,0:00:10.36,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.83\pos(277.45,535.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.36,0:00:10.40,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.76\pos(277.32,532.11)}信じたい　選んだ way
+Dialogue: 0,0:00:10.40,0:00:10.44,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.72\pos(277.37,528.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.44,0:00:10.49,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.7\pos(277.59,525.11)}信じたい　選んだ way
+Dialogue: 0,0:00:10.49,0:00:10.53,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.59\pos(277.12,521.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.53,0:00:10.57,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.55\pos(277.24,518.14)}信じたい　選んだ way
+Dialogue: 0,0:00:10.57,0:00:10.61,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.49\pos(277.15,514.62)}信じたい　選んだ way
+Dialogue: 0,0:00:10.61,0:00:10.65,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.45\pos(277.26,511.13)}信じたい　選んだ way
+Dialogue: 0,0:00:10.65,0:00:10.69,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.41\pos(277.34,507.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.69,0:00:10.74,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.36\pos(277.3,504.1)}信じたい　選んだ way
+Dialogue: 0,0:00:10.74,0:00:10.78,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.29\pos(277.26,500.61)}信じたい　選んだ way
+Dialogue: 0,0:00:10.78,0:00:10.82,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.24\pos(277.26,497.1)}信じたい　選んだ way
+Dialogue: 0,0:00:10.82,0:00:10.86,OP-JP,,0,0,0,,{\an6\fs30\blur0.6\frz0.17\pos(277.27,493.12)}信じたい　選んだ way
+Dialogue: 0,0:00:11.24,0:00:14.45,OP-JP,,0,0,0,,さあ　行こう　The brand new world
+Dialogue: 0,0:00:27.62,0:00:34.08,OP-JP,,0,0,0,,誰もが息を潜めて　境界線をなぞり続けてる
+Dialogue: 0,0:00:34.24,0:00:40.66,OP-JP,,0,0,0,,声なき声の向こうに　踏み出すあなたへ届くよう
+Dialogue: 0,0:00:40.66,0:00:47.07,OP-JP,,0,0,0,,一瞬だって　止まらない　世界を駆け抜けて
+Dialogue: 0,0:00:47.29,0:00:50.59,OP-JP,,0,0,0,,彩れ　あなたらしくあれば
+Dialogue: 0,0:00:50.59,0:00:53.66,OP-JP,,0,0,0,,いつだって　何度でも変われる
+Dialogue: 0,0:00:53.66,0:00:57.12,OP-JP,,0,0,0,,果てなく　伸びる影を越えて
+Dialogue: 0,0:00:57.12,0:01:00.52,OP-JP,,0,0,0,,Take on your will 迷わずに Go ahead
+Dialogue: 0,0:00:08.19,0:00:08.23,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz0.07\pos(276.62,446.93)}相信所選道路
+Dialogue: 0,0:00:08.23,0:00:08.27,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz0\pos(276.67,443.46)}相信所選道路
+Dialogue: 0,0:00:08.27,0:00:08.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.01\pos(276.8,439.93)}相信所選道路
+Dialogue: 0,0:00:08.32,0:00:08.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.09\pos(276.81,436.45)}相信所選道路
+Dialogue: 0,0:00:08.36,0:00:08.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.16\pos(276.86,432.99)}相信所選道路
+Dialogue: 0,0:00:08.40,0:00:08.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.17\pos(277.03,429.43)}相信所選道路
+Dialogue: 0,0:00:08.44,0:00:08.48,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.26\pos(277.02,425.96)}相信所選道路
+Dialogue: 0,0:00:08.48,0:00:08.52,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.32\pos(277.07,422.45)}相信所選道路
+Dialogue: 0,0:00:08.52,0:00:08.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.32\pos(277.28,418.92)}相信所選道路
+Dialogue: 0,0:00:08.57,0:00:08.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.4\pos(277.31,415.44)}相信所選道路
+Dialogue: 0,0:00:08.61,0:00:08.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.49\pos(277.3,411.96)}相信所選道路
+Dialogue: 0,0:00:08.65,0:00:08.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.46\pos(277.58,408.4)}相信所選道路
+Dialogue: 0,0:00:08.69,0:00:08.73,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.57\pos(277.56,404.96)}相信所選道路
+Dialogue: 0,0:00:08.73,0:00:08.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.65\pos(277.58,401.48)}相信所選道路
+Dialogue: 0,0:00:08.78,0:00:08.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.66\pos(277.8,397.94)}相信所選道路
+Dialogue: 0,0:00:08.82,0:00:08.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.75\pos(277.83,394.45)}相信所選道路
+Dialogue: 0,0:00:08.86,0:00:08.90,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.82\pos(277.88,390.97)}相信所選道路
+Dialogue: 0,0:00:08.90,0:00:08.94,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.81\pos(278.13,387.44)}相信所選道路
+Dialogue: 0,0:00:08.94,0:00:08.98,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.9\pos(278.18,383.96)}相信所選道路
+Dialogue: 0,0:00:08.98,0:00:09.03,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.99\pos(278.19,380.48)}相信所選道路
+Dialogue: 0,0:00:09.03,0:00:09.07,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-0.98\pos(278.45,376.94)}相信所選道路
+Dialogue: 0,0:00:09.07,0:00:09.11,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.08\pos(278.49,373.46)}相信所選道路
+Dialogue: 0,0:00:09.11,0:00:09.15,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.12\pos(278.63,369.96)}相信所選道路
+Dialogue: 0,0:00:09.15,0:00:09.19,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.14\pos(278.82,366.45)}相信所選道路
+Dialogue: 0,0:00:09.19,0:00:09.23,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.2\pos(278.96,362.93)}相信所選道路
+Dialogue: 0,0:00:09.23,0:00:09.28,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.29\pos(279.02,359.46)}相信所選道路
+Dialogue: 0,0:00:09.28,0:00:09.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.29\pos(279.25,355.93)}相信所選道路
+Dialogue: 0,0:00:09.32,0:00:09.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.39\pos(279.32,352.47)}相信所選道路
+Dialogue: 0,0:00:09.36,0:00:09.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.45\pos(279.43,349)}相信所選道路
+Dialogue: 0,0:00:09.40,0:00:09.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.48\pos(279.63,345.47)}相信所選道路
+Dialogue: 0,0:00:09.44,0:00:09.48,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.53\pos(279.78,341.96)}相信所選道路
+Dialogue: 0,0:00:09.48,0:00:09.53,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.61\pos(279.88,338.5)}相信所選道路
+Dialogue: 0,0:00:09.53,0:00:09.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.66\pos(280.05,334.99)}相信所選道路
+Dialogue: 0,0:00:09.57,0:00:09.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.69\pos(280.27,331.47)}相信所選道路
+Dialogue: 0,0:00:09.61,0:00:09.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.77\pos(280.34,328.01)}相信所選道路
+Dialogue: 0,0:00:09.65,0:00:09.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.79\pos(280.62,324.48)}相信所選道路
+Dialogue: 0,0:00:09.69,0:00:09.73,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.84\pos(280.78,320.97)}相信所選道路
+Dialogue: 0,0:00:09.73,0:00:09.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.93\pos(280.93,317.51)}相信所選道路
+Dialogue: 0,0:00:09.78,0:00:09.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-1.97\pos(281.07,314.02)}相信所選道路
+Dialogue: 0,0:00:09.82,0:00:09.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.02\pos(281.28,310.5)}相信所選道路
+Dialogue: 0,0:00:09.86,0:00:09.90,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.11\pos(281.43,307.03)}相信所選道路
+Dialogue: 0,0:00:09.90,0:00:09.94,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.13\pos(281.62,303.53)}相信所選道路
+Dialogue: 0,0:00:09.94,0:00:09.98,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.2\pos(281.81,300.02)}相信所選道路
+Dialogue: 0,0:00:09.98,0:00:10.03,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.25\pos(281.96,296.54)}相信所選道路
+Dialogue: 0,0:00:10.03,0:00:10.07,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.31\pos(282.17,293.02)}相信所選道路
+Dialogue: 0,0:00:10.07,0:00:10.11,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.35\pos(282.42,289.53)}相信所選道路
+Dialogue: 0,0:00:10.11,0:00:10.15,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.41\pos(282.6,286.04)}相信所選道路
+Dialogue: 0,0:00:10.15,0:00:10.19,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.43\pos(282.86,282.51)}相信所選道路
+Dialogue: 0,0:00:10.19,0:00:10.24,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.5\pos(283.04,279.05)}相信所選道路
+Dialogue: 0,0:00:10.24,0:00:10.28,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.55\pos(283.29,275.53)}相信所選道路
+Dialogue: 0,0:00:10.28,0:00:10.32,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.59\pos(283.49,272.05)}相信所選道路
+Dialogue: 0,0:00:10.32,0:00:10.36,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.65\pos(283.74,268.54)}相信所選道路
+Dialogue: 0,0:00:10.36,0:00:10.40,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.71\pos(283.92,265.05)}相信所選道路
+Dialogue: 0,0:00:10.40,0:00:10.44,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.75\pos(284.16,261.56)}相信所選道路
+Dialogue: 0,0:00:10.44,0:00:10.49,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.77\pos(284.47,258.06)}相信所選道路
+Dialogue: 0,0:00:10.49,0:00:10.53,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.89\pos(284.54,254.58)}相信所選道路
+Dialogue: 0,0:00:10.53,0:00:10.57,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.92\pos(284.83,251.1)}相信所選道路
+Dialogue: 0,0:00:10.57,0:00:10.61,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-2.99\pos(285.04,247.59)}相信所選道路
+Dialogue: 0,0:00:10.61,0:00:10.65,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.02\pos(285.31,244.11)}相信所選道路
+Dialogue: 0,0:00:10.65,0:00:10.69,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.06\pos(285.57,240.59)}相信所選道路
+Dialogue: 0,0:00:10.69,0:00:10.74,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.12\pos(285.8,237.1)}相信所選道路
+Dialogue: 0,0:00:10.74,0:00:10.78,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.18\pos(286.05,233.61)}相信所選道路
+Dialogue: 0,0:00:10.78,0:00:10.82,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.24\pos(286.3,230.11)}相信所選道路
+Dialogue: 0,0:00:10.82,0:00:10.86,OP-CH,,0,0,0,,{\an6\fs30\blur0.6\frz-3.31\pos(286.65,226.14)}相信所選道路
+Dialogue: 0,0:00:11.24,0:00:14.45,OP-CH,,0,0,0,,一起前往 The brand new world
+Dialogue: 0,0:00:27.62,0:00:34.08,OP-CH,,0,0,0,,是誰屏息描繪著邊境線
+Dialogue: 0,0:00:34.24,0:00:40.66,OP-CH,,0,0,0,,致踏訪希聲之音對岸的你
+Dialogue: 0,0:00:40.66,0:00:47.07,OP-CH,,0,0,0,,馬不停蹄 馳騁萬里
+Dialogue: 0,0:00:47.29,0:00:50.59,OP-CH,,0,0,0,,若是能塗染如你一般
+Dialogue: 0,0:00:50.59,0:00:53.66,OP-CH,,0,0,0,,我會不斷蛻變
+Dialogue: 0,0:00:53.66,0:00:57.12,OP-CH,,0,0,0,,穿越無限延長之影
+Dialogue: 0,0:00:57.12,0:01:00.52,OP-CH,,0,0,0,,Take on your will 堅定不移 Go ahead
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:21:59.46,0:22:03.13,ED-JP,,0,0,0,,{\blur2}突然にも Upside down
+Dialogue: 0,0:22:03.13,0:22:07.22,ED-JP,,0,0,0,,{\blur2}世界は変わり出す
+Dialogue: 0,0:22:07.43,0:22:11.22,ED-JP,,0,0,0,,{\blur2}祈りも　届かない
+Dialogue: 0,0:22:11.50,0:22:15.92,ED-JP,,0,0,0,,{\blur2}僕が変わり出す
+Dialogue: 0,0:22:16.17,0:22:18.28,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}意味を求めて　走り続けて
+Dialogue: 0,0:22:18.28,0:22:20.19,ED-JP,,0,0,0,,{\blur2}意味を求めて　走り続けて
+Dialogue: 0,0:22:20.19,0:22:22.45,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}自分が誰か　わからなくなる
+Dialogue: 0,0:22:22.45,0:22:24.16,ED-JP,,0,0,0,,{\blur2}自分が誰か　わからなくなる
+Dialogue: 0,0:22:24.16,0:22:26.41,ED-JP,,0,0,0,,{\blur2}泣きそうだけど　負けたくないから
+Dialogue: 0,0:22:26.41,0:22:29.55,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}泣きそうだけど　負けたくないから
+Dialogue: 0,0:22:30.50,0:22:32.50,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}教えて
+Dialogue: 0,0:22:32.62,0:22:36.55,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}夜に馳せる　このゆらめきと
+Dialogue: 0,0:22:36.55,0:22:40.72,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}思いのままに　飛びまわって
+Dialogue: 0,0:22:40.84,0:22:44.92,ED-JP,,0,0,0,,{\blur2}もっと自由に　駆けて行こうよ
+Dialogue: 0,0:22:44.92,0:22:48.26,ED-JP,,0,0,0,,{\blur2\3c&HDE4D3C&}星を見上げてさ
+Dialogue: 0,0:21:59.46,0:22:03.13,ED-CH,,0,0,0,,{\blur2}突然間 Upside down
+Dialogue: 0,0:22:03.13,0:22:07.22,ED-CH,,0,0,0,,{\blur2}世界天變地異
+Dialogue: 0,0:22:07.43,0:22:11.22,ED-CH,,0,0,0,,{\blur2}祈禱無應
+Dialogue: 0,0:22:11.50,0:22:15.92,ED-CH,,0,0,0,,{\blur2}我要蛻變
+Dialogue: 0,0:22:16.17,0:22:18.28,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}奔走尋找意義
+Dialogue: 0,0:22:18.28,0:22:20.19,ED-CH,,0,0,0,,{\blur2}奔走尋找意義
+Dialogue: 0,0:22:20.19,0:22:22.45,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}忘卻自己為何人
+Dialogue: 0,0:22:22.45,0:22:24.16,ED-CH,,0,0,0,,{\blur2}忘卻自己為何人
+Dialogue: 0,0:22:24.16,0:22:26.41,ED-CH,,0,0,0,,{\blur2}忍住哭泣不想認輸
+Dialogue: 0,0:22:26.41,0:22:29.55,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}忍住哭泣不想認輸
+Dialogue: 0,0:22:30.50,0:22:32.50,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}告訴我
+Dialogue: 0,0:22:32.62,0:22:36.55,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}隨夜晚疾馳的搖曳
+Dialogue: 0,0:22:36.55,0:22:40.72,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}自在翱翔
+Dialogue: 0,0:22:40.84,0:22:44.92,ED-CH,,0,0,0,,{\blur2}更加自由地馳騁吧
+Dialogue: 0,0:22:44.92,0:22:48.26,ED-CH,,0,0,0,,{\blur2\3c&HDE4D3C&}仰望星空
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
