@@ -1,5 +1,5 @@
 :toc:
-:toc-title: Love Live!
+:toc-title: Summary
 :toclevels: 3
 
 :dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
@@ -11,6 +11,9 @@
 :back_to_top_target: top-target
 :back_to_top_label: 回到目录
 :back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= Love Live!
 
 toc::[]
 
