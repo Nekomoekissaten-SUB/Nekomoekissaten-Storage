@@ -36,8 +36,29 @@ zpix
 
 ## Season 2
 
+内含正片01-12
+
+[BD 简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Uzaki-chan_S2_BD_zho.7z)
+
+所需字体：
+```
+FOT-Popジョイ Std B <FOT-PopJoy Std B>
+FOT-Seurat Pro DB
+FOT-ロダン ProN B <FOT-Rodin ProN B>
+FZLTHPro Global Heavy
+FZLTHPro Global Semibold
+方正卡通_GBK <FZKaTong-M19>
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+方正准雅宋_GBK <FZYaSong-M-GBK>
+华康POP2体W9 <DFPOP2W9-GB>
+华康方圆体W7 <DFFangYuanW7-GB>
+華康POP2體W9 <DFPOP2W9-B5>
+華康方圓體W7 <DFFangYuanW7-B5>
+```
 
 
 ## 海报
 
 ![](https://nekomoe.pages.dev/images/2020-07/uzakichan.png)
+
+![](https://nekomoe.pages.dev/images/2022-10/uzakichan.png)
