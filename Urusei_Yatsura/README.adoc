@@ -1,6 +1,6 @@
-:toc:
-:toc-title: 目录
-:toclevels: 3
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
 
 :dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
 :tag_chi: subtitle_pkg
@@ -15,7 +15,7 @@
 [#{back_to_top_target}]
 = Urusei Yatsura (2022)
 
-toc::[]
+// toc::[]
 
 == 第 1 期
 
