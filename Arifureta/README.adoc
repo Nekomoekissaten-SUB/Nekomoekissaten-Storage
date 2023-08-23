@@ -1,0 +1,57 @@
+:toc:
+:toc-title: 目录
+:toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到顶部
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 平凡职业成就世界最强
+
+toc::[]
+
+== 第 1 期
+
+EP.01-13 + 序章（EP.00） + OVA.01-02 含特效
+
+NOTE: 序章暂无 BD 版本，使用 Web 源制作
+
+{dl_link}/{tag_chi}/Arifureta_BD_zho.7z[简繁中文 BD 合集]
+
+{dl_link}/{tag_jpn}/Arifureta_jpn_NFLX.7z[日文字幕来源于 Netflix，未调轴]
+
+.所需字体
+....
+FOT-スーラ ProN DB <FOT-Seurat ProN DB> ver.1.20
+FOT-マティス ProN B <FOT-Matisse ProN B> ver.1.20
+方正粗雅宋_GBK <FZYaSong-B-GBK> ver.1.20
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK> ver.1.00
+方正细雅宋_GBK <FZYaSong-L-GBK> ver.1.20
+....
+
+image::2019-07/Arifureta.jpg[arifureta_s1,500]
+
+{back_to_top}
+
+== 第 2 期
+
+EP.01-13 + OVA
+
+{dl_link}/{tag_chi}/Arifureta_S2_BD_zho.7z[简繁中文 BD 合集]
+
+.所需字体
+....
+FOT-スーラ ProN DB <FOT-Seurat ProN DB>
+FOT-マティス ProN B <FOT-Matisse ProN B>
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+....
+
+{back_to_top}
