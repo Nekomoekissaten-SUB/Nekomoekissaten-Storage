@@ -1,0 +1,38 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到顶部
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 勇者死了！
+
+// toc::[]
+
+== 第 1 期
+
+EP.01-12
+
+{dl_link}/{tag_chi}/HeroIsDead_Web_zho.7z[简繁中文 Web 合集]
+
+.所需字体
+....
+ＤＦPOP2体W9 <DFPOP2-W9>
+Hiragino UD Sans Rd StdN W6
+Zpix
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+华康POP2体W9 <DFPOP2W9-GB>
+华康翩翩体W5-A <DFHanziPenW5-A>
+华康手札体W7-A <DFHannotateW7-A>
+華康POP2體W9 <DFPOP2W9-B5>
+....
+
+// {back_to_top}
