@@ -15,6 +15,8 @@ Style: Default,FZLanTingHei-DB-GBK,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H0000000
 Style: Top,FZLanTingHei-DB-GBK,43,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,15,15,15,1
 Style: Screen,Zpix,40,&H00000000,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,0,7,15,15,10,1
 Style: Staff,HYQiHei-65S,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,15,15,15,1
+Style: ED-JP_EP01,FOT-Matisse ProN B,32,&H00FFFFFF,&H00FFFFFF,&H00B3B059,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,15,15,15,1
+Style: ED-CH_EP01,FZYaSong-B-GBK,32,&H00FFFFFF,&H00FFFFFF,&H00B3B059,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -420,4 +422,39 @@ Dialogue: 0,0:12:43.24,0:12:45.33,Screen,,0,0,0,,{\fnFZLiBian-S02\fs30\c&H9C78B2
 Dialogue: 0,0:13:26.95,0:13:33.21,Screen,,0,0,0,,{\fnHYQiHei-65S\fs24\c&H8CA1F3&}皇國議會 通告\N\N對下述人等施以終生之處分\N身為皇國公民 應當恭謹地接受終生{右側大字}
 Dialogue: 0,0:14:19.88,0:14:21.84,Screen,,0,0,0,,{\fnHYQiHei-65S\fs32\c&H8CA1F3&\4c&H566BEB&\shad2}艾露拉爾\N希露莉爾
 Dialogue: 0,0:21:54.59,0:21:55.71,Screen,,0,0,0,,{\fnFZLanTingYuan-B-GBK\c&HFFFFFF&\pos(35.334,620)}我的？
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:10.06,0:22:14.11,ED-JP_EP01,,0,0,0,,{\an2\fad(360,360)\blur3}お願い　カミサマ　叶えて
+Dialogue: 0,0:22:17.50,0:22:21.47,ED-JP_EP01,,0,0,0,,{\an2\fad(360,360)\blur3}お願い　カミサマ　叶えて
+Dialogue: 0,0:22:21.80,0:22:27.82,ED-JP_EP01,,0,0,0,,{\an2\fad(360,360)\blur3}世界中　こだまする　I wish
+Dialogue: 0,0:22:33.54,0:22:36.36,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}夜空に願った
+Dialogue: 0,0:22:37.05,0:22:39.97,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}声にならない本音
+Dialogue: 0,0:22:40.99,0:22:43.67,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}僕等は誓った
+Dialogue: 0,0:22:44.54,0:22:47.95,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}認め合う事を
+Dialogue: 0,0:22:47.95,0:22:50.98,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}空に踊る春
+Dialogue: 0,0:22:51.56,0:22:54.67,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}君に注ぐ夏
+Dialogue: 0,0:22:55.30,0:22:58.44,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}木々が歌う秋
+Dialogue: 0,0:22:58.82,0:23:02.05,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}大好きな冬もずっと
+Dialogue: 0,0:23:03.57,0:23:07.64,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}お願い　カミサマ　叶えて
+Dialogue: 0,0:23:08.03,0:23:11.07,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}信じる気持ちを君に
+Dialogue: 0,0:23:11.07,0:23:15.03,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}お願い　カミサマ　叶えて
+Dialogue: 0,0:23:15.30,0:23:21.35,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}世界中　こだまする　I wish
+Dialogue: 0,0:23:24.63,0:23:28.91,ED-JP_EP01,,0,0,0,,{\fad(360,360)\blur3}叶えるよ　I wish
+Dialogue: 0,0:23:38.23,0:23:38.89,ED-JP_EP01,,0,0,0,,{\blur3}オネガイ
+Dialogue: 0,0:22:10.06,0:22:14.11,ED-CH_EP01,,0,0,0,,{\an8\fad(360,360)\blur3}拜託你 神明大人 實現願望吧
+Dialogue: 0,0:22:17.50,0:22:21.47,ED-CH_EP01,,0,0,0,,{\an8\fad(360,360)\blur3}拜託你 神明大人 實現願望吧
+Dialogue: 0,0:22:21.80,0:22:27.82,ED-CH_EP01,,0,0,0,,{\an8\fad(360,360)\blur3}迴響於全世界的心聲 I wish
+Dialogue: 0,0:22:33.54,0:22:36.36,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}對夜空悄悄許下
+Dialogue: 0,0:22:37.05,0:22:39.97,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}說不出口的心願
+Dialogue: 0,0:22:40.99,0:22:43.67,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}我們立下了
+Dialogue: 0,0:22:44.54,0:22:47.95,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}互相接納的誓言
+Dialogue: 0,0:22:47.95,0:22:50.98,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}空中舞動的春
+Dialogue: 0,0:22:51.56,0:22:54.67,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}傾注於你的夏
+Dialogue: 0,0:22:55.30,0:22:58.44,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}繁木歌唱的秋
+Dialogue: 0,0:22:58.82,0:23:02.05,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}直到那最愛的冬天
+Dialogue: 0,0:23:03.57,0:23:07.64,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}拜託你 神明大人 實現願望吧
+Dialogue: 0,0:23:08.03,0:23:11.07,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}給你帶來相信的力量
+Dialogue: 0,0:23:11.07,0:23:15.03,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}拜託你 神明大人 實現願望吧
+Dialogue: 0,0:23:15.30,0:23:21.35,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}迴響於全世界的心聲 I wish
+Dialogue: 0,0:23:24.63,0:23:28.91,ED-CH_EP01,,0,0,0,,{\fad(360,360)\blur3}會實現的哦 I wish
+Dialogue: 0,0:23:38.23,0:23:38.89,ED-CH_EP01,,0,0,0,,{\blur3}拜託了
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
