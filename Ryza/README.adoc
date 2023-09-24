@@ -33,4 +33,6 @@ G-OTF リュウミン Pro B-KL <G-OTF Ryumin Pro B-KL>
 汉仪玄宋 65S <HYXuanSong 65S>
 ....
 
+image::2023-07/atelier-ryza.jpg[ryza,500]
+
 // {back_to_top}
