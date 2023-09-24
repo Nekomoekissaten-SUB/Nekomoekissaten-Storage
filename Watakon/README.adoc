@@ -1,0 +1,43 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 我的幸福婚姻
+
+// toc::[]
+
+== 第 1 期
+
+EP.01-12 含 OP 特效
+
+{dl_link}/{tag_chi}/Watakon_Web_JPCH.7z[简繁日双语 Web 合集]
+
+.所需字体
+....
+A P-OTF みちくさ StdN R <A P-OTF Michikusa StdN R>
+FOT-パルレトロン Std B <FOT-PalRetron Std B>
+FOT-筑紫明朝 Pr6N B <FOT-TsukuMin Pr6N B>
+FOT-筑紫明朝 Pr6N E <FOT-TsukuMin Pr6N E>
+Sitka Small Bold Italic
+汉仪秋实 W <HYQiuShi W>
+汉仪婉风宋 45W <HYWanFengSong 45W>
+汉仪玄宋 55S <HYXuanSong 55S>
+汉仪玄宋 75S <HYXuanSong 75S>
+华康翩翩体W3-A <DFHanziPenW3-A>
+华康翩翩体W5-A <DFHanziPenW5-A>
+....
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}

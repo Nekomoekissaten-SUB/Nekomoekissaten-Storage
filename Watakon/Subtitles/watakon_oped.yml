@@ -1,0 +1,34 @@
+version : 2
+
+namef:
+  master: '[Nekomoe kissaten] Watashi no Shiawase na Kekkon [{{ep}}][Web].{{lang}}'
+  op: 'Watakon_OP_02.{{lang}}'
+
+fps:
+  "24000/1001"
+
+tpl_fr:
+  op: 1224  # OP首帧
+
+# OP 首帧 1224f
+shift_fr:
+  '02':
+    op: [0, 1224]
+  '03':
+    op: [1582, 2806]
+  '04':
+    op: [766, 1990]
+  '05':
+    op: [360, 1584]
+  '06':
+    op: [48, 1272]
+  '07':
+    op: [192, 1416]
+  '08':
+    op: [1390, 2614]
+  '09':
+    op: [718, 1942]
+  '10':
+    op: [1222, 2446]
+  '11':
+    op: [-984, 240]
