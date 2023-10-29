@@ -1,0 +1,42 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 不死少女・杀人笑剧
+
+// toc::[]
+
+// == 第 1 季度
+
+EP.01-13
+
+{dl_link}/{tag_chi}/Undead_Girl_Web_JPCH.7z[简繁日双语 Web 合集]
+
+.所需字体
+....
+FOT-ニューロダン ProN B <FOT-NewRodin ProN B>
+FOT-筑紫アンティークLゴ Std B <FOT-TsukuAntiqueLGo Std B>
+FOT-筑紫明朝 Pr6N E <FOT-TsukuMin Pr6N E>
+方正FW筑紫古典L黑 简 <FZFW ZhuZi GuDianS LH>
+汉仪旗黑 75S <HYQiHei 75S>
+汉仪玄宋 55S <HYXuanSong 55S>
+汉仪玄宋 65S <HYXuanSong 65S>
+汉仪玄宋 85S <HYXuanSong 85S>
+....
+
+image::2023-07/undeadgirl.jpg[undeadgirl,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
