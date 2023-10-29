@@ -1,0 +1,42 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 间谍教室
+
+// toc::[]
+
+// == 第 1 季度
+
+EP.01-24
+
+{dl_link}/{tag_chi}/SpyRoom_Web_JPCH.7z[简繁日双语 Web 合集]
+
+.所需字体
+....
+FOT-テロップ明朝 ProN B <FOT-TelopMin ProN B>
+FOT-筑紫明朝 Pr6N E <FOT-TsukuMin Pr6N E>
+方正细雅宋_GBK <FZYaSong-L-GBK>
+汉仪玄宋 65S <HYXuanSong 65S>
+汉仪玄宋 85S <HYXuanSong 85S>
+华康翩翩体W5-A <DFHanziPenW5-A>
+....
+
+image::2023-01/spyroom.jpg[spyroom_c1,500]
+
+image::2023-07/spyroom_s2.jpg[spyroom_c2,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
