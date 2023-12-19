@@ -30,7 +30,7 @@ Style: ED-CH-09,FZXiaoBiaoSong-B05,36,&H0AFFFFFF,&H000019FF,&H9E000000,&H0000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
-Dialogue: 0,0:19:14.51,0:19:17.97,Staff,,0,0,0,,{\fad(1000,0)}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\r}翻譯：番茄雞　時軸：Ronny　後期：MIR　繁化：錯黨
+Dialogue: 0,0:21:23.64,0:21:26.56,Staff,,0,0,0,,本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途{\fscy20}\N\N{\r}翻譯：番茄雞　時軸：Ronny　後期：MIR　繁化：錯黨
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue Japanese
 Dialogue: 0,0:00:01.35,0:00:02.57,Dial-JP,,0,0,0,,大みそか
 Dialogue: 0,0:00:03.30,0:00:04.86,Dial-JP,,0,0,0,,年の瀬のファミレス
