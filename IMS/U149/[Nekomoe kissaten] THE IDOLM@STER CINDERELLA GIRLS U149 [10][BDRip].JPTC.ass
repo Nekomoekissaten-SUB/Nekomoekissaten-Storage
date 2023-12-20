@@ -976,7 +976,7 @@ Dialogue: 2,0:22:57.32,0:22:59.40,ED_CH_EP06,,0,0,0,,{\fad(200,200)\blur2}肯定
 Dialogue: 2,0:22:59.40,0:23:05.53,ED_CH_EP06,,0,0,0,,{\fad(200,200)\blur2}明天再見吧
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
 Dialogue: 3,0:08:17.81,0:08:20.81,Ruby,,440,0,0,,Money
-Dialogue: 3,0:15:24.24,0:15:27.62,Ruby,,770,0,0,,Summer
+Dialogue: 3,0:15:24.24,0:15:27.41,Ruby,,770,0,0,,Summer
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:11:52.32,0:11:52.36,Screen,,0,0,0,,{\fscy100\fscx100\fnDFHannotateW7-A\fs45\frz322.3\fax-0.15\c&H2C324B&\pos(1126,57)}直播Live服裝方案
 Dialogue: 0,0:11:52.36,0:11:52.40,Screen,,0,0,0,,{\fscy100.02\fscx100.02\fnDFHannotateW7-A\fs45\frz322.3\fax-0.15\c&H2C324B&\pos(1126.03,61.37)}直播Live服裝方案
@@ -1007,7 +1007,6 @@ Dialogue: 0,0:11:53.36,0:11:53.40,Screen,,0,0,0,,{\fscy99.99\fscx99.99\fnDFHanno
 Dialogue: 0,0:11:53.40,0:11:53.44,Screen,,0,0,0,,{\fscy99.87\fscx99.87\fnDFHannotateW7-A\fs45\frz322.3\fax-0.15\c&H2C324B&\pos(1126.4,170.59)}直播Live服裝方案
 Dialogue: 0,0:11:53.44,0:11:53.48,Screen,,0,0,0,,{\fscy99.93\fscx99.93\fnDFHannotateW7-A\fs45\frz322.3\fax-0.15\c&H2C324B&\pos(1126.26,174.73)}直播Live服裝方案
 Dialogue: 0,0:11:53.48,0:11:53.53,Screen,,0,0,0,,{\fscy99.9\fscx99.9\fnDFHannotateW7-A\fs45\frz322.3\fax-0.15\c&H2C324B&\pos(1126.33,178.88)}直播Live服裝方案
-Dialogue: 0,0:11:53.53,0:11:53.57,Screen,,0,0,0,,{\fscy99.86\fscx99.86\fnDFHannotateW7-A\fs45\frz322.3\fax-0.15\c&H2C324B&\pos(1126.35,183)}直播Live服裝方案
 Dialogue: 0,0:12:05.24,0:12:05.28,Screen,,0,0,0,,{\fnDFHannotateW7-A\fs70\c&H5B1B1A&\pos(666,86)}第3藝能課直播Live
 Dialogue: 0,0:12:05.28,0:12:05.33,Screen,,0,0,0,,{\fnDFHannotateW7-A\fs70\c&H5B1B1A&\pos(665.96,85.76)}第3藝能課直播Live
 Dialogue: 0,0:12:05.33,0:12:05.37,Screen,,0,0,0,,{\fnDFHannotateW7-A\fs70\c&H5B1B1A&\pos(666.29,85.75)}第3藝能課直播Live

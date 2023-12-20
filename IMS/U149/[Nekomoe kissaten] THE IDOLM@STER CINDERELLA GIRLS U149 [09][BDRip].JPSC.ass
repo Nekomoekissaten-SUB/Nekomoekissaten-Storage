@@ -1619,7 +1619,7 @@ Dialogue: 0,0:06:41.33,0:06:41.38,Screen,,0,0,0,,{\fnDFHannotateW7-A\fs40\fax0.4
 Dialogue: 0,0:06:41.38,0:06:41.58,Screen,,0,0,0,,{\fnDFHannotateW7-A\fs40\fax0.4\c&H323232&\frz332.9\pos(1069.85,238.71)}公交车站
 Dialogue: 0,0:07:19.50,0:07:26.01,Screen,,0,0,0,,{\bord2\c&HF8FEFE&\3c&H302C2C&\1a&H80&\pos(30,30)\p1}m 0 0 l 600 0 l 600 400 l 0 400
 Dialogue: 1,0:07:19.50,0:07:26.01,Screen,,0,0,0,,{\fs40\pos(50,50)}两个人都好厉害！\N\N好可爱，让我放松了不少！\N\N仁奈和小薰都好厉害！\N谢谢你们有趣的视频！\N\N真棒!!\N太舒服了!!\N\N恭喜！好可爱
-Dialogue: 0,0:08:18.93,0:08:18.97,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.86,252.57)}第一天
+Dialogue: 0,0:08:18.35,0:08:18.97,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.86,252.57)}第一天
 Dialogue: 0,0:08:18.97,0:08:19.02,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.92,252.54)}第一天
 Dialogue: 0,0:08:19.02,0:08:19.06,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.83,252.37)}第一天
 Dialogue: 0,0:08:19.06,0:08:19.10,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.84,252.37)}第一天
@@ -1666,7 +1666,7 @@ Dialogue: 0,0:08:20.73,0:08:20.77,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\
 Dialogue: 0,0:08:20.77,0:08:20.85,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.39,252.55)}第一天
 Dialogue: 0,0:08:20.85,0:08:20.93,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.65,252.79)}第一天
 Dialogue: 0,0:08:20.93,0:08:20.98,Screen,,0,0,0,,{\bord2\fnDFHannotateW5-A\fs80\frz32.81\fax0.4\c&HA4BACA&\3c&H606B81&\1a&H50&\pos(662.39,252.55)}第一天
-Dialogue: 0,0:08:18.93,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1185,109)}出发
+Dialogue: 0,0:08:18.35,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1185,109)}出发
 Dialogue: 0,0:08:18.97,0:08:19.02,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1185.06,108.97)}出发
 Dialogue: 0,0:08:19.02,0:08:19.06,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1184.98,108.8)}出发
 Dialogue: 0,0:08:19.06,0:08:19.10,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1184.99,108.79)}出发
@@ -1713,7 +1713,7 @@ Dialogue: 0,0:08:20.73,0:08:20.77,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.
 Dialogue: 0,0:08:20.77,0:08:20.85,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1184.54,108.98)}出发
 Dialogue: 0,0:08:20.85,0:08:20.93,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1184.79,109.22)}出发
 Dialogue: 0,0:08:20.93,0:08:20.98,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1184.54,108.98)}出发
-Dialogue: 0,0:08:18.93,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1280,221)}到达
+Dialogue: 0,0:08:18.35,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1280,221)}到达
 Dialogue: 0,0:08:18.97,0:08:19.02,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1280.06,220.97)}到达
 Dialogue: 0,0:08:19.02,0:08:19.06,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1279.98,220.8)}到达
 Dialogue: 0,0:08:19.06,0:08:19.10,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1279.99,220.8)}到达
@@ -1760,7 +1760,7 @@ Dialogue: 0,0:08:20.73,0:08:20.77,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.
 Dialogue: 0,0:08:20.77,0:08:20.85,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1279.54,220.98)}到达
 Dialogue: 0,0:08:20.85,0:08:20.93,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1279.79,221.22)}到达
 Dialogue: 0,0:08:20.93,0:08:20.98,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1279.54,220.98)}到达
-Dialogue: 0,0:08:18.93,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1059,469)}午饭
+Dialogue: 0,0:08:18.35,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1059,469)}午饭
 Dialogue: 0,0:08:18.97,0:08:19.02,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1059.06,468.97)}午饭
 Dialogue: 0,0:08:19.02,0:08:19.06,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1058.98,468.8)}午饭
 Dialogue: 0,0:08:19.06,0:08:19.10,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1058.99,468.79)}午饭
@@ -1807,7 +1807,7 @@ Dialogue: 0,0:08:20.73,0:08:20.77,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.
 Dialogue: 0,0:08:20.77,0:08:20.85,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1058.54,468.98)}午饭
 Dialogue: 0,0:08:20.85,0:08:20.93,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1058.79,469.22)}午饭
 Dialogue: 0,0:08:20.93,0:08:20.98,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz29.46\fax0.4\c&H748298&\pos(1058.54,468.98)}午饭
-Dialogue: 0,0:08:18.93,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1243,589)}自由时间
+Dialogue: 0,0:08:18.35,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1243,589)}自由时间
 Dialogue: 0,0:08:18.97,0:08:19.02,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1243.06,588.97)}自由时间
 Dialogue: 0,0:08:19.02,0:08:19.06,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1242.98,588.8)}自由时间
 Dialogue: 0,0:08:19.06,0:08:19.10,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1242.99,588.79)}自由时间
@@ -1854,7 +1854,7 @@ Dialogue: 0,0:08:20.73,0:08:20.77,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.
 Dialogue: 0,0:08:20.77,0:08:20.85,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1242.54,588.98)}自由时间
 Dialogue: 0,0:08:20.85,0:08:20.93,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1242.79,589.22)}自由时间
 Dialogue: 0,0:08:20.93,0:08:20.98,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz31.92\fax0.4\c&H748298&\pos(1242.54,588.98)}自由时间
-Dialogue: 0,0:08:18.93,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz38.84\fax0.4\c&H748298&\pos(1548,763)}睡觉
+Dialogue: 0,0:08:18.35,0:08:18.97,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz38.84\fax0.4\c&H748298&\pos(1548,763)}睡觉
 Dialogue: 0,0:08:18.97,0:08:19.02,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz38.84\fax0.4\c&H748298&\pos(1548.06,762.97)}睡觉
 Dialogue: 0,0:08:19.02,0:08:19.06,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz38.84\fax0.4\c&H748298&\pos(1547.98,762.8)}睡觉
 Dialogue: 0,0:08:19.06,0:08:19.10,Screen,,0,0,0,,{\fnDFHannotateW5-A\fs60\frz38.84\fax0.4\c&H748298&\pos(1547.99,762.8)}睡觉
