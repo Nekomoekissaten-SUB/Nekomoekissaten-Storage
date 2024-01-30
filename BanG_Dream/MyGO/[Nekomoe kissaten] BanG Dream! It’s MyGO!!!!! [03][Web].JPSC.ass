@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: [Nekomoe kissaten] BanG Dream! It’s MyGO!!!!! [03][Web].JPSC
 ScriptType: v4.00+
 WrapStyle: 0
@@ -476,7 +476,7 @@ Dialogue: 1,0:09:36.92,0:09:38.41,Dial_CH,,0,0,0,,真不错啊
 Dialogue: 1,0:09:38.77,0:09:41.06,Dial_CH,,0,0,0,,学生会那边应该有录像
 Dialogue: 1,0:09:41.06,0:09:42.56,Dial_CH,,0,0,0,,我之后帮你问问
 Dialogue: 1,0:09:42.56,0:09:43.88,Dial_CH,,0,0,0,,感谢
-Dialogue: 1,0:09:44.12,0:09:46.58,Dial_CH,,0,0,0,,她们优雅之中蕴藏的渐强
+Dialogue: 1,0:09:44.12,0:09:46.58,Dial_CH,,0,0,0,,她们优雅之中蕴藏的坚强
 Dialogue: 1,0:09:47.00,0:09:49.32,Dial_CH,,0,0,0,,让我大受感动
 Dialogue: 1,0:09:51.15,0:09:55.70,Dial_CH,,0,0,0,,希望我们有一天也能合奏我们自己的歌曲
 Dialogue: 1,0:09:55.70,0:09:56.74,Dial_CH,,0,0,0,,原创曲？
