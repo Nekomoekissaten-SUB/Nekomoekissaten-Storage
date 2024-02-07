@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -533,7 +535,7 @@ Dialogue: 0,0:35:05.42,0:35:06.35,Dial-JP,,0,0,0,,もしかしたら
 Dialogue: 0,0:35:07.29,0:35:10.21,Dial-JP,,0,0,0,,言われた通りにしてたほうが楽だったかなって
 Dialogue: 0,0:35:11.35,0:35:12.47,Dial-JP,,0,0,0,,時々思うよ
 Dialogue: 0,0:35:14.55,0:35:15.43,Dial-JP,,0,0,0,,でもいいんだ
-Dialogue: 0,0:35:18.27,0:35:20.42,Dial-JP,,0,0,0,,どうせいつか終わるって思ったら
+Dialogue: 0,0:35:16.54,0:35:20.42,Dial-JP,,0,0,0,,どんなことも　どうせいつか終わるって思ったら
 Dialogue: 0,0:35:20.87,0:35:23.11,Dial-JP,,0,0,0,,なんか怖くない気がしてきたから
 Dialogue: 0,0:35:25.36,0:35:28.64,Dial-JP,,0,0,0,,ちゃんと　自分で選んでいくよ
 Dialogue: 0,0:35:34.45,0:35:35.18,Dial-JP,,0,0,0,,よかったよ
@@ -589,7 +591,7 @@ Dialogue: 1,0:02:25.59,0:02:27.21,Dial-CH,,0,0,0,,应该是自杀身亡的
 Dialogue: 1,0:02:32.47,0:02:33.17,Dial-CH,,0,0,0,,怎么了
 Dialogue: 1,0:02:33.94,0:02:36.87,Dial-CH,,0,0,0,,不是 就是冷静想了想
 Dialogue: 1,0:02:36.87,0:02:39.26,Dial-CH,,0,0,0,,幽灵还是有点可怕的
-Dialogue: 1,0:02:40.23,0:02:41.06,Dial-CH,,0,0,0,,都到走这儿了？
+Dialogue: 1,0:02:40.23,0:02:41.06,Dial-CH,,0,0,0,,都走到这儿了？
 Dialogue: 1,0:02:42.17,0:02:43.22,Dial-CH,,0,0,0,,算了 你回去也行
 Dialogue: 1,0:02:43.94,0:02:44.76,Dial-CH,,0,0,0,,反正我要去
 Dialogue: 1,0:02:45.11,0:02:47.99,Dial-CH,,0,0,0,,抱歉抱歉 我也会去的
@@ -927,9 +929,9 @@ Dialogue: 1,0:23:59.39,0:24:02.34,Dial-CH,,0,0,0,,我在学校一直被人欺凌
 Dialogue: 1,0:24:03.43,0:24:04.80,Dial-CH,,0,0,0,,一直很痛苦
 Dialogue: 1,0:24:06.22,0:24:11.49,Dial-CH,,0,0,0,,不知何时 完全搞不懂自己活着的意义了
 Dialogue: 1,0:24:12.99,0:24:16.31,Dial-CH,,0,0,0,,我想要一些新的答案
-Dialogue: 1,0:24:17.23,0:24:18.64,Dial-CH,,0,0,0,,所以才去寻找幽灵
+Dialogue: 1,0:24:17.23,0:24:18.64,Dial-CH,,0,0,0,,所以才会去寻找幽灵
 Dialogue: 1,0:24:19.59,0:24:22.21,Dial-CH,,0,0,0,,或许友也的初衷和你完全不同
-Dialogue: 1,0:24:22.83,0:24:26.15,Dial-CH,,0,0,0,,但是 他也一定有着自己烦恼吧
+Dialogue: 1,0:24:22.83,0:24:26.15,Dial-CH,,0,0,0,,但是 他也一定有着自己的烦恼吧
 Dialogue: 1,0:24:27.65,0:24:31.37,Dial-CH,,0,0,0,,我们的相遇一定是有意义的
 Dialogue: 1,0:24:35.03,0:24:35.93,Dial-CH,,0,0,0,,完蛋了
 Dialogue: 1,0:24:38.74,0:24:39.65,Dial-CH,,0,0,0,,绚音
@@ -1058,7 +1060,7 @@ Dialogue: 1,0:35:05.42,0:35:06.35,Dial-CH,,0,0,0,,或许
 Dialogue: 1,0:35:07.29,0:35:10.21,Dial-CH,,0,0,0,,按照大人所说的做会更轻松
 Dialogue: 1,0:35:11.35,0:35:12.47,Dial-CH,,0,0,0,,我时常会这么想
 Dialogue: 1,0:35:14.55,0:35:15.43,Dial-CH,,0,0,0,,但是没关系
-Dialogue: 1,0:35:18.27,0:35:20.42,Dial-CH,,0,0,0,,一想到凡事终有结局
+Dialogue: 1,0:35:16.54,0:35:20.42,Dial-CH,,0,0,0,,一想到凡事终有结局
 Dialogue: 1,0:35:20.87,0:35:23.11,Dial-CH,,0,0,0,,就感觉不再害怕了
 Dialogue: 1,0:35:25.36,0:35:28.64,Dial-CH,,0,0,0,,我会自己认真做出选择
 Dialogue: 1,0:35:34.45,0:35:35.18,Dial-CH,,0,0,0,,挺好

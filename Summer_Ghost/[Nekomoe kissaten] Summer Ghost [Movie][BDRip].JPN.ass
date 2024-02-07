@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -523,7 +525,7 @@ Dialogue: 0,0:35:05.42,0:35:06.35,Dial-JP,,0,0,0,,もしかしたら
 Dialogue: 0,0:35:07.29,0:35:10.21,Dial-JP,,0,0,0,,言われた通りにしてたほうが楽だったかなって
 Dialogue: 0,0:35:11.35,0:35:12.47,Dial-JP,,0,0,0,,時々思うよ
 Dialogue: 0,0:35:14.55,0:35:15.43,Dial-JP,,0,0,0,,でもいいんだ
-Dialogue: 0,0:35:18.27,0:35:20.42,Dial-JP,,0,0,0,,どうせいつか終わるって思ったら
+Dialogue: 0,0:35:16.54,0:35:20.42,Dial-JP,,0,0,0,,どんなことも　どうせいつか終わるって思ったら
 Dialogue: 0,0:35:20.87,0:35:23.11,Dial-JP,,0,0,0,,なんか怖くない気がしてきたから
 Dialogue: 0,0:35:25.36,0:35:28.64,Dial-JP,,0,0,0,,ちゃんと　自分で選んでいくよ
 Dialogue: 0,0:35:34.45,0:35:35.18,Dial-JP,,0,0,0,,よかったよ
