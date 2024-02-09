@@ -28,7 +28,7 @@ Style: Screen,MO UDShinGo SC Gb4 DB,72,&H00FDFDFD,&H000000FF,&H0070350D,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
-Dialogue: 0,0:01:41.91,0:01:45.16,Staff,,0,0,0,,{\blur5\fad(360,0)}本字幕由喵萌奶茶屋製作  作品僅供交流學習使用  請勿用於商業用途\N翻譯：Nemeton　時軸·特效：Ronny　後期：MIR
+Dialogue: 0,0:01:27.73,0:01:30.99,Staff,,0,0,0,,{\blur5\fad(360,0)}本字幕由喵萌奶茶屋製作  作品僅供交流學習使用  請勿用於商業用途\N翻譯：Nemeton　時軸·特效：Ronny　後期：MIR
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
