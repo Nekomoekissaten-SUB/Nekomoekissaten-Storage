@@ -1,6 +1,6 @@
 # 字幕
 
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Koukyuu_no_Karasu_Web_JPCH.7z)  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Koukyuu_no_Karasu_BD_JPCH.7z)  
 内含 01-13 简繁中日双语字幕
 
 所需字体：
