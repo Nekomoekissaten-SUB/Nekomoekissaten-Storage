@@ -1,5 +1,5 @@
 #Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
-display_name="【喵萌奶茶屋】★04月新番★[躍動青春 / Skip to Loafer][<ep>][<res>p][繁日雙語][招募翻譯]"
+display_name="【喵萌奶茶屋】[躍動青春 / Skip to Loafer][<ep>][BDRip][<res>p][繁日雙語][招募翻譯]"
 group_name="[喵萌奶茶屋]"
 poster="https://s2.loli.net/2023/04/06/WMsNHUGnfSvL6xe.jpg"
 about="https://github.com/Nekomoekissaten-SUB"
