@@ -9,6 +9,10 @@
 2022-05-31:
 - 修复 S02EP01 1m6s 左右错误的字体大小
 
+2024-02-25:
+- 修复 S01 OAD01 时间轴错误  [报错](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=9898&fromuid=9292)
+- 修复 S02 EP01 简体 OP 样式错误  [报错](https://bbs.acgrip.com/forum.php?mod=redirect&goto=findpost&ptid=9898&pid=104986&fromuid=9292)
+
 ## 所需字体
 
 ```
