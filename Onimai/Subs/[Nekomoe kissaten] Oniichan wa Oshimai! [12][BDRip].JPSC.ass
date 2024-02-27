@@ -639,8 +639,8 @@ Dialogue: 1,0:21:43.32,0:21:44.49,Dial_CH,,0,0,0,,嘘
 Dialogue: 1,0:21:44.78,0:21:45.53,Dial_CH,,0,0,0,,你看
 Dialogue: 1,0:23:39.36,0:23:40.61,Dial_CH,,0,500,0,,剧终
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
-Dialogue: 0,0:06:21.86,0:06:24.78,Screen,,0,0,0,,{\fs90\fnFZYaSong-EB-GBK\pos(543,49)}女浴
-Dialogue: 1,0:23:28.05,0:23:33.93,Screen,,0,0,0,,{\fs80\fnFZLanTingYuan-EB-GBK\bord1\shad8\fad(1200,1200)\pos(600,465)\c&HFBDD66&\4c&HD6ACEB&\3c&HFFFFFF&}剧终
+Dialogue: 0,0:06:21.86,0:06:24.78,Screen,,0,0,0,,{\fs90\fnFZYaSong-EB-GBK\pos(543,49)\c&HDAD9EB&}女浴
+Dialogue: 1,0:23:28.01,0:23:33.98,Screen,,0,0,0,,{\fs80\fnFZLanTingYuan-EB-GBK\bord1\shad8\fad(2000,2000)\pos(600,465)\c&HFBDD66&\4c&HD6ACEB&\3c&HFFFFFF&}剧终
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
 Dialogue: 0,0:01:17.10,0:01:18.39,OP_JP,,0,0,0,,{\fad(240,240)}アリ!? ナシ!?
 Dialogue: 0,0:01:18.81,0:01:19.98,OP_JP,,0,0,0,,{\fad(240,240)}ナシ!? アリ!?
