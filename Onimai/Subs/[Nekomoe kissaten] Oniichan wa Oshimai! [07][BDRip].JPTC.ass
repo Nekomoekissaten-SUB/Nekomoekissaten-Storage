@@ -635,19 +635,19 @@ Dialogue: 1,0:23:39.06,0:23:40.52,Dial_CH,,0,900,0,,要繼續收看喔
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
 Dialogue: 0,0:07:06.95,0:07:08.95,Screen,,0,0,0,,{\fs25\fnDFHanziPenW5-A\fax-0.6\c&H5F5EDA&\3c&HB2F4F7&\frz343.2\pos(637,424)}禁止遊戲
 Dialogue: 0,0:08:28.40,0:08:31.32,Screen,,0,0,0,,{\c&H6F6F6F&}失落勇者9攻略筆記
-Dialogue: 0,0:13:43.09,0:13:43.14,Screen,,0,0,0,,{\alpha&HD9\fs23\fnZpix\fad(0,0)\pos(586,557)}真尋
-Dialogue: 0,0:13:43.18,0:13:43.22,Screen,,0,0,0,,{\alpha&HB3\fs23\fnZpix\fad(0,0)\pos(525,557)}真尋
-Dialogue: 0,0:13:43.22,0:13:43.26,Screen,,0,0,0,,{\alpha&H66\fs23\fnZpix\fad(0,0)\pos(495,557)}真尋
-Dialogue: 0,0:13:43.26,0:13:43.30,Screen,,0,0,0,,{\alpha&H4D\fs23\fnZpix\fad(0,0)\pos(465,557)}真尋
-Dialogue: 0,0:13:43.30,0:13:43.34,Screen,,0,0,0,,{\alpha&H33\fs23\fnZpix\fad(0,0)\pos(435,557)}真尋等
-Dialogue: 0,0:13:43.34,0:13:43.39,Screen,,0,0,0,,{\alpha&H33\fs23\fnZpix\fad(0,0)\pos(405,557)}真尋等級
-Dialogue: 0,0:13:43.39,0:13:43.43,Screen,,0,0,0,,{\alpha&H33\fs23\fnZpix\fad(0,0)\pos(375,557)}真尋等級提
-Dialogue: 0,0:13:43.43,0:13:43.47,Screen,,0,0,0,,{\alpha&H33\fs23\fnZpix\fad(0,0)\pos(345,557)}真尋等級提升
-Dialogue: 0,0:13:43.47,0:13:43.51,Screen,,0,0,0,,{\alpha&H1A\fs23\fnZpix\fad(0,0)\pos(315,557)}真尋等級提升了
-Dialogue: 0,0:13:43.51,0:13:43.55,Screen,,0,0,0,,{\alpha&H1A\fs23\fnZpix\fad(0,0)\pos(285,557)}真尋等級提升了
-Dialogue: 0,0:13:43.55,0:13:43.59,Screen,,0,0,0,,{\alpha&H1A\fs23\fnZpix\fad(0,0)\pos(255,557)}真尋等級提升了
-Dialogue: 0,0:13:43.59,0:13:43.64,Screen,,0,0,0,,{\alpha&H1A\fs23\fnZpix\fad(0,0)\pos(225,557)}真尋等級提升了
-Dialogue: 0,0:13:43.64,0:13:47.06,Screen,,0,0,0,,{\alpha&H1A\fs23\fnZpix\fad(0,0)\pos(195,557)}真尋等級提升了
+Dialogue: 0,0:13:43.09,0:13:43.14,Screen,,0,0,0,,{\alpha&HD9&\fs23\fnZpix\fad(0,0)\pos(586,557)}真尋
+Dialogue: 0,0:13:43.18,0:13:43.22,Screen,,0,0,0,,{\alpha&HB3&\fs23\fnZpix\fad(0,0)\pos(525,557)}真尋
+Dialogue: 0,0:13:43.22,0:13:43.26,Screen,,0,0,0,,{\alpha&H66&\fs23\fnZpix\fad(0,0)\pos(495,557)}真尋
+Dialogue: 0,0:13:43.26,0:13:43.30,Screen,,0,0,0,,{\alpha&H4D&\fs23\fnZpix\fad(0,0)\pos(465,557)}真尋
+Dialogue: 0,0:13:43.30,0:13:43.34,Screen,,0,0,0,,{\alpha&H33&\fs23\fnZpix\fad(0,0)\pos(435,557)}真尋等
+Dialogue: 0,0:13:43.34,0:13:43.39,Screen,,0,0,0,,{\alpha&H33&\fs23\fnZpix\fad(0,0)\pos(405,557)}真尋等級
+Dialogue: 0,0:13:43.39,0:13:43.43,Screen,,0,0,0,,{\alpha&H33&\fs23\fnZpix\fad(0,0)\pos(375,557)}真尋等級提
+Dialogue: 0,0:13:43.43,0:13:43.47,Screen,,0,0,0,,{\alpha&H33&\fs23\fnZpix\fad(0,0)\pos(345,557)}真尋等級提升
+Dialogue: 0,0:13:43.47,0:13:43.51,Screen,,0,0,0,,{\alpha&H1A&\fs23\fnZpix\fad(0,0)\pos(315,557)}真尋等級提升了
+Dialogue: 0,0:13:43.51,0:13:43.55,Screen,,0,0,0,,{\alpha&H1A&\fs23\fnZpix\fad(0,0)\pos(285,557)}真尋等級提升了
+Dialogue: 0,0:13:43.55,0:13:43.59,Screen,,0,0,0,,{\alpha&H1A&\fs23\fnZpix\fad(0,0)\pos(255,557)}真尋等級提升了
+Dialogue: 0,0:13:43.59,0:13:43.64,Screen,,0,0,0,,{\alpha&H1A&\fs23\fnZpix\fad(0,0)\pos(225,557)}真尋等級提升了
+Dialogue: 0,0:13:43.64,0:13:47.06,Screen,,0,0,0,,{\alpha&H1A&\fs23\fnZpix\fad(0,0)\pos(195,557)}真尋等級提升了
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
 Dialogue: 0,0:01:29.11,0:01:30.40,OP_JP,,0,0,0,,{\fad(240,240)}アリ!? ナシ!?
 Dialogue: 0,0:01:30.82,0:01:31.99,OP_JP,,0,0,0,,{\fad(240,240)}ナシ!? アリ!?

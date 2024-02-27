@@ -645,8 +645,8 @@ Dialogue: 0,0:17:43.29,0:17:45.38,Screen,,0,0,0,,{\fnFZLanTingHei-EB-GBK\fax0.1\
 Dialogue: 0,0:19:21.81,0:19:23.64,Screen,,0,0,0,,{\fs38\fnFZYaSong-DB-GBK\bord2\blur3\3c&H000000&}直到高傲的姐姐臣服於我
 Dialogue: 0,0:19:23.64,0:19:24.98,Screen,,0,0,0,,{\fnFZYaSong-DB-GBK}桃色生活  精靈牧場
 Dialogue: 0,0:19:24.98,0:19:26.73,Screen,,0,0,0,,{\fnFZYaSong-DB-GBK}精靈牧場
-Dialogue: 0,0:19:24.35,0:19:24.98,Screen,,0,0,0,,{\fnFZYaSong-DB-GBK\bord2\blur0\c&HA44CB2&\3c&HFFFFFF&\}妖艷妖狐
-Dialogue: 0,0:19:24.98,0:19:25.60,Screen,,0,0,0,,{\fnFZYaSong-DB-GBK\bord2\blur0\c&HA44CB2&\3c&HFFFFFF&\}妖艷妖狐
+Dialogue: 0,0:19:24.35,0:19:24.98,Screen,,0,0,0,,{\fnFZYaSong-DB-GBK\bord2\blur0\c&HA44CB2&\3c&HFFFFFF&}妖艷妖狐
+Dialogue: 0,0:19:24.98,0:19:25.60,Screen,,0,0,0,,{\fnFZYaSong-DB-GBK\bord2\blur0\c&HA44CB2&\3c&HFFFFFF&}妖艷妖狐
 Dialogue: 0,0:19:25.60,0:19:26.73,Screen,,0,0,0,,{\bord2\blur3\c&H96E9EA&}色色烹飪
 Dialogue: 0,0:19:26.73,0:19:29.06,Screen,,0,0,0,,{\bord2\blur3\c&H96E9EA&}色色烹飪
 Dialogue: 0,0:19:26.69,0:19:26.73,Screen,,0,0,0,,{\fnDFHannotateW5-A\bord2\blur3\3c&HDD82BE&}緊緊束縛

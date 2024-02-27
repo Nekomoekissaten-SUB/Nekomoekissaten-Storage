@@ -457,7 +457,7 @@ Dialogue: 0,0:03:25.73,0:03:30.23,Screen,,0,0,0,,{\fs38\bord1\c&H965A31&\3c&H000
 Dialogue: 0,0:13:19.49,0:13:23.41,Screen,,0,0,0,,{\fs30\fscx90.98\fscy90.98\fad(2000,0)\t(\fscx100\fscy100)\c&H6B5554&\frz52.35\move(299,542,260,560)}今天的衣服 美波里
 Dialogue: 0,0:18:09.03,0:18:11.95,Screen,,0,0,0,,{\fs38\fnFZLanTingHei-M-GBK\fax0.2\c&H000000&\pos(452,5)\frz350.8}第一次期末考試成績優秀者榜單
 Dialogue: 0,0:18:09.03,0:18:11.95,Screen,,0,0,0,,{\fs30\fnFZYaSong-M-GBK\fax0.1\c&H6F5940&\pos(366,241)\frz352.5}第1名 緒山美波里 500分
-Dialogue: 0,0:22:00.97,0:22:05.93,Screen,,0,0,0,,{\alpha&H33\fnFZLanTingHei-B-GBK\fscx91\fscy91\t(\fscx100\fscy100)\fad(1950,0)\fax0.6\c&H73574E&\frz17.18\move(553,382,546,384)}哥哥改造計劃
+Dialogue: 0,0:22:00.97,0:22:05.93,Screen,,0,0,0,,{\alpha&H33&\fnFZLanTingHei-B-GBK\fscx91\fscy91\t(\fscx100\fscy100)\fad(1950,0)\fax0.6\c&H73574E&\frz17.18\move(553,382,546,384)}哥哥改造計劃
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
 Dialogue: 0,0:05:16.09,0:05:17.38,OP_JP,,0,0,0,,{\fad(240,240)}アリ!? ナシ!?
 Dialogue: 0,0:05:17.80,0:05:18.97,OP_JP,,0,0,0,,{\fad(240,240)}ナシ!? アリ!?
