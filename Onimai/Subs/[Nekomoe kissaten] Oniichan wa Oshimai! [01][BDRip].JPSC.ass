@@ -456,7 +456,7 @@ Dialogue: 0,0:03:16.76,0:03:30.23,Screen,,0,0,0,,{\fs38\bord1\c&H7157BD&\3c&H000
 Dialogue: 0,0:03:22.01,0:03:30.23,Screen,,0,0,0,,{\fs38\bord1\c&H92BEC7&\3c&H000000&}家里蹲
 Dialogue: 0,0:03:25.73,0:03:30.23,Screen,,0,0,0,,{\fs38\bord1\c&H965A31&\3c&H000000&}下流
 Dialogue: 0,0:13:19.49,0:13:23.41,Screen,,0,0,0,,{\fs30\fscx90.98\fscy90.98\fad(2000,0)\t(\fscx100\fscy100)\c&H6B5554&\frz52.35\move(299,542,260,560)}今天的衣服 美波里
-Dialogue: 0,0:18:09.03,0:18:11.95,Screen,,0,0,0,,{\fs38\fnFZLanTingHei-M-GBK\fax0.2\c&H30180C&\pos(452,5)\frz350.8\blur0.9}{\alpha&H59&}第{\alpha&H59&}一{\alpha&H4D&}次{\alpha&H40&}期{\alpha&H33&}末{\alpha&H1A&}考试{\alpha&H0D&}成{\alpha&H00&}绩优秀者榜单
+Dialogue: 0,0:18:09.03,0:18:11.95,Screen,,0,0,0,,{\fs38\fnFZLanTingHei-M-GBK\fax0.2\c&H30180C&\pos(452,5)\frz350.8\blur0.9\alpha&H59&}第{\alpha&H59&}一{\alpha&H4D&}次{\alpha&H40&}期{\alpha&H33&}末{\alpha&H1A&}考试{\alpha&H0D&}成{\alpha&H00&}绩优秀者榜单
 Dialogue: 0,0:18:09.03,0:18:11.95,Screen,,0,0,0,,{\fs30\fnFZYaSong-M-GBK\fax0.1\c&H816B4C&\pos(366,241)\frz352.5\blur0.7}第1名 绪山美波里 500分
 Dialogue: 0,0:22:00.97,0:22:05.93,Screen,,0,0,0,,{\alpha&H33&\fnFZLanTingHei-B-GBK\fscx91\fscy91\t(\fscx100\fscy100)\fad(1950,0)\fax0.6\c&H73574E&\frz17.18\move(553,382,546,384)}哥哥改造计划
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
