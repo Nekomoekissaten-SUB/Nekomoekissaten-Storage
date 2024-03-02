@@ -7,7 +7,7 @@ about="https://github.com/Nekomoekissaten-SUB"
 # filename_regex='''\]\[(?<ep>\d{2})\]\['''
 filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
 resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
-tags=["Anime", "TV"]
+tags=["Anime", "TV", "Batch"]
 
 [[intro_template]]
 site="nyaa"
