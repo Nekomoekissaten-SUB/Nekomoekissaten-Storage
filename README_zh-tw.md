@@ -1,4 +1,4 @@
-<p align="center"> <a href="README.md">简体中文</a> | <b>繁體中文</b> </p>
+<p align="left"> <a href="README.md">简体中文</a> | <b>繁體中文</b> </p>
 
 # Nekomoekissaten-Storage
 
