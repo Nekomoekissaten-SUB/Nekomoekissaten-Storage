@@ -421,8 +421,8 @@ Dialogue: 0,0:00:29.80,0:00:36.31,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\clip(675
 Dialogue: 0,0:02:46.52,0:02:53.28,Screen,,0,0,0,,{\fnFZLanTingYuan-H-GBK\c&HB3BA98&\pos(770,386)}值日生
 Dialogue: 0,0:03:03.91,0:03:08.42,Screen,,0,0,0,,{\fnFZLanTingYuan-H-GBK}值日生\N{\fnDFHannotateW7-A}櫻坂 藥院
 Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fn@FZLanTingHei-B-GBK\bord0.5\fax0.2\fscy80\c&H362C29&\3c&H6ED7C9&\frz348.9\pos(648,36)}日本歷史大全
-Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fs38\fn@FZLanTingHei-B-GBK\bord1.5\fax0.3\frz347\c&H362C29&\3c&H41706B&\pos(485,96)}世界地理大百科{\fs33\fscx2100} {\fscx100}北美洲篇
-Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fs38\fn@FZLanTingHei-B-GBK\bord1.5\fax0.3\frz347\c&H362C29&\3c&H41706B&\pos(544,248)}世界地理大百科{\fs33\fscx2100} {\fscx100}南美洲篇
+Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fs38\fn@FZLanTingHei-B-GBK\bord1.5\fax0.3\frz347\c&H362C29&\3c&H41706B&\pos(485,96)}世界地理大百科{\fs33\fscx2100} {\fscx100}北美篇
+Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fs38\fn@FZLanTingHei-B-GBK\bord1.5\fax0.3\frz347\c&H362C29&\3c&H41706B&\pos(544,248)}世界地理大百科{\fs33\fscx2100} {\fscx100}南美篇
 Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fs38\fn@FZLanTingHei-B-GBK\bord1.5\fax0.3\c&H362C29&\3c&H41706B&\pos(506,345)\frz346.5}世界地理大百科{\fs33\fscx1800} {\fscx100}亞洲篇
 Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fs28\fn@FZLanTingHei-DB-GBK\bord2\fax0.7\fsp3\c&H96E5E2&\3c&H0E3735&\frz316.5\pos(9,158)}古代歐洲文化
 Dialogue: 0,0:05:22.80,0:05:24.30,Screen,,0,0,0,,{\fs28\fn@FZLanTingHei-DB-GBK\bord2\fax1\fsp3\c&H3F306A&\3c&H000000&\frz307.2\pos(57,46)}古代美洲
