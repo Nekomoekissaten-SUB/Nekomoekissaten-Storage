@@ -197,7 +197,7 @@ Dialogue: 5,0:09:59.62,0:10:00.63,Default,,0,0,0,,我说我说
 Dialogue: 5,0:10:01.99,0:10:03.98,Default,,0,0,0,,波奇酱回信了吗
 Dialogue: 5,0:10:04.67,0:10:05.82,Default,,0,0,0,,已读不回
 Dialogue: 5,0:10:06.21,0:10:08.92,Default,,0,0,0,,刚才发的那些LOINE是不是不太好啊
-Dialogue: 5,0:10:09.08,0:10:10.57,Default,,0,0,0,,我到没觉得…
+Dialogue: 5,0:10:09.08,0:10:10.57,Default,,0,0,0,,我倒没觉得…
 Dialogue: 5,0:10:11.02,0:10:15.46,Default,,0,0,0,,今天应该是自主练习的日子 她可能只是忙呢
 Dialogue: 5,0:10:15.63,0:10:17.26,Default,,0,0,0,,是这样吗
 Dialogue: 5,0:10:17.44,0:10:20.89,Default,,0,0,0,,但是怎么办 如果我们把她逼急了
@@ -924,7 +924,7 @@ Dialogue: 0,0:11:26.79,0:11:26.83,Screen,,0,0,0,,{\fscy102.02\fscx102.02\fs25\fn
 Dialogue: 0,0:11:26.83,0:11:26.87,Screen,,0,0,0,,{\fscy102.04\fscx102.04\fs25\fnFZLanTingHei-B-GBK\c&H000000&\pos(150.2,296.02)}一时间的欲望\N得到满足
 Dialogue: 0,0:11:26.87,0:11:30.08,Screen,,0,0,0,,{\fscy102.07\fscx102.07\fs25\fnFZLanTingHei-B-GBK\c&H000000&\pos(150.06,296.02)}一时间的欲望\N得到满足
 Dialogue: 0,0:11:47.85,0:11:47.90,Screen,,0,0,0,,{\fs60\fnFZLanTingYuan-DB-GBK\c&H000000&\pos(535,532)\iclip(m 663.33 520 l 642.67 599.33 511.33 586 536 520.67)}xx年后
-Dialogue: 0,0:11:47.90,0:11:49.98,Screen,,0,0,0,,{\fs60\fnFZLanTingYuan-DB-GBK\c&H000000&\pos(535,532)}xx年后
+Dialogue: 0,0:11:47.90,0:11:49.98,Screen,,0,0,0,,{\fs60\fnFZLanTingYuan-DB-GBK\c&H000000&\pos(535,532)}XX 年后
 Dialogue: 0,0:12:05.45,0:12:09.83,Screen,,0,0,0,,{\fs20\fax-0.1\c&HDEB858&\frz337.9\pos(640,188)}酒后恐怖故事合集
 Dialogue: 0,0:12:05.45,0:12:09.58,Screen,,0,0,0,,{\fs15\fax-0.1\c&H323232&\frz337.9\pos(609,271)}分类
 Dialogue: 0,0:12:09.58,0:12:09.67,Screen,,0,0,0,,{\fs15\fax-0.1\c&H323232&\frz337.9\pos(609,271)\iclip(m 600.62 272.82 b 614.56 272.1 624.41 280.92 624.82 283.08 628 287.28 627.38 296.92 622.77 301.54 l 594.46 287.18)}分类
@@ -944,7 +944,7 @@ Dialogue: 0,0:12:05.45,0:12:09.83,Screen,,0,0,0,,{\fs13\fnFZLanTingHei-L-GBK\fax
 Dialogue: 0,0:12:05.45,0:12:09.83,Screen,,0,0,0,,{\fs13\fnFZLanTingHei-L-GBK\fax-0.1\c&HDEB858&\u1\frz337.2\pos(585,448)}醒来以后…
 Dialogue: 0,0:12:05.45,0:12:09.83,Screen,,0,0,0,,{\fs13\fnFZLanTingHei-L-GBK\fax-0.1\c&HDEB858&\u1\frz337.2\pos(535,454)}伤痕
 Dialogue: 0,0:12:05.45,0:12:09.83,Screen,,0,0,0,,{\fs13\fnFZLanTingHei-L-GBK\fax-0.1\c&HDEB858&\u1\frz337.2\pos(542,487)}遗忘
-Dialogue: 0,0:12:05.45,0:12:09.83,Screen,,0,0,0,,{\fs13\fnFZLanTingHei-L-GBK\fax-0.1\c&HDEB858&\u1\frz337.2\pos(535,514)}公路卡拉ok
+Dialogue: 0,0:12:05.45,0:12:09.83,Screen,,0,0,0,,{\fs13\fnFZLanTingHei-L-GBK\fax-0.1\c&HDEB858&\u1\frz337.2\pos(535,514)}公路卡拉OK
 Dialogue: 0,0:12:48.58,0:12:50.50,Screen,,0,0,0,,{\fs60\fnFZLanTingYuan-DB-GBK\move(1303.74,481.78,-237.43,481.78)}说明中
 Dialogue: 0,0:13:37.84,0:13:37.96,Screen,,0,0,0,,{\fs30\fnFZLanTingHei-B-GBK\fax0.2\c&H945598&\pos(206,44)\frz353\iclip(m 235.91 41.85 l 231.76 76.12 354 93.03 357.07 58.78)}交通管制通知
 Dialogue: 0,0:13:37.96,0:13:38.09,Screen,,0,0,0,,{\fs30\fnFZLanTingHei-B-GBK\fax0.2\c&H945598&\pos(206,44)\frz353\iclip(m 296.16 48.63 l 290.82 89.1 359.22 93.8 357.96 59.92)}交通管制通知
