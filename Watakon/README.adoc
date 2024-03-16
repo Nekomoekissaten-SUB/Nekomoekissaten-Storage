@@ -19,7 +19,7 @@
 
 == 第 1 期
 
-EP.01-12 含 OP 特效
+EP.01-12 含 {dl_link}/{tag_big}/Watakon_S1_Effect.7z[OP 特效]
 
 {dl_link}/{tag_chi}/Watakon_Web_JPCH.7z[简繁日双语 Web 合集]
 
@@ -37,7 +37,5 @@ Sitka Small Bold Italic
 华康翩翩体W3-A <DFHanziPenW3-A>
 华康翩翩体W5-A <DFHanziPenW5-A>
 ....
-
-// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
 
 // {back_to_top}
