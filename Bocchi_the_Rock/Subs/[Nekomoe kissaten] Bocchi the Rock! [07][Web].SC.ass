@@ -12,7 +12,7 @@ LayoutResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,FZLanTingHei-DB-GBK,50,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,10,1
-Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: Screen,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
 Style: Comment,FZLanTingHei-DB-GBK,38,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
 Style: Title,DFHanziPenW5-A,48,&H008E5DEB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
@@ -30,14 +30,14 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Staff---------------
 Dialogue: 0,0:04:12.11,0:04:14.86,Staff,,0,0,0,,{\fad(500,0)\c&H875BD8&}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途\N翻译：Orangeade  轮  丸丸  风云游侠　校对：i　时轴：卡布chino　后期：MIR　特效：七宝
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,------------Comment------------
-Dialogue: 0,0:09:56.43,0:09:58.41,Comment,,0,0,0,,这里的每个人发音同 独
+Dialogue: 0,0:09:53.82,0:09:58.41,Comment,,0,0,0,,注：这里的「我」发音同「独」。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Title---------------
 Dialogue: 0,0:04:12.11,0:04:14.86,Title,,0,0,0,,{\fad(500,0)\c&H875BD8&\pos(765.07,450.47)}到你家里
 Dialogue: 0,0:23:38.94,0:23:39.98,Next,,0,0,0,,{\frz10.2\pos(595,560)}孤独摇滚
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Text---------------
 Dialogue: 0,0:00:05.48,0:00:07.57,Default,,0,0,0,,好热啊
 Dialogue: 0,0:00:07.88,0:00:09.89,Default,,0,0,0,,完全进入夏天了啊
-Dialogue: 0,0:00:10.06,0:00:14.86,Default,,0,0,0,,是啊 再走一会就到后藤家了
+Dialogue: 0,0:00:10.06,0:00:14.86,Default,,0,0,0,,是啊 再走一会就到后藤同学家了
 Dialogue: 0,0:00:14.86,0:00:18.38,Default,,0,0,0,,好耶 话说要谢谢你带路
 Dialogue: 0,0:00:18.38,0:00:20.40,Default,,0,0,0,,没事 好期待呢
 Dialogue: 0,0:00:20.40,0:00:23.42,Default,,0,0,0,,嗯 感觉好新鲜啊
@@ -85,7 +85,7 @@ Dialogue: 0,0:02:23.88,0:02:25.04,Default,,0,0,0,,总之
 Dialogue: 0,0:02:27.40,0:02:29.17,Default,,0,0,0,,波奇酱 我们来了
 Dialogue: 0,0:02:29.17,0:02:30.40,Default,,0,0,0,,你好
 Dialogue: 0,0:02:31.18,0:02:33.13,Default,,0,0,0,,马…马上开门
-Dialogue: 0,0:02:38.43,0:02:44.38,Default,,0,0,0,,Yeah！ Welcome！
+Dialogue: 0,0:02:38.43,0:02:44.38,Default,,0,0,0,,Yeah! Welcome!
 Dialogue: 0,0:04:27.91,0:04:29.88,Default,,0,0,0,,波奇酱好像很开心呢
 Dialogue: 0,0:04:30.15,0:04:31.35,Default,,0,0,0,,啊 嗯
 Dialogue: 0,0:04:31.35,0:04:33.20,Default,,0,0,0,,冷…冷场了
@@ -188,8 +188,8 @@ Dialogue: 0,0:09:14.29,0:09:16.09,Default,,0,0,0,,等等 冠军是什么
 Dialogue: 0,0:09:16.09,0:09:17.83,Default,,0,0,0,,演出可没有这一说
 Dialogue: 0,0:09:18.86,0:09:19.65,Default,,0,0,0,,感觉啊
 Dialogue: 0,0:09:19.65,0:09:20.23,Default,,0,0,0,,感觉?
-Dialogue: 0,0:09:20.57,0:09:24.66,Default,,0,0,0,,你不觉得我们都穿上这种衣服 大家的心就能连结成一体
-Dialogue: 0,0:09:24.92,0:09:26.00,Default,,0,0,0,,是不是 后藤…
+Dialogue: 0,0:09:20.57,0:09:24.66,Default,,0,0,0,,你不觉得我们都穿上这种衣服 大家的心就能连结成一体了吗
+Dialogue: 0,0:09:24.92,0:09:26.00,Default,,0,0,0,,是不是 后藤同学…
 Dialogue: 0,0:09:27.19,0:09:30.03,Default,,0,0,0,,班级团结…
 Dialogue: 0,0:09:30.03,0:09:30.61,Default,,0,0,0,,波奇酱
 Dialogue: 0,0:09:30.61,0:09:32.55,Default,,0,0,0,,对运动会有这么大的心理阴影…
@@ -200,13 +200,13 @@ Dialogue: 0,0:09:41.75,0:09:43.90,Default,,0,0,0,,是将没有运动才能的人
 Dialogue: 0,0:09:43.90,0:09:46.54,Default,,0,0,0,,并剥夺他们存在意义的邪恶仪式
 Dialogue: 0,0:09:46.87,0:09:48.95,Default,,0,0,0,,而且不光是在学校 连放学后也不放过
 Dialogue: 0,0:09:48.95,0:09:53.02,Default,,0,0,0,,他们被迫进行制作标语和训练加油动作的强制劳动
-Dialogue: 0,0:09:53.82,0:09:55.81,Default,,0,0,0,,每个人是为了大家
-Dialogue: 0,0:09:56.43,0:09:58.41,Default,,0,0,0,,大家都是为了每个人
-Dialogue: 0,0:09:58.91,0:10:00.91,Default,,0,0,0,,每个人是为了大家
-Dialogue: 0,0:10:01.48,0:10:03.47,Top,,0,0,0,,大家都是为了每个人
+Dialogue: 0,0:09:53.82,0:09:55.81,Default,,0,0,0,,我为人人
+Dialogue: 0,0:09:56.43,0:09:58.41,Default,,0,0,0,,人人为我
+Dialogue: 0,0:09:58.91,0:10:00.91,Default,,0,0,0,,我为人人
+Dialogue: 0,0:10:01.48,0:10:03.47,Top,,0,0,0,,人人为我
 Dialogue: 0,0:10:01.15,0:10:06.36,Default,,0,0,0,,整整一个月只是为了折磨社恐而存在的运动会
-Dialogue: 0,0:10:06.61,0:10:08.63,Default,,0,0,0,,大家都是为了独
-Dialogue: 0,0:10:10.38,0:10:12.76,Default,,0,0,0,,后藤融化了呢
+Dialogue: 0,0:10:06.61,0:10:08.63,Default,,0,0,0,,人人为我
+Dialogue: 0,0:10:10.38,0:10:12.76,Default,,0,0,0,,后藤同学融化了呢
 Dialogue: 0,0:10:12.89,0:10:14.84,Default,,0,0,0,,今天很热呢
 Dialogue: 0,0:10:22.51,0:10:35.51,Top,,0,0,0,,没有合作 就没有生命
 Dialogue: 0,0:10:25.23,0:10:30.94,Default,,0,0,0,,运动会 这项活动最恐怖的地方在于…
@@ -315,7 +315,7 @@ Dialogue: 0,0:14:57.38,0:14:58.50,Default,,0,0,0,,（有日本社恐委员会调
 Dialogue: 0,0:14:58.50,0:14:59.45,Default,,0,0,0,,波奇酱
 Dialogue: 0,0:14:59.45,0:15:01.37,Default,,0,0,0,,要没时间了 快加油啊
 Dialogue: 0,0:15:01.37,0:15:05.45,Top,,0,0,0,,普普通通的女生居然得到了两个帅哥…
-Dialogue: 0,0:15:02.97,0:15:04.68,Default,,0,0,0,,后藤
+Dialogue: 0,0:15:02.97,0:15:04.68,Default,,0,0,0,,后藤同学
 Dialogue: 0,0:15:05.32,0:15:06.62,Default,,0,0,0,,这下是回不来了
 Dialogue: 0,0:15:09.11,0:15:12.00,Default,,0,0,0,,凉发来了很多设计方案呢
 Dialogue: 0,0:15:12.35,0:15:13.23,Default,,0,0,0,,我想看看
@@ -396,7 +396,7 @@ Dialogue: 0,0:19:33.81,0:19:35.19,Default,,0,0,0,,要不要叫灵媒师
 Dialogue: 0,0:19:38.98,0:19:39.83,Default,,0,0,0,,为什么哦
 Dialogue: 0,0:19:42.05,0:19:43.58,Default,,0,0,1,,于是
 Dialogue: 0,0:19:43.88,0:19:45.57,Default,,0,0,0,,由于没有出现很好的提案
-Dialogue: 0,0:19:45.98,0:19:48.40,Default,,0,0,0,,T裇就采用我的方案了
+Dialogue: 0,0:19:45.98,0:19:48.40,Default,,0,0,0,,T恤就采用我的方案了
 Dialogue: 0,0:19:50.71,0:19:51.85,Default,,0,0,0,,好棒
 Dialogue: 0,0:19:51.85,0:19:54.04,Default,,0,0,0,,这是伊地知学姐设计的吗
 Dialogue: 0,0:19:54.04,0:19:56.38,Default,,0,0,0,,我很擅长设计哦

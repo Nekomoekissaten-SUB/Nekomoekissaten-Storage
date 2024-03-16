@@ -12,7 +12,7 @@ LayoutResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,FZLanTingHei-DB-GBK,50,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,10,1
-Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: Screen,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
 Style: Comment,FZLanTingHei-DB-GBK,38,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
 Style: Title,DFHanziPenW5-A,48,&H008E5DEB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
@@ -30,7 +30,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Staff---------------
 Dialogue: 0,0:04:13.11,0:04:15.86,Staff,,0,0,0,,{\fad(500,0)\c&H0E8AF1&}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途\N翻譯：Orangeade  輪  丸丸  風雲遊俠　校對：i　時軸：卡布chino　後期：MIR　特效：七寶
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,------------Comment------------
-Dialogue: 0,0:00:43.02,0:00:45.26,Comment,,0,0,0,,一萬日元上的人像為福澤諭吉
+Dialogue: 0,0:00:43.02,0:00:45.26,Comment,,0,0,0,,註：一萬日元上的人為福澤諭吉。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Title---------------
 Dialogue: 0,0:04:13.11,0:04:15.86,Title,,0,0,0,,{\fad(500,0)\c&H0E8AF1&\pos(755,450)}無法飛翔的魚
 Dialogue: 0,0:23:38.98,0:23:40.02,Next,,0,0,0,,{\frz10.2\pos(643,551)}八景
@@ -168,8 +168,8 @@ Dialogue: 5,0:07:16.96,0:07:19.69,Default,,0,0,0,,那麼我們只需要努力就
 Dialogue: 5,0:07:21.43,0:07:22.77,Default,,0,0,0,,太好了
 Dialogue: 5,0:07:23.91,0:07:24.97,Default,,0,0,0,,嗯 是啊
 Dialogue: 5,0:07:25.08,0:07:28.12,Default,,0,0,0,,妳這表情不是在說這兩人是最大的不穩定因素嗎
-Dialogue: 5,0:07:29.26,0:07:31.58,Default,,0,0,0,,我們會先搞定妳們的部分的錄音
-Dialogue: 5,0:07:31.58,0:07:33.86,Default,,0,0,0,,到時候只需做好動作就好了
+Dialogue: 5,0:07:29.26,0:07:31.58,Default,,0,0,0,,我們會先搞定妳們這部分的錄音
+Dialogue: 5,0:07:31.58,0:07:33.86,Default,,0,0,0,,到時候只需做好動作就行了
 Dialogue: 5,0:07:33.86,0:07:34.38,Default,,0,0,0,,好的
 Dialogue: 5,0:07:34.38,0:07:36.85,Default,,0,0,0,,不行 不能有空氣吉他
 Dialogue: 5,0:07:37.07,0:07:40.45,Default,,0,0,0,,只剩一個禮拜了 不能這麼強人所難啊
@@ -201,7 +201,7 @@ Dialogue: 5,0:08:51.26,0:08:52.68,Default,,0,0,0,,沒有
 Dialogue: 5,0:08:53.15,0:08:56.97,Default,,0,0,0,,但是如果不在這種犄角旮旯而是在教室裡的話…
 Dialogue: 5,0:08:57.20,0:08:59.99,Default,,0,0,0,,啊 那個 那個…
 Dialogue: 5,0:08:59.99,0:09:01.47,Default,,0,0,0,,那麼肯定有很多人抱著批判的眼神
-Dialogue: 5,0:09:01.47,0:09:05.36,Default,,0,0,0,,想著為什麼像喜多這樣帥氣的女孩和她這種敗犬一起…
+Dialogue: 5,0:09:01.47,0:09:05.36,Default,,0,0,0,,想著「為什麼像喜多這樣帥氣的女孩和她這種敗犬一起」…
 Dialogue: 5,0:09:05.36,0:09:06.54,Default,,0,0,0,,啊 我明白了
 Dialogue: 5,0:09:07.42,0:09:09.88,Default,,0,0,0,,教室裡練習會吵到別人呢
 Dialogue: 5,0:09:10.02,0:09:11.47,Default,,0,0,0,,不愧是後藤同學
@@ -294,7 +294,7 @@ Dialogue: 5,0:14:15.76,0:14:17.67,Default,,0,0,0,,那就明天再見啦
 Dialogue: 5,0:14:37.54,0:14:40.41,Default,,0,0,0,,仔細思考了一晚上
 Dialogue: 5,0:14:41.30,0:14:42.92,Default,,0,0,0,,我在樂隊的理由
 Dialogue: 5,0:14:46.88,0:14:48.24,Default,,0,0,0,,我們是結束樂隊
-Dialogue: 5,0:14:50.36,0:14:55.04,Default,,0,0,0,,接下來我們帶來的是 「吉他與孤獨與蒼藍之星」
+Dialogue: 5,0:14:50.36,0:14:55.04,Default,,0,0,0,,接下來我們帶來的是「吉他與孤獨與蒼藍之星」
 Dialogue: 5,0:14:58.09,0:15:02.60,Default,,0,0,0,,現在的我依然想收穫人氣 被人讚賞
 Dialogue: 5,0:15:05.98,0:15:08.98,Default,,0,0,0,,但那不只是為了我自己
 Dialogue: 5,0:15:13.24,0:15:14.52,Default,,0,0,0,,是為了樂隊全員

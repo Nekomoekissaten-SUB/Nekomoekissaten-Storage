@@ -12,7 +12,7 @@ LayoutResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,FZLanTingHei-DB-GBK,50,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,10,1
-Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: Screen,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
 Style: Comment,FZLanTingHei-DB-GBK,38,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
 Style: Title,DFHanziPenW5-A,48,&H008E5DEB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
@@ -106,8 +106,8 @@ Dialogue: 5,0:03:59.84,0:04:01.29,Default,,0,0,0,,拜拜 波奇
 Dialogue: 5,0:04:01.63,0:04:03.08,Default,,0,0,0,,学姐
 Dialogue: 5,0:04:03.08,0:04:05.76,Default,,0,0,0,,我凭着广大深厚的人脉
 Dialogue: 5,0:04:05.76,0:04:09.19,Default,,0,0,0,,找到了位完美且开朗的吉他手
-Dialogue: 5,0:04:09.38,0:04:13.11,Default,,0,0,0,,yeah 摇滚
-Dialogue: 5,0:04:13.31,0:04:16.28,Default,,0,0,0,,yeah 摇滚
+Dialogue: 5,0:04:09.38,0:04:13.11,Default,,0,0,0,,Yeah! Rock you!
+Dialogue: 5,0:04:13.31,0:04:16.28,Default,,0,0,0,,Yeah! Rock you!
 Dialogue: 5,0:04:19.86,0:04:23.10,Default,,0,0,0,,为什么我要向妈妈逞那能
 Dialogue: 5,0:04:29.47,0:04:31.19,Default,,0,0,0,,有…有人摔倒了
 Dialogue: 5,0:04:31.60,0:04:33.30,Default,,0,0,0,,怎么办 要跟她搭话
@@ -120,7 +120,7 @@ Dialogue: 5,0:04:48.34,0:04:49.89,Default,,0,0,0,,还有醒酒药
 Dialogue: 5,0:04:50.11,0:04:50.80,Default,,0,0,0,,好
 Dialogue: 5,0:04:51.47,0:04:53.71,Default,,0,0,0,,还有蚬贝味噌汤
 Dialogue: 5,0:04:53.93,0:04:55.53,Default,,0,0,0,,还想喝粥
-Dialogue: 5,0:04:56.02,0:05:00.36,Default,,0,0,0,,最好把我放在有刚晾干的床单的床上照顾
+Dialogue: 5,0:04:56.02,0:05:00.36,Default,,0,0,0,,最好把我放在刚晒过太阳 松松软软的床上照顾
 Dialogue: 5,0:05:00.54,0:05:02.95,Default,,0,0,0,,要…要求好多
 Dialogue: 5,0:06:37.12,0:06:39.55,Default,,0,0,0,,直达肝脏
 Dialogue: 5,0:06:40.28,0:06:43.28,Default,,0,0,0,,得救了 真是太感谢你了
@@ -165,9 +165,9 @@ Dialogue: 5,0:08:22.62,0:08:24.73,Default,,0,0,0,,最近这些年轻人啊
 Dialogue: 5,0:08:26.02,0:08:27.64,Default,,0,0,0,,不要小看摇滚啊
 Dialogue: 5,0:08:28.90,0:08:31.20,Default,,0,0,0,,在我说错话之前消失吧
 Dialogue: 5,0:08:31.61,0:08:33.15,Default,,0,0,0,,独酱 你怎么了
-Dialogue: 5,0:08:33.34,0:08:36.56,Default,,0,0,0,,虽然是我买了这个吉他 但是一天就经受了挫折
+Dialogue: 5,0:08:33.34,0:08:36.56,Default,,0,0,0,,虽然是我买了这个吉他 但是第一天就经受了挫折
 Dialogue: 5,0:08:36.56,0:08:38.71,Default,,0,0,0,,正准备去当铺卖掉呢
-Dialogue: 5,0:08:39.22,0:08:41.53,Default,,0,0,0,,我想要让更适合的人得到这个吉他
+Dialogue: 5,0:08:39.22,0:08:41.53,Default,,0,0,0,,我想要让更合适的人得到这个吉他
 Dialogue: 5,0:08:41.53,0:08:43.01,Default,,0,0,0,,让它能有更广阔的舞台
 Dialogue: 5,0:08:43.01,0:08:44.75,Default,,0,0,0,,我完全弹不了
 Dialogue: 5,0:08:44.75,0:08:47.25,Default,,0,0,0,,对不起啊 我在想能卖多少钱啊
@@ -224,7 +224,7 @@ Dialogue: 5,0:11:08.88,0:11:10.83,Default,,0,0,0,,你这么喜欢酒呢
 Dialogue: 5,0:11:10.83,0:11:15.16,Default,,0,0,0,,嗯 毕竟喝酒就可以忘记一切
 Dialogue: 5,0:11:15.16,0:11:15.93,Default,,0,0,0,,一切
 Dialogue: 5,0:11:16.09,0:11:17.95,Default,,0,0,0,,比方说 对未来的不安
-Dialogue: 5,0:11:18.10,0:11:21.31,Default,,0,0,0,,年金问题 人口稀疏化  贫富差距
+Dialogue: 5,0:11:18.10,0:11:21.31,Default,,0,0,0,,年金问题 人口稀疏化 贫富差距
 Dialogue: 5,0:11:24.40,0:11:27.77,Default,,0,0,0,,我称之为幸福循环
 Dialogue: 5,0:11:27.77,0:11:28.92,Default,,0,0,0,,可以学学哦
 Dialogue: 5,0:11:28.92,0:11:29.73,Default,,0,0,0,,不
@@ -236,7 +236,7 @@ Dialogue: 5,0:11:38.63,0:11:40.89,Default,,0,0,0,,就算成年也不想懂
 Dialogue: 5,0:11:39.40,0:11:41.37,Top,,0,0,0,,你绝对超级有酒瘾的
 Dialogue: 5,0:11:41.37,0:11:43.79,Default,,0,0,0,,我只要看你的脸就知道了
 Dialogue: 5,0:11:44.59,0:11:47.54,Default,,0,0,0,,沉浸在酒里的我 到底是怎么样的呢
-Dialogue: 5,0:11:58.14,0:12:01.76,Default,,0,0,0,,妈妈最近终于不叨叨我去考公了呢
+Dialogue: 5,0:11:58.14,0:12:01.76,Default,,0,0,0,,妈妈最近终于不叨叨我去找工作了呢
 Dialogue: 5,0:12:02.45,0:12:05.03,Default,,0,0,0,,她照顾外孙肯定也很忙吧
 Dialogue: 5,0:12:06.07,0:12:08.48,Default,,0,0,0,,双也成为妈妈了呢
 Dialogue: 5,0:12:09.07,0:12:11.28,Default,,0,0,0,,这样下去确实不太行
@@ -291,7 +291,7 @@ Dialogue: 5,0:14:47.37,0:14:51.31,Default,,0,0,0,,你面前的人可不是你的
 Dialogue: 5,0:14:55.09,0:14:56.83,Default,,0,0,0,,可别认错敌人了哦
 Dialogue: 5,0:14:59.37,0:15:00.08,Default,,0,0,0,,敌人
 Dialogue: 5,0:15:02.23,0:15:04.29,Default,,0,0,0,,敌人是什么意思
-Dialogue: 5,0:15:05.99,0:15:07.99,Default,,0,0,0,,后藤在学校是什么样子的
+Dialogue: 5,0:15:05.99,0:15:07.99,Default,,0,0,0,,后藤同学在学校是什么样子的
 Dialogue: 5,0:15:08.11,0:15:11.60,Default,,0,0,0,,是的 大概是能想象得到
 Dialogue: 5,0:15:12.04,0:15:13.00,Default,,0,0,0,,就…
 Dialogue: 5,0:15:13.20,0:15:14.49,Default,,0,0,0,,果然是孤零零的吗

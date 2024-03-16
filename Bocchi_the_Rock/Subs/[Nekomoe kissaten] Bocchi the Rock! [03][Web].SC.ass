@@ -12,7 +12,7 @@ LayoutResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,FZLanTingHei-DB-GBK,50,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,10,1
-Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: Screen,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
 Style: Comment,FZLanTingHei-DB-GBK,38,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
 Style: Title,DFHanziPenW5-A,48,&H008E5DEB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
@@ -112,7 +112,7 @@ Dialogue: 0,0:03:32.14,0:03:35.15,Default,,0,0,0,,我的个体同一性就要崩
 Dialogue: 0,0:03:38.11,0:03:40.70,Default,,0,0,0,,嗯？什么声音
 Dialogue: 0,0:05:15.41,0:05:17.98,Default,,0,0,0,,虽说努力来到了教室
 Dialogue: 0,0:05:17.98,0:05:19.85,Default,,0,0,0,,但还没做好心理准备
-Dialogue: 0,0:05:19.85,0:05:21.75,Default,,0,0,0,,你是二班的后藤吧
+Dialogue: 0,0:05:19.85,0:05:21.75,Default,,0,0,0,,你是二班的后藤同学吧
 Dialogue: 0,0:05:22.89,0:05:24.05,Default,,0,0,0,,知道我的名…
 Dialogue: 0,0:05:24.05,0:05:26.21,Default,,0,0,0,,请问 你要找谁
 Dialogue: 0,0:05:27.23,0:05:28.90,Default,,0,0,0,,要…要说出来啊 独
@@ -328,7 +328,7 @@ Dialogue: 0,0:15:38.04,0:15:41.32,Default,,0,0,0,,嗯 因为在一起的时间�
 Dialogue: 0,0:15:41.32,0:15:43.03,Default,,0,0,0,,大家朝着同一个梦想进发
 Dialogue: 0,0:15:43.16,0:15:46.63,Default,,0,0,0,,这是超越友情和爱情的奇妙存在
 Dialogue: 0,0:15:47.36,0:15:49.50,Default,,0,0,0,,因为没参与过社团活动什么的
-Dialogue: 0,0:15:49.50,0:15:51.51,Default,,0,0,0,,所以我一直对这种十分憧憬
+Dialogue: 0,0:15:49.50,0:15:51.51,Default,,0,0,0,,所以我一直对这种活动十分憧憬
 Dialogue: 0,0:15:51.73,0:15:55.10,Default,,0,0,0,,我懂 我也曾经憧憬过
 Dialogue: 0,0:15:55.43,0:15:59.95,Default,,0,0,0,,没错 我要进入结束乐队成为学姐的女儿
 Dialogue: 0,0:16:00.15,0:16:02.65,Default,,0,0,0,,比朋友更深入 更亲近

@@ -12,7 +12,7 @@ LayoutResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,FZLanTingHei-DB-GBK,50,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,10,1
-Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: Screen,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
 Style: Comment,FZLanTingHei-DB-GBK,38,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
 Style: Title,DFHanziPenW5-A,48,&H008E5DEB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
@@ -126,7 +126,7 @@ Dialogue: 0,0:09:48.16,0:09:49.06,Default,,0,0,0,,那个
 Dialogue: 0,0:09:49.92,0:09:53.82,Default,,0,0,0,,我的演奏无法吸引人
 Dialogue: 0,0:09:55.40,0:09:59.33,Default,,0,0,0,,不过我似乎很擅长配合大家
 Dialogue: 0,0:10:00.34,0:10:03.23,Default,,0,0,0,,我之后会更加努力练习吉他的 所以你也多教教我啊
-Dialogue: 0,0:10:04.09,0:10:07.17,Default,,0,0,0,,后藤…独酱
+Dialogue: 0,0:10:04.09,0:10:07.17,Default,,0,0,0,,后藤同学…独酱
 Dialogue: 0,0:10:09.16,0:10:10.41,Default,,0,0,0,,那么我先走了
 Dialogue: 0,0:10:10.75,0:10:12.17,Default,,0,0,0,,准备好了就过来吧
 Dialogue: 0,0:10:12.76,0:10:13.34,Default,,0,0,0,,好的
@@ -216,7 +216,7 @@ Dialogue: 0,0:14:45.76,0:14:47.29,Default,,0,0,0,,我们走
 Dialogue: 0,0:14:47.29,0:14:48.66,Top,,0,0,0,,一路走好
 Dialogue: 0,0:14:47.64,0:14:49.24,Default,,0,0,0,,波奇酱好温柔
 Dialogue: 0,0:14:50.27,0:14:52.34,Default,,0,0,0,,但我是喜欢突然来个惊喜的人
-Dialogue: 0,0:14:55.65,0:14:58.84,Default,,0,0,0,,说到乐器店的话  果然还得是御茶之水
+Dialogue: 0,0:14:55.65,0:14:58.84,Default,,0,0,0,,说到乐器店的话 果然还得是御茶之水
 Dialogue: 0,0:14:59.17,0:15:03.04,Default,,0,0,0,,独酱 为什么会有那么多乐器店呢
 Dialogue: 0,0:15:03.44,0:15:04.95,Default,,0,0,0,,那是因为
 Dialogue: 0,0:15:05.41,0:15:09.31,Default,,0,0,0,,明治时代被誉为日本历史最古老的铜管乐队结成之后

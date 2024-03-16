@@ -12,7 +12,7 @@ LayoutResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,FZLanTingHei-DB-GBK,50,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,10,1
-Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,15,1
+Style: Top,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,8,10,10,15,1
 Style: Screen,FZLanTingHei-DB-GBK,44,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,15,1
 Style: Comment,FZLanTingHei-DB-GBK,38,&H00FFFFFF,&H00FFFFFF,&H008C19CF,&H00000000,0,0,0,0,100,100,2,0,1,2,0,7,10,10,15,1
 Style: Title,DFHanziPenW5-A,48,&H008E5DEB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
@@ -34,7 +34,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Staff---------------
 Dialogue: 0,0:04:32.04,0:04:34.80,Staff,,0,0,0,,{\fad(500,0)\c&HFFFFFF&}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途\N翻译：Orangeade  轮  丸丸  风云游侠　校对：i　时轴：卡布chino　后期：MIR　特效：七宝
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,------------Comment------------
-Dialogue: 0,0:01:32.78,0:01:36.81,Comment,,0,0,0,,{\fs35}neta NHK节目「达尔文来了」 日语「喜多」与「来了」同音
+Dialogue: 0,0:01:32.78,0:01:36.81,Comment,,0,0,0,,{\fs35}注：neta NHK节目「达尔文来了」，日语「喜多」与「来了」同音。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Title---------------
 Dialogue: 0,0:04:32.04,0:04:34.80,Title,,0,0,0,,{\fad(500,0)\c&HFFFFFF&\pos(760,449)}十二进制的黄昏
 Dialogue: 0,0:23:39.02,0:23:40.07,Next,,0,0,0,,{\frz10.2\pos(537,569)}晨曦降临到你身边
@@ -191,15 +191,16 @@ Dialogue: 0,0:09:34.77,0:09:37.05,Default,,0,0,0,,请点单
 Dialogue: 0,0:09:37.05,0:09:38.68,Default,,0,0,0,,是啊
 Dialogue: 0,0:09:38.68,0:09:40.17,Default,,0,0,0,,谁借我点钱…
 Dialogue: 0,0:09:41.51,0:09:42.97,Default,,0,0,0,,看起来好好吃
-Dialogue: 0,0:09:43.33,0:09:48.73,Default,,0,0,0,,这个 这个轻轻软软 在你嘴里融开的魔法蛋包饭 是什么东西
+Dialogue: 0,0:09:43.33,0:09:44.31,Default,,0,0,0,,这个
+Dialogue: 0,0:09:44.31,0:09:48.73,Default,,0,0,0,,这个「轻轻软软 在你嘴里融开的魔法蛋包饭」是什么东西
 Dialogue: 0,0:09:48.73,0:09:50.61,Default,,0,0,0,,只是蛋包饭呢
-Dialogue: 0,0:09:50.61,0:09:53.86,Default,,0,0,0,,这个独角兽闪耀梦境蛋包饭…
+Dialogue: 0,0:09:50.61,0:09:53.86,Default,,0,0,0,,这个「独角兽闪耀梦境蛋包饭」…
 Dialogue: 0,0:09:53.86,0:09:55.95,Default,,0,0,0,,这也是普通的蛋包饭
-Dialogue: 0,0:09:56.27,0:09:59.30,Default,,0,0,0,,那这个 不行了 真的不行了 病怏怏蛋包饭呢
+Dialogue: 0,0:09:56.27,0:09:59.30,Default,,0,0,0,,那这个「不行了 真的不行了 病怏怏蛋包饭」呢
 Dialogue: 0,0:09:59.71,0:10:02.22,Default,,0,0,0,,这也是普通的蛋包饭
 Dialogue: 0,0:10:02.22,0:10:05.19,Default,,0,0,0,,这些只是名字不同 其他完全一样吗
 Dialogue: 0,0:10:05.56,0:10:08.26,Default,,0,0,0,,我们预算全部花在女仆装上了
-Dialogue: 0,0:10:09.62,0:10:13.07,Default,,0,0,0,,轻轻软软 在你嘴里融开的魔法蛋包饭
+Dialogue: 0,0:10:09.62,0:10:13.07,Default,,0,0,0,,「轻轻软软 在你嘴里融开的魔法蛋包饭」
 Dialogue: 0,0:10:13.07,0:10:14.84,Default,,0,0,0,,抱歉
 Dialogue: 0,0:10:15.06,0:10:19.62,Default,,0,0,0,,给我们来一个这个变美味的咒语
 Dialogue: 0,0:10:20.67,0:10:21.66,Default,,0,0,0,,这个…
@@ -372,7 +373,7 @@ Dialogue: 0,0:19:31.49,0:19:33.74,Default,,0,0,0,,后藤同学也是 深呼吸
 Dialogue: 0,0:19:34.39,0:19:36.98,Default,,0,0,0,,结束乐队的各位 快到你们了
 Dialogue: 0,0:19:36.98,0:19:38.13,Default,,0,0,0,,好的
 Dialogue: 0,0:19:38.97,0:19:41.76,Default,,0,0,0,,好 那要不站个圈鼓鼓劲
-Dialogue: 0,0:19:42.41,0:19:45.16,Default,,0,0,0,,手叠在一起 做一下叫「哦」的动作吧
+Dialogue: 0,0:19:42.41,0:19:45.16,Default,,0,0,0,,手叠在一起 做一下叫「噢」的动作吧
 Dialogue: 0,0:19:45.16,0:19:47.31,Default,,0,0,0,,好的呢 做吧
 Dialogue: 0,0:19:48.20,0:19:49.58,Default,,0,0,0,,挤在一起好闷
 Dialogue: 0,0:19:49.86,0:19:51.52,Default,,0,0,0,,大家伸出左手哦
@@ -384,7 +385,7 @@ Dialogue: 0,0:19:58.66,0:19:59.34,Default,,0,0,0,,那么
 Dialogue: 0,0:19:59.66,0:20:00.53,Default,,0,0,0,,加油吧
 Dialogue: 0,0:20:00.53,0:20:01.47,Default,,0,0,0,,享受吧
 Dialogue: 0,0:20:01.83,0:20:03.27,Default,,0,0,0,,二 一
-Dialogue: 0,0:20:03.67,0:20:05.61,Default,,0,0,0,,哦
+Dialogue: 0,0:20:03.67,0:20:05.61,Default,,0,0,0,,噢
 Dialogue: 0,0:20:16.43,0:20:20.14,Default,,0,0,0,,下一支乐队 结束乐队
 Dialogue: 0,0:20:30.54,0:20:33.17,Default,,0,0,0,,喜多酱
 Dialogue: 0,0:20:33.17,0:20:35.92,Default,,0,0,0,,喜多酱
