@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,8 +27,8 @@ Dialogue: 0,0:00:35.78,0:00:46.79,Comment,,0,0,0,,{\pos(987,577)}參考漫畫第
 Dialogue: 0,0:01:12.48,0:01:15.99,Comment,,0,0,0,,{\fs38\blur10\bord8\pos(197,143)}公園入口
 Dialogue: 0,0:01:30.40,0:01:34.27,Comment,,0,0,0,,{\fs38\blur10\bord8\pos(197,143)}海豚派對
 Dialogue: 0,0:01:37.08,0:01:41.08,Comment,,0,0,0,,{\bord2\pos(978,109)}這麼快就坐上了！
-Dialogue: 0,0:01:38.48,0:01:41.35,Comment,,0,0,0,,{\bord0\fs35\pos(1072,582)}泡菜!?
-Dialogue: 0,0:01:41.68,0:01:44.02,Comment,,0,0,0,,{\bord0\fs35\frz354.4\pos(247,659)}素麵!?
+Dialogue: 0,0:01:38.48,0:01:41.35,Comment,,0,0,0,,{\bord0\fs35\pos(1072,582)}泡菜?!
+Dialogue: 0,0:01:41.68,0:01:44.02,Comment,,0,0,0,,{\bord0\fs35\frz354.4\pos(247,659)}素麵?!
 Dialogue: 0,0:01:49.52,0:01:53.53,Comment,,0,0,0,,{\bord4\pos(1013,111)}純粹享受的兩人
 Dialogue: 0,0:02:51.05,0:02:54.12,Comment,,0,0,0,,{\fs39\bord2\pos(318,666)}看魚之前興致MAX!
 Dialogue: 0,0:03:04.83,0:03:08.63,Comment,,0,0,0,,{\fs38\blur10\bord8\pos(320,138)}魔法區域 虛擬實境
@@ -47,7 +49,7 @@ Dialogue: 0,0:08:11.94,0:08:20.48,Comment,,0,0,0,,{\fs38\blur10\bord8\pos(263,14
 Dialogue: 0,0:08:23.35,0:08:26.72,Comment,,0,0,0,,{\pos(1013,207)}發現存在感稀薄的水母
 Dialogue: 0,0:08:27.25,0:08:29.69,Comment,,0,0,0,,{\pos(1015,200)}不是壞話(笑)
 Dialogue: 0,0:08:51.24,0:08:54.21,Comment,,0,0,0,,{\bord3.2\fs50\1c&HE194F5&\pos(708,495)}那個↓\n\n\n\n\n{\fnFZZhengHei-DB-GBK}(存在感稀薄的)
-Dialogue: 0,0:09:07.69,0:09:11.00,Comment,,0,0,0,,{\bord3.2\fs50\1c&HEF8EFF&\pos(812,531)\fnFZZhengHei-DB-GBK}轉圈圈模式！？
+Dialogue: 0,0:09:07.69,0:09:11.00,Comment,,0,0,0,,{\bord3.2\fs50\1c&HEF8EFF&\pos(812,531)\fnFZZhengHei-DB-GBK}轉圈圈模式？！
 Dialogue: 0,0:09:59.21,0:10:02.85,Comment,,0,0,0,,{\pos(960,543)\fnFZZhengHei-DB-GBK}再次發現存在感較稀薄的水母
 Dialogue: 0,0:11:05.48,0:11:16.39,Comment,,0,0,0,,{\fs38\blur10\bord8\pos(171,138)}運動館
 Dialogue: 0,0:11:16.39,0:11:22.76,Comment,,0,0,0,,{\bord3.2\fs50\1c&HE194F5&\pos(494,127)\fnFZZhengHei-DB-GBK}海豚在這裡
