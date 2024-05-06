@@ -1,0 +1,34 @@
+version: 2
+
+namef:
+  master: '[Nekomoe kissaten] BanG Dream! It’s MyGO!!!!! [{{ep}}][Web].{{lang}}'
+  op: 'MyGO_OP_Web_03.{{lang}}'
+fps:
+  "24000/1001"
+
+tpl_fr:
+  op: 0 # OP 起始帧 0
+
+shift_fr:
+  '02':
+    op: [1344]
+  '03':
+    op: [0]
+  '04':
+    op: [2038]
+  '05':
+    op: [1846]
+  '06':
+    op: [3381]
+  '07':
+    op: [2830]
+  '08':
+    op: [792]
+  '09':
+    op: [9182]
+  '11':
+    op: [2614]
+  '12':
+    op: [1296]
+  '13':
+    op: [1582]
