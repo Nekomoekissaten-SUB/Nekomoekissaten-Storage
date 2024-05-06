@@ -1,4 +1,4 @@
-# 青春笨蛋少年
+# 青春笨蛋少年 / 青春猪头少年
 
 ## TV 青春笨蛋少年不做兔女郎学姐的梦（2018）
 
@@ -35,7 +35,7 @@ Source Han Serif JP Medium
 
 简繁日双语
 
-[剧场版BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Ao-buta_Yumemiru_Shoujo_BD_JPCH.7z)
+[剧场版BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Ao-buta_Movie_BD_JPCH.7z)
 
 所需字体：
 ```
@@ -49,4 +49,25 @@ Source Han Serif JP Medium
 思源宋体 CN Medium
 ```
 
+## 剧场版 青春猪头少年不会梦到娇怜外出妹（2023）
+
+简繁日双语
+
+[剧场版BD合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Ao-buta_Movie_BD_JPCH.7z)
+
+所需字体：
+```
+A-OTF Ryumin Pro EH-KL
+FOT-TsukuMin Pr6N R
+FZLanTingHei-DB-GBK
+FZYaSong-L-GBK
+FZYaSong-M-GBK
+FZYaSong-R-GBK
+FZZhuZiMingChaoSongJF
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+华康翩翩体W5-A <DFHanziPenW5-A>
+```
+
+
 ![](https://nekomoe.pages.dev/images/2018-10/ao-buta.jpg)
+![](https://nekomoe.pages.dev/images/others/aobuta_odekake_poster_w1000.jpg)
