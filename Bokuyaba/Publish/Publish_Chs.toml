@@ -1,13 +1,15 @@
 #Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
-display_name="【喵萌奶茶屋】★04月新番★[我内心的糟糕念头/Boku no Kokoro no Yabai Yatsu][<ep>][<res>p][简日双语][招募翻译]"
+display_name="【喵萌奶茶屋】★01月新番★[我内心的糟糕念头 / Boku no Kokoro no Yabai Yatsu][<ep>][<res>p][简日双语][招募翻译]"
+# display_name="【喵萌奶茶屋】[我内心的糟糕念头 推糟糕 / Boku no Kokoro no Yabai Yatsu Twi-Yaba][<res>p][简日双语][招募翻译]"
 group_name="[喵萌奶茶屋]"
 poster="https://s2.loli.net/2023/04/02/MjeCVc2UKOlaszu.jpg"
 about="https://github.com/Nekomoekissaten-SUB"
 # Use ''' to avoid escape
-# filename_regex='''\]\[(?<ep>\d{2})\]\['''
-filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+filename_regex='''\]\[(?<ep>\d{2})\]\['''
+# filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+# filename_regex=""
 resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
-tags=["Anime", "TV", "Collection"]
+tags=["Anime", "TV"]
 
 [[intro_template]]
 site="nyaa"
