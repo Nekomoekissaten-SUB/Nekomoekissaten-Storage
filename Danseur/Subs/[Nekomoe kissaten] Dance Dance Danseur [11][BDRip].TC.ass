@@ -1,11 +1,13 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Dance Dance Danseur [11][WebRip].TC
+Title: [Nekomoe kissaten] Dance Dance Danseur [11][BDRip].TC
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -363,7 +365,7 @@ Dialogue: 0,0:00:04.48,0:00:06.99,Scr,,0,0,0,,{\an2\fnHYXuanSong 85S\pos(640,577
 Dialogue: 0,0:00:06.99,0:00:10.49,Scr,,0,0,0,,{\an2\fnHYXuanSong 85S\pos(640,621)}舞蹈展示
 Dialogue: 0,0:00:24.50,0:00:26.51,Scr,,0,0,0,,{\an2\fnHYXuanSong 85S\pos(640,621)}生川遙芭蕾舞學校 SS班級
 Dialogue: 0,0:00:26.51,0:00:28.51,Scr,,0,0,0,,{\an2\fnHYXuanSong 85S\pos(640,571)}選拔一人頒發獎學金
-Dialogue: 0,0:22:15.36,0:22:17.53,Scr,,0,0,0,,{\blur0.8\frz11.57\fs24\c&H5B5B5C&\bord0\pos(602.667,327.111)}生川遙芭蕾舞學校 
+Dialogue: 0,0:22:15.36,0:22:17.53,Scr,,0,0,0,,{\blur0.8\frz11.57\fs24\c&H5B5B5C&\bord0\pos(602.667,327.111)}生川遙芭蕾舞學校
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
 Dialogue: 4,0:22:09.83,0:22:12.44,ED-JP,,0,0,0,,{\fad(360,360)\an9}夜は月明かりを持って
 Dialogue: 4,0:22:14.53,0:22:19.28,ED-JP,,0,0,0,,{\fad(360,360)\an9}揺れる朝焼けを頬張って　踊りたい

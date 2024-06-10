@@ -1,11 +1,13 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Dance Dance Danseur [02][WebRip].SC
+Title: [Nekomoe kissaten] Dance Dance Danseur [02][BDRip].SC
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

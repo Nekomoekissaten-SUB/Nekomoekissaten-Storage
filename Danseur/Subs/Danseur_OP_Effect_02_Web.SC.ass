@@ -1,9 +1,12 @@
 ﻿[Script Info]
 Title: Danseur_OP_Effect_02_Web.SC
+ScriptType: v4.00+
 PlayResX: 1280
 PlayResY: 720
-Timer: 100.0000
+Timer: 100.000
 YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
