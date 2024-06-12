@@ -17,11 +17,11 @@
 
 // toc::[]
 
-== 第 1 季度
+== 第 1 季度 + 第 2 季度
 
-EP.01-12
+EP.01-24
 
-{dl_link}/{tag_chi}/SYNDUALITY_Noir_c1_Web_JPCH.7z[简繁日双语 Web 合集]
+{dl_link}/{tag_chi}/SYNDUALITY_Noir_Web_JPCH.7z[简繁日双语 Web 合集]
 
 .所需字体
 ....
@@ -31,7 +31,5 @@ FOT-マティス ProN B <FOT-Matisse ProN B>
 ....
 
 image::2023-07/synduality-noir.jpg[synduality_noir,500]
-
-// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
 
 // {back_to_top}
