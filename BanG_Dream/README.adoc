@@ -45,11 +45,11 @@ image::2020-04/argo-bdp.png[argo-bdp,500]
 
 == It’s MyGO!!!!!
 
-EP.01-13 含 OP 特效
+EP.01-13 含 OP、ED 特效
 
-{dl_link}/{tag_chi}/BanG_Dream_MyGO_Web_JPCH.7z[简繁日双语 Web 合集]
+{dl_link}/{tag_chi}/BanG_Dream_MyGO_BD_JPCH.7z[简繁日双语 BD 合集]
 
-{dl_link}/{tag_big}/MyGO_OP_Effect.7z[OP 特效]
+{dl_link}/{tag_big}/MyGO_Effect.7z[OP、ED 特效]
 
 image::2023-07/bang-dream-mygo.jpg[bang-dream-mygo,500]
 

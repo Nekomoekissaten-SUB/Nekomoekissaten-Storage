@@ -723,7 +723,7 @@ Dialogue: 1,0:22:30.81,0:22:32.67,Phone,,0,0,0,,{\pos(940,122)\frz7.249\c&H575F5
 Comment: 0,0:21:50.25,0:21:54.29,Default,,0,0,0,,Title
 Dialogue: 0,0:11:29.54,0:11:32.01,Title,,0,0,0,,{\pos(355,934)\fad(500,0)\blur0.6}能相信的仅有自己
 Comment: 0,0:23:30.97,0:23:37.40,Default,,0,0,0,,Staff
-Dialogue: 0,0:23:30.10,0:23:33.10,Staff,,0,0,0,,{\fad(0,0)\fnHYXuanSong 65S\shad0\blur0.6\c&HFFFFFF&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：Ronny　后期：MIR　繁化&OP特效：错党
+Dialogue: 0,0:23:30.10,0:23:33.10,Staff,,0,0,0,,{\fad(0,0)\fnHYXuanSong 65S\shad0\blur0.6\c&HFFFFFF&}本字幕由喵萌Production制作  仅供交流试看之用  请勿用于商业用途\N翻译：Ronny　后期：MIR　繁化&特效：错党
 Comment: 0,0:01:05.96,0:01:05.96,Default,,0,0,0,,OP「壱雫空」
 Dialogue: 1,0:01:06.46,0:01:08.97,OP_JP,,0,0,0,,{\fad(240,240)}もしこの雨が上がっても
 Dialogue: 1,0:01:08.97,0:01:11.30,OP_JP,,0,0,0,,{\fad(240,240)}忘れずに歩いてくよ
