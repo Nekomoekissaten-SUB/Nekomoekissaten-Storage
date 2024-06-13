@@ -13,6 +13,10 @@
 - 修复 S01 OAD01 时间轴错误  [报错](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=9898&fromuid=9292)
 - 修复 S02 EP01 简体 OP 样式错误  [报错](https://bbs.acgrip.com/forum.php?mod=redirect&goto=findpost&ptid=9898&pid=104986&fromuid=9292)
 
+2024-06-13:
+- 修复 S02 字体名称大小写错误（HanZiPen -> HanziPen）
+- 修复标签间的多余空格
+
 ## 所需字体
 
 ```
