@@ -2,7 +2,7 @@
 
 ## Season 1 cour 1
 
-内含 01-12 Web 简繁日双语 OPED 特效字幕  
+内含 01-12 Web 简繁日双语 [OPED 特效](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_effect/SPYxFAMILY_S1c1_Effect.7z)字幕  
 [字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_Web_JPCH_dd80ac7.7z)
 
 所需字体：
@@ -51,6 +51,37 @@ Sitka Text Bold Italic
 华康手札体W5-A <DFHannotateW5-A>
 华康手札体W7-A <DFHannotateW7-A>
 ```
+
+## Season 2
+
+内含 26-37 Web 简繁日双语字幕  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_S2_Web_JPCH.7z)
+
+所需字体：
+```
+A-OTF ゴシックMB101 Pr6N DB <A-OTF Gothic MB101 Pr6N DB>
+FOT-ニューセザンヌ ProN B <FOT-NewCezanne ProN B>
+Sitka Text Bold
+Sitka Text Bold Italic
+VDL ロゴJr U <VDL-LogoJr U>
+方正北魏楷书_GBK <FZBeiWeiKaiShu-S19>
+方正大黑_GBK <FZDaHei-B02>
+方正大雅宋_GBK <FZYaSong-EB-GBK>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭大黑_GBK <FZLanTingHei-EB-GBK>
+方正兰亭特黑_GBK <FZLanTingHei-H-GBK>
+方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正兰亭圆_GBK_大 <FZLanTingYuan-EB-GBK>
+方正兰亭中粗黑_GBK <FZLanTingHei-DB1-GBK>
+方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
+方正正粗黑_GBK <FZZhengHei-B-GBK>
+汉仪旗黑 105简繁 <HYQiHei 105JF>
+华康翩翩体W3-A <DFHanziPenW3-A>
+华康手札体W7-A <DFHannotateW7-A>
+華康超黑體(P) <DFPHeiUBold-B5>
+腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
+```
+
 
 ## 海报
 

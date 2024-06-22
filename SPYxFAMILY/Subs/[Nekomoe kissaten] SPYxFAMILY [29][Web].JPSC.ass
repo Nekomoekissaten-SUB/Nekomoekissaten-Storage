@@ -1,0 +1,1016 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] SPYxFAMILY [29][Web].JPSC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingHei-DB1-GBK,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,23,23,15,1
+Style: Dial-JP,FOT-NewCezanne ProN B,57,&H00FFFFFF,&H000000FF,&H00282828,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,15,15,3,1
+Style: Dial-JP2,FOT-NewCezanne ProN B,51,&H00FFFFFF,&H000000FF,&H00282828,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,8,15,15,2,1
+Style: Dial-CH,FZLanTingHei-DB1-GBK,72,&H00FFFFFF,&H000000FF,&H00282828,&H00000000,0,0,0,0,100,100,0,0,1,2.4,0,2,15,15,45,1
+Style: Dial-CH2,FZLanTingHei-DB1-GBK,66,&H00FFFFFF,&H000000FF,&H002D2D2D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,8,15,15,48,1
+Style: Ruby,FOT-NewCezanne ProN B,57,&H00FFFFFF,&H000000FF,&H00282828,&H00000000,0,0,0,0,100,100,1.5,0,1,2.1,0,2,15,15,3,1
+Style: Title,FZYaSong-EB-GBK,69,&H00FFFFFF,&H000000FF,&H00373A37,&H22000000,0,0,0,0,100,100,0,0,1,3,1.5,2,23,23,23,1
+Style: Staff,FZLanTingHei-DB1-GBK,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,8,23,23,15,1
+Style: Screen,FZYaSong-EB-GBK,69,&H00FFFFFF,&H000000FF,&H23000000,&H22000000,0,0,0,0,100,100,0,0,1,0.5,0,2,23,23,23,1
+Style: Cmt,FZLanTingHei-DB1-GBK,56,&H00FFFFFF,&H000000FF,&H00282828,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,20,1
+Style: IN-EN_EP05,Sitka Text,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3,0,8,23,23,20,1
+Style: OP-JP,VDL-LogoJr U,65,&H00FFFFFF,&H000000FF,&H89172E34,&H00499CB8,0,0,0,0,100,100,0,0,1,2,0,2,15,15,10,1
+Style: OP-CHS,HYQiHei 105JF,75,&H00FFFFFF,&H000000FF,&H89172E34,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,5,1
+Style: OP-CHT,DFPHeiUBold-B5,50,&H00FFFFFF,&H000000FF,&H89172E34,&H00499CB8,0,0,0,0,100,100,0,0,1,2,0,8,15,15,15,1
+Style: ED-JP,A-OTF Gothic MB101 Pr6N DB,72,&H00FFFFFF,&H000000FF,&H2E000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,10,1
+Style: ED-CH,FZDaHei-B02,52,&H00FFFFFF,&H000000FF,&H2E000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:21:56.63,0:22:00.01,Staff,,0,0,0,,{\fad(360,0)\blur5}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途{\fscy40}\N\N{\fscx80\fscy80}翻译：二十三  护菊  ミミ  Boqian　校对：薯条　时轴：卡布chino　后期：MIR　繁化：悠月子
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
+Dialogue: 0,0:02:00.98,0:02:03.98,Title,,0,0,0,,{\an1\pos(97,313)}智慧之甜点
+Dialogue: 0,0:12:22.39,0:12:25.39,Title,,0,0,0,,{\an1\pos(1007,866)}情报贩子的恋爱大作战II
+Dialogue: 0,0:23:37.02,0:23:40.02,Title,,0,0,0,,{\an1\pos(1465,858)}越境作战
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:02:48.39,0:02:50.65,Screen,,0,0,0,,{\fscy100\fscx100\fnFZLanTingHei-B-GBK\fs50\fad(500,0)\bord0\c&H3739D3&\pos(1288,103)}尖子班
+Dialogue: 0,0:02:50.65,0:02:50.69,Screen,,0,0,0,,{\fscy99.45\fscx99.45\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1288.01,102.56)}尖子班
+Dialogue: 0,0:02:50.69,0:02:50.73,Screen,,0,0,0,,{\fscy98.07\fscx98.07\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.95,101.26)}尖子班
+Dialogue: 0,0:02:50.73,0:02:50.77,Screen,,0,0,0,,{\fscy96.01\fscx96.01\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.89,99.3)}尖子班
+Dialogue: 0,0:02:50.77,0:02:50.81,Screen,,0,0,0,,{\fscy93.4\fscx93.4\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.8,96.8)}尖子班
+Dialogue: 0,0:02:50.81,0:02:50.85,Screen,,0,0,0,,{\fscy90.39\fscx90.39\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.69,93.96)}尖子班
+Dialogue: 0,0:02:50.85,0:02:50.90,Screen,,0,0,0,,{\fscy87.11\fscx87.11\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.59,90.83)}尖子班
+Dialogue: 0,0:02:50.90,0:02:50.94,Screen,,0,0,0,,{\fscy83.64\fscx83.64\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.47,87.56)}尖子班
+Dialogue: 0,0:02:50.94,0:02:50.98,Screen,,0,0,0,,{\fscy80.1\fscx80.1\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.35,84.22)}尖子班
+Dialogue: 0,0:02:50.98,0:02:51.02,Screen,,0,0,0,,{\fscy76.56\fscx76.56\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.22,80.84)}尖子班
+Dialogue: 0,0:02:51.02,0:02:51.06,Screen,,0,0,0,,{\fscy73.06\fscx73.06\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.11,77.53)}尖子班
+Dialogue: 0,0:02:51.06,0:02:51.10,Screen,,0,0,0,,{\fscy69.65\fscx69.65\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1287.02,74.31)}尖子班
+Dialogue: 0,0:02:51.10,0:02:51.15,Screen,,0,0,0,,{\fscy66.36\fscx66.36\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.89,71.19)}尖子班
+Dialogue: 0,0:02:51.15,0:02:51.19,Screen,,0,0,0,,{\fscy63.2\fscx63.2\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.79,68.19)}尖子班
+Dialogue: 0,0:02:51.19,0:02:51.23,Screen,,0,0,0,,{\fscy60.18\fscx60.18\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.65,65.31)}尖子班
+Dialogue: 0,0:02:51.23,0:02:51.27,Screen,,0,0,0,,{\fscy57.33\fscx57.33\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.54,62.56)}尖子班
+Dialogue: 0,0:02:51.27,0:02:51.31,Screen,,0,0,0,,{\fscy54.59\fscx54.59\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.46,59.97)}尖子班
+Dialogue: 0,0:02:51.31,0:02:51.35,Screen,,0,0,0,,{\fscy52.02\fscx52.02\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.34,57.52)}尖子班
+Dialogue: 0,0:02:51.35,0:02:51.40,Screen,,0,0,0,,{\fscy50.06\fscx50.06\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.29,50.49)}尖子班
+Dialogue: 0,0:02:51.40,0:02:51.44,Screen,,0,0,0,,{\fscy52.68\fscx52.68\fnFZLanTingHei-B-GBK\fs50\bord0\c&H3739D3&\pos(1286.39,-2.05)}尖子班
+Dialogue: 0,0:02:48.39,0:02:50.65,Screen,,0,0,0,,{\fscy100\fscx100\fnFZLanTingHei-B-GBK\fs50\fad(500,0)\bord0\c&H1E88EF&\pos(1288,630)}普通班
+Dialogue: 0,0:02:50.65,0:02:50.69,Screen,,0,0,0,,{\fscy99.46\fscx99.46\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.99,626.54)}普通班
+Dialogue: 0,0:02:50.69,0:02:50.73,Screen,,0,0,0,,{\fscy98.08\fscx98.08\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.95,618.04)}普通班
+Dialogue: 0,0:02:50.73,0:02:50.77,Screen,,0,0,0,,{\fscy96.02\fscx96.02\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.89,605.21)}普通班
+Dialogue: 0,0:02:50.77,0:02:50.81,Screen,,0,0,0,,{\fscy93.42\fscx93.42\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.81,588.98)}普通班
+Dialogue: 0,0:02:50.81,0:02:50.85,Screen,,0,0,0,,{\fscy90.42\fscx90.42\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.71,570.27)}普通班
+Dialogue: 0,0:02:50.85,0:02:50.90,Screen,,0,0,0,,{\fscy87.14\fscx87.14\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.59,549.82)}普通班
+Dialogue: 0,0:02:50.90,0:02:50.94,Screen,,0,0,0,,{\fscy83.67\fscx83.67\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.48,528.35)}普通班
+Dialogue: 0,0:02:50.94,0:02:50.98,Screen,,0,0,0,,{\fscy80.15\fscx80.15\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.35,506.32)}普通班
+Dialogue: 0,0:02:50.98,0:02:51.02,Screen,,0,0,0,,{\fscy76.58\fscx76.58\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.24,484.27)}普通班
+Dialogue: 0,0:02:51.02,0:02:51.06,Screen,,0,0,0,,{\fscy73.1\fscx73.1\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.13,462.55)}普通班
+Dialogue: 0,0:02:51.06,0:02:51.10,Screen,,0,0,0,,{\fscy69.68\fscx69.68\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.04,441.4)}普通班
+Dialogue: 0,0:02:51.10,0:02:51.15,Screen,,0,0,0,,{\fscy66.38\fscx66.38\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.92,421)}普通班
+Dialogue: 0,0:02:51.15,0:02:51.19,Screen,,0,0,0,,{\fscy63.22\fscx63.22\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.81,401.36)}普通班
+Dialogue: 0,0:02:51.19,0:02:51.23,Screen,,0,0,0,,{\fscy60.19\fscx60.19\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.7,382.6)}普通班
+Dialogue: 0,0:02:51.23,0:02:51.27,Screen,,0,0,0,,{\fscy57.33\fscx57.33\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.65,364.7)}普通班
+Dialogue: 0,0:02:51.27,0:02:51.31,Screen,,0,0,0,,{\fscy54.6\fscx54.6\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.55,347.78)}普通班
+Dialogue: 0,0:02:51.31,0:02:51.35,Screen,,0,0,0,,{\fscy52.03\fscx52.03\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.47,331.76)}普通班
+Dialogue: 0,0:02:51.35,0:02:51.40,Screen,,0,0,0,,{\fscy50.1\fscx50.1\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.42,314.43)}普通班
+Dialogue: 0,0:02:51.40,0:02:51.44,Screen,,0,0,0,,{\fscy52.67\fscx52.67\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.49,275.54)}普通班
+Dialogue: 0,0:02:51.44,0:02:51.48,Screen,,0,0,0,,{\fscy55.5\fscx55.5\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.58,232.69)}普通班
+Dialogue: 0,0:02:51.48,0:02:51.52,Screen,,0,0,0,,{\fscy58.55\fscx58.55\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.68,186.56)}普通班
+Dialogue: 0,0:02:51.52,0:02:51.56,Screen,,0,0,0,,{\fscy61.8\fscx61.8\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.79,137.41)}普通班
+Dialogue: 0,0:02:51.56,0:02:51.60,Screen,,0,0,0,,{\fscy65.26\fscx65.26\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1286.92,85.52)}普通班
+Dialogue: 0,0:02:51.60,0:02:51.65,Screen,,0,0,0,,{\fscy68.81\fscx68.81\fnFZLanTingHei-B-GBK\fs50\bord0\c&H1E88EF&\pos(1287.03,31.32)}普通班
+Dialogue: 0,0:02:50.73,0:02:50.77,Screen,,0,0,0,,{\fscy96.02\fscx96.02\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.92,1109.43)}要加油班
+Dialogue: 0,0:02:50.77,0:02:50.81,Screen,,0,0,0,,{\fscy93.42\fscx93.42\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1288.12,1079.19)}要加油班
+Dialogue: 0,0:02:50.81,0:02:50.85,Screen,,0,0,0,,{\fscy90.41\fscx90.41\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1288.03,1044.69)}要加油班
+Dialogue: 0,0:02:50.85,0:02:50.90,Screen,,0,0,0,,{\fscy87.11\fscx87.11\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.55,1008.29)}要加油班
+Dialogue: 0,0:02:50.90,0:02:50.94,Screen,,0,0,0,,{\fscy83.65\fscx83.65\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.44,968.6)}要加油班
+Dialogue: 0,0:02:50.94,0:02:50.98,Screen,,0,0,0,,{\fscy80.12\fscx80.12\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.33,928.03)}要加油班
+Dialogue: 0,0:02:50.98,0:02:51.02,Screen,,0,0,0,,{\fscy76.57\fscx76.57\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.22,887.36)}要加油班
+Dialogue: 0,0:02:51.02,0:02:51.06,Screen,,0,0,0,,{\fscy73.08\fscx73.08\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.1,847.24)}要加油班
+Dialogue: 0,0:02:51.06,0:02:51.10,Screen,,0,0,0,,{\fscy69.67\fscx69.67\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.01,808.1)}要加油班
+Dialogue: 0,0:02:51.10,0:02:51.15,Screen,,0,0,0,,{\fscy66.38\fscx66.38\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.89,770.29)}要加油班
+Dialogue: 0,0:02:51.15,0:02:51.19,Screen,,0,0,0,,{\fscy63.21\fscx63.21\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.77,733.98)}要加油班
+Dialogue: 0,0:02:51.19,0:02:51.23,Screen,,0,0,0,,{\fscy60.19\fscx60.19\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.67,699.31)}要加油班
+Dialogue: 0,0:02:51.23,0:02:51.27,Screen,,0,0,0,,{\fscy57.31\fscx57.31\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.6,666.29)}要加油班
+Dialogue: 0,0:02:51.27,0:02:51.31,Screen,,0,0,0,,{\fscy54.59\fscx54.59\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.51,635.04)}要加油班
+Dialogue: 0,0:02:51.31,0:02:51.35,Screen,,0,0,0,,{\fscy52.01\fscx52.01\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.44,605.46)}要加油班
+Dialogue: 0,0:02:51.35,0:02:51.40,Screen,,0,0,0,,{\fscy50.07\fscx50.07\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.38,577.93)}要加油班
+Dialogue: 0,0:02:51.40,0:02:51.44,Screen,,0,0,0,,{\fscy52.64\fscx52.64\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.46,552.55)}要加油班
+Dialogue: 0,0:02:51.44,0:02:51.48,Screen,,0,0,0,,{\fscy55.47\fscx55.47\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.55,524.61)}要加油班
+Dialogue: 0,0:02:51.48,0:02:51.52,Screen,,0,0,0,,{\fscy58.53\fscx58.53\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.64,494.52)}要加油班
+Dialogue: 0,0:02:51.52,0:02:51.56,Screen,,0,0,0,,{\fscy61.75\fscx61.75\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.75,462.46)}要加油班
+Dialogue: 0,0:02:51.56,0:02:51.60,Screen,,0,0,0,,{\fscy65.16\fscx65.16\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1286.89,428.66)}要加油班
+Dialogue: 0,0:02:51.60,0:02:51.65,Screen,,0,0,0,,{\fscy68.76\fscx68.76\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.02,393.3)}要加油班
+Dialogue: 0,0:02:51.65,0:02:51.69,Screen,,0,0,0,,{\fscy72.47\fscx72.47\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.13,356.66)}要加油班
+Dialogue: 0,0:02:51.69,0:02:51.73,Screen,,0,0,0,,{\fscy76.26\fscx76.26\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.22,319.17)}要加油班
+Dialogue: 0,0:02:51.73,0:02:51.77,Screen,,0,0,0,,{\fscy80.08\fscx80.08\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.36,281.39)}要加油班
+Dialogue: 0,0:02:51.77,0:02:51.81,Screen,,0,0,0,,{\fscy83.87\fscx83.87\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.46,244.1)}要加油班
+Dialogue: 0,0:02:51.81,0:02:51.85,Screen,,0,0,0,,{\fscy87.5\fscx87.5\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.58,208.07)}要加油班
+Dialogue: 0,0:02:51.85,0:02:51.90,Screen,,0,0,0,,{\fscy90.91\fscx90.91\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.7,174.42)}要加油班
+Dialogue: 0,0:02:51.90,0:02:51.94,Screen,,0,0,0,,{\fscy93.96\fscx93.96\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.8,144.32)}要加油班
+Dialogue: 0,0:02:51.94,0:02:51.98,Screen,,0,0,0,,{\fscy96.49\fscx96.49\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.89,119.07)}要加油班
+Dialogue: 0,0:02:51.98,0:02:52.02,Screen,,0,0,0,,{\fscy98.45\fscx98.45\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.92,100.1)}要加油班
+Dialogue: 0,0:02:52.02,0:02:52.06,Screen,,0,0,0,,{\fscy99.65\fscx99.65\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1287.98,88.42)}要加油班
+Dialogue: 0,0:02:52.06,0:02:57.65,Screen,,0,0,0,,{\fscy100\fscx100\fnFZLanTingHei-B-GBK\fs50\bord0\c&H42BA6B&\pos(1288,85)}要加油班
+Dialogue: 0,0:02:51.15,0:02:51.19,Screen,,0,0,0,,{\fscy63.21\fscx63.21\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.77,1069)}在此之下
+Dialogue: 0,0:02:51.19,0:02:51.23,Screen,,0,0,0,,{\fscy60.19\fscx60.19\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.67,1018.34)}在此之下
+Dialogue: 0,0:02:51.23,0:02:51.27,Screen,,0,0,0,,{\fscy57.31\fscx57.31\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.6,970.05)}在此之下
+Dialogue: 0,0:02:51.27,0:02:51.31,Screen,,0,0,0,,{\fscy54.59\fscx54.59\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.51,924.37)}在此之下
+Dialogue: 0,0:02:51.31,0:02:51.35,Screen,,0,0,0,,{\fscy52.01\fscx52.01\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.44,881.12)}在此之下
+Dialogue: 0,0:02:51.35,0:02:51.40,Screen,,0,0,0,,{\fscy50.07\fscx50.07\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.38,843.31)}在此之下
+Dialogue: 0,0:02:51.40,0:02:51.44,Screen,,0,0,0,,{\fscy52.64\fscx52.64\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.46,831.56)}在此之下
+Dialogue: 0,0:02:51.44,0:02:51.48,Screen,,0,0,0,,{\fscy55.47\fscx55.47\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.55,818.62)}在此之下
+Dialogue: 0,0:02:51.48,0:02:51.52,Screen,,0,0,0,,{\fscy58.53\fscx58.53\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.64,804.72)}在此之下
+Dialogue: 0,0:02:51.52,0:02:51.56,Screen,,0,0,0,,{\fscy61.75\fscx61.75\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.75,789.71)}在此之下
+Dialogue: 0,0:02:51.56,0:02:51.60,Screen,,0,0,0,,{\fscy65.16\fscx65.16\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1286.89,774.03)}在此之下
+Dialogue: 0,0:02:51.60,0:02:51.65,Screen,,0,0,0,,{\fscy68.76\fscx68.76\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.02,757.74)}在此之下
+Dialogue: 0,0:02:51.65,0:02:51.69,Screen,,0,0,0,,{\fscy72.47\fscx72.47\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.13,740.74)}在此之下
+Dialogue: 0,0:02:51.69,0:02:51.73,Screen,,0,0,0,,{\fscy76.26\fscx76.26\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.22,723.32)}在此之下
+Dialogue: 0,0:02:51.73,0:02:51.77,Screen,,0,0,0,,{\fscy80.08\fscx80.08\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.36,705.79)}在此之下
+Dialogue: 0,0:02:51.77,0:02:51.81,Screen,,0,0,0,,{\fscy83.87\fscx83.87\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.46,688.59)}在此之下
+Dialogue: 0,0:02:51.81,0:02:51.85,Screen,,0,0,0,,{\fscy87.5\fscx87.5\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.58,671.84)}在此之下
+Dialogue: 0,0:02:51.85,0:02:51.90,Screen,,0,0,0,,{\fscy90.91\fscx90.91\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.7,656.25)}在此之下
+Dialogue: 0,0:02:51.90,0:02:51.94,Screen,,0,0,0,,{\fscy93.96\fscx93.96\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.8,642.32)}在此之下
+Dialogue: 0,0:02:51.94,0:02:51.98,Screen,,0,0,0,,{\fscy96.49\fscx96.49\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.89,630.45)}在此之下
+Dialogue: 0,0:02:51.98,0:02:52.02,Screen,,0,0,0,,{\fscy98.45\fscx98.45\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.92,621.89)}在此之下
+Dialogue: 0,0:02:52.02,0:02:52.06,Screen,,0,0,0,,{\fscy99.65\fscx99.65\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1287.98,616.56)}在此之下
+Dialogue: 0,0:02:52.06,0:02:57.65,Screen,,0,0,0,,{\fscy100\fscx100\fnFZLanTingHei-B-GBK\fs50\bord0\c&HCF7E2F&\pos(1288,615)}在此之下
+Dialogue: 0,0:03:51.84,0:03:57.01,Screen,,0,0,0,,{\fnFZLanTingHei-B-GBK\fs90\bord4\pos(960,903)}请勿在走廊上奔跑
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 4,0:00:01.48,0:00:02.86,Dial-JP,,0,0,0,,{\blur4}知恵の甘味
+Dialogue: 4,0:00:02.86,0:00:05.00,Dial-JP,,0,0,0,,{\blur4}それはまことしやかにささやかれる
+Dialogue: 4,0:00:05.00,0:00:06.99,Dial-JP,,0,0,0,,{\blur4}イーデン校七不思議の一つ
+Dialogue: 4,0:00:07.24,0:00:10.97,Dial-JP,,0,0,0,,{\blur4}どこからともなく学食へとやって来る謎のパティシエによって
+Dialogue: 4,0:00:10.97,0:00:13.60,Dial-JP,,0,0,0,,{\blur4}気まぐれに提供されるそのスイーツは
+Dialogue: 4,0:00:13.60,0:00:15.60,Dial-JP,,0,0,0,,{\blur4}極上の味のみならず
+Dialogue: 4,0:00:16.09,0:00:20.48,Dial-JP,,0,0,0,,{\blur4}口にした者たちがあまたインペリアル・スカラーとなったことから
+Dialogue: 4,0:00:20.48,0:00:22.71,Dial-JP,,0,0,0,,{\blur4}「食べればたちまち頭がよくなる」
+Dialogue: 4,0:00:22.71,0:00:24.20,Dial-JP,,0,0,0,,{\blur4}そんな風説が生まれ
+Dialogue: 4,0:00:24.20,0:00:29.28,Dial-JP,,0,0,0,,{\blur4}一部のイーデン生たちは注文のチャンスを虎視たんたんと狙っていた
+Dialogue: 4,0:02:05.17,0:02:06.73,Dial-JP,,0,0,0,,{\blur4}あなたはもしかして
+Dialogue: 4,0:02:06.73,0:02:08.36,Dial-JP,,0,0,0,,{\blur4}あのときの王子様
+Dialogue: 4,0:02:08.73,0:02:09.49,Dial-JP,,0,0,0,,{\blur4}いや
+Dialogue: 4,0:02:09.49,0:02:11.86,Dial-JP,,0,0,0,,{\blur4}私はお前の分身だ
+Dialogue: 4,0:02:11.86,0:02:13.65,Dial-JP,,0,0,0,,{\blur4}いえ　間違いないわ
+Dialogue: 4,0:02:13.65,0:02:15.48,Dial-JP,,0,0,0,,{\blur4}その瞳　その髪
+Dialogue: 4,0:02:15.96,0:02:17.26,Dial-JP,,0,0,0,,{\blur4}私の王子様
+Dialogue: 4,0:02:17.26,0:02:17.99,Dial-JP,,0,0,0,,{\blur4}好き
+Dialogue: 4,0:02:18.28,0:02:22.04,Dial-JP,,0,0,0,,{\blur4}いや　私はお前と同じ雌の羊だ
+Dialogue: 4,0:02:22.81,0:02:26.16,Dial-JP,,0,0,0,,{\blur4}もう　全然話が進まないじゃない
+Dialogue: 4,0:02:26.16,0:02:27.28,Dial-JP,,0,0,0,,{\blur4}メチャクチャよ
+Dialogue: 4,0:02:27.28,0:02:29.70,Dial-JP,,0,0,0,,{\blur4}だってコイツら同じ見た目
+Dialogue: 4,0:02:29.70,0:02:32.13,Dial-JP,,0,0,0,,{\blur4}そこは設定上スルーしてよ
+Dialogue: 4,0:02:32.35,0:02:33.83,Dial-JP,,0,0,0,,{\blur4}次　アーニャの番
+Dialogue: 4,0:02:33.83,0:02:36.50,Dial-JP,,0,0,0,,{\blur4}生き別れの双子によるバトルもの
+Dialogue: 4,0:02:36.50,0:02:37.64,Dial-JP,,0,0,0,,{\blur4}やぁよ
+Dialogue: 4,0:02:37.64,0:02:40.43,Dial-JP,,0,0,0,,{\blur4}バトルなんかしたら　この子たちが傷んじゃうわ
+Dialogue: 4,0:02:41.39,0:02:42.92,Dial-JP,,0,0,0,,{\blur4}そういや聞いた
+Dialogue: 4,0:02:42.92,0:02:46.37,Dial-JP,,0,0,0,,{\blur4}後期から学力別クラス分けが始まるんだって
+Dialogue: 4,0:02:46.37,0:02:47.40,Dial-JP,,0,0,0,,{\blur4}どゆこと
+Dialogue: 4,0:02:47.67,0:02:48.62,Dial-JP,,0,0,0,,{\blur4}つまり
+Dialogue: 4,0:02:48.84,0:02:50.96,Dial-JP,,0,0,0,,{\blur4}勉強そこそこの私と
+Dialogue: 4,0:02:51.16,0:02:53.39,Dial-JP,,0,0,0,,{\blur4}勉強サッパリのアーニャちゃんとで
+Dialogue: 4,0:02:53.39,0:02:56.49,Dial-JP,,0,0,0,,{\blur4}授業によってはクラス別々になっちゃうのよ
+Dialogue: 4,0:02:58.01,0:03:00.08,Dial-JP,,0,0,0,,{\blur4}アーニャぼっちになっちゃう
+Dialogue: 4,0:03:00.08,0:03:01.43,Dial-JP,,0,0,0,,{\blur4}そうなのよ
+Dialogue: 4,0:03:01.43,0:03:03.58,Dial-JP,,0,0,0,,{\blur4}だから勉強頑張らないと
+Dialogue: 4,0:03:04.33,0:03:06.28,Dial-JP,,0,0,0,,{\blur4}中間　期末に加えて
+Dialogue: 4,0:03:06.28,0:03:09.56,Dial-JP,,0,0,0,,{\blur4}明日の小テストも判断材料になるってうわさよ
+Dialogue: 4,0:03:09.56,0:03:12.00,Dial-JP,,0,0,0,,{\blur4}古語のテストも　入ってくるんだって
+Dialogue: 4,0:03:12.35,0:03:13.39,Dial-JP,,0,0,0,,{\blur4}ヤバい
+Dialogue: 4,0:03:13.39,0:03:14.90,Dial-JP,,0,0,0,,{\blur4}アーニャ万事休す
+Dialogue: 4,0:03:14.90,0:03:16.74,Dial-JP,,0,0,0,,{\blur4}たたた　大変だ
+Dialogue: 4,0:03:17.02,0:03:18.38,Dial-JP,,0,0,0,,{\blur4}出た　出た
+Dialogue: 4,0:03:18.38,0:03:19.72,Dial-JP,,0,0,0,,{\blur4}なに　どうした
+Dialogue: 4,0:03:19.96,0:03:23.06,Dial-JP,,0,0,0,,{\blur4}第２食堂に出たんだよ　例のデザートが
+Dialogue: 4,0:03:23.42,0:03:24.42,Dial-JP,,0,0,0,,{\blur4}何それ
+Dialogue: 4,0:03:24.42,0:03:26.06,Dial-JP,,0,0,0,,{\blur4}バカ　知らねえのかよ
+Dialogue: 4,0:03:26.06,0:03:29.36,Dial-JP,,0,0,0,,{\blur4}元宮廷料理人の伝説のパティシエが作る
+Dialogue: 4,0:03:29.73,0:03:31.36,Dial-JP,,0,0,0,,{\blur4}通称　知恵の甘味
+Dialogue: 4,0:03:31.36,0:03:34.52,Dial-JP,,0,0,0,,{\blur4}食べた者は必ずインペリアル・スカラーになれるっつう
+Dialogue: 4,0:03:34.52,0:03:36.11,Dial-JP,,0,0,0,,{\blur4}幻のスイーツだよ
+Dialogue: 4,0:03:37.32,0:03:39.07,Dial-JP,,0,0,0,,{\blur4}今年はマカロンらしいぞ
+Dialogue: 4,0:03:39.22,0:03:42.24,Dial-JP,,0,0,0,,{\blur4}数量限定だし　他のヤツに取られる前に急ぐぞ
+Dialogue: 4,0:03:49.45,0:03:51.84,Dial-JP,,0,0,0,,{\blur4}それ食べたらアーニャも天才に
+Dialogue: 4,0:03:52.09,0:03:53.96,Dial-JP,,0,0,0,,{\blur4}どうせ眉唾でしょうけど
+Dialogue: 4,0:03:53.96,0:03:56.13,Dial-JP,,0,0,0,,{\blur4}こういうのは験担ぎも大事よ
+Dialogue: 4,0:03:56.13,0:03:59.34,Dial-JP,,0,0,0,,{\blur4}っていうか　宮廷料理人のマカロン
+Dialogue: 4,0:03:59.34,0:04:00.84,Dial-JP,,0,0,0,,{\blur4}普通に食べたいわ
+Dialogue: 4,0:04:00.84,0:04:01.79,Dial-JP,,0,0,0,,{\blur4}おいしそう
+Dialogue: 4,0:04:01.79,0:04:02.76,Dial-JP,,0,0,0,,{\blur4}マカロンって何
+Dialogue: 4,0:04:04.10,0:04:05.03,Dial-JP,,0,0,0,,{\blur4}きっとあそこよ
+Dialogue: 4,0:04:05.03,0:04:06.73,Dial-JP,,0,0,0,,{\blur4}急がないとなくなっちゃう
+Dialogue: 4,0:04:09.47,0:04:10.29,Dial-JP,,0,0,0,,{\blur4}次男
+Dialogue: 4,0:04:10.52,0:04:11.72,Dial-JP,,0,0,0,,{\blur4}チンチクリン
+Dialogue: 4,0:04:11.98,0:04:13.27,Dial-JP,,0,0,0,,{\blur4}何よ　必死こいて
+Dialogue: 4,0:04:13.27,0:04:15.15,Dial-JP,,0,0,0,,{\blur4}うっせぇ　テメェらこそ
+Dialogue: 4,0:04:15.35,0:04:18.89,Dial-JP,,0,0,0,,{\blur4}ピエール・ポミエの新作スイーツ　残り１個だよー
+Dialogue: 4,0:04:19.61,0:04:21.20,Dial-JP,,0,0,0,,{\blur4}早い者勝ちだよー
+Dialogue: 4,0:04:21.39,0:04:23.20,Dial-JP,,0,0,0,,{\blur4}アンタたちには渡さない
+Dialogue: 4,0:04:23.20,0:04:25.95,Dial-JP,,0,0,0,,{\blur4}これはもはやステラを懸けた戦い
+Dialogue: 4,0:04:25.95,0:04:27.33,Dial-JP,,0,0,0,,{\blur4}それください
+Dialogue: 4,0:04:27.33,0:04:28.56,Dial-JP,,0,0,0,,{\blur4}まいど
+Dialogue: 4,0:04:30.14,0:04:32.80,Dial-JP,,0,0,0,,{\blur4}本日の販売は終了で～す
+Dialogue: 4,0:04:33.76,0:04:34.77,Dial-JP,,0,0,0,,{\blur4}ラッキー
+Dialogue: 4,0:04:34.77,0:04:38.01,Dial-JP,,0,0,0,,{\blur4}これで僕もステラゲットできるかなぁ　楽しみ
+Dialogue: 4,0:04:38.01,0:04:39.21,Dial-JP,,0,0,0,,{\blur4}ジョージ
+Dialogue: 4,0:04:40.23,0:04:42.02,Dial-JP,,0,0,0,,{\blur4}テメェ　それは俺んだ
+Dialogue: 4,0:04:42.02,0:04:43.10,Dial-JP,,0,0,0,,{\blur4}よこしなさいよ
+Dialogue: 4,0:04:43.10,0:04:45.10,Dial-JP,,0,0,0,,{\blur4}私が食べる予定だったのよ
+Dialogue: 4,0:04:45.43,0:04:46.22,Dial-JP,,0,0,0,,{\blur4}強盗だぁ
+Dialogue: 4,0:04:46.78,0:04:49.11,Dial-JP,,0,0,0,,{\blur4}僕のなけなしの金で買ったものだぞ
+Dialogue: 4,0:04:49.11,0:04:50.31,Dial-JP,,0,0,0,,{\blur4}渡すものか
+Dialogue: 4,0:04:51.05,0:04:54.22,Dial-JP,,0,0,0,,{\blur4}テメェ　そういやペンケース返してもらってねえぞ
+Dialogue: 4,0:04:54.83,0:04:57.80,Dial-JP,,0,0,0,,{\blur4}私だって無駄に歌わされて恥かいたわ
+Dialogue: 4,0:04:57.80,0:04:59.07,Dial-JP,,0,0,0,,{\blur4}葉っぱの恨み
+Dialogue: 4,0:04:59.26,0:05:01.18,Dial-JP,,0,0,0,,{\blur4}わ…わかったよ
+Dialogue: 4,0:05:01.18,0:05:02.50,Dial-JP,,0,0,0,,{\blur4}これ　５個あるから
+Dialogue: 4,0:05:02.50,0:05:04.70,Dial-JP,,0,0,0,,{\blur4}残り４つは君たちにあげるよ
+Dialogue: 4,0:05:04.70,0:05:06.46,Dial-JP,,0,0,0,,{\blur4}それでチャラにしてくれ
+Dialogue: 4,0:05:06.46,0:05:08.11,Dial-JP,,0,0,0,,{\blur4}お前　いいヤツだな
+Dialogue: 4,0:05:08.54,0:05:10.00,Dial-JP,,0,0,0,,{\blur4}残り４つ
+Dialogue: 4,0:05:21.69,0:05:22.69,Dial-JP,,0,0,0,,{\blur4}かくして
+Dialogue: 4,0:05:22.93,0:05:27.64,Dial-JP,,0,0,0,,{\blur4}インペリアル・スカラーになるための壮絶なバトルロイヤルが幕を開けた
+Dialogue: 4,0:05:29.97,0:05:31.91,Dial-JP,,0,0,0,,{\blur4}ババぬき一本勝負だ
+Dialogue: 4,0:05:32.19,0:05:34.42,Dial-JP,,0,0,0,,{\blur4}最下位のヤツがマカロンなし
+Dialogue: 4,0:05:34.42,0:05:36.48,Dial-JP,,0,0,0,,{\blur4}オーケー　望むところよ
+Dialogue: 4,0:05:36.48,0:05:38.34,Dial-JP,,0,0,0,,{\blur4}アーニャ　トランプ初めて
+Dialogue: 4,0:05:38.34,0:05:39.46,Dial-JP,,0,0,0,,{\blur4}ルール知らん
+Dialogue: 4,0:05:39.46,0:05:40.81,Dial-JP,,0,0,0,,{\blur4}マジかコイツ
+Dialogue: 4,0:05:40.81,0:05:41.89,Dial-JP,,0,0,0,,{\blur4}簡単よ
+Dialogue: 4,0:05:41.89,0:05:43.32,Dial-JP,,0,0,0,,{\blur4}ジョーカーを引かないように
+Dialogue: 4,0:05:43.32,0:05:45.49,Dial-JP,,0,0,0,,{\blur4}同じ数字をそろえていけばいいのよ
+Dialogue: 4,0:05:45.73,0:05:46.27,Dial-JP,,0,0,0,,{\blur4}うい
+Dialogue: 4,0:05:48.38,0:05:49.50,Dial-JP,,0,0,0,,{\blur4}いざ
+Dialogue: 4,0:05:49.81,0:05:51.40,Dial-JP,,0,0,0,,{\blur4}おい　ババ回せ
+Dialogue: 4,0:05:51.40,0:05:53.34,Dial-JP,,0,0,0,,{\blur4}コイツに押しつけて任せてやれ
+Dialogue: 4,0:05:53.34,0:05:54.26,Dial-JP,,0,0,0,,{\blur4}ラジャ
+Dialogue: 4,0:05:54.55,0:05:58.27,Dial-JP,,0,0,0,,{\blur4}ババぬきも知らんヤツに知恵の甘味は無駄すぎる
+Dialogue: 4,0:06:04.39,0:06:06.26,Dial-JP,,0,0,0,,{\blur4}そら　お前の番だぞ
+Dialogue: 4,0:06:06.55,0:06:10.33,Dial-JP,,0,0,0,,{\blur4}アーニャ持ってるの　６と４と10と
+Dialogue: 4,0:06:10.33,0:06:12.47,Dial-JP,,0,0,0,,{\blur4}言わなくていいのよアーニャちゃん
+Dialogue: 4,0:06:14.46,0:06:15.56,Dial-JP,,0,0,0,,{\blur4}アホが
+Dialogue: 4,0:06:15.88,0:06:17.56,Dial-JP,,0,0,0,,{\blur4}ババは取りやすい位置に
+Dialogue: 4,0:06:17.56,0:06:20.14,Dial-JP,,0,0,0,,{\blur4}６は取りにくい位置にしてと
+Dialogue: 4,0:06:20.55,0:06:21.64,Dial-JP,,0,0,0,,{\blur4}ほら　引けよ
+Dialogue: 4,0:06:25.85,0:06:26.94,Dial-JP,,0,0,0,,{\blur4}6
+Dialogue: 4,0:06:29.94,0:06:31.92,Dial-JP,,0,0,0,,{\blur4}すごーい　アーニャちゃん
+Dialogue: 4,0:06:32.36,0:06:34.15,Dial-JP,,0,0,0,,{\blur4}ま…まぐれだろ
+Dialogue: 4,0:06:35.67,0:06:36.36,Dial-JP,,0,0,0,,{\blur4}4
+Dialogue: 4,0:06:36.73,0:06:37.43,Dial-JP,,0,0,0,,{\blur4}10
+Dialogue: 4,0:06:37.80,0:06:38.50,Dial-JP,,0,0,0,,{\blur4}Ａ
+Dialogue: 4,0:06:38.81,0:06:39.88,Dial-JP,,0,0,0,,{\blur4}オジサン
+Dialogue: 4,0:06:40.17,0:06:41.34,Dial-JP,,0,0,0,,{\blur4}やた
+Dialogue: 4,0:06:41.34,0:06:43.67,Dial-JP,,0,0,0,,{\blur4}アーニャの全部なくなった
+Dialogue: 4,0:06:43.67,0:06:44.80,Dial-JP,,0,0,0,,{\blur4}待て待て
+Dialogue: 4,0:06:44.80,0:06:46.23,Dial-JP,,0,0,0,,{\blur4}強すぎんだろ
+Dialogue: 4,0:06:46.76,0:06:48.42,Dial-JP,,0,0,0,,{\blur4}そうだ　インチキだ
+Dialogue: 4,0:06:48.42,0:06:50.58,Dial-JP,,0,0,0,,{\blur4}カードに印かなんか付けたんだろ
+Dialogue: 4,0:06:50.58,0:06:52.93,Dial-JP,,0,0,0,,{\blur4}何よ　イチャモンつけないでよ
+Dialogue: 4,0:06:54.21,0:06:58.01,Dial-JP,,0,0,0,,{\blur4}イカサマじゃなきゃこんなん　心が読めるとしか思えねえ
+Dialogue: 4,0:06:58.01,0:07:00.69,Dial-JP,,0,0,0,,{\blur4}しまった　アーニャ調子に乗った
+Dialogue: 4,0:07:02.03,0:07:04.93,Dial-JP,,0,0,0,,{\blur4}そこまで言うならもっかいやってもいい
+Dialogue: 4,0:07:06.05,0:07:07.82,Dial-JP,,0,0,0,,{\blur4}アーニャちゃん甘すぎ
+Dialogue: 4,0:07:08.16,0:07:10.62,Dial-JP,,0,0,0,,{\blur4}新品のトランプで仕切り直しだ
+Dialogue: 4,0:07:10.62,0:07:11.95,Dial-JP,,0,0,0,,{\blur4}順番も変えるぞ
+Dialogue: 4,0:07:11.95,0:07:14.06,Dial-JP,,0,0,0,,{\blur4}テメェもうズルすんなよ
+Dialogue: 4,0:07:14.06,0:07:15.17,Dial-JP,,0,0,0,,{\blur4}してない
+Dialogue: 4,0:07:16.79,0:07:18.20,Dial-JP,,0,0,0,,{\blur4}危なかった
+Dialogue: 4,0:07:18.20,0:07:20.26,Dial-JP,,0,0,0,,{\blur4}超能力者だとバレないように
+Dialogue: 4,0:07:20.26,0:07:23.08,Dial-JP,,0,0,0,,{\blur4}わざと失敗したフリとかしないと
+Dialogue: 4,0:07:31.40,0:07:32.89,Dial-JP,,0,0,0,,{\blur4}ババが回ってきた
+Dialogue: 4,0:07:33.40,0:07:34.14,Dial-JP,,0,0,0,,{\blur4}どうぞ
+Dialogue: 4,0:07:34.97,0:07:37.74,Dial-JP,,0,0,0,,{\blur4}真ん中がババだ　さぁ　引け
+Dialogue: 4,0:07:38.12,0:07:39.83,Dial-JP,,0,0,0,,{\blur4}わざと失敗
+Dialogue: 4,0:07:42.03,0:07:43.22,Dial-JP,,0,0,0,,{\blur4}しまった
+Dialogue: 4,0:07:43.22,0:07:46.03,Dial-JP,,0,0,0,,{\blur4}アーニャ　うっかりババさん引いてしまった
+Dialogue: 4,0:07:46.94,0:07:47.96,Dial-JP,,0,0,0,,{\blur4}ダッセー
+Dialogue: 4,0:07:47.96,0:07:48.85,Dial-JP,,0,0,0,,{\blur4}マヌケ
+Dialogue: 4,0:07:48.85,0:07:50.07,Dial-JP,,0,0,0,,{\blur4}どんくさ
+Dialogue: 4,0:07:50.98,0:07:52.66,Dial-JP,,0,0,0,,{\blur4}今こそ必殺の
+Dialogue: 4,0:07:52.66,0:07:54.85,Dial-JP,,0,0,0,,{\blur4}ダメよアーニャちゃん　殴ったら
+Dialogue: 4,0:07:56.42,0:07:57.79,Dial-JP,,0,0,0,,{\blur4}ついてないぜ
+Dialogue: 4,0:07:58.82,0:08:02.18,Dial-JP,,0,0,0,,{\blur4}危ない　退学になったらミッション終わってた
+Dialogue: 4,0:08:02.18,0:08:04.99,Dial-JP,,0,0,0,,{\blur4}父のようにクールなウソつきにならねば
+Dialogue: 4,0:08:05.20,0:08:06.17,Dial-JP,,0,0,0,,{\blur4}問題ない
+Dialogue: 4,0:08:06.17,0:08:09.80,Dial-JP,,0,0,0,,{\blur4}次　次男にこのババさん引かせればアーニャ安全
+Dialogue: 4,0:08:09.80,0:08:10.53,Dial-JP,,0,0,0,,{\blur4}引け
+Dialogue: 4,0:08:28.79,0:08:30.70,Dial-JP,,0,0,0,,{\blur4}なんてわかりやすいヤツなんだ
+Dialogue: 4,0:08:31.66,0:08:33.14,Dial-JP,,0,0,0,,{\blur4}よっしゃ　そろった
+Dialogue: 4,0:08:33.33,0:08:36.43,Dial-JP,,0,0,0,,{\blur4}もしかして　次男も心読める
+Dialogue: 4,0:08:39.98,0:08:40.71,Dial-JP,,0,0,0,,{\blur4}上がり
+Dialogue: 4,0:08:41.58,0:08:43.21,Dial-JP,,0,0,0,,{\blur4}私も上がり
+Dialogue: 4,0:08:43.54,0:08:46.29,Dial-JP,,0,0,0,,{\blur4}ヤバい　アーニャのババさんなくならない
+Dialogue: 4,0:08:46.48,0:08:48.22,Dial-JP,,0,0,0,,{\blur4}俺も上がった
+Dialogue: 4,0:08:51.40,0:08:53.68,Dial-JP,,0,0,0,,{\blur4}ダミアンくんもなかなか弱いね
+Dialogue: 4,0:08:53.68,0:08:54.70,Dial-JP,,0,0,0,,{\blur4}うっせ
+Dialogue: 4,0:08:54.70,0:08:56.45,Dial-JP,,0,0,0,,{\blur4}頑張れ　アーニャちゃん
+Dialogue: 4,0:08:57.67,0:08:58.69,Dial-JP,,0,0,0,,{\blur4}いくぞ
+Dialogue: 4,0:08:59.08,0:09:00.92,Dial-JP,,0,0,0,,{\blur4}これで勝負が決まる
+Dialogue: 4,0:09:00.92,0:09:04.23,Dial-JP,,0,0,0,,{\blur4}いや　コイツの顔を見てれば勝ったも同然
+Dialogue: 4,0:09:04.40,0:09:08.34,Dial-JP,,0,0,0,,{\blur4}アーニャ　頑張ってウソつきの顔でババさん引かせないと
+Dialogue: 4,0:09:08.34,0:09:12.33,Dial-JP,,0,0,0,,{\blur4}負けたらあのお菓子食べられなくてアーニャ頭悪いまま
+Dialogue: 4,0:09:12.33,0:09:16.33,Dial-JP,,0,0,0,,{\blur4}そしたらテストもダメでベッキーと別々のクラスになっちゃう
+Dialogue: 4,0:09:16.86,0:09:19.50,Dial-JP,,0,0,0,,{\blur4}アーニャ　ぼっちになっちゃう
+Dialogue: 4,0:09:20.09,0:09:22.80,Dial-JP,,0,0,0,,{\blur4}よし　こっちがババじゃないほうだな
+Dialogue: 4,0:09:44.96,0:09:46.61,Dial-JP,,0,0,0,,{\blur4}じゃあ　４人の分ね
+Dialogue: 4,0:09:46.93,0:09:49.09,Dial-JP,,0,0,0,,{\blur4}やったぁ　おいしそ
+Dialogue: 4,0:09:49.40,0:09:50.54,Dial-JP,,0,0,0,,{\blur4}ワクワク
+Dialogue: 4,0:09:50.54,0:09:54.09,Dial-JP,,0,0,0,,{\blur4}ダミアン様　なんであそこでババ引いちゃうかなぁ
+Dialogue: 4,0:09:54.09,0:09:55.41,Dial-JP,,0,0,0,,{\blur4}うっせ
+Dialogue: 4,0:09:55.41,0:09:58.21,Dial-JP,,0,0,0,,{\blur4}ズリぃんだよアイツは　クソッ
+Dialogue: 4,0:10:01.18,0:10:02.11,Dial-JP,,0,0,0,,{\blur4}次男
+Dialogue: 4,0:10:07.51,0:10:09.29,Dial-JP,,0,0,0,,{\blur4}半分こするか
+Dialogue: 4,0:10:12.65,0:10:14.81,Dial-JP,,0,0,0,,{\blur4}いいいいらねえよ　バカ
+Dialogue: 4,0:10:14.81,0:10:18.31,Dial-JP,,0,0,0,,{\blur4}俺はそんなもん食わなくたって　インペリアル・スカラーになれんだよ
+Dialogue: 4,0:10:18.76,0:10:20.51,Dial-JP,,0,0,0,,{\blur4}バカなヤツが食えよ　バカ
+Dialogue: 4,0:10:22.18,0:10:23.87,Dial-JP,,0,0,0,,{\blur4}まぁ　失礼ね
+Dialogue: 4,0:10:24.14,0:10:26.04,Dial-JP,,0,0,0,,{\blur4}食べよ　アーニャちゃん
+Dialogue: 4,0:10:26.76,0:10:28.23,Dial-JP,,0,0,0,,{\blur4}いただきまーす
+Dialogue: 4,0:10:31.65,0:10:32.85,Dial-JP,,0,0,0,,{\blur4}うま
+Dialogue: 4,0:10:32.85,0:10:34.62,Dial-JP,,0,0,0,,{\blur4}これで俺もステラを
+Dialogue: 4,0:10:56.91,0:10:58.80,Dial-JP,,0,0,0,,{\blur4}それでは小テスト始め
+Dialogue: 4,0:11:13.04,0:11:14.86,Dial-JP,,0,0,0,,{\blur4}アーニャ　ぼっち確定
+Dialogue: 4,0:11:14.86,0:11:17.51,Dial-JP,,0,0,0,,{\blur4}学園生活　お先真っ暗
+Dialogue: 4,0:11:17.51,0:11:19.00,Dial-JP,,0,0,0,,{\blur4}そんなことないよ
+Dialogue: 4,0:11:19.00,0:11:20.12,Dial-JP,,0,0,0,,{\blur4}期末頑張ろ
+Dialogue: 4,0:11:20.33,0:11:23.62,Dial-JP,,0,0,0,,{\blur4}そうさ　すでにぼっちの僕よりマシだよ
+Dialogue: 4,0:11:25.62,0:11:28.81,Dial-JP,,0,0,0,,{\blur4}学校のテストって難しいんですねぇ
+Dialogue: 4,0:11:29.15,0:11:31.98,Dial-JP,,0,0,0,,{\blur4}アーニャ　ちょっとふて寝してくる
+Dialogue: 4,0:11:35.29,0:11:38.05,Dial-JP,,0,0,0,,{\blur4}基礎学力は多少向上はしているが…
+Dialogue: 4,0:11:38.24,0:11:40.12,Dial-JP,,0,0,0,,{\blur4}道はなかなか遠いな
+Dialogue: 4,0:11:41.65,0:11:45.64,Dial-JP,,0,0,0,,{\blur4}この古語のテスト…スペルミスで減点されまくっているが
+Dialogue: 4,0:11:45.86,0:11:48.10,Dial-JP,,0,0,0,,{\blur4}それさえなければかなりの得点
+Dialogue: 4,0:11:48.53,0:11:51.14,Dial-JP,,0,0,0,,{\blur4}古語の勉強はまだそんなにしていないはず
+Dialogue: 4,0:11:51.14,0:11:53.59,Dial-JP,,0,0,0,,{\blur4}生まれ育った環境で学んだものか
+Dialogue: 4,0:11:53.59,0:11:56.90,Dial-JP,,0,0,0,,{\blur4}しかし今でも古語を母国語としている国なんて
+Dialogue: 4,0:11:58.59,0:12:01.80,Dial-JP,,0,0,0,,{\blur4}いや　詮索しても意味がないことだ
+Dialogue: 4,0:12:02.39,0:12:03.38,Dial-JP,,0,0,0,,{\blur4}アーニャ
+Dialogue: 4,0:12:03.38,0:12:05.58,Dial-JP,,0,0,0,,{\blur4}夕飯はハンバーグにしてやったぞ
+Dialogue: 4,0:12:05.58,0:12:07.25,Dial-JP,,0,0,0,,{\blur4}ハンバーグ
+Dialogue: 4,0:12:07.25,0:12:09.88,Dial-JP,,0,0,0,,{\blur4}私もデザート作ってみましたよー
+Dialogue: 4,0:12:15.72,0:12:19.04,Dial-JP,,0,0,0,,{\blur4}これがダスト重工　第２セクションの偽ID
+Dialogue: 4,0:12:19.25,0:12:22.39,Dial-JP,,0,0,0,,{\blur4}こっちが　新型戦闘機のエンジン性能テスト数値
+Dialogue: 4,0:12:23.42,0:12:24.86,Dial-JP,,0,900,0,,{\blur4}いつも助かるよ
+Dialogue: 4,0:12:25.87,0:12:27.46,Dial-JP,,0,0,0,,{\blur4}タダじゃねえからな
+Dialogue: 4,0:12:27.72,0:12:30.76,Dial-JP,,0,0,0,,{\blur4}前に頼んだ協会メンバーの映像データは
+Dialogue: 4,0:12:30.97,0:12:32.36,Dial-JP,,0,0,0,,{\blur4}あ　あれな
+Dialogue: 4,0:12:32.36,0:12:33.49,Dial-JP,,0,0,0,,{\blur4}少し待ってくれ
+Dialogue: 4,0:12:33.49,0:12:36.80,Dial-JP,,0,0,0,,{\blur4}そっちが得意な情報屋が一人消されちまってな
+Dialogue: 4,0:12:37.57,0:12:38.51,Dial-JP,,0,0,0,,{\blur4}保安局か
+Dialogue: 4,0:12:38.51,0:12:40.65,Dial-JP,,0,0,0,,{\blur4}いや　確証はないが
+Dialogue: 4,0:12:40.65,0:12:43.37,Dial-JP,,0,0,0,,{\blur4}ガーデンにやられたんじゃないかってうわさだ
+Dialogue: 4,0:12:43.85,0:12:44.65,Dial-JP,,0,0,0,,{\blur4}ガーデン
+Dialogue: 4,0:12:45.12,0:12:48.67,Dial-JP,,0,0,0,,{\blur4}この国に昔から存在するとされる暗殺組織か
+Dialogue: 4,0:12:48.93,0:12:51.12,Dial-JP,,0,0,0,,{\blur4}半分都市伝説みたいなものだろ
+Dialogue: 4,0:12:51.12,0:12:53.81,Dial-JP,,0,0,0,,{\blur4}いいや　ヤツらは実在するね
+Dialogue: 4,0:12:54.02,0:12:58.01,Dial-JP,,0,0,0,,{\blur4}影の政府の命令で国賊を次々と粛清しているのだ
+Dialogue: 4,0:12:58.24,0:13:02.26,Dial-JP,,0,0,0,,{\blur4}まぁそりゃ　非公式の民兵組織くらい当然あるだろうが…
+Dialogue: 4,0:13:02.26,0:13:02.95,Dial-JP,,0,0,0,,{\blur4}バカ
+Dialogue: 4,0:13:02.95,0:13:05.25,Dial-JP,,0,0,0,,{\blur4}ヤツらはそんななまぬるいもんじゃない
+Dialogue: 4,0:13:05.25,0:13:08.86,Dial-JP,,0,0,0,,{\blur4}兵士一人で一個中隊をせん滅できる力を持っているのだ
+Dialogue: 4,0:13:09.08,0:13:10.45,Dial-JP,,0,0,0,,{\blur4}バカ言ってないで
+Dialogue: 4,0:13:10.45,0:13:11.40,Dial-JP,,0,0,0,,{\blur4}頼んだぞ
+Dialogue: 4,0:13:11.83,0:13:12.52,Dial-JP,,0,0,0,,{\blur4}待て
+Dialogue: 4,0:13:12.75,0:13:16.05,Dial-JP,,0,0,0,,{\blur4}追加の労力と引き換えに俺の仕事を手伝え
+Dialogue: 4,0:13:16.42,0:13:17.43,Dial-JP,,0,0,0,,{\blur4}仕事？
+Dialogue: 4,0:13:18.97,0:13:19.93,Dial-JP,,0,0,0,,{\blur4}コイツだ
+Dialogue: 4,0:13:19.93,0:13:21.42,Dial-JP,,0,0,0,,{\blur4}迷い猫
+Dialogue: 4,0:13:21.42,0:13:24.92,Dial-JP,,0,0,0,,{\blur4}俺の行きつけのカフェの店員ケイシーちゃんの飼い猫　コピ
+Dialogue: 4,0:13:24.92,0:13:27.42,Dial-JP,,0,0,0,,{\blur4}先週　行方不明になってしまって
+Dialogue: 4,0:13:27.42,0:13:30.33,Dial-JP,,0,0,0,,{\blur4}ケイシーちゃんはえらく悲しんでいた
+Dialogue: 4,0:13:30.67,0:13:34.06,Dial-JP,,0,0,0,,{\blur4}黄昏よ　ケイシーちゃんの笑顔を取り戻すため
+Dialogue: 4,0:13:34.06,0:13:37.18,Dial-JP,,0,0,0,,{\blur4}ひいては俺とケイシーちゃんがいい感じになるために
+Dialogue: 4,0:13:37.18,0:13:39.47,Dial-JP,,0,0,0,,{\blur4}この猫の捕獲を手伝ってくれ
+Dialogue: 4,0:13:40.90,0:13:41.93,Dial-JP,,0,0,0,,{\blur4}おい待て
+Dialogue: 4,0:13:41.93,0:13:44.56,Dial-JP,,0,0,0,,{\blur4}手伝わないと情報やらんぞ
+Dialogue: 4,0:13:46.77,0:13:50.23,Dial-JP,,0,0,0,,{\blur4}おまけで新開発の歯ブラシ型ピストルもつけるから
+Dialogue: 4,0:13:50.73,0:13:53.58,Dial-JP,,0,0,0,,{\blur4}クソッ　なんて薄情なヤツなんだ
+Dialogue: 4,0:13:53.58,0:13:56.63,Dial-JP,,0,0,0,,{\blur4}いいさ　俺一人の力で捕まえてやるさ
+Dialogue: 4,0:13:57.24,0:13:59.64,Dial-JP,,0,0,0,,{\blur4}情報屋をナメるなよ
+Dialogue: 4,0:14:00.42,0:14:01.85,Dial-JP,,0,0,0,,{\blur4}もしもし　ジェフリー
+Dialogue: 4,0:14:02.40,0:14:04.28,Dial-JP,,0,0,0,,{\blur4}あぁそうだ　仕事の依頼だ
+Dialogue: 4,0:14:04.28,0:14:05.64,Dial-JP,,0,0,0,,{\blur4}猫を捜してる
+Dialogue: 4,0:14:05.95,0:14:07.37,Dial-JP,,0,0,0,,{\blur4}雄のノルトブルー
+Dialogue: 4,0:14:07.37,0:14:08.57,Dial-JP,,0,0,0,,{\blur4}首には鈴
+Dialogue: 4,0:14:09.01,0:14:10.57,Dial-JP,,0,0,0,,{\blur4}見つけたら情報くれ
+Dialogue: 4,0:14:10.57,0:14:11.49,Dial-JP,,0,0,0,,{\blur4}よろしく
+Dialogue: 4,0:14:12.22,0:14:14.43,Dial-JP,,0,0,0,,{\blur4}久しぶりだな　ハウンド・ジョー
+Dialogue: 4,0:14:14.43,0:14:16.73,Dial-JP,,0,0,0,,{\blur4}お前の腕を見込んで頼みがある
+Dialogue: 4,0:14:16.73,0:14:18.20,Dial-JP,,0,0,0,,{\blur4}もしもし　テレンスか
+Dialogue: 4,0:14:19.34,0:14:20.53,Dial-JP,,0,0,0,,{\blur4}緊急事態だ
+Dialogue: 4,0:14:20.53,0:14:21.87,Dial-JP,,0,0,0,,{\blur4}ヘイ　ナンシー
+Dialogue: 4,0:14:21.87,0:14:23.63,Dial-JP,,0,0,0,,{\blur4}君　猫に詳しかったよね
+Dialogue: 4,0:14:23.63,0:14:26.39,Dial-JP,,0,0,0,,{\blur4}22分署のハリソンさんをお願いします
+Dialogue: 4,0:14:26.39,0:14:28.01,Dial-JP,,0,0,0,,{\blur4}こんにちはジャスパーさん
+Dialogue: 4,0:14:28.01,0:14:29.01,Dial-JP,,0,0,0,,{\blur4}よう　バット
+Dialogue: 4,0:14:32.73,0:14:36.19,Dial-JP,,0,0,0,,{\blur4}市役所近くのリッター通りでそれらしいのを見かけたぜ
+Dialogue: 4,0:14:36.19,0:14:37.98,Dial-JP,,0,0,0,,{\blur4}でかした　ジョー
+Dialogue: 4,0:14:43.34,0:14:45.84,Dial-JP,,0,0,0,,{\blur4}この辺りにいるはずだが…
+Dialogue: 4,0:14:45.84,0:14:47.58,Dial-JP,,0,0,0,,{\blur4}あれっフランキーさん
+Dialogue: 4,0:14:49.39,0:14:50.38,Dial-JP,,0,0,0,,{\blur4}ヨルさん
+Dialogue: 4,0:14:50.56,0:14:51.66,Dial-JP,,0,0,0,,{\blur4}こんにちは
+Dialogue: 4,0:14:51.87,0:14:52.86,Dial-JP,,0,0,0,,{\blur4}どうも
+Dialogue: 4,0:14:53.76,0:14:56.26,Dial-JP,,0,0,0,,{\blur4}そういや　市役所勤務だったっけ
+Dialogue: 4,0:14:56.26,0:14:58.78,Dial-JP,,0,0,0,,{\blur4}はい　今からランチ休憩です
+Dialogue: 4,0:14:59.19,0:15:01.62,Dial-JP,,0,0,0,,{\blur4}フランキーさんの職場もこの近くで？
+Dialogue: 4,0:15:01.62,0:15:03.70,Dial-JP,,0,0,0,,{\blur4}あぁいや　実は
+Dialogue: 4,0:15:05.78,0:15:07.33,Dial-JP,,0,0,0,,{\blur4}迷子の猫ちゃん
+Dialogue: 4,0:15:07.33,0:15:08.56,Dial-JP,,0,0,0,,{\blur4}まぁ大変
+Dialogue: 4,0:15:08.97,0:15:10.64,Dial-JP,,0,0,0,,{\blur4}私もお手伝いいたします
+Dialogue: 4,0:15:11.66,0:15:13.70,Dial-JP,,0,0,0,,{\blur4}いや　今からランチでしょ
+Dialogue: 4,0:15:13.70,0:15:16.05,Dial-JP,,0,0,0,,{\blur4}お気になさらず　オ…オット
+Dialogue: 4,0:15:16.05,0:15:18.90,Dial-JP,,0,0,0,,{\blur4}シュジン　のご友人のピンチですもの
+Dialogue: 4,0:15:19.30,0:15:22.78,Dial-JP,,0,0,0,,{\blur4}相変わらず真面目に夫婦を演じてるのか
+Dialogue: 4,0:15:23.09,0:15:26.54,Dial-JP,,0,0,0,,{\blur4}ごっご迷惑でなければ　ですが
+Dialogue: 4,0:15:26.79,0:15:28.72,Dial-JP,,0,0,0,,{\blur4}じゃあ　頼むよ
+Dialogue: 4,0:15:28.92,0:15:29.58,Dial-JP,,0,0,0,,{\blur4}はい
+Dialogue: 4,0:15:30.75,0:15:32.99,Dial-JP,,0,0,0,,{\blur4}それでコピさんはどちらに？
+Dialogue: 4,0:15:32.99,0:15:35.54,Dial-JP,,0,0,0,,{\blur4}この近くにいることは判明している
+Dialogue: 4,0:15:36.03,0:15:41.34,Dial-JP,,0,0,0,,{\blur4}周辺の各猫スポットに　猫型盗聴器Ｃ20を仕掛けた
+Dialogue: 4,0:15:41.34,0:15:46.21,Dial-JP,,0,0,0,,{\blur4}コピちゃんの首の鈴の音に反応するセンサーを取り付けてあるのだ
+Dialogue: 4,0:15:47.47,0:15:49.65,Dial-JP,,0,0,0,,{\blur4}すごいです　フランキーさん
+Dialogue: 4,0:15:50.60,0:15:51.54,Dial-JP,,0,0,0,,{\blur4}任せろ
+Dialogue: 4,0:15:54.64,0:15:57.69,Dial-JP,,0,0,0,,{\blur4}ＡポイントのＣ20が攻撃されている
+Dialogue: 4,0:15:57.69,0:15:58.65,Dial-JP,,0,0,0,,{\blur4}まぁ大変
+Dialogue: 4,0:16:00.60,0:16:01.56,Dial-JP,,0,0,0,,{\blur4}破壊された
+Dialogue: 4,0:16:02.57,0:16:04.10,Dial-JP,,0,0,0,,{\blur4}他のポイントも
+Dialogue: 4,0:16:07.24,0:16:10.16,Dial-JP,,0,0,0,,{\blur4}よそ者として排除されてしまったのか
+Dialogue: 4,0:16:10.61,0:16:12.27,Dial-JP,,0,0,0,,{\blur4}この作戦は失敗だ
+Dialogue: 4,0:16:12.56,0:16:15.50,Dial-JP,,0,0,0,,{\blur4}猫ちゃんの世界も厳しいのですね
+Dialogue: 4,0:16:15.50,0:16:17.48,Dial-JP,,0,0,0,,{\blur4}しからば向こうからやって来るよう
+Dialogue: 4,0:16:17.48,0:16:18.67,Dial-JP,,0,0,0,,{\blur4}仕向けるまで
+Dialogue: 4,0:16:19.14,0:16:21.96,Dial-JP,,0,0,0,,{\blur4}猫誘引装置　MTTBデコイ
+Dialogue: 4,0:16:25.43,0:16:29.04,Dial-JP,,0,0,0,,{\blur4}マタタビの匂いを拡散させ　対象をおびき寄せるのだ
+Dialogue: 4,0:16:30.10,0:16:32.68,Dial-JP,,0,0,0,,{\blur4}フランキーさんってとっても器用なんですね
+Dialogue: 4,0:16:32.68,0:16:34.31,Dial-JP,,0,0,0,,{\blur4}職人さんなんですか
+Dialogue: 4,0:16:34.73,0:16:37.37,Dial-JP,,0,0,0,,{\blur4}俺は発明品で世界をよりよくし
+Dialogue: 4,0:16:37.37,0:16:41.71,Dial-JP,,0,0,0,,{\blur4}あわよくば特許で大金持ちになることを夢見てる青年なのだ
+Dialogue: 4,0:16:42.23,0:16:43.32,Dial-JP,,0,0,0,,{\blur4}ステキです
+Dialogue: 4,0:16:44.06,0:16:46.29,Dial-JP,,0,0,0,,{\blur4}裏の住人とは言えない…
+Dialogue: 4,0:17:02.95,0:17:04.09,Dial-JP,,0,0,0,,{\blur4}まずい
+Dialogue: 4,0:17:04.25,0:17:06.10,Dial-JP,,0,0,0,,{\blur4}集まりすぎた
+Dialogue: 4,0:17:06.52,0:17:08.24,Dial-JP,,0,0,0,,{\blur4}どれがコピさんですか
+Dialogue: 4,0:17:12.89,0:17:14.61,Dial-JP,,0,0,0,,{\blur4}いた　グレーの
+Dialogue: 4,0:17:14.93,0:17:15.89,Dial-JP,,0,0,0,,{\blur4}どの子ですか
+Dialogue: 4,0:17:19.24,0:17:21.32,Dial-JP,,500,0,0,,{\blur4}なんとしてでも捕まえてやる
+Dialogue: 4,0:17:20.32,0:17:22.73,Dial-JP,,0,900,0,,{\blur4}助けてください
+Dialogue: 4,0:17:23.34,0:17:25.32,Dial-JP,,0,0,0,,{\blur4}ハイパーロングハーンド
+Dialogue: 4,0:17:25.52,0:17:26.48,Dial-JP,,0,0,0,,{\blur4}くらえ
+Dialogue: 4,0:17:29.40,0:17:30.85,Dial-JP,,0,0,0,,{\blur4}点の攻撃はダメだ
+Dialogue: 4,0:17:30.85,0:17:32.08,Dial-JP,,0,0,0,,{\blur4}面で攻めねば
+Dialogue: 4,0:17:32.54,0:17:33.87,Dial-JP,,0,0,0,,{\blur4}こら　入るな
+Dialogue: 4,0:17:34.06,0:17:36.22,Dial-JP,,0,0,0,,{\blur4}カメラ型ネットランチャー
+Dialogue: 4,0:17:36.72,0:17:39.40,Dial-JP,,0,0,0,,{\blur4}コピちゃんは警戒心が強いらしいからな
+Dialogue: 4,0:17:39.40,0:17:43.54,Dial-JP,,0,0,0,,{\blur4}写真を撮るだけですよー　という体で慎重にいかねば
+Dialogue: 4,0:17:43.95,0:17:46.15,Dial-JP,,0,0,0,,{\blur4}だがしかし　カメラに偽装した分
+Dialogue: 4,0:17:46.15,0:17:48.51,Dial-JP,,0,0,0,,{\blur4}このランチャーの射程距離は短い
+Dialogue: 4,0:17:48.51,0:17:51.38,Dial-JP,,0,0,0,,{\blur4}確実に捕らえるには２メートル以内に近づかねば
+Dialogue: 4,0:18:07.30,0:18:08.50,Dial-JP,,0,0,0,,{\blur4}待て　こら
+Dialogue: 4,0:18:08.98,0:18:10.53,Dial-JP,,0,0,0,,{\blur4}あれがコピさんですね
+Dialogue: 4,0:18:19.02,0:18:21.84,Dial-JP,,0,0,0,,{\blur4}コピよ　お前は俺を怒らせた
+Dialogue: 4,0:18:21.84,0:18:24.29,Dial-JP,,0,0,0,,{\blur4}後悔してももう遅いぜ
+Dialogue: 4,0:18:32.09,0:18:35.76,Dial-JP,,0,0,0,,{\blur4}この俺が　10年かけて作り上げた最終兵器
+Dialogue: 4,0:18:36.01,0:18:38.44,Dial-JP,,0,0,0,,{\blur4}驚異的な身体能力を得られる
+Dialogue: 4,0:18:38.44,0:18:39.38,Dial-JP,,0,0,0,,{\blur4}はずの
+Dialogue: 4,0:18:39.38,0:18:41.52,Dial-JP,,0,0,0,,{\blur4}パワードスーツ
+Dialogue: 4,0:18:41.86,0:18:45.20,Dial-JP,,0,0,0,,{\blur4}待ってろよ　電源入れてモーターが温まるまで
+Dialogue: 4,0:18:45.20,0:18:46.94,Dial-JP,,0,0,0,,{\blur4}15分かかるからなぁ
+Dialogue: 4,0:18:46.94,0:18:48.48,Dial-JP,,0,0,0,,{\blur4}それまでおとなしくしてろ
+Dialogue: 4,0:18:52.43,0:18:54.91,Dial-JP,,0,0,0,,{\blur4}バカ　そっちは大通りで危ないぞ
+Dialogue: 4,0:18:55.33,0:18:56.74,Dial-JP,,0,0,0,,{\blur4}止まれ　ごめん
+Dialogue: 4,0:18:56.74,0:18:58.22,Dial-JP,,0,0,0,,{\blur4}もう追いかけないから
+Dialogue: 4,0:18:58.22,0:18:59.44,Dial-JP,,0,0,0,,{\blur4}フランキーさん
+Dialogue: 4,0:18:59.72,0:19:01.90,Dial-JP,,0,0,0,,{\blur4}これ　ちょっとお借りしますね
+Dialogue: 4,0:19:27.46,0:19:28.77,Dial-JP,,0,0,0,,{\blur4}捕まえました
+Dialogue: 4,0:19:29.85,0:19:33.34,Dial-JP,,0,0,0,,{\blur4}捕まえましたよ　フランキーさん
+Dialogue: 4,0:19:34.60,0:19:35.78,Dial-JP,,0,0,0,,{\blur4}ありがとう
+Dialogue: 4,0:19:36.41,0:19:38.78,Dial-JP,,0,0,0,,{\blur4}10年　俺の10年
+Dialogue: 4,0:19:38.78,0:19:40.57,Dial-JP,,0,0,0,,{\blur4}よかったですね　コピさん
+Dialogue: 4,0:19:40.57,0:19:42.31,Dial-JP,,0,0,0,,{\blur4}おうちに帰れますよ
+Dialogue: 4,0:19:46.76,0:19:48.36,Dial-JP,,0,0,0,,{\blur4}いや　だがしかし
+Dialogue: 4,0:19:48.36,0:19:52.32,Dial-JP,,0,0,0,,{\blur4}これでケイシーちゃんが振り向いてくれると思えば安いもんだぜ
+Dialogue: 4,0:19:52.60,0:19:55.21,Dial-JP,,0,0,0,,{\blur4}待っててくれ　マイハニー
+Dialogue: 4,0:19:56.28,0:19:58.55,Dial-JP,,0,0,0,,{\blur4}ありがとう　フランキーさん
+Dialogue: 4,0:19:59.07,0:20:01.96,Dial-JP,,0,0,0,,{\blur4}コピ　心配したのよぉ
+Dialogue: 4,0:20:03.43,0:20:05.61,Dial-JP,,0,0,0,,{\blur4}よかったな　ケイシー
+Dialogue: 4,0:20:06.81,0:20:07.84,Dial-JP,,0,0,0,,{\blur4}んもう
+Dialogue: 4,0:20:07.84,0:20:11.55,Dial-JP,,0,0,0,,{\blur4}マーくんが玄関のドア　開けっ放しにするからぁ
+Dialogue: 4,0:20:11.55,0:20:13.04,Dial-JP,,0,0,0,,{\blur4}悪かったって
+Dialogue: 4,0:20:13.04,0:20:16.11,Dial-JP,,0,0,0,,{\blur4}今度お前が欲しがってたおそろいのリング買ってやるから
+Dialogue: 4,0:20:17.38,0:20:18.97,Dial-JP,,0,0,0,,{\blur4}ヨ…ヨカッタヨ　うん
+Dialogue: 4,0:20:20.03,0:20:21.78,Dial-JP,,0,0,0,,{\blur4}それじゃ　俺はこれで
+Dialogue: 4,0:20:24.03,0:20:25.59,Dial-JP,,0,0,0,,{\blur4}本当にありがとう
+Dialogue: 4,0:20:25.59,0:20:27.37,Dial-JP,,0,0,0,,{\blur4}フランキーさん
+Dialogue: 4,0:20:28.81,0:20:32.19,Dial-JP,,0,0,0,,{\blur4}お二人さん　シアワセにクラシナヨ
+Dialogue: 4,0:20:41.59,0:20:45.29,Dial-JP,,0,0,0,,{\blur4}男は　仕事に生きることを決意した
+Dialogue: 4,0:20:49.92,0:20:52.79,Dial-JP,,0,0,0,,{\blur4}やっぱり人助けは気持ちがいいですね
+Dialogue: 4,0:20:53.90,0:20:56.58,Dial-JP,,0,0,0,,{\blur4}先輩　なんだかうれしそうですね
+Dialogue: 4,0:20:57.24,0:20:58.21,Dial-JP,,0,0,0,,{\blur4}何何
+Dialogue: 4,0:20:58.21,0:21:00.64,Dial-JP,,0,0,0,,{\blur4}旦那に何か買ってもらったとか
+Dialogue: 4,0:21:01.10,0:21:02.53,Dial-JP,,0,0,0,,{\blur4}いえ　違います
+Dialogue: 4,0:21:02.82,0:21:05.32,Dial-JP,,0,0,0,,{\blur4}充実してそうでよござんすね
+Dialogue: 4,0:21:05.32,0:21:07.04,Dial-JP,,0,0,0,,{\blur4}ホント　ムカつく
+Dialogue: 4,0:21:07.04,0:21:09.92,Dial-JP,,0,0,0,,{\blur4}ようやく人並みになれたってだけでしょ
+Dialogue: 4,0:21:10.78,0:21:11.92,Dial-JP,,0,0,0,,{\blur4}人並み
+Dialogue: 4,0:21:12.28,0:21:14.00,Dial-JP,,0,0,0,,{\blur4}私人並みですか
+Dialogue: 4,0:21:15.42,0:21:16.84,Dial-JP,,0,0,0,,{\blur4}よかったです
+Dialogue: 4,0:21:16.84,0:21:19.23,Dial-JP,,0,0,0,,{\blur4}うまく偽装できてて一安心
+Dialogue: 4,0:21:19.75,0:21:22.44,Dial-JP,,0,0,0,,{\blur4}シャロン　あんま図に乗らすなって
+Dialogue: 4,0:21:22.82,0:21:25.06,Dial-JP,,0,0,0,,{\blur4}いや　皮肉のつもりで
+Dialogue: 4,0:21:27.14,0:21:28.22,Dial-JP,,0,0,0,,{\blur4}ブライアくん
+Dialogue: 4,0:21:28.67,0:21:29.98,Dial-JP,,0,0,0,,{\blur4}じゃなかった
+Dialogue: 4,0:21:30.20,0:21:31.83,Dial-JP,,0,0,0,,{\blur4}フォージャーくん　電話
+Dialogue: 4,0:21:32.10,0:21:34.55,Dial-JP,,0,0,0,,{\blur4}はい　私はフォージャーです
+Dialogue: 4,0:21:39.66,0:21:41.88,Dial-JP,,0,0,0,,{\blur4}君の担当の得意先から
+Dialogue: 4,0:21:47.44,0:21:50.56,Dial-JP,,0,0,0,,{\blur4}もしもし　お電話代わりました
+Dialogue: 4,0:21:51.85,0:21:53.08,Dial-JP,,0,0,0,,{\blur4}こんにちは
+Dialogue: 4,0:21:54.04,0:21:57.40,Dial-JP,,0,0,0,,{\blur4}お客様が入りましたよ　いばら姫
+Dialogue: 5,0:00:01.48,0:00:02.86,Dial-CH,,0,0,0,,{\blur4}智慧之甜点
+Dialogue: 5,0:00:02.86,0:00:05.00,Dial-CH,,0,0,0,,{\blur4}这是被传得煞有介事的
+Dialogue: 5,0:00:05.00,0:00:06.99,Dial-CH,,0,0,0,,{\blur4}伊甸学园七大不可思议之一
+Dialogue: 5,0:00:07.24,0:00:10.97,Dial-CH,,0,0,0,,{\blur4}这些出自学校食堂来历不详的神秘甜点师之手
+Dialogue: 5,0:00:10.97,0:00:13.60,Dial-CH,,0,0,0,,{\blur4}不定期供应的甜点
+Dialogue: 5,0:00:13.60,0:00:15.60,Dial-CH,,0,0,0,,{\blur4}不但口味绝顶
+Dialogue: 5,0:00:16.09,0:00:20.48,Dial-CH,,0,0,0,,{\blur4}据传许多吃了它的学生还成为了「皇帝学徒」
+Dialogue: 5,0:00:20.48,0:00:22.71,Dial-CH,,0,0,0,,{\blur4}「吃完后头脑立马变灵光」
+Dialogue: 5,0:00:22.71,0:00:24.20,Dial-CH,,0,0,0,,{\blur4}这样的传闻也随之产生
+Dialogue: 5,0:00:24.20,0:00:29.28,Dial-CH,,0,0,0,,{\blur4}因此有部分伊甸学园的学生对这点心的购买机会虎视眈眈
+Dialogue: 5,0:02:05.17,0:02:06.73,Dial-CH,,0,0,0,,{\blur4}莫非您就是
+Dialogue: 5,0:02:06.73,0:02:08.36,Dial-CH,,0,0,0,,{\blur4}那时候的王子殿下
+Dialogue: 5,0:02:08.73,0:02:09.49,Dial-CH,,0,0,0,,{\blur4}不是
+Dialogue: 5,0:02:09.49,0:02:11.86,Dial-CH,,0,0,0,,{\blur4}我是你的分身
+Dialogue: 5,0:02:11.86,0:02:13.65,Dial-CH,,0,0,0,,{\blur4}不 不会错的
+Dialogue: 5,0:02:13.65,0:02:15.48,Dial-CH,,0,0,0,,{\blur4}这眼睛 这头发
+Dialogue: 5,0:02:15.96,0:02:17.26,Dial-CH,,0,0,0,,{\blur4}我的王子殿下
+Dialogue: 5,0:02:17.26,0:02:17.99,Dial-CH,,0,0,0,,{\blur4}爱你
+Dialogue: 5,0:02:18.28,0:02:22.04,Dial-CH,,0,0,0,,{\blur4}不 我和你一样是母羊
+Dialogue: 5,0:02:22.81,0:02:26.16,Dial-CH,,0,0,0,,{\blur4}真是的 对话完全进行不下去啊
+Dialogue: 5,0:02:26.16,0:02:27.28,Dial-CH,,0,0,0,,{\blur4}都什么和什么啊
+Dialogue: 5,0:02:27.28,0:02:29.70,Dial-CH,,0,0,0,,{\blur4}可是它们明明长得一样
+Dialogue: 5,0:02:29.70,0:02:32.13,Dial-CH,,0,0,0,,{\blur4}这是设定 就别纠结了
+Dialogue: 5,0:02:32.35,0:02:33.83,Dial-CH,,0,0,0,,{\blur4}接下来轮到阿尼亚了
+Dialogue: 5,0:02:33.83,0:02:36.50,Dial-CH,,0,0,0,,{\blur4}出生即别离的双胞胎之间的战斗
+Dialogue: 5,0:02:36.50,0:02:37.64,Dial-CH,,0,0,0,,{\blur4}才不要
+Dialogue: 5,0:02:37.64,0:02:40.43,Dial-CH,,0,0,0,,{\blur4}要是打起来会把它们弄破的
+Dialogue: 5,0:02:41.39,0:02:42.92,Dial-CH,,0,0,0,,{\blur4}话说你听说了吗
+Dialogue: 5,0:02:42.92,0:02:46.37,Dial-CH,,0,0,0,,{\blur4}下学期开始要根据成绩划分班级了
+Dialogue: 5,0:02:46.37,0:02:47.40,Dial-CH,,0,0,0,,{\blur4}怎么回事
+Dialogue: 5,0:02:47.67,0:02:48.62,Dial-CH,,0,0,0,,{\blur4}也就是说
+Dialogue: 5,0:02:48.84,0:02:50.96,Dial-CH,,0,0,0,,{\blur4}学习还算不错的我
+Dialogue: 5,0:02:51.16,0:02:53.39,Dial-CH,,0,0,0,,{\blur4}和学习完全不行的阿尼亚
+Dialogue: 5,0:02:53.39,0:02:56.49,Dial-CH,,0,0,0,,{\blur4}可能在不同的课上会被分到不同的班级
+Dialogue: 5,0:02:58.01,0:03:00.08,Dial-CH,,0,0,0,,{\blur4}阿尼亚要变成一个人了
+Dialogue: 5,0:03:00.08,0:03:01.43,Dial-CH,,0,0,0,,{\blur4}就是这样啊
+Dialogue: 5,0:03:01.43,0:03:03.58,Dial-CH,,0,0,0,,{\blur4}所以你要认真学习啊
+Dialogue: 5,0:03:04.33,0:03:06.28,Dial-CH,,0,0,0,,{\blur4}除了期中期末考试
+Dialogue: 5,0:03:06.28,0:03:09.56,Dial-CH,,0,0,0,,{\blur4}据说连明天的小测试都会被作为分班依据哦
+Dialogue: 5,0:03:09.56,0:03:12.00,Dial-CH,,0,0,0,,{\blur4}古文考试也是
+Dialogue: 5,0:03:12.35,0:03:13.39,Dial-CH,,0,0,0,,{\blur4}太糟糕了
+Dialogue: 5,0:03:13.39,0:03:14.90,Dial-CH,,0,0,0,,{\blur4}阿尼亚这下完蛋了
+Dialogue: 5,0:03:14.90,0:03:16.74,Dial-CH,,0,0,0,,{\blur4}不得了了
+Dialogue: 5,0:03:17.02,0:03:18.38,Dial-CH,,0,0,0,,{\blur4}出现了 出现了
+Dialogue: 5,0:03:18.38,0:03:19.72,Dial-CH,,0,0,0,,{\blur4}怎么了
+Dialogue: 5,0:03:19.96,0:03:23.06,Dial-CH,,0,0,0,,{\blur4}第二食堂出现了 那个甜点
+Dialogue: 5,0:03:23.42,0:03:24.42,Dial-CH,,0,0,0,,{\blur4}什么东西
+Dialogue: 5,0:03:24.42,0:03:26.06,Dial-CH,,0,0,0,,{\blur4}笨蛋 你不知道吗
+Dialogue: 5,0:03:26.06,0:03:29.36,Dial-CH,,0,0,0,,{\blur4}宫廷厨师出身的传说甜点师制作的
+Dialogue: 5,0:03:29.73,0:03:31.36,Dial-CH,,0,0,0,,{\blur4}俗称 智慧之甜点
+Dialogue: 5,0:03:31.36,0:03:34.52,Dial-CH,,0,0,0,,{\blur4}据说吃了它的人必能成为「皇帝学徒」
+Dialogue: 5,0:03:34.52,0:03:36.11,Dial-CH,,0,0,0,,{\blur4}是非常神奇的甜点啊
+Dialogue: 5,0:03:37.32,0:03:39.07,Dial-CH,,0,0,0,,{\blur4}今年貌似是马卡龙
+Dialogue: 5,0:03:39.22,0:03:42.24,Dial-CH,,0,0,0,,{\blur4}还是限量的 赶紧别被人抢先了
+Dialogue: 5,0:03:49.45,0:03:51.84,Dial-CH,,0,0,0,,{\blur4}吃了它 阿尼亚也能成为天才
+Dialogue: 5,0:03:52.09,0:03:53.96,Dial-CH,,0,0,0,,{\blur4}虽说听起来就很可疑
+Dialogue: 5,0:03:53.96,0:03:56.13,Dial-CH,,0,0,0,,{\blur4}就当讨个彩头吧
+Dialogue: 5,0:03:56.13,0:03:59.34,Dial-CH,,0,0,0,,{\blur4}话说 宫廷厨师做的马卡龙
+Dialogue: 5,0:03:59.34,0:04:00.84,Dial-CH,,0,0,0,,{\blur4}听起来就想吃啊
+Dialogue: 5,0:04:00.84,0:04:01.79,Dial-CH,,0,0,0,,{\blur4}感觉超好吃
+Dialogue: 5,0:04:01.79,0:04:02.76,Dial-CH,,0,0,0,,{\blur4}马卡龙是什么
+Dialogue: 5,0:04:04.10,0:04:05.03,Dial-CH,,0,0,0,,{\blur4}一定在那
+Dialogue: 5,0:04:05.03,0:04:06.73,Dial-CH,,0,0,0,,{\blur4}不快点的话就没了
+Dialogue: 5,0:04:09.47,0:04:10.29,Dial-CH,,0,0,0,,{\blur4}次子
+Dialogue: 5,0:04:10.52,0:04:11.72,Dial-CH,,0,0,0,,{\blur4}小矮子
+Dialogue: 5,0:04:11.98,0:04:13.27,Dial-CH,,0,0,0,,{\blur4}干嘛啊 这么拼命
+Dialogue: 5,0:04:13.27,0:04:15.15,Dial-CH,,0,0,0,,{\blur4}要你管 你们才是
+Dialogue: 5,0:04:15.35,0:04:18.89,Dial-CH,,0,0,0,,{\blur4}皮埃尔·波米耶的甜点新品 还剩一份
+Dialogue: 5,0:04:19.61,0:04:21.20,Dial-CH,,0,0,0,,{\blur4}先到先得
+Dialogue: 5,0:04:21.39,0:04:23.20,Dial-CH,,0,0,0,,{\blur4}才不会让给你们
+Dialogue: 5,0:04:23.20,0:04:25.95,Dial-CH,,0,0,0,,{\blur4}这已经是赌上「星星」的战斗
+Dialogue: 5,0:04:25.95,0:04:27.33,Dial-CH,,0,0,0,,{\blur4}我要这个
+Dialogue: 5,0:04:27.33,0:04:28.56,Dial-CH,,0,0,0,,{\blur4}多谢惠顾
+Dialogue: 5,0:04:30.14,0:04:32.80,Dial-CH,,0,0,0,,{\blur4}今天的甜点已经卖完了
+Dialogue: 5,0:04:33.76,0:04:34.77,Dial-CH,,0,0,0,,{\blur4}真走运
+Dialogue: 5,0:04:34.77,0:04:38.01,Dial-CH,,0,0,0,,{\blur4}这样一来我也能获得「星星」了吗 真期待
+Dialogue: 5,0:04:38.01,0:04:39.21,Dial-CH,,0,0,0,,{\blur4}乔治
+Dialogue: 5,0:04:40.23,0:04:42.02,Dial-CH,,0,0,0,,{\blur4}你这家伙 这份甜点是我的
+Dialogue: 5,0:04:42.02,0:04:43.10,Dial-CH,,0,0,0,,{\blur4}快给我
+Dialogue: 5,0:04:43.10,0:04:45.10,Dial-CH,,0,0,0,,{\blur4}这是我想吃的
+Dialogue: 5,0:04:45.43,0:04:46.22,Dial-CH,,0,0,0,,{\blur4}强盗啊
+Dialogue: 5,0:04:46.78,0:04:49.11,Dial-CH,,0,0,0,,{\blur4}这可是我用所剩无几的零花钱买的
+Dialogue: 5,0:04:49.11,0:04:50.31,Dial-CH,,0,0,0,,{\blur4}怎么可能给你们
+Dialogue: 5,0:04:51.05,0:04:54.22,Dial-CH,,0,0,0,,{\blur4}你这家伙 说起来笔盒还没还我呢
+Dialogue: 5,0:04:54.83,0:04:57.80,Dial-CH,,0,0,0,,{\blur4}我也是白白唱了歌 丢脸丢大了
+Dialogue: 5,0:04:57.80,0:04:59.07,Dial-CH,,0,0,0,,{\blur4}叶子的怨念
+Dialogue: 5,0:04:59.26,0:05:01.18,Dial-CH,,0,0,0,,{\blur4}我…我知道了
+Dialogue: 5,0:05:01.18,0:05:02.50,Dial-CH,,0,0,0,,{\blur4}这有5个
+Dialogue: 5,0:05:02.50,0:05:04.70,Dial-CH,,0,0,0,,{\blur4}剩下的4个给你们好了
+Dialogue: 5,0:05:04.70,0:05:06.46,Dial-CH,,0,0,0,,{\blur4}就这样我们两清吧
+Dialogue: 5,0:05:06.46,0:05:08.11,Dial-CH,,0,0,0,,{\blur4}你这家伙还怪好的
+Dialogue: 5,0:05:08.54,0:05:10.00,Dial-CH,,0,0,0,,{\blur4}剩下4个
+Dialogue: 5,0:05:21.69,0:05:22.69,Dial-CH,,0,0,0,,{\blur4}于是
+Dialogue: 5,0:05:22.93,0:05:27.64,Dial-CH,,0,0,0,,{\blur4}为了成为「皇帝学徒」 一场壮烈的皇家战争拉开了序幕
+Dialogue: 5,0:05:29.97,0:05:31.91,Dial-CH,,0,0,0,,{\blur4}抽鬼牌一局定胜负
+Dialogue: 5,0:05:32.19,0:05:34.42,Dial-CH,,0,0,0,,{\blur4}最后一名没有马卡龙吃
+Dialogue: 5,0:05:34.42,0:05:36.48,Dial-CH,,0,0,0,,{\blur4}好 求之不得
+Dialogue: 5,0:05:36.48,0:05:38.34,Dial-CH,,0,0,0,,{\blur4}阿尼亚 第一次玩扑克牌
+Dialogue: 5,0:05:38.34,0:05:39.46,Dial-CH,,0,0,0,,{\blur4}不知道规则
+Dialogue: 5,0:05:39.46,0:05:40.81,Dial-CH,,0,0,0,,{\blur4}不是吧这家伙
+Dialogue: 5,0:05:40.81,0:05:41.89,Dial-CH,,0,0,0,,{\blur4}很简单的
+Dialogue: 5,0:05:41.89,0:05:43.32,Dial-CH,,0,0,0,,{\blur4}别抽到小王
+Dialogue: 5,0:05:43.32,0:05:45.49,Dial-CH,,0,0,0,,{\blur4}凑齐同样的数字就行
+Dialogue: 5,0:05:45.73,0:05:46.27,Dial-CH,,0,0,0,,{\blur4}好
+Dialogue: 5,0:05:48.38,0:05:49.50,Dial-CH,,0,0,0,,{\blur4}来吧
+Dialogue: 5,0:05:49.81,0:05:51.40,Dial-CH,,0,0,0,,{\blur4}喂 把小王给我
+Dialogue: 5,0:05:51.40,0:05:53.34,Dial-CH,,0,0,0,,{\blur4}我来把小王传给她
+Dialogue: 5,0:05:53.34,0:05:54.26,Dial-CH,,0,0,0,,{\blur4}了解
+Dialogue: 5,0:05:54.55,0:05:58.27,Dial-CH,,0,0,0,,{\blur4}智慧之甜点要是被连抽鬼牌都不会的人吃了可太浪费了
+Dialogue: 5,0:06:04.39,0:06:06.26,Dial-CH,,0,0,0,,{\blur4}好了 轮到你了
+Dialogue: 5,0:06:06.55,0:06:10.33,Dial-CH,,0,0,0,,{\blur4}阿尼亚手上有6和4和10还有…
+Dialogue: 5,0:06:10.33,0:06:12.47,Dial-CH,,0,0,0,,{\blur4}不用说出来哦 阿尼亚
+Dialogue: 5,0:06:14.46,0:06:15.56,Dial-CH,,0,0,0,,{\blur4}笨蛋吗
+Dialogue: 5,0:06:15.88,0:06:17.56,Dial-CH,,0,0,0,,{\blur4}把鬼牌放到好抽的位置
+Dialogue: 5,0:06:17.56,0:06:20.14,Dial-CH,,0,0,0,,{\blur4}6放到难抽的位置
+Dialogue: 5,0:06:20.55,0:06:21.64,Dial-CH,,0,0,0,,{\blur4}来 抽吧
+Dialogue: 5,0:06:25.85,0:06:26.94,Dial-CH,,0,0,0,,{\blur4}6
+Dialogue: 5,0:06:29.94,0:06:31.92,Dial-CH,,0,0,0,,{\blur4}好厉害 阿尼亚
+Dialogue: 5,0:06:32.36,0:06:34.15,Dial-CH,,0,0,0,,{\blur4}运…运气好而已吧
+Dialogue: 5,0:06:35.67,0:06:36.36,Dial-CH,,0,0,0,,{\blur4}4
+Dialogue: 5,0:06:36.73,0:06:37.43,Dial-CH,,0,0,0,,{\blur4}10
+Dialogue: 5,0:06:37.80,0:06:38.50,Dial-CH,,0,0,0,,{\blur4}A
+Dialogue: 5,0:06:38.81,0:06:39.88,Dial-CH,,0,0,0,,{\blur4}大叔
+Dialogue: 5,0:06:40.17,0:06:41.34,Dial-CH,,0,0,0,,{\blur4}好耶
+Dialogue: 5,0:06:41.34,0:06:43.67,Dial-CH,,0,0,0,,{\blur4}阿尼亚手牌全部没了
+Dialogue: 5,0:06:43.67,0:06:44.80,Dial-CH,,0,0,0,,{\blur4}慢着慢着
+Dialogue: 5,0:06:44.80,0:06:46.23,Dial-CH,,0,0,0,,{\blur4}过于强了吧
+Dialogue: 5,0:06:46.76,0:06:48.42,Dial-CH,,0,0,0,,{\blur4}就是 肯定作弊了
+Dialogue: 5,0:06:48.42,0:06:50.58,Dial-CH,,0,0,0,,{\blur4}在牌上做了什么标记吧
+Dialogue: 5,0:06:50.58,0:06:52.93,Dial-CH,,0,0,0,,{\blur4}什么啊 别输不起啊
+Dialogue: 5,0:06:54.21,0:06:58.01,Dial-CH,,0,0,0,,{\blur4}不是作弊的话 那只可能是读心术了
+Dialogue: 5,0:06:58.01,0:07:00.69,Dial-CH,,0,0,0,,{\blur4}坏了 阿尼亚得意忘形了
+Dialogue: 5,0:07:02.03,0:07:04.93,Dial-CH,,0,0,0,,{\blur4}要这样说的话再来一把也行
+Dialogue: 5,0:07:06.05,0:07:07.82,Dial-CH,,0,0,0,,{\blur4}阿尼亚太惯着他们了
+Dialogue: 5,0:07:08.16,0:07:10.62,Dial-CH,,0,0,0,,{\blur4}用新扑克牌再来一次
+Dialogue: 5,0:07:10.62,0:07:11.95,Dial-CH,,0,0,0,,{\blur4}抽牌顺序也要变
+Dialogue: 5,0:07:11.95,0:07:14.06,Dial-CH,,0,0,0,,{\blur4}你们可别再作弊了啊
+Dialogue: 5,0:07:14.06,0:07:15.17,Dial-CH,,0,0,0,,{\blur4}才没有
+Dialogue: 5,0:07:16.79,0:07:18.20,Dial-CH,,0,0,0,,{\blur4}好险
+Dialogue: 5,0:07:18.20,0:07:20.26,Dial-CH,,0,0,0,,{\blur4}为了不暴露自己是超能力者
+Dialogue: 5,0:07:20.26,0:07:23.08,Dial-CH,,0,0,0,,{\blur4}得故意失手才行
+Dialogue: 5,0:07:31.40,0:07:32.89,Dial-CH,,0,0,0,,{\blur4}鬼牌轮过来了
+Dialogue: 5,0:07:33.40,0:07:34.14,Dial-CH,,0,0,0,,{\blur4}抽吧
+Dialogue: 5,0:07:34.97,0:07:37.74,Dial-CH,,0,0,0,,{\blur4}鬼牌就是中间那张 来抽吧
+Dialogue: 5,0:07:38.12,0:07:39.83,Dial-CH,,0,0,0,,{\blur4}故意失手
+Dialogue: 5,0:07:42.03,0:07:43.22,Dial-CH,,0,0,0,,{\blur4}完 蛋 啦
+Dialogue: 5,0:07:43.22,0:07:46.03,Dial-CH,,0,0,0,,{\blur4}阿尼亚 不小心抽到鬼牌啦
+Dialogue: 5,0:07:46.94,0:07:47.96,Dial-CH,,0,0,0,,{\blur4}好逊
+Dialogue: 5,0:07:47.96,0:07:48.85,Dial-CH,,0,0,0,,{\blur4}傻瓜
+Dialogue: 5,0:07:48.85,0:07:50.07,Dial-CH,,0,0,0,,{\blur4}笨蛋
+Dialogue: 5,0:07:50.98,0:07:52.66,Dial-CH,,0,0,0,,{\blur4}现在正是使用必杀技的时机
+Dialogue: 5,0:07:52.66,0:07:54.85,Dial-CH,,0,0,0,,{\blur4}不行阿尼亚 要是下手的话…
+Dialogue: 5,0:07:56.42,0:07:57.79,Dial-CH,,0,0,0,,{\blur4}真不走运呢
+Dialogue: 5,0:07:58.82,0:08:02.18,Dial-CH,,0,0,0,,{\blur4}好险 被退学的话任务就失败了
+Dialogue: 5,0:08:02.18,0:08:04.99,Dial-CH,,0,0,0,,{\blur4}要像父亲那样冷酷地撒谎才行
+Dialogue: 5,0:08:05.20,0:08:06.17,Dial-CH,,0,0,0,,{\blur4}没问题
+Dialogue: 5,0:08:06.17,0:08:09.80,Dial-CH,,0,0,0,,{\blur4}接下来让次男把这张鬼牌抽走阿尼亚就安全了
+Dialogue: 5,0:08:09.80,0:08:10.53,Dial-CH,,0,0,0,,{\blur4}抽吧
+Dialogue: 5,0:08:28.79,0:08:30.70,Dial-CH,,0,0,0,,{\blur4}这家伙也太好懂了
+Dialogue: 5,0:08:31.66,0:08:33.14,Dial-CH,,0,0,0,,{\blur4}好 凑成对了
+Dialogue: 5,0:08:33.33,0:08:36.43,Dial-CH,,0,0,0,,{\blur4}难道次子也能读心吗
+Dialogue: 5,0:08:39.98,0:08:40.71,Dial-CH,,0,0,0,,{\blur4}出完啦
+Dialogue: 5,0:08:41.58,0:08:43.21,Dial-CH,,0,0,0,,{\blur4}我也出完了
+Dialogue: 5,0:08:43.54,0:08:46.29,Dial-CH,,0,0,0,,{\blur4}不妙 阿尼亚的鬼牌出不掉
+Dialogue: 5,0:08:46.48,0:08:48.22,Dial-CH,,0,0,0,,{\blur4}我也出完啦
+Dialogue: 5,0:08:51.40,0:08:53.68,Dial-CH,,0,0,0,,{\blur4}达米安大人也挺弱的诶
+Dialogue: 5,0:08:53.68,0:08:54.70,Dial-CH,,0,0,0,,{\blur4}吵死了
+Dialogue: 5,0:08:54.70,0:08:56.45,Dial-CH,,0,0,0,,{\blur4}加油 阿尼亚
+Dialogue: 5,0:08:57.67,0:08:58.69,Dial-CH,,0,0,0,,{\blur4}要抽了
+Dialogue: 5,0:08:59.08,0:09:00.92,Dial-CH,,0,0,0,,{\blur4}这是决出胜负的一手
+Dialogue: 5,0:09:00.92,0:09:04.23,Dial-CH,,0,0,0,,{\blur4}不 只要看这家伙的脸就不可能输
+Dialogue: 5,0:09:04.40,0:09:08.34,Dial-CH,,0,0,0,,{\blur4}阿尼亚要加油用表情骗他把鬼牌抽走
+Dialogue: 5,0:09:08.34,0:09:12.33,Dial-CH,,0,0,0,,{\blur4}输了的话阿尼亚就吃不到点心没法变聪明了
+Dialogue: 5,0:09:12.33,0:09:16.33,Dial-CH,,0,0,0,,{\blur4}然后考试就会失败和贝琪分到不同的班
+Dialogue: 5,0:09:16.86,0:09:19.50,Dial-CH,,0,0,0,,{\blur4}阿尼亚 要变得孤单一人了
+Dialogue: 5,0:09:20.09,0:09:22.80,Dial-CH,,0,0,0,,{\blur4}好 看来这张不是鬼牌
+Dialogue: 5,0:09:44.96,0:09:46.61,Dial-CH,,0,0,0,,{\blur4}给 四个人的份
+Dialogue: 5,0:09:46.93,0:09:49.09,Dial-CH,,0,0,0,,{\blur4}好耶 看起来好好吃
+Dialogue: 5,0:09:49.40,0:09:50.54,Dial-CH,,0,0,0,,{\blur4}期待
+Dialogue: 5,0:09:50.54,0:09:54.09,Dial-CH,,0,0,0,,{\blur4}达米安大人 为什么那时会抽到鬼牌啊…
+Dialogue: 5,0:09:54.09,0:09:55.41,Dial-CH,,0,0,0,,{\blur4}烦死了
+Dialogue: 5,0:09:55.41,0:09:58.21,Dial-CH,,0,0,0,,{\blur4}太赖皮了那家伙 可恶
+Dialogue: 5,0:10:01.18,0:10:02.11,Dial-CH,,0,0,0,,{\blur4}次子
+Dialogue: 5,0:10:07.51,0:10:09.29,Dial-CH,,0,0,0,,{\blur4}一人一半吧
+Dialogue: 5,0:10:12.65,0:10:14.81,Dial-CH,,0,0,0,,{\blur4}才才才才不用 笨蛋
+Dialogue: 5,0:10:14.81,0:10:18.31,Dial-CH,,0,0,0,,{\blur4}我不用吃那玩意也能成为「皇帝学徒」
+Dialogue: 5,0:10:18.76,0:10:20.51,Dial-CH,,0,0,0,,{\blur4}笨蛋自己去吃吧 笨蛋
+Dialogue: 5,0:10:22.18,0:10:23.87,Dial-CH,,0,0,0,,{\blur4}真过分
+Dialogue: 5,0:10:24.14,0:10:26.04,Dial-CH,,0,0,0,,{\blur4}吃吧 阿尼亚
+Dialogue: 5,0:10:26.76,0:10:28.23,Dial-CH,,0,0,0,,{\blur4}我开动了
+Dialogue: 5,0:10:31.65,0:10:32.85,Dial-CH,,0,0,0,,{\blur4}好吃
+Dialogue: 5,0:10:32.85,0:10:34.62,Dial-CH,,0,0,0,,{\blur4}这下我也能得「星星」了
+Dialogue: 5,0:10:56.91,0:10:58.80,Dial-CH,,0,0,0,,{\blur4}那么小测试现在开始
+Dialogue: 5,0:11:13.04,0:11:14.86,Dial-CH,,0,0,0,,{\blur4}阿尼亚 孤单一人确定
+Dialogue: 5,0:11:14.86,0:11:17.51,Dial-CH,,0,0,0,,{\blur4}校园生活 前途一片黑暗
+Dialogue: 5,0:11:17.51,0:11:19.00,Dial-CH,,0,0,0,,{\blur4}才没有那种事
+Dialogue: 5,0:11:19.00,0:11:20.12,Dial-CH,,0,0,0,,{\blur4}期末考试加油吧
+Dialogue: 5,0:11:20.33,0:11:23.62,Dial-CH,,0,0,0,,{\blur4}对啊 比已经孤单一人的我好多了
+Dialogue: 5,0:11:25.62,0:11:28.81,Dial-CH,,0,0,0,,{\blur4}学校的考试还蛮难的啊
+Dialogue: 5,0:11:29.15,0:11:31.98,Dial-CH,,0,0,0,,{\blur4}阿尼亚 去睡会儿
+Dialogue: 5,0:11:35.29,0:11:38.05,Dial-CH,,0,0,0,,{\blur4}虽然基础学力多少有些提升
+Dialogue: 5,0:11:38.24,0:11:40.12,Dial-CH,,0,0,0,,{\blur4}但还任重道远啊
+Dialogue: 5,0:11:41.65,0:11:45.64,Dial-CH,,0,0,0,,{\blur4}这个古语考试…虽然因为拼写错误扣了很多分
+Dialogue: 5,0:11:45.86,0:11:48.10,Dial-CH,,0,0,0,,{\blur4}但要是没写错的话就能得高分
+Dialogue: 5,0:11:48.53,0:11:51.14,Dial-CH,,0,0,0,,{\blur4}她应该没怎么学古语啊
+Dialogue: 5,0:11:51.14,0:11:53.59,Dial-CH,,0,0,0,,{\blur4}是在成长的环境中学到的吗
+Dialogue: 5,0:11:53.59,0:11:56.90,Dial-CH,,0,0,0,,{\blur4}但现在将古语作为母语的国家…
+Dialogue: 5,0:11:58.59,0:12:01.80,Dial-CH,,0,0,0,,{\blur4}不 考虑这方面也没有意义
+Dialogue: 5,0:12:02.39,0:12:03.38,Dial-CH,,0,0,0,,{\blur4}阿尼亚
+Dialogue: 5,0:12:03.38,0:12:05.58,Dial-CH,,0,0,0,,{\blur4}晚饭吃汉堡肉哦
+Dialogue: 5,0:12:05.58,0:12:07.25,Dial-CH,,0,0,0,,{\blur4}汉堡肉
+Dialogue: 5,0:12:07.25,0:12:09.88,Dial-CH,,0,0,0,,{\blur4}我也做了些甜点哦
+Dialogue: 5,0:12:15.72,0:12:19.04,Dial-CH,,0,0,0,,{\blur4}这是达斯特重工 第二部门的伪造ID
+Dialogue: 5,0:12:19.25,0:12:22.39,Dial-CH,,0,0,0,,{\blur4}这是新型战斗机引擎的性能测试结果
+Dialogue: 5,0:12:23.42,0:12:24.86,Dial-CH,,0,900,0,,{\blur4}一直以来谢谢了
+Dialogue: 5,0:12:25.87,0:12:27.46,Dial-CH,,0,0,0,,{\blur4}可不是免费给你的啊
+Dialogue: 5,0:12:27.72,0:12:30.76,Dial-CH,,0,0,0,,{\blur4}之前拜托你的那个协会会员的影像数据呢
+Dialogue: 5,0:12:30.97,0:12:32.36,Dial-CH,,0,0,0,,{\blur4}啊 那个啊
+Dialogue: 5,0:12:32.36,0:12:33.49,Dial-CH,,0,0,0,,{\blur4}再等等吧
+Dialogue: 5,0:12:33.49,0:12:36.80,Dial-CH,,0,0,0,,{\blur4}对那边比较熟的情报员有一个被干掉了
+Dialogue: 5,0:12:37.57,0:12:38.51,Dial-CH,,0,0,0,,{\blur4}是安全局吗
+Dialogue: 5,0:12:38.51,0:12:40.65,Dial-CH,,0,0,0,,{\blur4}不是 虽然还没确凿的证据
+Dialogue: 5,0:12:40.65,0:12:43.37,Dial-CH,,0,0,0,,{\blur4}但是有传言说是「花园」做的
+Dialogue: 5,0:12:43.85,0:12:44.65,Dial-CH,,0,0,0,,{\blur4}「花园」
+Dialogue: 5,0:12:45.12,0:12:48.67,Dial-CH,,0,0,0,,{\blur4}那个据说一直以来存在于这个国家的暗杀组织吗
+Dialogue: 5,0:12:48.93,0:12:51.12,Dial-CH,,0,0,0,,{\blur4}那不是都市传说级别的东西吗
+Dialogue: 5,0:12:51.12,0:12:53.81,Dial-CH,,0,0,0,,{\blur4}不 他们是真实存在的
+Dialogue: 5,0:12:54.02,0:12:58.01,Dial-CH,,0,0,0,,{\blur4}他们受影子政府之命消灭了一个又一个卖国贼
+Dialogue: 5,0:12:58.24,0:13:02.26,Dial-CH,,0,0,0,,{\blur4}这么说的话 拥有非正式的民兵组织也是理所当然的…
+Dialogue: 5,0:13:02.26,0:13:02.95,Dial-CH,,0,0,0,,{\blur4}你笨啊
+Dialogue: 5,0:13:02.95,0:13:05.25,Dial-CH,,0,0,0,,{\blur4}他们可不是那种等闲之辈
+Dialogue: 5,0:13:05.25,0:13:08.86,Dial-CH,,0,0,0,,{\blur4}组织里的每个人可都是能独自消灭一个中队的
+Dialogue: 5,0:13:09.08,0:13:10.45,Dial-CH,,0,0,0,,{\blur4}别说傻话了
+Dialogue: 5,0:13:10.45,0:13:11.40,Dial-CH,,0,0,0,,{\blur4}就拜托你了
+Dialogue: 5,0:13:11.83,0:13:12.52,Dial-CH,,0,0,0,,{\blur4}等一下
+Dialogue: 5,0:13:12.75,0:13:16.05,Dial-CH,,0,0,0,,{\blur4}为了补偿多出的工作量 你来帮我干点活
+Dialogue: 5,0:13:16.42,0:13:17.43,Dial-CH,,0,0,0,,{\blur4}什么活？
+Dialogue: 5,0:13:18.97,0:13:19.93,Dial-CH,,0,0,0,,{\blur4}这家伙
+Dialogue: 5,0:13:19.93,0:13:21.42,Dial-CH,,0,0,0,,{\blur4}走丢的猫
+Dialogue: 5,0:13:21.42,0:13:24.92,Dial-CH,,0,0,0,,{\blur4}我常去的一家咖啡厅的店员凯西养的猫 可比
+Dialogue: 5,0:13:24.92,0:13:27.42,Dial-CH,,0,0,0,,{\blur4}上周走失了
+Dialogue: 5,0:13:27.42,0:13:30.33,Dial-CH,,0,0,0,,{\blur4}凯西可伤心了
+Dialogue: 5,0:13:30.67,0:13:34.06,Dial-CH,,0,0,0,,{\blur4}黄昏啊 为了让凯西重拾笑容
+Dialogue: 5,0:13:34.06,0:13:37.18,Dial-CH,,0,0,0,,{\blur4}进而让我跟凯西的关系有所进展
+Dialogue: 5,0:13:37.18,0:13:39.47,Dial-CH,,0,0,0,,{\blur4}帮我找到这只猫吧
+Dialogue: 5,0:13:40.90,0:13:41.93,Dial-CH,,0,0,0,,{\blur4}喂等等
+Dialogue: 5,0:13:41.93,0:13:44.56,Dial-CH,,0,0,0,,{\blur4}不帮我的话就不给你收集情报了
+Dialogue: 5,0:13:46.77,0:13:50.23,Dial-CH,,0,0,0,,{\blur4}我会送你我新发明的牙刷型手枪的
+Dialogue: 5,0:13:50.73,0:13:53.58,Dial-CH,,0,0,0,,{\blur4}可恶 这家伙真无情啊
+Dialogue: 5,0:13:53.58,0:13:56.63,Dial-CH,,0,0,0,,{\blur4}行 我自己找
+Dialogue: 5,0:13:57.24,0:13:59.64,Dial-CH,,0,0,0,,{\blur4}可别小看情报员了
+Dialogue: 5,0:14:00.42,0:14:01.85,Dial-CH,,0,0,0,,{\blur4}喂 杰弗瑞
+Dialogue: 5,0:14:02.40,0:14:04.28,Dial-CH,,0,0,0,,{\blur4}对没错 来活儿了
+Dialogue: 5,0:14:04.28,0:14:05.64,Dial-CH,,0,0,0,,{\blur4}我在找一只猫
+Dialogue: 5,0:14:05.95,0:14:07.37,Dial-CH,,0,0,0,,{\blur4}是雄性的北部蓝猫
+Dialogue: 5,0:14:07.37,0:14:08.57,Dial-CH,,0,0,0,,{\blur4}脖子上戴着铃铛
+Dialogue: 5,0:14:09.01,0:14:10.57,Dial-CH,,0,0,0,,{\blur4}要是找到了通知我
+Dialogue: 5,0:14:10.57,0:14:11.49,Dial-CH,,0,0,0,,{\blur4}拜托了
+Dialogue: 5,0:14:12.22,0:14:14.43,Dial-CH,,0,0,0,,{\blur4}好久不见啊 猎犬·乔
+Dialogue: 5,0:14:14.43,0:14:16.73,Dial-CH,,0,0,0,,{\blur4}想借你的杰出能力办一件事
+Dialogue: 5,0:14:16.73,0:14:18.20,Dial-CH,,0,0,0,,{\blur4}喂 是泰伦斯吗
+Dialogue: 5,0:14:19.34,0:14:20.53,Dial-CH,,0,0,0,,{\blur4}有紧急情况
+Dialogue: 5,0:14:20.53,0:14:21.87,Dial-CH,,0,0,0,,{\blur4}嘿 南锡
+Dialogue: 5,0:14:21.87,0:14:23.63,Dial-CH,,0,0,0,,{\blur4}我记得你对猫很了解吧
+Dialogue: 5,0:14:23.63,0:14:26.39,Dial-CH,,0,0,0,,{\blur4}请帮我转接22分部的哈里森
+Dialogue: 5,0:14:26.39,0:14:28.01,Dial-CH,,0,0,0,,{\blur4}你好啊贾斯帕
+Dialogue: 5,0:14:28.01,0:14:29.01,Dial-CH,,0,0,0,,{\blur4}呦 巴特
+Dialogue: 5,0:14:32.73,0:14:36.19,Dial-CH,,0,0,0,,{\blur4}在市政府附近的里特街发现了疑似目标
+Dialogue: 5,0:14:36.19,0:14:37.98,Dial-CH,,0,0,0,,{\blur4}好样的 乔
+Dialogue: 5,0:14:43.34,0:14:45.84,Dial-CH,,0,0,0,,{\blur4}应该就在这附近啊…
+Dialogue: 5,0:14:45.84,0:14:47.58,Dial-CH,,0,0,0,,{\blur4}咦 弗兰基先生
+Dialogue: 5,0:14:49.39,0:14:50.38,Dial-CH,,0,0,0,,{\blur4}约尔小姐
+Dialogue: 5,0:14:50.56,0:14:51.66,Dial-CH,,0,0,0,,{\blur4}你好
+Dialogue: 5,0:14:51.87,0:14:52.86,Dial-CH,,0,0,0,,{\blur4}你好
+Dialogue: 5,0:14:53.76,0:14:56.26,Dial-CH,,0,0,0,,{\blur4}对哦 你是在市政府工作来着
+Dialogue: 5,0:14:56.26,0:14:58.78,Dial-CH,,0,0,0,,{\blur4}是的 现在是午休时间
+Dialogue: 5,0:14:59.19,0:15:01.62,Dial-CH,,0,0,0,,{\blur4}弗兰基先生也在这附近工作吗
+Dialogue: 5,0:15:01.62,0:15:03.70,Dial-CH,,0,0,0,,{\blur4}啊不是 其实吧
+Dialogue: 5,0:15:05.78,0:15:07.33,Dial-CH,,0,0,0,,{\blur4}猫猫走失了
+Dialogue: 5,0:15:07.33,0:15:08.56,Dial-CH,,0,0,0,,{\blur4}那可不得了
+Dialogue: 5,0:15:08.97,0:15:10.64,Dial-CH,,0,0,0,,{\blur4}我也来帮忙
+Dialogue: 5,0:15:11.66,0:15:13.70,Dial-CH,,0,0,0,,{\blur4}可是 你现在要去吃饭吧
+Dialogue: 5,0:15:13.70,0:15:16.05,Dial-CH,,0,0,0,,{\blur4}不用介意 我老…老公
+Dialogue: 5,0:15:16.05,0:15:18.90,Dial-CH,,0,0,0,,{\blur4}丈夫 的朋友可是遇到麻烦了
+Dialogue: 5,0:15:19.30,0:15:22.78,Dial-CH,,0,0,0,,{\blur4}还是在正经地扮演着夫妻吗
+Dialogue: 5,0:15:23.09,0:15:26.54,Dial-CH,,0,0,0,,{\blur4}要…要是不会给你添麻烦的话
+Dialogue: 5,0:15:26.79,0:15:28.72,Dial-CH,,0,0,0,,{\blur4}那就 拜托你了
+Dialogue: 5,0:15:28.92,0:15:29.58,Dial-CH,,0,0,0,,{\blur4}好的
+Dialogue: 5,0:15:30.75,0:15:32.99,Dial-CH,,0,0,0,,{\blur4}所以小可比在哪里呢
+Dialogue: 5,0:15:32.99,0:15:35.54,Dial-CH,,0,0,0,,{\blur4}已经明确的是 它就在这附近
+Dialogue: 5,0:15:36.03,0:15:41.34,Dial-CH,,0,0,0,,{\blur4}我已经在周围各大猫猫聚集地设置了猫型窃听器C20
+Dialogue: 5,0:15:41.34,0:15:46.21,Dial-CH,,0,0,0,,{\blur4}它们都装有能够识别小可比项圈铃铛声音的传感器
+Dialogue: 5,0:15:47.47,0:15:49.65,Dial-CH,,0,0,0,,{\blur4}好厉害啊 弗兰基先生
+Dialogue: 5,0:15:50.60,0:15:51.54,Dial-CH,,0,0,0,,{\blur4}交给我吧
+Dialogue: 5,0:15:54.64,0:15:57.69,Dial-CH,,0,0,0,,{\blur4}A点的C20正在被攻击？
+Dialogue: 5,0:15:57.69,0:15:58.65,Dial-CH,,0,0,0,,{\blur4}那可不得了
+Dialogue: 5,0:16:00.60,0:16:01.56,Dial-CH,,0,0,0,,{\blur4}被毁掉了
+Dialogue: 5,0:16:02.57,0:16:04.10,Dial-CH,,0,0,0,,{\blur4}其他位置的也是
+Dialogue: 5,0:16:07.24,0:16:10.16,Dial-CH,,0,0,0,,{\blur4}被当作外来者除掉了吗
+Dialogue: 5,0:16:10.61,0:16:12.27,Dial-CH,,0,0,0,,{\blur4}这次行动失败了
+Dialogue: 5,0:16:12.56,0:16:15.50,Dial-CH,,0,0,0,,{\blur4}猫猫的世界还真是残酷
+Dialogue: 5,0:16:15.50,0:16:17.48,Dial-CH,,0,0,0,,{\blur4}既然如此只能想办法
+Dialogue: 5,0:16:17.48,0:16:18.67,Dial-CH,,0,0,0,,{\blur4}让对方自己过来这儿了
+Dialogue: 5,0:16:19.14,0:16:21.96,Dial-CH,,0,0,0,,{\blur4}猫猫诱导装置 MTTB诱捕器
+Dialogue: 5,0:16:25.43,0:16:29.04,Dial-CH,,0,0,0,,{\blur4}它会散发木天蓼的气味 吸引目标过来
+Dialogue: 5,0:16:30.10,0:16:32.68,Dial-CH,,0,0,0,,{\blur4}弗兰基先生真是心灵手巧
+Dialogue: 5,0:16:32.68,0:16:34.31,Dial-CH,,0,0,0,,{\blur4}你是工匠吗
+Dialogue: 5,0:16:34.73,0:16:37.37,Dial-CH,,0,0,0,,{\blur4}我是一个梦想用自己的发明让世界更美好
+Dialogue: 5,0:16:37.37,0:16:41.71,Dial-CH,,0,0,0,,{\blur4}运气好的话说不定能靠专利暴富的青年
+Dialogue: 5,0:16:42.23,0:16:43.32,Dial-CH,,0,0,0,,{\blur4}好棒啊
+Dialogue: 5,0:16:44.06,0:16:46.29,Dial-CH,,0,0,0,,{\blur4}总不能说我是地下组织的吧
+Dialogue: 5,0:17:02.95,0:17:04.09,Dial-CH,,0,0,0,,{\blur4}不好
+Dialogue: 5,0:17:04.25,0:17:06.10,Dial-CH,,0,0,0,,{\blur4}来的太多了
+Dialogue: 5,0:17:06.52,0:17:08.24,Dial-CH,,0,0,0,,{\blur4}哪位是可比呢
+Dialogue: 5,0:17:12.89,0:17:14.61,Dial-CH,,0,0,0,,{\blur4}有了 那个灰色的
+Dialogue: 5,0:17:14.93,0:17:15.89,Dial-CH,,0,0,0,,{\blur4}哪只
+Dialogue: 5,0:17:19.24,0:17:21.32,Dial-CH,,500,0,0,,{\blur4}无论如何也要抓到它
+Dialogue: 5,0:17:20.32,0:17:22.73,Dial-CH,,0,900,0,,{\blur4}救救我
+Dialogue: 5,0:17:23.34,0:17:25.32,Dial-CH,,0,0,0,,{\blur4}超级伸长铁臂
+Dialogue: 5,0:17:25.52,0:17:26.48,Dial-CH,,0,0,0,,{\blur4}接招
+Dialogue: 5,0:17:29.40,0:17:30.85,Dial-CH,,0,0,0,,{\blur4}单点攻击不行
+Dialogue: 5,0:17:30.85,0:17:32.08,Dial-CH,,0,0,0,,{\blur4}得以面进攻
+Dialogue: 5,0:17:32.54,0:17:33.87,Dial-CH,,0,0,0,,{\blur4}喂 别进来啊
+Dialogue: 5,0:17:34.06,0:17:36.22,Dial-CH,,0,0,0,,{\blur4}相机型捕网发射器
+Dialogue: 5,0:17:36.72,0:17:39.40,Dial-CH,,0,0,0,,{\blur4}小可比看上去警戒性很强
+Dialogue: 5,0:17:39.40,0:17:43.54,Dial-CH,,0,0,0,,{\blur4}「只是拍个照而已哦」得用这种感觉小心接近
+Dialogue: 5,0:17:43.95,0:17:46.15,Dial-CH,,0,0,0,,{\blur4}不过 因为要伪装成相机
+Dialogue: 5,0:17:46.15,0:17:48.51,Dial-CH,,0,0,0,,{\blur4}这个发射器的射程设计得很短
+Dialogue: 5,0:17:48.51,0:17:51.38,Dial-CH,,0,0,0,,{\blur4}要想确保抓到的话至少要接近到2米以内
+Dialogue: 5,0:18:07.30,0:18:08.50,Dial-CH,,0,0,0,,{\blur4}给我站住
+Dialogue: 5,0:18:08.98,0:18:10.53,Dial-CH,,0,0,0,,{\blur4}那只就是可比吧
+Dialogue: 5,0:18:19.02,0:18:21.84,Dial-CH,,0,0,0,,{\blur4}可比 你惹怒我了
+Dialogue: 5,0:18:21.84,0:18:24.29,Dial-CH,,0,0,0,,{\blur4}现在后悔已经晚了
+Dialogue: 5,0:18:32.09,0:18:35.76,Dial-CH,,0,0,0,,{\blur4}我耗费十年制成的最终兵器
+Dialogue: 5,0:18:36.01,0:18:38.44,Dial-CH,,0,0,0,,{\blur4}能够获得惊人身体能力的
+Dialogue: 5,0:18:38.44,0:18:39.38,Dial-CH,,0,0,0,,{\blur4}大概
+Dialogue: 5,0:18:39.38,0:18:41.52,Dial-CH,,0,0,0,,{\blur4}动力装甲
+Dialogue: 5,0:18:41.86,0:18:45.20,Dial-CH,,0,0,0,,{\blur4}等着啊 启动电源到发动机暖完机
+Dialogue: 5,0:18:45.20,0:18:46.94,Dial-CH,,0,0,0,,{\blur4}需要十五分钟
+Dialogue: 5,0:18:46.94,0:18:48.48,Dial-CH,,0,0,0,,{\blur4}在此之前你给我乖乖待着
+Dialogue: 5,0:18:52.43,0:18:54.91,Dial-CH,,0,0,0,,{\blur4}笨蛋 那边是大马路 危险啊
+Dialogue: 5,0:18:55.33,0:18:56.74,Dial-CH,,0,0,0,,{\blur4}停下 对不起
+Dialogue: 5,0:18:56.74,0:18:58.22,Dial-CH,,0,0,0,,{\blur4}我不追你了
+Dialogue: 5,0:18:58.22,0:18:59.44,Dial-CH,,0,0,0,,{\blur4}弗兰基先生
+Dialogue: 5,0:18:59.72,0:19:01.90,Dial-CH,,0,0,0,,{\blur4}这个 稍微借一下
+Dialogue: 5,0:19:27.46,0:19:28.77,Dial-CH,,0,0,0,,{\blur4}抓到了
+Dialogue: 5,0:19:29.85,0:19:33.34,Dial-CH,,0,0,0,,{\blur4}抓到了 弗兰基先生
+Dialogue: 5,0:19:34.60,0:19:35.78,Dial-CH,,0,0,0,,{\blur4}谢谢你
+Dialogue: 5,0:19:36.41,0:19:38.78,Dial-CH,,0,0,0,,{\blur4}十年 我的十年
+Dialogue: 5,0:19:38.78,0:19:40.57,Dial-CH,,0,0,0,,{\blur4}太好了 可比
+Dialogue: 5,0:19:40.57,0:19:42.31,Dial-CH,,0,0,0,,{\blur4}这下可以回家了
+Dialogue: 5,0:19:46.76,0:19:48.36,Dial-CH,,0,0,0,,{\blur4}不过
+Dialogue: 5,0:19:48.36,0:19:52.32,Dial-CH,,0,0,0,,{\blur4}能让小凯西回心转意的话就太值了
+Dialogue: 5,0:19:52.60,0:19:55.21,Dial-CH,,0,0,0,,{\blur4}等着我 亲爱的
+Dialogue: 5,0:19:56.28,0:19:58.55,Dial-CH,,0,0,0,,{\blur4}谢谢你 弗兰基先生
+Dialogue: 5,0:19:59.07,0:20:01.96,Dial-CH,,0,0,0,,{\blur4}可比 我好担心你呀
+Dialogue: 5,0:20:03.43,0:20:05.61,Dial-CH,,0,0,0,,{\blur4}太好了 凯西
+Dialogue: 5,0:20:06.81,0:20:07.84,Dial-CH,,0,0,0,,{\blur4}真是的
+Dialogue: 5,0:20:07.84,0:20:11.55,Dial-CH,,0,0,0,,{\blur4}都怪你把玄关的门开着不关
+Dialogue: 5,0:20:11.55,0:20:13.04,Dial-CH,,0,0,0,,{\blur4}对不起啦
+Dialogue: 5,0:20:13.04,0:20:16.11,Dial-CH,,0,0,0,,{\blur4}这次我买了你想要的那个双人戒指哦
+Dialogue: 5,0:20:17.38,0:20:18.97,Dial-CH,,0,0,0,,{\blur4}太…太好了 嗯
+Dialogue: 5,0:20:20.03,0:20:21.78,Dial-CH,,0,0,0,,{\blur4}那我先走了
+Dialogue: 5,0:20:24.03,0:20:25.59,Dial-CH,,0,0,0,,{\blur4}真的很感谢你
+Dialogue: 5,0:20:25.59,0:20:27.37,Dial-CH,,0,0,0,,{\blur4}弗兰基先生
+Dialogue: 5,0:20:28.81,0:20:32.19,Dial-CH,,0,0,0,,{\blur4}你们两个 一定要幸福啊
+Dialogue: 5,0:20:41.59,0:20:45.29,Dial-CH,,0,0,0,,{\blur4}这个男人 决定将自己的一生奉献给工作
+Dialogue: 5,0:20:49.92,0:20:52.79,Dial-CH,,0,0,0,,{\blur4}果然帮助他人真开心呀
+Dialogue: 5,0:20:53.90,0:20:56.58,Dial-CH,,0,0,0,,{\blur4}前辈 看起来很开心呢
+Dialogue: 5,0:20:57.24,0:20:58.21,Dial-CH,,0,0,0,,{\blur4}怎么了怎么了
+Dialogue: 5,0:20:58.21,0:21:00.64,Dial-CH,,0,0,0,,{\blur4}你老公给你买了什么吗
+Dialogue: 5,0:21:01.10,0:21:02.53,Dial-CH,,0,0,0,,{\blur4}不 不是的
+Dialogue: 5,0:21:02.82,0:21:05.32,Dial-CH,,0,0,0,,{\blur4}看起来过得很充实嘛 真好
+Dialogue: 5,0:21:05.32,0:21:07.04,Dial-CH,,0,0,0,,{\blur4}真是让人不爽
+Dialogue: 5,0:21:07.04,0:21:09.92,Dial-CH,,0,0,0,,{\blur4}只是终于变回了普通人而已吧
+Dialogue: 5,0:21:10.78,0:21:11.92,Dial-CH,,0,0,0,,{\blur4}普通人
+Dialogue: 5,0:21:12.28,0:21:14.00,Dial-CH,,0,0,0,,{\blur4}我很普通吗
+Dialogue: 5,0:21:15.42,0:21:16.84,Dial-CH,,0,0,0,,{\blur4}太好了
+Dialogue: 5,0:21:16.84,0:21:19.23,Dial-CH,,0,0,0,,{\blur4}看来我伪装得很好 暂时可以安心了
+Dialogue: 5,0:21:19.75,0:21:22.44,Dial-CH,,0,0,0,,{\blur4}雪伦 别让她太得意忘形了
+Dialogue: 5,0:21:22.82,0:21:25.06,Dial-CH,,0,0,0,,{\blur4}没 我是想讽刺她来着
+Dialogue: 5,0:21:27.14,0:21:28.22,Dial-CH,,0,0,0,,{\blur4}布莱尔小姐
+Dialogue: 5,0:21:28.67,0:21:29.98,Dial-CH,,0,0,0,,{\blur4}不对
+Dialogue: 5,0:21:30.20,0:21:31.83,Dial-CH,,0,0,0,,{\blur4}福杰小姐 有你的电话
+Dialogue: 5,0:21:32.10,0:21:34.55,Dial-CH,,0,0,0,,{\blur4}好的 我是福杰
+Dialogue: 5,0:21:39.66,0:21:41.88,Dial-CH,,0,0,0,,{\blur4}是你负责的老客户
+Dialogue: 5,0:21:47.44,0:21:50.56,Dial-CH,,0,0,0,,{\blur4}喂 电话已转接
+Dialogue: 5,0:21:51.85,0:21:53.08,Dial-CH,,0,0,0,,{\blur4}你好
+Dialogue: 5,0:21:54.04,0:21:57.40,Dial-CH,,0,0,0,,{\blur4}来客人了 「蔷薇公主」
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:41.52,0:00:44.07,OP-JP,,0,0,0,,Question 大胆に演じて
+Dialogue: 0,0:00:44.07,0:00:46.65,OP-JP,,0,0,0,,Question 他愛のない人生
+Dialogue: 0,0:00:46.65,0:00:49.20,OP-JP,,0,0,0,,Question 背反と安寧
+Dialogue: 0,0:00:49.20,0:00:51.41,OP-JP,,0,0,0,,Question What?
+Dialogue: 0,0:00:51.70,0:00:53.58,OP-JP,,0,0,0,,真っ二つだね世界は
+Dialogue: 0,0:00:53.58,0:00:56.24,OP-JP,,0,0,0,,隠したそれぞれの正義は
+Dialogue: 0,0:00:56.83,0:00:58.71,OP-JP,,0,0,0,,拮抗するがらんどう
+Dialogue: 0,0:00:58.71,0:01:00.46,OP-JP,,0,0,0,,ダマになり重なって
+Dialogue: 0,0:01:00.46,0:01:01.96,OP-JP,,0,0,0,,Two-Sided Two-Face
+Dialogue: 0,0:01:02.83,0:01:04.88,OP-JP,,0,0,0,,常識・劣勢・裏の裏
+Dialogue: 0,0:01:05.38,0:01:07.09,OP-JP,,0,0,0,,最後も最期も関係ない
+Dialogue: 0,0:01:07.96,0:01:09.26,OP-JP,,0,0,0,,間一髪がスタンダード
+Dialogue: 0,0:01:09.26,0:01:11.09,OP-JP,,0,0,0,,どうにかしてきたんだ
+Dialogue: 0,0:01:11.09,0:01:15.39,OP-JP,,0,0,0,,狂ったストーリー　全てが決まってたように
+Dialogue: 0,0:01:15.39,0:01:18.10,OP-JP,,0,0,0,,のべつ幕無しに異常事態
+Dialogue: 0,0:01:18.10,0:01:20.77,OP-JP,,0,0,0,,大抵わけもない
+Dialogue: 0,0:01:21.60,0:01:24.11,OP-JP,,0,0,0,,正しい間違いが不安定で
+Dialogue: 0,0:01:24.11,0:01:26.98,OP-JP,,0,0,0,,裏返しの本音が溜まってゆく
+Dialogue: 0,0:01:26.98,0:01:29.28,OP-JP,,0,0,0,,消化する術がないことも
+Dialogue: 0,0:01:29.28,0:01:31.78,OP-JP,,0,0,0,,気付かずに立ち向かうの？
+Dialogue: 0,0:01:31.78,0:01:34.57,OP-JP,,0,0,0,,悲しくなどないけど　こんなんじゃまだ
+Dialogue: 0,0:01:34.57,0:01:36.95,OP-JP,,0,0,0,,100％は分からない
+Dialogue: 0,0:01:36.95,0:01:41.91,OP-JP,,0,0,0,,もう不安など消してしまえたら良いと願って望んで憂い
+Dialogue: 0,0:01:41.91,0:01:44.58,OP-JP,,0,0,0,,そのカーテンが翻ったなら
+Dialogue: 0,0:01:44.58,0:01:47.30,OP-JP,,0,0,0,,って理想と現実揺らぐんだ
+Dialogue: 0,0:01:47.42,0:01:48.55,OP-JP,,0,0,0,,クラクラ
+Dialogue: 0,0:01:49.21,0:01:51.72,OP-JP,,0,0,0,,Question 大胆に演じて
+Dialogue: 0,0:01:51.72,0:01:54.22,OP-JP,,0,0,0,,Question 他愛のない人生
+Dialogue: 0,0:01:54.22,0:01:56.89,OP-JP,,0,0,0,,Question 背反と安寧
+Dialogue: 0,0:01:56.89,0:01:58.10,OP-JP,,0,0,0,,Question What?
+Dialogue: 0,0:00:41.52,0:00:44.07,OP-CHS,,0,0,0,,Question 大胆去演绎
+Dialogue: 0,0:00:44.07,0:00:46.65,OP-CHS,,0,0,0,,Question 无聊的人生
+Dialogue: 0,0:00:46.65,0:00:49.20,OP-CHS,,0,0,0,,Question 逾矩与安宁
+Dialogue: 0,0:00:49.20,0:00:51.41,OP-CHS,,0,0,0,,Question What?
+Dialogue: 0,0:00:51.70,0:00:53.58,OP-CHS,,0,0,0,,两面鲜明的世界
+Dialogue: 0,0:00:53.58,0:00:56.24,OP-CHS,,0,0,0,,各自隐藏的正义
+Dialogue: 0,0:00:56.83,0:00:58.71,OP-CHS,,0,0,0,,全力对峙的虚无
+Dialogue: 0,0:00:58.71,0:01:00.46,OP-CHS,,0,0,0,,结成块相互交叠
+Dialogue: 0,0:01:00.46,0:01:01.96,OP-CHS,,0,0,0,,双面 双相
+Dialogue: 0,0:01:02.83,0:01:04.88,OP-CHS,,0,0,0,,常识·劣势·内幕的内幕
+Dialogue: 0,0:01:05.38,0:01:07.09,OP-CHS,,0,0,0,,无惧末路与穷途
+Dialogue: 0,0:01:07.96,0:01:09.26,OP-CHS,,0,0,0,,千钧一发早已习以为常
+Dialogue: 0,0:01:09.26,0:01:11.09,OP-CHS,,0,0,0,,一路见招拆招才是生存之道
+Dialogue: 0,0:01:11.09,0:01:15.39,OP-CHS,,0,0,0,,疯狂的故事 像是脚本早已写就
+Dialogue: 0,0:01:15.39,0:01:18.10,OP-CHS,,0,0,0,,一幕接一幕的异常状况
+Dialogue: 0,0:01:18.10,0:01:20.77,OP-CHS,,0,0,0,,大都算小菜一碟
+Dialogue: 0,0:01:21.60,0:01:24.11,OP-CHS,,0,0,0,,正误的天平摇摆不定
+Dialogue: 0,0:01:24.11,0:01:26.98,OP-CHS,,0,0,0,,相悖的心声逐渐积聚
+Dialogue: 0,0:01:26.98,0:01:29.28,OP-CHS,,0,0,0,,想要消化却无能为力
+Dialogue: 0,0:01:29.28,0:01:31.78,OP-CHS,,0,0,0,,难道无视它继续前进
+Dialogue: 0,0:01:31.78,0:01:34.57,OP-CHS,,0,0,0,,虽心无悲伤 但若如此
+Dialogue: 0,0:01:34.57,0:01:36.95,OP-CHS,,0,0,0,,又定将一无所知
+Dialogue: 0,0:01:36.95,0:01:41.91,OP-CHS,,0,0,0,,希望不安能烟消云散 我带着忧愁如此祈愿
+Dialogue: 0,0:01:41.91,0:01:44.58,OP-CHS,,0,0,0,,要是将这帘帷幕掀转
+Dialogue: 0,0:01:44.58,0:01:47.30,OP-CHS,,0,0,0,,就能撼动理想与现实
+Dialogue: 0,0:01:47.42,0:01:48.55,OP-CHS,,0,0,0,,摇摇晃晃
+Dialogue: 0,0:01:49.21,0:01:51.72,OP-CHS,,0,0,0,,Question 大胆去演绎
+Dialogue: 0,0:01:51.72,0:01:54.22,OP-CHS,,0,0,0,,Question 无聊的人生
+Dialogue: 0,0:01:54.22,0:01:56.89,OP-CHS,,0,0,0,,Question 逾矩与安宁
+Dialogue: 0,0:01:56.89,0:01:58.10,OP-CHS,,0,0,0,,Question What?
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:11.23,0:22:18.02,ED-JP,,0,0,0,,{\fad(360,360)\blur3}視界に目前映る深い真紅
+Dialogue: 0,0:22:20.90,0:22:28.16,ED-JP,,0,0,0,,{\fad(360,360)\blur3}この先およそ 40000km
+Dialogue: 0,0:22:31.16,0:22:35.58,ED-JP,,0,0,0,,{\fad(360,360)\blur3}後ろに迫る互いの傷が
+Dialogue: 0,0:22:35.92,0:22:40.80,ED-JP,,0,0,0,,{\fad(360,360)\blur3}迷う道をさらに迷わせてく
+Dialogue: 0,0:22:40.80,0:22:45.18,ED-JP,,0,0,0,,{\fad(360,360)\blur3}見えず匂わぬ、違えぬ未来が
+Dialogue: 0,0:22:45.47,0:22:47.39,ED-JP,,0,0,0,,{\fad(360,360)\blur3}背中を突いた！
+Dialogue: 0,0:22:47.39,0:22:48.51,ED-JP,,0,0,0,,{\fad(360,360)\blur3}だから
+Dialogue: 0,0:22:48.51,0:22:57.02,ED-JP,,0,0,0,,{\fad(360,360)\blur3}今日の夜は隣にいさせて
+Dialogue: 0,0:22:58.15,0:23:05.95,ED-JP,,0,0,0,,{\fad(360,360)\blur3}今夜だけは本気だからね
+Dialogue: 0,0:23:07.20,0:23:09.66,ED-JP,,0,0,0,,{\fad(360,360)\blur3}こっちにきてもっと
+Dialogue: 0,0:23:09.66,0:23:12.00,ED-JP,,0,0,0,,{\fad(360,360)\blur3}祈りあった未来とて
+Dialogue: 0,0:23:12.00,0:23:13.96,ED-JP,,0,0,0,,{\fad(360,360)\blur3}道が違うのよ
+Dialogue: 0,0:23:13.96,0:23:15.79,ED-JP,,0,0,0,,{\fad(360,360)\blur3}アナタ
+Dialogue: 0,0:23:19.17,0:23:21.55,ED-JP,,0,0,0,,{\fad(360,360)\blur3}互いの殺意で
+Dialogue: 0,0:23:21.55,0:23:24.93,ED-JP,,0,0,0,,{\fad(360,360)\blur3}トドメ喰らっちゃうね
+Dialogue: 0,0:23:26.34,0:23:29.55,ED-JP,,0,0,0,,{\fad(360,360)\blur3}やっぱりやめとくわ
+Dialogue: 0,0:22:11.23,0:22:18.02,ED-CH,,0,0,0,,{\fad(360,360)\blur3}映入视野的深邃绯红
+Dialogue: 0,0:22:20.90,0:22:28.16,ED-CH,,0,0,0,,{\fad(360,360)\blur3}前方大约还有40000km
+Dialogue: 0,0:22:31.16,0:22:35.58,ED-CH,,0,0,0,,{\fad(360,360)\blur3}紧追过来的彼此的伤痕
+Dialogue: 0,0:22:35.92,0:22:40.80,ED-CH,,0,0,0,,{\fad(360,360)\blur3}让迷茫的路途再添迷茫
+Dialogue: 0,0:22:40.80,0:22:45.18,ED-CH,,0,0,0,,{\fad(360,360)\blur3}不可视不可闻的唯一未来
+Dialogue: 0,0:22:45.47,0:22:47.39,ED-CH,,0,0,0,,{\fad(360,360)\blur3}从背后一击！
+Dialogue: 0,0:22:47.39,0:22:48.51,ED-CH,,0,0,0,,{\fad(360,360)\blur3}所以说
+Dialogue: 0,0:22:48.51,0:22:57.02,ED-CH,,0,0,0,,{\fad(360,360)\blur3}今夜请让我伴你身旁
+Dialogue: 0,0:22:58.15,0:23:05.95,ED-CH,,0,0,0,,{\fad(360,360)\blur3}只有今夜我无比认真
+Dialogue: 0,0:23:07.20,0:23:09.66,ED-CH,,0,0,0,,{\fad(360,360)\blur3}再靠过来一点吧
+Dialogue: 0,0:23:09.66,0:23:12.00,ED-CH,,0,0,0,,{\fad(360,360)\blur3}纵然我们一同祈愿的未来
+Dialogue: 0,0:23:12.00,0:23:13.96,ED-CH,,0,0,0,,{\fad(360,360)\blur3}前路也会分岔而行
+Dialogue: 0,0:23:13.96,0:23:15.79,ED-CH,,0,0,0,,{\fad(360,360)\blur3}亲爱的
+Dialogue: 0,0:23:19.17,0:23:21.55,ED-CH,,0,0,0,,{\fad(360,360)\blur3}让我们倾尽彼此的杀意
+Dialogue: 0,0:23:21.55,0:23:24.93,ED-CH,,0,0,0,,{\fad(360,360)\blur3}给予对方最后一击
+Dialogue: 0,0:23:26.34,0:23:29.55,ED-CH,,0,0,0,,{\fad(360,360)\blur3}果然还是算了吧
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
