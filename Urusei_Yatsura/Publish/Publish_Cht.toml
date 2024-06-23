@@ -1,5 +1,5 @@
 #Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
-display_name="【喵萌奶茶屋】[福星小子 2022年版/Urusei Yatsura 2022][<ep>][<res>p][繁日雙語][招募翻譯]"
+display_name="【喵萌奶茶屋】★01月新番★[福星小子 2022年版 / Urusei Yatsura 2022][<ep>][<res>p][繁日雙語][招募翻譯]"
 group_name="[喵萌奶茶屋]"
 poster="https://s2.loli.net/2022/10/16/unK7J9NtYp1qHSe.jpg"
 about="https://github.com/Nekomoekissaten-SUB"
@@ -7,7 +7,7 @@ about="https://github.com/Nekomoekissaten-SUB"
 # filename_regex='''\]\[(?<ep>\d{2})\]\['''
 filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
 resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
-tags=["Anime", "Collection"]
+tags=["Anime", "TV", "Batch"]
 
 [[intro_template]]
 site="nyaa"
