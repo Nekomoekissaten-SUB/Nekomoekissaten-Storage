@@ -8,6 +8,10 @@
 
 [BD简繁中文合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Machikado_BD_zho.7z)
 
+修正记录：
+
+1. 2024-07-08 修正 EP.05 繁体字幕 OP 时间轴
+
 所需字体：
 ```
 FOT-Aokane Std EB
