@@ -2,6 +2,9 @@
 
 [01-12 BD简繁合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Adashima_BD_zho.7z)
 
+修订记录：
+1. 2024-07-08 修正 EP.09 错别字
+
 所需字体
 ```
 FOT-ぶどう Std L <FOT-Budo Std L>
