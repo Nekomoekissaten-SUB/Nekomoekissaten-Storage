@@ -1,11 +1,11 @@
-<p align="left"> <a href="README.md">简体中文</a> | <b>繁體中文</b> </p>
+[简体中文](README.md) | **繁體中文**
 
 # Nekomoekissaten-Storage
 
 Subtitles made by Nekomoe Kissaten.  
 
-許可協議：詳見 [Nekomoekissaten-Subs #注意事項](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/blob/master/README_zh-tw.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)  
-檔案結構：詳見 [Nekomoekissaten-Subs #字幕儲存說明](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/blob/master/README_zh-tw.md#%E5%AD%97%E5%B9%95%E5%84%B2%E5%AD%98%E8%AA%AA%E6%98%8E)
+許可協議：詳見 [Nekomoekissaten-Subs #注意事項](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/blob/master/README_ZH-HANT.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)  
+檔案結構：詳見 [Nekomoekissaten-Subs #字幕儲存說明](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/blob/master/README_ZH-HANT.md#%E5%AD%97%E5%B9%95%E5%84%B2%E5%AD%98%E8%AA%AA%E6%98%8E)
 
 ## 注意
 
