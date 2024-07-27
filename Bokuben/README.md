@@ -17,6 +17,9 @@
 - 修复 S02 字体名称大小写错误（HanZiPen -> HanziPen）
 - 修复标签间的多余空格
 
+2024-07-27:
+- 修复 S02 EP06 OP 重复问题  [报错](https://vcb-s.com/archives/14836#comment-36088)
+
 ## 所需字体
 
 ```
