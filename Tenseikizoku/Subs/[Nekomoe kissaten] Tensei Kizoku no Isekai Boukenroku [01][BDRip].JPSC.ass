@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Tensei Kizoku no Isekai Boukenroku [01][Web].JPSC
+Title: [Nekomoe kissaten] Tensei Kizoku no Isekai Boukenroku [01][BDRip].JPSC
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -958,8 +958,8 @@ Dialogue: 1,0:23:37.05,0:23:39.75,Dial_CH,,0,0,0,,下一集是 冒险者来当�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
 Dialogue: 1,0:19:33.86,0:19:34.45,Ruby,,0,0,0,,{\pos(933.09,955.00)}Fire
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
-Dialogue: 1,0:03:17.47,0:03:21.64,Title,,0,0,0,,{\pos(1772,938)}我转生啦
-Dialogue: 0,0:03:17.47,0:03:21.64,Title,,0,0,0,,{\pos(1772,938)\bord0\c&H000000&\blur10\1a&H58&}我转生啦
+Dialogue: 1,0:03:17.47,0:03:21.64,Title,,0,0,0,,{\fad(320,0)\pos(1772,938)}我转生啦
+Dialogue: 0,0:03:17.47,0:03:21.64,Title,,0,0,0,,{\fad(320,0)\pos(1772,938)\bord0\c&H000000&\blur10\1a&H58&}我转生啦
 Dialogue: 0,0:05:09.19,0:05:11.18,Cmt_CH,,0,0,0,,注：婴儿睡觉前需要拍嗝。
 Dialogue: 1,0:10:45.50,0:10:46.13,Scr,,0,0,0,,{\pos(149,186)}等级
 Dialogue: 1,0:10:45.50,0:10:46.13,Scr,,0,0,0,,{\pos(149,329)}生命

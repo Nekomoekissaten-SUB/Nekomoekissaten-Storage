@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: [Nekomoe kissaten] Tensei Kizoku no Isekai Boukenroku [12][Web].JPTC
+Title: [Nekomoe kissaten] Tensei Kizoku no Isekai Boukenroku [12][BDRip].JPTC
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -981,9 +981,6 @@ Dialogue: 1,0:11:37.80,0:11:39.64,Ruby,,0,0,0,,{\pos(960.00,955.00)}Overload
 Dialogue: 1,0:11:45.12,0:11:46.85,Ruby,,0,0,0,,{\pos(960.00,955.00)}Saint Sanctuary
 Dialogue: 1,0:17:33.26,0:17:36.12,Ruby,,0,0,0,,{\pos(1040.74,955.00)}Silver Devil
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
-Comment: 1,0:04:50.52,0:04:54.77,Title,,0,0,0,,{\fad(360,500)\an3\pos(1777,929)}氾濫的前兆
-Comment: 0,0:04:50.52,0:04:54.77,Title,,0,0,0,,{\fad(360,500)\an3\bord0\c&H000000&\blur10\1a&H58&\pos(1777,929)}氾濫的前兆
-Comment: 0,0:23:36.86,0:23:40.02,Title,,0,0,0,,{\fad(360,500)\an2\pos(960,717)\bord3\c&H57C6F6&\3c&HFFFFFF&}成為{\c&HB3845E&}領主
 Dialogue: 1,0:02:16.49,0:02:20.50,Title,,0,0,0,,{\fad(360,500)\an3\pos(1777,929)}成為領主
 Dialogue: 0,0:02:16.49,0:02:20.50,Title,,0,0,0,,{\fad(360,500)\an3\pos(1777,929)\bord0\c&H000000&\blur10\1a&H58&}成為領主
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
