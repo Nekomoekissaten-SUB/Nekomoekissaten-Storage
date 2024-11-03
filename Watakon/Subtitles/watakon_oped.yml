@@ -1,14 +1,14 @@
 version : 2
 
 namef:
-  master: '[Nekomoe kissaten] Watashi no Shiawase na Kekkon [{{ep}}][Web].{{lang}}'
+  master: '[Nekomoe kissaten] Watashi no Shiawase na Kekkon [{{ep}}][BDRip].{{lang}}'
   op: 'Watakon_OP_02.{{lang}}'
 
 fps:
   "24000/1001"
 
 tpl_fr:
-  op: 1224  # OP首帧
+  op: 1224  # OP首帧(-216)
 
 # OP 首帧 1224f
 shift_fr:
@@ -33,4 +33,4 @@ shift_fr:
   '11':
     op: [-984, 240]
   '13':
-    op: [-48, 1176] # BDRip
+    op: [168, 1392] # 1176
