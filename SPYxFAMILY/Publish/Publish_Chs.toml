@@ -1,5 +1,5 @@
 #Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
-display_name="【喵萌奶茶屋】[间谍过家家 / 间谍家家酒 / SPYxFAMILY][<ep>][<res>p][简日双语][招募翻译]"
+display_name="【喵萌奶茶屋】[间谍过家家 / 间谍家家酒 / SPYxFAMILY][<ep>][BDRip][<res>p][简日双语][招募翻译]"
 group_name="[喵萌奶茶屋]"
 poster="https://s2.loli.net/2022/10/04/GA2nTwCjX7dO4ZL.jpg"
 about="https://github.com/Nekomoekissaten-SUB"
@@ -21,9 +21,9 @@ name="喵萌奶茶屋"
 site="acgrip"
 name="喵萌奶茶屋"
 
-# [[intro_template]]
-# site="acgnx_asia"
-# name="174"
+[[intro_template]]
+site="acgnx_asia"
+name="174"
 
 # [[intro_template]]
 # site="acgnx_global"

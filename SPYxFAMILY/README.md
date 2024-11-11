@@ -1,9 +1,9 @@
 # SPYxFAMILY
 
-## Season 1 cour 1
+s1c1 [OPED 特效](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_effect/SPYxFAMILY_S1c1_Effect.7z)字幕  
+01-37 (S01P1+S01P2+S02) + Movie (CODE: WHITE) BDRip 简繁日双语字幕[合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_BD_JPCH.7z)
 
-内含 01-12 Web 简繁日双语 [OPED 特效](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_effect/SPYxFAMILY_S1c1_Effect.7z)字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_Web_JPCH_dd80ac7.7z)
+## Season 1 cour 1
 
 所需字体：
 ```
@@ -26,9 +26,6 @@ A-OTF フォーク Pro B <A-OTF Folk Pro B>
 ```
 
 ## Season 1 cour 2
-
-内含 13-25 Web 简繁日双语字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_S1c2_Web_JPCH_dd80ac7.7z)
 
 所需字体：
 ```
@@ -53,9 +50,6 @@ Sitka Text Bold Italic
 ```
 
 ## Season 2
-
-内含 26-37 Web 简繁日双语字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/SPYxFAMILY_S2_Web_JPCH.7z)
 
 所需字体：
 ```
@@ -82,6 +76,18 @@ VDL ロゴJr U <VDL-LogoJr U>
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 ```
 
+## CODE: WHITE
+
+所需字体：
+```
+FOT-CinemaCN
+FOT-ニューセザンヌ ProN B <FOT-NewCezanne ProN B>
+FOT-筑紫ゴシック Pro B <FOT-TsukuGo Pro B>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭中粗黑_GBK <FZLanTingHei-DB1-GBK>
+汉仪旗黑 65S <HYQiHei 65S>
+华康翩翩体W5-A <DFHanziPenW5-A>
+```
 
 ## 海报
 

@@ -1,12 +1,13 @@
 #Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
-display_name="【喵萌奶茶屋】★01月新番★[万事屋斋藤，到异世界 / Benriya Saitou-san, Isekai ni Iku][<ep>][<res>p][简日双语][招募翻译]"
+display_name="【喵萌奶茶屋】[万事屋斋藤，到异世界 / Benriya Saitou-san, Isekai ni Iku][<ep>][BDRip][<res>p][简日双语][招募翻译]"
 group_name="[喵萌奶茶屋]"
 poster="https://s2.loli.net/2023/01/13/BWLFJ45bAE7ND3u.jpg"
 about="https://github.com/Nekomoekissaten-SUB"
 # Use ''' to avoid escape
-filename_regex='''\]\[(?<ep>\d{2})\]\['''
+# filename_regex='''\]\[(?<ep>\d{2})\]\['''
+filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
 resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
-tags=["Anime", "TV"]
+tags=["Anime", "TV", "Batch"]
 
 [[intro_template]]
 site="nyaa"
@@ -24,9 +25,9 @@ name="喵萌奶茶屋"
 # site="bangumi"
 # name="喵萌奶茶屋"
 
-# [[intro_template]]
-# site="acgnx_asia"
-# name="174"
+[[intro_template]]
+site="acgnx_asia"
+name="174"
 
 # [[intro_template]]
 # site="acgnx_global"

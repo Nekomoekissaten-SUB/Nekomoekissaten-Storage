@@ -15,7 +15,9 @@ FOT-マティス ProN B <FOT-Matisse ProN B>
 
 ## THE WITCH FROM MERCURY
 
-TV 序幕 + EP.01-24 简繁日双语 Web 字幕
+TV 序幕 + EP.01-24 简繁日双语 BDRip 字幕
+
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Gundam_Mercury_BD_JPCH.7z)
 
 使用字体：
 ```

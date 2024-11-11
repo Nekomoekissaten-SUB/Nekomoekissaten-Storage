@@ -21,7 +21,7 @@
 
 EP.01-24
 
-{dl_link}/{tag_chi}/SpyRoom_Web_JPCH.7z[简繁日双语 Web 合集]
+{dl_link}/{tag_chi}/SpyRoom_BD_JPCH.7z[简繁日双语 BDRip 合集]
 
 .所需字体
 ....
