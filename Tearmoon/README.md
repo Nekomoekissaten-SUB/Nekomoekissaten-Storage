@@ -2,7 +2,7 @@
 
 ## 中文字幕
 
-[Web 简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Tearmoon_Web_JPCH.7z)
+[BDRip 简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Tearmoon_BD_JPCH.7z)
 
 所需字体：
 ```
