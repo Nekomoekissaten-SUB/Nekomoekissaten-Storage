@@ -1,0 +1,26 @@
+#Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
+display_name="【喵萌奶茶屋】★01月新番★[到了30歲還是處男，似乎會變成魔法師 / 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii / Cherimaho][<ep>][<res>p][繁日雙語][招募翻譯時軸]"
+group_name="[喵萌奶茶屋]"
+poster="https://cherimaho-anime.com/assets/images/top/img_mv4.jpg"
+about="https://github.com/Nekomoekissaten-SUB"
+# Use ''' to avoid escape
+filename_regex='''\]\[(?<ep>\d{2})\]\['''
+# filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
+tags=["Anime", "TV"]
+
+[[intro_template]]
+site="nyaa"
+name="nekomoekissaten"
+
+[[intro_template]]
+site="dmhy"
+name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgrip"
+name="喵萌奶茶屋"
+
+# [[intro_template]]
+# site="bangumi"
+# name="喵萌奶茶屋"
