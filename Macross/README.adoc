@@ -1,0 +1,49 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 超时空要塞
+
+// toc::[]
+
+== 超时空要塞Δ 绝对LIVE + 超时空要塞F 时之迷宫
+
+MOV.01
+
+{dl_link}/{tag_chi}/Macross_Delta_Zettai_Live_BD_JPCH.7z[简繁日双语 BD 合集]
+
+.所需字体
+....
+FOT-クレー Pro DB <FOT-Klee Pro DB>
+FOT-スキップ ProN E <FOT-Skip ProN E>
+FOT-ニューロダン ProN B <FOT-NewRodin ProN B>
+FOT-マティス ProN B <FOT-Matisse ProN B>
+仓耳今楷01-27533 W03 <TsangerJinKai01-27533 W03>
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+方正卡通_GBK <FZKaTong-M19>
+方正兰亭黑Pro Global Demibold <FZLTHPro Global Demibold>
+方正兰亭黑Pro Global Extrabold <FZLTHPro Global Extrabold>
+方正正粗黑_GBK <FZZhengHei-B-GBK>
+方正正中黑_GBK <FZZhengHei-DB-GBK>
+方正正准黑_GBK <FZZhengHei-M-GBK>
+方正筑紫明朝宋 简繁 <FZZhuZiMingChaoSongJF>
+华康翩翩体W5-A <DFHanziPenW5-A>
+华康手札体W7-A <DFHannotateW7-A>
+....
+
+// image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}

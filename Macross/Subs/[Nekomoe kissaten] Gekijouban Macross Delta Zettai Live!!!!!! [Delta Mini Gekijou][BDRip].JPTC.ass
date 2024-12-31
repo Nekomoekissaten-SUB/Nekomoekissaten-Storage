@@ -1,0 +1,420 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Gekijouban Macross Delta Zettai Live!!!!!! [Delta Mini Gekijou][BDRip].JPTC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLTHPro Global Demibold,50,&H00FFFFFF,&H00FFFFFF,&H008A1596,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,10,1
+Style: Text_CN,FZLTHPro Global Demibold,60,&H00FFFFFF,&H00FFFFFF,&H008A1596,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,32,1
+Style: Text_CNTOP,FZLTHPro Global Demibold,56,&H00FFFFFF,&H00FFFFFF,&H008A1596,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,20,1
+Style: Text_JP,FOT-NewRodin ProN B,36,&H00FFFFFF,&H00FFFFFF,&H018A1596,&H00000000,0,0,0,0,100,100,1.5,0,1,1.8,0,2,15,15,5,1
+Style: Text_JPTOP,FOT-NewRodin ProN B,34,&H00FFFFFF,&H00FFFFFF,&H008A1596,&H00000000,0,0,0,0,100,100,1.5,0,1,1.8,0,8,15,15,0,1
+Style: Comment,FZLTHPro Global Demibold,36,&H00FFFFFF,&H00FFFFFF,&H008A1596,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,7,15,15,15,1
+Style: Furi,FZLTHPro Global Demibold,32,&H00FFFFFF,&H00FFFFFF,&H008A1596,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,15,15,78,1
+Style: Screen,FZYaSong-EB-GBK,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
+Style: Staff,FZZhengHei-B-GBK,40,&H00FFFFFF,&H00686C6E,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,0,8,15,15,10,1
+Style: Title,FZYaSong-B-GBK,60,&H000E4699,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,165,1
+Style: IN_Lanka_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H0131AE4C,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Lanka_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H0131AE4C,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Lanka_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H0131AE4C,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Lanka_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H0131AE4C,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_Sheryl_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01CBC0FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Sheryl_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01CBC0FF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Sheryl_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01CBC0FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Sheryl_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01CBC0FF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_Freyja_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H012222CA,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Freyja_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H012222CA,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Freyja_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H012222CA,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Freyja_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H012222CA,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_Mikumo_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01B457A6,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Mikumo_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01B457A6,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Mikumo_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01B457A6,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Mikumo_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01B457A6,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_Kaname_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H014ECFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Kaname_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H014ECFFF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Kaname_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H014ECFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Kaname_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H014ECFFF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_Reina_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01589458,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Reina_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01589458,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Reina_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01589458,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Reina_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01589458,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_Makina_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01CC99FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Makina_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01CC99FF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Makina_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01CC99FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Makina_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01CC99FF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_Heinz_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_Heinz_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01FFFFFF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_Heinz_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H01FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_Heinz_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H01FFFFFF,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: IN_YamiQRay_JP,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H012F2E32,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,10,1
+Style: IN_YamiQRay_CN,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H012F2E32,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,7,15,15,55,1
+Style: IN_YamiQRay_JP2,FOT-Klee Pro DB,39,&H00FFFFFF,&H00FFFFFF,&H012F2E32,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,15,15,10,1
+Style: IN_YamiQRay_CN2,TsangerJinKai01-27533 W03,41,&H00FFFFFF,&H00FFFFFF,&H012F2E32,&H00000000,0,0,0,0,100,100,1.2,0,1,2,0,9,15,15,55,1
+Style: ED_JP,FOT-Matisse ProN B,38,&H00FFFFFF,&H00FFFFFF,&H01000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,0,645,10,1
+Style: ED_CN,FZYaSong-B-GBK,36,&H00FFFFFF,&H00FFFFFF,&H01000000,&H00000000,0,0,0,0,100,100,1.5,0,1,1.5,0,8,0,645,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------JP---------------
+Dialogue: 5,0:00:02.01,0:00:03.48,Text_JP,,0,0,0,,でるた小劇場
+Dialogue: 5,0:00:08.76,0:00:11.35,Text_JP,,0,0,0,,私には　エースの才能はない
+Dialogue: 5,0:00:13.25,0:00:16.56,Text_JP,,0,0,0,,こうやって二人で話すのも　久しぶりだな
+Dialogue: 5,0:00:17.01,0:00:21.65,Text_JP,,0,0,0,,おじいさま　私にエースの才能はないとおっしゃいましたが
+Dialogue: 5,0:00:22.25,0:00:24.72,Text_JP,,0,0,0,,自分でも自覚していたんじゃないのか
+Dialogue: 5,0:00:27.91,0:00:29.54,Text_JP,,0,0,0,,返す言葉もないか
+Dialogue: 5,0:00:30.26,0:00:31.27,Text_JP,,0,0,0,,はい…
+Dialogue: 5,0:00:32.46,0:00:33.84,Text_JP,,0,0,0,,恋の方もか
+Dialogue: 5,0:00:35.55,0:00:38.54,Text_JP,,0,0,0,,まったく　誰に似たのやら
+Dialogue: 5,0:00:38.54,0:00:39.82,Text_JP,,0,0,0,,おばあさまです
+Dialogue: 5,0:00:41.22,0:00:43.93,Text_JP,,0,0,0,,また喧嘩していると　ミリアおばさまから聞きましたよ
+Dialogue: 5,0:00:43.93,0:00:45.47,Text_JP,,0,0,0,,いや　それは…
+Dialogue: 5,0:00:45.47,0:00:47.97,Text_JP,,0,0,0,,まったく　おじいさまはいくつですか
+Dialogue: 5,0:00:47.97,0:00:49.01,Text_JP,,0,0,0,,72歳ですよ
+Dialogue: 5,0:00:49.01,0:00:50.45,Text_JP,,0,0,0,,いや　それには…
+Dialogue: 5,0:00:50.45,0:00:53.74,Text_JP,,0,0,0,,ワルキューレのサインをうれしそうに並べている場合じゃないでしょう
+Dialogue: 5,0:00:53.74,0:00:55.88,Text_JP,,0,0,0,,だって　それは…
+Dialogue: 5,0:00:55.88,0:00:57.74,Text_JP,,0,0,0,,近くにいたら　もらうじゃないか
+Dialogue: 5,0:00:59.94,0:01:03.23,Text_JP,,0,0,0,,あの積極性が　私には理解できない
+Dialogue: 5,0:01:04.12,0:01:07.06,Text_JP,,0,0,0,,あ　おばあさまも理解できないと
+Dialogue: 5,0:01:08.42,0:01:09.89,Text_JP,,0,0,0,,でるた小劇場
+Dialogue: 5,0:01:14.03,0:01:16.70,Text_JP,,0,0,0,,行け！空中騎士団
+Dialogue: 5,0:01:18.60,0:01:21.16,Text_JP,,0,0,0,,新しい商品を考えついたのです　シックス
+Dialogue: 5,0:01:22.42,0:01:24.25,Text_JP,,0,0,0,,今　何と言った
+Dialogue: 5,0:01:24.25,0:01:27.74,Text_JP,,0,0,0,,だから　ウィンダミアの危機が救われたことを祝って
+Dialogue: 5,0:01:27.74,0:01:31.28,Text_JP,,0,0,0,,ユッシラ商会として新商品を販売しようかと　シックス
+Dialogue: 5,0:01:31.69,0:01:32.82,Text_JP,,0,0,0,,だから　何と
+Dialogue: 5,0:01:32.82,0:01:34.74,Text_JP,,0,0,0,,中身はルンの花まんじゅうです　シックス
+Dialogue: 5,0:01:34.74,0:01:35.55,Text_JP,,0,0,0,,待てい
+Dialogue: 5,0:01:36.97,0:01:39.20,Text_JP,,0,0,0,,今　何と言った
+Dialogue: 5,0:01:39.20,0:01:40.37,Text_JP,,0,0,0,,ルンの花まんじゅう…
+Dialogue: 5,0:01:40.37,0:01:41.35,Text_JP,,0,0,0,,そこじゃない
+Dialogue: 5,0:01:42.58,0:01:43.70,Text_JP,,0,0,0,,わかります
+Dialogue: 5,0:01:43.70,0:01:47.99,Text_JP,,0,0,0,,一時敵とはいえ　力を合わせたフレイア・ヴィオンの風の飛び立ちは
+Dialogue: 5,0:01:47.99,0:01:49.58,Text_JP,,0,0,0,,我々にも応えました
+Dialogue: 5,0:01:50.07,0:01:51.21,Text_JP,,0,0,0,,でも　だからこそ
+Dialogue: 5,0:01:51.50,0:01:53.07,Text_JP,,0,0,0,,そういう時だからこそ
+Dialogue: 5,0:01:53.07,0:01:56.10,Text_JP,,0,0,0,,明るい話題を我々は出していかねばならないのです
+Dialogue: 5,0:01:56.10,0:01:56.61,Text_JP,,0,700,0,,シックス
+Dialogue: 5,0:01:56.10,0:01:56.61,Text_JP,,0,0,0,,シックス
+Dialogue: 5,0:01:56.61,0:01:57.51,Text_JP,,0,0,0,,そこだ
+Dialogue: 5,0:01:57.51,0:01:58.32,Text_JP,,0,0,0,,どこですか
+Dialogue: 5,0:01:58.32,0:01:59.36,Text_JP,,0,0,0,,そうじゃない
+Dialogue: 5,0:01:59.98,0:02:02.63,Text_JP,,0,0,0,,私が言っているのは　その言い方だ
+Dialogue: 5,0:02:02.63,0:02:05.71,Text_JP,,0,0,0,,何だ　先ほどからシックスシックスと
+Dialogue: 5,0:02:05.71,0:02:07.61,Text_JP,,0,0,0,,だって　シックスじゃないですか
+Dialogue: 5,0:02:07.61,0:02:09.51,Text_JP,,0,0,0,,デルタ小隊所属じゃないですか
+Dialogue: 5,0:02:09.51,0:02:13.66,Text_JP,,0,0,0,,そ…それは　状況的に仕方ないじゃないか
+Dialogue: 5,0:02:13.66,0:02:14.62,Text_JP,,0,0,0,,そうですか
+Dialogue: 5,0:02:14.62,0:02:15.49,Text_JP,,0,0,0,,そうだ
+Dialogue: 5,0:02:15.85,0:02:20.16,Text_JP,,0,0,0,,だから　いつものように赤騎士と呼んでくれて構わないんだぞ
+Dialogue: 5,0:02:22.29,0:02:23.99,Text_JP,,0,0,0,,それはそうと　赤騎士シックス
+Dialogue: 5,0:02:23.99,0:02:25.43,Text_JP,,0,0,0,,混ぜてきたな
+Dialogue: 5,0:02:25.43,0:02:26.86,Text_JP,,0,0,0,,ここに　ビデオテープがあります
+Dialogue: 5,0:02:26.86,0:02:29.13,Text_JP,,0,0,0,,さらに話を打っ手切ってきたな
+Dialogue: 5,0:02:29.46,0:02:30.88,Text_JP,,0,0,0,,もう説明もないのか
+Dialogue: 5,0:02:34.87,0:02:36.92,Text_JP,,0,0,0,,こ…これは…
+Dialogue: 5,0:02:37.57,0:02:38.49,Text_JP,,0,0,0,,そうです
+Dialogue: 5,0:02:38.75,0:02:43.27,Text_JP,,0,0,0,,ワルキューレのリーダー　カナメ・バッカニアの水着が取れてしまったハプニング
+Dialogue: 5,0:02:43.27,0:02:45.73,Text_JP,,0,0,0,,あの伝説の動画を手に入れたのです
+Dialogue: 5,0:02:48.32,0:02:50.58,Text_JP,,0,0,0,,どうやって　これを手に入れたのだ
+Dialogue: 5,0:02:50.84,0:02:55.21,Text_JP,,0,0,0,,創業180年　信頼と実績のユッシラ商会ですから
+Dialogue: 5,0:02:55.21,0:02:57.12,Text_JP,,0,0,0,,この程度のコネは持ってますよ
+Dialogue: 5,0:02:57.50,0:02:58.58,Text_JP,,0,0,0,,そうか
+Dialogue: 5,0:02:58.58,0:03:00.99,Text_JP,,0,0,0,,まあ　レイナメンバーからもらったんですけどね
+Dialogue: 5,0:03:01.35,0:03:01.91,Text_JP,,0,0,0,,えっ
+Dialogue: 5,0:03:02.92,0:03:06.16,Text_JP,,0,0,0,,あと　レイナメンバーからメッセージ届いてますよ
+Dialogue: 5,0:03:12.13,0:03:16.93,Text_JP,,0,0,0,,ボグボグがカナカナのそういうのに興味があったとはねえ
+Dialogue: 5,0:03:17.38,0:03:19.19,Text_JP,,0,0,0,,いや　そ…それは…
+Dialogue: 5,0:03:19.19,0:03:21.63,Text_JP,,0,0,0,,お前なんか　ボグボグではない
+Dialogue: 5,0:03:21.95,0:03:23.10,Text_JP,,0,0,0,,エロエロだ
+Dialogue: 5,0:03:23.34,0:03:25.98,Text_JP,,0,0,0,,そ…そんな…
+Dialogue: 5,0:03:26.57,0:03:28.70,Text_JP,,0,0,0,,赤騎士シックス　凹みすぎですよ
+Dialogue: 5,0:03:29.00,0:03:30.41,Text_JP,,0,0,0,,エロエロシックス
+Dialogue: 5,0:03:30.41,0:03:32.30,Text_JP,,0,0,0,,エロエロシックスー
+Dialogue: 5,0:03:36.18,0:03:39.24,Text_JP,,0,0,0,,やっぱりこの子は　着痩せするタイプだったか
+Dialogue: 5,0:03:39.51,0:03:42.29,Text_JP,,0,0,0,,マックス司令　いつからそこにいたんですか
+Dialogue: 5,0:03:44.47,0:03:46.78,Text_JP,,0,0,0,,でるた小劇場
+Dialogue: 5,0:03:49.58,0:03:51.13,Text_JP,,0,0,0,,ふろんていあな日々
+Dialogue: 5,0:03:53.47,0:03:54.71,Text_JP,,0,0,0,,はええ
+Dialogue: 5,0:03:54.90,0:03:59.53,Text_JP,,0,0,0,,カナメさん　あの超時空アイドルランカ・リーと知り合いだったんやね
+Dialogue: 5,0:03:59.88,0:04:03.22,Text_JP,,0,0,0,,それ　スタジオでランカさんが見ていただけでしょ
+Dialogue: 5,0:04:03.22,0:04:05.94,Text_JP,,0,0,0,,あの番組のことは　忘れてちょうだい
+Dialogue: 5,0:04:06.25,0:04:08.91,Text_JP,,0,0,0,,まったく　レイナとマキナのせいで
+Dialogue: 5,0:04:08.91,0:04:12.14,Text_JP,,0,0,0,,私の黒歴史が浸透しすぎているわよ
+Dialogue: 5,0:04:12.14,0:04:15.70,Text_JP,,0,0,0,,で…でも　頑張るカナメさんぶっちゃ素敵です
+Dialogue: 5,0:04:15.94,0:04:17.05,Text_JP,,0,0,0,,ありがとう
+Dialogue: 5,0:04:17.67,0:04:19.00,Text_JP,,0,0,0,,で　カナメ
+Dialogue: 5,0:04:19.28,0:04:22.34,Text_JP,,0,0,0,,ランカさんとは　あれ以外でも知り合いだったの
+Dialogue: 5,0:04:22.71,0:04:24.65,Text_JP,,0,0,0,,うん　実はね
+Dialogue: 5,0:04:24.65,0:04:28.72,Text_JP,,0,0,0,,私が売れていない頃　いろいろ変な仕事してたんだけど
+Dialogue: 5,0:04:28.97,0:04:32.69,Text_JP,,0,0,0,,偶然その時　ランカさんから声をかけられたの
+Dialogue: 5,0:04:33.10,0:04:35.03,Text_JP,,0,0,0,,ああ　スターライト納豆
+Dialogue: 5,0:04:35.03,0:04:37.19,Text_JP,,0,0,0,,えっ　ランカさん？
+Dialogue: 5,0:04:37.19,0:04:39.12,Text_JP,,0,0,0,,私も　これやってたんだよ
+Dialogue: 5,0:04:39.34,0:04:42.09,Text_JP,,0,0,0,,待ってください　こ…これをですか
+Dialogue: 5,0:04:42.26,0:04:44.90,Text_JP,,0,0,0,,そう　懐かしいなあ
+Dialogue: 5,0:04:44.90,0:04:47.78,Text_JP,,0,0,0,,ここから私の歌の人生が始まったんだ
+Dialogue: 5,0:04:47.78,0:04:48.80,Text_JP,,0,0,0,,ええ
+Dialogue: 5,0:04:49.81,0:04:53.89,Text_JP,,0,0,0,,ランカさんも　売れる前はいろいろ変な仕事してたんだって
+Dialogue: 5,0:04:54.18,0:04:55.70,Text_JP,,0,0,0,,へえ
+Dialogue: 5,0:04:56.99,0:05:00.73,Text_JP,,0,0,0,,ランカさんにも　そんな下積み時代があったんですね
+Dialogue: 5,0:05:00.73,0:05:04.27,Text_JP,,0,0,0,,あったあった　あと水着で歌ったり
+Dialogue: 5,0:05:04.27,0:05:06.39,Text_JP,,0,0,0,,ええ　そんなことも
+Dialogue: 5,0:05:06.72,0:05:10.05,Text_JP,,0,0,0,,そうだよ　だからカナメさんも頑張って
+Dialogue: 5,0:05:10.27,0:05:10.95,Text_JP,,0,0,0,,はい…
+Dialogue: 5,0:05:11.17,0:05:13.57,Text_JP,,0,0,0,,って　どうして私の名前を
+Dialogue: 5,0:05:16.40,0:05:19.63,Text_JP,,0,0,0,,あれがあったから　あの時頑張れたのかもね
+Dialogue: 5,0:05:19.82,0:05:21.62,Text_JP,,0,0,0,,その後は　その後は
+Dialogue: 5,0:05:21.92,0:05:25.93,Text_JP,,0,0,0,,私もワルキューレが忙しくなってから　会えてないのよ
+Dialogue: 5,0:05:26.41,0:05:29.45,Text_JP,,0,0,0,,また　どこかで会えるといいねえ
+Dialogue: 5,0:05:30.07,0:05:30.69,Text_JP,,0,0,0,,ねえ
+Dialogue: 5,0:05:32.51,0:05:34.02,Text_JP,,0,0,0,,シェリル・ノームとは
+Dialogue: 5,0:05:34.84,0:05:38.12,Text_JP,,0,0,0,,やっぱり　美雲はそっちが気になるのね
+Dialogue: 5,0:05:38.38,0:05:38.96,Text_JP,,0,0,0,,ええ
+Dialogue: 5,0:05:39.53,0:05:42.24,Text_JP,,0,0,0,,うーんと　あるわよ
+Dialogue: 5,0:05:42.24,0:05:45.26,Text_JP,,0,0,0,,ええ　あの銀河の妖精とも
+Dialogue: 5,0:05:45.26,0:05:48.27,Text_JP,,0,0,0,,うん　私がライブしてた時に…
+Dialogue: 5,0:05:51.90,0:05:54.90,Text_JP,,0,0,0,,やっぱり　私って向いてないのかな
+Dialogue: 5,0:05:55.69,0:05:56.59,Text_JP,,0,0,0,,あなた
+Dialogue: 5,0:05:59.83,0:06:01.82,Text_JP,,0,0,0,,ウソ　シェリル？
+Dialogue: 5,0:06:02.97,0:06:05.65,Text_JP,,0,0,0,,あなたの歌　悪くないわね
+Dialogue: 5,0:06:09.11,0:06:13.94,Text_JP,,0,0,0,,多分あなたに必要なのは　きっかけ…かしら
+Dialogue: 5,0:06:14.20,0:06:15.38,Text_JP,,0,0,0,,きっかけ？
+Dialogue: 5,0:06:15.70,0:06:16.36,Text_JP,,0,0,0,,そう
+Dialogue: 5,0:06:19.39,0:06:21.46,Text_JP,,0,0,0,,ああ　ごめんね　行かなきゃ
+Dialogue: 5,0:06:22.13,0:06:22.83,Text_JP,,0,0,0,,あの…
+Dialogue: 5,0:06:24.36,0:06:27.03,Text_JP,,0,0,0,,また…また会えますか
+Dialogue: 5,0:06:30.13,0:06:32.96,Text_JP,,0,0,0,,あなたが歌い続けていれば　ね
+Dialogue: 5,0:06:34.66,0:06:36.71,Text_JP,,0,0,0,,いつか　二人に
+Dialogue: 5,0:06:37.07,0:06:40.23,Text_JP,,0,0,0,,私たちワルキューレを見せられる日が来るといいわね
+Dialogue: 5,0:06:40.72,0:06:43.32,Text_JP,,0,0,0,,うん　その時は二人とも
+Dialogue: 5,0:06:43.32,0:06:44.50,Text_JP,,0,0,0,,横にいてね
+Dialogue: 5,0:06:44.93,0:06:45.50,Text_JP,,0,0,0,,ええ
+Dialogue: 5,0:06:45.94,0:06:46.71,Text_JP,,0,0,0,,ほいな
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------CN---------------
+Dialogue: 4,0:00:02.01,0:00:03.48,Text_CN,,0,0,0,,Delta小劇場
+Dialogue: 4,0:00:08.76,0:00:11.35,Text_CN,,0,0,0,,我沒有當王牌的才能
+Dialogue: 4,0:00:13.25,0:00:16.56,Text_CN,,0,0,0,,我們很久沒有像這樣兩個人說話了吧
+Dialogue: 4,0:00:17.01,0:00:21.65,Text_CN,,0,0,0,,外公 您之前說我沒有當王牌的才能吧
+Dialogue: 4,0:00:22.25,0:00:24.72,Text_CN,,0,0,0,,你自己沒有意識到嗎
+Dialogue: 4,0:00:27.91,0:00:29.54,Text_CN,,0,0,0,,看來你也不想反駁
+Dialogue: 4,0:00:30.26,0:00:31.27,Text_CN,,0,0,0,,是的…
+Dialogue: 4,0:00:32.46,0:00:33.84,Text_CN,,0,0,0,,戀愛方面也沒有嗎
+Dialogue: 4,0:00:35.55,0:00:38.54,Text_CN,,0,0,0,,真是的 說不好你像誰
+Dialogue: 4,0:00:38.54,0:00:39.82,Text_CN,,0,0,0,,當然是外婆
+Dialogue: 4,0:00:41.22,0:00:43.93,Text_CN,,0,0,0,,我聽米莉亞外婆說你們又吵架了
+Dialogue: 4,0:00:43.93,0:00:45.47,Text_CN,,0,0,0,,不不 你聽我說…
+Dialogue: 4,0:00:45.47,0:00:47.97,Text_CN,,0,0,0,,真是的 外公您都多大歲數了
+Dialogue: 4,0:00:47.97,0:00:49.01,Text_CN,,0,0,0,,您72歲了哦
+Dialogue: 4,0:00:49.01,0:00:50.45,Text_CN,,0,0,0,,不不 是這樣的…
+Dialogue: 4,0:00:50.45,0:00:53.74,Text_CN,,0,0,0,,您甚至還興致勃勃地擺著Walküre的簽名
+Dialogue: 4,0:00:53.74,0:00:55.88,Text_CN,,0,0,0,,這個 是因為…
+Dialogue: 4,0:00:55.88,0:00:57.74,Text_CN,,0,0,0,,當時她們就在身邊 順手要了一份
+Dialogue: 4,0:00:59.94,0:01:03.23,Text_CN,,0,0,0,,我真的無法理解他的熱情
+Dialogue: 4,0:01:04.12,0:01:07.06,Text_CN,,0,0,0,,說不定外婆也不理解
+Dialogue: 4,0:01:08.42,0:01:09.89,Text_CN,,0,0,0,,Delta小劇場
+Dialogue: 4,0:01:14.03,0:01:16.70,Text_CN,,0,0,0,,前進！空中騎士團
+Dialogue: 4,0:01:18.60,0:01:21.16,Text_CN,,0,0,0,,我想好了一個新商品 6
+Dialogue: 4,0:01:22.42,0:01:24.25,Text_CN,,0,0,0,,等等 你說了什麼
+Dialogue: 4,0:01:24.25,0:01:27.74,Text_CN,,0,0,0,,我是說為了慶祝溫德米爾的危機成功解除
+Dialogue: 4,0:01:27.74,0:01:31.28,Text_CN,,0,0,0,,我們尤西拉商會打算發售新商品 6
+Dialogue: 4,0:01:31.69,0:01:32.82,Text_CN,,0,0,0,,所以你說什麼
+Dialogue: 4,0:01:32.82,0:01:34.74,Text_CN,,0,0,0,,這裡面是風晶之花包子 6
+Dialogue: 4,0:01:34.74,0:01:35.55,Text_CN,,0,0,0,,等一下
+Dialogue: 4,0:01:36.97,0:01:39.20,Text_CN,,0,0,0,,剛剛 你說了什麼
+Dialogue: 4,0:01:39.20,0:01:40.37,Text_CN,,0,0,0,,風晶之花包子…
+Dialogue: 4,0:01:40.37,0:01:41.35,Text_CN,,0,0,0,,不是這個
+Dialogue: 4,0:01:42.58,0:01:43.70,Text_CN,,0,0,0,,我明白了
+Dialogue: 4,0:01:43.70,0:01:47.99,Text_CN,,0,0,0,,雖說曾是敵人 但還是願意和我們攜手的芙蕾雅·薇恩乘風而去
+Dialogue: 4,0:01:47.99,0:01:49.58,Text_CN,,0,0,0,,我們也很傷心
+Dialogue: 4,0:01:50.07,0:01:51.21,Text_CN,,0,0,0,,不過 正因如此
+Dialogue: 4,0:01:51.50,0:01:53.07,Text_CN,,0,0,0,,越是這種時候
+Dialogue: 4,0:01:53.07,0:01:56.10,Text_CN,,0,0,0,,我們就更應該用一些歡樂的話題活躍氣氛
+Dialogue: 4,0:01:56.10,0:01:56.61,Text_CN,,0,700,0,,6
+Dialogue: 4,0:01:56.10,0:01:56.61,Text_CN,,0,0,0,,6
+Dialogue: 4,0:01:56.61,0:01:57.51,Text_CN,,0,0,0,,就是這個
+Dialogue: 4,0:01:57.51,0:01:58.32,Text_CN,,0,0,0,,哪個哪個
+Dialogue: 4,0:01:58.32,0:01:59.36,Text_CN,,0,0,0,,哪個都不是
+Dialogue: 4,0:01:59.98,0:02:02.63,Text_CN,,0,0,0,,我指的是你們說話後面加的那個
+Dialogue: 4,0:02:02.63,0:02:05.71,Text_CN,,0,0,0,,為什麼你們說話後面都6 6地帶著
+Dialogue: 4,0:02:05.71,0:02:07.61,Text_CN,,0,0,0,,因為您不是6嗎
+Dialogue: 4,0:02:07.61,0:02:09.51,Text_CN,,0,0,0,,您不是歸屬Delta小隊了嗎
+Dialogue: 4,0:02:09.51,0:02:13.66,Text_CN,,0,0,0,,那…那是因為形勢所迫
+Dialogue: 4,0:02:13.66,0:02:14.62,Text_CN,,0,0,0,,是嗎
+Dialogue: 4,0:02:14.62,0:02:15.49,Text_CN,,0,0,0,,沒錯
+Dialogue: 4,0:02:15.85,0:02:20.16,Text_CN,,0,0,0,,所以說 你們還是可以像以前一樣叫我赤騎士
+Dialogue: 4,0:02:22.29,0:02:23.99,Text_CN,,0,0,0,,不說這個了 赤騎士6
+Dialogue: 4,0:02:23.99,0:02:25.43,Text_CN,,0,0,0,,怎麼還混一起了
+Dialogue: 4,0:02:25.43,0:02:26.86,Text_CN,,0,0,0,,我得到了一盤錄影帶
+Dialogue: 4,0:02:26.86,0:02:29.13,Text_CN,,0,0,0,,甚至自說自話越來越遠了
+Dialogue: 4,0:02:29.46,0:02:30.88,Text_CN,,0,0,0,,怎麼都不解釋一下了
+Dialogue: 4,0:02:34.87,0:02:36.92,Text_CN,,0,0,0,,這…這是…
+Dialogue: 4,0:02:37.57,0:02:38.49,Text_CN,,0,0,0,,沒錯
+Dialogue: 4,0:02:38.75,0:02:43.27,Text_CN,,0,0,0,,這就是記錄著Walküre的領隊 要·巴卡妮雅的泳裝掉落事故的
+Dialogue: 4,0:02:43.27,0:02:45.73,Text_CN,,0,0,0,,那盤傳說中的錄影帶
+Dialogue: 4,0:02:48.32,0:02:50.58,Text_CN,,0,0,0,,你們是怎麼得到這盤錄影帶的
+Dialogue: 4,0:02:50.84,0:02:55.21,Text_CN,,0,0,0,,尤西拉商會創立180年 有著數不清的業績 備受人們信賴
+Dialogue: 4,0:02:55.21,0:02:57.12,Text_CN,,0,0,0,,這點門路還是有的
+Dialogue: 4,0:02:57.50,0:02:58.58,Text_CN,,0,0,0,,這樣啊
+Dialogue: 4,0:02:58.58,0:03:00.99,Text_CN,,0,0,0,,其實就是蕾娜隊員給我們的
+Dialogue: 4,0:03:01.35,0:03:01.91,Text_CN,,0,0,0,,什麼
+Dialogue: 4,0:03:02.92,0:03:06.16,Text_CN,,0,0,0,,另外 蕾娜隊員還給了您一段留言哦
+Dialogue: 4,0:03:12.13,0:03:16.93,Text_CN,,0,0,0,,沒想到博格博格還對要要這種事跡感興趣呀
+Dialogue: 4,0:03:17.38,0:03:19.19,Text_CN,,0,0,0,,不 這…這是…
+Dialogue: 4,0:03:19.19,0:03:21.63,Text_CN,,0,0,0,,你這個人 不配叫博格博格
+Dialogue: 4,0:03:21.95,0:03:23.10,Text_CN,,0,0,0,,叫禽獸禽獸吧
+Dialogue: 4,0:03:23.34,0:03:25.98,Text_CN,,0,0,0,,什…什麼…
+Dialogue: 4,0:03:26.57,0:03:28.70,Text_CN,,0,0,0,,赤騎士6 您也太消沉了
+Dialogue: 4,0:03:29.00,0:03:30.41,Text_CN,,0,0,0,,禽獸禽獸6
+Dialogue: 4,0:03:30.41,0:03:32.30,Text_CN,,0,0,0,,禽獸禽獸6
+Dialogue: 4,0:03:36.18,0:03:39.24,Text_CN,,0,0,0,,看來她還是穿著衣服比較顯瘦
+Dialogue: 4,0:03:39.51,0:03:42.29,Text_CN,,0,0,0,,麥克斯司令 您什麼時候來的
+Dialogue: 4,0:03:44.47,0:03:46.78,Text_CN,,0,0,0,,Delta小劇場
+Dialogue: 4,0:03:49.58,0:03:51.13,Text_CN,,0,0,0,,Frontier的日常
+Dialogue: 4,0:03:53.47,0:03:54.71,Text_CN,,0,0,0,,什麼
+Dialogue: 4,0:03:54.90,0:03:59.53,Text_CN,,0,0,0,,要小姐 您竟然認識那位超時空偶像蘭花·李
+Dialogue: 4,0:03:59.88,0:04:03.22,Text_CN,,0,0,0,,只是蘭花小姐在演播室看了你的錄影而已吧
+Dialogue: 4,0:04:03.22,0:04:05.94,Text_CN,,0,0,0,,你們能不能忘了那個節目啊
+Dialogue: 4,0:04:06.25,0:04:08.91,Text_CN,,0,0,0,,真是的 都怪蕾娜和瑪基娜
+Dialogue: 4,0:04:08.91,0:04:12.14,Text_CN,,0,0,0,,我的黑歷史現在人盡皆知了
+Dialogue: 4,0:04:12.14,0:04:15.70,Text_CN,,0,0,0,,不…不過 要小姐努力的樣子也很棒的
+Dialogue: 4,0:04:15.94,0:04:17.05,Text_CN,,0,0,0,,謝謝你
+Dialogue: 4,0:04:17.67,0:04:19.00,Text_CN,,0,0,0,,對了 要
+Dialogue: 4,0:04:19.28,0:04:22.34,Text_CN,,0,0,0,,你和蘭花小姐除那之外還見過面嗎
+Dialogue: 4,0:04:22.71,0:04:24.65,Text_CN,,0,0,0,,嗯 其實呢
+Dialogue: 4,0:04:24.65,0:04:28.72,Text_CN,,0,0,0,,我沒名氣的時候 還做過很多很多奇怪的工作
+Dialogue: 4,0:04:28.97,0:04:32.69,Text_CN,,0,0,0,,就在某一天 蘭花小姐突然向我搭話了
+Dialogue: 4,0:04:33.10,0:04:35.03,Text_CN,,0,0,0,,哇 是星光納豆
+Dialogue: 4,0:04:35.03,0:04:37.19,Text_CN,,0,0,0,,什麼 蘭花小姐？
+Dialogue: 4,0:04:37.19,0:04:39.12,Text_CN,,0,0,0,,我也做過這個哦
+Dialogue: 4,0:04:39.34,0:04:42.09,Text_CN,,0,0,0,,請等一下 這…這個嗎
+Dialogue: 4,0:04:42.26,0:04:44.90,Text_CN,,0,0,0,,沒錯 太懷念了
+Dialogue: 4,0:04:44.90,0:04:47.78,Text_CN,,0,0,0,,我的歌唱生涯就是從這裡開始的哦
+Dialogue: 4,0:04:47.78,0:04:48.80,Text_CN,,0,0,0,,什麼
+Dialogue: 4,0:04:49.81,0:04:53.89,Text_CN,,0,0,0,,蘭花小姐出名之前好像也做過許多奇奇怪怪的工作
+Dialogue: 4,0:04:54.18,0:04:55.70,Text_CN,,0,0,0,,是嗎
+Dialogue: 4,0:04:56.99,0:05:00.73,Text_CN,,0,0,0,,蘭花小姐也有過這麼不得意的時候呀
+Dialogue: 4,0:05:00.73,0:05:04.27,Text_CN,,0,0,0,,有啊有啊 還有穿著泳裝唱歌什麼的
+Dialogue: 4,0:05:04.27,0:05:06.39,Text_CN,,0,0,0,,什麼 還有這種事
+Dialogue: 4,0:05:06.72,0:05:10.05,Text_CN,,0,0,0,,沒錯 所以要小姐你也要加油哦
+Dialogue: 4,0:05:10.27,0:05:10.95,Text_CN,,0,0,0,,好的…
+Dialogue: 4,0:05:11.17,0:05:13.57,Text_CN,,0,0,0,,等等 您怎麼知道我叫什麼
+Dialogue: 4,0:05:16.40,0:05:19.63,Text_CN,,0,0,0,,或許正是有了那次邂逅 我才能開始努力吧
+Dialogue: 4,0:05:19.82,0:05:21.62,Text_CN,,0,0,0,,之後呢 之後呢
+Dialogue: 4,0:05:21.92,0:05:25.93,Text_CN,,0,0,0,,之後我就忙於Walküre的工作 沒有見過她了
+Dialogue: 4,0:05:26.41,0:05:29.45,Text_CN,,0,0,0,,要是能再見她一面就好了
+Dialogue: 4,0:05:30.07,0:05:30.69,Text_CN,,0,0,0,,對了
+Dialogue: 4,0:05:32.51,0:05:34.02,Text_CN,,0,0,0,,你和雪露·諾姆呢
+Dialogue: 4,0:05:34.84,0:05:38.12,Text_CN,,0,0,0,,美雲 我就知道你更想知道這個
+Dialogue: 4,0:05:38.38,0:05:38.96,Text_CN,,0,0,0,,是的
+Dialogue: 4,0:05:39.53,0:05:42.24,Text_CN,,0,0,0,,我想想 見過哦
+Dialogue: 4,0:05:42.24,0:05:45.26,Text_CN,,0,0,0,,什麼 您還見過銀河妖精
+Dialogue: 4,0:05:45.26,0:05:48.27,Text_CN,,0,0,0,,沒錯 就在一次我的演唱會上…
+Dialogue: 4,0:05:51.90,0:05:54.90,Text_CN,,0,0,0,,看來我真的不適合做這行啊
+Dialogue: 4,0:05:55.69,0:05:56.59,Text_CN,,0,0,0,,你
+Dialogue: 4,0:05:59.83,0:06:01.82,Text_CN,,0,0,0,,不會吧 雪露？
+Dialogue: 4,0:06:02.97,0:06:05.65,Text_CN,,0,0,0,,你的歌聲 還不錯哦
+Dialogue: 4,0:06:09.11,0:06:13.94,Text_CN,,0,0,0,,我想你缺少的 應該是…契機吧
+Dialogue: 4,0:06:14.20,0:06:15.38,Text_CN,,0,0,0,,契機？
+Dialogue: 4,0:06:15.70,0:06:16.36,Text_CN,,0,0,0,,沒錯
+Dialogue: 4,0:06:19.39,0:06:21.46,Text_CN,,0,0,0,,抱歉 我得走了
+Dialogue: 4,0:06:22.13,0:06:22.83,Text_CN,,0,0,0,,請問…
+Dialogue: 4,0:06:24.36,0:06:27.03,Text_CN,,0,0,0,,我們…我們還會見面嗎
+Dialogue: 4,0:06:30.13,0:06:32.96,Text_CN,,0,0,0,,只要你堅持繼續唱歌 會的
+Dialogue: 4,0:06:34.66,0:06:36.71,Text_CN,,0,0,0,,真想有一天
+Dialogue: 4,0:06:37.07,0:06:40.23,Text_CN,,0,0,0,,讓她們二位也看看我們Walküre的表演呀
+Dialogue: 4,0:06:40.72,0:06:43.32,Text_CN,,0,0,0,,嗯 等到那個時候
+Dialogue: 4,0:06:43.32,0:06:44.50,Text_CN,,0,0,0,,你們二位也要一起哦
+Dialogue: 4,0:06:44.93,0:06:45.50,Text_CN,,0,0,0,,嗯
+Dialogue: 4,0:06:45.94,0:06:46.71,Text_CN,,0,0,0,,好的呀
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Title---------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Staff---------------
+Dialogue: 0,0:00:01.31,0:00:05.99,Staff,,0,0,0,,{\fad(650,0)\blur3\bord3\c&HE34DDF&\3c&HFFFFFF&}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途\N翻譯&片源: 王子  BDRip: VCB-Studio
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Screen---------------
+Dialogue: 0,0:00:06.07,0:00:12.28,Screen,,0,0,0,,{\fad(300,0)\fnDFHanziPenW5-A\pos(152,371)}米拉潔日記
+Dialogue: 0,0:01:08.05,0:01:13.05,Screen,,0,0,0,,{\bord5\fn@FZKaTong-M19\fs65\frz270\c&H5DDAFD&\3c&H000172&\pos(611,103)}我只是—
+Dialogue: 1,0:01:08.05,0:01:13.05,Screen,,0,0,0,,{\bord5\fn@FZKaTong-M19\fs35\fsp-5\frz270\c&HFCFFFA&\3c&HBD00AF&\pos(1191,281)}只是喜歡\N女人而已吧！
+Dialogue: 0,0:01:08.05,0:01:13.05,Screen,,0,0,0,,{\bord7.5\fn@FZKaTong-M19\fs35\fsp-5\frz270\c&HFCFFFA&\3c&HF8E068&\pos(1191,281)}只是喜歡\N女人而已吧！
+Dialogue: 1,0:01:18.06,0:01:21.98,Screen,,0,0,0,,{\fn@FZYaSong-B-GBK\fs30\frz269.6\c&H000000&\pos(986,525)}溫德米爾城堡
+Dialogue: 0,0:01:18.06,0:01:21.98,Screen,,0,0,0,,{\bord2\frz269.6\c&HFFFFFF&\pos(991,513)\p1}m 0 0 l 170 0 170 40 0 40
+Dialogue: 1,0:01:18.06,0:01:21.98,Screen,,0,0,0,,{\fn@DFHannotateW7-A\fs30\frz269.6\c&H000000&\pos(542,414)}這樣的待遇
+Dialogue: 0,0:01:18.06,0:01:21.98,Screen,,0,0,0,,{\bord2\frz269.6\c&H5BD7FF&\pos(547,405)\p1}m 0 0 l 140 0 140 40 0 40
+Dialogue: 3,0:01:18.06,0:01:21.98,Screen,,0,0,0,,{\bord2\fn@DFHannotateW7-A\fs30\frz265.1\c&H000000&\3c&HD5BEF6&\pos(583,452)}可不多見哦
+Dialogue: 2,0:01:18.06,0:01:21.98,Screen,,0,0,0,,{\bord2\frz266.2\c&H5816FF&\pos(587,445)\p1}m 0 0 l 140 0 140 40 0 40
+Dialogue: 3,0:01:21.98,0:01:32.91,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\c&H000000&\4c&HFFFFFF&\pos(334,601)}風晶之花包子
+Dialogue: 3,0:01:33.11,0:01:34.66,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\c&H000000&\4c&HFFFFFF&\pos(334,601)}風晶之花包子
+Dialogue: 3,0:01:34.66,0:01:36.62,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz9.845\c&H000000&\4c&HFFFFFF&\pos(269,575)}風晶之花包子
+Dialogue: 3,0:01:36.61,0:01:36.65,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz9.85\c&H000000&\4c&HFFFFFF&\pos(269,575)}風晶之花包子
+Dialogue: 3,0:01:36.65,0:01:36.70,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz9.65\c&H000000&\4c&HFFFFFF&\pos(270.03,575.48)}風晶之花包子
+Dialogue: 3,0:01:36.70,0:01:36.74,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz9.48\c&H000000&\4c&HFFFFFF&\pos(271.07,575.83)}風晶之花包子
+Dialogue: 3,0:01:36.74,0:01:36.78,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz9.29\c&H000000&\4c&HFFFFFF&\pos(272.44,576.32)}風晶之花包子
+Dialogue: 3,0:01:36.78,0:01:36.82,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz9.1\c&H000000&\4c&HFFFFFF&\pos(273.66,576.81)}風晶之花包子
+Dialogue: 3,0:01:36.82,0:01:36.86,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz8.9\c&H000000&\4c&HFFFFFF&\pos(275.03,576.92)}風晶之花包子
+Dialogue: 3,0:01:36.86,0:01:36.90,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz8.72\c&H000000&\4c&HFFFFFF&\pos(276.04,577.38)}風晶之花包子
+Dialogue: 3,0:01:36.90,0:01:36.95,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz8.53\c&H000000&\4c&HFFFFFF&\pos(277.04,577.87)}風晶之花包子
+Dialogue: 3,0:01:36.95,0:01:36.99,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz8.36\c&H000000&\4c&HFFFFFF&\pos(278.39,578.18)}風晶之花包子
+Dialogue: 3,0:01:36.99,0:01:37.03,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz8.16\c&H000000&\4c&HFFFFFF&\pos(279.58,578.82)}風晶之花包子
+Dialogue: 3,0:01:37.03,0:01:37.07,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz7.96\c&H000000&\4c&HFFFFFF&\pos(280.77,578.91)}風晶之花包子
+Dialogue: 3,0:01:37.07,0:01:37.11,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz7.75\c&H000000&\4c&HFFFFFF&\pos(281.89,579.51)}風晶之花包子
+Dialogue: 3,0:01:37.11,0:01:37.15,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz7.75\c&H000000&\4c&HFFFFFF&\pos(281.89,579.5)}風晶之花包子
+Dialogue: 3,0:01:37.15,0:01:37.20,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz7.58\c&H000000&\4c&HFFFFFF&\pos(283.24,579.97)}風晶之花包子
+Dialogue: 3,0:01:37.20,0:01:37.24,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz7.39\c&H000000&\4c&HFFFFFF&\pos(284.38,580.41)}風晶之花包子
+Dialogue: 3,0:01:37.24,0:01:37.28,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz7.19\c&H000000&\4c&HFFFFFF&\pos(285.53,580.67)}風晶之花包子
+Dialogue: 3,0:01:37.28,0:01:37.32,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz6.99\c&H000000&\4c&HFFFFFF&\pos(286.86,581.26)}風晶之花包子
+Dialogue: 3,0:01:37.32,0:01:37.36,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz6.8\c&H000000&\4c&HFFFFFF&\pos(287.99,581.53)}風晶之花包子
+Dialogue: 3,0:01:37.36,0:01:37.40,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz6.61\c&H000000&\4c&HFFFFFF&\pos(289.11,581.95)}風晶之花包子
+Dialogue: 3,0:01:37.40,0:01:37.45,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz6.42\c&H000000&\4c&HFFFFFF&\pos(290.23,582.51)}風晶之花包子
+Dialogue: 3,0:01:37.45,0:01:37.49,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz6.26\c&H000000&\4c&HFFFFFF&\pos(291.64,582.97)}風晶之花包子
+Dialogue: 3,0:01:37.49,0:01:37.53,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz6.08\c&H000000&\4c&HFFFFFF&\pos(292.51,583.39)}風晶之花包子
+Dialogue: 3,0:01:37.53,0:01:37.57,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz5.88\c&H000000&\4c&HFFFFFF&\pos(293.61,583.77)}風晶之花包子
+Dialogue: 3,0:01:37.57,0:01:37.61,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz5.67\c&H000000&\4c&HFFFFFF&\pos(294.9,584.32)}風晶之花包子
+Dialogue: 3,0:01:37.61,0:01:37.66,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz5.5\c&H000000&\4c&HFFFFFF&\pos(296.19,584.75)}風晶之花包子
+Dialogue: 3,0:01:37.66,0:01:37.70,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz5.31\c&H000000&\4c&HFFFFFF&\pos(297.26,585.15)}風晶之花包子
+Dialogue: 3,0:01:37.70,0:01:37.74,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz5.12\c&H000000&\4c&HFFFFFF&\pos(298.32,585.68)}風晶之花包子
+Dialogue: 3,0:01:37.74,0:01:37.78,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz4.94\c&H000000&\4c&HFFFFFF&\pos(299.75,586.07)}風晶之花包子
+Dialogue: 3,0:01:37.78,0:01:37.82,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz4.74\c&H000000&\4c&HFFFFFF&\pos(300.82,586.62)}風晶之花包子
+Dialogue: 3,0:01:37.82,0:01:37.86,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz4.55\c&H000000&\4c&HFFFFFF&\pos(302.06,587.15)}風晶之花包子
+Dialogue: 3,0:01:37.86,0:01:37.91,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz4.37\c&H000000&\4c&HFFFFFF&\pos(303.08,587.54)}風晶之花包子
+Dialogue: 3,0:01:37.91,0:01:37.95,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz4.18\c&H000000&\4c&HFFFFFF&\pos(304.47,588.07)}風晶之花包子
+Dialogue: 3,0:01:37.95,0:01:37.99,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz4.01\c&H000000&\4c&HFFFFFF&\pos(305.48,588.61)}風晶之花包子
+Dialogue: 3,0:01:37.99,0:01:38.03,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz3.83\c&H000000&\4c&HFFFFFF&\pos(306.47,589.15)}風晶之花包子
+Dialogue: 3,0:01:38.03,0:01:38.07,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz3.63\c&H000000&\4c&HFFFFFF&\pos(307.7,589.81)}風晶之花包子
+Dialogue: 3,0:01:38.07,0:01:38.11,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz3.42\c&H000000&\4c&HFFFFFF&\pos(308.91,589.95)}風晶之花包子
+Dialogue: 3,0:01:38.11,0:01:38.16,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz3.24\c&H000000&\4c&HFFFFFF&\pos(310.27,590.47)}風晶之花包子
+Dialogue: 3,0:01:38.16,0:01:38.20,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz3.03\c&H000000&\4c&HFFFFFF&\pos(311.28,591.14)}風晶之花包子
+Dialogue: 3,0:01:38.20,0:01:38.24,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz2.84\c&H000000&\4c&HFFFFFF&\pos(312.44,591.64)}風晶之花包子
+Dialogue: 3,0:01:38.24,0:01:38.28,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz2.66\c&H000000&\4c&HFFFFFF&\pos(313.61,592.13)}風晶之花包子
+Dialogue: 3,0:01:38.28,0:01:38.32,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz2.49\c&H000000&\4c&HFFFFFF&\pos(314.74,592.62)}風晶之花包子
+Dialogue: 3,0:01:38.32,0:01:38.36,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz2.3\c&H000000&\4c&HFFFFFF&\pos(315.87,593.11)}風晶之花包子
+Dialogue: 3,0:01:38.36,0:01:38.41,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz2.13\c&H000000&\4c&HFFFFFF&\pos(317,593.6)}風晶之花包子
+Dialogue: 3,0:01:38.41,0:01:38.45,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz1.92\c&H000000&\4c&HFFFFFF&\pos(318.2,594.38)}風晶之花包子
+Dialogue: 3,0:01:38.45,0:01:38.49,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz1.74\c&H000000&\4c&HFFFFFF&\pos(319.13,594.7)}風晶之花包子
+Dialogue: 3,0:01:38.49,0:01:38.53,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz1.54\c&H000000&\4c&HFFFFFF&\pos(320.26,595.33)}風晶之花包子
+Dialogue: 3,0:01:38.53,0:01:38.57,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz1.34\c&H000000&\4c&HFFFFFF&\pos(321.6,595.93)}風晶之花包子
+Dialogue: 3,0:01:38.57,0:01:38.61,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz1.17\c&H000000&\4c&HFFFFFF&\pos(322.68,596.42)}風晶之花包子
+Dialogue: 3,0:01:38.61,0:01:38.66,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz0.97\c&H000000&\4c&HFFFFFF&\pos(323.79,597.02)}風晶之花包子
+Dialogue: 3,0:01:38.66,0:01:38.70,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz0.79\c&H000000&\4c&HFFFFFF&\pos(324.88,597.48)}風晶之花包子
+Dialogue: 3,0:01:38.70,0:01:38.74,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz0.6\c&H000000&\4c&HFFFFFF&\pos(325.96,598.06)}風晶之花包子
+Dialogue: 3,0:01:38.74,0:01:38.78,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz0.41\c&H000000&\4c&HFFFFFF&\pos(327.25,598.65)}風晶之花包子
+Dialogue: 3,0:01:38.78,0:01:38.82,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz0.23\c&H000000&\4c&HFFFFFF&\pos(328.53,599.26)}風晶之花包子
+Dialogue: 3,0:01:38.82,0:01:39.20,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs24\frz0.07\c&H000000&\4c&HFFFFFF&\pos(329.36,599.89)}風晶之花包子
+Dialogue: 3,0:01:39.20,0:01:39.24,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs40\frz0.07\c&H000000&\4c&HFFFFFF&\pos(734,328)}風晶之花包子
+Dialogue: 3,0:01:39.24,0:01:39.28,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs40\frz0.07\c&H000000&\4c&HFFFFFF&\pos(733.99,328)}風晶之花包子
+Dialogue: 3,0:01:39.28,0:01:39.37,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs40\frz0.07\c&H000000&\4c&HFFFFFF&\pos(745.99,312.49)}風晶之花包子
+Dialogue: 3,0:01:39.37,0:01:39.41,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs40\frz0.07\c&H000000&\4c&HFFFFFF&\pos(759.49,295.01)}風晶之花包子
+Dialogue: 3,0:01:39.41,0:01:39.45,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs40\frz0.07\c&H000000&\4c&HFFFFFF&\pos(759.49,295)}風晶之花包子
+Dialogue: 3,0:01:39.45,0:01:42.16,Screen,,0,0,0,,{\shad2\fnDFHannotateW7-A\fs40\frz0.07\c&H000000&\4c&HFFFFFF&\pos(770.65,280.65)}風晶之花包子
+Dialogue: 1,0:02:34.18,0:02:46.31,Screen,,0,0,0,,{\bord5\fnFZLTHPro Global Extrabold\fs70\c&H1F53FC&\3c&HFEFEFE&\pos(163,155)}乘騎槍手!
+Dialogue: 0,0:02:34.18,0:02:46.31,Screen,,0,0,0,,{\bord3\fnFZKaTong-M19\fs35\fsp-5\c&HFA5A17&\3c&HFBFCFC&\pos(109,220)}穿泳裝{\c&HF9A016&}挑戰！{\c&HC78C1F&}銀河河馬{\c&HFEAF19&}乘騎！
+Dialogue: 0,0:06:48.30,0:06:50.35,Screen,,0,0,0,,{\shad2\fnFZLTHPro Global Extrabold\fs60\frz24.18\c&HBFD8FA&\4c&H072C5B&\pos(559,633)}Walküre 追加公演決定！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Comment---------------
+Dialogue: 4,0:04:37.19,0:04:39.12,Comment,,0,0,0,,譯註：參見《劇場版超時空要塞Frontier 虛空歌姬》。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------Furi---------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
