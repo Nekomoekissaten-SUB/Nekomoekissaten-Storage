@@ -1,0 +1,45 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= GIRLS BAND CRY
+
+// toc::[]
+
+// == 第 1 期
+
+TV.01-13
+
+{dl_link}/{tag_chi}/Girls_Band_Cry_Web_JPCH.7z[简繁日双语 Web 合集]
+
+.所需字体
+....
+A-OTF 黎ミン Pr6N B <A-OTF Reimin Pr6N B>
+A-OTF 丸フォーク Pro B <A-OTF Maru Folk Pro B>
+FOT-UD角ゴ_ラージ Pr6N B <FOT-UDKakugo_Large Pr6N B>
+Tiejili SC
+仓耳今楷01-27533 W04 <TsangerJinKai01-27533 W04>
+方正正中黑_GBK <FZZhengHei-DB-GBK>
+方正字迹-老柴热血体 简繁 <FZZJ-LCRXTJF>
+汉仪旗黑 65S <HYQiHei 65S>
+汉仪旗黑 85S <HYQiHei 85S>
+汉仪玄宋 65S <HYXuanSong 65S>
+华康翩翩体W5-A <DFHanziPenW5-A>
+....
+
+// image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
