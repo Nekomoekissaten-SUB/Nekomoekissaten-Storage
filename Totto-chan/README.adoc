@@ -1,0 +1,53 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 窗边的小豆豆
+
+// toc::[]
+
+// == 第 1 季度
+
+MOV.01
+
+{dl_link}/{tag_chi}/Totto-chan_BD_JPCH.7z[简繁日双语 BD 合集]
+
+.所需字体
+....
+FOT-CinemaCN
+FOT-Greco Std DB
+FOT-グレコ Std B <FOT-Greco Std B>
+FOT-ユトリロ Pro DB <FOT-Utrillo Pro DB>
+FOT-筑紫A丸ゴシック Std B <FOT-TsukuARdGothic Std B>
+FOT-筑紫明朝 Pr6N D <FOT-TsukuMin Pr6N D>
+FZLTHPro Global
+仓耳今楷01-27533 W04 <TsangerJinKai01-27533 W04>
+方正北魏楷书_GBK <FZBeiWeiKaiShu-S19>
+方正悠黑_GBK 510M <FZYouHei_GBK 510M>
+方正悠宋 GBK 509R <FZYouSong GBK 509R>
+方正正中黑_GBK <FZZhengHei-DB-GBK>
+方正中雅宋_GBK <FZYaSong-DB-GBK>
+方正筑紫明朝宋 简繁 <FZZhuZiMingChaoSongJF>
+汉仪字研欢乐宋W <HYZiYanHuanLeSongW>
+华康翩翩体W5-A <DFHanziPenW5-A>
+华康手札体W5-A <DFHannotateW5-A>
+华康手札体W7-A <DFHannotateW7-A>
+腾祥嘉丽大圆GB18030 <Tensentype JiaLiDaYuanGB18030>
+....
+
+image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
