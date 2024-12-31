@@ -19,7 +19,7 @@
 
 // == 第 1 季度
 
-MOV.01
+EP.01-12
 
 {dl_link}/{tag_chi}/Hensara_BD_JPCH.7z[简繁日双语 BD 合集]
 
