@@ -1,0 +1,1007 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Dungeon Meshi [13][Web].JPSC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,MO UDShinGo SC Gb4 DB,54,&H00F7FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,15,15,15,1
+Style: Comment,MO UDShinGo SC Gb4 DB,50,&H00F7FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.4,0,7,15,15,18,1
+Style: Screen,FZYunDongHei-M-GBK,50,&H00F7FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,15,15,15,1
+Style: Dialogue_CN,MO UDShinGo SC Gb4 DB,72,&H00F7FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.4,0,2,15,15,60,1
+Style: Dialogue_CN_Alt,MO UDShinGo SC Gb4 DB,72,&H00F7FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.4,0,8,15,15,60,1
+Style: Dialogue_JP,A-OTF UD Shin Go Pr6N DB,65,&H00F7FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.4,0,2,15,15,6,1
+Style: Dialogue_JP_Alt,A-OTF UD Shin Go Pr6N DB,65,&H00F7FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.4,0,8,15,15,6,1
+Style: Meshi_OPCN,FZYaSong-B-GBK,51,&H00FFFEFF,&H00F7FFFF,&H0047474C,&H0047474C,0,0,0,0,100,100,1.5,0,1,2,2,8,23,23,20,1
+Style: Meshi_OPJP,FOT-Matisse ProN B,53,&H00FFFEFF,&H00F7FFFF,&H0047474C,&H0047474C,0,0,0,0,100,100,0,0,1,2,2,2,23,23,20,1
+Style: Meshi_EDJP,FOT-Matisse ProN B,53,&H00000000,&H00F7FFFF,&H00FFFFFF,&H0047474C,0,0,0,0,100,100,0,0,1,1,0,2,23,23,15,1
+Style: Meshi_EDCN,FZYaSong-B-GBK,51,&H00000000,&H00F7FFFF,&H00FFFFFF,&H0047474C,0,0,0,0,100,100,1.5,0,1,1,0,8,23,23,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:23:23.13,0:23:25.13,Screen,,0,0,0,,Staff
+Dialogue: 0,0:01:23.27,0:01:27.90,Default,,0,0,0,,{\bord0\fs59\fad(1478,0)\fnFZZhengHei-B-GBK\c&HFFFFFF&}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途
+Dialogue: 0,0:01:23.27,0:01:27.90,Default,,0,0,0,,{\an2\bord0\fs59\fad(1478,0)\fnFZZhengHei-B-GBK\c&HFFFFFF&}日字：Ronny  翻译·时轴：Nemeton  后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue - JP
+Dialogue: 1,0:01:33.26,0:01:35.84,Dialogue_JP,,0,0,0,,いくら加工しても　食いきれんな
+Dialogue: 1,0:02:10.61,0:02:12.26,Dialogue_JP,,0,0,0,,そこにいたのか
+Dialogue: 1,0:02:13.81,0:02:15.66,Dialogue_JP,,0,0,0,,なんだ　その姿は
+Dialogue: 1,0:02:16.43,0:02:19.91,Dialogue_JP,,0,0,0,,お前には陛下捜索の任を授けたはず
+Dialogue: 1,0:02:21.15,0:02:23.61,Dialogue_JP,,0,0,0,,暇を与えた記憶はないぞ
+Dialogue: 1,0:02:29.31,0:02:31.05,Dialogue_JP,,0,0,0,,何　今の
+Dialogue: 1,0:02:31.90,0:02:34.30,Dialogue_JP,,0,0,0,,立てかけた剣が倒れたみたいだ
+Dialogue: 1,0:02:34.58,0:02:36.92,Dialogue_JP,,0,0,0,,もうソイツ縛っとけよ
+Dialogue: 1,0:02:39.10,0:02:39.84,Dialogue_JP,,0,0,0,,ファリン
+Dialogue: 1,0:02:40.99,0:02:41.59,Dialogue_JP,,0,0,0,,マルシル
+Dialogue: 1,0:02:42.21,0:02:42.89,Dialogue_JP,,0,0,0,,マルシル
+Dialogue: 1,0:02:44.74,0:02:46.06,Dialogue_JP,,0,0,0,,ファリンはどうした
+Dialogue: 1,0:02:47.09,0:02:48.22,Dialogue_JP,,0,0,0,,あれ
+Dialogue: 1,0:02:49.11,0:02:51.16,Dialogue_JP,,0,0,0,,センシ　ファリンはどこへ
+Dialogue: 1,0:02:51.43,0:02:53.34,Dialogue_JP,,0,0,0,,誰も通っちゃおらんよ
+Dialogue: 1,0:02:54.32,0:02:56.69,Dialogue_JP,,0,0,0,,なに　どうかしたの
+Dialogue: 1,0:02:58.17,0:02:59.09,Dialogue_JP,,0,0,0,,まさか
+Dialogue: 1,0:03:00.34,0:03:02.34,Dialogue_JP,,0,0,0,,ここから出ていったのか
+Dialogue: 1,0:03:05.57,0:03:06.99,Dialogue_JP,,0,0,0,,少し外を捜してくる
+Dialogue: 1,0:03:18.33,0:03:19.37,Dialogue_JP,,0,0,0,,これは…
+Dialogue: 1,0:03:20.78,0:03:21.48,Dialogue_JP,,0,0,0,,ファリン
+Dialogue: 1,0:03:23.91,0:03:24.87,Dialogue_JP,,0,0,0,,大丈夫か
+Dialogue: 1,0:03:25.75,0:03:26.49,Dialogue_JP,,0,0,0,,いったい…
+Dialogue: 1,0:03:29.62,0:03:31.39,Dialogue_JP,,0,0,0,,いったい何があったんだ
+Dialogue: 1,0:03:32.10,0:03:33.28,Dialogue_JP,,0,0,0,,デルガル様
+Dialogue: 1,0:03:34.56,0:03:35.97,Dialogue_JP,,0,0,0,,お捜ししなくては
+Dialogue: 1,0:03:36.62,0:03:37.60,Dialogue_JP,,0,0,0,,デルガル？
+Dialogue: 1,0:03:38.25,0:03:38.70,Dialogue_JP,,0,0,0,,誰…
+Dialogue: 1,0:03:38.70,0:03:39.75,Dialogue_JP,,0,0,0,,この地に…
+Dialogue: 1,0:03:40.61,0:03:42.54,Dialogue_JP,,0,0,0,,この地に存在する
+Dialogue: 1,0:03:42.91,0:03:45.95,Dialogue_JP,,0,0,0,,建物　金貨　国民
+Dialogue: 1,0:03:46.23,0:03:49.24,Dialogue_JP,,0,0,0,,家畜　血　肉
+Dialogue: 1,0:03:50.36,0:03:54.51,Dialogue_JP,,0,0,0,,お前が今踏みつけている砂粒一つに至るまで
+Dialogue: 1,0:03:55.37,0:04:00.79,Dialogue_JP,,0,0,0,,すべてはデルガル国王陛下　その人の所有物である
+Dialogue: 1,0:04:03.37,0:04:05.76,Dialogue_JP,,0,0,0,,汚らわしい盗賊が
+Dialogue: 1,0:04:06.92,0:04:09.39,Dialogue_JP,,0,0,0,,貴様　見覚えがあるぞ
+Dialogue: 1,0:04:10.08,0:04:12.56,Dialogue_JP,,0,0,0,,絵画の中をウロついていたな
+Dialogue: 1,0:04:13.26,0:04:14.34,Dialogue_JP,,0,0,0,,見覚え
+Dialogue: 1,0:04:14.70,0:04:15.66,Dialogue_JP,,0,0,0,,国王
+Dialogue: 1,0:04:16.19,0:04:17.70,Dialogue_JP,,0,0,0,,絵画の中
+Dialogue: 1,0:04:18.47,0:04:19.83,Dialogue_JP,,0,0,0,,何者だ
+Dialogue: 1,0:04:20.20,0:04:21.91,Dialogue_JP,,0,0,0,,何が目的だ
+Dialogue: 1,0:04:26.32,0:04:27.88,Dialogue_JP,,0,0,0,,迷宮のあるじ
+Dialogue: 1,0:04:28.93,0:04:30.87,Dialogue_JP,,0,0,0,,狂乱の魔術師
+Dialogue: 1,0:04:34.87,0:04:37.85,Dialogue_JP,,0,0,0,,そ…　そこのあなた　離れなさい
+Dialogue: 1,0:04:38.18,0:04:39.63,Dialogue_JP,,0,0,0,,次は当てるからね
+Dialogue: 1,0:04:42.21,0:04:44.77,Dialogue_JP,,0,0,0,,簒奪者どもが
+Dialogue: 1,0:04:46.27,0:04:47.36,Dialogue_JP,,0,0,0,,ファリン　立てるか
+Dialogue: 1,0:04:47.49,0:04:48.27,Dialogue_JP,,0,0,0,,ファリン
+Dialogue: 1,0:04:50.05,0:04:50.90,Dialogue_JP,,0,0,0,,うるさい
+Dialogue: 1,0:04:55.00,0:04:56.26,Dialogue_JP,,0,0,0,,ラ…　ライオス
+Dialogue: 1,0:04:56.51,0:04:57.99,Dialogue_JP,,0,0,0,,なんて力だ
+Dialogue: 1,0:04:59.00,0:05:00.65,Dialogue_JP,,0,0,0,,何が起きてんだよ
+Dialogue: 1,0:05:01.15,0:05:02.64,Dialogue_JP,,0,0,0,,アイツ　冒険者か
+Dialogue: 1,0:05:05.86,0:05:06.42,Dialogue_JP,,0,0,0,,本？
+Dialogue: 1,0:05:06.68,0:05:08.66,Dialogue_JP,,0,0,0,,すごい嫌な予感
+Dialogue: 1,0:05:08.85,0:05:11.92,Dialogue_JP_Alt,,0,0,0,,エブント　オーンバム　ロムフェス　ルードバム
+Dialogue: 1,0:05:11.92,0:05:13.92,Dialogue_JP_Alt,,0,0,0,,ウント　レシュファム
+Dialogue: 1,0:05:12.02,0:05:13.92,Dialogue_JP,,0,0,0,,おい　なんか唱えてないか
+Dialogue: 1,0:05:14.21,0:05:17.10,Dialogue_JP_Alt,,0,0,0,,エブント　オーンバム　ロムフェス　ルードバム
+Dialogue: 1,0:05:17.10,0:05:18.74,Dialogue_JP_Alt,,0,0,0,,ウント　レシュファム
+Dialogue: 1,0:05:17.44,0:05:19.17,Dialogue_JP,,0,0,0,,あの詠唱は…
+Dialogue: 1,0:05:19.49,0:05:22.44,Dialogue_JP_Alt,,0,0,0,,エブント　オーンバム　ロムフェス　ルードバム
+Dialogue: 1,0:05:22.44,0:05:23.68,Dialogue_JP_Alt,,0,0,0,,ウント　レシュファム
+Dialogue: 1,0:05:23.99,0:05:25.56,Dialogue_JP,,0,0,0,,古代魔術
+Dialogue: 1,0:05:25.81,0:05:26.93,Dialogue_JP,,0,0,0,,食い尽くせ
+Dialogue: 1,0:05:36.04,0:05:38.25,Dialogue_JP,,0,0,0,,爆発魔法　防御魔法
+Dialogue: 1,0:05:38.46,0:05:40.38,Dialogue_JP,,0,0,0,,だめ　そんなものじゃ防げない
+Dialogue: 1,0:05:41.08,0:05:41.85,Dialogue_JP,,0,0,0,,なら
+Dialogue: 1,0:05:48.17,0:05:50.34,Dialogue_JP,,0,0,0,,術を直接書き換える
+Dialogue: 1,0:05:58.39,0:05:59.22,Dialogue_JP,,0,0,0,,解除
+Dialogue: 1,0:06:05.01,0:06:07.79,Dialogue_JP,,0,0,0,,解除　解除　解除　解除
+Dialogue: 1,0:06:08.54,0:06:10.00,Dialogue_JP,,0,0,0,,この古代魔術
+Dialogue: 1,0:06:10.29,0:06:12.06,Dialogue_JP,,0,0,0,,わかる　読める
+Dialogue: 1,0:06:12.48,0:06:13.40,Dialogue_JP,,0,0,0,,けど…
+Dialogue: 1,0:06:17.49,0:06:19.90,Dialogue_JP,,0,0,0,,ついていくのは無理
+Dialogue: 1,0:06:40.30,0:06:43.23,Dialogue_JP,,0,0,0,,あ…　あなたがこの迷宮を作ったの
+Dialogue: 1,0:06:44.71,0:06:47.09,Dialogue_JP,,0,0,0,,私　あなたと話が…
+Dialogue: 1,0:07:07.49,0:07:09.11,Dialogue_JP,,0,0,0,,そう不安がるな
+Dialogue: 1,0:07:09.43,0:07:10.77,Dialogue_JP,,0,0,0,,逆賊は去った
+Dialogue: 1,0:07:13.06,0:07:15.52,Dialogue_JP,,0,0,0,,陛下もじきにお戻りになられる
+Dialogue: 1,0:07:15.92,0:07:18.25,Dialogue_JP,,0,0,0,,そのときは盛大にお祝いをしよう
+Dialogue: 1,0:07:20.72,0:07:21.60,Dialogue_JP,,0,0,0,,おい　竜
+Dialogue: 1,0:07:24.98,0:07:26.65,Dialogue_JP,,0,0,0,,それでは不便だろう
+Dialogue: 1,0:07:27.32,0:07:29.88,Dialogue_JP,,0,0,0,,いま一度新しい姿をやる
+Dialogue: 1,0:07:38.81,0:07:40.77,Dialogue_JP,,0,0,0,,成すべきことを成せ
+Dialogue: 1,0:07:42.82,0:07:43.74,Dialogue_JP,,0,0,0,,はい
+Dialogue: 1,0:07:47.05,0:07:48.12,Dialogue_JP,,0,0,0,,痛っ
+Dialogue: 1,0:07:48.54,0:07:49.90,Dialogue_JP,,0,0,0,,どうなってんだ
+Dialogue: 1,0:07:50.12,0:07:52.17,Dialogue_JP,,0,0,0,,待って　明かりつける
+Dialogue: 1,0:07:56.19,0:07:57.79,Dialogue_JP,,0,0,0,,なんだ　ここ
+Dialogue: 1,0:07:58.12,0:08:00.24,Dialogue_JP,,0,0,0,,どこから落ちてきたんだ　俺たち
+Dialogue: 1,0:08:00.96,0:08:02.00,Dialogue_JP,,0,0,0,,どうなってんだ
+Dialogue: 1,0:08:02.32,0:08:03.24,Dialogue_JP,,0,0,0,,出口が…
+Dialogue: 1,0:08:05.32,0:08:06.10,Dialogue_JP,,0,0,0,,なんだ
+Dialogue: 1,0:08:07.17,0:08:08.60,Dialogue_JP,,0,0,0,,壁が迫ってきてない
+Dialogue: 1,0:08:08.60,0:08:10.55,Dialogue_JP,,0,0,0,,冗談だろ　クソ
+Dialogue: 1,0:08:10.77,0:08:12.69,Dialogue_JP,,0,0,0,,出口　出口を探せ
+Dialogue: 1,0:08:12.69,0:08:13.47,Dialogue_JP,,0,0,0,,どこ
+Dialogue: 1,0:08:13.47,0:08:15.33,Dialogue_JP,,0,0,0,,魔法でなんとかできないのか
+Dialogue: 1,0:08:15.33,0:08:17.31,Dialogue_JP,,0,0,0,,それは例えば　どの魔法で
+Dialogue: 1,0:08:25.97,0:08:26.94,Dialogue_JP,,0,0,0,,死ぬ
+Dialogue: 1,0:08:27.40,0:08:29.41,Dialogue_JP,,0,0,0,,死ぬのは初めてじゃないけど
+Dialogue: 1,0:08:29.41,0:08:31.73,Dialogue_JP,,0,0,0,,石の中じゃ誰にも発見されない
+Dialogue: 1,0:08:32.81,0:08:34.97,Dialogue_JP,,0,0,0,,ようやくファリンと会えたのに
+Dialogue: 1,0:08:35.36,0:08:37.38,Dialogue_JP,,0,0,0,,迷宮の謎に近づけたのに
+Dialogue: 1,0:08:37.60,0:08:39.76,Dialogue_JP,,0,0,0,,全部意味がなくなっちゃう
+Dialogue: 1,0:08:40.49,0:08:43.07,Dialogue_JP,,0,0,0,,こんな　終わり方
+Dialogue: 1,0:08:47.11,0:08:48.20,Dialogue_JP,,0,0,0,,マルシル
+Dialogue: 1,0:08:50.53,0:08:52.91,Dialogue_JP,,0,0,0,,空洞だ　あそこから出られる
+Dialogue: 1,0:08:53.73,0:08:56.02,Dialogue_JP,,0,0,0,,どこへ繋がるかわからんぞ
+Dialogue: 1,0:08:56.02,0:08:58.48,Dialogue_JP,,0,0,0,,ペチャンコに比べりゃ　なんでもいい
+Dialogue: 1,0:08:58.48,0:09:00.45,Dialogue_JP,,0,0,0,,いいから急げ
+Dialogue: 1,0:09:09.21,0:09:10.57,Dialogue_JP,,0,0,0,,どこだここ
+Dialogue: 1,0:09:11.21,0:09:11.98,Dialogue_JP,,0,0,0,,寒っ
+Dialogue: 1,0:09:13.97,0:09:16.46,Dialogue_JP,,0,0,0,,と…　とりあえず　ここから離れないと
+Dialogue: 1,0:09:16.64,0:09:17.40,Dialogue_JP,,0,0,0,,無理
+Dialogue: 1,0:09:17.70,0:09:20.87,Dialogue_JP,,0,0,0,,もう指一本動かせらい
+Dialogue: 1,0:09:21.33,0:09:22.96,Dialogue_JP,,0,0,0,,いや　頑張るんだ
+Dialogue: 1,0:09:23.21,0:09:24.86,Dialogue_JP,,0,0,0,,またアイツに見つかったら…
+Dialogue: 1,0:09:32.82,0:09:34.69,Dialogue_JP,,0,0,0,,お…　終わった
+Dialogue: 1,0:09:38.56,0:09:40.59,Dialogue_JP,,0,0,0,,大丈夫
+Dialogue: 1,0:09:42.44,0:09:44.94,Dialogue_JP,,0,0,0,,心配しないで
+Dialogue: 1,0:09:47.50,0:09:49.14,Dialogue_JP,,0,0,0,,き…　消えた
+Dialogue: 1,0:09:50.16,0:09:52.95,Dialogue_JP,,0,0,0,,クソ　頭がどうにかなりそうだ
+Dialogue: 1,0:09:54.64,0:09:55.41,Dialogue_JP,,0,0,0,,センシ
+Dialogue: 1,0:09:55.96,0:09:57.40,Dialogue_JP,,0,0,0,,ライオスを起こしてくれ
+Dialogue: 1,0:09:58.05,0:10:00.06,Dialogue_JP,,0,0,0,,俺はこの辺の様子を調べてく…
+Dialogue: 1,0:10:06.13,0:10:07.20,Dialogue_JP,,0,0,0,,つ…　捕まえろ
+Dialogue: 1,0:10:07.20,0:10:09.13,Dialogue_JP,,0,0,0,,コイツら　どこから忍び込んだ
+Dialogue: 1,0:10:09.69,0:10:10.92,Dialogue_JP,,0,0,0,,耳長までいるぞ
+Dialogue: 1,0:10:11.24,0:10:12.18,Dialogue_JP,,0,0,0,,そっち行ったぞ
+Dialogue: 1,0:10:12.18,0:10:13.49,Dialogue_JP,,0,0,0,,コイツら
+Dialogue: 1,0:10:13.92,0:10:15.00,Dialogue_JP,,0,0,0,,やかましい
+Dialogue: 1,0:10:15.74,0:10:16.76,Dialogue_JP,,0,0,0,,何事だ
+Dialogue: 1,0:10:16.96,0:10:18.25,Dialogue_JP,,0,0,0,,モグラだ　隊長
+Dialogue: 1,0:10:18.62,0:10:20.00,Dialogue_JP,,0,0,0,,いったいどこから
+Dialogue: 1,0:10:20.21,0:10:21.77,Dialogue_JP,,0,0,0,,見張りは何してた
+Dialogue: 1,0:10:22.43,0:10:24.73,Dialogue_JP,,0,0,0,,それが　俺たちにも
+Dialogue: 1,0:10:24.92,0:10:26.37,Dialogue_JP,,0,0,0,,穴が塞がってる
+Dialogue: 1,0:10:26.55,0:10:27.49,Dialogue_JP,,0,0,0,,まあいい
+Dialogue: 1,0:10:28.31,0:10:29.52,Dialogue_JP,,0,0,0,,小人に
+Dialogue: 1,0:10:30.43,0:10:31.82,Dialogue_JP,,0,0,0,,地底人に
+Dialogue: 1,0:10:32.25,0:10:33.61,Dialogue_JP,,0,0,0,,足長に
+Dialogue: 1,0:10:34.17,0:10:35.21,Dialogue_JP,,0,0,0,,耳長
+Dialogue: 1,0:10:35.72,0:10:36.86,Dialogue_JP,,0,0,0,,おもしろい
+Dialogue: 1,0:10:37.15,0:10:39.45,Dialogue_JP,,0,0,0,,耳長を殺すのは初めてだ
+Dialogue: 1,0:10:39.68,0:10:40.83,Dialogue_JP,,0,0,0,,私がやる
+Dialogue: 1,0:10:41.12,0:10:43.03,Dialogue_JP,,0,0,0,,小人は犬にくれてやれ
+Dialogue: 1,0:10:43.22,0:10:45.33,Dialogue_JP,,0,0,0,,コイツらも娯楽に飢えてる
+Dialogue: 1,0:10:45.73,0:10:46.46,Dialogue_JP,,0,0,0,,待て
+Dialogue: 1,0:10:46.67,0:10:50.34,Dialogue_JP,,0,0,0,,そなた　ゾン族長の妹君ではないか
+Dialogue: 1,0:10:50.84,0:10:54.76,Dialogue_JP,,0,0,0,,我々は　族長との約束を果たすために来た
+Dialogue: 1,0:10:55.00,0:10:56.89,Dialogue_JP,,0,0,0,,寛大な処置を求む
+Dialogue: 1,0:10:58.39,0:10:59.83,Dialogue_JP,,0,0,0,,なぜその名を
+Dialogue: 1,0:11:05.30,0:11:06.85,Dialogue_JP,,0,0,0,,お前　野菜売りか
+Dialogue: 1,0:11:07.00,0:11:09.48,Dialogue_JP,,0,0,0,,匂いが違うから　気付かなかったぞ
+Dialogue: 1,0:11:10.08,0:11:12.85,Dialogue_JP,,0,0,0,,お前がこんな所まで来るなんて
+Dialogue: 1,0:11:13.38,0:11:15.33,Dialogue_JP,,0,0,0,,族長との約束とは
+Dialogue: 1,0:11:17.79,0:11:18.74,Dialogue_JP,,0,0,0,,なるほど
+Dialogue: 1,0:11:19.14,0:11:21.07,Dialogue_JP,,0,0,0,,そういう経緯があったとは
+Dialogue: 1,0:11:21.55,0:11:25.40,Dialogue_JP,,0,0,0,,突然竜の姿が消えたので　妙だとは思っていたが
+Dialogue: 1,0:11:26.49,0:11:28.55,Dialogue_JP,,0,0,0,,族長に代わって礼を言う
+Dialogue: 1,0:11:28.97,0:11:30.28,Dialogue_JP,,0,0,0,,調合の準備を
+Dialogue: 1,0:11:39.14,0:11:40.19,Dialogue_JP,,0,0,0,,完成だ
+Dialogue: 1,0:12:02.10,0:12:02.85,Dialogue_JP,,0,0,0,,あの
+Dialogue: 1,0:12:03.79,0:12:05.75,Dialogue_JP,,0,0,0,,わ…　わらひは
+Dialogue: 1,0:12:06.78,0:12:08.54,Dialogue_JP,,0,0,0,,たらのまりょく…
+Dialogue: 1,0:12:09.48,0:12:10.17,Dialogue_JP,,0,0,0,,ぎれ
+Dialogue: 1,0:12:18.49,0:12:19.55,Dialogue_JP,,0,0,0,,な…　なあ
+Dialogue: 1,0:12:19.80,0:12:22.95,Dialogue_JP,,0,0,0,,俺たち　エルフの魔術師に攻撃されたんだ
+Dialogue: 1,0:12:23.71,0:12:25.68,Dialogue_JP,,0,0,0,,アイツのこと　何か知らないか
+Dialogue: 1,0:12:25.68,0:12:27.05,Dialogue_JP,,0,0,0,,ヤツに出くわしたのか
+Dialogue: 1,0:12:27.65,0:12:30.75,Dialogue_JP,,0,0,0,,えっと　褐色肌の銀髪の
+Dialogue: 1,0:12:30.75,0:12:31.69,Dialogue_JP,,0,0,0,,それだ
+Dialogue: 1,0:12:32.49,0:12:34.37,Dialogue_JP,,0,0,0,,詳しいことはわからない
+Dialogue: 1,0:12:35.05,0:12:38.03,Dialogue_JP,,0,0,0,,我々が住まう以前からずっとここにいて
+Dialogue: 1,0:12:38.34,0:12:40.37,Dialogue_JP,,0,0,0,,迷宮を支配しているようだ
+Dialogue: 1,0:12:41.02,0:12:45.25,Dialogue_JP,,0,0,0,,迷宮の外の者が必要以上に迷宮に干渉すると
+Dialogue: 1,0:12:45.55,0:12:46.83,Dialogue_JP,,0,0,0,,ヤツは現れる
+Dialogue: 1,0:12:47.99,0:12:51.94,Dialogue_JP,,0,0,0,,魔物を作り　自在に操り　地形を変え
+Dialogue: 1,0:12:52.24,0:12:55.36,Dialogue_JP,,0,0,0,,本をめくるだけであらゆる生き物を殺す
+Dialogue: 1,0:12:56.58,0:12:58.28,Dialogue_JP,,0,0,0,,迷宮の支配者
+Dialogue: 1,0:12:58.77,0:12:59.68,Dialogue_JP,,0,0,0,,つまり…
+Dialogue: 1,0:13:00.34,0:13:04.11,Dialogue_JP,,0,0,0,,俺たち　狂乱の魔術師に目を付けられたってことか
+Dialogue: 1,0:13:04.47,0:13:05.74,Dialogue_JP,,0,0,0,,冗談じゃない
+Dialogue: 1,0:13:05.91,0:13:08.56,Dialogue_JP,,0,0,0,,クソ　一刻も早く脱出しないと
+Dialogue: 1,0:13:09.06,0:13:11.28,Dialogue_JP,,0,0,0,,マルシルの魔術が呼び寄せたのか
+Dialogue: 1,0:13:11.63,0:13:14.22,Dialogue_JP,,0,0,0,,いや　炎竜をやったせいか
+Dialogue: 1,0:13:14.94,0:13:17.72,Dialogue_JP,,0,0,0,,ヤツはいくつかの魔物を使役していて
+Dialogue: 1,0:13:17.84,0:13:20.44,Dialogue_JP,,0,0,0,,それを殺すと　怒らせるはめになる
+Dialogue: 1,0:13:20.90,0:13:22.73,Dialogue_JP,,0,0,0,,それを警戒して兄は
+Dialogue: 1,0:13:22.92,0:13:26.84,Dialogue_JP,,0,0,0,,私たちに　炎竜には手を出すなと言ったのだな
+Dialogue: 1,0:13:27.61,0:13:29.72,Dialogue_JP,,0,0,0,,兄はいつも正しい
+Dialogue: 1,0:13:29.72,0:13:31.06,Dialogue_JP,,0,0,0,,あの野郎
+Dialogue: 1,0:13:31.87,0:13:33.51,Dialogue_JP,,0,0,0,,２人が目を覚ませば
+Dialogue: 1,0:13:33.51,0:13:35.49,Dialogue_JP,,0,0,0,,絶対にファリンを探したがる
+Dialogue: 1,0:13:36.19,0:13:38.34,Dialogue_JP,,0,0,0,,なんとしても諦めさせないと
+Dialogue: 1,0:13:38.87,0:13:39.94,Dialogue_JP,,0,0,0,,というと
+Dialogue: 1,0:13:40.23,0:13:41.42,Dialogue_JP,,0,0,0,,なんでもいい
+Dialogue: 1,0:13:41.56,0:13:42.86,Dialogue_JP,,0,0,0,,杖を燃やすとか
+Dialogue: 1,0:13:42.86,0:13:45.22,Dialogue_JP,,0,0,0,,ファリンが地上へ向かうのを見たとか
+Dialogue: 1,0:13:45.51,0:13:48.67,Dialogue_JP,,0,0,0,,竜の肉を食ったので　満足したと言うとか
+Dialogue: 1,0:13:49.70,0:13:51.43,Dialogue_JP,,0,0,0,,２人を欺けと
+Dialogue: 1,0:13:52.06,0:13:53.08,Dialogue_JP,,0,0,0,,そうだよ
+Dialogue: 1,0:13:53.08,0:13:56.39,Dialogue_JP,,0,0,0,,そうでもなきゃ　あのバカ２人は絶対に諦めない
+Dialogue: 1,0:13:56.69,0:13:59.96,Dialogue_JP,,0,0,0,,これ以上進めば　俺たちは確実に殺される
+Dialogue: 1,0:13:59.96,0:14:01.62,Dialogue_JP,,0,0,0,,壁の一部になりたいか
+Dialogue: 1,0:14:01.79,0:14:03.27,Dialogue_JP,,0,0,0,,俺はごめんだね
+Dialogue: 1,0:14:03.69,0:14:04.19,Dialogue_JP,,0,0,0,,ほん…
+Dialogue: 1,0:14:09.97,0:14:12.79,Dialogue_JP,,0,0,0,,アイツらにつきあって死ぬのはまっぴらだ
+Dialogue: 1,0:14:14.58,0:14:15.63,Dialogue_JP,,0,0,0,,なあ　おい
+Dialogue: 1,0:14:16.04,0:14:18.25,Dialogue_JP,,0,0,0,,置いてきた荷物を回収したいんだ
+Dialogue: 1,0:14:19.00,0:14:20.59,Dialogue_JP,,0,0,0,,案内を頼めないか
+Dialogue: 1,0:14:23.53,0:14:24.52,Dialogue_JP,,0,0,0,,断る
+Dialogue: 1,0:14:24.83,0:14:27.79,Dialogue_JP,,0,0,0,,腐った根性のにおいがうつりそうだ
+Dialogue: 1,0:14:29.41,0:14:31.04,Dialogue_JP,,0,0,0,,ワシからも頼む
+Dialogue: 1,0:14:31.40,0:14:33.02,Dialogue_JP,,0,0,0,,連れていってやってくれ
+Dialogue: 1,0:14:33.52,0:14:36.24,Dialogue_JP,,0,0,0,,臆病だが　悪いヤツではないのだ
+Dialogue: 1,0:14:36.39,0:14:38.94,Dialogue_JP,,0,0,0,,センシ　お前は来ないのかよ
+Dialogue: 1,0:14:39.44,0:14:42.47,Dialogue_JP,,0,0,0,,２人のそばに残る者も必要だろう
+Dialogue: 1,0:14:42.89,0:14:43.44,Dialogue_JP,,0,0,0,,そ…
+Dialogue: 1,0:14:48.06,0:14:50.45,Dialogue_JP,,0,0,0,,お前から頼まれてはしかたない
+Dialogue: 1,0:14:51.01,0:14:53.39,Dialogue_JP,,0,0,0,,気に食わんが　案内してやる
+Dialogue: 1,0:15:00.99,0:15:01.64,Dialogue_JP,,0,0,0,,クソ
+Dialogue: 1,0:15:02.63,0:15:05.35,Dialogue_JP,,0,0,0,,どいつもコイツもバカだ　バカ
+Dialogue: 1,0:15:06.10,0:15:07.83,Dialogue_JP,,0,0,0,,仲間とはぐれたのか
+Dialogue: 1,0:15:08.68,0:15:09.76,Dialogue_JP,,0,0,0,,そうだよ
+Dialogue: 1,0:15:10.36,0:15:14.11,Dialogue_JP,,0,0,0,,最後に見たときには　魔術師の足元に倒れてたんだ
+Dialogue: 1,0:15:14.62,0:15:16.42,Dialogue_JP,,0,0,0,,楽観的にはなれないだろ
+Dialogue: 1,0:15:17.64,0:15:20.50,Dialogue_JP,,0,0,0,,仲間を騙す言い訳にはならんがな
+Dialogue: 1,0:15:21.88,0:15:24.28,Dialogue_JP,,0,0,0,,部外者はどうとでも言えるよな
+Dialogue: 1,0:15:25.27,0:15:26.98,Dialogue_JP,,0,0,0,,いや　なんでもないって
+Dialogue: 1,0:15:28.13,0:15:28.92,Dialogue_JP,,0,0,0,,後ろだ
+Dialogue: 1,0:15:36.31,0:15:36.82,Dialogue_JP,,0,0,0,,騒ぐな
+Dialogue: 1,0:15:36.82,0:15:37.84,Dialogue_JP,,0,0,0,,さ…　寒っ
+Dialogue: 1,0:15:38.53,0:15:40.56,Dialogue_JP,,0,0,0,,あれはこの都の住人だ
+Dialogue: 1,0:15:41.32,0:15:44.02,Dialogue_JP,,0,0,0,,この辺りの霊はまだ正気を保っていて
+Dialogue: 1,0:15:44.36,0:15:46.84,Dialogue_JP,,0,0,0,,姿を見せたいときだけ現れる
+Dialogue: 1,0:15:47.95,0:15:50.11,Dialogue_JP,,0,0,0,,彼らの進む道は安全だ
+Dialogue: 1,0:15:50.44,0:15:51.38,Dialogue_JP,,0,0,0,,ついていこう
+Dialogue: 1,0:15:51.74,0:15:52.34,Dialogue_JP,,0,0,0,,ちょっ
+Dialogue: 1,0:15:55.56,0:15:56.69,Dialogue_JP,,0,0,0,,ホントかよ
+Dialogue: 1,0:16:07.88,0:16:08.68,Dialogue_JP,,0,0,0,,あそこ
+Dialogue: 1,0:16:09.02,0:16:10.65,Dialogue_JP,,0,0,0,,さっきまでいた場所だ
+Dialogue: 1,0:16:11.21,0:16:13.14,Dialogue_JP,,0,0,0,,炎竜が消えてる
+Dialogue: 1,0:16:14.18,0:16:17.22,Dialogue_JP,,0,0,0,,まさか　生き返ったのか
+Dialogue: 1,0:16:17.39,0:16:17.98,Dialogue_JP,,0,0,0,,いや
+Dialogue: 1,0:16:18.35,0:16:20.67,Dialogue_JP,,0,0,0,,犬たちが警戒している様子はない
+Dialogue: 1,0:16:21.14,0:16:23.95,Dialogue_JP,,0,0,0,,魔術師が消したか　持ち去ったのだろう
+Dialogue: 1,0:16:24.63,0:16:26.71,Dialogue_JP,,0,0,0,,爆発したような跡があるが
+Dialogue: 1,0:16:27.14,0:16:30.75,Dialogue_JP,,0,0,0,,竜の燃料袋のそばで火を使って　引火したんだ
+Dialogue: 1,0:16:31.39,0:16:32.91,Dialogue_JP,,0,0,0,,よく無事だったな
+Dialogue: 1,0:16:33.57,0:16:37.27,Dialogue_JP,,0,0,0,,仲間の一人が　とっさに防御魔法で守ってくれて
+Dialogue: 1,0:16:37.53,0:16:38.75,Dialogue_JP,,0,0,0,,事なきを得た
+Dialogue: 1,0:16:39.49,0:16:41.79,Dialogue_JP,,0,0,0,,仲間に恵まれてるじゃないか
+Dialogue: 1,0:16:42.39,0:16:44.20,Dialogue_JP,,0,0,0,,そういう話じゃねえ
+Dialogue: 1,0:16:44.79,0:16:47.95,Dialogue_JP,,0,0,0,,そんな魔法が使えるなんて　本人も知らなかったんだ
+Dialogue: 1,0:16:48.19,0:16:51.08,Dialogue_JP,,0,0,0,,治療役が突っ込んで　全員消し飛ぶところだった
+Dialogue: 1,0:16:51.72,0:16:53.48,Dialogue_JP,,0,0,0,,結果的には成功したが
+Dialogue: 1,0:16:53.90,0:16:56.44,Dialogue_JP,,0,0,0,,失敗してりゃ　ただのマヌケだ
+Dialogue: 1,0:16:57.69,0:16:59.76,Dialogue_JP,,0,0,0,,そういうヤツらなんだよ
+Dialogue: 1,0:17:02.74,0:17:03.76,Dialogue_JP,,0,0,0,,そもそも
+Dialogue: 1,0:17:04.05,0:17:07.30,Dialogue_JP,,0,0,0,,どうやってお前たちだけで　炎竜を倒した
+Dialogue: 1,0:17:08.26,0:17:10.02,Dialogue_JP,,0,0,0,,俺とセンシで引き付けて
+Dialogue: 1,0:17:10.19,0:17:11.55,Dialogue_JP,,0,0,0,,その隙にライオス…
+Dialogue: 1,0:17:11.98,0:17:15.44,Dialogue_JP,,0,0,0,,仲間のトールマンが炎竜の懐に飛び込んで
+Dialogue: 1,0:17:15.44,0:17:16.87,Dialogue_JP,,0,0,0,,急所を突いたらしい
+Dialogue: 1,0:17:17.13,0:17:18.66,Dialogue_JP,,0,0,0,,それはすばらしい
+Dialogue: 1,0:17:19.04,0:17:22.18,Dialogue_JP,,0,0,0,,戦う者は　勇ましくなくてはいけない
+Dialogue: 1,0:17:22.81,0:17:24.55,Dialogue_JP,,0,0,0,,あれは勇気じゃない
+Dialogue: 1,0:17:25.32,0:17:27.35,Dialogue_JP,,0,0,0,,成功したからいいものの
+Dialogue: 1,0:17:27.62,0:17:28.99,Dialogue_JP,,0,0,0,,バカな賭けだった
+Dialogue: 1,0:17:29.77,0:17:31.43,Dialogue_JP,,0,0,0,,正直ゾッとした
+Dialogue: 1,0:17:31.84,0:17:35.00,Dialogue_JP,,0,0,0,,こんな判断をするヤツがこの先どうなるものか
+Dialogue: 1,0:17:35.95,0:17:38.51,Dialogue_JP,,0,0,0,,パーティーから離れていった仲間もいたが
+Dialogue: 1,0:17:40.84,0:17:44.55,Dialogue_JP,,0,0,0,,今思えば　ヤツらのほうが賢かったのかもな
+Dialogue: 1,0:17:45.36,0:17:48.69,Dialogue_JP,,0,0,0,,意地を張らず　俺もあのとき抜ければよかった
+Dialogue: 1,0:17:50.27,0:17:51.34,Dialogue_JP,,0,0,0,,そのために
+Dialogue: 1,0:17:51.91,0:17:54.08,Dialogue_JP,,0,0,0,,仲間を失ってもよかったと
+Dialogue: 1,0:17:56.36,0:17:58.44,Dialogue_JP,,0,0,0,,どうかな　案外…
+Dialogue: 1,0:17:59.15,0:18:01.37,Dialogue_JP,,0,0,0,,俺がついていくなんて言ったせいで
+Dialogue: 1,0:18:01.85,0:18:03.89,Dialogue_JP,,0,0,0,,アイツも後に引けなくなったのかも
+Dialogue: 1,0:18:06.05,0:18:08.54,Dialogue_JP,,0,0,0,,それで　そのあとはどうなったんだ
+Dialogue: 1,0:18:09.64,0:18:11.94,Dialogue_JP,,0,0,0,,ケガや　なんもかんも治して
+Dialogue: 1,0:18:12.92,0:18:13.93,Dialogue_JP,,0,0,0,,この部屋で
+Dialogue: 1,0:18:19.26,0:18:21.44,Dialogue_JP,,0,0,0,,竜の肉を料理して食った
+Dialogue: 1,0:18:22.03,0:18:23.08,Dialogue_JP,,0,0,0,,それはいい
+Dialogue: 1,0:18:23.27,0:18:25.17,Dialogue_JP,,0,0,0,,倒した者の特権だ
+Dialogue: 1,0:18:29.06,0:18:31.75,Dialogue_JP,,0,0,0,,魔術師が現れたのはそのあとか
+Dialogue: 1,0:18:32.12,0:18:34.41,Dialogue_JP,,0,0,0,,お前たちはどうやって生き延びたんだ
+Dialogue: 1,0:18:35.74,0:18:37.26,Dialogue_JP,,0,0,0,,仲間の魔術師が
+Dialogue: 1,0:18:37.44,0:18:39.34,Dialogue_JP,,0,0,0,,攻撃をしのいでくれたんだ
+Dialogue: 1,0:18:40.17,0:18:41.62,Dialogue_JP,,0,0,0,,あの耳長が
+Dialogue: 1,0:18:41.83,0:18:44.31,Dialogue_JP,,0,0,0,,あんなマヌケそうな顔をしていたのに
+Dialogue: 1,0:18:44.31,0:18:46.02,Dialogue_JP,,0,0,0,,実際マヌケだよ
+Dialogue: 1,0:18:46.30,0:18:48.24,Dialogue_JP,,0,0,0,,怪しげな魔術まで使って
+Dialogue: 1,0:18:48.24,0:18:49.94,Dialogue_JP,,0,0,0,,迷宮から出られたとて
+Dialogue: 1,0:18:50.11,0:18:52.80,Dialogue_JP,,0,0,0,,まともな人生が送れるとは思えない
+Dialogue: 1,0:18:53.69,0:18:57.25,Dialogue_JP,,0,0,0,,どいつもコイツも　アホで　バカで
+Dialogue: 1,0:18:57.88,0:18:59.06,Dialogue_JP,,0,0,0,,大マヌケだ
+Dialogue: 1,0:18:59.83,0:19:02.36,Dialogue_JP,,0,0,0,,無理をすれば　報われると思い込んでる
+Dialogue: 1,0:19:02.74,0:19:03.75,Dialogue_JP,,0,0,0,,そんなヤツら
+Dialogue: 1,0:19:03.75,0:19:05.75,Dialogue_JP,,0,0,0,,まともに説得なんてできるか
+Dialogue: 1,0:19:06.75,0:19:08.36,Dialogue_JP,,0,0,0,,だから騙すのか
+Dialogue: 1,0:19:09.04,0:19:11.17,Dialogue_JP,,0,0,0,,他にもっといいやり方がある
+Dialogue: 1,0:19:12.40,0:19:15.94,Dialogue_JP,,0,0,0,,ウソをつく程度で　地上に帰れるのなら上等だね
+Dialogue: 1,0:19:15.94,0:19:17.51,Dialogue_JP,,0,0,0,,俺は臆病だし
+Dialogue: 1,0:19:17.78,0:19:20.39,Dialogue_JP,,0,0,0,,自分の命がいっちばん大事だからな
+Dialogue: 1,0:19:21.02,0:19:22.52,Dialogue_JP,,0,0,0,,ではなくて
+Dialogue: 1,0:19:24.98,0:19:27.78,Dialogue_JP,,0,0,0,,素直に死なせたくないと言えばいいのに
+Dialogue: 1,0:19:41.15,0:19:43.45,Dialogue_JP,,0,0,0,,っの野郎　なんでここに
+Dialogue: 1,0:19:44.17,0:19:46.42,Dialogue_JP,,0,0,0,,こんな所まで這ってきたのか
+Dialogue: 1,0:19:52.00,0:19:55.73,Dialogue_JP,,0,0,0,,俺たちの中じゃ　お前がいちばん賢かったな
+Dialogue: 1,0:19:59.58,0:20:00.70,Dialogue_JP,,0,0,0,,血の跡
+Dialogue: 1,0:20:01.67,0:20:03.61,Dialogue_JP,,0,0,0,,死体でも引きずったような
+Dialogue: 1,0:20:04.50,0:20:05.27,Dialogue_JP,,0,0,0,,おい
+Dialogue: 1,0:20:05.82,0:20:06.90,Dialogue_JP,,0,0,0,,置いていくぞ
+Dialogue: 1,0:20:07.65,0:20:08.96,Dialogue_JP,,0,0,0,,あ…　ああ
+Dialogue: 1,0:20:15.59,0:20:17.59,Dialogue_JP,,0,0,0,,荷物回収してきたぞ
+Dialogue: 1,0:20:20.85,0:20:22.00,Dialogue_JP,,0,0,0,,何やってんだ
+Dialogue: 1,0:20:22.00,0:20:23.75,Dialogue_JP,,0,0,0,,まだ安静にしてろって
+Dialogue: 1,0:20:23.91,0:20:25.20,Dialogue_JP,,0,0,0,,どこも痛くない
+Dialogue: 1,0:20:25.20,0:20:28.28,Dialogue_JP,,0,0,0,,それは薬で痛覚がバカになってるだけだ
+Dialogue: 1,0:20:28.28,0:20:30.80,Dialogue_JP,,0,0,0,,ファリンは　まだ近くにいるはずだ
+Dialogue: 1,0:20:32.21,0:20:33.58,Dialogue_JP,,0,0,0,,落ち着けって
+Dialogue: 1,0:20:40.49,0:20:42.00,Dialogue_JP,,0,0,0,,２人に話がある
+Dialogue: 1,0:20:42.88,0:20:45.60,Dialogue_JP,,0,0,0,,チルチャック　考えたがワシは…
+Dialogue: 1,0:20:46.53,0:20:48.54,Dialogue_JP,,0,0,0,,まずは俺から話させてくれ
+Dialogue: 1,0:20:50.80,0:20:51.55,Dialogue_JP,,0,0,0,,ライオス
+Dialogue: 1,0:20:52.97,0:20:56.25,Dialogue_JP,,0,0,0,,今のお前の心中は　察するに余りある
+Dialogue: 1,0:20:57.15,0:21:00.68,Dialogue_JP,,0,0,0,,だがこれ以上の探索は　今の俺たちには無理だ
+Dialogue: 1,0:21:02.23,0:21:05.02,Dialogue_JP,,0,0,0,,必ず誰か　死ぬ
+Dialogue: 1,0:21:06.92,0:21:08.59,Dialogue_JP,,0,0,0,,頼む　ライオス
+Dialogue: 1,0:21:10.34,0:21:13.12,Dialogue_JP,,0,0,0,,ここは耐えて　地上に戻ってくれ
+Dialogue: 1,0:21:13.48,0:21:15.64,Dialogue_JP,,0,0,0,,俺はお前たちを失いたくない
+Dialogue: 1,0:21:15.88,0:21:19.10,Dialogue_JP,,0,0,0,,お前が妹を思う気持ちにはかなわないかもしれないが
+Dialogue: 1,0:21:19.28,0:21:20.55,Dialogue_JP,,0,0,0,,こっちは３人分だ
+Dialogue: 1,0:21:20.90,0:21:24.29,Dialogue_JP,,0,0,0,,狂乱の魔術師を見たと言えば　島主が動くかもしれない
+Dialogue: 1,0:21:24.53,0:21:26.94,Dialogue_JP,,0,0,0,,金を集めて　誰かを雇うのもいい
+Dialogue: 1,0:21:27.33,0:21:31.16,Dialogue_JP,,0,0,0,,準備があれば　もっと早くこの階層まで来られる
+Dialogue: 1,0:21:32.01,0:21:34.72,Dialogue_JP,,0,0,0,,だから　頼む
+Dialogue: 1,0:21:36.47,0:21:38.92,Dialogue_JP,,0,0,0,,引き返そう　ライオス
+Dialogue: 1,0:21:43.57,0:21:45.20,Dialogue_JP,,0,0,0,,実を言うと
+Dialogue: 1,0:21:45.62,0:21:49.71,Dialogue_JP,,0,0,0,,調味料などの一部食材もあとわずかでな
+Dialogue: 1,0:21:50.36,0:21:53.91,Dialogue_JP,,0,0,0,,ファリンには　ちゃんとうまいものを食わせてやりたい
+Dialogue: 1,0:21:54.24,0:21:57.17,Dialogue_JP,,0,0,0,,街へ戻り　物資を補給するべきだ
+Dialogue: 1,0:21:59.58,0:22:02.30,Dialogue_JP,,0,0,0,,炎竜が倒れたと使いを出した
+Dialogue: 1,0:22:03.14,0:22:04.91,Dialogue_JP,,0,0,0,,兄たちもいずれ戻るだろう
+Dialogue: 1,0:22:05.53,0:22:07.44,Dialogue_JP,,0,0,0,,もしお前たちが準備を終え
+Dialogue: 1,0:22:07.74,0:22:09.45,Dialogue_JP,,0,0,0,,再び戻ってきたなら
+Dialogue: 1,0:22:10.20,0:22:13.30,Dialogue_JP,,0,0,0,,我々も　できるかぎりの協力はしよう
+Dialogue: 1,0:22:16.73,0:22:17.48,Dialogue_JP,,0,0,0,,わかった
+Dialogue: 1,0:22:20.76,0:22:23.13,Dialogue_JP,,0,0,0,,心配かけて　すまなかった
+Dialogue: 1,0:22:24.71,0:22:26.54,Dialogue_JP,,0,0,0,,一度　引き返そう
+Dialogue: 1,0:22:29.01,0:22:29.60,Dialogue_JP,,0,0,0,,うん
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue - CN
+Dialogue: 2,0:01:33.26,0:01:35.84,Dialogue_CN,,0,0,0,,感觉再怎么加工也吃不完啊
+Dialogue: 2,0:02:10.61,0:02:12.26,Dialogue_CN,,0,0,0,,你在那边吗
+Dialogue: 2,0:02:13.81,0:02:15.66,Dialogue_CN,,0,0,0,,怎么成了这个样子
+Dialogue: 2,0:02:16.43,0:02:19.91,Dialogue_CN,,0,0,0,,不是给你安排了寻找陛下的任务
+Dialogue: 2,0:02:21.15,0:02:23.61,Dialogue_CN,,0,0,0,,可没有让你去休息
+Dialogue: 2,0:02:29.31,0:02:31.05,Dialogue_CN,,0,0,0,,什么声音
+Dialogue: 2,0:02:31.90,0:02:34.30,Dialogue_CN,,0,0,0,,好像是立着的剑倒了
+Dialogue: 2,0:02:34.58,0:02:36.92,Dialogue_CN,,0,0,0,,你可把它绑好了
+Dialogue: 2,0:02:39.10,0:02:39.84,Dialogue_CN,,0,0,0,,法琳?
+Dialogue: 2,0:02:40.99,0:02:41.59,Dialogue_CN,,0,0,0,,玛露希尔
+Dialogue: 2,0:02:42.21,0:02:42.89,Dialogue_CN,,0,0,0,,玛露希尔
+Dialogue: 2,0:02:44.74,0:02:46.06,Dialogue_CN,,0,0,0,,法琳去哪了
+Dialogue: 2,0:02:47.09,0:02:48.22,Dialogue_CN,,0,0,0,,咦
+Dialogue: 2,0:02:49.11,0:02:51.16,Dialogue_CN,,0,0,0,,先西 看到法琳了吗
+Dialogue: 2,0:02:51.43,0:02:53.34,Dialogue_CN,,0,0,0,,这边没看到人经过
+Dialogue: 2,0:02:54.32,0:02:56.69,Dialogue_CN,,0,0,0,,怎么 发生什么事了
+Dialogue: 2,0:02:58.17,0:02:59.09,Dialogue_CN,,0,0,0,,难道说
+Dialogue: 2,0:03:00.34,0:03:02.34,Dialogue_CN,,0,0,0,,从这里出去的吗
+Dialogue: 2,0:03:05.57,0:03:06.99,Dialogue_CN,,0,0,0,,我去外面找找看
+Dialogue: 2,0:03:18.33,0:03:19.37,Dialogue_CN,,0,0,0,,这是…
+Dialogue: 2,0:03:20.78,0:03:21.48,Dialogue_CN,,0,0,0,,法琳
+Dialogue: 2,0:03:23.91,0:03:24.87,Dialogue_CN,,0,0,0,,没事吧
+Dialogue: 2,0:03:25.75,0:03:26.49,Dialogue_CN,,0,0,0,,究竟…
+Dialogue: 2,0:03:29.62,0:03:31.39,Dialogue_CN,,0,0,0,,究竟发生了什么
+Dialogue: 2,0:03:32.10,0:03:33.28,Dialogue_CN,,0,0,0,,德尔加尔陛下
+Dialogue: 2,0:03:34.56,0:03:35.97,Dialogue_CN,,0,0,0,,得去寻找陛下
+Dialogue: 2,0:03:36.62,0:03:37.60,Dialogue_CN,,0,0,0,,德尔加尔?
+Dialogue: 2,0:03:38.25,0:03:38.70,Dialogue_CN,,0,0,0,,是谁…
+Dialogue: 2,0:03:38.70,0:03:39.75,Dialogue_CN,,0,0,0,,这片土地…
+Dialogue: 2,0:03:40.61,0:03:42.54,Dialogue_CN,,0,0,0,,这片土地之上
+Dialogue: 2,0:03:42.91,0:03:45.95,Dialogue_CN,,0,0,0,,建筑 金币 国民
+Dialogue: 2,0:03:46.23,0:03:49.24,Dialogue_CN,,0,0,0,,家畜 血 肉
+Dialogue: 2,0:03:50.36,0:03:54.51,Dialogue_CN,,0,0,0,,哪怕是你现在脚踩的每一粒沙子
+Dialogue: 2,0:03:55.37,0:04:00.79,Dialogue_CN,,0,0,0,,全部属于德尔加尔国王陛下 全都是他的所有物
+Dialogue: 2,0:04:03.37,0:04:05.76,Dialogue_CN,,0,0,0,,这肮脏的盗贼
+Dialogue: 2,0:04:06.92,0:04:09.39,Dialogue_CN,,0,0,0,,我对你这家伙有印象
+Dialogue: 2,0:04:10.08,0:04:12.56,Dialogue_CN,,0,0,0,,你在画像之中游荡过吧
+Dialogue: 2,0:04:13.26,0:04:14.34,Dialogue_CN,,0,0,0,,见过我?
+Dialogue: 2,0:04:14.70,0:04:15.66,Dialogue_CN,,0,0,0,,国王?
+Dialogue: 2,0:04:16.19,0:04:17.70,Dialogue_CN,,0,0,0,,画像之中?
+Dialogue: 2,0:04:18.47,0:04:19.83,Dialogue_CN,,0,0,0,,你是谁
+Dialogue: 2,0:04:20.20,0:04:21.91,Dialogue_CN,,0,0,0,,有什么目的
+Dialogue: 2,0:04:26.32,0:04:27.88,Dialogue_CN,,0,0,0,,迷宫的主人
+Dialogue: 2,0:04:28.93,0:04:30.87,Dialogue_CN,,0,0,0,,疯狂的魔法师
+Dialogue: 2,0:04:34.87,0:04:37.85,Dialogue_CN,,0,0,0,,那… 那边的家伙 给我走开
+Dialogue: 2,0:04:38.18,0:04:39.63,Dialogue_CN,,0,0,0,,下一次会命中
+Dialogue: 2,0:04:42.21,0:04:44.77,Dialogue_CN,,0,0,0,,这些篡权者
+Dialogue: 2,0:04:46.27,0:04:47.36,Dialogue_CN,,0,0,0,,法琳 能站起来吗
+Dialogue: 2,0:04:47.49,0:04:48.27,Dialogue_CN,,0,0,0,,法琳
+Dialogue: 2,0:04:50.05,0:04:50.90,Dialogue_CN,,0,0,0,,吵死了
+Dialogue: 2,0:04:55.00,0:04:56.26,Dialogue_CN,,0,0,0,,莱… 莱欧斯
+Dialogue: 2,0:04:56.51,0:04:57.99,Dialogue_CN,,0,0,0,,好强的力量
+Dialogue: 2,0:04:59.00,0:05:00.65,Dialogue_CN,,0,0,0,,这是在发生什么
+Dialogue: 2,0:05:01.15,0:05:02.64,Dialogue_CN,,0,0,0,,那家伙是冒险者吗
+Dialogue: 2,0:05:05.86,0:05:06.42,Dialogue_CN,,0,0,0,,书?
+Dialogue: 2,0:05:06.68,0:05:08.66,Dialogue_CN,,0,0,0,,有种很不好的预感
+Dialogue: 2,0:05:08.85,0:05:11.92,Dialogue_CN_Alt,,0,0,0,,Evunt Ornbam Romfes Roodbam
+Dialogue: 2,0:05:11.92,0:05:13.92,Dialogue_CN_Alt,,0,0,0,,Unt Leshfam
+Dialogue: 2,0:05:12.02,0:05:13.92,Dialogue_CN,,0,0,0,,喂 她是不是在念咒
+Dialogue: 2,0:05:14.21,0:05:17.10,Dialogue_CN_Alt,,0,0,0,,Evunt Ornbam Romfes Roodbam
+Dialogue: 2,0:05:17.10,0:05:18.74,Dialogue_CN_Alt,,0,0,0,,Unt Leshfam
+Dialogue: 2,0:05:17.44,0:05:19.17,Dialogue_CN,,0,0,0,,这吟唱…
+Dialogue: 2,0:05:19.49,0:05:22.44,Dialogue_CN_Alt,,0,0,0,,Evunt Ornbam Romfes Roodbam
+Dialogue: 2,0:05:22.44,0:05:23.68,Dialogue_CN_Alt,,0,0,0,,Unt Leshfam
+Dialogue: 2,0:05:23.99,0:05:25.56,Dialogue_CN,,0,0,0,,古代魔法
+Dialogue: 2,0:05:25.81,0:05:26.93,Dialogue_CN,,0,0,0,,吞灭他们
+Dialogue: 2,0:05:36.04,0:05:38.25,Dialogue_CN,,0,0,0,,爆炸魔法 防御魔法
+Dialogue: 2,0:05:38.46,0:05:40.38,Dialogue_CN,,0,0,0,,不行 这样还阻止不了它们
+Dialogue: 2,0:05:41.08,0:05:41.85,Dialogue_CN,,0,0,0,,那只有
+Dialogue: 2,0:05:48.17,0:05:50.34,Dialogue_CN,,0,0,0,,直接改写咒语
+Dialogue: 2,0:05:58.39,0:05:59.22,Dialogue_CN,,0,0,0,,解除
+Dialogue: 2,0:06:05.01,0:06:07.79,Dialogue_CN,,0,0,0,,解除 解除 解除 解除
+Dialogue: 2,0:06:08.54,0:06:10.00,Dialogue_CN,,0,0,0,,这古代魔法
+Dialogue: 2,0:06:10.29,0:06:12.06,Dialogue_CN,,0,0,0,,能明白 能理解
+Dialogue: 2,0:06:12.48,0:06:13.40,Dialogue_CN,,0,0,0,,但是…
+Dialogue: 2,0:06:17.49,0:06:19.90,Dialogue_CN,,0,0,0,,就是应付不过来
+Dialogue: 2,0:06:40.30,0:06:43.23,Dialogue_CN,,0,0,0,,是… 是你创造了这迷宫吗
+Dialogue: 2,0:06:44.71,0:06:47.09,Dialogue_CN,,0,0,0,,我想与你谈一…
+Dialogue: 2,0:07:07.49,0:07:09.11,Dialogue_CN,,0,0,0,,不用感到不安
+Dialogue: 2,0:07:09.43,0:07:10.77,Dialogue_CN,,0,0,0,,叛贼已经不在了
+Dialogue: 2,0:07:13.06,0:07:15.52,Dialogue_CN,,0,0,0,,陛下也会很快回到这里
+Dialogue: 2,0:07:15.92,0:07:18.25,Dialogue_CN,,0,0,0,,到那时我们隆重庆祝一下
+Dialogue: 2,0:07:20.72,0:07:21.60,Dialogue_CN,,0,0,0,,喂 龙
+Dialogue: 2,0:07:24.98,0:07:26.65,Dialogue_CN,,0,0,0,,这样多不方便
+Dialogue: 2,0:07:27.32,0:07:29.88,Dialogue_CN,,0,0,0,,给予你一副新的模样
+Dialogue: 2,0:07:38.81,0:07:40.77,Dialogue_CN,,0,0,0,,完成你该完成的事
+Dialogue: 2,0:07:42.82,0:07:43.74,Dialogue_CN,,0,0,0,,是
+Dialogue: 2,0:07:47.05,0:07:48.12,Dialogue_CN,,0,0,0,,痛
+Dialogue: 2,0:07:48.54,0:07:49.90,Dialogue_CN,,0,0,0,,发生了什么事
+Dialogue: 2,0:07:50.12,0:07:52.17,Dialogue_CN,,0,0,0,,等一下 我来照明
+Dialogue: 2,0:07:56.19,0:07:57.79,Dialogue_CN,,0,0,0,,这里是哪
+Dialogue: 2,0:07:58.12,0:08:00.24,Dialogue_CN,,0,0,0,,我们从哪里掉下来的
+Dialogue: 2,0:08:00.96,0:08:02.00,Dialogue_CN,,0,0,0,,这什么情况
+Dialogue: 2,0:08:02.32,0:08:03.24,Dialogue_CN,,0,0,0,,出口呢
+Dialogue: 2,0:08:05.32,0:08:06.10,Dialogue_CN,,0,0,0,,怎么了
+Dialogue: 2,0:08:07.17,0:08:08.60,Dialogue_CN,,0,0,0,,墙壁是不是在靠近
+Dialogue: 2,0:08:08.60,0:08:10.55,Dialogue_CN,,0,0,0,,开玩笑吧 该死
+Dialogue: 2,0:08:10.77,0:08:12.69,Dialogue_CN,,0,0,0,,出口 快找出口
+Dialogue: 2,0:08:12.69,0:08:13.47,Dialogue_CN,,0,0,0,,在哪
+Dialogue: 2,0:08:13.47,0:08:15.33,Dialogue_CN,,0,0,0,,能不能用魔法想想办法
+Dialogue: 2,0:08:15.33,0:08:17.31,Dialogue_CN,,0,0,0,,你就说用什么魔法吧
+Dialogue: 2,0:08:25.97,0:08:26.94,Dialogue_CN,,0,0,0,,要死
+Dialogue: 2,0:08:27.40,0:08:29.41,Dialogue_CN,,0,0,0,,虽然不是第一次死亡
+Dialogue: 2,0:08:29.41,0:08:31.73,Dialogue_CN,,0,0,0,,可死在石头之中 没人会找到
+Dialogue: 2,0:08:32.81,0:08:34.97,Dialogue_CN,,0,0,0,,好不容易见到了法琳
+Dialogue: 2,0:08:35.36,0:08:37.38,Dialogue_CN,,0,0,0,,也接近了迷宫的真相
+Dialogue: 2,0:08:37.60,0:08:39.76,Dialogue_CN,,0,0,0,,一切都要没有意义了
+Dialogue: 2,0:08:40.49,0:08:43.07,Dialogue_CN,,0,0,0,,这样的结局…
+Dialogue: 2,0:08:47.11,0:08:48.20,Dialogue_CN,,0,0,0,,玛露希尔
+Dialogue: 2,0:08:50.53,0:08:52.91,Dialogue_CN,,0,0,0,,有空洞 可以从那里出去
+Dialogue: 2,0:08:53.73,0:08:56.02,Dialogue_CN,,0,0,0,,不知道这会通往哪里
+Dialogue: 2,0:08:56.02,0:08:58.48,Dialogue_CN,,0,0,0,,比起被压成肉饼 怎么样都好
+Dialogue: 2,0:08:58.48,0:09:00.45,Dialogue_CN,,0,0,0,,你倒是快点
+Dialogue: 2,0:09:09.21,0:09:10.57,Dialogue_CN,,0,0,0,,这是哪里
+Dialogue: 2,0:09:11.21,0:09:11.98,Dialogue_CN,,0,0,0,,好冷
+Dialogue: 2,0:09:13.97,0:09:16.46,Dialogue_CN,,0,0,0,,总… 总之要先离开这里
+Dialogue: 2,0:09:16.64,0:09:17.40,Dialogue_CN,,0,0,0,,不行了
+Dialogue: 2,0:09:17.70,0:09:20.87,Dialogue_CN,,0,0,0,,一根手指都动不了
+Dialogue: 2,0:09:21.33,0:09:22.96,Dialogue_CN,,0,0,0,,不行 努努力
+Dialogue: 2,0:09:23.21,0:09:24.86,Dialogue_CN,,0,0,0,,要是再被那家伙发现…
+Dialogue: 2,0:09:32.82,0:09:34.69,Dialogue_CN,,0,0,0,,完… 完了
+Dialogue: 2,0:09:38.56,0:09:40.59,Dialogue_CN,,0,0,0,,没事的
+Dialogue: 2,0:09:42.44,0:09:44.94,Dialogue_CN,,0,0,0,,不用担心
+Dialogue: 2,0:09:47.50,0:09:49.14,Dialogue_CN,,0,0,0,,消… 消失了
+Dialogue: 2,0:09:50.16,0:09:52.95,Dialogue_CN,,0,0,0,,该死 感觉脑子要不正常了
+Dialogue: 2,0:09:54.64,0:09:55.41,Dialogue_CN,,0,0,0,,先西
+Dialogue: 2,0:09:55.96,0:09:57.40,Dialogue_CN,,0,0,0,,把莱欧斯弄醒吧
+Dialogue: 2,0:09:58.05,0:10:00.06,Dialogue_CN,,0,0,0,,我去调查一下附近的情…
+Dialogue: 2,0:10:06.13,0:10:07.20,Dialogue_CN,,0,0,0,,捉… 捉住他
+Dialogue: 2,0:10:07.20,0:10:09.13,Dialogue_CN,,0,0,0,,这群家伙 从哪里溜进来的
+Dialogue: 2,0:10:09.69,0:10:10.92,Dialogue_CN,,0,0,0,,还有长耳朵的
+Dialogue: 2,0:10:11.24,0:10:12.18,Dialogue_CN,,0,0,0,,跑到那边去了
+Dialogue: 2,0:10:12.18,0:10:13.49,Dialogue_CN,,0,0,0,,这群家伙
+Dialogue: 2,0:10:13.92,0:10:15.00,Dialogue_CN,,0,0,0,,你们吵死了
+Dialogue: 2,0:10:15.74,0:10:16.76,Dialogue_CN,,0,0,0,,什么事
+Dialogue: 2,0:10:16.96,0:10:18.25,Dialogue_CN,,0,0,0,,有鼹鼠 队长
+Dialogue: 2,0:10:18.62,0:10:20.00,Dialogue_CN,,0,0,0,,从哪里跑出来的
+Dialogue: 2,0:10:20.21,0:10:21.77,Dialogue_CN,,0,0,0,,站岗的干什么去了
+Dialogue: 2,0:10:22.43,0:10:24.73,Dialogue_CN,,0,0,0,,我们也不知怎么回事
+Dialogue: 2,0:10:24.92,0:10:26.37,Dialogue_CN,,0,0,0,,洞已经封住了
+Dialogue: 2,0:10:26.55,0:10:27.49,Dialogue_CN,,0,0,0,,算了
+Dialogue: 2,0:10:28.31,0:10:29.52,Dialogue_CN,,0,0,0,,小人
+Dialogue: 2,0:10:30.43,0:10:31.82,Dialogue_CN,,0,0,0,,地底人
+Dialogue: 2,0:10:32.25,0:10:33.61,Dialogue_CN,,0,0,0,,长腿
+Dialogue: 2,0:10:34.17,0:10:35.21,Dialogue_CN,,0,0,0,,长耳朵
+Dialogue: 2,0:10:35.72,0:10:36.86,Dialogue_CN,,0,0,0,,真有意思
+Dialogue: 2,0:10:37.15,0:10:39.45,Dialogue_CN,,0,0,0,,还是第一次杀长耳朵的
+Dialogue: 2,0:10:39.68,0:10:40.83,Dialogue_CN,,0,0,0,,我来动手
+Dialogue: 2,0:10:41.12,0:10:43.03,Dialogue_CN,,0,0,0,,小人喂给狗就好
+Dialogue: 2,0:10:43.22,0:10:45.33,Dialogue_CN,,0,0,0,,这些家伙很久没娱乐了
+Dialogue: 2,0:10:45.73,0:10:46.46,Dialogue_CN,,0,0,0,,等等
+Dialogue: 2,0:10:46.67,0:10:50.34,Dialogue_CN,,0,0,0,,这位是祖恩族长的妹妹吧
+Dialogue: 2,0:10:50.84,0:10:54.76,Dialogue_CN,,0,0,0,,我们来这里是为了完成与族长的约定
+Dialogue: 2,0:10:55.00,0:10:56.89,Dialogue_CN,,0,0,0,,希望您网开一面
+Dialogue: 2,0:10:58.39,0:10:59.83,Dialogue_CN,,0,0,0,,你怎么知道他名字
+Dialogue: 2,0:11:05.30,0:11:06.85,Dialogue_CN,,0,0,0,,你是卖菜的啊
+Dialogue: 2,0:11:07.00,0:11:09.48,Dialogue_CN,,0,0,0,,气味不太一样 之前都没发现
+Dialogue: 2,0:11:10.08,0:11:12.85,Dialogue_CN,,0,0,0,,你竟然跑到了这种地方来
+Dialogue: 2,0:11:13.38,0:11:15.33,Dialogue_CN,,0,0,0,,与族长有什么约定
+Dialogue: 2,0:11:17.79,0:11:18.74,Dialogue_CN,,0,0,0,,原来如此
+Dialogue: 2,0:11:19.14,0:11:21.07,Dialogue_CN,,0,0,0,,原来发生了这种事
+Dialogue: 2,0:11:21.55,0:11:25.40,Dialogue_CN,,0,0,0,,龙突然就不见了 就觉得有些不对劲
+Dialogue: 2,0:11:26.49,0:11:28.55,Dialogue_CN,,0,0,0,,我代族长向你们致谢
+Dialogue: 2,0:11:28.97,0:11:30.28,Dialogue_CN,,0,0,0,,准备配药
+Dialogue: 2,0:11:39.14,0:11:40.19,Dialogue_CN,,0,0,0,,完成了
+Dialogue: 2,0:12:02.10,0:12:02.85,Dialogue_CN,,0,0,0,,那什么
+Dialogue: 2,0:12:03.79,0:12:05.75,Dialogue_CN,,0,0,0,,我… 我寄是
+Dialogue: 2,0:12:06.78,0:12:08.54,Dialogue_CN,,0,0,0,,寄是用尽了魔…
+Dialogue: 2,0:12:09.48,0:12:10.17,Dialogue_CN,,0,0,0,,力
+Dialogue: 2,0:12:18.49,0:12:19.55,Dialogue_CN,,0,0,0,,听我说
+Dialogue: 2,0:12:19.80,0:12:22.95,Dialogue_CN,,0,0,0,,我们被一个精灵魔法师袭击了
+Dialogue: 2,0:12:23.71,0:12:25.68,Dialogue_CN,,0,0,0,,你们对那家伙有没有了解
+Dialogue: 2,0:12:25.68,0:12:27.05,Dialogue_CN,,0,0,0,,遇见了那家伙吗
+Dialogue: 2,0:12:27.65,0:12:30.75,Dialogue_CN,,0,0,0,,就是 褐色皮肤 银发
+Dialogue: 2,0:12:30.75,0:12:31.69,Dialogue_CN,,0,0,0,,没错了
+Dialogue: 2,0:12:32.49,0:12:34.37,Dialogue_CN,,0,0,0,,详细的情况我们也不知道
+Dialogue: 2,0:12:35.05,0:12:38.03,Dialogue_CN,,0,0,0,,我们来这里居住之前 那家伙就在这里
+Dialogue: 2,0:12:38.34,0:12:40.37,Dialogue_CN,,0,0,0,,好像控制着整个迷宫
+Dialogue: 2,0:12:41.02,0:12:45.25,Dialogue_CN,,0,0,0,,如果迷宫之外的人对迷宫进行过度干涉
+Dialogue: 2,0:12:45.55,0:12:46.83,Dialogue_CN,,0,0,0,,那家伙就会出现
+Dialogue: 2,0:12:47.99,0:12:51.94,Dialogue_CN,,0,0,0,,创造魔物 自由操纵 改变地形
+Dialogue: 2,0:12:52.24,0:12:55.36,Dialogue_CN,,0,0,0,,只是翻书就能杀死任何生物
+Dialogue: 2,0:12:56.58,0:12:58.28,Dialogue_CN,,0,0,0,,迷宫的支配者
+Dialogue: 2,0:12:58.77,0:12:59.68,Dialogue_CN,,0,0,0,,这么说…
+Dialogue: 2,0:13:00.34,0:13:04.11,Dialogue_CN,,0,0,0,,我们这是被疯狂的魔法师给盯上了吗
+Dialogue: 2,0:13:04.47,0:13:05.74,Dialogue_CN,,0,0,0,,开什么玩笑
+Dialogue: 2,0:13:05.91,0:13:08.56,Dialogue_CN,,0,0,0,,该死 得马上想办法离开
+Dialogue: 2,0:13:09.06,0:13:11.28,Dialogue_CN,,0,0,0,,是玛露希尔的魔法引来的吗
+Dialogue: 2,0:13:11.63,0:13:14.22,Dialogue_CN,,0,0,0,,不对 怪我们打败了红龙?
+Dialogue: 2,0:13:14.94,0:13:17.72,Dialogue_CN,,0,0,0,,那家伙操纵着几个不同的魔物
+Dialogue: 2,0:13:17.84,0:13:20.44,Dialogue_CN,,0,0,0,,要是杀死那些魔物 那家伙会生气
+Dialogue: 2,0:13:20.90,0:13:22.73,Dialogue_CN,,0,0,0,,哥哥对此有所警惕
+Dialogue: 2,0:13:22.92,0:13:26.84,Dialogue_CN,,0,0,0,,所以告诉我们不要对红龙动手
+Dialogue: 2,0:13:27.61,0:13:29.72,Dialogue_CN,,0,0,0,,哥哥总是正确的
+Dialogue: 2,0:13:29.72,0:13:31.06,Dialogue_CN,,0,0,0,,那个混蛋
+Dialogue: 2,0:13:31.87,0:13:33.51,Dialogue_CN,,0,0,0,,等两个人醒过来
+Dialogue: 2,0:13:33.51,0:13:35.49,Dialogue_CN,,0,0,0,,肯定还是想去找法琳
+Dialogue: 2,0:13:36.19,0:13:38.34,Dialogue_CN,,0,0,0,,必须想办法让他们放弃
+Dialogue: 2,0:13:38.87,0:13:39.94,Dialogue_CN,,0,0,0,,办法呢
+Dialogue: 2,0:13:40.23,0:13:41.42,Dialogue_CN,,0,0,0,,怎么样都行
+Dialogue: 2,0:13:41.56,0:13:42.86,Dialogue_CN,,0,0,0,,把法杖烧了
+Dialogue: 2,0:13:42.86,0:13:45.22,Dialogue_CN,,0,0,0,,要不就说看到法琳往地上走了
+Dialogue: 2,0:13:45.51,0:13:48.67,Dialogue_CN,,0,0,0,,或者是吃过龙肉 感觉足够满足了
+Dialogue: 2,0:13:49.70,0:13:51.43,Dialogue_CN,,0,0,0,,要骗他们俩吗
+Dialogue: 2,0:13:52.06,0:13:53.08,Dialogue_CN,,0,0,0,,就是骗
+Dialogue: 2,0:13:53.08,0:13:56.39,Dialogue_CN,,0,0,0,,不这么做 这两个笨蛋绝对不会放弃
+Dialogue: 2,0:13:56.69,0:13:59.96,Dialogue_CN,,0,0,0,,继续这样下去 我们肯定会被杀死
+Dialogue: 2,0:13:59.96,0:14:01.62,Dialogue_CN,,0,0,0,,你想成为墙壁的一部分吗
+Dialogue: 2,0:14:01.79,0:14:03.27,Dialogue_CN,,0,0,0,,我可是不想
+Dialogue: 2,0:14:03.69,0:14:04.19,Dialogue_CN,,0,0,0,,实…
+Dialogue: 2,0:14:09.97,0:14:12.79,Dialogue_CN,,0,0,0,,我可不想陪着他们一起去送死
+Dialogue: 2,0:14:14.58,0:14:15.63,Dialogue_CN,,0,0,0,,听我说
+Dialogue: 2,0:14:16.04,0:14:18.25,Dialogue_CN,,0,0,0,,我想回收一下没带走的行李
+Dialogue: 2,0:14:19.00,0:14:20.59,Dialogue_CN,,0,0,0,,能不能带一下路
+Dialogue: 2,0:14:23.53,0:14:24.52,Dialogue_CN,,0,0,0,,我拒绝
+Dialogue: 2,0:14:24.83,0:14:27.79,Dialogue_CN,,0,0,0,,受不了你这没出息的德性
+Dialogue: 2,0:14:29.41,0:14:31.04,Dialogue_CN,,0,0,0,,我也想拜托你
+Dialogue: 2,0:14:31.40,0:14:33.02,Dialogue_CN,,0,0,0,,能带他去一下吗
+Dialogue: 2,0:14:33.52,0:14:36.24,Dialogue_CN,,0,0,0,,他虽然胆小 但本性并不坏
+Dialogue: 2,0:14:36.39,0:14:38.94,Dialogue_CN,,0,0,0,,先西 你不和我一起吗
+Dialogue: 2,0:14:39.44,0:14:42.47,Dialogue_CN,,0,0,0,,也需要有人留在他俩身边吧
+Dialogue: 2,0:14:42.89,0:14:43.44,Dialogue_CN,,0,0,0,,你…
+Dialogue: 2,0:14:48.06,0:14:50.45,Dialogue_CN,,0,0,0,,你都这么说了 那好吧
+Dialogue: 2,0:14:51.01,0:14:53.39,Dialogue_CN,,0,0,0,,勉强给你带个路吧
+Dialogue: 2,0:15:00.99,0:15:01.64,Dialogue_CN,,0,0,0,,该死
+Dialogue: 2,0:15:02.63,0:15:05.35,Dialogue_CN,,0,0,0,,一个个都是蠢货 蠢死了
+Dialogue: 2,0:15:06.10,0:15:07.83,Dialogue_CN,,0,0,0,,和同伴分开了吗
+Dialogue: 2,0:15:08.68,0:15:09.76,Dialogue_CN,,0,0,0,,是这样
+Dialogue: 2,0:15:10.36,0:15:14.11,Dialogue_CN,,0,0,0,,最后看到她的时候 她倒在魔法师身前
+Dialogue: 2,0:15:14.62,0:15:16.42,Dialogue_CN,,0,0,0,,这怎么能乐观起来
+Dialogue: 2,0:15:17.64,0:15:20.50,Dialogue_CN,,0,0,0,,这也不是你欺骗同伴的借口
+Dialogue: 2,0:15:21.88,0:15:24.28,Dialogue_CN,,0,0,0,,没关系的人想怎么说就怎么说
+Dialogue: 2,0:15:25.27,0:15:26.98,Dialogue_CN,,0,0,0,,不是 我不是这个意思
+Dialogue: 2,0:15:28.13,0:15:28.92,Dialogue_CN,,0,0,0,,背后
+Dialogue: 2,0:15:36.31,0:15:36.82,Dialogue_CN,,0,0,0,,别闹腾
+Dialogue: 2,0:15:36.82,0:15:37.84,Dialogue_CN,,0,0,0,,好… 好冷
+Dialogue: 2,0:15:38.53,0:15:40.56,Dialogue_CN,,0,0,0,,那是这城里的居民
+Dialogue: 2,0:15:41.32,0:15:44.02,Dialogue_CN,,0,0,0,,这附近的幽灵还能够保持理智
+Dialogue: 2,0:15:44.36,0:15:46.84,Dialogue_CN,,0,0,0,,只会在想让人看到的时候出现
+Dialogue: 2,0:15:47.95,0:15:50.11,Dialogue_CN,,0,0,0,,他们走的路线是安全的
+Dialogue: 2,0:15:50.44,0:15:51.38,Dialogue_CN,,0,0,0,,跟上吧
+Dialogue: 2,0:15:51.74,0:15:52.34,Dialogue_CN,,0,0,0,,等…
+Dialogue: 2,0:15:55.56,0:15:56.69,Dialogue_CN,,0,0,0,,真的假的
+Dialogue: 2,0:16:07.88,0:16:08.68,Dialogue_CN,,0,0,0,,那边
+Dialogue: 2,0:16:09.02,0:16:10.65,Dialogue_CN,,0,0,0,,我们刚才就在那
+Dialogue: 2,0:16:11.21,0:16:13.14,Dialogue_CN,,0,0,0,,红龙消失了
+Dialogue: 2,0:16:14.18,0:16:17.22,Dialogue_CN,,0,0,0,,该不会是复活了吧
+Dialogue: 2,0:16:17.39,0:16:17.98,Dialogue_CN,,0,0,0,,不会
+Dialogue: 2,0:16:18.35,0:16:20.67,Dialogue_CN,,0,0,0,,狗并没有进入警戒状态
+Dialogue: 2,0:16:21.14,0:16:23.95,Dialogue_CN,,0,0,0,,要么是魔法师消除了 要么就是带走了
+Dialogue: 2,0:16:24.63,0:16:26.71,Dialogue_CN,,0,0,0,,好像有爆炸留下的痕迹
+Dialogue: 2,0:16:27.14,0:16:30.75,Dialogue_CN,,0,0,0,,在龙的燃料袋旁用了火 给点着了
+Dialogue: 2,0:16:31.39,0:16:32.91,Dialogue_CN,,0,0,0,,这都能没事吗
+Dialogue: 2,0:16:33.57,0:16:37.27,Dialogue_CN,,0,0,0,,我们的一位同伴在那一瞬间用了防御魔法
+Dialogue: 2,0:16:37.53,0:16:38.75,Dialogue_CN,,0,0,0,,没出什么事
+Dialogue: 2,0:16:39.49,0:16:41.79,Dialogue_CN,,0,0,0,,你的同伴还挺厉害的
+Dialogue: 2,0:16:42.39,0:16:44.20,Dialogue_CN,,0,0,0,,没你想得那么好
+Dialogue: 2,0:16:44.79,0:16:47.95,Dialogue_CN,,0,0,0,,她自己都不知道自己能使用那种魔法
+Dialogue: 2,0:16:48.19,0:16:51.08,Dialogue_CN,,0,0,0,,负责治疗还跑过来 我们差点全军覆灭
+Dialogue: 2,0:16:51.72,0:16:53.48,Dialogue_CN,,0,0,0,,结果是没有出事
+Dialogue: 2,0:16:53.90,0:16:56.44,Dialogue_CN,,0,0,0,,要是失败了 都怪她冒失
+Dialogue: 2,0:16:57.69,0:16:59.76,Dialogue_CN,,0,0,0,,就是这样一群家伙
+Dialogue: 2,0:17:02.74,0:17:03.76,Dialogue_CN,,0,0,0,,话说回来
+Dialogue: 2,0:17:04.05,0:17:07.30,Dialogue_CN,,0,0,0,,就凭你们几个 是怎么打败红龙的
+Dialogue: 2,0:17:08.26,0:17:10.02,Dialogue_CN,,0,0,0,,我和先西吸引注意力
+Dialogue: 2,0:17:10.19,0:17:11.55,Dialogue_CN,,0,0,0,,趁此机会 莱欧斯…
+Dialogue: 2,0:17:11.98,0:17:15.44,Dialogue_CN,,0,0,0,,长身人同伴跳到了红龙的身前
+Dialogue: 2,0:17:15.44,0:17:16.87,Dialogue_CN,,0,0,0,,好像这样给了致命一击
+Dialogue: 2,0:17:17.13,0:17:18.66,Dialogue_CN,,0,0,0,,那还真厉害
+Dialogue: 2,0:17:19.04,0:17:22.18,Dialogue_CN,,0,0,0,,战士 就应当这样英勇
+Dialogue: 2,0:17:22.81,0:17:24.55,Dialogue_CN,,0,0,0,,那可不是勇气
+Dialogue: 2,0:17:25.32,0:17:27.35,Dialogue_CN,,0,0,0,,结果虽然是成功了
+Dialogue: 2,0:17:27.62,0:17:28.99,Dialogue_CN,,0,0,0,,但计谋太过愚蠢
+Dialogue: 2,0:17:29.77,0:17:31.43,Dialogue_CN,,0,0,0,,真的吓到我了
+Dialogue: 2,0:17:31.84,0:17:35.00,Dialogue_CN,,0,0,0,,会做出如此决策的人今后会怎么样
+Dialogue: 2,0:17:35.95,0:17:38.51,Dialogue_CN,,0,0,0,,也有同伴之前就离开了小队
+Dialogue: 2,0:17:40.84,0:17:44.55,Dialogue_CN,,0,0,0,,现在想来 或许他们的做法更为明智
+Dialogue: 2,0:17:45.36,0:17:48.69,Dialogue_CN,,0,0,0,,或许我不该坚持 在那时也离开小队就好了
+Dialogue: 2,0:17:50.27,0:17:51.34,Dialogue_CN,,0,0,0,,你觉得为此
+Dialogue: 2,0:17:51.91,0:17:54.08,Dialogue_CN,,0,0,0,,就算失去同伴也无所谓吗
+Dialogue: 2,0:17:56.36,0:17:58.44,Dialogue_CN,,0,0,0,,我不知道 说不定…
+Dialogue: 2,0:17:59.15,0:18:01.37,Dialogue_CN,,0,0,0,,就是因为我决定跟随他们
+Dialogue: 2,0:18:01.85,0:18:03.89,Dialogue_CN,,0,0,0,,那家伙才不好选择放弃吧
+Dialogue: 2,0:18:06.05,0:18:08.54,Dialogue_CN,,0,0,0,,那之后发生了什么呢
+Dialogue: 2,0:18:09.64,0:18:11.94,Dialogue_CN,,0,0,0,,伤口之类的全都治疗完
+Dialogue: 2,0:18:12.92,0:18:13.93,Dialogue_CN,,0,0,0,,就在这房间里
+Dialogue: 2,0:18:19.26,0:18:21.44,Dialogue_CN,,0,0,0,,用龙肉做了菜一起吃
+Dialogue: 2,0:18:22.03,0:18:23.08,Dialogue_CN,,0,0,0,,那还挺好的
+Dialogue: 2,0:18:23.27,0:18:25.17,Dialogue_CN,,0,0,0,,击败龙获得的特权
+Dialogue: 2,0:18:29.06,0:18:31.75,Dialogue_CN,,0,0,0,,魔法师是在那之后出现的吗
+Dialogue: 2,0:18:32.12,0:18:34.41,Dialogue_CN,,0,0,0,,你们是怎么死里逃生的
+Dialogue: 2,0:18:35.74,0:18:37.26,Dialogue_CN,,0,0,0,,魔法师同伴
+Dialogue: 2,0:18:37.44,0:18:39.34,Dialogue_CN,,0,0,0,,帮我们阻挡了攻击
+Dialogue: 2,0:18:40.17,0:18:41.62,Dialogue_CN,,0,0,0,,那长耳朵吗
+Dialogue: 2,0:18:41.83,0:18:44.31,Dialogue_CN,,0,0,0,,她看起来还挺傻的呢
+Dialogue: 2,0:18:44.31,0:18:46.02,Dialogue_CN,,0,0,0,,就是有点傻
+Dialogue: 2,0:18:46.30,0:18:48.24,Dialogue_CN,,0,0,0,,还用那么可疑的魔法
+Dialogue: 2,0:18:48.24,0:18:49.94,Dialogue_CN,,0,0,0,,就算是离开了迷宫
+Dialogue: 2,0:18:50.11,0:18:52.80,Dialogue_CN,,0,0,0,,肯定也过不了正常人的生活
+Dialogue: 2,0:18:53.69,0:18:57.25,Dialogue_CN,,0,0,0,,他们一个个的 又是蠢 又是笨
+Dialogue: 2,0:18:57.88,0:18:59.06,Dialogue_CN,,0,0,0,,傻得不行
+Dialogue: 2,0:18:59.83,0:19:02.36,Dialogue_CN,,0,0,0,,以为只要拼命 做什么都能有结果
+Dialogue: 2,0:19:02.74,0:19:03.75,Dialogue_CN,,0,0,0,,这样一群家伙
+Dialogue: 2,0:19:03.75,0:19:05.75,Dialogue_CN,,0,0,0,,怎么跟他们好好讲道理
+Dialogue: 2,0:19:06.75,0:19:08.36,Dialogue_CN,,0,0,0,,所以想撒谎吗
+Dialogue: 2,0:19:09.04,0:19:11.17,Dialogue_CN,,0,0,0,,还有更好的交流方式
+Dialogue: 2,0:19:12.40,0:19:15.94,Dialogue_CN,,0,0,0,,要是撒个谎就能回到地面 可真是太好了
+Dialogue: 2,0:19:15.94,0:19:17.51,Dialogue_CN,,0,0,0,,反正我那么胆小
+Dialogue: 2,0:19:17.78,0:19:20.39,Dialogue_CN,,0,0,0,,自己的命可比什么都重要
+Dialogue: 2,0:19:21.02,0:19:22.52,Dialogue_CN,,0,0,0,,不是这样
+Dialogue: 2,0:19:24.98,0:19:27.78,Dialogue_CN,,0,0,0,,你就直说不想让他们赴死 不就好了
+Dialogue: 2,0:19:41.15,0:19:43.45,Dialogue_CN,,0,0,0,,这混蛋 怎么在这里
+Dialogue: 2,0:19:44.17,0:19:46.42,Dialogue_CN,,0,0,0,,一路爬到这里来了吗
+Dialogue: 2,0:19:52.00,0:19:55.73,Dialogue_CN,,0,0,0,,在我们当中 你是最聪明的那一个了
+Dialogue: 2,0:19:59.58,0:20:00.70,Dialogue_CN,,0,0,0,,血的痕迹
+Dialogue: 2,0:20:01.67,0:20:03.61,Dialogue_CN,,0,0,0,,好像拖过尸体一样
+Dialogue: 2,0:20:04.50,0:20:05.27,Dialogue_CN,,0,0,0,,喂
+Dialogue: 2,0:20:05.82,0:20:06.90,Dialogue_CN,,0,0,0,,要不管你了哦
+Dialogue: 2,0:20:07.65,0:20:08.96,Dialogue_CN,,0,0,0,,来… 来了
+Dialogue: 2,0:20:15.59,0:20:17.59,Dialogue_CN,,0,0,0,,我把行李带回来了
+Dialogue: 2,0:20:20.85,0:20:22.00,Dialogue_CN,,0,0,0,,你在做什么
+Dialogue: 2,0:20:22.00,0:20:23.75,Dialogue_CN,,0,0,0,,能不能躺好了
+Dialogue: 2,0:20:23.91,0:20:25.20,Dialogue_CN,,0,0,0,,哪里都不痛
+Dialogue: 2,0:20:25.20,0:20:28.28,Dialogue_CN,,0,0,0,,你这只是吃了药麻痹了痛觉而已
+Dialogue: 2,0:20:28.28,0:20:30.80,Dialogue_CN,,0,0,0,,法琳应该还在附近
+Dialogue: 2,0:20:32.21,0:20:33.58,Dialogue_CN,,0,0,0,,冷静一点
+Dialogue: 2,0:20:40.49,0:20:42.00,Dialogue_CN,,0,0,0,,有话跟你俩说
+Dialogue: 2,0:20:42.88,0:20:45.60,Dialogue_CN,,0,0,0,,奇尔查克 我想了想…
+Dialogue: 2,0:20:46.53,0:20:48.54,Dialogue_CN,,0,0,0,,让我先说一下吧
+Dialogue: 2,0:20:50.80,0:20:51.55,Dialogue_CN,,0,0,0,,莱欧斯
+Dialogue: 2,0:20:52.97,0:20:56.25,Dialogue_CN,,0,0,0,,你现在的感受 我都不敢去想象
+Dialogue: 2,0:20:57.15,0:21:00.68,Dialogue_CN,,0,0,0,,但凭借现在的我们 是无法继续再探索了
+Dialogue: 2,0:21:02.23,0:21:05.02,Dialogue_CN,,0,0,0,,肯定会有人死去
+Dialogue: 2,0:21:06.92,0:21:08.59,Dialogue_CN,,0,0,0,,拜托了 莱欧斯
+Dialogue: 2,0:21:10.34,0:21:13.12,Dialogue_CN,,0,0,0,,请你忍耐一下 一起回到地面吧
+Dialogue: 2,0:21:13.48,0:21:15.64,Dialogue_CN,,0,0,0,,我不想失去你们
+Dialogue: 2,0:21:15.88,0:21:19.10,Dialogue_CN,,0,0,0,,或许比不上你有多么关心自己的妹妹
+Dialogue: 2,0:21:19.28,0:21:20.55,Dialogue_CN,,0,0,0,,但你们是三个人
+Dialogue: 2,0:21:20.90,0:21:24.29,Dialogue_CN,,0,0,0,,只要我们说遇见了疯狂的魔法师 岛主或许会出面
+Dialogue: 2,0:21:24.53,0:21:26.94,Dialogue_CN,,0,0,0,,拿出钱来 雇佣一些人也好
+Dialogue: 2,0:21:27.33,0:21:31.16,Dialogue_CN,,0,0,0,,只要准备好 应该能更快来到这一层
+Dialogue: 2,0:21:32.01,0:21:34.72,Dialogue_CN,,0,0,0,,所以 拜托了
+Dialogue: 2,0:21:36.47,0:21:38.92,Dialogue_CN,,0,0,0,,我们回去吧 莱欧斯
+Dialogue: 2,0:21:43.57,0:21:45.20,Dialogue_CN,,0,0,0,,说句实话
+Dialogue: 2,0:21:45.62,0:21:49.71,Dialogue_CN,,0,0,0,,包括调味品 我们的食材也有些不够了
+Dialogue: 2,0:21:50.36,0:21:53.91,Dialogue_CN,,0,0,0,,也想为法琳准备一些真正好吃的料理
+Dialogue: 2,0:21:54.24,0:21:57.17,Dialogue_CN,,0,0,0,,是该回到村上 补充一下物资
+Dialogue: 2,0:21:59.58,0:22:02.30,Dialogue_CN,,0,0,0,,已经派人去传信 说红龙被击败
+Dialogue: 2,0:22:03.14,0:22:04.91,Dialogue_CN,,0,0,0,,哥哥他们也会回来吧
+Dialogue: 2,0:22:05.53,0:22:07.44,Dialogue_CN,,0,0,0,,等你们准备好以后
+Dialogue: 2,0:22:07.74,0:22:09.45,Dialogue_CN,,0,0,0,,再次来到这里
+Dialogue: 2,0:22:10.20,0:22:13.30,Dialogue_CN,,0,0,0,,我们也会尽可能想办法帮忙
+Dialogue: 2,0:22:16.73,0:22:17.48,Dialogue_CN,,0,0,0,,明白了
+Dialogue: 2,0:22:20.76,0:22:23.13,Dialogue_CN,,0,0,0,,很抱歉 让你担心了
+Dialogue: 2,0:22:24.71,0:22:26.54,Dialogue_CN,,0,0,0,,就先回去一趟吧
+Dialogue: 2,0:22:29.01,0:22:29.60,Dialogue_CN,,0,0,0,,嗯
+Comment: 0,0:16:39.77,0:16:39.81,Default,,0,0,0,,Screen
+Dialogue: 0,0:01:32.61,0:01:33.62,Screen,,0,0,0,,{\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,294)}无骨龙肉火腿
+Dialogue: 0,0:01:33.61,0:01:33.65,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,294)}无骨龙肉火腿
+Dialogue: 0,0:01:33.65,0:01:33.69,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,296.35)}无骨龙肉火腿
+Dialogue: 0,0:01:33.69,0:01:33.74,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,302.25)}无骨龙肉火腿
+Dialogue: 0,0:01:33.74,0:01:33.78,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,310.49)}无骨龙肉火腿
+Dialogue: 0,0:01:33.78,0:01:33.82,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,320.53)}无骨龙肉火腿
+Dialogue: 0,0:01:33.82,0:01:33.86,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,332.19)}无骨龙肉火腿
+Dialogue: 0,0:01:33.86,0:01:33.90,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,344.8)}无骨龙肉火腿
+Dialogue: 0,0:01:33.90,0:01:33.94,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,358.41)}无骨龙肉火腿
+Dialogue: 0,0:01:33.94,0:01:33.99,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,372.72)}无骨龙肉火腿
+Dialogue: 0,0:01:33.99,0:01:34.03,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,387.79)}无骨龙肉火腿
+Dialogue: 0,0:01:34.03,0:01:34.07,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,403.39)}无骨龙肉火腿
+Dialogue: 0,0:01:34.07,0:01:34.11,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412.01,419.46)}无骨龙肉火腿
+Dialogue: 0,0:01:34.11,0:01:34.15,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,435.99)}无骨龙肉火腿
+Dialogue: 0,0:01:34.15,0:01:34.19,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412.01,452.86)}无骨龙肉火腿
+Dialogue: 0,0:01:34.19,0:01:34.24,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,470.01)}无骨龙肉火腿
+Dialogue: 0,0:01:34.24,0:01:34.28,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,487.48)}无骨龙肉火腿
+Dialogue: 0,0:01:34.28,0:01:34.32,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,505.17)}无骨龙肉火腿
+Dialogue: 0,0:01:34.32,0:01:34.36,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,523.15)}无骨龙肉火腿
+Dialogue: 0,0:01:34.36,0:01:34.40,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,541.27)}无骨龙肉火腿
+Dialogue: 0,0:01:34.40,0:01:34.44,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,559.49)}无骨龙肉火腿
+Dialogue: 0,0:01:34.44,0:01:34.49,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,577.99)}无骨龙肉火腿
+Dialogue: 0,0:01:34.49,0:01:34.53,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,596.5)}无骨龙肉火腿
+Dialogue: 0,0:01:34.53,0:01:34.57,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.98,615.16)}无骨龙肉火腿
+Dialogue: 0,0:01:34.57,0:01:34.61,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.98,633.89)}无骨龙肉火腿
+Dialogue: 0,0:01:34.61,0:01:34.65,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,652.79)}无骨龙肉火腿
+Dialogue: 0,0:01:34.65,0:01:34.69,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,671.65)}无骨龙肉火腿
+Dialogue: 0,0:01:34.69,0:01:34.74,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,690.53)}无骨龙肉火腿
+Dialogue: 0,0:01:34.74,0:01:34.78,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,709.5)}无骨龙肉火腿
+Dialogue: 0,0:01:34.78,0:01:34.82,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,728.48)}无骨龙肉火腿
+Dialogue: 0,0:01:34.82,0:01:34.86,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,747.46)}无骨龙肉火腿
+Dialogue: 0,0:01:34.86,0:01:34.90,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,766.46)}无骨龙肉火腿
+Dialogue: 0,0:01:34.90,0:01:34.94,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,785.37)}无骨龙肉火腿
+Dialogue: 0,0:01:34.94,0:01:34.99,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,804.3)}无骨龙肉火腿
+Dialogue: 0,0:01:34.99,0:01:35.03,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,823.29)}无骨龙肉火腿
+Dialogue: 0,0:01:35.03,0:01:35.07,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,842.14)}无骨龙肉火腿
+Dialogue: 0,0:01:35.07,0:01:35.11,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,860.89)}无骨龙肉火腿
+Dialogue: 0,0:01:35.11,0:01:35.15,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,879.64)}无骨龙肉火腿
+Dialogue: 0,0:01:35.15,0:01:35.19,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,898.37)}无骨龙肉火腿
+Dialogue: 0,0:01:35.19,0:01:35.24,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,916.91)}无骨龙肉火腿
+Dialogue: 0,0:01:35.24,0:01:35.28,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,935.47)}无骨龙肉火腿
+Dialogue: 0,0:01:35.28,0:01:35.32,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,953.83)}无骨龙肉火腿
+Dialogue: 0,0:01:35.32,0:01:35.36,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,972.13)}无骨龙肉火腿
+Dialogue: 0,0:01:35.36,0:01:35.40,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,990.2)}无骨龙肉火腿
+Dialogue: 0,0:01:35.40,0:01:35.45,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1411.99,1008.23)}无骨龙肉火腿
+Dialogue: 0,0:01:35.45,0:01:35.49,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,1026.08)}无骨龙肉火腿
+Dialogue: 0,0:01:35.49,0:01:35.53,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,1043.83)}无骨龙肉火腿
+Dialogue: 0,0:01:35.53,0:01:35.57,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,1061.31)}无骨龙肉火腿
+Dialogue: 0,0:01:35.57,0:01:35.61,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,1078.68)}无骨龙肉火腿
+Dialogue: 0,0:01:35.61,0:01:35.65,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,1095.8)}无骨龙肉火腿
+Dialogue: 0,0:01:35.65,0:01:35.70,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,1112.75)}无骨龙肉火腿
+Dialogue: 0,0:01:35.70,0:01:35.74,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412.01,1129.33)}无骨龙肉火腿
+Dialogue: 0,0:01:35.74,0:01:35.78,Screen,,0,0,0,,{\fscy100\fscx100\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(1412,1145.69)}无骨龙肉火腿
+Comment: 0,0:06:20.07,0:06:23.07,Screen,,0,0,0,,
+Dialogue: 0,0:06:23.07,0:06:23.11,Screen,,0,0,0,,{\fscy100\fscx100\fs44\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(896.31,585.17)}无骨龙肉火腿
+Dialogue: 0,0:06:23.11,0:06:23.15,Screen,,0,0,0,,{\fscy100.01\fscx100.01\fs44\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(896.32,577.57)}无骨龙肉火腿
+Dialogue: 0,0:06:23.15,0:06:23.19,Screen,,0,0,0,,{\fscy99.96\fscx99.96\fs44\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(896.29,569.87)}无骨龙肉火腿
+Dialogue: 0,0:06:23.19,0:06:23.23,Screen,,0,0,0,,{\fscy102.5\fscx102.5\fs44\fnDFHannotateW7-A\c&H213545&\bord2.05\3c&HA8D3E1&\pos(888.76,570.54)}无骨龙肉火腿
+Dialogue: 0,0:06:23.23,0:06:23.27,Screen,,0,0,0,,{\fscy102.54\fscx102.54\fs44\fnDFHannotateW7-A\c&H213545&\bord2.05\3c&HA8D3E1&\pos(888.76,562.91)}无骨龙肉火腿
+Dialogue: 0,0:06:23.27,0:06:23.32,Screen,,0,0,0,,{\fscy102.53\fscx102.53\fs44\fnDFHannotateW7-A\c&H213545&\bord2.05\3c&HA8D3E1&\pos(888.78,555.27)}无骨龙肉火腿
+Dialogue: 0,0:06:23.32,0:06:23.36,Screen,,0,0,0,,{\fscy105.15\fscx105.15\fs44\fnDFHannotateW7-A\c&H213545&\bord2.1\3c&HA8D3E1&\pos(881.31,556)}无骨龙肉火腿
+Dialogue: 0,0:06:23.36,0:06:23.40,Screen,,0,0,0,,{\fscy105.09\fscx105.09\fs44\fnDFHannotateW7-A\c&H213545&\bord2.1\3c&HA8D3E1&\pos(881.29,548.23)}无骨龙肉火腿
+Dialogue: 0,0:06:23.40,0:06:23.44,Screen,,0,0,0,,{\fscy104.97\fscx104.97\fs44\fnDFHannotateW7-A\c&H213545&\bord2.1\3c&HA8D3E1&\pos(881.26,540.51)}无骨龙肉火腿
+Dialogue: 0,0:06:23.44,0:06:23.48,Screen,,0,0,0,,{\fscy107.5\fscx107.5\fs44\fnDFHannotateW7-A\c&H213545&\bord2.15\3c&HA8D3E1&\pos(873.75,541.14)}无骨龙肉火腿
+Dialogue: 0,0:06:23.48,0:06:23.52,Screen,,0,0,0,,{\fscy107.55\fscx107.55\fs44\fnDFHannotateW7-A\c&H213545&\bord2.15\3c&HA8D3E1&\pos(873.74,533.54)}无骨龙肉火腿
+Dialogue: 0,0:06:23.52,0:06:23.57,Screen,,0,0,0,,{\fscy107.73\fscx107.73\fs44\fnDFHannotateW7-A\c&H213545&\bord2.15\3c&HA8D3E1&\pos(873.8,526.02)}无骨龙肉火腿
+Dialogue: 0,0:06:23.57,0:06:23.61,Screen,,0,0,0,,{\fscy110.18\fscx110.18\fs44\fnDFHannotateW7-A\c&H213545&\bord2.2\3c&HA8D3E1&\pos(866.26,526.67)}无骨龙肉火腿
+Dialogue: 0,0:06:23.61,0:06:23.65,Screen,,0,0,0,,{\fscy110.2\fscx110.2\fs44\fnDFHannotateW7-A\c&H213545&\bord2.2\3c&HA8D3E1&\pos(866.27,518.97)}无骨龙肉火腿
+Dialogue: 0,0:06:23.65,0:06:23.69,Screen,,0,0,0,,{\fscy109.99\fscx109.99\fs44\fnDFHannotateW7-A\c&H213545&\bord2.2\3c&HA8D3E1&\pos(866.22,511.22)}无骨龙肉火腿
+Dialogue: 0,0:06:23.69,0:06:23.73,Screen,,0,0,0,,{\fscy112.82\fscx112.82\fs44\fnDFHannotateW7-A\c&H213545&\bord2.26\3c&HA8D3E1&\pos(858.76,512.02)}无骨龙肉火腿
+Dialogue: 0,0:06:23.73,0:06:23.77,Screen,,0,0,0,,{\fscy112.77\fscx112.77\fs44\fnDFHannotateW7-A\c&H213545&\bord2.26\3c&HA8D3E1&\pos(858.74,504.37)}无骨龙肉火腿
+Dialogue: 0,0:06:23.77,0:06:23.82,Screen,,0,0,0,,{\fscy112.77\fscx112.77\fs44\fnDFHannotateW7-A\c&H213545&\bord2.26\3c&HA8D3E1&\pos(858.75,496.73)}无骨龙肉火腿
+Dialogue: 0,0:06:23.82,0:06:23.86,Screen,,0,0,0,,{\fscy115.32\fscx115.32\fs44\fnDFHannotateW7-A\c&H213545&\bord2.31\3c&HA8D3E1&\pos(851.23,497.33)}无骨龙肉火腿
+Dialogue: 0,0:06:23.86,0:06:23.90,Screen,,0,0,0,,{\fscy115.21\fscx115.21\fs44\fnDFHannotateW7-A\c&H213545&\bord2.3\3c&HA8D3E1&\pos(851.2,489.64)}无骨龙肉火腿
+Dialogue: 0,0:06:23.90,0:06:23.94,Screen,,0,0,0,,{\fscy115.3\fscx115.3\fs44\fnDFHannotateW7-A\c&H213545&\bord2.31\3c&HA8D3E1&\pos(851.23,482.08)}无骨龙肉火腿
+Dialogue: 0,0:06:23.94,0:06:23.98,Screen,,0,0,0,,{\fscy118.16\fscx118.16\fs44\fnDFHannotateW7-A\c&H213545&\bord2.36\3c&HA8D3E1&\pos(843.8,482.83)}无骨龙肉火腿
+Dialogue: 0,0:06:23.98,0:06:24.03,Screen,,0,0,0,,{\fscy118.06\fscx118.06\fs44\fnDFHannotateW7-A\c&H213545&\bord2.36\3c&HA8D3E1&\pos(843.8,475.2)}无骨龙肉火腿
+Dialogue: 0,0:06:24.03,0:06:24.07,Screen,,0,0,0,,{\fscy117.9\fscx117.9\fs44\fnDFHannotateW7-A\c&H213545&\bord2.36\3c&HA8D3E1&\pos(843.77,467.35)}无骨龙肉火腿
+Dialogue: 0,0:06:24.07,0:06:24.11,Screen,,0,0,0,,{\fscy120.52\fscx120.52\fs44\fnDFHannotateW7-A\c&H213545&\bord2.41\3c&HA8D3E1&\pos(836.22,468.12)}无骨龙肉火腿
+Dialogue: 0,0:06:24.11,0:06:24.15,Screen,,0,0,0,,{\fscy120.48\fscx120.48\fs44\fnDFHannotateW7-A\c&H213545&\bord2.41\3c&HA8D3E1&\pos(836.21,460.45)}无骨龙肉火腿
+Dialogue: 0,0:06:24.15,0:06:24.19,Screen,,0,0,0,,{\fscy120.53\fscx120.53\fs44\fnDFHannotateW7-A\c&H213545&\bord2.41\3c&HA8D3E1&\pos(836.23,452.81)}无骨龙肉火腿
+Dialogue: 0,0:06:24.19,0:06:24.23,Screen,,0,0,0,,{\fscy123.27\fscx123.27\fs44\fnDFHannotateW7-A\c&H213545&\bord2.47\3c&HA8D3E1&\pos(828.79,453.58)}无骨龙肉火腿
+Dialogue: 0,0:06:24.23,0:06:24.28,Screen,,0,0,0,,{\fscy122.97\fscx122.97\fs44\fnDFHannotateW7-A\c&H213545&\bord2.46\3c&HA8D3E1&\pos(828.69,445.75)}无骨龙肉火腿
+Dialogue: 0,0:06:24.28,0:06:24.32,Screen,,0,0,0,,{\fscy123.01\fscx123.01\fs44\fnDFHannotateW7-A\c&H213545&\bord2.46\3c&HA8D3E1&\pos(828.7,438.12)}无骨龙肉火腿
+Dialogue: 0,0:06:24.32,0:06:24.36,Screen,,0,0,0,,{\fscy125.64\fscx125.64\fs44\fnDFHannotateW7-A\c&H213545&\bord2.51\3c&HA8D3E1&\pos(821.22,438.86)}无骨龙肉火腿
+Dialogue: 0,0:06:24.36,0:06:24.40,Screen,,0,0,0,,{\fscy125.5\fscx125.5\fs44\fnDFHannotateW7-A\c&H213545&\bord2.51\3c&HA8D3E1&\pos(821.18,431.06)}无骨龙肉火腿
+Dialogue: 0,0:06:24.40,0:06:24.44,Screen,,0,0,0,,{\fscy125.56\fscx125.56\fs44\fnDFHannotateW7-A\c&H213545&\bord2.51\3c&HA8D3E1&\pos(821.2,423.52)}无骨龙肉火腿
+Dialogue: 0,0:06:24.44,0:06:24.48,Screen,,0,0,0,,{\fscy127.87\fscx127.87\fs44\fnDFHannotateW7-A\c&H213545&\bord2.56\3c&HA8D3E1&\pos(813.6,423.96)}无骨龙肉火腿
+Dialogue: 0,0:06:24.48,0:06:24.53,Screen,,0,0,0,,{\fscy128.14\fscx128.14\fs44\fnDFHannotateW7-A\c&H213545&\bord2.56\3c&HA8D3E1&\pos(813.68,416.51)}无骨龙肉火腿
+Dialogue: 0,0:06:24.53,0:06:24.57,Screen,,0,0,0,,{\fscy128.26\fscx128.26\fs44\fnDFHannotateW7-A\c&H213545&\bord2.57\3c&HA8D3E1&\pos(813.72,408.99)}无骨龙肉火腿
+Dialogue: 0,0:06:24.57,0:06:24.61,Screen,,0,0,0,,{\fscy130.83\fscx130.83\fs44\fnDFHannotateW7-A\c&H213545&\bord2.62\3c&HA8D3E1&\pos(806.21,409.67)}无骨龙肉火腿
+Dialogue: 0,0:06:24.61,0:06:24.65,Screen,,0,0,0,,{\fscy130.73\fscx130.73\fs44\fnDFHannotateW7-A\c&H213545&\bord2.61\3c&HA8D3E1&\pos(806.2,401.87)}无骨龙肉火腿
+Dialogue: 0,0:06:24.65,0:06:24.69,Screen,,0,0,0,,{\fscy130.79\fscx130.79\fs44\fnDFHannotateW7-A\c&H213545&\bord2.62\3c&HA8D3E1&\pos(806.22,394.39)}无骨龙肉火腿
+Dialogue: 0,0:06:24.69,0:06:24.73,Screen,,0,0,0,,{\fscy133.22\fscx133.22\fs44\fnDFHannotateW7-A\c&H213545&\bord2.66\3c&HA8D3E1&\pos(798.66,394.85)}无骨龙肉火腿
+Dialogue: 0,0:06:24.73,0:06:24.78,Screen,,0,0,0,,{\fscy133.36\fscx133.36\fs44\fnDFHannotateW7-A\c&H213545&\bord2.67\3c&HA8D3E1&\pos(798.69,387.28)}无骨龙肉火腿
+Dialogue: 0,0:06:24.78,0:06:24.82,Screen,,0,0,0,,{\fscy133.28\fscx133.28\fs44\fnDFHannotateW7-A\c&H213545&\bord2.67\3c&HA8D3E1&\pos(798.67,379.65)}无骨龙肉火腿
+Dialogue: 0,0:06:24.82,0:06:24.86,Screen,,0,0,0,,{\fscy135.94\fscx135.94\fs44\fnDFHannotateW7-A\c&H213545&\bord2.72\3c&HA8D3E1&\pos(791.21,380.31)}无骨龙肉火腿
+Dialogue: 0,0:06:24.86,0:06:24.90,Screen,,0,0,0,,{\fscy136.03\fscx136.03\fs44\fnDFHannotateW7-A\c&H213545&\bord2.72\3c&HA8D3E1&\pos(791.23,372.79)}无骨龙肉火腿
+Dialogue: 0,0:06:24.90,0:06:24.94,Screen,,0,0,0,,{\fscy135.86\fscx135.86\fs44\fnDFHannotateW7-A\c&H213545&\bord2.72\3c&HA8D3E1&\pos(791.19,364.97)}无骨龙肉火腿
+Dialogue: 0,0:06:24.94,0:06:24.98,Screen,,0,0,0,,{\fscy138.53\fscx138.53\fs44\fnDFHannotateW7-A\c&H213545&\bord2.77\3c&HA8D3E1&\pos(783.68,365.64)}无骨龙肉火腿
+Dialogue: 0,0:06:24.98,0:06:25.03,Screen,,0,0,0,,{\fscy138.67\fscx138.67\fs44\fnDFHannotateW7-A\c&H213545&\bord2.77\3c&HA8D3E1&\pos(783.72,358.18)}无骨龙肉火腿
+Dialogue: 0,0:06:25.03,0:06:25.07,Screen,,0,0,0,,{\fscy138.56\fscx138.56\fs44\fnDFHannotateW7-A\c&H213545&\bord2.77\3c&HA8D3E1&\pos(783.67,350.44)}无骨龙肉火腿
+Dialogue: 0,0:06:25.07,0:06:25.11,Screen,,0,0,0,,{\fscy141.09\fscx141.09\fs44\fnDFHannotateW7-A\c&H213545&\bord2.82\3c&HA8D3E1&\pos(776.15,351.05)}无骨龙肉火腿
+Dialogue: 0,0:06:25.11,0:06:25.15,Screen,,0,0,0,,{\fscy140.99\fscx140.99\fs44\fnDFHannotateW7-A\c&H213545&\bord2.82\3c&HA8D3E1&\pos(776.13,343.39)}无骨龙肉火腿
+Dialogue: 0,0:06:25.15,0:06:25.19,Screen,,0,0,0,,{\fscy141.08\fscx141.08\fs44\fnDFHannotateW7-A\c&H213545&\bord2.82\3c&HA8D3E1&\pos(776.16,335.76)}无骨龙肉火腿
+Dialogue: 0,0:06:25.19,0:06:25.23,Screen,,0,0,0,,{\fscy143.38\fscx143.38\fs44\fnDFHannotateW7-A\c&H213545&\bord2.87\3c&HA8D3E1&\pos(768.6,336.2)}无骨龙肉火腿
+Dialogue: 0,0:06:25.23,0:06:25.28,Screen,,0,0,0,,{\fscy143.52\fscx143.52\fs44\fnDFHannotateW7-A\c&H213545&\bord2.87\3c&HA8D3E1&\pos(768.63,328.68)}无骨龙肉火腿
+Dialogue: 0,0:06:25.28,0:06:25.32,Screen,,0,0,0,,{\fscy143.55\fscx143.55\fs44\fnDFHannotateW7-A\c&H213545&\bord2.87\3c&HA8D3E1&\pos(768.66,320.99)}无骨龙肉火腿
+Dialogue: 0,0:06:25.32,0:06:25.36,Screen,,0,0,0,,{\fscy146.24\fscx146.24\fs44\fnDFHannotateW7-A\c&H213545&\bord2.92\3c&HA8D3E1&\pos(761.16,321.81)}无骨龙肉火腿
+Dialogue: 0,0:06:25.36,0:06:25.40,Screen,,0,0,0,,{\fscy146.08\fscx146.08\fs44\fnDFHannotateW7-A\c&H213545&\bord2.92\3c&HA8D3E1&\pos(761.12,314.03)}无骨龙肉火腿
+Dialogue: 0,0:06:25.40,0:06:25.44,Screen,,0,0,0,,{\fscy146.12\fscx146.12\fs44\fnDFHannotateW7-A\c&H213545&\bord2.92\3c&HA8D3E1&\pos(761.12,306.43)}无骨龙肉火腿
+Dialogue: 0,0:06:25.44,0:06:25.48,Screen,,0,0,0,,{\fscy148.67\fscx148.67\fs44\fnDFHannotateW7-A\c&H213545&\bord2.97\3c&HA8D3E1&\pos(753.63,307.09)}无骨龙肉火腿
+Dialogue: 0,0:06:25.48,0:06:25.53,Screen,,0,0,0,,{\fscy148.63\fscx148.63\fs44\fnDFHannotateW7-A\c&H213545&\bord2.97\3c&HA8D3E1&\pos(753.61,299.41)}无骨龙肉火腿
+Dialogue: 0,0:06:25.53,0:06:25.57,Screen,,0,0,0,,{\fscy148.69\fscx148.69\fs44\fnDFHannotateW7-A\c&H213545&\bord2.97\3c&HA8D3E1&\pos(753.62,291.79)}无骨龙肉火腿
+Comment: 0,0:06:25.57,0:06:28.57,Screen,,0,0,0,,
+Dialogue: 0,0:06:27.61,0:06:27.65,Screen,,0,0,0,,{\fscy148.14\fscx148.14\fs55\fnDFHannotateW7-A\c&H213545&\bord2.96\3c&HA8D3E1&\pos(634.69,1104.76)}无骨龙肉火腿
+Dialogue: 0,0:06:27.65,0:06:27.70,Screen,,0,0,0,,{\fscy148.14\fscx148.14\fs55\fnDFHannotateW7-A\c&H213545&\bord2.96\3c&HA8D3E1&\pos(634.69,1075.78)}无骨龙肉火腿
+Dialogue: 0,0:06:27.70,0:06:27.74,Screen,,0,0,0,,{\fscy148.42\fscx148.42\fs55\fnDFHannotateW7-A\c&H213545&\bord2.96\3c&HA8D3E1&\pos(623.6,1055.92)}无骨龙肉火腿
+Dialogue: 0,0:06:27.74,0:06:27.78,Screen,,0,0,0,,{\fscy148.42\fscx148.42\fs55\fnDFHannotateW7-A\c&H213545&\bord2.96\3c&HA8D3E1&\pos(623.66,1022.23)}无骨龙肉火腿
+Dialogue: 0,0:06:27.78,0:06:27.82,Screen,,0,0,0,,{\fscy148.37\fscx148.37\fs55\fnDFHannotateW7-A\c&H213545&\bord2.96\3c&HA8D3E1&\pos(623.67,987.23)}无骨龙肉火腿
+Dialogue: 0,0:06:27.82,0:06:27.86,Screen,,0,0,0,,{\fscy148.66\fscx148.66\fs55\fnDFHannotateW7-A\c&H213545&\bord2.97\3c&HA8D3E1&\pos(614.19,964.17)}无骨龙肉火腿
+Dialogue: 0,0:06:27.86,0:06:27.90,Screen,,0,0,0,,{\fscy148.69\fscx148.69\fs55\fnDFHannotateW7-A\c&H213545&\bord2.97\3c&HA8D3E1&\pos(614.19,927.89)}无骨龙肉火腿
+Dialogue: 0,0:06:27.90,0:06:27.95,Screen,,0,0,0,,{\fscy148.69\fscx148.69\fs55\fnDFHannotateW7-A\c&H213545&\bord2.97\3c&HA8D3E1&\pos(614.19,891.38)}无骨龙肉火腿
+Dialogue: 0,0:06:27.95,0:06:27.99,Screen,,0,0,0,,{\fscy149.01\fscx149.01\fs55\fnDFHannotateW7-A\c&H213545&\bord2.98\3c&HA8D3E1&\pos(605.97,868.32)}无骨龙肉火腿
+Dialogue: 0,0:06:27.99,0:06:28.03,Screen,,0,0,0,,{\fscy149.02\fscx149.02\fs55\fnDFHannotateW7-A\c&H213545&\bord2.98\3c&HA8D3E1&\pos(605.94,831.93)}无骨龙肉火腿
+Dialogue: 0,0:06:28.03,0:06:28.07,Screen,,0,0,0,,{\fscy149.03\fscx149.03\fs55\fnDFHannotateW7-A\c&H213545&\bord2.98\3c&HA8D3E1&\pos(605.94,795.93)}无骨龙肉火腿
+Dialogue: 0,0:06:28.07,0:06:28.11,Screen,,0,0,0,,{\fscy149.38\fscx149.38\fs55\fnDFHannotateW7-A\c&H213545&\bord2.98\3c&HA8D3E1&\pos(598.78,774.29)}无骨龙肉火腿
+Dialogue: 0,0:06:28.11,0:06:28.15,Screen,,0,0,0,,{\fscy149.41\fscx149.41\fs55\fnDFHannotateW7-A\c&H213545&\bord2.98\3c&HA8D3E1&\pos(598.79,739.28)}无骨龙肉火腿
+Dialogue: 0,0:06:28.15,0:06:28.20,Screen,,0,0,0,,{\fscy149.4\fscx149.4\fs55\fnDFHannotateW7-A\c&H213545&\bord2.98\3c&HA8D3E1&\pos(598.79,704.77)}无骨龙肉火腿
+Dialogue: 0,0:06:28.20,0:06:28.24,Screen,,0,0,0,,{\fscy149.77\fscx149.77\fs55\fnDFHannotateW7-A\c&H213545&\bord2.99\3c&HA8D3E1&\pos(592.48,685.36)}无骨龙肉火腿
+Dialogue: 0,0:06:28.24,0:06:28.28,Screen,,0,0,0,,{\fscy149.76\fscx149.76\fs55\fnDFHannotateW7-A\c&H213545&\bord2.99\3c&HA8D3E1&\pos(592.48,652.35)}无骨龙肉火腿
+Dialogue: 0,0:06:28.28,0:06:28.32,Screen,,0,0,0,,{\fscy149.76\fscx149.76\fs55\fnDFHannotateW7-A\c&H213545&\bord2.99\3c&HA8D3E1&\pos(592.5,620.1)}无骨龙肉火腿
+Dialogue: 0,0:06:28.32,0:06:28.36,Screen,,0,0,0,,{\fscy150.09\fscx150.09\fs55\fnDFHannotateW7-A\c&H213545&\bord3\3c&HA8D3E1&\pos(586.87,603.37)}无骨龙肉火腿
+Dialogue: 0,0:06:28.36,0:06:28.40,Screen,,0,0,0,,{\fscy150.13\fscx150.13\fs55\fnDFHannotateW7-A\c&H213545&\bord3\3c&HA8D3E1&\pos(586.88,572.89)}无骨龙肉火腿
+Dialogue: 0,0:06:28.40,0:06:28.45,Screen,,0,0,0,,{\fscy150.13\fscx150.13\fs55\fnDFHannotateW7-A\c&H213545&\bord3\3c&HA8D3E1&\pos(586.88,543.42)}无骨龙肉火腿
+Dialogue: 0,0:06:28.45,0:06:28.49,Screen,,0,0,0,,{\fscy150.48\fscx150.48\fs55\fnDFHannotateW7-A\c&H213545&\bord3.01\3c&HA8D3E1&\pos(581.89,529.48)}无骨龙肉火腿
+Dialogue: 0,0:06:28.49,0:06:28.53,Screen,,0,0,0,,{\fscy150.46\fscx150.46\fs55\fnDFHannotateW7-A\c&H213545&\bord3.01\3c&HA8D3E1&\pos(581.89,501.78)}无骨龙肉火腿
+Dialogue: 0,0:06:28.53,0:06:28.57,Screen,,0,0,0,,{\fscy150.48\fscx150.48\fs55\fnDFHannotateW7-A\c&H213545&\bord3.01\3c&HA8D3E1&\pos(581.9,475.06)}无骨龙肉火腿
+Dialogue: 0,0:06:28.57,0:06:28.61,Screen,,0,0,0,,{\fscy150.8\fscx150.8\fs55\fnDFHannotateW7-A\c&H213545&\bord3.01\3c&HA8D3E1&\pos(577.43,464.29)}无骨龙肉火腿
+Dialogue: 0,0:06:28.61,0:06:28.65,Screen,,0,0,0,,{\fscy150.89\fscx150.89\fs55\fnDFHannotateW7-A\c&H213545&\bord3.01\3c&HA8D3E1&\pos(577.44,439.63)}无骨龙肉火腿
+Dialogue: 0,0:06:28.65,0:06:28.70,Screen,,0,0,0,,{\fscy150.87\fscx150.87\fs55\fnDFHannotateW7-A\c&H213545&\bord3.01\3c&HA8D3E1&\pos(577.46,415.92)}无骨龙肉火腿
+Dialogue: 0,0:06:28.70,0:06:28.74,Screen,,0,0,0,,{\fscy151.28\fscx151.28\fs55\fnDFHannotateW7-A\c&H213545&\bord3.02\3c&HA8D3E1&\pos(573.45,408.5)}无骨龙肉火腿
+Dialogue: 0,0:06:28.74,0:06:28.78,Screen,,0,0,0,,{\fscy151.31\fscx151.31\fs55\fnDFHannotateW7-A\c&H213545&\bord3.02\3c&HA8D3E1&\pos(573.46,386.8)}无骨龙肉火腿
+Dialogue: 0,0:06:28.78,0:06:28.82,Screen,,0,0,0,,{\fscy151.22\fscx151.22\fs55\fnDFHannotateW7-A\c&H213545&\bord3.02\3c&HA8D3E1&\pos(573.45,366.17)}无骨龙肉火腿
+Dialogue: 0,0:06:28.82,0:06:28.86,Screen,,0,0,0,,{\fscy151.66\fscx151.66\fs55\fnDFHannotateW7-A\c&H213545&\bord3.03\3c&HA8D3E1&\pos(569.86,361.9)}无骨龙肉火腿
+Dialogue: 0,0:06:28.86,0:06:28.91,Screen,,0,0,0,,{\fscy151.63\fscx151.63\fs55\fnDFHannotateW7-A\c&H213545&\bord3.03\3c&HA8D3E1&\pos(569.85,343.41)}无骨龙肉火腿
+Dialogue: 0,0:06:28.91,0:06:28.95,Screen,,0,0,0,,{\fscy151.65\fscx151.65\fs55\fnDFHannotateW7-A\c&H213545&\bord3.03\3c&HA8D3E1&\pos(569.85,325.95)}无骨龙肉火腿
+Dialogue: 0,0:06:28.95,0:06:28.99,Screen,,0,0,0,,{\fscy152.03\fscx152.03\fs55\fnDFHannotateW7-A\c&H213545&\bord3.04\3c&HA8D3E1&\pos(566.66,324.97)}无骨龙肉火腿
+Dialogue: 0,0:06:28.99,0:06:29.03,Screen,,0,0,0,,{\fscy152.07\fscx152.07\fs55\fnDFHannotateW7-A\c&H213545&\bord3.04\3c&HA8D3E1&\pos(566.63,309.68)}无骨龙肉火腿
+Dialogue: 0,0:06:29.03,0:06:29.07,Screen,,0,0,0,,{\fscy152.09\fscx152.09\fs55\fnDFHannotateW7-A\c&H213545&\bord3.04\3c&HA8D3E1&\pos(566.64,295.45)}无骨龙肉火腿
+Dialogue: 0,0:06:29.07,0:06:29.11,Screen,,0,0,0,,{\fscy152.47\fscx152.47\fs55\fnDFHannotateW7-A\c&H213545&\bord3.05\3c&HA8D3E1&\pos(563.75,297.77)}无骨龙肉火腿
+Dialogue: 0,0:06:29.11,0:06:29.16,Screen,,0,0,0,,{\fscy152.54\fscx152.54\fs55\fnDFHannotateW7-A\c&H213545&\bord3.05\3c&HA8D3E1&\pos(563.76,285.73)}无骨龙肉火腿
+Dialogue: 0,0:06:29.16,0:06:29.20,Screen,,0,0,0,,{\fscy152.5\fscx152.5\fs55\fnDFHannotateW7-A\c&H213545&\bord3.05\3c&HA8D3E1&\pos(563.75,274.59)}无骨龙肉火腿
+Dialogue: 0,0:06:29.20,0:06:29.24,Screen,,0,0,0,,{\fscy152.83\fscx152.83\fs55\fnDFHannotateW7-A\c&H213545&\bord3.05\3c&HA8D3E1&\pos(561.13,280.14)}无骨龙肉火腿
+Dialogue: 0,0:06:29.24,0:06:29.28,Screen,,0,0,0,,{\fscy152.87\fscx152.87\fs55\fnDFHannotateW7-A\c&H213545&\bord3.05\3c&HA8D3E1&\pos(561.16,271.25)}无骨龙肉火腿
+Dialogue: 0,0:06:29.28,0:06:29.32,Screen,,0,0,0,,{\fscy152.8\fscx152.8\fs55\fnDFHannotateW7-A\c&H213545&\bord3.05\3c&HA8D3E1&\pos(561.14,263.26)}无骨龙肉火腿
+Dialogue: 0,0:06:29.32,0:06:29.36,Screen,,0,0,0,,{\fscy153.26\fscx153.26\fs55\fnDFHannotateW7-A\c&H213545&\bord3.06\3c&HA8D3E1&\pos(558.84,272.2)}无骨龙肉火腿
+Dialogue: 0,0:06:29.36,0:06:29.41,Screen,,0,0,0,,{\fscy153.3\fscx153.3\fs55\fnDFHannotateW7-A\c&H213545&\bord3.06\3c&HA8D3E1&\pos(558.83,266.5)}无骨龙肉火腿
+Dialogue: 0,0:06:29.41,0:06:29.45,Screen,,0,0,0,,{\fscy153.3\fscx153.3\fs55\fnDFHannotateW7-A\c&H213545&\bord3.06\3c&HA8D3E1&\pos(558.86,261.79)}无骨龙肉火腿
+Dialogue: 0,0:06:29.45,0:06:29.49,Screen,,0,0,0,,{\fscy153.73\fscx153.73\fs55\fnDFHannotateW7-A\c&H213545&\bord3.07\3c&HA8D3E1&\pos(556.78,273.92)}无骨龙肉火腿
+Dialogue: 0,0:06:29.49,0:06:29.53,Screen,,0,0,0,,{\fscy153.79\fscx153.79\fs55\fnDFHannotateW7-A\c&H213545&\bord3.07\3c&HA8D3E1&\pos(556.81,271.41)}无骨龙肉火腿
+Dialogue: 0,0:06:29.53,0:06:29.57,Screen,,0,0,0,,{\fscy153.69\fscx153.69\fs55\fnDFHannotateW7-A\c&H213545&\bord3.07\3c&HA8D3E1&\pos(556.79,269.66)}无骨龙肉火腿
+Dialogue: 0,0:06:29.57,0:06:29.61,Screen,,0,0,0,,{\fscy154.14\fscx154.14\fs55\fnDFHannotateW7-A\c&H213545&\bord3.08\3c&HA8D3E1&\pos(554.97,285.12)}无骨龙肉火腿
+Dialogue: 0,0:06:29.61,0:06:29.70,Screen,,0,0,0,,{\fscy154.14\fscx154.14\fs55\fnDFHannotateW7-A\c&H213545&\bord3.08\3c&HA8D3E1&\pos(554.97,285.13)}无骨龙肉火腿
+Dialogue: 0,0:06:29.70,0:06:29.82,Screen,,0,0,0,,{\fscy154.5\fscx154.5\fs55\fnDFHannotateW7-A\c&H213545&\bord3.09\3c&HA8D3E1&\pos(553.37,301.08)}无骨龙肉火腿
+Dialogue: 0,0:06:29.82,0:06:29.95,Screen,,0,0,0,,{\fscy154.98\fscx154.98\fs55\fnDFHannotateW7-A\c&H213545&\bord3.1\3c&HA8D3E1&\pos(552.02,317.21)}无骨龙肉火腿
+Dialogue: 0,0:06:29.95,0:06:30.07,Screen,,0,0,0,,{\fscy155.41\fscx155.41\fs55\fnDFHannotateW7-A\c&H213545&\bord3.1\3c&HA8D3E1&\pos(550.85,333.4)}无骨龙肉火腿
+Dialogue: 0,0:06:30.07,0:06:30.20,Screen,,0,0,0,,{\fscy155.86\fscx155.86\fs55\fnDFHannotateW7-A\c&H213545&\bord3.11\3c&HA8D3E1&\pos(549.91,349.69)}无骨龙肉火腿
+Dialogue: 0,0:06:30.20,0:06:30.32,Screen,,0,0,0,,{\fscy156.3\fscx156.3\fs55\fnDFHannotateW7-A\c&H213545&\bord3.12\3c&HA8D3E1&\pos(549.15,366.04)}无骨龙肉火腿
+Dialogue: 0,0:06:30.32,0:06:30.45,Screen,,0,0,0,,{\fscy156.72\fscx156.72\fs55\fnDFHannotateW7-A\c&H213545&\bord3.13\3c&HA8D3E1&\pos(548.64,382.45)}无骨龙肉火腿
+Dialogue: 0,0:06:30.45,0:06:30.57,Screen,,0,0,0,,{\fscy157.13\fscx157.13\fs55\fnDFHannotateW7-A\c&H213545&\bord3.14\3c&HA8D3E1&\pos(548.26,398.97)}无骨龙肉火腿
+Dialogue: 0,0:06:30.57,0:06:30.70,Screen,,0,0,0,,{\fscy157.56\fscx157.56\fs55\fnDFHannotateW7-A\c&H213545&\bord3.15\3c&HA8D3E1&\pos(548.11,415.55)}无骨龙肉火腿
+Dialogue: 0,0:06:30.70,0:06:30.82,Screen,,0,0,0,,{\fscy157.96\fscx157.96\fs55\fnDFHannotateW7-A\c&H213545&\bord3.16\3c&HA8D3E1&\pos(548.19,432.18)}无骨龙肉火腿
+Dialogue: 0,0:06:30.82,0:06:30.87,Screen,,0,0,0,,{\fscy158.46\fscx158.46\fs55\fnDFHannotateW7-A\c&H213545&\bord3.17\3c&HA8D3E1&\pos(548.48,449.01)}无骨龙肉火腿
+Dialogue: 0,0:06:30.87,0:06:30.95,Screen,,0,0,0,,{\fscy158.47\fscx158.47\fs55\fnDFHannotateW7-A\c&H213545&\bord3.17\3c&HA8D3E1&\pos(548.48,449.02)}无骨龙肉火腿
+Dialogue: 0,0:06:30.95,0:06:30.99,Screen,,0,0,0,,{\fscy158.91\fscx158.91\fs55\fnDFHannotateW7-A\c&H213545&\bord3.17\3c&HA8D3E1&\pos(549,465.89)}无骨龙肉火腿
+Dialogue: 0,0:06:30.99,0:06:31.03,Screen,,0,0,0,,{\fscy158.92\fscx158.92\fs55\fnDFHannotateW7-A\c&H213545&\bord3.17\3c&HA8D3E1&\pos(549,465.9)}无骨龙肉火腿
+Dialogue: 0,0:06:31.03,0:06:31.07,Screen,,0,0,0,,{\fscy158.91\fscx158.91\fs55\fnDFHannotateW7-A\c&H213545&\bord3.17\3c&HA8D3E1&\pos(549,465.89)}无骨龙肉火腿
+Dialogue: 0,0:06:31.07,0:06:31.20,Screen,,0,0,0,,{\fscy159.41\fscx159.41\fs55\fnDFHannotateW7-A\c&H213545&\bord3.18\3c&HA8D3E1&\pos(549.81,482.83)}无骨龙肉火腿
+Dialogue: 0,0:06:31.20,0:06:31.32,Screen,,0,0,0,,{\fscy159.82\fscx159.82\fs55\fnDFHannotateW7-A\c&H213545&\bord3.19\3c&HA8D3E1&\pos(550.93,499.77)}无骨龙肉火腿
+Dialogue: 0,0:06:31.32,0:06:31.45,Screen,,0,0,0,,{\fscy160.26\fscx160.26\fs55\fnDFHannotateW7-A\c&H213545&\bord3.2\3c&HA8D3E1&\pos(552.45,516.85)}无骨龙肉火腿
+Dialogue: 0,0:06:31.45,0:06:31.49,Screen,,0,0,0,,{\fscy160.75\fscx160.75\fs55\fnDFHannotateW7-A\c&H213545&\bord3.21\3c&HA8D3E1&\pos(554.51,533.92)}无骨龙肉火腿
+Dialogue: 0,0:06:31.49,0:06:31.53,Screen,,0,0,0,,{\fscy160.76\fscx160.76\fs55\fnDFHannotateW7-A\c&H213545&\bord3.21\3c&HA8D3E1&\pos(554.51,533.93)}无骨龙肉火腿
+Dialogue: 0,0:06:31.53,0:06:31.57,Screen,,0,0,0,,{\fscy160.77\fscx160.77\fs55\fnDFHannotateW7-A\c&H213545&\bord3.21\3c&HA8D3E1&\pos(554.52,533.94)}无骨龙肉火腿
+Dialogue: 0,0:11:39.14,0:11:43.14,Screen,,0,0,0,,{\fs55\fnDFHannotateW7-A\c&H213545&\bord2\3c&HA8D3E1&\pos(478.307,205.168)}半兽人调配药
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP
+Dialogue: 0,0:00:05.28,0:00:13.03,Meshi_OPJP,,0,0,0,,外から窓をくぐった光が　床に作った最初の友達
+Dialogue: 0,0:00:13.03,0:00:20.33,Meshi_OPJP,,0,0,0,,空っぽの手を容易く取られて　連れ出されてから夢の中
+Dialogue: 0,0:00:20.33,0:00:28.01,Meshi_OPJP,,0,0,0,,幾つかの普通が重なり合うと　時々そこには魔法が宿る
+Dialogue: 0,0:00:28.01,0:00:35.47,Meshi_OPJP,,0,0,0,,あれは恐らく悪魔だった　あれから醒めない夢の中
+Dialogue: 0,0:00:36.02,0:00:39.27,Meshi_OPJP,,0,0,0,,籠の中　鳥が鳴いて気付いた
+Dialogue: 0,0:00:39.73,0:00:44.82,Meshi_OPJP,,0,0,0,,失くしていた事　もう引き返せない事
+Dialogue: 0,0:00:46.61,0:00:54.03,Meshi_OPJP,,0,0,0,,どうして体は生きたがるの　心に何を求めているの
+Dialogue: 0,0:00:54.03,0:01:01.58,Meshi_OPJP,,0,0,0,,肺が吸い込んだ　続きの世界　何度でも吐いた　命の証
+Dialogue: 0,0:01:01.58,0:01:09.13,Meshi_OPJP,,0,0,0,,さあ今　鍵が廻る音　探し物が囁くよ
+Dialogue: 0,0:01:09.13,0:01:17.31,Meshi_OPJP,,0,0,0,,赤い血が巡る　その全てで　見えない糸を手繰り寄せて
+Dialogue: 0,0:00:05.28,0:00:13.03,Meshi_OPCN,,0,0,0,,窗外的一缕光线洒落地面 是最初的朋友
+Dialogue: 0,0:00:13.03,0:00:20.33,Meshi_OPCN,,0,0,0,,空无一物的手就这样被握紧 启程便是梦境之中
+Dialogue: 0,0:00:20.33,0:00:28.01,Meshi_OPCN,,0,0,0,,一次次平凡的遭遇 魔法也时而蕴藏其中
+Dialogue: 0,0:00:28.01,0:00:35.47,Meshi_OPCN,,0,0,0,,那恐怕便是恶魔 从此便是难以苏醒的梦境
+Dialogue: 0,0:00:36.02,0:00:39.27,Meshi_OPCN,,0,0,0,,笼中的鸟儿啼鸣 回过神来
+Dialogue: 0,0:00:39.73,0:00:44.82,Meshi_OPCN,,0,0,0,,失去的事物 无法挽回的事物
+Dialogue: 0,0:00:46.61,0:00:54.03,Meshi_OPCN,,0,0,0,,为何身体不肯放弃生存 内心在向往什么
+Dialogue: 0,0:00:54.03,0:01:01.58,Meshi_OPCN,,0,0,0,,用力吸气 今后的世界 无数次吐气 生命的证明
+Dialogue: 0,0:01:01.58,0:01:09.13,Meshi_OPCN,,0,0,0,,现在钥匙转动的声音响起 寻找之物就在前方
+Dialogue: 0,0:01:09.13,0:01:17.31,Meshi_OPCN,,0,0,0,,血液涌上 一切的一切 收起无法看见的丝线
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED
+Dialogue: 0,0:22:33.58,0:22:37.04,Meshi_EDJP,,888,0,0,,{\blur2}君のためのパーティーだ！
+Dialogue: 0,0:22:43.68,0:22:47.39,Meshi_EDJP,,0,1070,0,,{\blur2}どこから話すべきかな
+Dialogue: 0,0:22:47.39,0:22:52.73,Meshi_EDJP,,0,1070,0,,{\blur2}君にはそういつも救われてきたんだ
+Dialogue: 0,0:22:52.73,0:22:59.23,Meshi_EDJP,,0,820,1,,{\blur2}だから今日こそはとびきりをプレゼント
+Dialogue: 0,0:23:00.19,0:23:01.99,Meshi_EDJP,,0,0,0,,{\blur2}さぁ始めるよ
+Dialogue: 0,0:23:02.49,0:23:04.78,Meshi_EDJP,,0,0,0,,{\blur2}着慣れてないドレスコード
+Dialogue: 0,0:23:04.78,0:23:07.78,Meshi_EDJP,,0,0,0,,{\blur2}お馴染みの顔がお出迎え
+Dialogue: 0,0:23:08.83,0:23:10.16,Meshi_EDJP,,0,0,0,,{\blur2}君のこと
+Dialogue: 0,0:23:10.16,0:23:12.79,Meshi_EDJP,,0,0,0,,{\blur2}みんなが想っているんだよ
+Dialogue: 0,0:23:12.79,0:23:14.12,Meshi_EDJP,,0,777,1,,{\blur2}Full-course session
+Dialogue: 0,0:23:14.12,0:23:16.50,Meshi_EDJP,,0,777,1,,{\blur2}※リアクションはノンフィクション
+Dialogue: 0,0:23:16.50,0:23:18.50,Meshi_EDJP,,0,777,1,,{\blur2}ボナペティート！
+Dialogue: 0,0:23:21.80,0:23:23.76,Meshi_EDJP,,0,0,0,,{\blur2}「ありがとう」じゃ足らんなくて
+Dialogue: 0,0:23:23.76,0:23:26.51,Meshi_EDJP,,0,0,0,,{\blur2}それ以上なら何だっていい
+Dialogue: 0,0:23:26.76,0:23:29.76,Meshi_EDJP,,0,0,0,,{\blur2}ただ君に伝われ！
+Dialogue: 0,0:23:29.76,0:23:31.64,Meshi_EDJP,,0,777,0,,{\blur2}ふざけ合って笑う時も
+Dialogue: 0,0:23:31.64,0:23:34.52,Meshi_EDJP,,0,777,0,,{\blur2}涙こぼれそうな夜も
+Dialogue: 0,0:23:34.52,0:23:37.52,Meshi_EDJP,,0,777,0,,{\blur2}君のための仲間だ
+Dialogue: 0,0:23:37.52,0:23:39.48,Meshi_EDJP,,777,0,0,,{\blur2}それはどんな魔法だって
+Dialogue: 0,0:23:39.48,0:23:42.36,Meshi_EDJP,,777,0,0,,{\blur2}超えるような希望のフレイバー
+Dialogue: 0,0:23:42.53,0:23:45.28,Meshi_EDJP,,0,0,0,,{\blur2}ただ君が笑うだけ
+Dialogue: 0,0:23:45.28,0:23:47.36,Meshi_EDJP,,0,777,0,,{\blur2}だから今日は騒いだって
+Dialogue: 0,0:23:47.36,0:23:50.28,Meshi_EDJP,,0,777,0,,{\blur2}誰も文句は言わせない
+Dialogue: 0,0:23:50.28,0:23:52.99,Meshi_EDJP,,888,0,0,,{\blur2}君のためのパーティーだ！
+Dialogue: 0,0:23:52.99,0:23:56.54,Meshi_EDJP,,888,0,0,,{\blur2}楽しもうよ
+Dialogue: 0,0:23:58.12,0:23:59.88,Meshi_EDJP,,0,0,0,,{\an8\blur2}いいから跳んじゃって！
+Comment: 0,0:22:31.58,0:22:33.58,Meshi_EDCN,,0,0,0,,
+Dialogue: 0,0:22:33.58,0:22:37.04,Meshi_EDCN,,888,0,0,,都是为你准备的聚会
+Dialogue: 0,0:22:43.68,0:22:47.39,Meshi_EDCN,,0,1070,0,,该从何处说起呢
+Dialogue: 0,0:22:47.39,0:22:52.73,Meshi_EDCN,,0,1070,0,,一路总是得到你的拯救
+Dialogue: 0,0:22:52.73,0:22:59.23,Meshi_EDCN,,0,820,1,,所以今天要送你一份惊喜
+Dialogue: 0,0:23:00.19,0:23:01.99,Meshi_EDCN,,0,0,0,,那开始吧
+Dialogue: 0,0:23:02.49,0:23:04.78,Meshi_EDCN,,0,0,0,,不习惯的衣着打扮
+Dialogue: 0,0:23:04.78,0:23:07.78,Meshi_EDCN,,0,0,0,,熟悉的朋友前来迎接
+Dialogue: 0,0:23:08.83,0:23:10.16,Meshi_EDCN,,0,0,0,,你的事情
+Dialogue: 0,0:23:10.16,0:23:12.79,Meshi_EDCN,,0,0,0,,大家何时曾经忘记
+Dialogue: 0,0:23:12.79,0:23:14.12,Meshi_EDCN,,0,777,1,,Full-course session
+Dialogue: 0,0:23:14.12,0:23:16.50,Meshi_EDCN,,0,777,1,,※反应并非虚构
+Dialogue: 0,0:23:16.50,0:23:18.50,Meshi_EDCN,,0,777,1,,用餐愉快
+Dialogue: 0,0:23:21.80,0:23:23.76,Meshi_EDCN,,0,0,0,,「谢谢」还不足够
+Dialogue: 0,0:23:23.76,0:23:26.51,Meshi_EDCN,,0,0,0,,在此之上怎样都好
+Dialogue: 0,0:23:26.76,0:23:29.76,Meshi_EDCN,,0,0,0,,只要理解便好
+Dialogue: 0,0:23:29.76,0:23:31.64,Meshi_EDCN,,0,777,0,,打闹也好欢笑也好
+Dialogue: 0,0:23:31.64,0:23:34.52,Meshi_EDCN,,0,777,0,,打湿眼眶的夜晚也好
+Dialogue: 0,0:23:34.52,0:23:37.52,Meshi_EDCN,,0,777,0,,大家都是你的伙伴
+Dialogue: 0,0:23:37.52,0:23:39.48,Meshi_EDCN,,777,0,0,,无论怎样的魔法
+Dialogue: 0,0:23:39.48,0:23:42.36,Meshi_EDCN,,777,0,0,,都难比拟的希望的味道
+Dialogue: 0,0:23:42.53,0:23:45.28,Meshi_EDCN,,0,0,0,,只要看到你的笑容
+Dialogue: 0,0:23:45.28,0:23:47.36,Meshi_EDCN,,0,777,0,,今天就尽情喧闹吧
+Dialogue: 0,0:23:47.36,0:23:50.28,Meshi_EDCN,,0,777,0,,没有人能有意见
+Dialogue: 0,0:23:50.28,0:23:52.99,Meshi_EDCN,,888,0,0,,都是为你准备的聚会
+Dialogue: 0,0:23:52.99,0:23:56.54,Meshi_EDCN,,888,0,0,,开心尽兴吧
+Dialogue: 0,0:23:58.12,0:23:59.88,Meshi_EDCN,,0,0,0,,就来跳起来吧
+Comment: 0,0:23:25.13,0:23:27.13,Default,,0,0,0,,

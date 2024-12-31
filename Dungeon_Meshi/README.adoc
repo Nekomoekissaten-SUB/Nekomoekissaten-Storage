@@ -1,0 +1,43 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 迷宫饭
+
+// toc::[]
+
+== 第 1 期
+
+TV.01-24
+
+{dl_link}/{tag_chi}/Dungeon_Meshi_Web_JPCH.7z[简繁日双语 Web 合集]
+
+.所需字体
+....
+A-OTF UD新ゴ Pr6N DB <A-OTF UD Shin Go Pr6N DB>
+FOT-マティス ProN B <FOT-Matisse ProN B>
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+方正硬笔楷书_GBK <FZYingBiKaiShu-S15>
+方正悠宋 GBK 509R <FZYouSong GBK 509R>
+方正正粗黑_GBK <FZZhengHei-B-GBK>
+方正中雅宋_GBK <FZYaSong-DB-GBK>
+华康手札体W7-A <DFHannotateW7-A>
+森泽UD新黑 Gb4 DB <MO UDShinGo SC Gb4 DB>
+....
+
+// image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
