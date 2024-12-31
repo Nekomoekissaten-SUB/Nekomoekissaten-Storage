@@ -1,0 +1,56 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 蔚蓝档案
+
+// toc::[]
+
+// == 第 1 季度
+
+TV.01-12
+
+{dl_link}/{tag_chi}/Blue_Archive_Web_JPCH.7z[简繁日双语 BD 合集]
+
+.所需字体
+....
+FOT-UD丸ゴ_ラージ Pr6N B <FOT-UDMarugo_Large Pr6N B>
+FOT-マティス ProN B <FOT-Matisse ProN B>
+FOT-ロダン ProN B <FOT-Rodin ProN B>
+FOT-筑紫A丸ゴシック Std B <FOT-TsukuARdGothic Std B>
+方正FW筑紫A圆 简 B <FZFW ZhuZi A YuanS B>
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+方正卡通_GBK <FZKaTong-M19>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭特黑_GBK <FZLanTingHei-H-GBK>
+方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+方正兰亭圆_GBK_中粗 <FZLanTingYuan-DB1-GBK>
+方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
+方正特雅宋_GBK <FZYaSong-H-GBK>
+方正悠宋 GBK 509R <FZYouSong GBK 509R>
+方正中雅宋_GBK <FZYaSong-DB-GBK>
+方正准雅宋_GBK <FZYaSong-M-GBK>
+华康翩翩体W5-A <DFHanziPenW5-A>
+华康手札体W7-A <DFHannotateW7-A>
+华康正颜楷体W7P <DFPYanKaiW7-GB>
+華康正顏楷體W7(P) <DFPYanKaiW7-B5>
+....
+
+// image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
