@@ -2,7 +2,7 @@
 
 简繁日双语
 
-[剧场版 Web 合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Komada_Web_JPCH.7z)
+[剧场版 BDRip 合集字幕下载](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Komada_BD_JPCH.7z)
 
 所需字体：
 ```
