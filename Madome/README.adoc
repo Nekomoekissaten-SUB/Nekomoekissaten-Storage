@@ -1,0 +1,40 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 身为魔王的我娶了奴隶精灵为妻、该如何爱她才好？
+
+// toc::[]
+
+// == 第 1 季度
+
+EP.01-12
+
+{dl_link}/{tag_chi}/Madome_BD_JPCH.7z[简繁日双语 BD 合集]
+
+.所需字体
+....
+FOT-モード明朝Aラージ ProN B <FOT-ModeMinALarge ProN B>
+FOT-レゲエ Std B <FOT-Reggae Std B>
+Tiejili SC
+方正卡通_GBK <FZKaTong-M19>
+方正宋黑_GBK <FZSongHei-B07>
+汉仪糯米团W <HYNuoMiTuanW>
+汉仪旗黑 75S <HYQiHei 75S>
+汉仪正圆-65S <HYZhengYuan-65S>
+....
+
+{dl_link}/{tag_big}/Madome_Effect.7z[OP 特效]
+
+// {back_to_top}
