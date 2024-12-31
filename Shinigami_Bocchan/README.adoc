@@ -1,0 +1,40 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 死神少爷与黑女仆
+
+// toc::[]
+
+== 第 1 季度
+
+EP.01-12
+
+{dl_link}/{tag_chi}/Shinigami_Bocchan_BD_zho.7z[简繁中文 BD 合集]
+
+.所需字体
+....
+FOT-Seurat Pro DB
+FOT-ぶどう Std L <FOT-Budo Std L>
+FOT-ライラ Std DB <FOT-Lyra Std DB>
+HYRunYuan-35W
+方正FW珍珠体 简繁 <FZFW ZhenZhuTiJF L>
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+....
+
+// image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
