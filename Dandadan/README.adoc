@@ -1,0 +1,58 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 超自然武装当哒当
+
+// toc::[]
+
+== 第 1 季度
+
+TV.01-12
+
+{dl_link}/{tag_chi}/Dandadan_S1_Web_JPCH.7z[简繁日双语 BD 合集]
+
+.所需字体
+....
+A-OTF ゴシックMB101 Pr6N B <A-OTF Gothic MB101 Pr6N B>
+FOT-ニューロダン ProN B <FOT-NewRodin ProN B>
+FZRuiZhengHei_GBK ExtraBold
+パンダベーカリー <panda bakery>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭大黑_GBK <FZLanTingHei-EB-GBK>
+方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭圆_GBK <FZLanTingYuan-R-GBK>
+方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+方正兰亭圆_GBK_准 <FZLanTingYuan-M-GBK>
+方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
+方正韵动粗黑_GBK <FZYunDongHei-B-GBK>
+方正中雅宋_GBK <FZYaSong-DB-GBK>
+汉仪旗黑 75S <HYQiHei 75S>
+汉仪旗黑 95S <HYQiHei 95S>
+汉仪玄宋 75S <HYXuanSong 75S>
+汉仪玄宋 85S <HYXuanSong 85S>
+华康楷体W5-A <DFKaiW5-A>
+华康手札体W5-A <DFHannotateW5-A>
+华康手札体W7-A <DFHannotateW7-A>
+华康娃娃体W5-A <DFWaWaW5-A>
+华康正颜楷体W7 <DFYanKaiW7-GB>
+華康正顏楷體W7 <DFYanKaiW7-B5>
+....
+
+// image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
