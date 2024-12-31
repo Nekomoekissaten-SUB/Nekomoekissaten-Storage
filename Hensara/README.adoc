@@ -1,0 +1,72 @@
+// :toc:
+// :toc-title: 目录
+// :toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 怪人的沙拉碗
+
+// toc::[]
+
+// == 第 1 季度
+
+MOV.01
+
+{dl_link}/{tag_chi}/Hensara_BD_JPCH.7z[简繁日双语 BD 合集]
+
+.所需字体
+....
+FOT-CinemaCN
+FOT-スーラ ProN DB <FOT-Seurat ProN DB>
+FOT-ニューセザンヌ ProN B <FOT-NewCezanne ProN B>
+FOT-ニューセザンヌ ProN DB <FOT-NewCezanne ProN DB>
+FZYiHei-M20
+Zpix
+仓耳今楷01-27533 W05 <TsangerJinKai01-27533 W05>
+方正北魏楷书_GBK <FZBeiWeiKaiShu-S19>
+方正标雅宋_GBK <FZYaSong-R-GBK>
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+方正大雅宋_GBK <FZYaSong-EB-GBK>
+方正卡通_GBK <FZKaTong-M19>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭大黑_GBK <FZLanTingHei-EB-GBK>
+方正兰亭特黑_GBK <FZLanTingHei-H-GBK>
+方正兰亭细黑_GBK <FZLanTingHei-L-GBK>
+方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正兰亭圆_GBK_纤 <FZLanTingYuan-EL-GBK>
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+方正兰亭圆_GBK_准 <FZLanTingYuan-M-GBK>
+方正兰亭中粗黑_GBK <FZLanTingHei-DB1-GBK>
+方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
+方正兰亭准黑_GBK <FZLanTingHei-M-GBK>
+方正隶变_GBK <FZLiBian-S02>
+方正少儿_GBK <FZShaoEr-M11>
+方正魏碑_GBK <FZWeiBei-S03>
+方正新楷体_GBK <FZNewKai-Z03>
+方正行楷_GBK <FZXingKai-S04>
+方正悠宋 GBK 509R <FZYouSong GBK 509R>
+方正韵动粗黑_GBK <FZYunDongHei-B-GBK>
+方正正中黑_GBK <FZZhengHei-DB-GBK>
+方正综艺_GBK <FZZongYi-M05>
+华康POP2体W9(P) <DFPPOP2W9-GB>
+华康翩翩体W3-A <DFHanziPenW3-A>
+华康翩翩体W5-A <DFHanziPenW5-A>
+华康娃娃体W5-A <DFWaWaW5-A>
+華康POP2體W9(P) <DFPPOP2W9-B5>
+腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
+....
+
+// image::others/tottochan-movie.jpg[tottochan,500]
+
+// {dl_link}/{tag_big}/Watakon_S1_Effect.7z[一期 OP 特效]
+
+// {back_to_top}
