@@ -1,0 +1,101 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] KAGE-JITSU! [10][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 45S,50,&H00FFFFFF,&H000000FF,&H00302B2D,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,24,1
+Style: Dial_JP,A-OTF UD Shin Go Pr6N DB,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,10,10,5,1
+Style: Dial_JP2,A-OTF UD Shin Go Pr6N DB,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,8,10,10,5,1
+Style: Dial_CH,HYQiHei 65S,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,10,10,54,1
+Style: Dial_CH2,HYQiHei 65S,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,8,10,10,50,1
+Style: Title,HYXuanSong 45S,50,&H00FFFFFF,&H000000FF,&H00302B2D,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:02.02,0:00:04.98,Default,,0,0,0,,{\fad(400,0)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途\N翻译：雪　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:01.88,0:00:03.24,Dial_JP,,0,0,0,,かげじつ
+Dialogue: 0,0:00:05.70,0:00:07.05,Dial_JP,,0,0,0,,イータ
+Dialogue: 0,0:00:07.05,0:00:07.93,Dial_JP,,0,0,0,,何
+Dialogue: 0,0:00:08.57,0:00:10.40,Dial_JP,,0,0,0,,もう飽きたのです
+Dialogue: 0,0:00:10.83,0:00:11.42,Dial_JP,,0,0,0,,ダメ
+Dialogue: 0,0:00:13.12,0:00:16.45,Dial_JP,,0,0,0,,確かにデルタはもっと力が欲しいと言ったのです
+Dialogue: 0,0:00:16.95,0:00:19.48,Dial_JP,,0,0,0,,でもこれは楽しくないのです
+Dialogue: 0,0:00:19.77,0:00:22.75,Dial_JP,,0,0,0,,この実験がうまくいけば
+Dialogue: 0,0:00:23.12,0:00:28.16,Dial_JP,,0,0,0,,デルタはムキムキマッチョになることができるから
+Dialogue: 0,0:00:28.16,0:00:30.78,Dial_JP,,0,0,0,,デルタはムキムキマッチョになりたいのです
+Dialogue: 0,0:00:30.78,0:00:32.64,Dial_JP,,0,0,0,,デルタは頑張るのです
+Dialogue: 0,0:00:32.64,0:00:33.25,Dial_JP,,0,0,0,,あれ？
+Dialogue: 0,0:00:33.77,0:00:35.55,Dial_JP,,0,0,0,,今実験と言ったのですか？
+Dialogue: 0,0:00:37.71,0:00:40.30,Dial_JP,,0,0,0,,準備は整った
+Dialogue: 0,0:00:40.97,0:00:42.09,Dial_JP,,0,0,0,,始める
+Dialogue: 0,0:00:42.09,0:00:43.85,Dial_JP,,0,0,0,,ワクワクなのです
+Dialogue: 0,0:00:44.30,0:00:47.13,Dial_JP,,0,0,0,,面白変身マシン　起動
+Dialogue: 0,0:00:47.13,0:00:49.10,Dial_JP,,0,0,0,,今面白と言ったのですか？
+Dialogue: 0,0:00:49.10,0:00:50.23,Dial_JP,,0,0,0,,ポチッとな
+Dialogue: 0,0:00:54.24,0:00:56.69,Dial_JP,,0,0,0,,よくわからないけどすごいのです
+Dialogue: 0,0:00:58.73,0:01:01.60,Dial_JP,,0,0,0,,スライムスーツなのに破れそうなのです
+Dialogue: 0,0:01:02.05,0:01:07.68,Dial_JP,,0,0,0,,得てして　服は破れるもの　マスター　言っていた
+Dialogue: 0,0:01:07.68,0:01:09.53,Dial_JP,,0,0,0,,ボスが言っていたのですね
+Dialogue: 0,0:01:09.95,0:01:12.95,Dial_JP,,0,0,0,,マスターはこうとも言っていた
+Dialogue: 0,0:01:12.95,0:01:17.54,Dial_JP,,0,0,0,,強そうな声を出しながら服を破けと
+Dialogue: 0,0:01:17.54,0:01:18.95,Dial_JP,,0,0,0,,やってみるのです
+Dialogue: 0,0:01:31.46,0:01:33.79,Dial_JP,,0,0,0,,実験成功
+Dialogue: 0,0:01:33.79,0:01:36.25,Dial_JP,,0,0,0,,すごい　すごいのです
+Dialogue: 0,0:01:36.25,0:01:38.75,Dial_JP,,0,0,0,,これぞムキムキマッチョなのです
+Dialogue: 0,0:01:39.17,0:01:40.06,Dial_JP,,0,0,0,,でも
+Dialogue: 0,0:01:41.15,0:01:44.17,Dial_JP,,0,0,0,,別に力は溢れてこないのです
+Dialogue: 0,0:01:44.59,0:01:45.63,Dial_JP,,0,0,0,,当たり前
+Dialogue: 0,0:01:46.99,0:01:51.92,Dial_JP,,0,0,0,,この機械は筋肉が大きく見えるだけだから
+Dialogue: 0,0:01:51.92,0:01:54.57,Dial_JP,,0,0,0,,それは意味がないのです
+Dialogue: 0,0:01:56.05,0:01:57.68,Dial_JP,,0,0,0,,これ戻るのです？
+Dialogue: 0,0:01:57.68,0:01:58.74,Dial_JP,,0,0,0,,知らない
+Dialogue: 1,0:00:01.88,0:00:03.24,Dial_CH,,0,0,0,,影实
+Dialogue: 1,0:00:05.70,0:00:07.05,Dial_CH,,0,0,0,,伊塔
+Dialogue: 1,0:00:07.05,0:00:07.93,Dial_CH,,0,0,0,,怎么
+Dialogue: 1,0:00:08.57,0:00:10.40,Dial_CH,,0,0,0,,好无聊 想走
+Dialogue: 1,0:00:10.83,0:00:11.42,Dial_CH,,0,0,0,,不行
+Dialogue: 1,0:00:13.12,0:00:16.45,Dial_CH,,0,0,0,,德尔塔是说过想要力量
+Dialogue: 1,0:00:16.95,0:00:19.48,Dial_CH,,0,0,0,,但这一点也不好玩
+Dialogue: 1,0:00:19.77,0:00:22.75,Dial_CH,,0,0,0,,如果实验能成功
+Dialogue: 1,0:00:23.12,0:00:28.16,Dial_CH,,0,0,0,,你就能能得到超大肌肉块
+Dialogue: 1,0:00:28.16,0:00:30.78,Dial_CH,,0,0,0,,德尔塔要得到超大肌肉块
+Dialogue: 1,0:00:30.78,0:00:32.64,Dial_CH,,0,0,0,,德尔塔会加油
+Dialogue: 1,0:00:32.64,0:00:33.25,Dial_CH,,0,0,0,,嗯？
+Dialogue: 1,0:00:33.77,0:00:35.55,Dial_CH,,0,0,0,,你刚才说实验？
+Dialogue: 1,0:00:37.71,0:00:40.30,Dial_CH,,0,0,0,,准备就绪
+Dialogue: 1,0:00:40.97,0:00:42.09,Dial_CH,,0,0,0,,开始
+Dialogue: 1,0:00:42.09,0:00:43.85,Dial_CH,,0,0,0,,满怀期待
+Dialogue: 1,0:00:44.30,0:00:47.13,Dial_CH,,0,0,0,,有趣变身器 启动
+Dialogue: 1,0:00:47.13,0:00:49.10,Dial_CH,,0,0,0,,你刚才说有趣？
+Dialogue: 1,0:00:49.10,0:00:50.23,Dial_CH,,0,0,0,,我按
+Dialogue: 1,0:00:54.24,0:00:56.69,Dial_CH,,0,0,0,,虽然不明白 但好像很厉害的样子
+Dialogue: 1,0:00:58.73,0:01:01.60,Dial_CH,,0,0,0,,史莱姆战斗服都要被撑破了
+Dialogue: 1,0:01:02.05,0:01:07.68,Dial_CH,,0,0,0,,主人曰 衣服就是会坏的
+Dialogue: 1,0:01:07.68,0:01:09.53,Dial_CH,,0,0,0,,老大这么说吗
+Dialogue: 1,0:01:09.95,0:01:12.95,Dial_CH,,0,0,0,,主人又曰
+Dialogue: 1,0:01:12.95,0:01:17.54,Dial_CH,,0,0,0,,爆衣时要大声吼
+Dialogue: 1,0:01:17.54,0:01:18.95,Dial_CH,,0,0,0,,试试
+Dialogue: 1,0:01:31.46,0:01:33.79,Dial_CH,,0,0,0,,实验成功
+Dialogue: 1,0:01:33.79,0:01:36.25,Dial_CH,,0,0,0,,好厉害 好厉害
+Dialogue: 1,0:01:36.25,0:01:38.75,Dial_CH,,0,0,0,,这就是超大肌肉块
+Dialogue: 1,0:01:39.17,0:01:40.06,Dial_CH,,0,0,0,,可是
+Dialogue: 1,0:01:41.15,0:01:44.17,Dial_CH,,0,0,0,,没感觉到力量爆发
+Dialogue: 1,0:01:44.59,0:01:45.63,Dial_CH,,0,0,0,,当然了
+Dialogue: 1,0:01:46.99,0:01:51.92,Dial_CH,,0,0,0,,这个机器只是让肌肉看起来变大而已
+Dialogue: 1,0:01:51.92,0:01:54.57,Dial_CH,,0,0,0,,那有什么用
+Dialogue: 1,0:01:56.05,0:01:57.68,Dial_CH,,0,0,0,,这能变回去？
+Dialogue: 1,0:01:57.68,0:01:58.74,Dial_CH,,0,0,0,,不知道
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:02.02,0:00:04.98,Title,,0,0,0,,{\blur5\t(0,250,\blur0)\fad(400,0)}七影想得到强壮的肌肉！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

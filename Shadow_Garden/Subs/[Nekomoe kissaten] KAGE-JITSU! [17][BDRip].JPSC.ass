@@ -1,0 +1,95 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] KAGE-JITSU! [17][BDRip].JPSC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYXuanSong 45S,50,&H00FFFFFF,&H000000FF,&H00302B2D,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,24,1
+Style: Dial_JP,A-OTF UD Shin Go Pr6N DB,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,10,10,5,1
+Style: Dial_JP2,A-OTF UD Shin Go Pr6N DB,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,8,10,10,5,1
+Style: Dial_CH,HYQiHei 65S,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,10,10,54,1
+Style: Dial_CH2,HYQiHei 65S,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,8,10,10,50,1
+Style: Title,HYXuanSong 45S,50,&H00FFFFFF,&H000000FF,&H00302B2D,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:02.02,0:00:04.98,Default,,0,0,0,,{\fad(400,0)}本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途\N翻译：雪　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:02.31,0:00:03.48,Dial_JP,,0,0,0,,かげじつ
+Dialogue: 0,0:00:05.66,0:00:07.17,Dial_JP,,0,0,0,,全員揃ってるわね
+Dialogue: 0,0:00:07.89,0:00:09.31,Dial_JP,,0,0,0,,ええ　アルファ様
+Dialogue: 0,0:00:09.53,0:00:10.89,Dial_JP,,0,0,0,,七陰全員ここに
+Dialogue: 0,0:00:13.14,0:00:16.33,Dial_JP,,0,0,0,,ナンバーズは666人まで拡大されたわ
+Dialogue: 0,0:00:18.44,0:00:18.95,Dial_JP,,0,0,0,,はい
+Dialogue: 0,0:00:18.95,0:00:22.23,Dial_JP,,0,0,0,,ラムダが扱き甲斐があると息を巻いていました
+Dialogue: 0,0:00:23.74,0:00:24.98,Dial_JP,,0,0,0,,ミツゴシのほうは
+Dialogue: 0,0:00:31.35,0:00:32.23,Dial_JP,,0,0,0,,えーっと
+Dialogue: 0,0:00:32.23,0:00:34.77,Dial_JP,,0,0,0,,不動産の買い占めは順調ですわ
+Dialogue: 0,0:00:36.45,0:00:40.32,Dial_JP,,0,0,0,,カイとオメガと連携して　不穏な動きはチェックしています
+Dialogue: 0,0:00:42.28,0:00:45.68,Dial_JP,,0,0,0,,主の周りの人間の行動もすべて把握済み
+Dialogue: 0,0:00:47.47,0:00:54.33,Dial_JP,,0,0,0,,諸々も問題ない
+Dialogue: 0,0:00:58.24,0:00:59.08,Dial_JP,,0,0,0,,わかったわ
+Dialogue: 0,0:00:59.47,0:01:02.80,Dial_JP,,0,0,0,,じゃあ　引き続き全員任務を継続させるということで
+Dialogue: 0,0:01:02.80,0:01:03.76,Dial_JP,,0,0,0,,はい
+Dialogue: 0,0:01:04.45,0:01:05.56,Dial_JP,,0,0,0,,それにしても
+Dialogue: 0,0:01:07.63,0:01:11.13,Dial_JP,,0,0,0,,この新商品おいしいですね
+Dialogue: 0,0:01:11.46,0:01:11.96,Dial_JP,,0,0,0,,ええ
+Dialogue: 0,0:01:12.53,0:01:17.60,Dial_JP,,0,0,0,,この月見るバーガーは限定商品にするのがもったいないくらいおいしいわ
+Dialogue: 0,0:01:17.92,0:01:19.84,Dial_JP,,0,0,0,,あえてレギュラーメニューにせず
+Dialogue: 0,0:01:19.84,0:01:23.75,Dial_JP,,0,0,0,,限定にすることで購買意欲を掻き立てていきたいなあっと
+Dialogue: 0,0:01:24.08,0:01:24.73,Dial_JP,,0,0,0,,そうね
+Dialogue: 0,0:01:26.68,0:01:30.55,Dial_JP,,0,0,0,,限定期間が終わる前にもう一度ミーティングを入れておきましょう
+Dialogue: 0,0:01:31.22,0:01:32.10,Dial_JP,,0,0,0,,わかりました
+Dialogue: 0,0:01:33.83,0:01:35.73,Dial_JP,,0,0,0,,イータ　何をやっているの
+Dialogue: 0,0:01:36.00,0:01:39.91,Dial_JP,,0,0,0,,こういう時も弛まぬ商品開発
+Dialogue: 0,0:01:39.91,0:01:41.49,Dial_JP,,0,0,0,,デルタが食べてみたいです
+Dialogue: 0,0:01:43.21,0:01:44.94,Dial_JP,,0,0,0,,匂いが強いのです
+Dialogue: 0,0:01:45.74,0:01:47.99,Dial_JP,,0,0,0,,チリソースかけすぎ
+Dialogue: 0,0:01:48.60,0:01:51.75,Dial_JP,,0,0,0,,命名　赤い月見るバーガー
+Dialogue: 0,0:01:52.38,0:01:54.12,Dial_JP,,0,0,0,,名前がちょっと不穏ね
+Dialogue: 0,0:01:55.72,0:01:56.93,Dial_JP,,0,0,0,,でもおいしいわ
+Dialogue: 1,0:00:02.31,0:00:03.48,Dial_CH,,0,0,0,,影实
+Dialogue: 1,0:00:05.66,0:00:07.17,Dial_CH,,0,0,0,,都到齐了吧
+Dialogue: 1,0:00:07.89,0:00:09.31,Dial_CH,,0,0,0,,是 阿尔法大人
+Dialogue: 1,0:00:09.53,0:00:10.89,Dial_CH,,0,0,0,,七影都在
+Dialogue: 1,0:00:13.14,0:00:16.33,Dial_CH,,0,0,0,,编号者已经扩充到{\fsp4}了{\r}66{\fsp4}6{\r}人
+Dialogue: 1,0:00:18.44,0:00:18.95,Dial_CH,,0,0,0,,是的
+Dialogue: 1,0:00:18.95,0:00:22.23,Dial_CH,,0,0,0,,都是好苗子 拉姆达可兴奋了
+Dialogue: 1,0:00:23.74,0:00:24.98,Dial_CH,,0,0,0,,三超怎么样
+Dialogue: 1,0:00:31.35,0:00:32.23,Dial_CH,,0,0,0,,嗯
+Dialogue: 1,0:00:32.23,0:00:34.77,Dial_CH,,0,0,0,,正在稳步囤积不动产
+Dialogue: 1,0:00:36.45,0:00:40.32,Dial_CH,,0,0,0,,凯和欧米伽正在观测局势动向
+Dialogue: 1,0:00:42.28,0:00:45.68,Dial_CH,,0,0,0,,主人身边人的行动也尽在把握
+Dialogue: 1,0:00:47.47,0:00:54.33,Dial_CH,,0,0,0,,一切都没问题
+Dialogue: 1,0:00:58.24,0:00:59.08,Dial_CH,,0,0,0,,好的
+Dialogue: 1,0:00:59.47,0:01:02.80,Dial_CH,,0,0,0,,那么 大家继续做好手头上的任务
+Dialogue: 1,0:01:02.80,0:01:03.76,Dial_CH,,0,0,0,,是
+Dialogue: 1,0:01:04.45,0:01:05.56,Dial_CH,,0,0,0,,不过话说回来
+Dialogue: 1,0:01:07.63,0:01:11.13,Dial_CH,,0,0,0,,这个新款产品很好吃 对吧
+Dialogue: 1,0:01:11.46,0:01:11.96,Dial_CH,,0,0,0,,是的
+Dialogue: 1,0:01:12.53,0:01:17.60,Dial_CH,,0,0,0,,这个赏月堡真的很好吃 限时售卖有些可惜了
+Dialogue: 1,0:01:17.92,0:01:19.84,Dial_CH,,0,0,0,,故意不放到标准菜单上的
+Dialogue: 1,0:01:19.84,0:01:23.75,Dial_CH,,0,0,0,,限时售卖更能激起人们的购买欲望
+Dialogue: 1,0:01:24.08,0:01:24.73,Dial_CH,,0,0,0,,也是
+Dialogue: 1,0:01:26.68,0:01:30.55,Dial_CH,,0,0,0,,售卖期结束前再开一次会吧
+Dialogue: 1,0:01:31.22,0:01:32.10,Dial_CH,,0,0,0,,好的
+Dialogue: 1,0:01:33.83,0:01:35.73,Dial_CH,,0,0,0,,伊塔 你在干什么
+Dialogue: 1,0:01:36.00,0:01:39.91,Dial_CH,,0,0,0,,任何时候都要想着研发新商品
+Dialogue: 1,0:01:39.91,0:01:41.49,Dial_CH,,0,0,0,,德尔塔想吃吃看
+Dialogue: 1,0:01:43.21,0:01:44.94,Dial_CH,,0,0,0,,味道好大呀
+Dialogue: 1,0:01:45.74,0:01:47.99,Dial_CH,,0,0,0,,辣椒酱也加得太多了
+Dialogue: 1,0:01:48.60,0:01:51.75,Dial_CH,,0,0,0,,命名为 猩红赏月堡
+Dialogue: 1,0:01:52.38,0:01:54.12,Dial_CH,,0,0,0,,这名字有点狠
+Dialogue: 1,0:01:55.72,0:01:56.93,Dial_CH,,0,0,0,,不过很好吃
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:02.02,0:00:04.98,Title,,0,0,0,,{\blur5\t(0,250,\blur0)\fad(400,0)}七影想继续执行作战！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,

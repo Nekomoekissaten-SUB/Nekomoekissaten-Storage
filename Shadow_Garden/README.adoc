@@ -1,0 +1,45 @@
+:toc:
+:toc-title: Summary
+:toclevels: 3
+
+:dl_link: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download
+:tag_chi: subtitle_pkg
+:tag_jpn: subtitle_jpn
+:tag_big: subtitle_effect
+:imagesdir: https://nekomoe.pages.dev/images
+
+:back_to_top_target: top-target
+:back_to_top_label: 回到目录
+:back_to_top: <<{back_to_top_target},{back_to_top_label}>>
+
+[#{back_to_top_target}]
+= 陰の実力者になりたくて！
+
+// toc::[]
+
+== 字幕
+
+[cols="^.^,^.^,^.^,^.^,^.^,^.^", options="header"]
+|====
+|名称           |时间       |类型 |集数  |源类型   |备注
+|Season 1       .2+|2022-10 |TV   |01-20 .4+|BDRip |
+|Mini Season 1              |Web  |01-17           |
+|Season 2       .2+|2023-10 |TV   |01-12           |
+|Mini Season 2              |Web  |01-12           |
+|====
+
+{dl_link}/{tag_chi}/Shadow_Garden_BD_JPCH.7z[简繁日双语 BD 合集]，内含如上
+
+.所需字体
+....
+A-OTF UD新ゴ Pr6N DB <A-OTF UD Shin Go Pr6N DB>
+FOT-クックハンド Std R <FOT-CookHand Std R>
+FOT-マティス ProN B <FOT-Matisse ProN B>
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+汉仪旗黑 65S <HYQiHei 65S>
+汉仪玄宋 45S <HYXuanSong 45S>
+汉仪玄宋 75S <HYXuanSong 75S>
+华康手札体W5-A <DFHannotateW5-A>
+....
+
+// {back_to_top}
