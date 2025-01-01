@@ -113,6 +113,7 @@ FOT-筑紫Aオールド明朝 Pr6N D <FOT-TsukuAOldMin Pr6N D>
 |Nijiyon Season 3 |2020-06 .2+|有声漫画 |01-61 .3+|BDRip |{dl_link}/{tag_chi}/Nijiyon_S3_BD_JPCH.7z[简繁日双语字幕] |收录于TV S1 BD
 |Nijiyon Season 4 |2021-07 |01-61+Ex.01-10 |{dl_link}/{tag_chi}/Nijiyon_S4_BD_JPCH.7z[简繁日双语字幕] |收录于Fan Disc BD
 |Nijiyon Animation |2023-01 |动画 |01-15 |{dl_link}/{tag_chi}/Nijiyon_Animation_BD_JPCH.7z[简繁日双语字幕] |
+|Nijiyon Animation S2 |2024-04 |动画 |01-15 |{dl_link}/{tag_chi}/Nijiyon_Animation_S2_BD_JPCH.7z[简繁日双语字幕] |
 |====
 
 .所需字体
