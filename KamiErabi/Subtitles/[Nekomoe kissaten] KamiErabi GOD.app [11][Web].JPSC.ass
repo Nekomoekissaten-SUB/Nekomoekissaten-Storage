@@ -11,14 +11,14 @@ LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,HYXuanSong 75S,32,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
+Style: Default,HYXuanSong 75S,34,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
 Style: Dial-JP,FOT-TelopMin ProN E,40,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,2,1
 Style: Dial-JP2,FOT-TelopMin ProN E,38,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,1,1
 Style: Dial-CH,HYXuanSong 75S,48,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,34,1
 Style: Dial-CH2,HYXuanSong 75S,46,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,32,1
 Style: Screen,HYQiHei 75S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
-Style: Comment,HYXuanSong 75S,42,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,30,30,30,1
-Style: Title,@HYXuanSong 55S,50,&H00ECECEC,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,270,1,0,0,7,15,15,15,1
+Style: Comment,HYXuanSong 75S,42,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+Style: Title,@HYXuanSong 55S,58,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,270,1,0,0,7,15,15,15,1
 Style: OP_JP,FOT-TsukuMin Pr6N M,54,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
 Style: OP_CH,HYXuanSong 45S,45,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,15,1
 Style: ED_JP,FOT-TsukuMin Pr6N M,50,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,7,20,10,10,1
@@ -479,7 +479,7 @@ Dialogue: 1,0:20:59.98,0:21:01.15,Dial-CH,,0,0,0,,怎么会这样
 Dialogue: 1,0:21:02.36,0:21:04.97,Dial-CH,,0,0,0,,这也是代价吗
 Dialogue: 1,0:21:07.66,0:21:10.25,Dial-CH,,0,0,0,,动起来 动起来
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
-Dialogue: 0,0:04:06.98,0:04:12.02,Title,,0,0,0,,{\fs60\pos(520,110)}第十一话\N{\fs55}　『光芒还未抵达我们这里』
+Dialogue: 0,0:04:06.98,0:04:12.02,Title,,0,0,0,,{\fsp6\pos(520,104)}第十一话{\fsp}\N{\fscx100}　{\fscx\fs53}『光芒还未抵达我们这里』
 Comment: 0,0:04:12.02,0:04:14.02,Default,,0,0,0,,Comment
 Comment: 0,0:04:14.02,0:04:16.02,Default,,0,0,0,,Screen
 Dialogue: 0,0:07:30.10,0:07:35.48,Screen,,0,0,0,,{\an8\c&HFFFFFF&\3c&H4092EA&\bord3\blur5}你被选中了\N请许下你的愿望

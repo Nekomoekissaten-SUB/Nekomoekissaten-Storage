@@ -11,14 +11,14 @@ LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,HYXuanSong 75S,32,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
+Style: Default,HYXuanSong 75S,34,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
 Style: Dial-JP,FOT-TelopMin ProN E,40,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,2,1
 Style: Dial-JP2,FOT-TelopMin ProN E,38,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,1,1
 Style: Dial-CH,HYXuanSong 75S,48,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,34,1
 Style: Dial-CH2,HYXuanSong 75S,46,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,32,1
 Style: Screen,HYQiHei 75S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
-Style: Comment,HYXuanSong 75S,42,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,30,30,30,1
-Style: Title,@HYXuanSong 55S,50,&H00ECECEC,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,270,1,0,0,7,15,15,15,1
+Style: Comment,HYXuanSong 75S,42,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+Style: Title,@HYXuanSong 55S,58,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,270,1,0,0,7,15,15,15,1
 Style: OP_JP,FOT-TsukuMin Pr6N M,54,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
 Style: OP_CH,HYXuanSong 45S,45,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,15,1
 Style: ED_JP,FOT-TsukuMin Pr6N M,50,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,7,20,10,10,1
@@ -229,7 +229,7 @@ Dialogue: 0,0:13:50.16,0:13:54.76,Dial-JP,,0,0,0,,俺が冗談で　友達を殺
 Dialogue: 0,0:14:01.75,0:14:02.93,Dial-JP,,0,0,0,,くそが
 Dialogue: 0,0:14:05.06,0:14:06.49,Dial-JP,,0,0,0,,愚者の聖典
 Dialogue: 0,0:14:11.62,0:14:13.59,Dial-JP,,0,0,0,,大丈夫なのか　護郎
-Dialogue: 0,0:14:13.59,0:14:17.05,Dial-JP,,0,0,0,,ラル　代償のことは気にしなくていい
+Dialogue: 0,0:14:13.59,0:14:17.05,Dial-JP,,0,0,0,,螺流　代償のことは気にしなくていい
 Dialogue: 0,0:14:17.05,0:14:20.22,Dial-JP,,0,0,0,,とにかく今は　あいつを止める力を
 Dialogue: 0,0:14:28.65,0:14:30.96,Dial-JP,,0,0,0,,なんだ　今何て言った
 Dialogue: 0,0:14:32.09,0:14:36.69,Dial-JP,,0,0,0,,お前の能力　何かと連携しないと使えない力だろ
@@ -509,7 +509,7 @@ Dialogue: 1,0:13:50.16,0:13:54.76,Dial-CH,,0,0,0,,你覺得我是會開玩笑殺
 Dialogue: 1,0:14:01.75,0:14:02.93,Dial-CH,,0,0,0,,可惡
 Dialogue: 1,0:14:05.06,0:14:06.49,Dial-CH,,0,0,0,,愚者的聖典
 Dialogue: 1,0:14:11.62,0:14:13.59,Dial-CH,,0,0,0,,你沒事吧 護郎
-Dialogue: 1,0:14:13.59,0:14:17.05,Dial-CH,,0,0,0,,拉爾 不用關心代價
+Dialogue: 1,0:14:13.59,0:14:17.05,Dial-CH,,0,0,0,,螺流 不用關心代價
 Dialogue: 1,0:14:17.05,0:14:20.22,Dial-CH,,0,0,0,,總之現在先給我阻止他的力量
 Dialogue: 1,0:14:28.65,0:14:30.96,Dial-CH,,0,0,0,,怎麼了 你剛才說了什麼
 Dialogue: 1,0:14:32.09,0:14:36.69,Dial-CH,,0,0,0,,你的能力不和別的什麼合作就無法使用吧
@@ -589,7 +589,7 @@ Dialogue: 1,0:20:49.23,0:20:50.11,Dial-CH,,0,0,0,,秋津
 Dialogue: 1,0:20:50.96,0:20:52.23,Dial-CH,,0,0,0,,秋津
 Dialogue: 1,0:20:52.23,0:20:53.19,Dial-CH,,0,0,0,,秋津
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
-Dialogue: 0,0:02:07.02,0:02:12.03,Title,,0,0,0,,{\fs60\pos(550,110)}第三話\N{\fs55}『你是我、最好的朋友』
+Dialogue: 0,0:02:07.02,0:02:12.03,Title,,0,0,0,,{\fsp6\pos(550,110)}第三話{\fsp}\N{\fscx30}　{\fscx\fs53}『你是我、最好的朋友』
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
 Dialogue: 0,0:16:56.98,0:16:59.29,Comment,,0,0,0,,注：出自「大輪金剛陀羅尼」
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen

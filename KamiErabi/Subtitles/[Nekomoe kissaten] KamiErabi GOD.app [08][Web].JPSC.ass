@@ -11,14 +11,14 @@ LayoutResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,HYXuanSong 75S,32,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
+Style: Default,HYXuanSong 75S,34,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
 Style: Dial-JP,FOT-TelopMin ProN E,40,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,2,1
 Style: Dial-JP2,FOT-TelopMin ProN E,38,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,1,1
 Style: Dial-CH,HYXuanSong 75S,48,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,34,1
 Style: Dial-CH2,HYXuanSong 75S,46,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,32,1
 Style: Screen,HYQiHei 75S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
-Style: Comment,HYXuanSong 75S,42,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,30,30,30,1
-Style: Title,@HYXuanSong 55S,50,&H00ECECEC,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,270,1,0,0,7,15,15,15,1
+Style: Comment,HYXuanSong 75S,42,&H00FFFFFF,&H000000FF,&H00000096,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+Style: Title,@HYXuanSong 55S,58,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,270,1,0,0,7,15,15,15,1
 Style: OP_JP,FOT-TsukuMin Pr6N M,54,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,2,10,10,10,1
 Style: OP_CH,HYXuanSong 45S,45,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,8,10,10,15,1
 Style: ED_JP,FOT-TsukuMin Pr6N M,50,&H00FFFFFF,&H000000FF,&H00000000,&H007D4714,0,0,0,0,100,100,0,0,1,1.2,0,7,20,10,10,1
@@ -711,7 +711,7 @@ Dialogue: 1,0:21:04.37,0:21:07.54,Dial-CH,,0,0,0,,外面有点吵 发生了可�
 Dialogue: 1,0:21:08.54,0:21:12.63,Dial-CH,,0,0,0,,别担心 不会发生可怕的事
 Dialogue: 1,0:21:14.79,0:21:16.97,Dial-CH,,0,0,0,,一件都不会
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
-Dialogue: 0,0:03:26.98,0:03:31.98,Title,,0,0,0,,{\fs60\pos(550,90)}第八话\N{\fs55}『自我介绍稍后再做吧』
+Dialogue: 0,0:03:26.98,0:03:31.98,Title,,0,0,0,,{\fsp6\pos(550,83)}第八话{\fsp}\N{\fscx16}　{\fscx\fs53}『自我介绍稍后再做吧』
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
 Dialogue: 0,0:16:39.48,0:16:40.77,Comment,,0,0,0,,注：罗马神话中为众神传递信息的使者
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
