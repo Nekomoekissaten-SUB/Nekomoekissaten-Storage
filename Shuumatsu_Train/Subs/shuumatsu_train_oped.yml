@@ -1,7 +1,7 @@
 version : 2
 
 namef:
-  master: '[Nekomoe kissaten] Shuumatsu Train Doko e Iku [{{ep}}][Web].{{lang}}'
+  master: '[Nekomoe kissaten] Shuumatsu Train Doko e Iku [{{ep}}][BDRip].{{lang}}'
   op: 'Shuumatsu_Train_OP_01.{{lang}}'
   ed: 'Shuumatsu_Train_ED_01.{{lang}}'
 
@@ -14,8 +14,8 @@ tpl_fr:
 
 shift_fr:
   '01':
-    op: [0, 3990]
-    ed: [0, 31889]
+    op: [24, 4014]
+    ed: [24, 31913]
   '02':
     op: [-3669, 321]
     ed: [-1, 31888]
@@ -26,8 +26,8 @@ shift_fr:
     op: [-384, 3606]
     ed: [0, 31889]
   '05':
-    op: [-2829, 1161]
-    ed: [-1, 31888]
+    op: [-2805, 1185]
+    ed: [23, 31912]
   '06':
     op: [-1151, 2839]
     ed: [-2, 31887]
@@ -38,8 +38,8 @@ shift_fr:
     op: [-1391, 2599]
     ed: [-2, 31887]
   '09':
-    op: [-1919, 2071]
-    ed: [0, 31889]
+    op: [-1895, 2095]
+    ed: [24, 31913]
   '10':
     op: [-2087, 1903]
     ed: [-1, 31888]

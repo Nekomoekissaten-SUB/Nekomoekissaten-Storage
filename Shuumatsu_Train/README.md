@@ -1,7 +1,7 @@
 # 終末トレインどこへいく？
 
-内含 01-12 简繁中文 Web（含[特效](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_effect/Shuumatsu_Train_Effect.7z)）字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Shuumatsu_Train_Web_zho.7z)
+内含 01-12 简繁中文 BDRip（含[特效](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_effect/Shuumatsu_Train_Effect.7z)、总集篇 EP.11.5 Web）字幕  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Shuumatsu_Train_BD_zho.7z)
 
 所需字体：
 ```
