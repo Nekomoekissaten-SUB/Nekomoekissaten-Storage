@@ -26,6 +26,10 @@ FOT-CinemaCN
 文悦新青年体 W8
 ```
 
+### 修正
+
+1. 2025-06-16：EP05修正错字
+
 ## 海报
 
 ![](https://nekomoe.pages.dev/images/2020-10/OC.png)
