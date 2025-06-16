@@ -1,6 +1,6 @@
 # LOVE FLOPS
 
-[01-12 Web 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/LOVE_FLOPS_Web_JPCH.7z)
+[01-12 BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/LOVE_FLOPS_BD_JPCH.7z)
 
 所需字体：
 ```
@@ -31,3 +31,7 @@ FOT-ベビポップ Std EB <FOT-BabyPop Std EB>
 華康方圓體W7 <DFFangYuanW7-B5>
 腾祥伯当行楷GB18030 <Tensentype XingKaiGB18030>
 ```
+
+## 修正
+
+1. 2025-02-01：web -> bd，大量翻译与时轴修正，添加特效
