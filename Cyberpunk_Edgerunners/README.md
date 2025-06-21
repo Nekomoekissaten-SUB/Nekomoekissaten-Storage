@@ -2,8 +2,8 @@
 
 ### 中文字幕
 
-01-10 简繁日双语 WebRip 字幕（Netflix 源切掉片头，第一集 240 帧，之后 264 帧）  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Cyberpunk_Edgerunners_Web_JPCH.7z)
+01-10 简繁日双语 BD 字幕（Netflix 片头第一集 120 帧，之后 144 帧）  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Cyberpunk_Edgerunners_BDRip_JPCH.7z)
 
 使用字体：
 ```
