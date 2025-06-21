@@ -1,6 +1,6 @@
 # 葬送のフリーレン
 
-[01-28 简繁日双语 Web 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Frieren_Web_JPCH.7z)
+[01-28 简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Frieren_BDRip_JPCH.7z)
 
 使用字体：
 ```
