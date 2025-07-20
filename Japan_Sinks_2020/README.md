@@ -1,8 +1,8 @@
 # 字幕
 
-[中文BD字幕合集](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/master/Japan_Sinks_2020/Japan_Sinks_2020_BD_ZHO.7z)
+[中文BD字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Japan_Sinks_2020_BD_zho.7z)
 
-[日文Web字幕合集](https://raw.githubusercontent.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/master/Japan_Sinks_2020/Japan_Sinks_2020_Web_JPN.7z)
+[日文Web字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_jpn/Japan_Sinks_2020_jpn_NFLX.7z)
 
 ## 所需字体
 
