@@ -1,5 +1,5 @@
 #Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
-display_name="【喵萌奶茶屋】[藥師少女的獨語 / 藥屋少女的呢喃 / Kusuriya no Hitorigoto][<ep>][<res>p][繁日雙語][v2][招募翻譯]"
+display_name="【喵萌奶茶屋】★01月新番★[藥師少女的獨語 / 藥屋少女的呢喃 / Kusuriya no Hitorigoto][<ep>][<res>p][繁日雙語]"
 group_name="[喵萌奶茶屋]"
 poster="https://s2.loli.net/2023/10/24/UtHqniYkXraJ6oF.jpg"
 about="https://github.com/Nekomoekissaten-SUB"
@@ -24,3 +24,7 @@ name="喵萌奶茶屋"
 # [[intro_template]]
 # site="bangumi"
 # name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgnx_asia"
+name="174"
