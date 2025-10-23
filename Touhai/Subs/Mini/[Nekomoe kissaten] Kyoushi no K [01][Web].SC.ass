@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [01][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译·时轴：rumianoesa　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.57,0:00:01.69,Default,,0,0,0,,K老师
+Dialogue: 0,0:00:03.62,0:00:04.20,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.32,0:00:04.89,Default,,0,0,0,,怎么了
+Dialogue: 0,0:00:05.03,0:00:06.76,Default,,0,0,0,,伤牌是什么
+Dialogue: 0,0:00:07.21,0:00:08.02,Default,,0,0,0,,伤牌指的是
+Dialogue: 0,0:00:08.11,0:00:10.43,Default,,0,0,0,,事先在牌上留下印记或伤痕
+Dialogue: 0,0:00:10.60,0:00:12.52,Default,,0,0,0,,用以判断是哪张牌的出千
+Dialogue: 0,0:00:13.23,0:00:14.74,Default,,0,0,0,,只要记住这些牌
+Dialogue: 0,0:00:14.78,0:00:16.02,Default,,0,0,0,,就很好应对了
+Dialogue: 0,0:00:16.46,0:00:17.93,Default,,0,0,0,,K真是天才啊
+Dialogue: 0,0:00:18.56,0:00:21.61,Default,,0,0,0,,阿米娜如果好好吃饭也会变成天才吗
+Dialogue: 0,0:00:22.17,0:00:24.50,Default,,0,0,0,,牛肉盖饭 拉面 咖喱
+Dialogue: 0,0:00:24.92,0:00:27.03,Default,,0,0,0,,帕妃 蛋糕 布丁
+Dialogue: 0,0:00:28.61,0:00:30.76,Default,,0,0,0,,甜食包你吃个够
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:06.86,0:00:16.24,Cmt,,0,0,0,,伤牌是什么
+Dialogue: 0,0:00:08.52,0:00:16.24,Cmt,,0,0,0,,{\fad(250,0)}\N事先在牌上留下印记或伤痕
+Dialogue: 0,0:00:10.40,0:00:16.24,Cmt,,0,0,0,,{\fad(250,0)}用以判断是哪张牌的出千

@@ -1,0 +1,37 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [20][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.52,0:00:01.60,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:02.68,0:00:03.18,Default,,0,0,0,,K
+Dialogue: 0,0:00:03.33,0:00:04.65,Default,,0,0,0,,配合打法是甚麼
+Dialogue: 0,0:00:05.19,0:00:07.35,Default,,0,0,0,,麻將通常是四人之間的競技
+Dialogue: 0,0:00:07.48,0:00:10.11,Default,,0,0,0,,配合打法指的是組隊進行二對二的比賽
+Dialogue: 0,0:00:10.31,0:00:11.69,Default,,0,0,0,,故意讓隊友和牌
+Dialogue: 0,0:00:11.78,0:00:13.29,Default,,0,0,0,,讓隊友鳴必要的牌
+Dialogue: 0,0:00:13.39,0:00:14.68,Default,,0,0,0,,是常見的做法
+Dialogue: 0,0:00:14.92,0:00:16.50,Default,,0,0,0,,團隊合作很重要
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:04.81,0:00:14.70,Cmt,,0,0,0,,配合打法是甚麼
+Dialogue: 0,0:00:07.31,0:00:14.70,Cmt,,0,0,0,,組隊進行二對二的比賽
+Dialogue: 0,0:00:07.31,0:00:14.70,Cmt,,0,0,0,,{\pos(365,250)}A組
+Dialogue: 0,0:00:07.31,0:00:14.92,Cmt,,0,0,0,,{\pos(895,250)}B組
+Dialogue: 0,0:00:10.44,0:00:14.70,Cmt,,0,0,0,,{\an4\fad(250,0)\pos(15,590)}故意讓隊友和牌、讓隊友鳴必要的牌…

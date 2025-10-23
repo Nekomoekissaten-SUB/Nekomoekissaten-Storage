@@ -1,0 +1,41 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [04][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译·时轴：rumianoesa　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.61,0:00:01.75,Default,,0,0,0,,K老师
+Dialogue: 0,0:00:04.10,0:00:04.79,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.92,0:00:05.50,Default,,0,0,0,,怎么了
+Dialogue: 0,0:00:05.70,0:00:07.54,Default,,0,0,0,,没听是什么
+Dialogue: 0,0:00:08.28,0:00:10.27,Default,,0,0,0,,是指手上的牌没有听牌
+Dialogue: 0,0:00:10.70,0:00:13.08,Default,,0,0,0,,没听牌 简称没听
+Dialogue: 0,0:00:14.85,0:00:16.69,Default,,0,0,0,,听牌是什么
+Dialogue: 0,0:00:17.24,0:00:20.32,Default,,0,0,0,,是指还差一张牌就能和牌的状态
+Dialogue: 0,0:00:21.00,0:00:22.21,Default,,0,0,0,,在这个状态下
+Dialogue: 0,0:00:22.38,0:00:25.22,Default,,0,0,0,,如果没有鸣牌就可以立直
+Dialogue: 0,0:00:27.85,0:00:30.03,Default,,0,0,0,,阿米娜学会了好多东西
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:07.73,0:00:25.83,Cmt,,0,0,0,,没听是什么
+Dialogue: 0,0:00:08.36,0:00:25.83,Cmt,,0,0,0,,{\fad(250,0)}\N手上的牌没有听牌
+Dialogue: 0,0:00:10.11,0:00:14.61,Cmt,,0,0,0,,{\an9\fad(250,350)\pos(1265,116)}还不能和牌…
+Dialogue: 0,0:00:14.86,0:00:25.83,Cmt,,0,0,0,,{\an4\fad(250,0)}听牌是什么
+Dialogue: 0,0:00:17.45,0:00:25.83,Cmt,,0,0,0,,{\an4\fad(250,0)}\N还差一张牌就能和牌的状态
+Dialogue: 0,0:00:17.45,0:00:25.83,Cmt,,0,0,0,,{\an6\fad(250,0)\pos(1265,497.333)}要和的牌
+Dialogue: 0,0:00:22.62,0:00:25.83,Cmt,,0,0,0,,{\an5\pos(640,616)}（没有碰或吃之类的就可以立直！）

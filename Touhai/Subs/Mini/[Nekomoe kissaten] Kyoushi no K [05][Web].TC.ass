@@ -1,0 +1,37 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [05][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.64,0:00:01.76,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.99,0:00:04.61,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.91,0:00:05.94,Default,,0,0,0,,今天想問甚麼
+Dialogue: 0,0:00:06.28,0:00:07.93,Default,,0,0,0,,祝儀是甚麼
+Dialogue: 0,0:00:08.68,0:00:11.74,Default,,0,0,0,,祝儀是指有別於普通點數結算額外加算的
+Dialogue: 0,0:00:12.01,0:00:13.84,Default,,0,0,0,,簡單來說就是獎勵點數
+Dialogue: 0,0:00:14.42,0:00:19.21,Default,,0,0,0,,主要通過一發自摸 裡寶牌 紅寶牌 役滿之類來獲得祝儀
+Dialogue: 0,0:00:20.92,0:00:23.11,Default,,0,0,0,,拿到很多祝儀就是有錢人？
+Dialogue: 0,0:00:23.48,0:00:24.79,Default,,0,0,0,,也許吧
+Dialogue: 0,0:00:27.27,0:00:29.24,Default,,0,0,0,,阿米娜有面包就好
+Dialogue: 0,0:00:30.24,0:00:30.93,Default,,0,0,0,,這樣啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:08.27,0:00:19.45,Cmt,,0,0,0,,祝儀是甚麼
+Dialogue: 0,0:00:09.40,0:00:19.45,Cmt,,0,0,0,,{\fad(250,0)}\N有別於普通點數結算額外加算的獎勵點數
+Dialogue: 0,0:00:14.57,0:00:19.45,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,576)}（通過一發自摸 裡寶牌 紅寶牌 役滿之類來獲得）

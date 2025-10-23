@@ -1,0 +1,43 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [15][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译·时轴：rumianoesa　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.65,0:00:01.77,Default,,0,0,0,,K老师
+Dialogue: 0,0:00:03.43,0:00:04.00,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.28,0:00:05.69,Default,,0,0,0,,三一是什么
+Dialogue: 0,0:00:06.17,0:00:08.36,Default,,0,0,0,,是麻将牌的一种玩法
+Dialogue: 0,0:00:09.13,0:00:11.75,Default,,0,0,0,,简单来说就是麻将版的黑杰克21点
+Dialogue: 0,0:00:12.60,0:00:14.31,Default,,0,0,0,,从牌山摸上麻将牌
+Dialogue: 0,0:00:14.53,0:00:16.10,Default,,0,0,0,,数牌就是对应的点数
+Dialogue: 0,0:00:16.59,0:00:17.51,Default,,0,0,0,,字牌是10点
+Dialogue: 0,0:00:18.04,0:00:21.40,Default,,0,0,0,,白由玩家选择是0点或11点
+Dialogue: 0,0:00:21.69,0:00:24.47,Default,,0,0,0,,合计更接近31点的玩家胜利
+Dialogue: 0,0:00:25.53,0:00:27.05,Default,,0,0,0,,这个阿米娜也能玩
+Dialogue: 0,0:00:27.70,0:00:29.63,Default,,0,0,0,,K 和阿米娜一决胜负吧
+Dialogue: 0,0:00:30.79,0:00:31.61,Default,,0,0,0,,放马过来
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:05.94,0:00:27.46,Cmt,,0,0,0,,三一是什么
+Dialogue: 0,0:00:06.98,0:00:27.46,Cmt,,0,0,0,,{\fad(250,0)}\N被称为三一的麻将牌玩法
+Dialogue: 0,0:00:10.78,0:00:27.46,Cmt,,0,0,0,,麻将版黑杰克
+Dialogue: 0,0:00:12.53,0:00:27.46,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,280)}从牌山摸上麻将牌，
+Dialogue: 0,0:00:14.66,0:00:27.46,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(350,503)}对应的点数
+Dialogue: 0,0:00:14.66,0:00:27.46,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(1000,503)}选择0点或11点
+Dialogue: 0,0:00:21.95,0:00:27.46,Cmt,,0,0,0,,{\an5\pos(640,575)}合计更接近31点的人胜利!!

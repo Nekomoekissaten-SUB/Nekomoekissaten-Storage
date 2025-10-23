@@ -1,0 +1,38 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [10][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.65,0:00:01.72,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.63,0:00:04.22,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.64,0:00:06.32,Default,,0,0,0,,天和是甚麼
+Dialogue: 0,0:00:06.86,0:00:11.52,Default,,0,0,0,,天和是指莊家用最初摸到的十四張牌和牌的役滿
+Dialogue: 0,0:00:12.12,0:00:15.16,Default,,0,0,0,,出現的機率是大約三十三萬分之一
+Dialogue: 0,0:00:15.50,0:00:17.78,Default,,0,0,0,,是役滿中最為稀有的
+Dialogue: 0,0:00:18.13,0:00:20.10,Default,,0,0,0,,三十三萬分之一
+Dialogue: 0,0:00:21.09,0:00:23.16,Default,,0,0,0,,是有多厲害啊
+Dialogue: 0,0:00:23.48,0:00:24.40,Default,,0,0,0,,這個嘛
+Dialogue: 0,0:00:25.06,0:00:27.12,Default,,0,0,0,,據說天和了就會死
+Dialogue: 0,0:00:27.94,0:00:30.86,Default,,0,0,0,,K 你絕對不可以天和
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:06.61,0:00:20.58,Cmt,,0,0,0,,天和是甚麼
+Dialogue: 0,0:00:08.11,0:00:20.58,Cmt,,0,0,0,,{\fad(250,0)}\N莊家用最初摸到的十四張牌和牌的役滿
+Dialogue: 0,0:00:12.82,0:00:20.58,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,462)}出現的機率是大約三十三萬分之一
+Dialogue: 0,0:00:16.41,0:00:20.58,Cmt,,0,0,0,,{\an5\pos(640,591)}在役滿中也是最稀有的！

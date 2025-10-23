@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [06][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译·时轴：rumianoesa　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.64,0:00:01.87,Default,,0,0,0,,K老师
+Dialogue: 0,0:00:04.17,0:00:04.85,Default,,0,0,0,,K
+Dialogue: 0,0:00:05.07,0:00:05.78,Default,,0,0,0,,怎么了
+Dialogue: 0,0:00:06.19,0:00:08.20,Default,,0,0,0,,门混是什么
+Dialogue: 0,0:00:08.93,0:00:10.98,Default,,0,0,0,,是门前清混一色的略称
+Dialogue: 0,0:00:12.52,0:00:13.63,Default,,0,0,0,,门前？
+Dialogue: 0,0:00:14.05,0:00:14.84,Default,,0,0,0,,混一色？
+Dialogue: 0,0:00:15.42,0:00:17.50,Default,,0,0,0,,门前清是指没有碰或吃之类
+Dialogue: 0,0:00:17.69,0:00:19.57,Default,,0,0,0,,从他家进行鸣牌的状态
+Dialogue: 0,0:00:20.21,0:00:23.97,Default,,0,0,0,,混一色是指万子 饼子 索子的其中一种
+Dialogue: 0,0:00:24.26,0:00:25.84,Default,,0,0,0,,加上其它只有字牌的和牌
+Dialogue: 0,0:00:27.76,0:00:28.76,Default,,0,0,0,,门混
+Dialogue: 0,0:00:29.45,0:00:30.31,Default,,0,0,0,,真酷啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:08.52,0:00:26.17,Cmt,,0,0,0,,门混是什么
+Dialogue: 0,0:00:09.15,0:00:26.17,Cmt,,0,0,0,,{\fad(250,0)}\N门前清混一色的略称
+Dialogue: 0,0:00:15.87,0:00:26.17,Cmt,,0,0,0,,{\an4\fad(250,0)\pos(15,304)}门前清 … 没有碰或吃之类的状态
+Dialogue: 0,0:00:20.24,0:00:26.17,Cmt,,0,0,0,,{\an4\fad(250,0)\pos(15,392)}混一色 … 万子·饼子·索子的其中一种加上其它只有字牌的和牌

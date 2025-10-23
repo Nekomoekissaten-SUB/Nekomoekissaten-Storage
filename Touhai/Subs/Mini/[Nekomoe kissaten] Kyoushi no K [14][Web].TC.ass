@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [14][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.61,0:00:01.71,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.42,0:00:03.98,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.28,0:00:05.96,Default,,0,0,0,,七對是甚麼
+Dialogue: 0,0:00:06.38,0:00:09.58,Default,,0,0,0,,七對是麻將中七對子這個役的略稱
+Dialogue: 0,0:00:09.87,0:00:12.10,Default,,0,0,0,,麻將的役通常是由被稱為面子的
+Dialogue: 0,0:00:12.14,0:00:14.33,Default,,0,0,0,,三張一組的牌共四組
+Dialogue: 0,0:00:14.39,0:00:18.05,Default,,0,0,0,,和被稱為雀頭的兩張一組牌為基礎構成
+Dialogue: 0,0:00:18.21,0:00:20.96,Default,,0,0,0,,七對子則是將被稱為對子的兩張一組的牌
+Dialogue: 0,0:00:21.16,0:00:22.56,Default,,0,0,0,,收集七組的役
+Dialogue: 0,0:00:23.42,0:00:25.28,Default,,0,0,0,,感覺比普通的役要更難
+Dialogue: 0,0:00:25.62,0:00:28.48,Default,,0,0,0,,機率大概是百分之二點五
+Dialogue: 0,0:00:28.67,0:00:30.89,Default,,0,0,0,,能和七對超級幸運啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:06.19,0:00:25.29,Cmt,,0,0,0,,七對是甚麼
+Dialogue: 0,0:00:07.23,0:00:25.29,Cmt,,0,0,0,,{\fad(250,0)}\N麻將中七對子這個役的略稱
+Dialogue: 0,0:00:10.99,0:00:25.29,Cmt,,0,0,0,,{\an5\pos(640,425)}麻將的役的基礎構成
+Dialogue: 0,0:00:10.99,0:00:25.29,Cmt,,0,0,0,,{\an5\pos(274,642)}雀頭
+Dialogue: 0,0:00:19.04,0:00:25.29,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,325)}將被稱為對子的兩張一組的牌收集七組的役

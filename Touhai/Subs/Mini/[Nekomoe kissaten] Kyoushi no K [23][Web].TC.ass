@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [23][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.64,0:00:01.70,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:02.85,0:00:03.36,Default,,0,0,0,,K
+Dialogue: 0,0:00:03.52,0:00:04.86,Default,,0,0,0,,默聽是甚麼
+Dialogue: 0,0:00:05.17,0:00:07.44,Default,,0,0,0,,就是默默聽牌的狀態
+Dialogue: 0,0:00:07.81,0:00:08.82,Default,,0,0,0,,如果立直了
+Dialogue: 0,0:00:08.94,0:00:10.80,Default,,0,0,0,,就更難和到別人打出的銃牌
+Dialogue: 0,0:00:10.94,0:00:12.42,Default,,0,0,0,,保持不立直的狀態
+Dialogue: 0,0:00:12.62,0:00:15.02,Default,,0,0,0,,更不容易被人警戒 更好和牌
+Dialogue: 0,0:00:15.25,0:00:16.55,Default,,0,0,0,,好像忍者一樣啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:04.94,0:00:15.03,Cmt,,0,0,0,,默聽是甚麼
+Dialogue: 0,0:00:05.81,0:00:15.03,Cmt,,0,0,0,,{\fad(200,0)}默默聽牌的狀態
+Dialogue: 0,0:00:10.69,0:00:15.03,Cmt,,0,0,0,,{\fad(200,0)\an5\pos(640,468)}保持不立直的狀態\N更不容易被人警戒更好和牌

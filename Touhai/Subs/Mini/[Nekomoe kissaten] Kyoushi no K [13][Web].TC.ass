@@ -1,0 +1,41 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [13][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.63,0:00:01.75,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.41,0:00:03.99,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.32,0:00:05.74,Default,,0,0,0,,振聽是甚麼
+Dialogue: 0,0:00:06.04,0:00:08.98,Default,,0,0,0,,振聽是指自己手牌已經聽牌
+Dialogue: 0,0:00:09.32,0:00:11.27,Default,,0,0,0,,卻不能榮和別人的情況
+Dialogue: 0,0:00:12.30,0:00:14.52,Default,,0,0,0,,可以和牌卻不能和牌
+Dialogue: 0,0:00:14.62,0:00:15.29,Default,,0,0,0,,為甚麼
+Dialogue: 0,0:00:15.57,0:00:18.50,Default,,0,0,0,,比較常見的是自己打掉過要和的牌
+Dialogue: 0,0:00:18.78,0:00:22.40,Default,,0,0,0,,還有就是見逃了別人的棄牌沒有榮和
+Dialogue: 0,0:00:22.56,0:00:23.65,Default,,0,0,0,,這種情況也會振聽
+Dialogue: 0,0:00:24.07,0:00:25.69,Default,,0,0,0,,要小心不能振聽啊
+Dialogue: 0,0:00:25.90,0:00:28.69,Default,,0,0,0,,但是就算振聽了只要自摸就能和牌
+Dialogue: 0,0:00:28.95,0:00:31.32,Default,,0,0,0,,重要的是看清楚棄牌
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:05.81,0:00:25.83,Cmt,,0,0,0,,振聽是甚麼
+Dialogue: 0,0:00:06.44,0:00:25.83,Cmt,,0,0,0,,{\fad(250,0)}\N自己手牌已經聽牌，但不能榮和別人
+Dialogue: 0,0:00:15.24,0:00:25.83,Cmt,,0,0,0,,{\an5\pos(640,325)}會振聽的情況
+Dialogue: 0,0:00:16.03,0:00:25.83,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(358,436)}· 自己打掉過要和的牌
+Dialogue: 0,0:00:19.33,0:00:25.83,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(399,518)}· 見逃了別人的棄牌沒有榮和

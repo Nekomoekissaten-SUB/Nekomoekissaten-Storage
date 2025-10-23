@@ -1,0 +1,39 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [17][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译·时轴：rumianoesa　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.54,0:00:01.61,Default,,0,0,0,,K老师
+Dialogue: 0,0:00:03.47,0:00:04.03,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.36,0:00:05.57,Default,,0,0,0,,罚符是什么
+Dialogue: 0,0:00:06.02,0:00:08.12,Default,,0,0,0,,罚符是指 对打麻将时错和
+Dialogue: 0,0:00:08.31,0:00:11.74,Default,,0,0,0,,也就是犯规的人进行的惩罚
+Dialogue: 0,0:00:12.05,0:00:15.89,Default,,0,0,0,,作为惩罚必须向其他玩家支付点数
+Dialogue: 0,0:00:16.28,0:00:19.31,Default,,0,0,0,,没听立直 振听荣和之类的就算错和
+Dialogue: 0,0:00:19.63,0:00:21.48,Default,,0,0,0,,好严厉的规则啊
+Dialogue: 0,0:00:21.71,0:00:24.87,Default,,0,0,0,,可是 出千不用罚符吗
+Dialogue: 0,0:00:25.62,0:00:26.80,Default,,0,0,0,,这… 这个嘛
+Dialogue: 0,0:00:27.10,0:00:28.00,Default,,0,0,0,,不露馅就行
+Dialogue: 0,0:00:28.60,0:00:31.62,Default,,0,0,0,,大家还是要遵守规则 开心地打麻将
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:05.56,0:00:21.50,Cmt,,0,0,0,,罚符是什么
+Dialogue: 0,0:00:06.81,0:00:21.50,Cmt,,0,0,0,,{\fad(250,0)\pos(15,160)}对打麻将时错和(犯规)的人进行的惩罚。
+Dialogue: 0,0:00:12.36,0:00:21.50,Cmt,,0,0,0,,{\fad(250,0)\pos(15,241.667)}作为惩罚向其他玩家支付点数。
+Dialogue: 0,0:00:17.07,0:00:21.50,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,575)}错和的例子…没听立直、振听荣和等

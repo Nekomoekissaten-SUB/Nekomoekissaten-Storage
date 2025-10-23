@@ -1,0 +1,39 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [03][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.60,0:00:01.77,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.78,0:00:04.35,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.72,0:00:06.98,Default,,0,0,0,,青天井是甚麼
+Dialogue: 0,0:00:07.90,0:00:09.81,Default,,0,0,0,,是把天空當成天花板
+Dialogue: 0,0:00:10.07,0:00:12.62,Default,,0,0,0,,讓價格無上限地上升
+Dialogue: 0,0:00:13.22,0:00:15.40,Default,,0,0,0,,在麻將中是指點數輸贏沒有上限
+Dialogue: 0,0:00:15.74,0:00:21.18,Default,,0,0,0,,也就是不再使用滿貫 跳滿 倍滿 役滿這些劃分的規則
+Dialogue: 0,0:00:22.76,0:00:23.63,Default,,0,0,0,,Danger？
+Dialogue: 0,0:00:24.25,0:00:24.91,Default,,0,0,0,,是啊
+Dialogue: 0,0:00:25.32,0:00:26.73,Default,,0,0,0,,是危險的規則
+Dialogue: 0,0:00:27.78,0:00:30.25,Default,,0,0,0,,K你沒在珍惜生命
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:07.27,0:00:21.79,Cmt,,0,0,0,,青天井是甚麼
+Dialogue: 0,0:00:08.77,0:00:21.79,Cmt,,0,0,0,,{\fad(250,0)}\N把天空當成天花板，讓價格無上限地上升
+Dialogue: 0,0:00:13.49,0:00:21.79,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,450)}在麻將中，指點數輸贏沒有上限
+Dialogue: 0,0:00:16.41,0:00:21.79,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,523)}（不再使用滿貫、跳滿、倍滿、役滿這些劃分的規則）
+Dialogue: 0,0:00:18.87,0:00:21.79,Cmt,,0,0,0,,{\an6\fad(250,0)\pos(1265,586)}點數輸贏會變得非常高…

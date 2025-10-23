@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [16][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.56,0:00:01.68,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.40,0:00:03.98,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.17,0:00:05.55,Default,,0,0,0,,生張是甚麼
+Dialogue: 0,0:00:05.86,0:00:09.13,Default,,0,0,0,,生張指的是還沒被打出來過的牌
+Dialogue: 0,0:00:09.72,0:00:11.48,Default,,0,0,0,,一張都沒被打出來的字牌之類
+Dialogue: 0,0:00:11.73,0:00:13.74,Default,,0,0,0,,對方手上很可能有
+Dialogue: 0,0:00:13.82,0:00:14.48,Default,,0,0,0,,會是危險牌
+Dialogue: 0,0:00:15.01,0:00:16.96,Default,,0,0,0,,也就是對方需要的牌
+Dialogue: 0,0:00:17.36,0:00:20.83,Default,,0,0,0,,被打掉的牌也需要仔細觀察啊
+Dialogue: 0,0:00:21.38,0:00:21.87,Default,,0,0,0,,沒錯
+Dialogue: 0,0:00:22.36,0:00:24.82,Default,,0,0,0,,麻將是非常深奧的究極遊戲
+Dialogue: 0,0:00:25.38,0:00:28.62,Default,,0,0,0,,所以麻將要比區區指頭更重要
+Dialogue: 0,0:00:28.74,0:00:30.45,Default,,0,0,0,,指頭更重要啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:05.69,0:00:20.95,Cmt,,0,0,0,,生張是甚麼
+Dialogue: 0,0:00:07.19,0:00:20.95,Cmt,,0,0,0,,{\fad(250,0)}\N還沒被打出來過的牌。
+Dialogue: 0,0:00:10.03,0:00:20.95,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,290)}一張都沒被打出來的字牌之類
+Dialogue: 0,0:00:11.44,0:00:20.95,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,480)}對方手上很可能有

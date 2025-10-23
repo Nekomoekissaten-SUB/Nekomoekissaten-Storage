@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [12][Web].SC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N翻译·时轴：rumianoesa　后期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.54,0:00:01.73,Default,,0,0,0,,K老师
+Dialogue: 0,0:00:03.56,0:00:04.12,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.39,0:00:05.91,Default,,0,0,0,,跳符是什么
+Dialogue: 0,0:00:06.67,0:00:08.42,Default,,0,0,0,,是指符数合计发生切上
+Dialogue: 0,0:00:08.57,0:00:09.90,Default,,0,0,0,,获得点数增加的情况
+Dialogue: 0,0:00:10.73,0:00:14.67,Default,,0,0,0,,麻将的点数由役的数量和符数共同决定
+Dialogue: 0,0:00:15.45,0:00:18.64,Default,,0,0,0,,符数会根据和牌方式和面子构成变化
+Dialogue: 0,0:00:19.04,0:00:21.18,Default,,0,0,0,,符数只要个位有1就会切上进10
+Dialogue: 0,0:00:21.53,0:00:25.26,Default,,0,0,0,,例如32符就会算作40符
+Dialogue: 0,0:00:25.91,0:00:27.28,Default,,0,0,0,,这就叫做跳符
+Dialogue: 0,0:00:27.99,0:00:28.94,Default,,0,0,0,,原来如此
+Dialogue: 0,0:00:29.30,0:00:31.09,Default,,0,0,0,,好像是很划算的规则
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:06.31,0:00:27.79,Cmt,,0,0,0,,跳符是什么
+Dialogue: 0,0:00:06.94,0:00:27.79,Cmt,,0,0,0,,{\fad(250,0)}\N符数合计发生切上，获得点数增加
+Dialogue: 0,0:00:10.15,0:00:27.79,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,558)}麻将的点数 = 役数 + 符数
+Dialogue: 0,0:00:15.82,0:00:27.79,Cmt,,0,0,0,,{\an6\fs25\fad(250,0)\pos(1265,628)}（和牌方式和面子构成）
+Dialogue: 0,0:00:23.75,0:00:27.79,Cmt,,0,0,0,,{\an5\fad(250,0)\pos(640,483)}个位进行切上

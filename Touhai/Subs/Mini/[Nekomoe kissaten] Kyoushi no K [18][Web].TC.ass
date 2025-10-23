@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [18][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.58,0:00:01.66,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.41,0:00:03.94,Default,,0,0,0,,K
+Dialogue: 0,0:00:04.12,0:00:05.53,Default,,0,0,0,,鬼手是甚麼
+Dialogue: 0,0:00:06.05,0:00:08.05,Default,,0,0,0,,雖然不是麻將用語
+Dialogue: 0,0:00:08.52,0:00:10.37,Default,,0,0,0,,鬼手是指手牌像鬼一樣好
+Dialogue: 0,0:00:10.53,0:00:12.73,Default,,0,0,0,,或者點數非常高
+Dialogue: 0,0:00:13.25,0:00:17.34,Default,,0,0,0,,麻將中常將很好的事情用鬼來表示
+Dialogue: 0,0:00:18.02,0:00:20.14,Default,,0,0,0,,像是鬼自摸 鬼摸牌之類的
+Dialogue: 0,0:00:20.69,0:00:21.90,Default,,0,0,0,,為甚麼是鬼呀
+Dialogue: 0,0:00:22.31,0:00:23.08,Default,,0,0,0,,確實
+Dialogue: 0,0:00:23.44,0:00:24.39,Default,,0,0,0,,為甚麼啊
+Dialogue: 0,0:00:25.11,0:00:27.78,Default,,0,0,0,,可能因為鬼是強大的象徵吧
+Dialogue: 0,0:00:28.15,0:00:29.36,Default,,0,0,0,,鬼厲害呀
+Dialogue: 0,0:00:30.26,0:00:31.63,Default,,0,0,0,,這樣說好像辣妹啊
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:05.65,0:00:20.16,Cmt,,0,0,0,,鬼手是甚麼
+Dialogue: 0,0:00:08.36,0:00:20.16,Cmt,,0,0,0,,{\fad(250,0)}手牌像鬼一樣好，點數非常高
+Dialogue: 0,0:00:13.99,0:00:20.16,Cmt,,0,0,0,,{\an4\fad(250,0)}麻將中常將很好的事情用鬼來表示\N(鬼自摸 鬼摸牌之類的)

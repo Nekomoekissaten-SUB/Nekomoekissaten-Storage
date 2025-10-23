@@ -1,0 +1,37 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Kyoushi no K [08][Web].TC
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+LayoutResX: 1280
+LayoutResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZLanTingYuan-DB-GBK,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,1
+Style: Staff,HYXuanSong 75S,38,&H00FFFFFF,&H000000FF,&H1D000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,15,15,15,1
+Style: Cmt,FZLanTingYuan-DB-GBK,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.00,0:00:02.69,Staff,,0,0,0,,{\fad(400,400)\blur2}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯·時軸：rumianoesa　後期：MIR
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dialogue
+Dialogue: 0,0:00:00.61,0:00:01.77,Default,,0,0,0,,K老師
+Dialogue: 0,0:00:03.76,0:00:04.48,Default,,0,0,0,,K
+Dialogue: 0,0:00:05.06,0:00:08.09,Default,,0,0,0,,出千(ikasama)為甚麼是烏賊(ika)啊
+Dialogue: 0,0:00:08.63,0:00:09.69,Default,,0,0,0,,有很多種說法
+Dialogue: 0,0:00:09.88,0:00:12.41,Default,,0,0,0,,有人用烏賊的墨汁在借款契約上寫字
+Dialogue: 0,0:00:12.49,0:00:14.53,Default,,0,0,0,,從而騙取了借得的錢財
+Dialogue: 0,0:00:14.74,0:00:17.89,Default,,0,0,0,,由烏賊墨汁(ikasumi)演變成了出千(ikasama)
+Dialogue: 0,0:00:18.52,0:00:22.28,Default,,0,0,0,,用烏賊墨汁寫的字好像經過一段時間就會消失
+Dialogue: 0,0:00:24.50,0:00:26.47,Default,,0,0,0,,阿米娜喜歡章魚
+Dialogue: 0,0:00:26.66,0:00:27.89,Default,,0,0,0,,所以章魚sama更好
+Dialogue: 0,0:00:28.27,0:00:30.25,Default,,0,0,0,,確實章魚會更可愛
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Comment
+Dialogue: 0,0:00:08.44,0:00:22.62,Cmt,,0,0,0,,出千(ikasama)為甚麼是烏賊(ika)？
+Dialogue: 0,0:00:12.57,0:00:22.62,Cmt,,0,0,0,,{\fad(250,0)}\N\N\N\N\N\N\N用烏賊的墨汁在借款契約上寫字
+Dialogue: 0,0:00:12.57,0:00:22.62,Cmt,,0,0,0,,{\fad(250,0)}從而騙取了借得的錢財（眾說紛紜）
