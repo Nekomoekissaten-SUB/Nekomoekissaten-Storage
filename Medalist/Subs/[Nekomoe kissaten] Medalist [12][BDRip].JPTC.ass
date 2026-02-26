@@ -572,7 +572,7 @@ Dialogue: 6,0:15:48.89,0:15:50.01,Dial_CH,,0,0,0,,好的
 Dialogue: 6,0:15:52.09,0:15:56.35,Dial_CH,,0,0,0,,就是因為只想著落冰 我的姿勢才會變差
 Dialogue: 6,0:15:56.86,0:16:01.36,Dial_CH,,0,0,0,,好好注意姿勢 指尖做好芭蕾手勢
 Dialogue: 6,0:16:07.86,0:16:09.84,Dial_CH,,0,0,0,,好啊 好極了
-Dialogue: 6,0:16:09.84,0:16:12.20,Dial_CH,,0,0,0,,阿克塞爾兩周跳 完美融入了曲子
+Dialogue: 6,0:16:09.84,0:16:12.20,Dial_CH,,0,0,0,,艾克索兩周跳 完美融入了曲子
 Dialogue: 6,0:16:13.73,0:16:17.21,Dial_CH,,0,0,0,,這下六級徽章考級的必要動作
 Dialogue: 6,0:16:17.59,0:16:18.75,Dial_CH,,0,0,0,,就全都學會了
 Dialogue: 6,0:16:19.87,0:16:21.73,Dial_CH,,0,0,0,,全都要感謝芭蕾課啊
@@ -586,7 +586,7 @@ Dialogue: 6,0:16:45.96,0:16:48.84,Dial_CH,,0,0,0,,注意從抬手到收腕的時
 Dialogue: 6,0:16:48.84,0:16:51.99,Dial_CH,,0,0,0,,另外 明浦路教練還強調過
 Dialogue: 6,0:16:52.33,0:16:53.93,Dial_CH,,0,0,0,,放平心態嘗試挑戰吧
 Dialogue: 6,0:16:54.29,0:16:57.33,Dial_CH,,0,0,0,,失敗也了沒關係 多挑戰幾次就行了嘛
-Dialogue: 6,0:17:02.77,0:17:06.56,Dial_CH,,0,0,0,,後外點冰三週接兩周跳
+Dialogue: 6,0:17:02.77,0:17:06.56,Dial_CH,,0,0,0,,後外點冰三周接兩周跳
 Dialogue: 6,0:17:07.76,0:17:09.17,Dial_CH,,0,0,0,,理 理凰
 Dialogue: 6,0:17:12.03,0:17:13.51,Dial_CH,,0,0,0,,我也行
 Dialogue: 6,0:17:17.51,0:17:20.02,Dial_CH,,0,0,0,,看吧 輕輕鬆鬆
@@ -1893,60 +1893,60 @@ Dialogue: 0,0:15:43.13,0:15:43.17,Screen,,0,0,0,,{\fscy100.12\fscx100.12\alpha&H
 Dialogue: 0,0:15:43.17,0:15:43.21,Screen,,0,0,0,,{\fscy100.08\fscx100.08\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HFBF6F1&\pos(151.31,384.26)}前半：體力充沛，跳躍成功率高
 Dialogue: 0,0:15:43.21,0:15:43.26,Screen,,0,0,0,,{\fscy100.02\fscx100.02\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HFBF6F1&\pos(151.85,384.15)}前半：體力充沛，跳躍成功率高
 Dialogue: 0,0:15:43.26,0:15:43.30,Screen,,0,0,0,,{\fscy100\fscx100\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HFBF6F1&\pos(152,384)}前半：體力充沛，跳躍成功率高
-Dialogue: 0,0:15:41.04,0:15:41.09,Screen,,0,0,0,,{\fscy111.49\fscx111.49\alpha&HFF&\t(0,250,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1340.61,220.88)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.09,0:15:41.13,Screen,,0,0,0,,{\fscy111.19\fscx111.19\alpha&HFF&\t(-42,208,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1339.58,220.24)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.13,0:15:41.17,Screen,,0,0,0,,{\fscy110.91\fscx110.91\alpha&HFF&\t(-84,166,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1338.61,219.59)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.17,0:15:41.21,Screen,,0,0,0,,{\fscy110.61\fscx110.61\alpha&HFF&\t(-126,124,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1337.6,218.97)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.21,0:15:41.25,Screen,,0,0,0,,{\fscy110.32\fscx110.32\alpha&HFF&\t(-167,83,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1336.57,218.36)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.25,0:15:41.30,Screen,,0,0,0,,{\fscy110.03\fscx110.03\alpha&HFF&\t(-209,41,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1335.62,217.73)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.30,0:15:41.34,Screen,,0,0,0,,{\fscy109.74\fscx109.74\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1334.61,217.11)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.34,0:15:41.38,Screen,,0,0,0,,{\fscy109.44\fscx109.44\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1333.62,216.51)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.38,0:15:41.42,Screen,,0,0,0,,{\fscy109.17\fscx109.17\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1332.67,215.87)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.42,0:15:41.46,Screen,,0,0,0,,{\fscy108.89\fscx108.89\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1331.7,215.28)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.46,0:15:41.50,Screen,,0,0,0,,{\fscy108.59\fscx108.59\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1330.7,214.68)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.50,0:15:41.55,Screen,,0,0,0,,{\fscy108.3\fscx108.3\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1329.7,214.12)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.55,0:15:41.59,Screen,,0,0,0,,{\fscy108.05\fscx108.05\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1328.81,213.48)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.59,0:15:41.63,Screen,,0,0,0,,{\fscy107.74\fscx107.74\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1327.81,212.92)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.63,0:15:41.67,Screen,,0,0,0,,{\fscy107.48\fscx107.48\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1326.9,212.3)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.67,0:15:41.71,Screen,,0,0,0,,{\fscy107.21\fscx107.21\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1325.98,211.69)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.71,0:15:41.75,Screen,,0,0,0,,{\fscy106.92\fscx106.92\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1325,211.13)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.75,0:15:41.80,Screen,,0,0,0,,{\fscy106.64\fscx106.64\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1324.03,210.57)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.80,0:15:41.84,Screen,,0,0,0,,{\fscy106.37\fscx106.37\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1323.12,209.97)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.84,0:15:41.88,Screen,,0,0,0,,{\fscy106.11\fscx106.11\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1322.2,209.37)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.88,0:15:41.92,Screen,,0,0,0,,{\fscy105.84\fscx105.84\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1321.3,208.82)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.92,0:15:41.96,Screen,,0,0,0,,{\fscy105.59\fscx105.59\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1320.42,208.2)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:41.96,0:15:42.00,Screen,,0,0,0,,{\fscy105.31\fscx105.31\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1319.47,207.67)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.00,0:15:42.05,Screen,,0,0,0,,{\fscy105.06\fscx105.06\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1318.59,207.06)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.05,0:15:42.09,Screen,,0,0,0,,{\fscy104.77\fscx104.77\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1317.63,206.57)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.09,0:15:42.13,Screen,,0,0,0,,{\fscy104.52\fscx104.52\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1316.76,205.98)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.13,0:15:42.17,Screen,,0,0,0,,{\fscy104.26\fscx104.26\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1315.87,205.44)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.17,0:15:42.21,Screen,,0,0,0,,{\fscy104\fscx104\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1315,204.86)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.21,0:15:42.25,Screen,,0,0,0,,{\fscy103.71\fscx103.71\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1314.01,204.37)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.25,0:15:42.30,Screen,,0,0,0,,{\fscy103.46\fscx103.46\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1313.14,203.83)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.30,0:15:42.34,Screen,,0,0,0,,{\fscy103.22\fscx103.22\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1312.32,203.22)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.34,0:15:42.38,Screen,,0,0,0,,{\fscy102.95\fscx102.95\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1311.43,202.71)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.38,0:15:42.42,Screen,,0,0,0,,{\fscy102.7\fscx102.7\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1310.56,202.2)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.42,0:15:42.46,Screen,,0,0,0,,{\fscy102.46\fscx102.46\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1309.75,201.68)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.46,0:15:42.50,Screen,,0,0,0,,{\fscy102.24\fscx102.24\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1308.99,201.21)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.50,0:15:42.55,Screen,,0,0,0,,{\fscy102.06\fscx102.06\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1308.36,200.7)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.55,0:15:42.59,Screen,,0,0,0,,{\fscy101.84\fscx101.84\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1307.63,200.29)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.59,0:15:42.63,Screen,,0,0,0,,{\fscy101.64\fscx101.64\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1306.93,199.91)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.63,0:15:42.67,Screen,,0,0,0,,{\fscy101.46\fscx101.46\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1306.33,199.52)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.67,0:15:42.71,Screen,,0,0,0,,{\fscy101.28\fscx101.28\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1305.74,199.2)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.71,0:15:42.75,Screen,,0,0,0,,{\fscy101.13\fscx101.13\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1305.19,198.85)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.75,0:15:42.80,Screen,,0,0,0,,{\fscy100.98\fscx100.98\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1304.69,198.54)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.80,0:15:42.84,Screen,,0,0,0,,{\fscy100.85\fscx100.85\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1304.23,198.24)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.84,0:15:42.88,Screen,,0,0,0,,{\fscy100.69\fscx100.69\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1303.72,198.02)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.88,0:15:42.92,Screen,,0,0,0,,{\fscy100.61\fscx100.61\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1303.41,197.7)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.92,0:15:42.96,Screen,,0,0,0,,{\fscy100.5\fscx100.5\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1303.03,197.51)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:42.96,0:15:43.01,Screen,,0,0,0,,{\fscy100.38\fscx100.38\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1302.65,197.32)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:43.01,0:15:43.05,Screen,,0,0,0,,{\fscy100.31\fscx100.31\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1302.4,197.14)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:43.05,0:15:43.09,Screen,,0,0,0,,{\fscy100.23\fscx100.23\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1302.12,196.95)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:43.09,0:15:43.13,Screen,,0,0,0,,{\fscy100.18\fscx100.18\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.94,196.79)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:43.13,0:15:43.17,Screen,,0,0,0,,{\fscy100.12\fscx100.12\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.72,196.67)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:43.17,0:15:43.21,Screen,,0,0,0,,{\fscy100.08\fscx100.08\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.6,196.55)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:43.21,0:15:43.26,Screen,,0,0,0,,{\fscy100.02\fscx100.02\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.43,196.55)}在哪裡加入阿克塞爾兩周跳？
-Dialogue: 0,0:15:43.26,0:15:43.30,Screen,,0,0,0,,{\fscy100\fscx100\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.33,196.45)}在哪裡加入阿克塞爾兩周跳？
+Dialogue: 0,0:15:41.04,0:15:41.09,Screen,,0,0,0,,{\fscy111.49\fscx111.49\alpha&HFF&\t(0,250,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1340.61,220.88)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.09,0:15:41.13,Screen,,0,0,0,,{\fscy111.19\fscx111.19\alpha&HFF&\t(-42,208,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1339.58,220.24)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.13,0:15:41.17,Screen,,0,0,0,,{\fscy110.91\fscx110.91\alpha&HFF&\t(-84,166,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1338.61,219.59)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.17,0:15:41.21,Screen,,0,0,0,,{\fscy110.61\fscx110.61\alpha&HFF&\t(-126,124,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1337.6,218.97)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.21,0:15:41.25,Screen,,0,0,0,,{\fscy110.32\fscx110.32\alpha&HFF&\t(-167,83,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1336.57,218.36)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.25,0:15:41.30,Screen,,0,0,0,,{\fscy110.03\fscx110.03\alpha&HFF&\t(-209,41,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1335.62,217.73)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.30,0:15:41.34,Screen,,0,0,0,,{\fscy109.74\fscx109.74\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1334.61,217.11)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.34,0:15:41.38,Screen,,0,0,0,,{\fscy109.44\fscx109.44\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1333.62,216.51)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.38,0:15:41.42,Screen,,0,0,0,,{\fscy109.17\fscx109.17\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1332.67,215.87)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.42,0:15:41.46,Screen,,0,0,0,,{\fscy108.89\fscx108.89\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1331.7,215.28)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.46,0:15:41.50,Screen,,0,0,0,,{\fscy108.59\fscx108.59\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1330.7,214.68)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.50,0:15:41.55,Screen,,0,0,0,,{\fscy108.3\fscx108.3\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1329.7,214.12)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.55,0:15:41.59,Screen,,0,0,0,,{\fscy108.05\fscx108.05\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1328.81,213.48)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.59,0:15:41.63,Screen,,0,0,0,,{\fscy107.74\fscx107.74\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1327.81,212.92)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.63,0:15:41.67,Screen,,0,0,0,,{\fscy107.48\fscx107.48\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1326.9,212.3)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.67,0:15:41.71,Screen,,0,0,0,,{\fscy107.21\fscx107.21\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1325.98,211.69)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.71,0:15:41.75,Screen,,0,0,0,,{\fscy106.92\fscx106.92\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1325,211.13)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.75,0:15:41.80,Screen,,0,0,0,,{\fscy106.64\fscx106.64\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1324.03,210.57)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.80,0:15:41.84,Screen,,0,0,0,,{\fscy106.37\fscx106.37\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1323.12,209.97)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.84,0:15:41.88,Screen,,0,0,0,,{\fscy106.11\fscx106.11\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1322.2,209.37)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.88,0:15:41.92,Screen,,0,0,0,,{\fscy105.84\fscx105.84\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1321.3,208.82)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.92,0:15:41.96,Screen,,0,0,0,,{\fscy105.59\fscx105.59\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1320.42,208.2)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:41.96,0:15:42.00,Screen,,0,0,0,,{\fscy105.31\fscx105.31\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1319.47,207.67)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.00,0:15:42.05,Screen,,0,0,0,,{\fscy105.06\fscx105.06\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1318.59,207.06)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.05,0:15:42.09,Screen,,0,0,0,,{\fscy104.77\fscx104.77\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1317.63,206.57)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.09,0:15:42.13,Screen,,0,0,0,,{\fscy104.52\fscx104.52\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1316.76,205.98)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.13,0:15:42.17,Screen,,0,0,0,,{\fscy104.26\fscx104.26\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1315.87,205.44)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.17,0:15:42.21,Screen,,0,0,0,,{\fscy104\fscx104\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1315,204.86)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.21,0:15:42.25,Screen,,0,0,0,,{\fscy103.71\fscx103.71\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1314.01,204.37)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.25,0:15:42.30,Screen,,0,0,0,,{\fscy103.46\fscx103.46\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1313.14,203.83)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.30,0:15:42.34,Screen,,0,0,0,,{\fscy103.22\fscx103.22\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1312.32,203.22)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.34,0:15:42.38,Screen,,0,0,0,,{\fscy102.95\fscx102.95\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1311.43,202.71)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.38,0:15:42.42,Screen,,0,0,0,,{\fscy102.7\fscx102.7\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1310.56,202.2)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.42,0:15:42.46,Screen,,0,0,0,,{\fscy102.46\fscx102.46\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1309.75,201.68)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.46,0:15:42.50,Screen,,0,0,0,,{\fscy102.24\fscx102.24\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1308.99,201.21)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.50,0:15:42.55,Screen,,0,0,0,,{\fscy102.06\fscx102.06\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1308.36,200.7)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.55,0:15:42.59,Screen,,0,0,0,,{\fscy101.84\fscx101.84\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1307.63,200.29)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.59,0:15:42.63,Screen,,0,0,0,,{\fscy101.64\fscx101.64\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1306.93,199.91)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.63,0:15:42.67,Screen,,0,0,0,,{\fscy101.46\fscx101.46\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1306.33,199.52)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.67,0:15:42.71,Screen,,0,0,0,,{\fscy101.28\fscx101.28\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1305.74,199.2)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.71,0:15:42.75,Screen,,0,0,0,,{\fscy101.13\fscx101.13\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1305.19,198.85)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.75,0:15:42.80,Screen,,0,0,0,,{\fscy100.98\fscx100.98\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1304.69,198.54)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.80,0:15:42.84,Screen,,0,0,0,,{\fscy100.85\fscx100.85\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1304.23,198.24)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.84,0:15:42.88,Screen,,0,0,0,,{\fscy100.69\fscx100.69\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1303.72,198.02)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.88,0:15:42.92,Screen,,0,0,0,,{\fscy100.61\fscx100.61\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1303.41,197.7)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.92,0:15:42.96,Screen,,0,0,0,,{\fscy100.5\fscx100.5\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1303.03,197.51)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:42.96,0:15:43.01,Screen,,0,0,0,,{\fscy100.38\fscx100.38\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1302.65,197.32)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:43.01,0:15:43.05,Screen,,0,0,0,,{\fscy100.31\fscx100.31\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1302.4,197.14)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:43.05,0:15:43.09,Screen,,0,0,0,,{\fscy100.23\fscx100.23\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1302.12,196.95)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:43.09,0:15:43.13,Screen,,0,0,0,,{\fscy100.18\fscx100.18\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.94,196.79)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:43.13,0:15:43.17,Screen,,0,0,0,,{\fscy100.12\fscx100.12\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.72,196.67)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:43.17,0:15:43.21,Screen,,0,0,0,,{\fscy100.08\fscx100.08\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.6,196.55)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:43.21,0:15:43.26,Screen,,0,0,0,,{\fscy100.02\fscx100.02\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.43,196.55)}在哪裡加入艾克索兩周跳？
+Dialogue: 0,0:15:43.26,0:15:43.30,Screen,,0,0,0,,{\fscy100\fscx100\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.33,196.45)}在哪裡加入艾克索兩周跳？
 Dialogue: 0,0:15:42.55,0:15:42.59,Screen,,0,0,0,,{\fscy101.84\fscx101.84\alpha&HFF&\t(0,250,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F7FC&\pos(138.06,895.51)}後半：能加分但是因為疲勞成功率會下降
 Dialogue: 0,0:15:42.59,0:15:42.63,Screen,,0,0,0,,{\fscy101.64\fscx101.64\alpha&HFF&\t(-42,208,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F7FC&\pos(139.63,893.78)}後半：能加分但是因為疲勞成功率會下降
 Dialogue: 0,0:15:42.63,0:15:42.67,Screen,,0,0,0,,{\fscy101.46\fscx101.46\alpha&HFF&\t(-83,167,\alpha&H00&)\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F7FC&\pos(141.14,892.14)}後半：能加分但是因為疲勞成功率會下降
@@ -1966,7 +1966,7 @@ Dialogue: 0,0:15:43.17,0:15:43.21,Screen,,0,0,0,,{\fscy100.08\fscx100.08\alpha&H
 Dialogue: 0,0:15:43.21,0:15:43.26,Screen,,0,0,0,,{\fscy100.02\fscx100.02\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F7FC&\pos(152.74,879.36)}後半：能加分但是因為疲勞成功率會下降
 Dialogue: 0,0:15:43.26,0:15:43.30,Screen,,0,0,0,,{\fscy100\fscx100\alpha&HFF&\alpha&H00&\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F7FC&\pos(152.89,879.11)}後半：能加分但是因為疲勞成功率會下降
 Dialogue: 0,0:15:43.30,0:15:44.42,Screen,,0,0,0,,{\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HFBF6F1&\pos(152,384)}前半：體力充沛，跳躍成功率高
-Dialogue: 0,0:15:43.30,0:15:44.42,Screen,,0,0,0,,{\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.334,196.445)}在哪裡加入阿克塞爾兩周跳？
+Dialogue: 0,0:15:43.30,0:15:44.42,Screen,,0,0,0,,{\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F9F9&\pos(1301.334,196.445)}在哪裡加入艾克索兩周跳？
 Dialogue: 0,0:15:43.30,0:15:44.42,Screen,,0,0,0,,{\an7\fnFZLanTingYuan-EB-GBK\fs32\c&HF8F7FC&\pos(152.889,879.111)}後半：能加分但是因為疲勞成功率會下降
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
 Dialogue: 0,0:02:33.01,0:02:35.26,Default,,0,0,0,,{\fad(360,0)\fscx98\fscy98\blur6}本字幕由喵萌奶茶屋製作 僅供交流試看之用 請勿用於商業用途\N翻譯：君恩共不回  Cryste　校對：はばやし　後期：MIR
