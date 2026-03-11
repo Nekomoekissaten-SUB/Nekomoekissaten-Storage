@@ -16,8 +16,8 @@ FOT-筑紫Cオールド明朝 Pr6N L <FOT-TsukuCOldMin Pr6N L>
 
 ## 2期
 
-内含 25-48 简繁日双语 Web 字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kusuriya_no_Hitorigoto_S2_Web_JPCH.7z)
+内含 25-48 简繁日双语 BDRip 字幕  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kusuriya_no_Hitorigoto_S2_BD_JPCH.7z)
 
 所需字体：
 ```
