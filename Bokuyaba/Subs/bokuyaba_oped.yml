@@ -1,7 +1,7 @@
 version : 2
 
 namef:
-  master: '[Nekomoe kissaten] Boku no Kokoro no Yabai Yatsu [{{ep}}][Web].{{lang}}'
+  master: '[Nekomoe kissaten] Boku no Kokoro no Yabai Yatsu [{{ep}}][BDRip].{{lang}}'
   op2: 'Bokuyaba_OP_13.{{lang}}'
   ed2: 'Bokuyaba_ED_13.{{lang}}'
 
@@ -11,6 +11,21 @@ fps:
 tpl_fr:
   op2: 1737  # OP首帧
   ed2: 31012  # ED首帧
+
+shift_fr_global:
+  '13': 13
+  '14': 35
+  '15': 24
+  '16': 24
+  '17': 24
+  '18': 24
+  '19': 30
+  '20': 27
+  '21': 24
+  '22': 24
+  '23': 24
+  '24': 24
+  '25': 24
 
 shift_fr:
   '13':
