@@ -17,38 +17,48 @@
 
 // toc::[]
 
-== 第 1 季度
+== 第 1 季度 + 第 2 季度
 
-TV.01-12
+TV.01-24
 
-{dl_link}/{tag_chi}/Dandadan_S1_Web_JPCH.7z[简繁日双语 Web 合集]
+{dl_link}/{tag_chi}/Dandadan_BD_JPCH.7z[简繁日双语 BDRip 合集]
 
 .所需字体
 ....
-A-OTF ゴシックMB101 Pr6N B <A-OTF Gothic MB101 Pr6N B>
-FOT-ニューロダン ProN B <FOT-NewRodin ProN B>
+A-OTF Gothic MB101 Pr6N B
+A-OTF UD Shin Go Pr6N R
+DFKaiW5-A
+DFPOP2-W9
+DFYanKaiW7-B5
+DFYanKaiW7-GB
+FOT-NewRodin ProN B
 FZRuiZhengHei_GBK ExtraBold
-パンダベーカリー <panda bakery>
+FZRuiZhengHei_GBK Medium
+FZYunDongHei-B-GBK
+panda bakery
+方正粗黑宋简繁 <FZCuHeiSong-B-JF>
+方正粗雅宋_GBK <FZYaSong-B-GBK>
 方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
 方正兰亭大黑_GBK <FZLanTingHei-EB-GBK>
 方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭特黑_GBK <FZLanTingHei-H-GBK>
 方正兰亭圆_GBK <FZLanTingYuan-R-GBK>
 方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正兰亭圆_GBK_特 <FZLanTingYuan-H-GBK>
 方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
 方正兰亭圆_GBK_准 <FZLanTingYuan-M-GBK>
 方正兰亭中黑_GBK <FZLanTingHei-DB-GBK>
-方正韵动粗黑_GBK <FZYunDongHei-B-GBK>
+方正特雅宋_GBK <FZYaSong-H-GBK>
 方正中雅宋_GBK <FZYaSong-DB-GBK>
 汉仪旗黑 75S <HYQiHei 75S>
 汉仪旗黑 95S <HYQiHei 95S>
 汉仪玄宋 75S <HYXuanSong 75S>
 汉仪玄宋 85S <HYXuanSong 85S>
-华康楷体W5-A <DFKaiW5-A>
+华康POP2体W9 <DFPOP2W9-GB>
 华康手札体W5-A <DFHannotateW5-A>
 华康手札体W7-A <DFHannotateW7-A>
 华康娃娃体W5-A <DFWaWaW5-A>
-华康正颜楷体W7 <DFYanKaiW7-GB>
-華康正顏楷體W7 <DFYanKaiW7-B5>
+華康POP2體W9 <DFPOP2W9-B5>
 ....
 
 // image::others/tottochan-movie.jpg[tottochan,500]
