@@ -1,14 +1,9 @@
 # Boku no Kokoro no Yabai Yatsu
 
-## Season 1
+## TV Season 1 + Season 2
 
-内含 01-12 + PV 简繁日双语 Web 字幕  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Bokuyaba_Web_JPCH.7z)
-
-## Season 2
-
-内含 Twi-Yaba + 13-25 + PV 简繁日双语 Web 字幕（含[特效](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_effect/Bokuyaba_S2_Effect.7z)）  
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Bokuyaba_S2_Web_JPCH.7z)
+内含 01-25 + PV + Twi-Yaba 简繁日双语 BDRip 字幕（13-25 含[特效](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_effect/Bokuyaba_S2_Effect.7z)）  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Bokuyaba_BD_JPCH.7z)
 
 ## 所需字体
 
