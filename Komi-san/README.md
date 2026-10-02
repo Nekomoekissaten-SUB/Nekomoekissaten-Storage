@@ -1,5 +1,8 @@
 # Komi-san
 
+更新日志：
+1. 2026-09-16 修复 [issues/217](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues/217)
+
 ## Season1
 
 [BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Komi-san_S1_BD_JPCH.7z)
