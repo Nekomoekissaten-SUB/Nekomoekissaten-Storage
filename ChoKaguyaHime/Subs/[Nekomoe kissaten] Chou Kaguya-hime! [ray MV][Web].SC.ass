@@ -1,0 +1,64 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Chou Kaguya-hime! [ray MV][Web].SC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,HYQiHei 75S,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Screen,HYQiHei 75S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: ED_JP,AnticCezannePro-M,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: ED_CH,HYQiHei 55S,60,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,15,15,15,1
+Style: M_JP,FOT-TsukuMin Pr6N L,50,&H00FFFFFF,&H000000FF,&H00CF7631,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,30,30,10,1
+Style: M_CH,HYXuanSong 35S,44,&H00FFFFFF,&H000000FF,&H00CF7631,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,30,30,60,1
+Style: Staff,HYQiHei 75S,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.88,0:00:09.55,Default,,0,0,0,,小心点别摔着了
+Dialogue: 0,0:00:15.66,0:00:18.08,Default,,0,0,0,,终于走到了这一步
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Screen
+Dialogue: 0,0:00:41.77,0:00:44.71,Screen,,0,0,0,,{\blur2.5\c&H313174&\bord1\3c&HD2D7D8&}再接再厉
+Dialogue: 1,0:00:46.35,0:00:48.02,Screen,,0,0,0,,{\3c&H410094&\bord2\pos(1689,79)\fnHYQiHei 95S}破魔项链
+Dialogue: 0,0:00:46.35,0:00:48.02,Screen,,0,0,0,,{\blur2\3c&H480AB0&\1a&HFF&\bord3\pos(1689,79)\fnHYQiHei 95S}破魔项链
+Dialogue: 1,0:00:46.35,0:00:48.02,Screen,,0,0,0,,{\pos(516,354)\3c&H410094&\bord2\fnHYQiHei 95S}毒蛇耳环
+Dialogue: 0,0:00:46.35,0:00:48.02,Screen,,0,0,0,,{\blur2\3c&H480AB0&\1a&HFF&\bord3\pos(516,354)\fnHYQiHei 95S}毒蛇耳环
+Dialogue: 1,0:00:46.35,0:00:48.02,Screen,,0,0,0,,{\pos(306,528)\3c&H410094&\bord2\fnHYQiHei 95S}钢铁铠甲
+Dialogue: 0,0:00:46.35,0:00:48.02,Screen,,0,0,0,,{\blur2\3c&H480AB0&\1a&HFF&\bord3\pos(306,528)\fnHYQiHei 95S}钢铁铠甲
+Dialogue: 0,0:00:52.58,0:00:53.69,Screen,,0,0,0,,{\an7\fs36}彩叶，辛苦你一直以来都这么努力。\N你真了不起，小八千快感动哭了。\N先深呼吸一下吧，吸 呼 吸 呼，轻松一点。嗯，没事啦。\N我觉得彩叶和彩叶妈妈的世界观实在差得有点远。\N这并不是一件坏事，也希望彩叶能珍惜对妈妈的感情。\N不过，当你们相处的时候你的…
+Dialogue: 0,0:00:58.94,0:01:00.94,Screen,,0,0,0,,{\c&H4966FE&\bord4\3c&HFFFFFF&\an1\fnHYQiHei 75S\fs80\pos(494,603)}坚决 不回去了！
+Dialogue: 1,0:01:00.10,0:01:00.94,Screen,,0,0,0,,{\c&H010001&\bord3\3c&HFFFFFF&\an7\pos(1379,479)}赶紧回去
+Dialogue: 0,0:01:00.10,0:01:00.94,Screen,,0,0,0,,{\blur4\1a&HFF&\an7\pos(1379,479)\3c&H010001&\bord7}赶紧回去
+Dialogue: 0,0:01:26.77,0:01:28.54,Screen,,0,0,0,,{\blur1.2\fad(150,0)\c&H81F0FF&\pos(1544,2)\bord1}彩P跳舞啦！
+Dialogue: 0,0:02:09.94,0:02:11.15,Screen,,0,0,0,,{\an9\fs40\c&H010001&}我就不拐弯抹角了 直接表达我的真实想法\N我是真心想让辉夜 变成人类…
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,「ray (超かぐや姫！ Version)」
+Dialogue: 0,0:00:41.73,0:00:48.35,M_JP,,0,0,0,,{\fad(240,0)\blur3}お別れしたのはもっと　前の事だったような
+Dialogue: 0,0:00:48.35,0:00:56.31,M_JP,,0,0,0,,{\blur3}悲しい光は封じ込めて　踵すり減らしたんだ
+Dialogue: 0,0:00:56.31,0:01:02.90,M_JP,,0,0,0,,{\blur3}君といた時は見えた　今は見えなくなった
+Dialogue: 0,0:01:02.90,0:01:10.15,M_JP,,0,0,0,,{\blur3}透明な彗星をぼんやりと　でもそれだけ探している
+Dialogue: 0,0:01:10.15,0:01:17.35,M_JP,,0,0,0,,{\blur3}しょっちゅう唄を歌ったよ　その時だけのメロディーを
+Dialogue: 0,0:01:17.35,0:01:24.90,M_JP,,0,0,0,,{\blur3}寂しくなんかなかったよ　ちゃんと寂しくなれたから
+Dialogue: 0,0:01:24.90,0:01:32.23,M_JP,,0,0,0,,{\blur3}いつまでどこまでなんて　正常か異常かなんて
+Dialogue: 0,0:01:32.23,0:01:39.48,M_JP,,0,0,0,,{\blur3}考える暇も無い程　歩くのは大変だ
+Dialogue: 0,0:01:39.48,0:01:46.77,M_JP,,0,0,0,,{\blur3}楽しい方がずっといいよ　ごまかして笑っていくよ
+Dialogue: 0,0:01:46.77,0:01:54.48,M_JP,,0,0,0,,{\blur3}大丈夫だ　あの痛みは　忘れたって消えやしない
+Dialogue: 0,0:01:54.48,0:02:05.44,M_JP,,0,0,0,,{\fad(0,240)\blur3}大丈夫だ　この光の始まりには　君がいる
+Dialogue: 1,0:00:41.73,0:00:48.35,M_CH,,0,0,0,,{\fad(240,0)\blur3}道别的场景似乎 已经是很久以前
+Dialogue: 1,0:00:48.35,0:00:56.31,M_CH,,0,0,0,,{\blur3}封存悲伤的光芒 我踏上了无尽的旅途
+Dialogue: 1,0:00:56.31,0:01:02.90,M_CH,,0,0,0,,{\blur3}曾经有你才让我看见 如今却已无处可寻
+Dialogue: 1,0:01:02.90,0:01:10.15,M_CH,,0,0,0,,{\blur3}透明的彗星变得模糊 但我依然追寻着它
+Dialogue: 1,0:01:10.15,0:01:17.35,M_CH,,0,0,0,,{\blur3}我时常也会唱起歌 是刻在记忆里的旋律
+Dialogue: 1,0:01:17.35,0:01:24.90,M_CH,,0,0,0,,{\blur3}我不曾感到寂寞 因为寂寞已经不属于我
+Dialogue: 1,0:01:24.90,0:01:32.23,M_CH,,0,0,0,,{\blur3}不论走到何时何地 就算整个世界已经失常
+Dialogue: 1,0:01:32.23,0:01:39.48,M_CH,,0,0,0,,{\blur3}我已无力思考 我已步履维艰
+Dialogue: 1,0:01:39.48,0:01:46.77,M_CH,,0,0,0,,{\blur3}开心就是最好的解药 微笑化解所有的困难吧
+Dialogue: 1,0:01:46.77,0:01:54.48,M_CH,,0,0,0,,{\blur3}不用害怕 那份痛苦 就算淡忘也会留下伤疤
+Dialogue: 1,0:01:54.48,0:02:05.44,M_CH,,0,0,0,,{\fad(0,240)\blur3}不用害怕 这束光芒的源头 一定有你在
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Staff
+Dialogue: 0,0:00:00.35,0:00:02.81,Staff,,0,0,0,,{\fad(1000,360)\blur4}本字幕由喵萌奶茶屋制作 仅供交流试看之用 请勿用于商业用途\N{\fscx85\fscy85}翻译·时轴：小风yusa　后期：MIR　繁化：超時空風風
