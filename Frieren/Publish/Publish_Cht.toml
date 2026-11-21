@@ -1,5 +1,5 @@
 #Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
-display_name="【喵萌奶茶屋】[葬送的芙莉蓮 / Sousou no Frieren][<ep>][<res>p][繁日雙語][招募翻譯時軸]"
+display_name="【喵萌奶茶屋】★01月新番★[葬送的芙莉蓮 / Sousou no Frieren][<ep>][BDRip][<res>p][繁日雙語]"
 group_name="[喵萌奶茶屋]"
 poster="https://s2.loli.net/2023/10/04/2YE8DWOANHUxJKf.png"
 about="https://github.com/Nekomoekissaten-SUB"
@@ -25,9 +25,9 @@ name="喵萌奶茶屋"
 # site="bangumi"
 # name="喵萌奶茶屋"
 
-# [[intro_template]]
-# site="acgnx_asia"
-# name="174"
+[[intro_template]]
+site="acgnx_asia"
+name="174"
 
 # [[intro_template]]
 # site="acgnx_global"
