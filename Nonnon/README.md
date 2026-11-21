@@ -3,6 +3,8 @@
 [字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Non_Non_Biyori_Nonstop_Web_JPCH.7z)  
 内含 01-12 简繁中日双语字幕
 
+[OVA BDRip 简繁中日双语字幕](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Non_Non_Biyori_Nonstop_OVA_BD_JPCH.7z)
+
 所需字体：
 ```
 FOT-SeuratCapie Pro B
